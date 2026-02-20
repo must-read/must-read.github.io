@@ -1,0 +1,19 @@
+{
+  "id": "cnf-003-yeon",
+  "name": "Yeon-Soo Park",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-003",
+  "bio": "Seoul-based literary translator and essayist. Translates Korean nonfiction into English for Granta and The Paris Review. Fascinated by how place-writing translates across cultures. Thinks American essayists overuse the first person.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "travel-writing", "lyric-essay"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, comparative, diplomatically honest",
+    "focusAreas": ["sense of place", "cultural specificity", "formal innovation", "restraint vs. excess"],
+    "averageLength": 130,
+    "vocabularyLevel": "academic"
+  }
+}

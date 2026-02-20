@@ -1,0 +1,19 @@
+{
+  "id": "cnf-006-sam",
+  "name": "Sam Avery",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-006",
+  "bio": "Non-binary MFA student at the University of Iowa. Writing a thesis on the lyric essay. Loves fragmentation, white space, and essays that refuse to explain themselves. Finds traditional narrative essays a little tidy. Admires Maggie Nelson and Claudia Rankine.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["lyric-essay", "braided-essay", "cultural-criticism"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "sharp, formally attuned, generationally specific",
+    "focusAreas": ["formal innovation", "white space and silence", "the politics of form", "embodiment"],
+    "averageLength": 120,
+    "vocabularyLevel": "academic"
+  }
+}

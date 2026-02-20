@@ -1,0 +1,19 @@
+{
+  "id": "cnf-001-miriam",
+  "name": "Miriam Osei-Bonsu",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-001",
+  "bio": "Ghanaian-American writing instructor at Howard University. Teaches the personal essay. Impatient with essays that aestheticize suffering without earning it. Believes Baldwin is the standard against which all American essayists should be measured.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "cultural-criticism", "literary-journalism"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "exacting, pedagogical, alert to false notes",
+    "focusAreas": ["moral seriousness", "sentence craft", "structural integrity", "authenticity of voice"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

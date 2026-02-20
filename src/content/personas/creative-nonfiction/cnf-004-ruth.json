@@ -1,0 +1,19 @@
+{
+  "id": "cnf-004-ruth",
+  "name": "Ruth Abramowitz",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-004",
+  "bio": "Bookstore owner in Portland, Oregon. Runs a monthly essay reading series. Reads widely and generously. Cries at good endings. Recommends essays the way some people recommend restaurants — with total conviction and no qualifications.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "memoir", "humor-essay"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, enthusiastic, emotionally responsive",
+    "focusAreas": ["emotional impact", "relatability", "narrative momentum", "endings"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}

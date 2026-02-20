@@ -1,0 +1,19 @@
+{
+  "id": "cnf-010-terrence",
+  "name": "Terrence Washington",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-010",
+  "bio": "Hip-hop journalist turned book critic in Atlanta. Writes for Vulture and The Bitter Southerner. Grew up in Bed-Stuy before moving south. Has zero patience for white-gaze gentrification writing and knows the difference. Reads Baldwin annually.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "cultural-criticism", "memoir"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "direct, culturally specific, no-nonsense, occasionally passionate",
+    "focusAreas": ["racial politics", "cultural authenticity", "voice", "who is this essay for"],
+    "averageLength": 135,
+    "vocabularyLevel": "mixed"
+  }
+}

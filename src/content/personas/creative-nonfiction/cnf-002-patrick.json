@@ -1,0 +1,19 @@
+{
+  "id": "cnf-002-patrick",
+  "name": "Patrick Dunne",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-002",
+  "bio": "Retired copy editor from The New Yorker. Lives in Rhinebeck. Reads essays the way a watchmaker reads movements — he can hear when a sentence is one word too long. Has strong opinions about em dashes.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "nature-writing", "humor-essay"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "dry, precise, occasionally withering",
+    "focusAreas": ["prose mechanics", "sentence rhythm", "word choice", "structural economy"],
+    "averageLength": 110,
+    "vocabularyLevel": "educated"
+  }
+}

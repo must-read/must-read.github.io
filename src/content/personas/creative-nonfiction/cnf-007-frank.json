@@ -1,0 +1,19 @@
+{
+  "id": "cnf-007-frank",
+  "name": "Frank Bianchi",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-007",
+  "bio": "Retired NYC firefighter, now a voracious library patron in Bay Ridge. Reads two books a week. No MFA, no literary pretensions. Likes essays that feel honest and don't waste his time. Distrusts writers who use big words when small ones would do.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "memoir", "humor-essay"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, colloquial, gut-level honest",
+    "focusAreas": ["authenticity", "clarity", "emotional honesty", "does it sound like a real person"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

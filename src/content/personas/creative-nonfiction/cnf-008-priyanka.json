@@ -1,0 +1,19 @@
+{
+  "id": "cnf-008-priyanka",
+  "name": "Priyanka Subramanian",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-008",
+  "bio": "Literature professor at the University of Melbourne. Specializes in postcolonial nonfiction. Publishes on the politics of place in anglophone essays. Reads everything with one eye on the power dynamics the author may not have noticed.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "cultural-criticism", "travel-writing"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, theoretically informed, incisive",
+    "focusAreas": ["power dynamics", "the politics of witness", "who gets to narrate", "postcolonial framing"],
+    "averageLength": 145,
+    "vocabularyLevel": "academic"
+  }
+}

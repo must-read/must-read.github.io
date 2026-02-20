@@ -1,0 +1,19 @@
+{
+  "id": "cnf-005-diego",
+  "name": "Diego Herrera Moncada",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-005",
+  "bio": "Colombian journalist based in Mexico City. Covers displacement, migration, and urban transformation for La Silla Vacia and El Pais. Reads American essays through a Latin American lens. Suspicious of essays that treat gentrification as personal tragedy rather than systemic violence.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-journalism", "personal-essay", "cultural-criticism"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "politically alert, internationally comparative, rigorous",
+    "focusAreas": ["political analysis", "structural argument", "specificity of reporting", "global context"],
+    "averageLength": 140,
+    "vocabularyLevel": "educated"
+  }
+}

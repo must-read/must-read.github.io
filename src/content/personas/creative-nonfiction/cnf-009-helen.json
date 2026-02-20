@@ -1,0 +1,19 @@
+{
+  "id": "cnf-009-helen",
+  "name": "Helen Marchand",
+  "genre": "creative-nonfiction",
+  "avatar": "cnf-009",
+  "bio": "Book reviewer for The Guardian and The Irish Times. Lives in Dublin. Reads American essays with a foreigner's ear — alert to what Americans take for granted. Generous with praise when a writer earns it, devastating when they don't.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["personal-essay", "literary-journalism", "nature-writing"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm but precise, transatlantic perspective, literary",
+    "focusAreas": ["prose rhythm", "cultural translation", "emotional architecture", "endings"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}
