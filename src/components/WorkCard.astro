@@ -15,14 +15,12 @@ const genreLabel = genre.split('-').map(w => w.charAt(0).toUpperCase() + w.slice
 const subgenreLabel = subgenre.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 ---
 
-<div class="work-card" style={delay ? `animation-delay: ${delay}ms` : undefined}>
+<a href={`${import.meta.env.BASE_URL}work/${slug}/`} class="work-card" style={delay ? `animation-delay: ${delay}ms` : undefined}>
   <div class="work-card__genre">{genreLabel} / {subgenreLabel}</div>
-  <h3 class="work-card__title">
-    <a href={`${import.meta.env.BASE_URL}work/${slug}/`}>{title}</a>
-  </h3>
+  <h3 class="work-card__title">{title}</h3>
   <div class="work-card__meta">
     <span class="work-card__rating">{rating.toFixed(1)}</span>
     <span class="work-card__time">{readingTimeMinutes} min read</span>
   </div>
   <p class="work-card__synopsis">{synopsis}</p>
-</div>
+</a>

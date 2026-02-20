@@ -85,8 +85,12 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 3. **No AI-isms**: No hedging, lists-as-prose, hollow superlatives, or "delve/tapestry/testament" filler
 4. **Formula adherence**: Every piece must demonstrably reflect all four sources (authorA, authorB, workX, workY) with identifiable passages
 5. **Rating distribution**: Mean ~3.8, std ~0.6 — not uniform praise. Reviews must reference specific text elements
-6. **Genre splattering**: Generate round-robin across subgenres, never completing one genre while others are empty
-7. **Persona consistency**: Each persona's reviews must match their documented preferences, tone, and rating tendency
+6. **Review count per work**: 7-12 reviews (natural spread, NOT always 10). Varies per piece.
+7. **Review length**: Varies naturally. Most reviews are one paragraph. Some have two paragraphs. A few may be very brief (1-2 sentences) but not every work gets a very short review — don't overdo brevity.
+8. **Review dates**: Check system date with `date` command. Reviews dated today or within the past ~7 months. Natural spread across that range — NOT all on the same day.
+9. **Review text**: 50-1000 chars per schema. Most reviews 200-600 chars. A few longer, a few shorter. Natural variation.
+10. **Genre splattering**: Generate round-robin across subgenres, never completing one genre while others are empty
+11. **Persona consistency**: Each persona's reviews must match their documented preferences, tone, and rating tendency
 
 ## Schemas (Quick Reference)
 
