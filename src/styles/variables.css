@@ -4,9 +4,9 @@
 
 :root {
   /* Typography */
-  --font-display: 'Cormorant', 'Garamond', 'Georgia', serif;
-  --font-reading: 'Source Serif 4', 'Georgia', serif;
-  --font-ui: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-display: 'Lexend', system-ui, -apple-system, sans-serif;
+  --font-reading: 'Lexend', system-ui, -apple-system, sans-serif;
+  --font-ui: 'Lexend', system-ui, -apple-system, sans-serif;
 
   /* Reading-specific */
   --font-size-reading: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
@@ -16,10 +16,10 @@
   --paragraph-spacing: 1.5em;
   --reading-font-weight: 400;
 
-  /* Type scale */
-  --font-size-h1: clamp(2rem, 1.5rem + 2vw, 3.25rem);
-  --font-size-h2: clamp(1.5rem, 1.25rem + 1vw, 2rem);
-  --font-size-h3: clamp(1.2rem, 1rem + 0.5vw, 1.5rem);
+  /* Type scale — tight range, Lexend throughout */
+  --font-size-h1: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
+  --font-size-h2: clamp(1.35rem, 1.2rem + 0.5vw, 1.6rem);
+  --font-size-h3: clamp(1.1rem, 1rem + 0.25vw, 1.25rem);
 
   /* Color palette — Warm Parchment */
   --color-bg: #FAF7F2;

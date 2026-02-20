@@ -85,7 +85,7 @@
 .reading-header .byline {
   font-family: var(--font-ui);
   color: var(--color-accent);
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
   font-weight: 600;

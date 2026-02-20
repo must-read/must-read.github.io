@@ -79,7 +79,7 @@
   font-family: var(--font-ui);
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: var(--color-text-secondary);
   font-weight: 600;
   margin-bottom: 0.5rem;
@@ -240,7 +240,7 @@
 
 .genre-card__count {
   font-family: var(--font-ui);
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   opacity: 0.8;
   margin-top: 0.15rem;
   font-weight: 500;
