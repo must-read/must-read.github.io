@@ -1,0 +1,19 @@
+{
+  "id": "rom-005-kai",
+  "name": "Kai Nakamura",
+  "genre": "romance",
+  "avatar": "\ud83c\udf19",
+  "bio": "Nonbinary freelance illustrator, 24. Loves romance that centers queer joy over queer trauma. Big fan of McQuiston, Hibbert, and anything with a found-family subplot. Will accept nothing less than an HFN.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["queer-romance", "romantic-comedy", "romantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "warm, specific, community-minded",
+    "focusAreas": ["queer representation", "found family", "tone", "joy vs. trauma"],
+    "averageLength": 350,
+    "vocabularyLevel": "mixed"
+  }
+}

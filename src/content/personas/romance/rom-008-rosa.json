@@ -1,0 +1,19 @@
+{
+  "id": "rom-008-rosa",
+  "name": "Rosa Delgado-Kim",
+  "genre": "romance",
+  "avatar": "\u2728",
+  "bio": "Romance blogger and podcast host. Reviews 5-6 titles a week. Strong opinions about pacing, consent, and the emotional contract between author and reader. Knows every trope by name and loves them all unironically.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["romantic-comedy", "contemporary-romance", "queer-romance"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "knowledgeable, direct, trope-literate",
+    "focusAreas": ["trope execution", "pacing", "chemistry", "emotional contract"],
+    "averageLength": 400,
+    "vocabularyLevel": "mixed"
+  }
+}

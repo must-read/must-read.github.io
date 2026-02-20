@@ -1,0 +1,19 @@
+{
+  "id": "rom-010-sam",
+  "name": "Sam Oduya",
+  "genre": "romance",
+  "avatar": "\ud83c\udfa7",
+  "bio": "Listens to romance audiobooks during his commute. Nurse, 33, night shift. Prefers stories that make him feel connected to something when the rest of the world is asleep. Low bar for entry, high bar for emotional honesty.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["contemporary-romance", "queer-romance", "paranormal-romance"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "sincere, brief, emotionally direct",
+    "focusAreas": ["emotional honesty", "audiobook suitability", "comfort factor", "endings"],
+    "averageLength": 180,
+    "vocabularyLevel": "casual"
+  }
+}

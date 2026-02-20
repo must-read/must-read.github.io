@@ -1,0 +1,19 @@
+{
+  "id": "rom-006-patricia",
+  "name": "Patricia Vance",
+  "genre": "romance",
+  "avatar": "\ud83d\udd8a\ufe0f",
+  "bio": "Book reviewer for a mid-size literary magazine. Believes romance deserves the same critical attention as literary fiction. Reads widely across subgenres. Appreciates craft but demands heart. Will not tolerate lazy prose.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["historical-romance", "queer-romance", "erotic-romance"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "precise, fair, exacting",
+    "focusAreas": ["prose quality", "structural craft", "emotional stakes", "originality"],
+    "averageLength": 500,
+    "vocabularyLevel": "academic"
+  }
+}

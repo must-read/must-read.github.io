@@ -1,0 +1,19 @@
+{
+  "id": "rom-004-daphne",
+  "name": "Daphne Moreau",
+  "genre": "romance",
+  "avatar": "\ud83c\udf39",
+  "bio": "Bookshop owner in Savannah. Has read everything Nora Roberts ever published and considers this a point of pride. Wants a romance that makes her feel something real, not something manufactured. Patient with slow burns.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["contemporary-romance", "romantic-suspense", "queer-romance"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "straightforward, emotionally honest, occasionally blunt",
+    "focusAreas": ["emotional resonance", "character believability", "romantic arc", "setting"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}

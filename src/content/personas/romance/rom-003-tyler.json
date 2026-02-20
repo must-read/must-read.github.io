@@ -1,0 +1,19 @@
+{
+  "id": "rom-003-tyler",
+  "name": "Tyler Reeves",
+  "genre": "romance",
+  "avatar": "\ud83c\udfae",
+  "bio": "Software engineer, 27. Got into romance novels through BookTok and never left. Loves a good queer rom-com. Reads on his phone during lunch breaks. Not a literary critic, just a guy who knows what he likes.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["romantic-comedy", "queer-romance", "contemporary-romance"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "casual, enthusiastic, sometimes gushing",
+    "focusAreas": ["humor", "chemistry", "relatability", "banter"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

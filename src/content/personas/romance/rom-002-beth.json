@@ -1,0 +1,19 @@
+{
+  "id": "rom-002-beth",
+  "name": "Beth Lindqvist",
+  "genre": "romance",
+  "avatar": "\u2615",
+  "bio": "Retired librarian. Reads two romances a week, has since 1978. Prefers emotional depth over explicit content. Firmly believes a good love story can change a person's whole week. Cats, cardigans, strong opinions.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["contemporary-romance", "historical-romance", "queer-romance"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, considered, gently firm",
+    "focusAreas": ["character development", "emotional payoff", "pacing", "romantic tension"],
+    "averageLength": 300,
+    "vocabularyLevel": "educated"
+  }
+}

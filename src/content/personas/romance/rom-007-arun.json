@@ -1,0 +1,19 @@
+{
+  "id": "rom-007-arun",
+  "name": "Arun Mehta",
+  "genre": "romance",
+  "avatar": "\ud83d\udcd6",
+  "bio": "High school English teacher, 38. Reads romance for escape and emotional sustenance after long days of grading. Has a weakness for time-travel plots and anything with a bookish protagonist. Cries easily.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["contemporary-romance", "queer-romance", "romantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "heartfelt, slightly self-deprecating, emotionally open",
+    "focusAreas": ["emotional impact", "character voice", "romantic moments", "endings"],
+    "averageLength": 250,
+    "vocabularyLevel": "educated"
+  }
+}

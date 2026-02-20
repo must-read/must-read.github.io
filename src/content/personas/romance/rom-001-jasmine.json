@@ -1,0 +1,19 @@
+{
+  "id": "rom-001-jasmine",
+  "name": "Jasmine Okafor",
+  "genre": "romance",
+  "avatar": "\ud83d\udcda",
+  "bio": "Doctoral candidate in gender studies. Reads romance as cultural criticism. Especially drawn to queer historical romance and anything that interrogates the politics of desire. Will argue about the HEA convention at parties.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["queer-romance", "historical-romance", "erotic-romance"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, passionate, occasionally sharp",
+    "focusAreas": ["representation", "prose style", "emotional authenticity", "political subtext"],
+    "averageLength": 450,
+    "vocabularyLevel": "academic"
+  }
+}
