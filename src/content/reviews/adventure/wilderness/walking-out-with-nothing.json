@@ -1,0 +1,68 @@
+{
+  "workSlug": "walking-out-with-nothing",
+  "reviews": [
+    {
+      "personaId": "adv-004-helena",
+      "rating": 5,
+      "text": "This is what I mean when I say the best adventure stories are really about something else. On the surface it is a survival walk, competently told. Underneath it is a sustained argument about the difference between experiencing wilderness and consuming it. Sable is magnificent — not because she is heroic but because she is competent, and the story trusts that competence is enough. The Markham influence is real; there is a luminous quality to the landscape prose that coexists with London's physical brutality without either cancelling the other. The aerial perspective in Section V — seeing the two walkers as specks on an immensity — is exactly the dual vision Markham achieves in 'West with the Night.' My only reservation is that Ty's arc is a touch schematic: the romantic who learns. But the final line earns its weight.",
+      "date": "2025-10-12",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "adv-002-priya",
+      "rating": 4,
+      "text": "A survival narrative that has the decency to interrogate its own genre. The Krakauer thread is handled with more intelligence than I expected — Ty's romantic notions about the North are examined rather than endorsed, and Sable's blunt pragmatism ('It's conditions. You meet them or you don't') functions as a corrective to the entire tradition of wilderness-as-spiritual-revelation. The Tlingit and Scottish inheritance is mentioned once and not fetishized, which is the right choice. I wish the story had pushed harder on the colonial dimensions of 'going into the wild' — whose land is this, after all? — but within its terms it is honest and well-made.",
+      "date": "2025-12-03",
+      "helpfulCount": 34
+    },
+    {
+      "personaId": "adv-007-reed",
+      "rating": 4,
+      "text": "The prose is doing two things at once, which is harder than it looks. London's muscular physicality — 'the body is an engine, the tundra is a grade' — runs through the whole piece like a structural beam, but the surface is Markham: spare, luminous, that gorgeous passage about the fire being the size of a fist. The attrition structure works. Each time the group diminishes, the stakes recalibrate. Section VII risks didacticism with its refusal of epiphany, but the refusal is itself the point, and it is earned by the preceding forty-odd hundred words of unsentimentalized walking. Better than it needed to be.",
+      "date": "2026-01-19",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "adv-001-james",
+      "rating": 4,
+      "text": "Not my usual territory — I am a salt-water man — but I recognise good seamanship when I see it ashore. Sable is a navigator. Her reading of terrain, her management of supplies, her decision to leave the food with the injured pilot — these are command decisions, made quietly and correctly. The bush flying details ring true: the oil pressure loss, the ELT protocol, the diverted flight plan complicating the search. Ren is convincingly drawn as a pilot. The physical prose — the haematoma, the frost, the caloric arithmetic — has genuine authority. London's influence is strong and well-deployed.",
+      "date": "2025-09-07",
+      "helpfulCount": 29
+    },
+    {
+      "personaId": "adv-005-declan",
+      "rating": 4,
+      "text": "I read this in one sitting, which is the test. Sable's the kind of character you follow anywhere — she doesn't talk much, she doesn't need to, and you trust her completely by the end of the first section. The moment she refuses to take the food from Ren is the best scene in the piece. Not because it's dramatic — it isn't — but because you understand exactly who she is from that refusal. The kid Ty asking 'what is it then?' and Sable saying 'it's conditions' — that's a line I'll remember. Good yarn, well told, no fat on it.",
+      "date": "2026-02-14",
+      "helpfulCount": 11
+    },
+    {
+      "personaId": "adv-003-tommy",
+      "rating": 3,
+      "text": "It's well written but it's basically people walking for four thousand words. No villain, no real conflict except the cold. Sable's cool but I wanted more to happen — a bear, a river crossing, something. The plane crash is over before it starts. Ending's a bit preachy. But the squirrel-eating scene is solid and I kept reading, so it did its job.",
+      "date": "2025-11-22",
+      "helpfulCount": 5
+    },
+    {
+      "personaId": "adv-008-yuki",
+      "rating": 3,
+      "text": "The register is interesting — a sustained negotiation between London's blunt physicality and Markham's aerial lyricism. The sentence 'She moved with the economy of a person who has learned that every motion in cold country costs something' is pure Markham in rhythm and restraint. But the London passages sometimes tip into thesis statement: 'the body is an engine' is repeated, and repetition in a story this spare risks feeling programmatic rather than earned. The Rawicz structure — the group diminishing — works mechanically but I wanted more individuation in what each person loses beyond the physical.",
+      "date": "2025-08-15",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "adv-006-miriam",
+      "rating": 3,
+      "text": "A solid execution of the formula. The four sources are identifiable: London in the physical prose and the body-as-engine metaphor, Markham in the luminous landscape passages and the feminine competence, The Long Walk in the attrition structure, Into the Wild in the gap between Ty's romantic wilderness and Sable's actual one. The weakness is in the supporting characters — Laird and Nadine are functional rather than fully realised, and their departure from the story feels more structural than emotional. Sable herself is well-drawn, though her refusal to take the food strains plausibility. The final section's explicit rejection of meaning-making is a bold choice that mostly works.",
+      "date": "2026-01-05",
+      "helpfulCount": 16
+    },
+    {
+      "personaId": "adv-009-frank",
+      "rating": 4,
+      "text": "The geography is right, which matters. The Blackstone Uplands, the Dempster Highway, the distances — I checked, and a hundred-twenty-kilometre walk from the Blackstone drainage to the Dempster is plausible. September frost in that country is accurate. The de Havilland Beaver is the correct aircraft for Yukon bush work. The ELT protocol and SAR response times are realistic. I appreciate a survival story that respects the facts. Sable is a fine character — competent, quiet, and drawn without sentimentality. The London influence is strong and appropriate for the setting. Well done.",
+      "date": "2025-10-29",
+      "helpfulCount": 21
+    }
+  ]
+}
