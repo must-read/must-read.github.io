@@ -1,0 +1,68 @@
+{
+  "workSlug": "palms-and-ashes",
+  "reviews": [
+    {
+      "personaId": "mys-005-desmond",
+      "rating": 4,
+      "text": "The Chandler is unmistakable — those extended similes where the city becomes a moral argument, the jacaranda blossoms 'dropping like a rich woman drops her husband's name.' Fine. What elevates this beyond pastiche is the Mosley graft: Tully's awareness that the genre conventions protecting Marlowe — the knight-errant code, the privilege of detachment — are architecture he can see but cannot inhabit. The line about walking into a room and the room rearranging itself around the fact of his body does more critical work than most academic papers on noir I've read. The Leland scenes falter slightly; the villain is too accommodating, too willing to explain himself. But the ending — Tully sitting in the dark, thinking about Marlowe as a luxury — is genuine structural criticism of the hardboiled form delivered from inside the form itself. That's not easy to do.",
+      "date": "2025-10-14",
+      "helpfulCount": 72
+    },
+    {
+      "personaId": "mys-010-valentina",
+      "rating": 4,
+      "text": "This is doing something genuinely interesting with genre — staging the collision between Chandler's romanticized corruption and Mosley's lived experience of it. The 'geometry' and 'architecture' metaphors for racial structure are doing real analytical work, not just decorating the prose. When Tully says 'the world your son walked into has rules you've never had to learn,' that's the whole thesis in one sentence. I do wish Odessa had more interiority; she functions more as a structural element than a character, which partly reproduces the problem the story is critiquing. But the final meditation on Marlowe as white knight — requiring 'a kingdom that recognizes your armor' — is sharp cultural criticism wearing noir clothing.",
+      "date": "2025-12-03",
+      "helpfulCount": 58
+    },
+    {
+      "personaId": "mys-002-harold",
+      "rating": 3,
+      "text": "The prose is accomplished, I'll grant that — Chandler's cadences are well reproduced, particularly in the descriptive passages where Los Angeles becomes a moral landscape. But the mystery itself is rather thin. We get the setup of a labyrinthine investigation, per The Big Sleep's model, but the labyrinth has only two turns. Warfield owed money, Warfield is dead, and the woman ran. That's a straight line, not a maze. The social commentary is forceful, perhaps too forceful — the narrator keeps telling us what the story already shows. And the Marlowe meditation at the end, while clever, tips into editorializing. Still, the voice is strong and the period detail convincing enough.",
+      "date": "2026-01-17",
+      "helpfulCount": 45
+    },
+    {
+      "personaId": "mys-003-keiko",
+      "rating": 4,
+      "text": "What I find most compelling here is Tully's psychological position — a detective who understands that his professional role and his racial identity create impossible contradictions. He can investigate, but he cannot protect. He can find the truth, but delivering it puts Odessa at risk. That bind is rendered with real emotional intelligence. The moment where he decides what to tell Constance and what to withhold is quietly devastating — it's the moral core of the whole piece, a man choosing between honesty and survival on someone else's behalf.",
+      "date": "2026-02-08",
+      "helpfulCount": 33
+    },
+    {
+      "personaId": "mys-008-grace",
+      "rating": 5,
+      "text": "This one got me. The writing is gorgeous — I kept pausing to reread sentences, which I never do with mysteries. That bit about the palm trees waving hello or goodbye? Stayed with me all day. And Tully is the kind of character I want to spend more time with. Smart, careful, doing the right thing even when nobody's paying him to. The ending is sad but honest, and the way he protects Odessa by leaving her out of the story he tells Constance — that's real heroism, not the showy kind.",
+      "date": "2025-09-22",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "mys-001-siobhan",
+      "rating": 3,
+      "text": "Solid voice work and the period Los Angeles is convincingly rendered, but I kept wanting more investigative substance. The procedural spine is too thin for the literary ambition — Tully visits four locations, asks straightforward questions, and the answer arrives without much resistance. Compare the labyrinthine structure the piece claims to inherit from The Big Sleep; this is closer to a straight line with one detour. The racial politics give it weight the plot mechanics don't quite earn. That said, the decision at the end — what to tell, what to withhold — is handled with real moral seriousness.",
+      "date": "2026-01-05",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "mys-007-tomasz",
+      "rating": 4,
+      "text": "The philosophical heart of this piece is the final paragraph's meditation on Marlowe — the white knight who requires a kingdom that recognizes his armor. That inversion transforms the entire story retroactively. Everything Tully does is shadowed by the knowledge that the genre he operates in was not designed for him. The ethical dilemma at the end — truth as weapon, silence as protection — is genuinely complex, and the story resists resolving it neatly. I admire a narrative that trusts its reader to sit with discomfort rather than offering false resolution.",
+      "date": "2025-11-19",
+      "helpfulCount": 37
+    },
+    {
+      "personaId": "mys-011-noel",
+      "rating": 3,
+      "text": "Good voice, proper noir atmosphere, and I liked the detective well enough. But the mystery wraps up too quickly — felt like the story was more interested in making a point than keeping me guessing. I wasn't up past midnight with this one. The ending's good though. Quiet and heavy.",
+      "date": "2026-02-12",
+      "helpfulCount": 8
+    },
+    {
+      "personaId": "mys-009-alastair",
+      "rating": 4,
+      "text": "What works here is the institutional criticism embedded in the genre machinery. Leland's cleanup operation — making a dead white man in Compton disappear because 'a dead white man in Compton meant questions that were bad for business' — is a precise rendering of how institutional power operates through erasure rather than confrontation. Tully sees the machine clearly and still has to work within it. His final choice to protect Odessa by editing his report to Constance is the act of a man who understands that truth, unmanaged, becomes a weapon wielded by whoever has the most power. That's not cynicism; it's realism.",
+      "date": "2025-08-30",
+      "helpfulCount": 52
+    }
+  ]
+}
