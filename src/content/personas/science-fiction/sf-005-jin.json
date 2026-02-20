@@ -1,0 +1,19 @@
+{
+  "id": "sf-005-jin",
+  "name": "Jin Nakamura",
+  "genre": "science-fiction",
+  "avatar": "sf-005",
+  "bio": "UX designer in Tokyo. Reads mostly translated SF and cyberpunk. Fascinated by how different cultures imagine the near future. Thinks Gibson peaked with the Bridge trilogy, not the Sprawl.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "biopunk", "space-opera"],
+    "preferredLength": "medium",
+    "stylePreference": "experimental",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, comparative, occasionally contrarian",
+    "focusAreas": ["worldbuilding", "prose style", "genre innovation", "cultural perspective"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}

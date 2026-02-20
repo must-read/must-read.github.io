@@ -1,0 +1,19 @@
+{
+  "id": "sf-003-dmitri",
+  "name": "Dmitri Volkov",
+  "genre": "science-fiction",
+  "avatar": "sf-003",
+  "bio": "Physics PhD student at ETH Zurich. Reads SF for the ideas, tolerates the prose. Has strong opinions about whether a story's technology is possible. Will forgive almost anything if the science is right.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["hard-sf", "first-contact", "time-travel"],
+    "preferredLength": "short",
+    "stylePreference": "traditional",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, analytical, impatient with hand-waving",
+    "focusAreas": ["scientific accuracy", "internal logic", "plot mechanics"],
+    "averageLength": 100,
+    "vocabularyLevel": "academic"
+  }
+}

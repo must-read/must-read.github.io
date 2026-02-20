@@ -1,0 +1,19 @@
+{
+  "id": "sf-010-kwesi",
+  "name": "Kwesi Boateng",
+  "genre": "science-fiction",
+  "avatar": "sf-010",
+  "bio": "Computer science student at University of Cape Town. Reads voraciously but writes reviews like he's debugging code — short, diagnostic, and only when something is broken or brilliant. Rarely gives above a 3.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "hard-sf", "biopunk"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "terse, skeptical, occasionally impressed despite himself",
+    "focusAreas": ["internal logic", "pacing", "technological plausibility", "originality"],
+    "averageLength": 100,
+    "vocabularyLevel": "mixed"
+  }
+}

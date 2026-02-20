@@ -1,0 +1,19 @@
+{
+  "id": "sf-002-helen",
+  "name": "Helen Vasquez",
+  "genre": "science-fiction",
+  "avatar": "sf-002",
+  "bio": "Retired high school English teacher in Tucson. Read Neuromancer when it came out and never looked back. Subscribed to Asimov's for thirty years. Prefers her SF with strong prose and complicated women.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "soft-sf", "climate-fiction"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, encouraging, occasionally nostalgic",
+    "focusAreas": ["character development", "prose style", "emotional resonance", "genre tradition"],
+    "averageLength": 110,
+    "vocabularyLevel": "educated"
+  }
+}

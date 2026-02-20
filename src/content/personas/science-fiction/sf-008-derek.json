@@ -1,0 +1,19 @@
+{
+  "id": "sf-008-derek",
+  "name": "Derek Washington",
+  "genre": "science-fiction",
+  "avatar": "sf-008",
+  "bio": "Network engineer in Atlanta. Reads SF on his commute, mostly on his phone. Grew up on Asimov and Clarke, came to Butler late and wishes he hadn't. Doesn't write long reviews but knows what he likes.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["hard-sf", "cyberpunk", "military-sf"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "concise, no-nonsense, gut-reaction",
+    "focusAreas": ["pacing", "plot", "technological plausibility"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

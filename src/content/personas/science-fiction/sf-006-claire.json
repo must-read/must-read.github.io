@@ -1,0 +1,19 @@
+{
+  "id": "sf-006-claire",
+  "name": "Claire Oduya",
+  "genre": "science-fiction",
+  "avatar": "sf-006",
+  "bio": "Tech journalist in Nairobi. Covers the East African startup scene by day, reads speculative fiction by night. Wants SF that understands how technology actually moves through communities, not just through labs.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "climate-fiction", "afrofuturism"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "direct, grounded, occasionally wry",
+    "focusAreas": ["technological realism", "social commentary", "pacing", "setting"],
+    "averageLength": 110,
+    "vocabularyLevel": "casual"
+  }
+}

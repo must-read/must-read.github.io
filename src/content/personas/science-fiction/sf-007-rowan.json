@@ -1,0 +1,19 @@
+{
+  "id": "sf-007-rowan",
+  "name": "Rowan Gallagher",
+  "genre": "science-fiction",
+  "avatar": "sf-007",
+  "bio": "Non-binary librarian in Melbourne. Curates the SF section with missionary zeal. Champions underrepresented voices in genre fiction. Believes the best SF is about who we could become, not what we could build.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["soft-sf", "climate-fiction", "afrofuturism", "cyberpunk"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, community-minded, empathetic",
+    "focusAreas": ["representation", "emotional resonance", "thematic depth", "character development"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

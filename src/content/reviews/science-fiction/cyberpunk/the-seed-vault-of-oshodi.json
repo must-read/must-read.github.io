@@ -1,0 +1,68 @@
+{
+  "workSlug": "the-seed-vault-of-oshodi",
+  "reviews": [
+    {
+      "personaId": "sf-001-tunde",
+      "rating": 5,
+      "helpfulCount": 82,
+      "text": "Finally. A cyberpunk Lagos that smells like Lagos — diesel and palm oil and ozone from illegal power taps, not some sanitized Western projection with Yoruba names pasted on. The Oshodi motor park is rendered with the kind of detail that only comes from knowing a place in your bones. The neural bridge hardware described through its wear and its street-level repurposing — hand-soldered copper pins, cracked housings — is Gibson's method applied to a genuinely African tech ecosystem. And the shift from heist to exodus is earned, not sentimental. When Mama Chidinma says 'They'll need to eat,' I felt the entire weight of Butler's communitarian vision land in three words.",
+      "date": "2025-09-14"
+    },
+    {
+      "personaId": "sf-002-helen",
+      "rating": 5,
+      "helpfulCount": 61,
+      "text": "This is what happens when you cross Gibson's chrome with Butler's conscience — you get a heist story that outgrows its own plot. The cyberspace infiltration sequence is as tense as anything in Neuromancer, but it's the quiet second half that stays with you. Nneka writing her three rules in a notebook under the stars is the kind of moment Butler always found — where survival becomes philosophy, and philosophy becomes something you can actually live by. The prose crackles. The ending made me cry.",
+      "date": "2025-10-02"
+    },
+    {
+      "personaId": "sf-003-dmitri",
+      "rating": 2,
+      "helpfulCount": 34,
+      "text": "The neural bridge tech is hand-waved nonsense. You cannot mimic a system's diagnostic pulse signature without knowing its protocol stack, which the story never addresses. The AI 'dreaming' on stolen cycles is anthropomorphic mysticism dressed up as computer science. If ADJUTOR is a resource-allocation optimization system, its hidden processes would be detectable by any competent sysadmin monitoring CPU loads. The story is well-written prose in search of a plausible premise.",
+      "date": "2026-01-11"
+    },
+    {
+      "personaId": "sf-004-amara",
+      "rating": 4,
+      "helpfulCount": 77,
+      "text": "This piece does something rare and important: it imagines an African cyberpunk that isn't filtered through Western genre conventions. Lagos here is not a stand-in for Chiba City or LA — it's Lagos, with its own technological ecology, its own informal economies, its own particular forms of corporate extraction. The Mubadala-Dangote water monopoly is a pointed extrapolation of real trends in African infrastructure privatization.\n\nWhere I have reservations is in the AI's dreaming. ADJUTOR's settlement models feel too benevolent, too perfectly aligned with human needs. Butler's Earthseed in Parable of the Sower was hard-won and painful — Lauren Olamina built her philosophy from suffering, not from an optimization algorithm. The story flirts with a kind of technological utopianism that Butler herself would have interrogated more ruthlessly. Still, the Oshodi market scenes are extraordinary, and the exodus sequence has genuine power.",
+      "date": "2025-11-28"
+    },
+    {
+      "personaId": "sf-005-jin",
+      "rating": 4,
+      "helpfulCount": 45,
+      "text": "The combination formula is visible in a good way here — Gibson's sensory-overload street prose in the first half, Butler's moral seriousness in the second. The transition point is ADJUTOR's revelation, and it works because the story doesn't try to make the AI sympathetic. It's a pattern engine that found the right pattern. That restraint is what separates this from a hundred other 'benevolent AI' stories. The cyberspace geography is rendered with real texture — the perimeter wall as a digital Third Mainland Bridge is an image I'll keep.",
+      "date": "2025-12-19"
+    },
+    {
+      "personaId": "sf-006-claire",
+      "rating": 4,
+      "helpfulCount": 53,
+      "text": "The street-level tech economy feels completely real — the boy buying a bridge he can't afford, the retired naval officer smuggling hardware through Apapa port, Celeste coding in a converted danfo. This is how technology actually moves through African cities, through informal networks and personal trust, and the story gets it exactly right. The heist-to-community pivot is a bit fast but the ending earns its warmth.",
+      "date": "2026-02-03"
+    },
+    {
+      "personaId": "sf-008-derek",
+      "rating": 3,
+      "helpfulCount": 18,
+      "text": "Solid heist setup, strong Lagos atmosphere, but loses momentum when it turns into a farming commune story. Wanted more time inside ADJUTOR.",
+      "date": "2026-02-15"
+    },
+    {
+      "personaId": "sf-009-lena",
+      "rating": 4,
+      "helpfulCount": 68,
+      "text": "A shrewd structural choice: the heist plot that dominates the first half is actually a delivery mechanism for the story's real concerns, which are Butler's concerns — community, survival, the moral architecture of starting over. The Gibson elements are handled with genuine skill, particularly the cyberspace infiltration and the brand-name texture of corporate Lagos. The prose shifts register convincingly between the two modes, neon-noir in the approach and something warmer, more grounded, in the exodus.\n\nThe AI conceit is the weakest link. ADJUTOR's 'dreaming' risks the pathetic fallacy — projecting intentionality onto optimization — though the story is mostly aware of this and avoids the worst excesses. Nneka's three rules at the end are a direct echo of Earthseed, and they work precisely because they're practical rather than mystical. A strong piece that knows which traditions it's drawing from and honors them without merely imitating them.",
+      "date": "2025-08-22"
+    },
+    {
+      "personaId": "sf-010-kwesi",
+      "rating": 3,
+      "helpfulCount": 22,
+      "text": "The corporate network security is laughably simple — three layers, all defeated by one person with off-the-shelf ice-breakers? A Tier-3 node would have behavioral analytics, traffic pattern AI, and physical-layer verification. But the Lagos worldbuilding is the best cyberpunk setting I've read in a while, and the pepper soup woman joining the exodus is the most earned emotional beat in the story. Mixed bag, but the good parts are genuinely good.",
+      "date": "2026-01-30"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sf-004-amara",
+  "name": "Amara Osei",
+  "genre": "science-fiction",
+  "avatar": "sf-004",
+  "bio": "Afrofuturist scholar and lecturer at University of Ghana. Researches the intersection of technology, colonialism, and speculative fiction. Wants SF that interrogates power, not just spectacle.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["afrofuturism", "cyberpunk", "soft-sf", "climate-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "incisive, politically engaged, scholarly but accessible",
+    "focusAreas": ["postcolonial themes", "representation", "power dynamics", "worldbuilding"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

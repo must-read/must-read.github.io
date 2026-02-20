@@ -1,0 +1,19 @@
+{
+  "id": "sf-009-lena",
+  "name": "Lena Bergstrom",
+  "genre": "science-fiction",
+  "avatar": "sf-009",
+  "bio": "Freelance genre reviewer for Locus and Strange Horizons. Based in Stockholm. Has read everything and remembers everything. Holds new work to the standard of the best in the field. Kind but exacting.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "soft-sf", "first-contact", "climate-fiction"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "measured, authoritative, occasionally cutting",
+    "focusAreas": ["prose craft", "genre innovation", "structural integrity", "formula adherence"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

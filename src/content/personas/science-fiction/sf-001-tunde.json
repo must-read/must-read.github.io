@@ -1,0 +1,19 @@
+{
+  "id": "sf-001-tunde",
+  "name": "Tunde Adeyemi",
+  "genre": "science-fiction",
+  "avatar": "sf-001",
+  "bio": "Software architect in Lagos. Devours Afrofuturist fiction and hard SF in equal measure. Wants African cities in SF that feel lived-in, not exotic. Thinks Nnedi Okofor and Liu Cixin are the two most important SF writers alive.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["cyberpunk", "afrofuturism", "hard-sf"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "precise, quietly passionate, detail-oriented",
+    "focusAreas": ["worldbuilding", "cultural authenticity", "technological plausibility", "prose craft"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}
