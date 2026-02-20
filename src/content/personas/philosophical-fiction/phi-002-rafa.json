@@ -1,0 +1,19 @@
+{
+  "id": "phi-002-rafa",
+  "name": "Rafa Oliveira",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-002",
+  "bio": "Brazilian translator and literary critic based in Lisbon. Reads Lispector in the original Portuguese and resents most attempts to imitate her. Has a weakness for fiction that makes bureaucracy feel cosmic.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "magical-philosophical"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "sharp, comparative, occasionally generous when surprised",
+    "focusAreas": ["literary influence", "prose style", "authenticity of voice"],
+    "averageLength": 450,
+    "vocabularyLevel": "academic"
+  }
+}

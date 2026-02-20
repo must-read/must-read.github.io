@@ -1,0 +1,19 @@
+{
+  "id": "phi-010-oliver",
+  "name": "Oliver Fenn",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-010",
+  "bio": "Graduate student in continental philosophy at the New School. Believes fiction should do what philosophy cannot. Holds strong opinions about the misuse of the word 'Kafkaesque.' Often disappointed.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "phenomenological"],
+    "preferredLength": "long",
+    "stylePreference": "experimental",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "demanding, theoretical, occasionally grudgingly impressed",
+    "focusAreas": ["philosophical rigor", "phenomenological accuracy", "formal innovation"],
+    "averageLength": 500,
+    "vocabularyLevel": "academic"
+  }
+}

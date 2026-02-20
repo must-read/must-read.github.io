@@ -1,0 +1,19 @@
+{
+  "id": "phi-003-devin",
+  "name": "Devin Park",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-003",
+  "bio": "Software engineer in Seattle who reads philosophical fiction on the bus. Comes for the ideas, stays for the weird. Likes stories that make familiar things strange. Low patience for pretension.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "absurdist", "dystopian-philosophical"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "casual, direct, occasionally enthusiastic",
+    "focusAreas": ["concept", "readability", "emotional impact"],
+    "averageLength": 250,
+    "vocabularyLevel": "casual"
+  }
+}

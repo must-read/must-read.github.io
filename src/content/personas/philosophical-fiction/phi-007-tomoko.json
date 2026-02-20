@@ -1,0 +1,19 @@
+{
+  "id": "phi-007-tomoko",
+  "name": "Tomoko Arai",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-007",
+  "bio": "Gallery curator in Tokyo with a side interest in fiction that approaches the limits of representation. Reads Kafka in German and Lispector in English translation. Values precision over ambition.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "minimalist-philosophical"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "concise, aesthetic, occasionally cold",
+    "focusAreas": ["form", "prose texture", "restraint"],
+    "averageLength": 280,
+    "vocabularyLevel": "educated"
+  }
+}

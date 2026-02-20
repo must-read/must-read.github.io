@@ -1,0 +1,68 @@
+{
+  "workSlug": "the-department-of-nascent-sorrows",
+  "reviews": [
+    {
+      "personaId": "phi-001-eleanor",
+      "rating": 4,
+      "text": "The central conceit is sound: a bureaucracy that exists to classify experiences that classification destroys. What elevates it beyond conceit is the prose shift at the midpoint, where the Kafka register — precise, procedural, drily comic — gives way to something genuinely Lispectorian. The passage about the gap, the substrate of consciousness prior to quality, is the best writing in the piece. The water-in-a-net image earns its place. Where it falters slightly is the ending: the final long sentence attempts to hold both modes simultaneously, and while the ambition is right, the execution runs a few clauses past its center of gravity. But the Window 8 metaphor — a sealed opening whose outline persists — is one I expect to keep thinking about.",
+      "date": "2025-10-14",
+      "helpfulCount": 52
+    },
+    {
+      "personaId": "phi-002-rafa",
+      "rating": 3,
+      "text": "I'll give the writer this: the Kafka half is very good. The numbered windows out of order, the clerk's blue-stained fingers, the elevator undergoing reclassification — these are real Kafka moves, not the cartoon Kafka of pop culture. The bureaucratic voice is earned. But the Lispector half is where I have reservations. Lispector's interior dissolution works because it is embodied — G.H. confronts a cockroach, a physical thing, and through that physical encounter the self comes apart. Here the dissolution is triggered by a blank page, which is a more literary and less visceral catalyst. The prose strains toward Lispector's register without quite reaching her danger. Still, the overall architecture is intelligent, and the final image of the painted-over window doing real philosophical work lifts it above most Kafka pastiches I've read.",
+      "date": "2025-08-21",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "phi-003-devin",
+      "rating": 4,
+      "text": "This one got in my head. Read it on the bus, missed my stop. The government office stuff is darkly funny — Window 5 just being absent, the clerk eating a sandwich — but then it shifts into this thing about consciousness that I wasn't expecting and couldn't shake. The bit about every word being a border around something wordless hit different. Not sure I fully tracked all the philosophy but I didn't need to. The feeling landed.",
+      "date": "2026-01-09",
+      "helpfulCount": 12
+    },
+    {
+      "personaId": "phi-004-ingrid",
+      "rating": 3,
+      "text": "The fusion of Kafka and Lispector is a genuinely interesting formal problem, and this story addresses it with more sophistication than I expected. The Kafka elements are well-handled — the matter-of-fact tone, the institutional architecture that disorients by seeming perfectly rational, the guilt that precedes any accusation. The subsection (d) refrain works. But I question whether the Lispector thread achieves its own terms. In The Passion According to G.H., the encounter with the void is total — the narrator does not return to ordinary life with a cup of tea. She is broken open. Here, Sonja goes home, makes tea, waits for Wednesday. The domestication of the void is either the story's most Kafkaesque move or its greatest failure. I cannot quite decide.",
+      "date": "2025-09-03",
+      "helpfulCount": 37
+    },
+    {
+      "personaId": "phi-005-james",
+      "rating": 5,
+      "text": "I have read a great deal of Kafka-influenced fiction and most of it mistakes the surface for the engine. This story understands that Kafka's power lies not in the absurdity of the situation but in the absolute seriousness with which the characters treat it. Sonja never laughs at the Department. She never winks at the reader. She goes because one goes, and that plainness is devastating. The pivot to Lispector's interiority is handled through the form itself — the blank page as confrontation — which is elegant. The woman who advises describing the event from its borders is a perfect minor character. And the code NCS-0, a classification for the unclassifiable, is the kind of detail that makes me trust a writer completely.",
+      "date": "2025-12-28",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "phi-006-helen",
+      "rating": 4,
+      "text": "What a strange and lovely story. I've read so many pieces that wave Kafka's name around like a flag, but this one actually captures his tone — that deadpan quality where terrible things are described the way you'd describe a bus timetable. Sonja is a wonderful character. Her acceptance of the letter, her careful pen choice, her patience in the queue. She is so real to me. The philosophical middle section is harder going, but the image of water carried in a net stayed with me, and the painted-over window is genuinely haunting.",
+      "date": "2026-02-01",
+      "helpfulCount": 9
+    },
+    {
+      "personaId": "phi-007-tomoko",
+      "rating": 4,
+      "text": "Formally precise. The shift from Kafka's register to Lispector's is managed through the form — the bureaucratic document becomes the site of philosophical rupture. This is the right structural decision. The prose is controlled even in the dissolution passages, which is more Kafka than Lispector but creates an interesting friction: a mind trying to describe its own unraveling in the language of a government form. Window 8 as a sealed-over aperture is the governing image and it holds. The final sentence could be trimmed by two clauses.",
+      "date": "2025-11-17",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "phi-009-ada",
+      "rating": 4,
+      "text": "This story understands something about consciousness that most fiction doesn't even attempt: that there is a layer of experience beneath the self that the self cannot narrate without falsifying. Sonja's encounter with the gap — the moment of pure perception before her mind furnishes the ceiling with meaning — reads like a clinical description of depersonalization, but rendered with tenderness rather than pathology. The Department is the perfect antagonist for this experience: not hostile, just procedural, converting the ineffable into a file number. I found the older woman's advice about describing the borders of an experience genuinely moving. That is how my patients talk about trauma. You describe the edges because looking directly at the center would destroy you.",
+      "date": "2025-07-30",
+      "helpfulCount": 45
+    },
+    {
+      "personaId": "phi-010-oliver",
+      "rating": 3,
+      "text": "The phenomenological content here is more rigorous than I expected from a literary exercise. The description of pre-reflective consciousness — perception before the mind sorts it into qualities — maps onto Merleau-Ponty's notion of the pre-objective, and the story's central tension (that institutional language cannot accommodate this layer of experience) is a genuine philosophical problem, not a decorative one. My issue is that the story resolves too neatly. Sonja fills out the form. She goes home. The system absorbs her. Kafka's protagonists are also absorbed, but K. in The Trial fights — absurdly, uselessly, but he fights. Sonja's acquiescence makes the story more Lispectorian than Kafkaesque in its final movement, which may be intentional but leaves the external machinery feeling like backdrop rather than co-protagonist.",
+      "date": "2026-02-12",
+      "helpfulCount": 23
+    }
+  ]
+}

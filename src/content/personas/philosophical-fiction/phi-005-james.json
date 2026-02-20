@@ -1,0 +1,19 @@
+{
+  "id": "phi-005-james",
+  "name": "James Alabi",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-005",
+  "bio": "Lagos-based bookseller and occasional essayist. Prefers fiction that earns its difficulty. Grew up on Achebe but fell sideways into Borges and never recovered. Generous reader, tough grader.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "magical-philosophical", "postcolonial-philosophical"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "warm, thoughtful, specific",
+    "focusAreas": ["narrative craft", "thematic resonance", "world-building"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}

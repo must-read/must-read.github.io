@@ -1,0 +1,19 @@
+{
+  "id": "phi-004-ingrid",
+  "name": "Ingrid Svensson",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-004",
+  "bio": "Doctoral student in comparative literature at Uppsala. Writing her thesis on Kafka's afterlife in contemporary fiction. Reads everything Kafkaesque with a mixture of hope and preemptive disappointment.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "absurdist"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "rigorous, exacting, fair but unsparing",
+    "focusAreas": ["literary lineage", "formal innovation", "source fidelity"],
+    "averageLength": 550,
+    "vocabularyLevel": "academic"
+  }
+}

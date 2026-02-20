@@ -1,0 +1,19 @@
+{
+  "id": "phi-009-ada",
+  "name": "Ada Kowalczyk",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-009",
+  "bio": "Polish-born psychotherapist in Berlin who reads philosophical fiction to understand how people narrate their own strangeness. Interested in consciousness, not cleverness. Cries easily at good prose.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "psychological-philosophical"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "empathetic, probing, personal",
+    "focusAreas": ["psychological truth", "interiority", "emotional resonance"],
+    "averageLength": 380,
+    "vocabularyLevel": "educated"
+  }
+}

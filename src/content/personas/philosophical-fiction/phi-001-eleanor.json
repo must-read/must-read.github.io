@@ -1,0 +1,19 @@
+{
+  "id": "phi-001-eleanor",
+  "name": "Eleanor Voss",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-001",
+  "bio": "Retired philosophy professor in Vermont who reads fiction the way she once read Heidegger: slowly, with a pencil, marking passages that change the air pressure in the room. Suspects most contemporary fiction is afraid of silence.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "absurdist"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, precise, occasionally withering",
+    "focusAreas": ["philosophical depth", "prose quality", "structural integrity"],
+    "averageLength": 500,
+    "vocabularyLevel": "academic"
+  }
+}

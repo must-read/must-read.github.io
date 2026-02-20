@@ -1,0 +1,19 @@
+{
+  "id": "phi-006-helen",
+  "name": "Helen Trask",
+  "genre": "philosophical-fiction",
+  "avatar": "phi-006",
+  "bio": "Retired librarian in Edinburgh who has read more Kafka imitators than anyone should. Appreciates when writers try something genuinely new with the tradition. Makes tea before every review.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["kafkaesque", "existentialist", "absurdist"],
+    "preferredLength": "short",
+    "stylePreference": "traditional",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "gentle, encouraging, perceptive",
+    "focusAreas": ["character", "atmosphere", "emotional truth"],
+    "averageLength": 300,
+    "vocabularyLevel": "educated"
+  }
+}
