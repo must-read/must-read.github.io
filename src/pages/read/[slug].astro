@@ -1,0 +1,172 @@
+---
+import ReadingLayout from '@/layouts/ReadingLayout.astro';
+import { getCollection } from 'astro:content';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const works = await getCollection('works');
+  return works.map(work => ({
+    params: { slug: work.data.slug },
+    props: { work },
+  }));
+}
+
+const { work } = Astro.props;
+const { Content } = await render(work);
+const detailUrl = `${import.meta.env.BASE_URL}work/${work.data.slug}/`;
+---
+
+<ReadingLayout
+  title={work.data.title}
+  genre={work.data.genre}
+  subgenre={work.data.subgenre}
+  authorA={work.data.authorA}
+  authorB={work.data.authorB}
+  workX={work.data.workX}
+  workY={work.data.workY}
+  publishedDate={work.data.publishedDate}
+  detailSlug={work.data.slug}
+>
+  <Content />
+
+  <div slot="after-content" class="reading-footer">
+    <div class="reading-footer__nav">
+      <a href={detailUrl} class="reading-footer__back">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+        Back to details &amp; reviews
+      </a>
+    </div>
+
+    <div class="formula-card">
+      <h3>The Formula</h3>
+      <div class="formula-card__grid">
+        <div class="formula-card__item">
+          <span class="formula-card__label">Author A</span>
+          <span class="formula-card__value">{work.data.authorA}</span>
+          <ul>
+            {work.data.combination.fromAuthorA.map((item: string) => <li>{item}</li>)}
+          </ul>
+        </div>
+        <div class="formula-card__item">
+          <span class="formula-card__label">Author B</span>
+          <span class="formula-card__value">{work.data.authorB}</span>
+          <ul>
+            {work.data.combination.fromAuthorB.map((item: string) => <li>{item}</li>)}
+          </ul>
+        </div>
+        <div class="formula-card__item">
+          <span class="formula-card__label">Work X</span>
+          <span class="formula-card__value">{work.data.workX}</span>
+          <ul>
+            {work.data.combination.fromWorkX.map((item: string) => <li>{item}</li>)}
+          </ul>
+        </div>
+        <div class="formula-card__item">
+          <span class="formula-card__label">Work Y</span>
+          <span class="formula-card__value">{work.data.workY}</span>
+          <ul>
+            {work.data.combination.fromWorkY.map((item: string) => <li>{item}</li>)}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</ReadingLayout>
+
+<style>
+  /* ============================================
+     Reading Page Footer
+     ============================================ */
+  .reading-footer {
+    max-width: var(--max-width-reading);
+    margin: 0 auto;
+    padding: var(--space-2xl) var(--space-lg) var(--space-xl);
+  }
+
+  .reading-footer__nav {
+    margin-bottom: var(--space-2xl);
+    text-align: center;
+  }
+
+  .reading-footer__back {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    transition: color var(--duration-fast) var(--ease-out);
+  }
+
+  .reading-footer__back:hover {
+    color: var(--color-accent);
+  }
+
+  /* ============================================
+     Formula Card (reused styling)
+     ============================================ */
+  .formula-card {
+    padding: var(--space-xl);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+  }
+
+  .formula-card h3 {
+    font-family: var(--font-display);
+    margin-bottom: var(--space-lg);
+    font-size: 1.3rem;
+  }
+
+  .formula-card__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+
+  @media (min-width: 640px) {
+    .formula-card__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .formula-card__item {
+    padding: var(--space-md);
+    background: var(--color-surface-raised);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .formula-card__label {
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-accent);
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+
+  .formula-card__value {
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--color-text);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
+  .formula-card__item ul {
+    padding-left: 1.25rem;
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+  }
+
+  .formula-card__item li {
+    margin-bottom: 0.2rem;
+  }
+</style>

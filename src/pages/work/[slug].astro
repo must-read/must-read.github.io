@@ -1,9 +1,8 @@
 ---
-import ReadingLayout from '@/layouts/ReadingLayout.astro';
+import BaseLayout from '@/layouts/BaseLayout.astro';
 import ReviewCard from '@/components/ReviewCard.astro';
 import StarRating from '@/components/StarRating.astro';
 import { getCollection } from 'astro:content';
-import { render } from 'astro:content';
 
 export async function getStaticPaths() {
   const works = await getCollection('works');
@@ -14,7 +13,6 @@ export async function getStaticPaths() {
 }
 
 const { work } = Astro.props;
-const { Content } = await render(work);
 
 const allReviews = await getCollection('reviews');
 const workReviews = allReviews.find(r => r.data.workSlug === work.data.slug);
@@ -24,91 +22,292 @@ const personaMap = new Map<string, string>();
 allPersonas.forEach(p => {
   personaMap.set(p.data.id, p.data.name);
 });
+
+const genreLabel = work.data.genre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const subgenreLabel = work.data.subgenre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const formattedDate = work.data.publishedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+const isoDate = work.data.publishedDate.toISOString().split('T')[0];
+const readUrl = `${import.meta.env.BASE_URL}read/${work.data.slug}/`;
 ---
 
-<ReadingLayout
-  title={work.data.title}
-  genre={work.data.genre}
-  subgenre={work.data.subgenre}
-  authorA={work.data.authorA}
-  authorB={work.data.authorB}
-  workX={work.data.workX}
-  workY={work.data.workY}
-  publishedDate={work.data.publishedDate}
->
-  <Content />
+<BaseLayout title={work.data.title}>
+  <div class="detail-page">
+    <!-- Header Zone -->
+    <header class="detail-header animate-fade-up">
+      <p class="detail-header__genre">{genreLabel} / {subgenreLabel}</p>
+      <h1 class="detail-header__title">{work.data.title}</h1>
+      <p class="detail-header__formula">Combining {work.data.authorA} + {work.data.authorB} | {work.data.workX} + {work.data.workY}</p>
+      <div class="detail-header__stats">
+        <StarRating rating={work.data.rating} count={work.data.ratingCount} size="md" />
+        <span class="detail-header__stat-sep" aria-hidden="true"></span>
+        <span class="detail-header__stat">{work.data.readingTimeMinutes} min read</span>
+        <span class="detail-header__stat-sep" aria-hidden="true"></span>
+        <span class="detail-header__stat">{work.data.wordCount.toLocaleString()} words</span>
+        <span class="detail-header__stat-sep" aria-hidden="true"></span>
+        <time class="detail-header__stat" datetime={isoDate}>{formattedDate}</time>
+      </div>
+      <a href={readUrl} class="detail-cta">
+        Start Reading &middot; {work.data.readingTimeMinutes} min
+        <span aria-hidden="true">&rarr;</span>
+      </a>
+    </header>
 
-  <div slot="reviews">
-    <h2>Reader Reviews</h2>
-    <hr class="reviews-divider" />
-    <div class="reviews-summary">
-      <StarRating rating={work.data.rating} count={work.data.ratingCount} size="lg" />
-    </div>
+    <!-- Synopsis -->
+    <section class="detail-synopsis animate-fade-up animate-delay-1" aria-label="Synopsis">
+      <h2 class="detail-section-title">Synopsis</h2>
+      <hr class="detail-divider" />
+      <p class="detail-synopsis__text">{work.data.synopsis}</p>
+    </section>
 
-    {workReviews && [...workReviews.data.reviews].sort((a, b) => b.helpfulCount - a.helpfulCount).map(review => (
-      <ReviewCard
-        personaName={personaMap.get(review.personaId) || review.personaId}
-        personaId={review.personaId}
-        rating={review.rating}
-        text={review.text}
-        date={review.date.toISOString().split('T')[0]}
-        helpfulCount={review.helpfulCount}
-      />
-    ))}
+    <!-- Formula Summary -->
+    <section class="detail-formula-summary animate-fade-up animate-delay-2" aria-label="Formula summary">
+      <p class="detail-formula-summary__text">{work.data.formulaSummary}</p>
+    </section>
 
-    <div class="formula-card">
-      <h3>The Formula</h3>
-      <div class="formula-card__grid">
-        <div class="formula-card__item">
-          <span class="formula-card__label">Author A</span>
-          <span class="formula-card__value">{work.data.authorA}</span>
-          <ul>
-            {work.data.combination.fromAuthorA.map(item => <li>{item}</li>)}
-          </ul>
-        </div>
-        <div class="formula-card__item">
-          <span class="formula-card__label">Author B</span>
-          <span class="formula-card__value">{work.data.authorB}</span>
-          <ul>
-            {work.data.combination.fromAuthorB.map(item => <li>{item}</li>)}
-          </ul>
-        </div>
-        <div class="formula-card__item">
-          <span class="formula-card__label">Work X</span>
-          <span class="formula-card__value">{work.data.workX}</span>
-          <ul>
-            {work.data.combination.fromWorkX.map(item => <li>{item}</li>)}
-          </ul>
-        </div>
-        <div class="formula-card__item">
-          <span class="formula-card__label">Work Y</span>
-          <span class="formula-card__value">{work.data.workY}</span>
-          <ul>
-            {work.data.combination.fromWorkY.map(item => <li>{item}</li>)}
-          </ul>
+    <!-- The Formula Card -->
+    <section class="detail-formula animate-fade-up animate-delay-2" aria-label="The formula">
+      <h2 class="detail-section-title">The Formula</h2>
+      <hr class="detail-divider" />
+      <div class="formula-card">
+        <div class="formula-card__grid">
+          <div class="formula-card__item">
+            <span class="formula-card__label">Author A</span>
+            <span class="formula-card__value">{work.data.authorA}</span>
+            <ul>
+              {work.data.combination.fromAuthorA.map((item: string) => <li>{item}</li>)}
+            </ul>
+          </div>
+          <div class="formula-card__item">
+            <span class="formula-card__label">Author B</span>
+            <span class="formula-card__value">{work.data.authorB}</span>
+            <ul>
+              {work.data.combination.fromAuthorB.map((item: string) => <li>{item}</li>)}
+            </ul>
+          </div>
+          <div class="formula-card__item">
+            <span class="formula-card__label">Work X</span>
+            <span class="formula-card__value">{work.data.workX}</span>
+            <ul>
+              {work.data.combination.fromWorkX.map((item: string) => <li>{item}</li>)}
+            </ul>
+          </div>
+          <div class="formula-card__item">
+            <span class="formula-card__label">Work Y</span>
+            <span class="formula-card__value">{work.data.workY}</span>
+            <ul>
+              {work.data.combination.fromWorkY.map((item: string) => <li>{item}</li>)}
+            </ul>
+          </div>
         </div>
       </div>
+    </section>
+
+    <!-- Reviews Section -->
+    <section class="detail-reviews animate-fade-up animate-delay-3" aria-label="Reader reviews">
+      <h2 class="detail-section-title">Reader Reviews</h2>
+      <hr class="detail-divider" />
+      <div class="detail-reviews__summary">
+        <StarRating rating={work.data.rating} count={work.data.ratingCount} size="lg" />
+      </div>
+
+      {workReviews && [...workReviews.data.reviews].sort((a, b) => b.helpfulCount - a.helpfulCount).map(review => (
+        <ReviewCard
+          personaName={personaMap.get(review.personaId) || review.personaId}
+          personaId={review.personaId}
+          rating={review.rating}
+          text={review.text}
+          date={review.date.toISOString().split('T')[0]}
+          helpfulCount={review.helpfulCount}
+        />
+      ))}
+    </section>
+
+    <!-- Bottom CTA -->
+    <div class="detail-bottom-cta animate-fade-up">
+      <a href={readUrl} class="detail-cta detail-cta--lg">
+        Start Reading &middot; {work.data.readingTimeMinutes} min
+        <span aria-hidden="true">&rarr;</span>
+      </a>
     </div>
   </div>
-</ReadingLayout>
+
+  <!-- Sticky mobile CTA bar -->
+  <div class="detail-sticky-bar" aria-hidden="true">
+    <a href={readUrl} class="detail-sticky-bar__btn">
+      Start Reading &middot; {work.data.readingTimeMinutes} min
+    </a>
+  </div>
+</BaseLayout>
 
 <style>
-  .reviews-summary {
+  /* ============================================
+     Detail Page Container
+     ============================================ */
+  .detail-page {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 var(--space-lg);
+    padding-bottom: var(--space-3xl);
+  }
+
+  /* ============================================
+     Header Zone
+     ============================================ */
+  .detail-header {
+    text-align: center;
+    padding: var(--space-3xl) 0 var(--space-xl);
+  }
+
+  .detail-header__genre {
+    font-family: var(--font-ui);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .detail-header__title {
+    font-family: var(--font-display);
+    font-size: clamp(2.25rem, 1.75rem + 2.5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: var(--space-md);
+  }
+
+  .detail-header__formula {
+    font-family: var(--font-reading);
+    color: var(--color-text-secondary);
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: var(--space-lg);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .detail-header__stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
     margin-bottom: var(--space-xl);
   }
 
+  .detail-header__stat-sep {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--color-text-secondary);
+    opacity: 0.5;
+    flex-shrink: 0;
+  }
+
+  .detail-header__stat {
+    white-space: nowrap;
+  }
+
+  /* ============================================
+     CTA Button
+     ============================================ */
+  .detail-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.75rem;
+    background: var(--color-accent);
+    color: #fff;
+    font-family: var(--font-ui);
+    font-weight: 600;
+    font-size: 0.95rem;
+    border-radius: var(--radius-pill);
+    transition: all var(--duration-normal) var(--ease-out);
+    text-decoration: none;
+    box-shadow: var(--shadow-md);
+  }
+
+  .detail-cta:hover {
+    background: var(--color-accent-hover);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-lg), var(--shadow-glow);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .detail-cta--lg {
+    padding: 1rem 2.25rem;
+    font-size: 1.05rem;
+  }
+
+  /* ============================================
+     Section Titles & Divider
+     ============================================ */
+  .detail-section-title {
+    font-family: var(--font-display);
+    font-size: var(--font-size-h2);
+    font-weight: 600;
+    margin-bottom: var(--space-sm);
+  }
+
+  .detail-divider {
+    width: 40px;
+    height: 2px;
+    background: var(--color-accent);
+    border: none;
+    margin-bottom: var(--space-xl);
+  }
+
+  /* ============================================
+     Synopsis
+     ============================================ */
+  .detail-synopsis {
+    padding: var(--space-2xl) 0 0;
+  }
+
+  .detail-synopsis__text {
+    font-family: var(--font-reading);
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    max-width: 65ch;
+  }
+
+  /* ============================================
+     Formula Summary
+     ============================================ */
+  .detail-formula-summary {
+    padding: var(--space-xl) 0 0;
+  }
+
+  .detail-formula-summary__text {
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    line-height: 1.65;
+    color: var(--color-text-secondary);
+    font-style: italic;
+    max-width: 65ch;
+    border-left: 3px solid var(--color-accent);
+    padding-left: var(--space-lg);
+  }
+
+  /* ============================================
+     Formula Card
+     ============================================ */
+  .detail-formula {
+    padding: var(--space-2xl) 0 0;
+  }
+
   .formula-card {
-    margin-top: var(--space-2xl);
     padding: var(--space-xl);
     background: var(--color-surface);
     border: 1px solid var(--color-border);
     border-radius: var(--radius-lg);
-  }
-
-  .formula-card h3 {
-    font-family: var(--font-display);
-    margin-bottom: var(--space-lg);
-    font-size: 1.3rem;
   }
 
   .formula-card__grid {
@@ -160,5 +359,82 @@ allPersonas.forEach(p => {
 
   .formula-card__item li {
     margin-bottom: 0.2rem;
+  }
+
+  /* ============================================
+     Reviews
+     ============================================ */
+  .detail-reviews {
+    padding: var(--space-2xl) 0 0;
+  }
+
+  .detail-reviews__summary {
+    margin-bottom: var(--space-xl);
+  }
+
+  /* ============================================
+     Bottom CTA
+     ============================================ */
+  .detail-bottom-cta {
+    text-align: center;
+    padding: var(--space-2xl) 0 var(--space-lg);
+  }
+
+  /* ============================================
+     Sticky Mobile CTA Bar
+     ============================================ */
+  .detail-sticky-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 90;
+    padding: var(--space-md) var(--space-lg);
+    background: color-mix(in srgb, var(--color-bg) 90%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-top: 1px solid color-mix(in srgb, var(--color-border) 50%, transparent);
+    display: flex;
+    justify-content: center;
+  }
+
+  .detail-sticky-bar__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    max-width: 400px;
+    padding: 0.85rem 1.5rem;
+    background: var(--color-accent);
+    color: #fff;
+    font-family: var(--font-ui);
+    font-weight: 600;
+    font-size: 0.95rem;
+    border-radius: var(--radius-pill);
+    transition: all var(--duration-normal) var(--ease-out);
+    text-decoration: none;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .detail-sticky-bar__btn:hover {
+    background: var(--color-accent-hover);
+    box-shadow: var(--shadow-lg), var(--shadow-glow);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  /* Show sticky bar only on smaller screens, hide on desktop */
+  @media (min-width: 768px) {
+    .detail-sticky-bar {
+      display: none;
+    }
+  }
+
+  /* Add bottom padding on mobile to account for sticky bar */
+  @media (max-width: 767px) {
+    .detail-page {
+      padding-bottom: calc(var(--space-3xl) + 80px);
+    }
   }
 </style>

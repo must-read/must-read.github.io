@@ -12,13 +12,15 @@ interface Props {
   workX: string;
   workY: string;
   publishedDate: Date;
+  detailSlug?: string;
 }
 
-const { title, genre, subgenre, authorA, authorB, workX, workY, publishedDate } = Astro.props;
+const { title, genre, subgenre, authorA, authorB, workX, workY, publishedDate, detailSlug } = Astro.props;
 const formattedDate = publishedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
 const isoDate = publishedDate.toISOString().split('T')[0];
 const genreLabel = genre.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 const subgenreLabel = subgenre.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const hasReviews = Astro.slots.has('reviews');
 ---
 
 <BaseLayout title={title}>
@@ -35,11 +37,15 @@ const subgenreLabel = subgenre.split('-').map(w => w.charAt(0).toUpperCase() + w
     <section class="reading-content">
       <slot />
     </section>
+
+    <slot name="after-content" />
   </article>
 
-  <aside aria-label="Reviews and ratings" class="reviews-section">
-    <slot name="reviews" />
-  </aside>
+  {hasReviews && (
+    <aside aria-label="Reviews and ratings" class="reviews-section">
+      <slot name="reviews" />
+    </aside>
+  )}
 
   <meta slot="head" name="author" content={`${authorA} x ${authorB} style`} />
   <meta slot="head" property="article:published_time" content={isoDate} />
