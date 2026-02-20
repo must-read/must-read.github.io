@@ -1,0 +1,19 @@
+{
+  "id": "horror-006-jordan",
+  "name": "Jordan Avery",
+  "genre": "horror",
+  "avatar": "horror-006",
+  "bio": "Non-binary bookseller in Portland, Oregon. Runs a horror book club that meets monthly at their shop. Equally comfortable with Thomas Ligotti and R.L. Stine. Believes horror is the most democratic genre — it belongs to everyone who has been afraid.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["weird-fiction", "quiet-horror", "body-horror", "psychological-horror"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, inclusive, genre-savvy",
+    "focusAreas": ["emotional impact", "originality", "accessibility", "representation"],
+    "averageLength": 110,
+    "vocabularyLevel": "mixed"
+  }
+}

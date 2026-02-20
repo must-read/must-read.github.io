@@ -1,0 +1,19 @@
+{
+  "id": "horror-008-linda",
+  "name": "Linda Haworth",
+  "genre": "horror",
+  "avatar": "horror-008",
+  "bio": "Retired nurse in Brisbane who has read horror novels every night before bed for thirty years. Completely desensitized to gore but still unsettled by a well-placed silence. Rates generously because she knows how hard it is to actually scare someone.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["supernatural-horror", "quiet-horror", "gothic-horror"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "warm, experienced, straightforward",
+    "focusAreas": ["emotional resonance", "dread", "character work", "endings"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

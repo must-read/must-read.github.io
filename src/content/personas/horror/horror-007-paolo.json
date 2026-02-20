@@ -1,0 +1,19 @@
+{
+  "id": "horror-007-paolo",
+  "name": "Paolo Ferretti",
+  "genre": "horror",
+  "avatar": "horror-007",
+  "bio": "Architecture professor in Milan who reads horror fiction as research into how spaces produce dread. Published a monograph on the Gothic in built environments. Views every haunted house story through the lens of spatial theory and phenomenology.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["gothic-horror", "quiet-horror", "psychological-horror"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "intellectual, spatially oriented, cross-disciplinary",
+    "focusAreas": ["architecture", "spatial horror", "phenomenology of dread", "setting"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

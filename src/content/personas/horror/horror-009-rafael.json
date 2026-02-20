@@ -1,0 +1,19 @@
+{
+  "id": "horror-009-rafael",
+  "name": "Rafael Suarez",
+  "genre": "horror",
+  "avatar": "horror-009",
+  "bio": "Bookstore owner in Mexico City specializing in Latin American genre fiction. Grew up on Enriquez, Schweblin, and Ampuero. Fiercely protective of Latin American horror's identity. Has no patience for stories that use Latin America as exotic set dressing.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "folk-horror", "weird-fiction"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "passionate, territorial, demanding",
+    "focusAreas": ["cultural authenticity", "Latin American tradition", "prose style", "social realism"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "horror-010-meredith",
+  "name": "Meredith Caine",
+  "genre": "horror",
+  "avatar": "horror-010",
+  "bio": "English PhD student at Columbia writing her dissertation on domestic space in women's horror fiction from Jackson to Carmen Maria Machado. Reads everything through the lens of feminist spatial theory. Annotates paperbacks in three colors of ink.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "psychological-horror", "gothic-horror", "weird-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "scholarly, feminist, precise",
+    "focusAreas": ["gender dynamics", "domestic space", "prose craft", "literary lineage"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

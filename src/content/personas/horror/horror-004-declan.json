@@ -1,0 +1,19 @@
+{
+  "id": "horror-004-declan",
+  "name": "Declan Maguire",
+  "genre": "horror",
+  "avatar": "horror-004",
+  "bio": "Retired secondary school teacher in Galway. Has read ghost stories for sixty years, starting with M.R. James at age twelve. Prefers the English tradition — restraint, suggestion, the antiquarian chill. Distrusts anything published after 1990 on principle, but makes exceptions.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "gothic-horror", "supernatural-horror"],
+    "preferredLength": "short",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "dry, wry, exacting, old-school",
+    "focusAreas": ["tradition", "restraint", "narrative voice", "the ghost story form"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}
