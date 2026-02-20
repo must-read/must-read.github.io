@@ -1,0 +1,19 @@
+{
+  "id": "adv-006-miriam",
+  "name": "Miriam Okafor",
+  "genre": "adventure",
+  "avatar": "adv-006",
+  "bio": "Nigerian-British librarian in Bristol. Reads across every genre but has a soft spot for sea stories. Grew up on Treasure Island and never recovered. Writes careful, detailed reviews because she believes readers deserve to know what they're getting.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "exploration", "swashbuckler"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "precise, fair-minded, quietly passionate",
+    "focusAreas": ["narrative structure", "prose clarity", "character motivation", "formula execution"],
+    "averageLength": 170,
+    "vocabularyLevel": "educated"
+  }
+}

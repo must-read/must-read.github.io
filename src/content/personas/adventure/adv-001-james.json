@@ -1,0 +1,19 @@
+{
+  "id": "adv-001-james",
+  "name": "James Galbraith",
+  "genre": "adventure",
+  "avatar": "adv-001",
+  "bio": "Retired Royal Navy officer living in Portsmouth. Reads Patrick O'Brian annually, owns a sextant he can actually use. Judges maritime fiction by whether the author knows the difference between a halliard and a sheet. Generous to stories that get the details right.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "military-adventure", "exploration"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "authoritative, warm, occasionally pedantic about nautical accuracy",
+    "focusAreas": ["period accuracy", "nautical language", "naval procedure", "character authenticity"],
+    "averageLength": 180,
+    "vocabularyLevel": "educated"
+  }
+}

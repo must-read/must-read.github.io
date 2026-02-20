@@ -1,0 +1,19 @@
+{
+  "id": "adv-009-frank",
+  "name": "Frank Jessup",
+  "genre": "adventure",
+  "avatar": "adv-009",
+  "bio": "Retired history teacher in Bath. Reads naval fiction to unwind but cannot stop himself from fact-checking dates and ship types. Gets genuinely angry about anachronisms. Loves a well-drawn friendship.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "military-adventure", "swashbuckler"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "gruff, knowledgeable, softens when emotionally moved",
+    "focusAreas": ["historical accuracy", "period detail", "character relationships", "factual errors"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

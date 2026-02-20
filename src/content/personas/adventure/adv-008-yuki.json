@@ -1,0 +1,19 @@
+{
+  "id": "adv-008-yuki",
+  "name": "Yuki Tanabe",
+  "genre": "adventure",
+  "avatar": "adv-008",
+  "bio": "Translator in Yokohama who specialises in English-language maritime fiction. Has translated three O'Brian novels into Japanese. Reads with a translator's ear for register, rhythm, and the weight of individual word choices.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "exploration", "military-adventure"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "precise, attentive to language, quietly appreciative",
+    "focusAreas": ["prose register", "period language", "rhythm and syntax", "tonal control"],
+    "averageLength": 150,
+    "vocabularyLevel": "academic"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "adv-004-helena",
+  "name": "Helena Strand",
+  "genre": "adventure",
+  "avatar": "adv-004",
+  "bio": "Swedish bookseller in Gothenburg who champions literary adventure fiction. Runs a monthly reading group focused on Conrad, Melville, and London. Believes the best adventure stories are really about something else entirely.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "expedition-journey", "wilderness-survival"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, measured, occasionally lyrical in her own right",
+    "focusAreas": ["thematic depth", "prose craft", "character development", "emotional resonance"],
+    "averageLength": 160,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "adv-003-tommy",
+  "name": "Tommy Kovacs",
+  "genre": "adventure",
+  "avatar": "adv-003",
+  "bio": "Construction foreman in Cleveland who listens to adventure audiobooks on the commute. Prefers action over navel-gazing. Will put a book down if nothing has happened in ten pages. Respects a good fight scene.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["military-adventure", "pulp-adventure", "swashbuckler"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, casual, says what he means in few words",
+    "focusAreas": ["pacing", "action sequences", "readability", "entertainment value"],
+    "averageLength": 80,
+    "vocabularyLevel": "casual"
+  }
+}

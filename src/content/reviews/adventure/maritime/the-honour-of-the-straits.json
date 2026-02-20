@@ -1,0 +1,68 @@
+{
+  "workSlug": "the-honour-of-the-straits",
+  "reviews": [
+    {
+      "personaId": "adv-001-james",
+      "rating": 5,
+      "text": "This is the real thing. The author knows the difference between a brace and a halliard, knows that a brig's quarterdeck is not a frigate's, knows that you wet and sand the decks before an action. The Douro feels like a ship I've served on -- the cramped cabin, the captain's table, the smell of slow match. Fenton is a captain I'd have followed. The action off Calabria is vivid and correct in its particulars, which is rarer than it should be. But what elevates this above most naval fiction is the moral question at its centre: Doyle's choice, and Fenton's quiet acknowledgment that he saw it. The andante detail -- playing badly but playing to the end -- is exactly the kind of thing O'Brian does that nobody else manages. Superb.",
+      "date": "2025-08-19",
+      "helpfulCount": 62
+    },
+    {
+      "personaId": "adv-002-priya",
+      "rating": 3,
+      "text": "The Conrad influence is genuine -- the retrospective circling of a moral crisis, the gap between official narrative and lived truth, the Marlow-like narrator who cannot leave the story alone. But I wanted more of Conrad's colonial unease. The Napoleonic Mediterranean was an imperial theatre, and this story treats it as backdrop rather than subject. The French are faceless antagonists. The Calabrians don't exist. It's a story about two Englishmen's feelings aboard an instrument of empire, and it's well-executed on those terms, but the terms are narrow. The prose is strong, the Harding passage is devastating, and Fenton's line about 'protecting a man by erasing him' has genuine weight. I just wish it looked outward more.",
+      "date": "2025-11-02",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "adv-003-tommy",
+      "rating": 3,
+      "text": "Good fight scene when it finally arrives. The boarding action is solid -- you can feel the cutlasses and the smoke. But man, the first third is two guys eating chicken and playing violin. I nearly bailed. Picks up hard in Part II and doesn't let go. Ending's too philosophical for my taste but the action earns it.",
+      "date": "2026-01-14",
+      "helpfulCount": 7
+    },
+    {
+      "personaId": "adv-004-helena",
+      "rating": 4,
+      "text": "The best adventure stories are always about something other than adventure, and this one knows it. The central question -- whether Doyle's failure to help Harding constitutes a moral failure or simply a human one -- is handled with the kind of restraint that trusts the reader to sit with ambiguity. The O'Brian warmth in the early sections (the banter about accidentals, the Marsala, the uncertain chicken) makes the Conrad darkness land harder when it arrives. The final image of Doyle in Dublin, carrying his knowledge like a stone he won't discard, is earned. My one reservation: the narrator's direct address in Part III ('the thing I have been circling') risks breaking the period frame. But it's a Conradian choice, and it works more than it doesn't.",
+      "date": "2025-09-30",
+      "helpfulCount": 33
+    },
+    {
+      "personaId": "adv-005-declan",
+      "rating": 4,
+      "text": "I'll tell you what this story does well -- it makes you care about two fellas playing bad Haydn in a room the size of a closet, and then it makes you worry about them, and then it breaks something between them that can't be fixed, and you feel it. Fenton's a great character. The line about prescribing wine longer than Doyle has prescribed medicine made me laugh out loud. And the ending, Doyle in his study in Dublin with the port -- I know that man. I've served him pints. He's carrying something he can't put down and won't talk about. That's real.",
+      "date": "2025-12-08",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "adv-006-miriam",
+      "rating": 4,
+      "text": "A well-constructed piece that earns its emotional weight through patience. The formula works: O'Brian's shipboard warmth provides the foundation (Fenton and Doyle's friendship is convincingly drawn through small domestic details) while Conrad's moral retrospection provides the engine (the circling approach to the central moment is effective). The boarding action is vivid without being gratuitous -- the detail about Whitcombe lying about his age to serve does more emotional work than paragraphs of combat. The weakest element is Harding himself, who remains more symbol than character. We see his failure but never his interiority. This may be deliberate -- the story is Doyle's, not Harding's -- but it leaves a gap.",
+      "date": "2025-10-17",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "adv-007-reed",
+      "rating": 3,
+      "text": "The prose is better than it has any right to be for a genre exercise. The opening paragraph's recursive seasickness is genuinely funny, and the transition from comedy of manners to moral reckoning is handled without the usual gear-grinding. But the Conradian narrator -- 'the thing that this story is about, the thing that I have been circling' -- is too on-the-nose. Conrad earned that spiralling obliquity through Marlow's characterisation; here it's a technique without a character behind it. Who is speaking? The story doesn't care, and it should. The final section in Dublin is the strongest writing in the piece -- spare, exact, with the port and the rain doing real atmospheric work rather than just setting a mood.",
+      "date": "2026-02-03",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "adv-008-yuki",
+      "rating": 4,
+      "text": "The register shifts are the achievement here. The opening sections sustain an O'Brian warmth -- conversational, precise, the comedy landing in the gaps between what is said and what is meant (Fenton's remark about minding the accidentals is a small masterpiece of comic timing). When the action begins, the prose tightens without losing its voice. And the final conversation between Fenton and Doyle in the great cabin modulates into something quieter and harder, a register I'd call Conradian gravity. The sentence about 'protecting a man by erasing him' would be worth translating for the phrase alone.",
+      "date": "2025-07-25",
+      "helpfulCount": 24
+    },
+    {
+      "personaId": "adv-009-frank",
+      "rating": 4,
+      "text": "The Douro is plausible as a fourteen-gun brig on Mediterranean station in 1805, and the action with the Hirondelle fits the kind of patrol work that smaller vessels did in the Straits. The timeline works -- Trafalgar arriving as news in October is correct. One quibble: a brig's maintopmast coming down from a single broadside at that range seems unlikely unless the corvette was firing chain shot, which isn't specified. Minor. The Fenton-Doyle friendship is the best thing in the piece, warm and specific and built on shared rituals. The moment when Fenton says 'I know everything that happens on my quarterdeck' is devastating because of how quietly it's delivered.",
+      "date": "2026-01-28",
+      "helpfulCount": 17
+    }
+  ]
+}

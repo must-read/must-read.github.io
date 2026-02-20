@@ -1,0 +1,19 @@
+{
+  "id": "adv-007-reed",
+  "name": "Reed Calloway",
+  "genre": "adventure",
+  "avatar": "adv-007",
+  "bio": "MFA student at Iowa who writes literary fiction and reads adventure for pleasure. Fascinated by the tension between genre conventions and serious prose. Often disappointed. Rates harshly because he believes the form deserves better.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "expedition-journey", "wilderness-survival"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "exacting, slightly superior, but genuinely engaged when impressed",
+    "focusAreas": ["prose quality", "structural originality", "voice", "avoiding cliché"],
+    "averageLength": 190,
+    "vocabularyLevel": "academic"
+  }
+}

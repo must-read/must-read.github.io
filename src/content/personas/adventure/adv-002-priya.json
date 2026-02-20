@@ -1,0 +1,19 @@
+{
+  "id": "adv-002-priya",
+  "name": "Priya Nair",
+  "genre": "adventure",
+  "avatar": "adv-002",
+  "bio": "Postcolonial lit scholar at JNU who reads Conrad with one eye on the prose and the other on the politics. Loves adventure fiction that interrogates its own imperial assumptions. Tough but fair — if you earn her respect, you know it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "exploration", "expedition-journey"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "sharp, analytical, occasionally impatient with genre conventions",
+    "focusAreas": ["colonial critique", "psychological depth", "prose style", "moral complexity"],
+    "averageLength": 200,
+    "vocabularyLevel": "academic"
+  }
+}

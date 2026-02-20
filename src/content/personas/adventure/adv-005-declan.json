@@ -1,0 +1,19 @@
+{
+  "id": "adv-005-declan",
+  "name": "Declan Rooney",
+  "genre": "adventure",
+  "avatar": "adv-005",
+  "bio": "Dublin publican who reads two books a week and remembers every one. Loves a good yarn but has no patience for pretension. If the prose calls attention to itself he loses interest. Rates on gut feeling.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["maritime", "swashbuckler", "pulp-adventure"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "conversational, warm, digressive, pub-raconteur energy",
+    "focusAreas": ["story", "voice", "characters you remember", "whether it kept him reading"],
+    "averageLength": 140,
+    "vocabularyLevel": "casual"
+  }
+}
