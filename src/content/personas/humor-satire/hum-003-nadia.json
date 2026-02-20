@@ -1,0 +1,19 @@
+{
+  "id": "hum-003-nadia",
+  "name": "Nadia Okoye",
+  "genre": "humor-satire",
+  "avatar": "hum-003",
+  "bio": "Political science lecturer at Edinburgh who assigns satire alongside theory. Has read every Armando Iannucci script twice. Values satire that punches up and lands clean. Suspicious of comedy that flatters its audience.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "social-satire"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, sharp, occasionally warm",
+    "focusAreas": ["political accuracy", "satirical targets", "structural ambition"],
+    "averageLength": 450,
+    "vocabularyLevel": "academic"
+  }
+}

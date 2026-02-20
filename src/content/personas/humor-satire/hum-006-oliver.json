@@ -1,0 +1,19 @@
+{
+  "id": "hum-006-oliver",
+  "name": "Oliver Ngata",
+  "genre": "humor-satire",
+  "avatar": "hum-006",
+  "bio": "Auckland-based bookshop owner with a weakness for British comedy from Wodehouse to Peep Show. Reads everything, rates kindly, writes long reviews because he thinks authors deserve engagement even when the work falls short.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["social-satire", "absurdist-humor", "political-satire"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, generous, discursive",
+    "focusAreas": ["comic tradition", "character warmth", "readability"],
+    "averageLength": 500,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hum-007-diana",
+  "name": "Diana Kessler",
+  "genre": "humor-satire",
+  "avatar": "hum-007",
+  "bio": "German-born translator living in London who specializes in comic fiction. Reads in four languages and has strong opinions about what translates and what doesn't. Prefers satire with structural ambition over mere cleverness.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "absurdist-humor"],
+    "preferredLength": "long",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "precise, comparative, exacting",
+    "focusAreas": ["language", "formal structure", "satirical method"],
+    "averageLength": 400,
+    "vocabularyLevel": "academic"
+  }
+}

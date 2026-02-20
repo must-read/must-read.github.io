@@ -1,0 +1,19 @@
+{
+  "id": "hum-002-ted",
+  "name": "Ted Kowalski",
+  "genre": "humor-satire",
+  "avatar": "hum-002",
+  "bio": "Chicago accountant who reads humor on the train. Grew up on Pratchett and Douglas Adams. Wants to laugh out loud, not just appreciate cleverness. Will rate something low if it's smart but not funny.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["absurdist-humor", "workplace-comedy", "political-satire"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, friendly, no-nonsense",
+    "focusAreas": ["laughs per page", "pacing", "character"],
+    "averageLength": 250,
+    "vocabularyLevel": "casual"
+  }
+}

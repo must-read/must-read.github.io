@@ -1,0 +1,82 @@
+{
+  "workSlug": "the-department-of-honesty",
+  "reviews": [
+    {
+      "personaId": "hum-001-felicity",
+      "rating": 4,
+      "text": "The comic architecture here is genuinely impressive. The escalation from Regulation 1(a) through 1(b) to the catastrophic 1(c) has the inevitable, ratcheting logic of good farce — each fix creates a worse problem, and the reader can see it coming without the pleasure being diminished. Sir Humphrey's dialogue is pitch-perfect Waugh: the cruelty delivered in the mildest possible voice, every sentence a closed door. The moment where he describes Deepak's forty-page report as watching 'a small child attempt to drive a lorry' is Waugh at his most surgical. What prevents this from reaching the top shelf is that the Heller influence, while structurally present, never quite achieves the desperate, spiralling panic of Catch-22. The logic escalates, but the emotional temperature stays cool.",
+      "date": "2025-10-18",
+      "helpfulCount": 67
+    },
+    {
+      "personaId": "hum-002-ted",
+      "rating": 4,
+      "text": "I laughed out loud on the train at the Transport Secretary opening and closing his mouth for eleven seconds before saying 'trains.' The bit about the committee that evaluates whether another committee is necessary is painfully funny if you've ever worked anywhere with more than fifty employees. Gerald's portfolio containing nothing but the Racing Post is a great running gag. Solid comedy, well-paced, actually funny — which shouldn't be rare in humor writing but somehow is.",
+      "date": "2025-12-04",
+      "helpfulCount": 31
+    },
+    {
+      "personaId": "hum-003-nadia",
+      "rating": 3,
+      "text": "Structurally ambitious and frequently sharp, but the satirical target is too easy. Government hypocrisy about transparency is the lowest-hanging fruit in political comedy — Yes Minister harvested it forty years ago, and this piece, for all its formal cleverness, doesn't substantially advance the critique. The Catch-22 recursive structure works well as a comedic engine, but the piece lacks Heller's genuine anger. Heller's comedy came from a place of real desperation — men dying inside absurd systems. Here, the stakes are a quarterly report. Sir Humphrey is the strongest element: his speech about competence being 'measured entirely by the absence of visible failure' has real bite. But Deepak never becomes more than a straight man. I wanted him to break the machine, not just describe it.",
+      "date": "2026-01-22",
+      "helpfulCount": 54
+    },
+    {
+      "personaId": "hum-004-roger",
+      "rating": 5,
+      "text": "I spent thirty-eight years in the Home Office and I can confirm that this is not satire. This is documentary realism with better sentences. The detail about the Estates Division calculating staff complement proportional to square footage is so accurate it gave me flashbacks. Patricia's taxonomy of government initiatives — those that fail immediately, fail slowly, or succeed in doing something no one wanted — is the truest thing I've read about Whitehall in any genre. Gerald Fitch-Barrow is every political appointee I ever watched arrive with confidence and leave with a tremor. Bravo.",
+      "date": "2025-09-30",
+      "helpfulCount": 88
+    },
+    {
+      "personaId": "hum-005-jasmine",
+      "rating": 3,
+      "text": "Good jokes, too many words. The recursive logic bits are funny but the piece repeats its own punchline at least three times — we get that the Department can't be honest about not being honest. The Regulation 1(a)/1(b)/1(c) escalation is the best structural comedy here and should've been the whole engine. Cut 1,500 words, lose the final Deepak-on-a-bench philosophizing, end on 'Regulation 1(b)' the first time, and you've got something tighter and meaner.",
+      "date": "2026-02-08",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "hum-006-oliver",
+      "rating": 4,
+      "text": "This sits comfortably in the great tradition of British institutional comedy — Yes Minister, obviously, but also Waugh's own Whitehall satires and the quieter absurdism of early Lodge. What I particularly enjoyed was the way it manages to be genuinely funny while also building toward something melancholy. Deepak's final understanding — that the Department's failure was itself the honest answer — has a philosophical weight that elevates it beyond simple mockery. The prose style is a pleasure throughout: clean, controlled, with the jokes landing on the right beats. Sir Humphrey is a magnificent comic creation. The canteen lasagna described as made by someone who 'had lasagna described to them over the telephone' is the kind of throwaway line that tells you the writer has a real ear for comedy.",
+      "date": "2025-11-15",
+      "helpfulCount": 43
+    },
+    {
+      "personaId": "hum-007-diana",
+      "rating": 3,
+      "text": "The formal conceit is strong: a recursive bureaucratic structure mirroring Heller's Catch-22 logic, dressed in Waugh's precise English cruelty. The escalation of regulations consuming themselves is the best executed element. However, the piece relies too heavily on the narrator's authorial commentary — telling us that something is ironic rather than letting the irony land through action and dialogue. Waugh never explained his own jokes. The single-sentence Transparency Report is an excellent set piece, and Sir Humphrey's final note achieves genuine paradox. But the ending overexplains. The circular reasoning Deepak describes in the final paragraphs is already demonstrated by the preceding narrative; stating it explicitly diminishes the reader's discovery.",
+      "date": "2025-08-22",
+      "helpfulCount": 39
+    },
+    {
+      "personaId": "hum-008-pete",
+      "rating": 4,
+      "text": "The 'going forward is load-bearing' bit is one of the best comedy lines I've read this year. The Transport Secretary saying 'trains' after eleven seconds of silence is a perfect visual. Good callback structure with the outgoing-tray-slash-recycling-bin and the Tuesday symmetry. Could be tighter but the hits land.",
+      "date": "2026-01-05",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "hum-009-amara",
+      "rating": 4,
+      "text": "What this piece gets right is the mechanism by which institutions corrupt the people inside them. Deepak arrives with genuine ideals and is ground down not by malice but by procedure — which is exactly how it works. The strategic self-leaking under Regulation 1(c) is a brilliant comic invention and also alarmingly plausible. Patricia is the unsung hero: her matter-of-fact despair does more to indict the system than any of the formal absurdity. The piece understands that the cruelty of bureaucracy isn't in its villains but in its inertia.",
+      "date": "2025-12-29",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "hum-010-sven",
+      "rating": 4,
+      "text": "A disciplined piece of institutional satire that maintains tonal control throughout. The escalating regulatory paradox is structurally sound and the prose is consistently precise. Sir Humphrey's speeches are the strongest element — his distinction between the appearance of honesty and actual honesty is sharply drawn. The piece falters slightly in its final movement, where Deepak's philosophical conclusion restates what the narrative has already shown. The comedy is primarily cerebral rather than visceral, which suits the Waugh influence but somewhat undercuts the Heller. Nonetheless, this is competent, pointed political satire with genuine formal ambition.",
+      "date": "2025-10-11",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "hum-011-ruthie",
+      "rating": 5,
+      "text": "I sent the 'going forward is load-bearing' line to my entire public policy cohort and now it's our group chat name. The part about the six new staff who had nothing to do and did it diligently and two were promoted? That's my internship. That's literally my internship. I am Deepak and I am not okay. Five stars for making me laugh and then making me question my career path.",
+      "date": "2026-02-15",
+      "helpfulCount": 12
+    }
+  ]
+}

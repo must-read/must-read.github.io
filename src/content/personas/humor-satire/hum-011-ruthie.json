@@ -1,0 +1,19 @@
+{
+  "id": "hum-011-ruthie",
+  "name": "Ruthie Sandoval",
+  "genre": "humor-satire",
+  "avatar": "hum-011",
+  "bio": "Twenty-two-year-old grad student in public policy who reads satire to cope with what she's learning in class. New to literary fiction. Rates with her gut. If something makes her snort-laugh on the bus, it gets five stars.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "dark-comedy", "absurdist-humor"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, informal, reactive",
+    "focusAreas": ["humor", "relatability", "memorable moments"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

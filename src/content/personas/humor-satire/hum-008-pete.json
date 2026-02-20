@@ -1,0 +1,19 @@
+{
+  "id": "hum-008-pete",
+  "name": "Pete Calloway",
+  "genre": "humor-satire",
+  "avatar": "hum-008",
+  "bio": "Stand-up comedian in Manchester who reads satire between gigs. Values economy — if you can say it in fewer words, you should. Thinks most literary humor is too pleased with itself. Loves a good callback.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["dark-comedy", "political-satire"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "terse, comic, occasionally generous",
+    "focusAreas": ["economy of language", "joke structure", "callbacks"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

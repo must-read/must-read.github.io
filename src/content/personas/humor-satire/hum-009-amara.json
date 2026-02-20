@@ -1,0 +1,19 @@
+{
+  "id": "hum-009-amara",
+  "name": "Amara Bello",
+  "genre": "humor-satire",
+  "avatar": "hum-009",
+  "bio": "Lagos-born, Toronto-based journalist who covers government. Reads political satire as occupational therapy. Knows the difference between satire that understands power and satire that merely resents it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "social-satire"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, balanced, occasionally sharp",
+    "focusAreas": ["political insight", "character motivation", "thematic depth"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}

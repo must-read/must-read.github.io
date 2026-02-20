@@ -1,0 +1,19 @@
+{
+  "id": "hum-010-sven",
+  "name": "Sven Lindqvist",
+  "genre": "humor-satire",
+  "avatar": "hum-010",
+  "bio": "Retired Swedish diplomat who reads English-language satire to stay sharp. Has a fondness for institutional absurdity because he lived inside it for thirty years. Rates carefully. Never gives 5 stars because nothing is perfect.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "workplace-comedy"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "measured, diplomatic, precise",
+    "focusAreas": ["institutional realism", "tonal control", "narrative structure"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}

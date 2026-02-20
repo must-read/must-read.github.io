@@ -1,0 +1,19 @@
+{
+  "id": "hum-005-jasmine",
+  "name": "Jasmine Trujillo",
+  "genre": "humor-satire",
+  "avatar": "hum-005",
+  "bio": "Comedy writer in LA who reads literary humor to steal techniques. Has a low tolerance for stories that are smart but never funny. If a piece doesn't make her laugh by page three, she's out.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["dark-comedy", "absurdist-humor", "social-satire"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "direct, professional, occasionally cutting",
+    "focusAreas": ["comedy mechanics", "joke density", "pacing"],
+    "averageLength": 300,
+    "vocabularyLevel": "mixed"
+  }
+}

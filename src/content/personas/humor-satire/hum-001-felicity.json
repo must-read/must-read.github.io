@@ -1,0 +1,19 @@
+{
+  "id": "hum-001-felicity",
+  "name": "Felicity Vane",
+  "genre": "humor-satire",
+  "avatar": "hum-001",
+  "bio": "Retired BBC radio producer who spent thirty years editing panel shows. Reads satire the way a sommelier drinks wine — with pleasure, but also with judgment. Believes the best comedy is the kind that makes you laugh and then makes you uneasy.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "social-satire", "dark-comedy"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "dry, precise, occasionally admiring",
+    "focusAreas": ["comic timing", "structural craft", "prose style"],
+    "averageLength": 400,
+    "vocabularyLevel": "educated"
+  }
+}

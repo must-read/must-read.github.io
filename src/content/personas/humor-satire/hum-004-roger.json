@@ -1,0 +1,19 @@
+{
+  "id": "hum-004-roger",
+  "name": "Roger Pemberton",
+  "genre": "humor-satire",
+  "avatar": "hum-004",
+  "bio": "Retired civil servant who spent forty years in Whitehall and reads political satire to see if anyone gets it right. Usually they don't. Rates generously when they do, because accuracy in this genre is rare.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["political-satire", "workplace-comedy"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "wry, knowledgeable, avuncular",
+    "focusAreas": ["institutional accuracy", "character types", "dialogue"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}
