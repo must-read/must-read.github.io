@@ -29,7 +29,7 @@ You are writing an original short work of fiction for the Must Read platform.
 
 ## Requirements
 
-1. Write a complete, standalone short work of **2,500-6,000 words**
+1. Write a complete, standalone short work. Your **target word count is {{targetWordCount}}** (roughly a {{readingTime}} minute read). This is not a suggestion — write to this length naturally. Let the story breathe at this pace; don't pad or truncate to hit a number. The hard floor is 2,500 words and the ceiling is 6,000.
 2. The piece must work as a satisfying read with beginning, middle, and end
 3. Honor all four sources — a knowledgeable reader should be able to identify passages reflecting each
 4. The premise seed is a starting point, not a constraint — diverge if the story demands it

@@ -43,7 +43,7 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 
 ## Content Rules
 
-1. **Word count**: 2,500-6,000 words per work (10-25 min read)
+1. **Word count**: 2,500-6,000 words per work (10-25 min read). Lengths MUST vary organically — each combination spec includes a target word count. Do NOT produce stories of uniform length. A cozy mystery might be a tight 2,800 words; an epic fantasy excerpt might run 5,500. The generation queue assigns varied targets across the full range.. Each work gets a unique target word count assigned at generation time — vary naturally across the full range. Do NOT make every story the same length. A generation batch should include short punchy pieces (~2,500-3,000), medium (~3,500-4,500), and long (~5,000-6,000). At 250 wpm, the minimum is a true 10-minute read (2,500 words floor).
 2. **Banned names**: Never use "Marcus" or "Chen" in generated content
 3. **No AI-isms**: No hedging, lists-as-prose, hollow superlatives, or "delve/tapestry/testament" filler
 4. **Formula adherence**: Every piece must demonstrably reflect all four sources (authorA, authorB, workX, workY) with identifiable passages
