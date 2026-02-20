@@ -7,8 +7,8 @@ authorA: "Alice Munro"
 authorB: "Jhumpa Lahiri"
 workX: "Runaway"
 workY: "Interpreter of Maladies"
-wordCount: 4206
-readingTimeMinutes: 17
+wordCount: 4071
+readingTimeMinutes: 16
 tags:
   - domestic-realism
   - marriage
@@ -73,7 +73,7 @@ She should explain about the town. It was called Nairn and it sat in a crease of
 
 The town accepted her the way small Ontario towns accept anything unfamiliar — slowly, politely, with a friendliness that was genuine but had a bottom to it, a floor below which no further intimacy was offered. The women at the United Church bake sale called her Kay. She did not correct them. She brought samosas to the potluck and everyone said they were delicious and asked for the recipe and she wrote it out on an index card and later heard that Betty Macleod had made them with ground beef instead of potatoes and had said they were just as good.
 
-This was the kind of thing Kavitha noticed and kept to herself. She had a talent for it — for noticing the small adjustments the world made around her presence, the tiny accommodations and erasures, and for folding them into some interior space where they could sit without being spoken. Her mother had the same talent. All the women in her family did. It was not a gift, exactly. It was closer to a muscle that had been exercised for generations until it no longer required conscious effort, the way a potter's hands know the clay without thinking. You could carry a great deal if you carried it quietly.
+This was the kind of thing Kavitha noticed and kept to herself. She had a talent for it — for noticing the small adjustments the world made around her presence, the tiny accommodations and erasures, and for folding them into some interior space where they could sit without being spoken. Her mother had the same talent. All the women in her family did. It was not a gift, exactly. It was closer to a muscle that had been exercised for generations until it no longer required conscious effort, the way a potter's hands know the clay without thinking.
 
 ---
 
@@ -82,8 +82,6 @@ Diane Macleod — Betty's daughter-in-law, who had married Stuart Macleod in 201
 "You always make things look so beautiful," Diane said, standing in Kavitha's kitchen with her coat still on, holding a coffee Kavitha had made her. "The way you did the hall for the Christmas concert. Everyone said so."
 
 Kavitha said she would be happy to help. What she did not say was that she had done the hall for the Christmas concert because no one had asked her to do anything else — not to organize the refreshments or lead the carol singing or sit on the committee — and that arranging the flowers had been the task left over after the other tasks had been distributed among women who had known each other since childhood, women whose grandmothers had known each other's grandmothers, and that she had taken the leftover task and made it beautiful because making things beautiful was a way of being present without being presumptuous, of contributing without claiming.
-
-This was something Lahiri — but no, that was a writer, not a person in her life. Kavitha sometimes confused the two. She had read those stories about Indian women in American kitchens and had felt the shock of recognition and also a faint resentment, as though her particular loneliness had been made available to strangers without her permission.
 
 The flowers were to be white. Diane wanted white flowers because Jack's party had a winter theme, even though it was March and the snow was mostly gone except in the ditches and along the north side of the barns where the sun couldn't reach.
 
@@ -97,7 +95,7 @@ At the florist she chose tulips and narcissus and a bundle of willow branches th
 
 She could go. That was the thought she let surface, briefly, the way you might open a window in a cold room just to feel the air before closing it again. She could go. Not to Calcutta — that was a different kind of going — but simply away. Down the highway, past Exeter, past London, the landscape opening up or closing in, it didn't matter, the point was the motion, the not-being-in-the-place-where-she-was.
 
-She had thought this before. Many times. In the early years it had been a sharp thought, vivid and particular — she had imagined specific destinations, had once gone so far as to look up bus schedules to Montreal — but over time it had softened into something more like weather, a condition of the atmosphere she lived in, always present and rarely acknowledged, the way farmers spoke about the wind.
+She had thought this before. Many times. In the early years it had been a sharp thought, vivid and particular — she had imagined specific destinations, had once gone so far as to look up bus schedules to Montreal — but over time it had softened into something more like weather, always present and rarely acknowledged, the way farmers spoke about the wind.
 
 She drove home. She always drove home.
 
@@ -139,7 +137,7 @@ Neil put the newspaper down. He looked at her. To his credit — and Kavitha kep
 
 "Should you go?"
 
-It was the right question. It was the question a good husband asks. Kavitha stirred the dal and watched the turmeric bloom yellow in the water and thought about the distance between a right question and the question she needed, which was not a question at all but an acknowledgment that going meant leaving and leaving meant something different for her than it meant for him, that every departure from this house, this town, this country that was not hers and never quite would be, carried inside it the possibility of not coming back, and that this possibility was not a threat but a door she kept closed not out of contentment but out of a kind of discipline she had learned so long ago she could no longer distinguish it from preference.
+It was the right question. It was the question a good husband asks. Kavitha stirred the dal and watched the turmeric bloom yellow in the water and thought about the distance between a right question and the question she needed, which was not a question at all but an acknowledgment that going meant leaving and leaving meant something different for her than it meant for him, that every departure carried inside it the possibility of not coming back, and that this possibility was not a threat but a door she kept closed out of a discipline she had learned so long ago she could no longer distinguish it from preference.
 
 "Maybe," she said. "Let me talk to Ruma."
 
@@ -203,7 +201,7 @@ Neil came in during a commercial.
 
 "I closed it."
 
-He got a beer from the refrigerator and went back to the living room. Kavitha watched the cat finish the chicken and clean its face with one paw, a gesture so precise and self-contained that she felt something loosen in her chest, a knot she had not known was there until it began to undo itself.
+He got a beer from the refrigerator and went back to the living room. Kavitha watched the cat finish the chicken and clean its face with one paw, a gesture so precise and self-contained that she felt something loosen in her chest.
 
 She washed the saucer and put it away.
 
@@ -217,13 +215,13 @@ The morning she left, Neil drove her to the airport. It was early and the fields
 
 "I will."
 
-He kissed her on the forehead. It was the kiss of a man who loved his wife and did not know how to love her in the specific way she needed to be loved. Kavitha had understood this for years. It was not his fault. It was not anyone's fault. It was the kind of understanding that came to you slowly, like the realization that you have been cold for a long time and have only just noticed because someone opened a door.
+He kissed her on the forehead. It was the kiss he always gave her — at airports, after arguments, on ordinary evenings — and she had long ago stopped expecting it to reach the place where she needed to be reached. It was not his fault. It was the kind of understanding that came to you slowly, like the realization that you have been cold for a long time and have only just noticed because someone opened a door.
 
 She went through security and sat at the gate and looked at the other passengers. A young couple leaning against each other, sleeping. A businessman on his phone. An Indian family — mother, father, two children — the children playing a game on a tablet, the mother staring out the window at the tarmac. Kavitha watched the mother. She was young, maybe thirty, wearing a green kurta and gold earrings, and her face had the expression Kavitha recognized from her own mirror: the expression of a woman who is in two places at once and fully in neither.
 
 ---
 
-The cat was not there when she got back. She had been gone twelve days. Her mother was dying slowly, with the same quiet competence she had brought to everything — cooking, raising children, managing a household on a government clerk's salary, raising three children who would scatter to three different countries and call on Sundays. She was not afraid, or if she was, she hid it with the skill of a lifetime's practice. Kavitha sat by her bed and held her hand and they talked about small things — the jasmine, which needed pruning, and the neighbor's son who had gotten into IIT, and the price of fish, and whether the painter had done a good job on the shutters — and between the small things there were silences that held everything else.
+The cat was not there when she got back. She had been gone twelve days. Her mother was dying slowly, with the same quiet competence she had brought to everything — cooking, managing a household on a government clerk's salary, raising three children who would scatter to three different countries and call on Sundays. She was not afraid, or if she was, she hid it with the skill of a lifetime's practice. Kavitha sat by her bed and held her hand and they talked about small things — the jasmine, which needed pruning, and the neighbor's son who had gotten into IIT, and the price of fish, and whether the painter had done a good job on the shutters — and between the small things there were silences that held everything else.
 
 On the third day, her mother said, "You look thin. Are you eating properly?"
 
@@ -245,7 +243,7 @@ On the plane home she cried, briefly, in the dark somewhere over the Atlantic, a
 
 He reached over and put his hand on her knee. She looked out the window at the highway, the flat land, the bare trees.
 
-When they got home the house was clean. Neil had cleaned it. This was his way of saying something he could not say in words, and Kavitha understood it and was grateful for it and also understood that it was not enough, and that this knowledge — that a clean house and a hand on her knee and a kiss on her forehead were acts of love that did not reach the place where she needed to be reached — was something she would carry the way she carried everything else, quietly, in the interior space she had made for things that could not be spoken.
+When they got home the house was clean. Neil had cleaned it. This was his way of saying something he could not say in words, and Kavitha understood it and was grateful for it and also understood that it was not enough, and that this knowledge — that a clean house and a hand on her knee and a kiss on her forehead were acts of love that did not reach the place where she needed to be reached — was something she would carry quietly, the way she carried everything else.
 
 She put down her bag and went to the kitchen. The flowers were gone — Diane must have come to collect the vases. The counter was bare. The grape bowl was full. She went to the window and looked out.
 
