@@ -7,8 +7,8 @@ authorA: "Shirley Jackson"
 authorB: "Mariana Enriquez"
 workX: "The Haunting of Hill House"
 workY: "The Dangers of Smoking in Bed"
-wordCount: 4322
-readingTimeMinutes: 17
+wordCount: 3952
+readingTimeMinutes: 16
 tags:
   - architecture
   - buenos-aires
@@ -58,15 +58,13 @@ But the fourth floor had seventeen steps. I counted again the next morning with 
 
 ---
 
-I should tell you about San Telmo so you understand what kind of neighborhood takes a building like Humberto Primo 1640 and simply absorbs it. San Telmo is old. It is the kind of old that Buenos Aires wears like a scar it is secretly proud of — crumbling Italianate facades, cobblestones that will break your ankle if you aren't watching, antique shops selling other people's grief at weekend prices. The tourists come for the tango and the feria on Sundays. They do not come to the blocks south of Avenida San Juan, where the buildings lean into each other like drunks and the plaster falls in chunks that the super sweeps into the gutter every morning, and every morning there is more.
+San Telmo is old. It is the kind of old that Buenos Aires wears like a scar it is secretly proud of — crumbling Italianate facades, cobblestones that will break your ankle if you aren't watching, antique shops selling other people's grief at weekend prices. The tourists come for the tango and the feria on Sundays. They do not come to the blocks south of Avenida San Juan, where the buildings lean into each other like drunks and the plaster falls in chunks that the super sweeps into the gutter every morning, and every morning there is more.
 
 I had moved from Rosario after the separation. My ex-husband Tomás kept the apartment on Bulevar Oroño because his name was on the deed, and I kept the cat because Tomás was allergic and had been lying about it for seven years. There is a particular freedom in discovering that your husband has been taking antihistamines in secret for the duration of your marriage — not because the lie itself is so terrible but because it reveals the architecture of all the other lies, the way pulling one wire from a wall shows you where the others run.
 
 I was thirty-four. I had a part-time position cataloging damaged books at the Biblioteca Nacional, a job that paid almost enough and required me to spend my days with things that were broken in ways I could precisely describe. Water damage. Foxing. Spine separation. I found it calming. You hold the book and you say what is wrong with it, and the wrongness has a name, and the name has a treatment. This was not a skill that had transferred to my marriage.
 
 ---
-
-The neighbors. I should tell you about the neighbors.
 
 Doña Carmen on the second floor had lived in the building for thirty-one years. She was seventy or possibly eighty — the kind of old where the number stops mattering because the fact of survival has replaced it. She kept her door open during the day and her television on at all hours, the volume high enough that the news anchors' voices echoed in the stairwell like the building's own nervous commentary on the state of things. She was the first person to speak to me.
 
@@ -80,11 +78,9 @@ The family on the third floor was a woman named Graciela and her two daughters, 
 
 I mentioned it to Graciela once. The extra step.
 
-She looked at me with the particular patience that porteños reserve for people who have not yet learned how things work here. "Buildings settle," she said. "Everything settles." And she pulled her youngest daughter inside and closed the door, and I stood in the hallway and felt the floor tilt beneath me — a degree, maybe less, just enough that if I had set an egg down it would have rolled, slowly and with an almost deliberate patience, toward the wall.
+She looked at me with the particular patience that porteños reserve for people who have not yet learned how things work here. "Buildings settle," she said. "Everything settles." And she pulled her youngest daughter inside and closed the door, and I stood in the hallway and felt the floor tilt beneath me — a degree, maybe less — and I stayed there for a long time, listening to the building settle around me, if that is what it was doing.
 
 ---
-
-The hallway angles did not add up. I want to be precise about this because precision is the only defense I have against what I am about to describe, and I need you to understand that I am not a person who sees things that are not there. I catalog damage. I name what is wrong. This is what I am trained to do.
 
 The hallway on the fourth floor was L-shaped. It turned a corner approximately halfway between the stairwell and my apartment, which was the last door on the left. The corner should have been ninety degrees. I do not know what it was instead. It was not ninety degrees. When I stood at the bend and looked in both directions, both halves of the hallway appeared to be the same length, but when I walked from the stairwell to my door, the second half — the half after the bend — took longer than the first. Not dramatically. Not in a way I could time with a stopwatch. But my body knew. My legs knew. There were more steps after the bend than before it, the way there were more steps between the third and fourth floors than between any other pair of floors, and the building simply contained this wrongness the way a body contains a tumor — quietly, structurally, as part of its ongoing business of being a building.
 
@@ -102,19 +98,15 @@ I inspected the wall. There was nothing on it. There was nothing behind it — t
 
 I pressed my ear against the wall where Bicho paused. I heard nothing and then I heard the building — not its plumbing or its wiring or the distant thump of Doña Carmen's television but the building itself, the sound a structure makes when it is bearing weight, a low, continuous, almost subterranean frequency that I felt more in my teeth than in my ears. Every building makes this sound. I knew that. But this sound had a rhythm to it, slow and regular, like breathing, and I pulled my ear away and stood in the middle of my living room and understood for the first time that I was afraid.
 
-I tried to tell myself that fear in a building like this was rational, even expected. The wiring was old. The gas lines were probably older. In Constitución, three blocks from here, a building had collapsed the previous year — just folded into itself one morning like a paper bag, killing four people, and the inspectors who came afterward said the structure had been compromised for a decade. That was the word they used. Compromised. As though the building had made a deal with something and failed to honor its end. The city was full of buildings like that, buildings where the landlords collected rent and the municipality collected taxes and no one collected the garbage from the courtyard or the water that pooled in the basement or the cracks that widened in the foundation a centimeter at a time. You could live your whole life in Buenos Aires and never enter a building that was not, in some technical sense, in the process of failing.
+I tried to tell myself that fear in a building like this was rational, even expected. In Constitución, three blocks from here, a building had collapsed the previous year — just folded into itself one morning like a paper bag, killing four people. The city was full of buildings like that, buildings where the landlords collected rent and the municipality collected taxes and no one collected the garbage from the courtyard or the water that pooled in the basement or the cracks that widened in the foundation a centimeter at a time. You could live your whole life in Buenos Aires and never enter a building that was not, in some technical sense, in the process of failing.
 
-But this was different. The buildings that collapsed in Constitución and Once and Barracas — those buildings were falling apart. They were obeying gravity and entropy and the patient chemistry of water on concrete. Humberto Primo 1640 was not falling apart. It was holding together. It was holding together with a completeness that disturbed me more than any crack or leak, because its walls were solid and its stairs were solid and its floors, despite the tilt, were solid, and the wrongness was not a failure of the building's structure but a quality of its structure, and I did not know how to catalog a quality. I could not put it in a ledger. I could not prescribe a treatment. I could only live inside it and count the steps and hope that the counting kept me sane.
+But those buildings were falling apart. They were obeying gravity and entropy and the patient chemistry of water on concrete. Humberto Primo 1640 was not falling apart. It was holding together. Its walls were solid and its stairs were solid and its floors, despite the tilt, were solid, and the wrongness was not a failure of the building's structure but a quality of its structure, and I could only live inside it and count the steps and hope that the counting kept me sane.
 
 ---
 
-At the Biblioteca Nacional I worked beside a woman named Lucía who had been cataloging damaged books for eleven years and who had developed, in that time, an almost spiritual relationship with the categories of decay.
+At the Biblioteca Nacional I worked beside a woman named Lucía who had been cataloging damaged books for eleven years. She told me once there was a difference between a book that had been damaged and a book that was damaging itself. She was holding a nineteenth-century atlas whose binding had begun to separate along the inner margin of the pages, as though the book were trying to open wider than its structure permitted. "Some damage is structural," she said. "The book was made wrong."
 
-"There is a difference," she told me once, "between a book that has been damaged and a book that is damaging itself." She was holding a nineteenth-century atlas whose binding had begun to separate, not along the spine where bindings typically fail but along the inner margin of the pages, as though the book were trying to open wider than its structure permitted. "Some damage comes from outside — water, insects, handling. But some damage is structural. The book was made wrong. The glue is fighting the paper. The binding is pulling against the pages. The book is destroying itself because it cannot be what it was built to be."
-
-I thought about this for a long time. I thought about it on the colectivo home, standing in the aisle with my hand on the overhead bar, watching the city slide past the window — the graffiti, the jacarandas, the kioscos with their plastic chairs and old men drinking cortados in the late light. I thought about it as I climbed the stairs to the fourth floor — fifteen, sixteen, seventeen — and as I walked the hallway, counting my steps, feeling the second half stretch around me like a held breath.
-
-Was the building damaged or was it damaging itself? Had something been done to it, or was the wrongness original — built in, structural, a function of its design rather than a failure of its maintenance? Because there is a difference. A building that has been damaged can be repaired. A building that is wrong cannot.
+On the colectivo home I watched the city slide past the window — the graffiti, the jacarandas, the kioscos with their plastic chairs and old men drinking cortados in the late light — and I thought about what Lucía had said, and I climbed the stairs to the fourth floor — fifteen, sixteen, seventeen — and I walked the hallway, counting my steps, feeling the second half stretch around me like a held breath.
 
 ---
 
@@ -136,7 +128,7 @@ I mean that I walked from my apartment to the stairwell in the morning, the way 
 
 I thought about calling my mother in Rosario. I thought about calling Tomás, which tells you something about how frightened I was. Instead I called the administración of the building, a number posted on a laminated card in the lobby that I had never dialed. The phone rang fourteen times and then a woman answered and said, "Humberto Primo," in a tone that suggested she had been expecting my call for some time and was not particularly interested in having it.
 
-I told her about the step. I told her about the hallway. I tried to explain about the angles, the distances, the feeling that the building's geometry was shifting, not all at once but incrementally, the way a glacier moves — too slowly to see but fast enough to grind stone into powder over time.
+I told her about the step. I told her about the hallway. I tried to explain about the angles, the distances, the feeling that the building's geometry was not what it should be.
 
 She was quiet for a moment. Then she said, "Which floor?"
 
@@ -168,7 +160,7 @@ Bicho stopped eating. He made his circuits — living room, bedroom, kitchen, ba
 
 ---
 
-I am writing this from the apartment. I want you to know that. I have not left. I have not left because I signed a lease and because the rent is three hundred thousand pesos and because there is nowhere else in this city that three hundred thousand pesos will buy me two rooms and a bathroom and a kitchen where the counter tilts toward the wall. I have not left because leaving would mean admitting that the building is what I think it is, and I do not have a word for what I think it is, and I am a person who needs words — who catalogs damage, who names what is broken so that the brokenness can be contained.
+I am writing this from the apartment. I have not left. I have not left because I signed a lease and because the rent is three hundred thousand pesos and because there is nowhere else in this city that three hundred thousand pesos will buy me two rooms and a bathroom and a kitchen where the counter tilts toward the wall. I have not left because leaving would mean admitting that the building is what I think it is, and I do not have a word for what I think it is, and I am a person who needs words — who catalogs damage, who names what is broken so that the brokenness can be contained.
 
 The hallway is longer now. I cannot prove this. The tape measure still reads six meters forty, six meters forty. But it takes me longer to walk it. It takes Bicho longer to cross the living room. The rooms are the same size and also they are not, and I have stopped trying to reconcile the measurements with the experience because the measurements are wrong, or the experience is wrong, or the building exists in a condition that does not require measurements and experience to agree.
 
@@ -180,4 +172,4 @@ I count the steps every morning. Seventeen, seventeen, seventeen, seventeen. I c
 
 Bicho is sitting on the windowsill. He is looking at the airshaft. There is nothing in the airshaft. There has never been anything in the airshaft. But the airshaft goes down farther than a five-story building should require, and I have never dropped anything into it because I am afraid of how long it would take to hear it land.
 
-It is Tuesday. The rent is due on Friday. I will pay it. I will continue to live here. The building will continue to be what it is. And every morning I will walk the hallway and climb the stairs and count each step aloud, because the counting is the only thing I have, and I am not ready — not yet, not quite — to let it go.
+It is Tuesday. The rent is due on Friday. I will pay it. I will continue to live here. The building will continue to be what it is. And every morning I will walk the hallway and climb the stairs and count each step aloud, because the day I stop counting is the day I find out how many steps there really are.
