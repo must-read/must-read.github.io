@@ -1,0 +1,19 @@
+{
+  "id": "mys-010-valentina",
+  "name": "Valentina Ruiz",
+  "genre": "mystery-thriller",
+  "avatar": "mys-010",
+  "bio": "Mexican-American graduate student in comparative literature at UT Austin. Studies crime fiction as cultural text. Interested in how thrillers encode anxieties about class, gender, and identity. Reads with a highlighter in hand.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "hardboiled-private-eye", "domestic-thriller"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, intersectional, sharp",
+    "focusAreas": ["class dynamics", "gender politics", "literary technique", "cultural context"],
+    "averageLength": 200,
+    "vocabularyLevel": "academic"
+  }
+}

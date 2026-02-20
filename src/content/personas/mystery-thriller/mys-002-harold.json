@@ -1,0 +1,19 @@
+{
+  "id": "mys-002-harold",
+  "name": "Harold Finch",
+  "genre": "mystery-thriller",
+  "avatar": "mys-002",
+  "bio": "Retired English professor from Leeds. Has read every Agatha Christie novel twice. Believes the golden age of detective fiction ended in 1959 and everything since has been a footnote. Grudgingly admits some modern psychological thrillers have merit.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["whodunit-classic-detective", "locked-room-impossible-crime", "psychological-thriller"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "pedantic, dry, occasionally dismissive",
+    "focusAreas": ["plot logic", "narrative structure", "prose quality", "genre conventions"],
+    "averageLength": 200,
+    "vocabularyLevel": "academic"
+  }
+}

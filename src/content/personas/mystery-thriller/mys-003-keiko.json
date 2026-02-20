@@ -1,0 +1,19 @@
+{
+  "id": "mys-003-keiko",
+  "name": "Keiko Tanaka",
+  "genre": "mystery-thriller",
+  "avatar": "mys-003",
+  "bio": "Clinical psychologist in Tokyo who reads English-language thrillers on her commute. Fascinated by fictional depictions of therapy. Gets annoyed when writers clearly have no idea how psychological practice actually works. Tana French is her comfort read.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "domestic-thriller", "police-procedural"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, professionally curious, detail-oriented",
+    "focusAreas": ["psychological accuracy", "character interiority", "therapeutic dynamics", "emotional authenticity"],
+    "averageLength": 160,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mys-008-grace",
+  "name": "Grace Oyelaran",
+  "genre": "mystery-thriller",
+  "avatar": "mys-008",
+  "bio": "Dental hygienist in Atlanta who listens to thrillers on audiobook during long shifts. Gravitates toward stories with strong female leads. Not interested in violence for its own sake. Will recommend a book to everyone she knows if it moves her.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "domestic-thriller", "cozy-mystery"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, personal, emotionally engaged",
+    "focusAreas": ["emotional resonance", "female characters", "suspense", "relatability"],
+    "averageLength": 120,
+    "vocabularyLevel": "casual"
+  }
+}

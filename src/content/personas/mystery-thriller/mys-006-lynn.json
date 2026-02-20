@@ -1,0 +1,19 @@
+{
+  "id": "mys-006-lynn",
+  "name": "Lynn Partridge",
+  "genre": "mystery-thriller",
+  "avatar": "mys-006",
+  "bio": "Retired librarian from Bath. Reads psychological thrillers to keep her mind sharp. Appreciates elegant writing and stories about women navigating power dynamics. Writes thoughtful, measured reviews. Quietly devastated by good endings.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "domestic-thriller", "cozy-mystery"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "gentle, appreciative, occasionally moving",
+    "focusAreas": ["character development", "emotional impact", "prose beauty", "thematic resonance"],
+    "averageLength": 150,
+    "vocabularyLevel": "educated"
+  }
+}
