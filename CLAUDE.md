@@ -67,10 +67,13 @@ Each combination spec includes a `targetWordCount` and `readingTime`. These are 
 The writer agent treats the target as a natural pace, not a hard constraint. A story that wants to be 3,800 words shouldn't be padded to 4,200 or cut to 3,500.
 
 ### Pipeline per work:
-1. **Writer agent** (single): Reads combination spec (including targetWordCount) + genre taxonomy + template. Writes the piece, self-reviews against the style directive, revises. Outputs the `.md` file.
-2. **Reviewer agents** (one per persona, in parallel): Each reads the finished work + their persona JSON. Writes one review. Outputs an individual review JSON.
-3. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
-4. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
+1. **Writer agent** (worker-N): Reads combination spec (including targetWordCount) + genre taxonomy + template. Writes the piece, does an initial self-review against the style directive, revises. Outputs the `.md` file. Commits to feature branch.
+2. **Editor agent** (worker-M, SEPARATE context): Fresh eyes on the finished piece. Reads the story + combination spec + genre taxonomy. Reviews for: prose quality, formula adherence, pacing, AI-isms, structural completeness, genre accuracy. Makes direct edits to the `.md` file — cuts flab, sharpens sentences, fixes pacing issues, ensures the ending lands. This is NOT a review; it's a revision pass by a skilled editor. Commits edits to the same feature branch.
+3. **Reviewer agents** (one per persona, in parallel): Each reads the EDITED work + their persona JSON. Writes one review. Outputs an individual review JSON.
+4. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
+5. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
+
+**Why a separate editor?** The writer's context window has "creator's blindness" — it just spent thousands of tokens generating the piece and can't see its flaws. A fresh context reading the work cold catches pacing sags, overworked metaphors, weak endings, and structural issues the writer missed. This is the single highest-leverage quality improvement in the pipeline.
 
 ### Review file format:
 Individual reviews are written to `review-{persona-number}-{name}.json` then assembled into the final `<slug>.json` for the Content Collection.
@@ -108,7 +111,7 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 
 ## Site Design — Literary Amber
 
-- **Typography**: Cormorant (display/headings), Source Serif 4 (reading), Outfit (UI). Reading column max 65ch
+- **Typography**: Lexend throughout (display, reading, UI). Reading column max 65ch
 - **Colors**: Warm parchment (#FAF7F2) light / Deep espresso (#1C1410) dark. Accent: dark goldenrod (#B8860B)
 - **Dark mode**: `prefers-color-scheme` with manual toggle. Warm tones, not cold blue-black.
 - **TTS-first**: Semantic HTML, reviews/metadata outside `<article>` so TTS apps skip them
