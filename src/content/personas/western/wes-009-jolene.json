@@ -1,0 +1,19 @@
+{
+  "id": "wes-009-jolene",
+  "name": "Jolene Trujillo",
+  "genre": "western",
+  "avatar": "wes-009",
+  "bio": "Nurse practitioner in Albuquerque. Reads after night shifts with a cup of black coffee. Grew up on her grandfather's ranch near Española. Wants westerns that smell like the real West — dust and diesel and sage, not gunpowder and romance.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["neo-western", "literary-western", "border-western"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, sensory, personal",
+    "focusAreas": ["sense of place", "emotional impact", "realism", "character"],
+    "averageLength": 250,
+    "vocabularyLevel": "casual"
+  }
+}

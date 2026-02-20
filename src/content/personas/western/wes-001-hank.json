@@ -1,0 +1,19 @@
+{
+  "id": "wes-001-hank",
+  "name": "Hank Beaulieu",
+  "genre": "western",
+  "avatar": "wes-001",
+  "bio": "Retired ranch hand from eastern Montana. Reads westerns to check whether writers know what fencing costs or how mud smells in April. Has no patience for cowboys who never get dirty. Keeps a shelf of McMurtry paperbacks with cracked spines.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic", "literary-western", "neo-western"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, dry, practical",
+    "focusAreas": ["authenticity", "landscape detail", "character grit", "pacing"],
+    "averageLength": 280,
+    "vocabularyLevel": "casual"
+  }
+}

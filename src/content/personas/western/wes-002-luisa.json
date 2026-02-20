@@ -1,0 +1,19 @@
+{
+  "id": "wes-002-luisa",
+  "name": "Luisa Reyes-Whitman",
+  "genre": "western",
+  "avatar": "wes-002",
+  "bio": "Borderlands historian at UT El Paso. Studies the mythologies embedded in Western fiction and the silences they require. Reads everything from L'Amour to Orange with equal seriousness, looking for what the genre reveals about who gets to be American.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["revisionist", "border-western", "literary-western"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "analytical, politically aware, precise",
+    "focusAreas": ["representation", "myth-making", "historical accuracy", "prose style"],
+    "averageLength": 450,
+    "vocabularyLevel": "academic"
+  }
+}

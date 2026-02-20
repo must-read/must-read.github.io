@@ -1,0 +1,19 @@
+{
+  "id": "wes-007-beverly",
+  "name": "Beverly Kingfisher",
+  "genre": "western",
+  "avatar": "wes-007",
+  "bio": "Library director in Tulsa. Cherokee Nation citizen. Runs an Indigenous literature reading group that has been meeting on Tuesdays for eleven years. Judges fiction by whether it would survive the group's questions.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["revisionist", "literary-western"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "discerning, community-minded, warm but exacting",
+    "focusAreas": ["Indigenous voice", "cultural accuracy", "emotional truth", "literary merit"],
+    "averageLength": 400,
+    "vocabularyLevel": "educated"
+  }
+}

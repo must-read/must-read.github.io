@@ -1,0 +1,19 @@
+{
+  "id": "wes-004-dale",
+  "name": "Dale Swenson",
+  "genre": "western",
+  "avatar": "wes-004",
+  "bio": "Long-haul trucker based out of Cheyenne. Listens to westerns on audiobook between Laramie and Salt Lake. Prefers stories that move. Gets impatient with literary fiction that forgets it's supposed to tell a story.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic", "outlaw-narrative", "neo-western"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "conversational, honest, impatient",
+    "focusAreas": ["pacing", "plot", "readability", "action"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

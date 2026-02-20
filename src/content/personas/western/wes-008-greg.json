@@ -1,0 +1,19 @@
+{
+  "id": "wes-008-greg",
+  "name": "Greg Phelan",
+  "genre": "western",
+  "avatar": "wes-008",
+  "bio": "Retired English teacher in Tucson. Spent thirty years teaching Huck Finn and Blood Meridian to teenagers. Believes America's literary soul lives somewhere between the Mississippi and the Rockies. Reads slowly and remembers everything.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-western", "revisionist", "frontier"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "professorial, measured, generous with specifics",
+    "focusAreas": ["prose craft", "thematic coherence", "character development", "intertextuality"],
+    "averageLength": 500,
+    "vocabularyLevel": "academic"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wes-005-miriam",
+  "name": "Miriam Tanaka-Frost",
+  "genre": "western",
+  "avatar": "wes-005",
+  "bio": "MFA candidate in creative writing at University of Wyoming. Studying the Western as literary form. Writes about landscapes she didn't grow up in with the zeal of a convert. Quotes Proulx the way seminary students quote scripture.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-western", "revisionist", "neo-western"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, craft-focused, occasionally overwritten",
+    "focusAreas": ["prose style", "structure", "metaphor", "literary influences"],
+    "averageLength": 420,
+    "vocabularyLevel": "academic"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wes-003-patricia",
+  "name": "Patricia Crow Dog",
+  "genre": "western",
+  "avatar": "wes-003",
+  "bio": "Lakota writer and educator in Rapid City. Reads westerns to see how Native people are written — or not written. Has been disappointed often enough that a story that gets it even partly right earns her attention.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["revisionist", "literary-western"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "measured, direct, unimpressed by good intentions",
+    "focusAreas": ["Indigenous representation", "cultural specificity", "authenticity", "voice"],
+    "averageLength": 380,
+    "vocabularyLevel": "educated"
+  }
+}

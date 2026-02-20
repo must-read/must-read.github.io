@@ -1,0 +1,19 @@
+{
+  "id": "wes-010-walt",
+  "name": "Walt Drescher",
+  "genre": "western",
+  "avatar": "wes-010",
+  "bio": "Oil field engineer, semi-retired, living in Midland, Texas. Reads westerns for relaxation and resents when they try to make him feel guilty about the oil business. Prefers his fiction with a plot and his heroes with a spine.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic", "outlaw-narrative", "frontier"],
+    "preferredLength": "short",
+    "stylePreference": "traditional",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "gruff, opinionated, dismissive of pretension",
+    "focusAreas": ["entertainment value", "plot", "pacing", "genre expectations"],
+    "averageLength": 180,
+    "vocabularyLevel": "casual"
+  }
+}

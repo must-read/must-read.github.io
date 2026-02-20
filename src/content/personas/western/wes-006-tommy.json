@@ -1,0 +1,19 @@
+{
+  "id": "wes-006-tommy",
+  "name": "Tommy Wurlitzer",
+  "genre": "western",
+  "avatar": "wes-006",
+  "bio": "Bookstore owner in Bozeman. Grew up on Zane Grey and graduated to McCarthy. Believes the Western is America's only honest genre because it never pretends the violence isn't the point. Stocks more westerns than any other shop in Montana.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-western", "classic", "revisionist"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "knowledgeable, enthusiastic, comparative",
+    "focusAreas": ["genre tradition", "prose quality", "thematic depth", "character"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}
