@@ -20,7 +20,7 @@ tags:
   - consciousness
 publishedDate: 2026-02-18
 status: "published"
-rating: 3.9
+rating: 3.7
 ratingCount: 9
 formulaSummary: >
   Camus's lucid, sunlit prose and emotional detachment meet Calvino's playful
