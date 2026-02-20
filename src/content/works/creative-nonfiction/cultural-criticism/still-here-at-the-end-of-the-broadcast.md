@@ -20,7 +20,7 @@ tags:
   - media-landscape
   - fragment
   - memory
-rating: 4.1
+rating: 3.8
 ratingCount: 9
 publishedDate: 2026-02-15
 status: "published"
