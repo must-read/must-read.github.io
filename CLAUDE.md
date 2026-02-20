@@ -32,8 +32,17 @@ Every work uses a unique 4-element formula: **AuthorA(style) + AuthorB(style) + 
 
 **Critical rule: Writing and reviewing are separate contexts.** The agent that writes a work must NEVER be the same agent that reviews it. Each reviewer agent gets a fresh context — it reads the finished story and one persona profile, then writes a single review. This ensures genuinely independent perspectives.
 
+### Target word counts:
+Each combination spec includes a `targetWordCount` and `readingTime`. These are assigned when building the generation queue, drawn from a natural distribution across the full 2,500-6,000 range:
+- ~20% short (2,500-3,200 words, 10-13 min) — tight, focused pieces
+- ~40% medium (3,200-4,500 words, 13-18 min) — the sweet spot
+- ~30% long (4,500-5,500 words, 18-22 min) — room to breathe
+- ~10% extended (5,500-6,000 words, 22-25 min) — epic or complex pieces
+
+The writer agent treats the target as a natural pace, not a hard constraint. A story that wants to be 3,800 words shouldn't be padded to 4,200 or cut to 3,500.
+
 ### Pipeline per work:
-1. **Writer agent** (single): Reads combination spec + genre taxonomy + template. Writes the piece, self-reviews against the style directive, revises. Outputs the `.md` file.
+1. **Writer agent** (single): Reads combination spec (including targetWordCount) + genre taxonomy + template. Writes the piece, self-reviews against the style directive, revises. Outputs the `.md` file.
 2. **Reviewer agents** (one per persona, in parallel): Each reads the finished work + their persona JSON. Writes one review. Outputs an individual review JSON.
 3. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
 4. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
