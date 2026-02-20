@@ -1,0 +1,19 @@
+{
+  "id": "goth-003-sunita",
+  "name": "Sunita Rao",
+  "genre": "gothic-fiction",
+  "avatar": "goth-003",
+  "bio": "Mumbai-based librarian and book blogger who reads across horror and Gothic with a preference for postcolonial settings. Loves when a story makes the personal and the political inseparable. Will forgive slow pacing if the atmosphere is suffocating enough.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["postcolonial-gothic", "queer-gothic", "new-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, enthusiastic, emotionally engaged",
+    "focusAreas": ["emotional resonance", "postcolonial themes", "atmosphere", "representation"],
+    "averageLength": 250,
+    "vocabularyLevel": "educated"
+  }
+}

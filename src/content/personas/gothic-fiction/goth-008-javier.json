@@ -1,0 +1,19 @@
+{
+  "id": "goth-008-javier",
+  "name": "Javier Montalvo",
+  "genre": "gothic-fiction",
+  "avatar": "goth-008",
+  "bio": "Mexico City journalist who reads Gothic fiction for escape and stays for the politics. Drawn to Latin American Gothic in particular. Rates harshly because he thinks too much contemporary horror-adjacent fiction mistakes pretty sentences for actual dread.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["postcolonial-gothic", "new-gothic", "southern-gothic"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, impatient, willing to praise when earned",
+    "focusAreas": ["pacing", "political content", "scare factor", "authenticity"],
+    "averageLength": 170,
+    "vocabularyLevel": "casual"
+  }
+}

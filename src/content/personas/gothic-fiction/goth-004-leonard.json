@@ -1,0 +1,19 @@
+{
+  "id": "goth-004-leonard",
+  "name": "Leonard Fry",
+  "genre": "gothic-fiction",
+  "avatar": "goth-004",
+  "bio": "PhD candidate in Gothic Studies at Lancaster University. Writing his dissertation on architectural uncanny in 21st-century fiction. Reads clinically, annotates everything, and rates conservatively because he believes most contemporary Gothic relies on mood at the expense of structural innovation.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["new-gothic", "postcolonial-gothic", "queer-gothic"],
+    "preferredLength": "long",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, precise, occasionally pedantic",
+    "focusAreas": ["formal innovation", "intertextuality", "architectural space", "genre self-awareness"],
+    "averageLength": 400,
+    "vocabularyLevel": "academic"
+  }
+}

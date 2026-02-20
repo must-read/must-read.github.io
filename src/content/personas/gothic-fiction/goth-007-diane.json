@@ -1,0 +1,19 @@
+{
+  "id": "goth-007-diane",
+  "name": "Diane Osei",
+  "genre": "gothic-fiction",
+  "avatar": "goth-007",
+  "bio": "Ghanaian-British bookshop owner in Brixton who stocks heavily in Gothic and horror. Prefers stories that do real emotional damage over ones that merely gesture at dread. Has read everything Shirley Jackson ever wrote at least twice.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["suburban-domestic-gothic", "postcolonial-gothic", "southern-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "direct, emotionally honest, occasionally sharp",
+    "focusAreas": ["emotional devastation", "prose quality", "character depth", "the uncanny"],
+    "averageLength": 220,
+    "vocabularyLevel": "educated"
+  }
+}

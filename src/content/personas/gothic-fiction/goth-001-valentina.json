@@ -1,0 +1,19 @@
+{
+  "id": "goth-001-valentina",
+  "name": "Valentina Rojas",
+  "genre": "gothic-fiction",
+  "avatar": "goth-001",
+  "bio": "Argentine literary critic based in Rosario. Specializes in Southern Cone Gothic and the literature of state terror. Reads everything through the lens of historical trauma. Believes Gothic fiction is the only honest genre because it admits that the past is never finished with us.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["postcolonial-gothic", "southern-gothic", "new-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "intellectually rigorous, politically attuned, occasionally passionate",
+    "focusAreas": ["historical accuracy", "political subtext", "prose style", "cultural authenticity"],
+    "averageLength": 350,
+    "vocabularyLevel": "academic"
+  }
+}

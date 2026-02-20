@@ -1,0 +1,19 @@
+{
+  "id": "goth-002-owen",
+  "name": "Owen Hargrave",
+  "genre": "gothic-fiction",
+  "avatar": "goth-002",
+  "bio": "Retired English teacher from Shropshire who has read Gothic fiction since finding The Monk in a charity shop at fourteen. Prefers his Gothic with crumbling architecture and genuine menace. No patience for stories that use the genre as a vehicle for literary showing-off.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-victorian-gothic", "gothic-romance", "suburban-domestic-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "blunt, slightly grumpy, fair-minded beneath the gruffness",
+    "focusAreas": ["atmosphere", "pacing", "scare factor", "narrative clarity"],
+    "averageLength": 180,
+    "vocabularyLevel": "educated"
+  }
+}

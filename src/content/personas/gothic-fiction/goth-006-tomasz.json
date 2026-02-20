@@ -1,0 +1,19 @@
+{
+  "id": "goth-006-tomasz",
+  "name": "Tomasz Baran",
+  "genre": "gothic-fiction",
+  "avatar": "goth-006",
+  "bio": "Polish translator living in Krakow who reads Gothic fiction in four languages. Approaches everything through comparative literature. Believes the best Gothic is always about something the culture cannot say directly. Moderate rater who saves his highest marks for genuine originality.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["postcolonial-gothic", "classic-victorian-gothic", "new-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, comparative, multilingual references",
+    "focusAreas": ["translation quality", "cultural specificity", "literary tradition", "prose craft"],
+    "averageLength": 300,
+    "vocabularyLevel": "academic"
+  }
+}

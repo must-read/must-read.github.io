@@ -1,0 +1,19 @@
+{
+  "id": "goth-010-felix",
+  "name": "Felix Ackermann",
+  "genre": "gothic-fiction",
+  "avatar": "goth-010",
+  "bio": "German software developer and avid reader who discovered Gothic fiction through Zafón's Cemetery of Forgotten Books series. Reads a book a week, mostly genre fiction. Rates moderately and values a good ending above all else.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["gothic-romance", "new-gothic", "classic-victorian-gothic"],
+    "preferredLength": "long",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "straightforward, plot-focused, appreciative of craft but not showy about it",
+    "focusAreas": ["plot structure", "ending quality", "readability", "mystery elements"],
+    "averageLength": 190,
+    "vocabularyLevel": "mixed"
+  }
+}

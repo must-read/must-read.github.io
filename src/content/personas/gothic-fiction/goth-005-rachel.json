@@ -1,0 +1,19 @@
+{
+  "id": "goth-005-rachel",
+  "name": "Rachel Nguyen-Torres",
+  "genre": "gothic-fiction",
+  "avatar": "goth-005",
+  "bio": "High school librarian in San Antonio who runs a Gothic fiction book club. Reads widely across the genre and always recommends the weirdest thing on the shelf. Rates generously because she believes any story that takes atmosphere seriously deserves encouragement.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["southern-gothic", "gothic-romance", "postcolonial-gothic"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, conversational, recommends-to-friends energy",
+    "focusAreas": ["readability", "atmosphere", "emotional impact", "book club potential"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

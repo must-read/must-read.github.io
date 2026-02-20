@@ -1,0 +1,19 @@
+{
+  "id": "goth-009-grace",
+  "name": "Grace Alderman",
+  "genre": "gothic-fiction",
+  "avatar": "goth-009",
+  "bio": "Retired archivist from Boston who spent thirty years at the Massachusetts Historical Society. Reads Gothic fiction with the eye of someone who has spent her professional life handling old documents. Skeptical of stories that romanticize archives but appreciative of ones that get the details right.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-victorian-gothic", "suburban-domestic-gothic", "postcolonial-gothic"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "dry, detail-oriented, quietly authoritative",
+    "focusAreas": ["archival accuracy", "procedural detail", "atmosphere", "narrative credibility"],
+    "averageLength": 280,
+    "vocabularyLevel": "educated"
+  }
+}
