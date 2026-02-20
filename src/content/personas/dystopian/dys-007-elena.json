@@ -1,0 +1,19 @@
+{
+  "id": "dys-007-elena",
+  "name": "Elena Vasilescu",
+  "genre": "dystopian",
+  "avatar": "dys-007",
+  "bio": "Romanian journalist who covered post-Ceausescu Romania. Reads dystopia professionally and personally. Has no patience for dystopias that don't understand how power actually works. Likes her prose dry.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["totalitarian-political-dystopia", "feminist-dystopia", "corporate-dystopia"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, experienced, occasionally withering",
+    "focusAreas": ["political credibility", "power dynamics", "prose discipline"],
+    "averageLength": 300,
+    "vocabularyLevel": "educated"
+  }
+}

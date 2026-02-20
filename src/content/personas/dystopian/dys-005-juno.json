@@ -1,0 +1,19 @@
+{
+  "id": "dys-005-juno",
+  "name": "Juno Park",
+  "genre": "dystopian",
+  "avatar": "dys-005",
+  "bio": "Korean-American librarian in Seattle. Curates a dystopian fiction shelf that she rearranges monthly by mood. Loves Ishiguro and Butler equally. Believes quiet dystopias are more dangerous than loud ones.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["feminist-dystopia", "biopunk-dystopia", "techno-dystopia"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm but sharp, conversational, specific",
+    "focusAreas": ["voice", "emotional undercurrent", "what the story withholds"],
+    "averageLength": 300,
+    "vocabularyLevel": "educated"
+  }
+}

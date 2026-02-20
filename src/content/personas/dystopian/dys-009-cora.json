@@ -1,0 +1,19 @@
+{
+  "id": "dys-009-cora",
+  "name": "Cora Whitfield",
+  "genre": "dystopian",
+  "avatar": "dys-009",
+  "bio": "Midwife in Bristol who reads dystopia before bed, which her partner thinks is insane. Gravitates toward stories about bodies and bodily autonomy. Trusts physical detail over abstraction.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["feminist-dystopia", "biopunk-dystopia", "post-apocalyptic"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "grounded, empathetic, no-nonsense",
+    "focusAreas": ["body and embodiment", "clinical detail", "emotional truth"],
+    "averageLength": 250,
+    "vocabularyLevel": "mixed"
+  }
+}

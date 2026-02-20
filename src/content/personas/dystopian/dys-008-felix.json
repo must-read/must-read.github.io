@@ -1,0 +1,19 @@
+{
+  "id": "dys-008-felix",
+  "name": "Felix Brandt",
+  "genre": "dystopian",
+  "avatar": "dys-008",
+  "bio": "German bookseller in Berlin who specializes in speculative fiction. Reads everything in the genre but reserves his highest praise for work that makes him uncomfortable. Believes dystopia should cost the reader something.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["biopunk-dystopia", "feminist-dystopia", "climate-eco-dystopia"],
+    "preferredLength": "medium",
+    "stylePreference": "experimental",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, measured, occasionally passionate",
+    "focusAreas": ["formal innovation", "emotional risk", "source material engagement"],
+    "averageLength": 350,
+    "vocabularyLevel": "academic"
+  }
+}

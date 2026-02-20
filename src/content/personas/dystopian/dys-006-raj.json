@@ -1,0 +1,19 @@
+{
+  "id": "dys-006-raj",
+  "name": "Raj Subramanian",
+  "genre": "dystopian",
+  "avatar": "dys-006",
+  "bio": "Software engineer in Bangalore who reads dystopia on his commute. Drawn to systems — political, technological, narrative. Appreciates economy of means. Will forgive a weak ending if the architecture holds.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["techno-dystopia", "corporate-dystopia", "totalitarian-political-dystopia"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "methodical, fair, slightly detached",
+    "focusAreas": ["structural logic", "world-building", "narrative efficiency"],
+    "averageLength": 250,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dys-010-owen",
+  "name": "Owen Tsai",
+  "genre": "dystopian",
+  "avatar": "dys-010",
+  "bio": "Comparative lit PhD candidate in Toronto. Writing his dissertation on institutional voice in dystopian fiction. Reads everything through the lens of narrative complicity. Overthinks, admits it, keeps doing it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["feminist-dystopia", "totalitarian-political-dystopia", "young-adult-dystopia"],
+    "preferredLength": "long",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "academic but self-aware, rigorous, occasionally nerdy",
+    "focusAreas": ["narrative voice", "institutional language", "intertextuality"],
+    "averageLength": 500,
+    "vocabularyLevel": "academic"
+  }
+}

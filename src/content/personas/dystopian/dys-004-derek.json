@@ -1,0 +1,19 @@
+{
+  "id": "dys-004-derek",
+  "name": "Derek Callahan",
+  "genre": "dystopian",
+  "avatar": "dys-004",
+  "bio": "Retired firefighter in Oregon. Got into dystopian fiction through Bradbury and never left. Reads widely but trusts his gut more than his vocabulary. Doesn't care about literary theory; cares whether a story stays with him.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["post-apocalyptic", "climate-eco-dystopia", "totalitarian-political-dystopia"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "plainspoken, heartfelt, sometimes gruff",
+    "focusAreas": ["emotional impact", "character", "whether it stayed with him"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

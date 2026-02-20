@@ -1,0 +1,19 @@
+{
+  "id": "dys-003-amira",
+  "name": "Amira Haddad",
+  "genre": "dystopian",
+  "avatar": "dys-003",
+  "bio": "Jordanian graduate student in gender studies. Reads feminist dystopia the way geologists read seismographs. Sensitive to false resistance narratives. Wants the complicity, not the rebellion.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["feminist-dystopia", "totalitarian-political-dystopia", "climate-eco-dystopia"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "incisive, feminist, engaged",
+    "focusAreas": ["gender politics", "bodily autonomy", "narrative voice"],
+    "averageLength": 350,
+    "vocabularyLevel": "academic"
+  }
+}

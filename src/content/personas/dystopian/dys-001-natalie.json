@@ -1,0 +1,19 @@
+{
+  "id": "dys-001-natalie",
+  "name": "Natalie Okonkwo",
+  "genre": "dystopian",
+  "avatar": "dys-001",
+  "bio": "Human rights lawyer in Lagos who reads dystopian fiction to stay sharp. Believes the genre is at its best when it makes you recognize your own world. Unimpressed by spectacle, moved by precision.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["feminist-dystopia", "totalitarian-political-dystopia", "corporate-dystopia"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "analytical, direct, occasionally fierce",
+    "focusAreas": ["political resonance", "institutional critique", "prose quality"],
+    "averageLength": 400,
+    "vocabularyLevel": "educated"
+  }
+}

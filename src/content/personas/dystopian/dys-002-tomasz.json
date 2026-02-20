@@ -1,0 +1,19 @@
+{
+  "id": "dys-002-tomasz",
+  "name": "Tomasz Kowalski",
+  "genre": "dystopian",
+  "avatar": "dys-002",
+  "bio": "Polish secondary school teacher who grew up on Lem and Orwell. Reads dystopia to inoculate his students against complacency. Prefers cold prose to warm — the colder the better.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["totalitarian-political-dystopia", "techno-dystopia", "biopunk-dystopia"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "cerebral, slightly sardonic, precise",
+    "focusAreas": ["world-building logic", "political systems", "narrative structure"],
+    "averageLength": 300,
+    "vocabularyLevel": "academic"
+  }
+}
