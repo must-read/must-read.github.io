@@ -9,10 +9,35 @@ Every work uses a unique 4-element formula: **AuthorA(style) + AuthorB(style) + 
 ## Architecture
 
 - **Static site generator**: Astro 5.x with Content Collections (Zod schemas), zero-JS default
-- **Hosting**: GitHub Pages from `main` branch, `/docs` folder
+- **Hosting**: GitHub Pages from `main` branch, `/docs` folder (org repo, serves at root — NO base path)
 - **Content format**: Markdown + YAML frontmatter for works; JSON for reviews and personas
 - **Build output**: `docs/` directory (Astro `outDir: './docs'`)
 - **Content generation**: Claude Code CLI headless mode with git worktrees for parallelism
+
+## Orchestration Model (MANDATORY)
+
+**You are the manager. Background Opus 4.6 agents are the workers.**
+
+All heavy lifting MUST run in background Task agents, NOT in the main context. This is critical for context window longevity — the main context orchestrates, dispatches, and merges. Workers do the actual coding, generation, and feature work.
+
+### Worker infrastructure:
+- **5 git worktrees** at `.worktrees/worker-{1-5}` on branches `worker/slot-{1-5}`
+- Each background agent gets a worktree path as its working directory
+- Workers commit to their feature branch; main context merges to `main`
+- Content paths are unique per work, so merge conflicts are impossible
+
+### Dispatching pattern:
+```
+1. Main context: plan what needs doing, assign to background agent
+2. Background agent: works in its worktree, commits when done
+3. Main context: merge feature branch → main, rebuild docs, push
+```
+
+### Context preservation across compactions:
+- This CLAUDE.md is loaded every turn (survives compaction)
+- MEMORY.md in auto-memory dir is also loaded every turn
+- When context compacts, re-read this file to restore workflow knowledge
+- NEVER do heavy lifting directly — always dispatch to background agents
 
 ## Key Files
 
@@ -81,13 +106,16 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 - Reviews: `src/content/reviews/<genre>/<subgenre>/<slug>.json`
 - Personas: `src/content/personas/<genre>/<persona-id>.json` (one file per persona)
 
-## Site Design Essentials
+## Site Design — Literary Amber
 
-- **Typography**: Lexend for reading, Inter for UI. Reading column max 65ch
-- **Dark mode**: `prefers-color-scheme` with manual toggle
+- **Typography**: Cormorant (display/headings), Source Serif 4 (reading), Outfit (UI). Reading column max 65ch
+- **Colors**: Warm parchment (#FAF7F2) light / Deep espresso (#1C1410) dark. Accent: dark goldenrod (#B8860B)
+- **Dark mode**: `prefers-color-scheme` with manual toggle. Warm tones, not cold blue-black.
 - **TTS-first**: Semantic HTML, reviews/metadata outside `<article>` so TTS apps skip them
-- **Reading view**: Single column, zero clutter, 3px progress bar at top
-- **Library view**: Responsive grid (1-4 columns by breakpoint)
+- **Reading view**: Single column, zero clutter, amber gradient progress bar, drop cap first letter
+- **Library view**: Responsive grid (1-4 columns), genre cards with image backgrounds
+- **Images**: 21 Gemini-generated images (16 genre + 5 site-wide), processed with ImageMagick, Astro WebP optimization
+- **UX rule**: Genre labels on work cards use secondary color (NOT accent) — they are not links
 
 ## Development Phases
 
