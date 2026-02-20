@@ -1,0 +1,19 @@
+{
+  "id": "mys-011-noel",
+  "name": "Noel Kavanagh",
+  "genre": "mystery-thriller",
+  "avatar": "mys-011",
+  "bio": "Galway publican who reads a thriller a week and has been doing so since 1987. Keeps a handwritten log of every book. Judges stories by whether they keep him up past midnight. No patience for literary pretension that forgets to tell a story.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "police-procedural", "whodunit-classic-detective"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "plain-spoken, direct, no-nonsense",
+    "focusAreas": ["storytelling", "suspense", "pacing", "ending satisfaction"],
+    "averageLength": 90,
+    "vocabularyLevel": "casual"
+  }
+}

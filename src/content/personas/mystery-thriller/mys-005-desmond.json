@@ -1,0 +1,19 @@
+{
+  "id": "mys-005-desmond",
+  "name": "Desmond Achebe",
+  "genre": "mystery-thriller",
+  "avatar": "mys-005",
+  "bio": "Lagos-based literary critic who writes a monthly crime fiction column for an arts magazine. Reads across continents and insists crime fiction is the most honest mirror a society has. Judges prose style as harshly as plot mechanics. Thinks most bestsellers are lazy.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "hardboiled-private-eye", "police-procedural"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "exacting, erudite, occasionally withering",
+    "focusAreas": ["prose style", "thematic depth", "originality", "social commentary"],
+    "averageLength": 220,
+    "vocabularyLevel": "academic"
+  }
+}

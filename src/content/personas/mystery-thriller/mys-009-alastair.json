@@ -1,0 +1,19 @@
+{
+  "id": "mys-009-alastair",
+  "name": "Alastair Drummond",
+  "genre": "mystery-thriller",
+  "avatar": "mys-009",
+  "bio": "Edinburgh barrister who reads crime fiction compulsively and critically. Has an eye for legal and procedural errors. Believes the best thrillers are really about institutions failing people. Loves le Carre, tolerates most others.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["espionage-spy-thriller", "legal-thriller", "psychological-thriller"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "precise, authoritative, slightly impatient",
+    "focusAreas": ["institutional realism", "procedural accuracy", "moral complexity", "prose discipline"],
+    "averageLength": 170,
+    "vocabularyLevel": "educated"
+  }
+}

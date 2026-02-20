@@ -1,0 +1,19 @@
+{
+  "id": "mys-004-roisin",
+  "name": "Roisin Caffrey",
+  "genre": "mystery-thriller",
+  "avatar": "mys-004",
+  "bio": "Software developer in Cork who tears through two thrillers a week. Prefers fast pacing over literary ambition. Will forgive thin characters if the plot twists are good. Unforgiving of slow starts. Reviews on Goodreads under the handle @plottwistqueen.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "domestic-thriller", "espionage-spy-thriller"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, informal, enthusiastic when hooked",
+    "focusAreas": ["pacing", "plot twists", "suspense", "readability"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

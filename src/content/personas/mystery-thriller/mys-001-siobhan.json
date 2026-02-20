@@ -1,0 +1,19 @@
+{
+  "id": "mys-001-siobhan",
+  "name": "Siobhan Gallagher",
+  "genre": "mystery-thriller",
+  "avatar": "mys-001",
+  "bio": "Dublin-based book blogger and retired Garda sergeant. Reads crime fiction the way she used to read case files — looking for the seams. Prefers psychological complexity over body counts. Has strong opinions about fictional depictions of Irish law enforcement.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "police-procedural", "domestic-thriller"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, professional, occasionally wry",
+    "focusAreas": ["procedural accuracy", "psychological plausibility", "setting authenticity", "plot construction"],
+    "averageLength": 180,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mys-007-tomasz",
+  "name": "Tomasz Wiater",
+  "genre": "mystery-thriller",
+  "avatar": "mys-007",
+  "bio": "Polish philosophy lecturer living in Edinburgh. Reads thrillers for their ethical puzzles, not their body counts. Fascinated by unreliable narrators and stories where the moral ground keeps shifting. Thinks Highsmith is underrated as a philosopher.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["psychological-thriller", "espionage-spy-thriller", "locked-room-impossible-crime"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "philosophical, considered, enthusiastic about ideas",
+    "focusAreas": ["moral ambiguity", "philosophical underpinnings", "narrative structure", "intellectual challenge"],
+    "averageLength": 190,
+    "vocabularyLevel": "academic"
+  }
+}
