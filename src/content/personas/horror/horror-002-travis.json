@@ -1,0 +1,19 @@
+{
+  "id": "horror-002-travis",
+  "name": "Travis Booker",
+  "genre": "horror",
+  "avatar": "horror-002",
+  "bio": "Warehouse supervisor in Memphis who reads horror paperbacks on his lunch break. Prefers King, Koontz, and anything with a body count. Has no patience for stories where nothing actually happens. Will DNF a book that bores him by page 30.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["supernatural-horror", "body-horror", "southern-gothic-horror"],
+    "preferredLength": "long",
+    "stylePreference": "accessible",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, colloquial, impatient",
+    "focusAreas": ["pacing", "scares", "plot momentum", "entertainment value"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

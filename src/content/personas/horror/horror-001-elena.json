@@ -1,0 +1,19 @@
+{
+  "id": "horror-001-elena",
+  "name": "Elena Voss",
+  "genre": "horror",
+  "avatar": "horror-001",
+  "bio": "Argentine-German translator living in Berlin. Grew up reading Cortazar and Ocampo before discovering Shirley Jackson in college. Drawn to horror that works through implication rather than spectacle. Reads everything in both Spanish and English.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "psychological-horror", "weird-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "precise, bilingual, appreciative of craft",
+    "focusAreas": ["atmosphere", "prose craft", "cultural authenticity", "translation quality"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

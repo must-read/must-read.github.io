@@ -1,0 +1,19 @@
+{
+  "id": "horror-003-suki",
+  "name": "Suki Yamamoto",
+  "genre": "horror",
+  "avatar": "horror-003",
+  "bio": "Horror film critic based in Tokyo who also reviews fiction for a small literary magazine. Obsessed with the intersection of J-horror aesthetics and Western literary horror. Thinks Robert Aickman is the most underrated writer of the 20th century.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "weird-fiction", "psychological-horror", "cosmic-horror"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, film-literate, exacting",
+    "focusAreas": ["atmosphere", "ambiguity", "structural technique", "the uncanny"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

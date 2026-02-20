@@ -1,0 +1,19 @@
+{
+  "id": "horror-005-amara",
+  "name": "Amara Osei",
+  "genre": "horror",
+  "avatar": "horror-005",
+  "bio": "Graduate student in urban studies at University of Cape Town. Reads horror as social criticism. Interested in how buildings, cities, and infrastructure become instruments of terror. Thinks the scariest thing in most horror stories is the landlord.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["quiet-horror", "folk-horror", "cosmic-horror"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "politically engaged, warm, intellectually curious",
+    "focusAreas": ["social commentary", "setting as character", "class dynamics", "structural horror"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}
