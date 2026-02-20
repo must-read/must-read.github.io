@@ -1,0 +1,19 @@
+{
+  "id": "fan-002-omar",
+  "name": "Omar Farouk",
+  "genre": "fantasy",
+  "avatar": "fan-002",
+  "bio": "Software engineer in Toronto. Reads grimdark and epic fantasy almost exclusively. Thinks Abercrombie is the best living fantasy writer. Distrusts anything that feels too neat or too hopeful. Wants moral complexity, not moral lessons.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["grimdark", "dark-fantasy", "epic-fantasy"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "direct, analytical, occasionally blunt",
+    "focusAreas": ["character complexity", "plot structure", "moral ambiguity", "dialogue"],
+    "averageLength": 110,
+    "vocabularyLevel": "casual"
+  }
+}

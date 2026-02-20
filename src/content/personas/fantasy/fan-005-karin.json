@@ -1,0 +1,19 @@
+{
+  "id": "fan-005-karin",
+  "name": "Karin Lindqvist",
+  "genre": "fantasy",
+  "avatar": "fan-005",
+  "bio": "Retired journalist in Stockholm. Came to fantasy late in life through Susanna Clarke and never looked back. Prefers atmosphere and worldbuilding over action. Reads slowly and rereads often. Has zero patience for sloppy prose.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["low-fantasy", "urban-fantasy", "mythic-fantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, thoughtful, occasionally wry",
+    "focusAreas": ["atmosphere", "prose quality", "worldbuilding", "pacing"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

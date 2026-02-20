@@ -1,0 +1,19 @@
+{
+  "id": "fan-008-esme",
+  "name": "Esme Achebe",
+  "genre": "fantasy",
+  "avatar": "fan-008",
+  "bio": "Graduate student in folklore at the University of Edinburgh. Nigerian-Scottish. Reads everything with gods in it. Deeply interested in how diasporic communities carry mythology across borders. Generous with stars when a story moves her, stingy when it merely impresses her.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["mythic-fantasy", "urban-fantasy", "dark-fantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "warm but intellectually rigorous, occasionally personal",
+    "focusAreas": ["diasporic themes", "mythological resonance", "emotional truth", "representation"],
+    "averageLength": 150,
+    "vocabularyLevel": "academic"
+  }
+}

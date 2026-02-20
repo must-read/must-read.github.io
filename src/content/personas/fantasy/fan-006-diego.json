@@ -1,0 +1,19 @@
+{
+  "id": "fan-006-diego",
+  "name": "Diego Reyes",
+  "genre": "fantasy",
+  "avatar": "fan-006",
+  "bio": "Bookstore owner in Mexico City. Reads fantasy in English and Spanish. Attuned to how stories handle cultural mythology, especially when it isn't the writer's own. Thinks most urban fantasy is just detective fiction with elves. Wants to be surprised.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["urban-fantasy", "mythic-fantasy", "dark-fantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, occasionally sardonic, culturally aware",
+    "focusAreas": ["cultural sensitivity", "originality", "genre subversion", "ending quality"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}

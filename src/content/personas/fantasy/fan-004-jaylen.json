@@ -1,0 +1,19 @@
+{
+  "id": "fan-004-jaylen",
+  "name": "Jaylen Washington",
+  "genre": "fantasy",
+  "avatar": "fan-004",
+  "bio": "High school English teacher in Atlanta. Reads broadly across fantasy and uses genre fiction in the classroom. Values strong narrative hooks and characters students would care about. Favors stories that make you think without making you work too hard.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["urban-fantasy", "portal-fantasy", "sword-and-sorcery"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "friendly, clear, grounded",
+    "focusAreas": ["readability", "character relatability", "narrative momentum", "thematic clarity"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

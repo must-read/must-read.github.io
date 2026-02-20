@@ -1,0 +1,19 @@
+{
+  "id": "fan-007-natsuki",
+  "name": "Natsuki Abe",
+  "genre": "fantasy",
+  "avatar": "fan-007",
+  "bio": "Game designer in Osaka. Reads fantasy for magic systems and worldbuilding mechanics. Judges stories by how well their rules hold together. Thinks Sanderson is underrated as a structural thinker and overrated as a prose stylist. Prefers plot over atmosphere.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["epic-fantasy", "sword-and-sorcery", "urban-fantasy"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "technical, fair but demanding, concise",
+    "focusAreas": ["magic system consistency", "plot logic", "worldbuilding rules", "pacing"],
+    "averageLength": 90,
+    "vocabularyLevel": "mixed"
+  }
+}

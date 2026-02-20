@@ -1,0 +1,19 @@
+{
+  "id": "fan-003-valentina",
+  "name": "Valentina Rossi",
+  "genre": "fantasy",
+  "avatar": "fan-003",
+  "bio": "Comparative literature PhD candidate in Milan. Reads fantasy through a mythological lens and gets frustrated when writers borrow from folklore without understanding it. Admires Gaiman's accessibility but wishes he'd go deeper. Thinks genre boundaries are mostly marketing.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["mythic-fantasy", "urban-fantasy", "dark-fantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "precise, academic but readable, occasionally sharp",
+    "focusAreas": ["mythological accuracy", "prose craft", "thematic coherence", "formula adherence"],
+    "averageLength": 160,
+    "vocabularyLevel": "academic"
+  }
+}

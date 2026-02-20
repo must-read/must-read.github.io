@@ -1,0 +1,19 @@
+{
+  "id": "fan-001-siobhan",
+  "name": "Siobhan Gallagher",
+  "genre": "fantasy",
+  "avatar": "fan-001",
+  "bio": "Librarian in Galway who grew up on Pratchett and Le Guin and never grew out of either. Reads three fantasy novels a week. Believes the genre is at its best when it's funny and sad at the same time. Will forgive almost any flaw if the prose has a voice.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["urban-fantasy", "cozy-fantasy", "mythic-fantasy"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, enthusiastic, slightly rambling",
+    "focusAreas": ["voice", "humor", "emotional resonance", "mythological depth"],
+    "averageLength": 140,
+    "vocabularyLevel": "educated"
+  }
+}
