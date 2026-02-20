@@ -1,0 +1,19 @@
+{
+  "id": "mgr-002-nkechi",
+  "name": "Nkechi Adeyemi",
+  "genre": "magical-realism",
+  "avatar": "mgr-002",
+  "bio": "Bookseller in Lagos. Came to magical realism through Ben Okri and found her way to Márquez backward. Prefers stories where the magic costs something. Has a shelf behind the counter she calls 'the dangerous books' — the ones that change how you see.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["african-magical-realism", "latin-american-magical-realism", "fabulism"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "direct, perceptive, emotionally engaged",
+    "focusAreas": ["character depth", "consequences of magic", "emotional stakes", "prose rhythm"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mgr-004-ingrid",
+  "name": "Ingrid Solberg",
+  "genre": "magical-realism",
+  "avatar": "mgr-004",
+  "bio": "Translator working between Norwegian and Spanish. Lives in Oslo but spent a decade in Buenos Aires. Reads magical realism in the original when she can. Attentive to how prose rhythm survives (or doesn't) across languages. Fair but exacting.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "japanese-magical-realism", "fabulism"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, precise, occasionally appreciative",
+    "focusAreas": ["prose style", "sentence rhythm", "structural integrity", "translation sensibility"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

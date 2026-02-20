@@ -1,0 +1,19 @@
+{
+  "id": "mgr-010-greg",
+  "name": "Greg Halloran",
+  "genre": "magical-realism",
+  "avatar": "mgr-010",
+  "bio": "Insurance adjuster in Melbourne. Picked up One Hundred Years of Solitude on a flight once and has been chasing that high ever since. Mostly disappointed. Thinks the genre peaked in the 1960s and everything since is imitation. Hard to please.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, comparative, often disappointed",
+    "focusAreas": ["originality", "comparison to canonical works", "emotional weight", "whether it earns the magic"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

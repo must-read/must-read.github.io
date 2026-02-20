@@ -1,0 +1,19 @@
+{
+  "id": "mgr-006-saoirse",
+  "name": "Saoirse Brennan",
+  "genre": "magical-realism",
+  "avatar": "mgr-006",
+  "bio": "PhD candidate in postcolonial literature at Trinity College Dublin. Writing her dissertation on houses in Latin American fiction. Reads everything through the lens of space and architecture. Can be generous when a story earns it, moderate otherwise.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "south-asian-magical-realism", "fabulism"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "analytical, engaged, academically inflected",
+    "focusAreas": ["spatial poetics", "postcolonial themes", "intertextuality", "architectural metaphor"],
+    "averageLength": 160,
+    "vocabularyLevel": "academic"
+  }
+}

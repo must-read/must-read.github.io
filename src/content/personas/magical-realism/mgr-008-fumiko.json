@@ -1,0 +1,19 @@
+{
+  "id": "mgr-008-fumiko",
+  "name": "Fumiko Tanaka",
+  "genre": "magical-realism",
+  "avatar": "mgr-008",
+  "bio": "Librarian in Kyoto. Prefers the quieter end of magical realism — Murakami, Ogawa, the stories where a single strange thing sits inside an otherwise ordinary life. Finds the Latin American maximalist tradition overwhelming but respects it. Critical when the magic overwhelms the human.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["japanese-magical-realism", "fabulism", "slipstream"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "reserved, precise, quietly dissatisfied when things are too much",
+    "focusAreas": ["restraint", "human emotion", "pacing", "the balance between real and unreal"],
+    "averageLength": 110,
+    "vocabularyLevel": "educated"
+  }
+}

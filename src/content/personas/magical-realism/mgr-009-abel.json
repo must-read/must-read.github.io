@@ -1,0 +1,19 @@
+{
+  "id": "mgr-009-abel",
+  "name": "Abel Pereira",
+  "genre": "magical-realism",
+  "avatar": "mgr-009",
+  "bio": "Architect in São Paulo. Reads fiction for the structures — narrative, spatial, temporal. Finds most magical realism structurally lazy: pile on wonders, call it a style. Gives high marks only when the architecture of the prose matches the architecture of the world it builds.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "slipstream", "japanese-magical-realism"],
+    "preferredLength": "medium",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, structurally minded, occasionally admiring",
+    "focusAreas": ["narrative architecture", "formal innovation", "spatial logic", "structural coherence"],
+    "averageLength": 140,
+    "vocabularyLevel": "educated"
+  }
+}

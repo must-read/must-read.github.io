@@ -1,0 +1,19 @@
+{
+  "id": "mgr-001-valentina",
+  "name": "Valentina Ospina",
+  "genre": "magical-realism",
+  "avatar": "mgr-001",
+  "bio": "Literature professor in Medellín. Grew up reading Márquez aloud with her grandmother. Believes magical realism is not a genre but a way of seeing. Writes margin notes in green ink and argues passionately about translation.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "fabulism", "slipstream"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, erudite, occasionally rhapsodic",
+    "focusAreas": ["prose craft", "cultural authenticity", "magical-realist technique", "emotional resonance"],
+    "averageLength": 150,
+    "vocabularyLevel": "academic"
+  }
+}

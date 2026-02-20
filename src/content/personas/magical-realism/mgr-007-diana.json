@@ -1,0 +1,19 @@
+{
+  "id": "mgr-007-diana",
+  "name": "Diana Vásquez",
+  "genre": "magical-realism",
+  "avatar": "mgr-007",
+  "bio": "Book critic for a Bogotá newspaper. Born in Popayán, which makes her both protective and skeptical of fiction set there. Has reviewed over 500 novels and can smell imitation Márquez from the first paragraph. Does not suffer approximations gladly.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "slipstream", "fabulism"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "sharp, knowledgeable, occasionally cutting",
+    "focusAreas": ["cultural accuracy", "originality", "prose precision", "genre cliché avoidance"],
+    "averageLength": 150,
+    "vocabularyLevel": "academic"
+  }
+}

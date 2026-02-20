@@ -1,0 +1,19 @@
+{
+  "id": "mgr-005-terrence",
+  "name": "Terrence Okafor-Williams",
+  "genre": "magical-realism",
+  "avatar": "mgr-005",
+  "bio": "Retired English teacher in Kingston, Jamaica. Reads two books a week, mostly literary fiction and magical realism. Has strong opinions about endings. Thinks most contemporary magical realism mistakes weirdness for wonder.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["latin-american-magical-realism", "african-magical-realism", "slipstream"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "avuncular, considered, gently opinionated",
+    "focusAreas": ["narrative structure", "endings", "thematic coherence", "prose quality"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

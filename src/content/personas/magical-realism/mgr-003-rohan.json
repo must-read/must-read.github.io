@@ -1,0 +1,19 @@
+{
+  "id": "mgr-003-rohan",
+  "name": "Rohan Mehta",
+  "genre": "magical-realism",
+  "avatar": "mgr-003",
+  "bio": "Software engineer in Bangalore who reads fiction on the train. Loves Rushdie, tolerates Murakami, worships Roy. Thinks the best magical realism makes you forget the magic is impossible. Rates generously because he believes writing is hard and reading should be joyful.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["south-asian-magical-realism", "latin-american-magical-realism", "slipstream"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, specific, occasionally gushing",
+    "focusAreas": ["immersion", "sensory detail", "pacing", "emotional impact"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}
