@@ -54,6 +54,7 @@
   font-size: 0.75rem;
   color: var(--color-accent);
   font-weight: 500;
+  margin-bottom: 0.4rem;
 }
 
 .work-card__synopsis {
