@@ -1,51 +1,92 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import WorkCard from '@/components/WorkCard.astro';
-import '@/styles/library.css';
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
+import heroImg from '@/assets/images/banners/hero-banner.jpg';
+import '@/styles/library.css';
 
 const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
 const recentWorks = allWorks.sort((a, b) => b.data.publishedDate.getTime() - a.data.publishedDate.getTime()).slice(0, 12);
 
-const genreCounts = allWorks.reduce<Record<string, number>>((acc, w) => {
-  acc[w.data.genre] = (acc[w.data.genre] || 0) + 1;
-  return acc;
-}, {});
+const genreCounts: Record<string, number> = {};
+for (const w of allWorks) {
+  genreCounts[w.data.genre] = (genreCounts[w.data.genre] || 0) + 1;
+}
 
 const genres = Object.entries(genreCounts).map(([name, count]) => ({
   name: name.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
   slug: name,
   count,
 })).sort((a, b) => a.name.localeCompare(b.name));
+
+const genreImageModules = import.meta.glob('/src/assets/images/genres/genre-*.jpg', { eager: true });
+const genreImages: Record<string, any> = {};
+for (const [path, mod] of Object.entries(genreImageModules)) {
+  const match = path.match(/genre-(.+)\.jpg$/);
+  if (match) genreImages[match[1]] = (mod as any).default;
+}
 ---
 
 <BaseLayout title="Home">
-  <div class="container">
-    <section class="hero">
-      <h1>Must Read</h1>
-      <p>A curated library of original short fiction and creative nonfiction. Every piece combines the styles of two authors with the structural DNA of two canonical works. Free to read. Optimized for reading.</p>
-      <p class="hero__stats">{allWorks.length.toLocaleString()} works across {genres.length} genres</p>
-    </section>
+  <!-- Hero Section -->
+  <section class="hero">
+    <Image src={heroImg} alt="" class="hero__bg" loading="eager" widths={[800, 1200, 1600]} sizes="100vw" />
+    <div class="hero__overlay"></div>
+    <div class="hero__content container">
+      <span class="hero__label animate-fade-up">Original Literature</span>
+      <h1 class="animate-fade-up animate-delay-1">Must Read</h1>
+      <p class="hero__desc animate-fade-up animate-delay-2">A curated library of original short fiction and creative nonfiction. Every piece combines the styles of two authors with the structural DNA of two canonical works.</p>
+      <div class="hero__stats animate-fade-up animate-delay-3">
+        <span>{allWorks.length.toLocaleString()} works</span>
+        <span class="hero__stats-dot" aria-hidden="true"></span>
+        <span>{genres.length} genres</span>
+        <span class="hero__stats-dot" aria-hidden="true"></span>
+        <span>Free to read</span>
+      </div>
+      <a href={`${import.meta.env.BASE_URL}browse/`} class="hero__cta animate-fade-up animate-delay-4">
+        Start Reading
+        <span aria-hidden="true">&rarr;</span>
+      </a>
+    </div>
+  </section>
 
+  <div class="container">
+    <!-- Browse by Genre -->
     {genres.length > 0 && (
-      <section>
-        <h2>Browse by Genre</h2>
+      <section class="home-section">
+        <div class="home-section__header">
+          <span class="section-label">Explore</span>
+          <h2>Browse by Genre</h2>
+        </div>
         <div class="genre-grid">
-          {genres.map(g => (
+          {genres.map((g) => (
             <a href={`${import.meta.env.BASE_URL}browse/${g.slug}/`} class="genre-card">
-              <div class="genre-card__name">{g.name}</div>
-              <div class="genre-card__count">{g.count} works</div>
+              {genreImages[g.slug] ? (
+                <Image src={genreImages[g.slug]} alt={g.name} class="genre-card__img" widths={[300, 600]} sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 50vw" />
+              ) : (
+                <div class="genre-card__img genre-card__img--placeholder"></div>
+              )}
+              <div class="genre-card__overlay"></div>
+              <div class="genre-card__content">
+                <div class="genre-card__name">{g.name}</div>
+                <div class="genre-card__count">{g.count} {g.count === 1 ? 'work' : 'works'}</div>
+              </div>
             </a>
           ))}
         </div>
       </section>
     )}
 
+    <!-- Recently Published -->
     {recentWorks.length > 0 && (
-      <section>
-        <h2>Recently Published</h2>
+      <section class="home-section">
+        <div class="home-section__header">
+          <span class="section-label">Latest</span>
+          <h2>Recently Published</h2>
+        </div>
         <div class="library-grid">
-          {recentWorks.map(w => (
+          {recentWorks.map((w) => (
             <WorkCard
               title={w.data.title}
               slug={w.data.slug}
@@ -63,30 +104,131 @@ const genres = Object.entries(genreCounts).map(([name, count]) => ({
 </BaseLayout>
 
 <style>
+  /* Hero */
   .hero {
-    padding: 3rem 0 2rem;
-    max-width: 60ch;
+    position: relative;
+    overflow: hidden;
+    min-height: 420px;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: var(--space-2xl);
   }
+
+  @media (min-width: 768px) {
+    .hero { min-height: 500px; }
+  }
+
+  .hero__bg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 40%;
+  }
+
+  .hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      var(--color-bg) 0%,
+      color-mix(in srgb, var(--color-bg) 60%, transparent) 30%,
+      color-mix(in srgb, var(--color-bg) 20%, transparent) 60%,
+      color-mix(in srgb, var(--color-bg) 10%, transparent) 100%
+    );
+  }
+
+  .hero__content {
+    position: relative;
+    z-index: 1;
+    padding: var(--space-2xl) var(--space-lg);
+    max-width: 1200px;
+    width: 100%;
+  }
+
+  .hero__label {
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--color-accent);
+    display: block;
+    margin-bottom: var(--space-sm);
+  }
+
   .hero h1 {
-    font-size: clamp(2rem, 1.5rem + 2vw, 3.5rem);
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 2rem + 3vw, 4.5rem);
     font-weight: 700;
     letter-spacing: -0.03em;
-    margin-bottom: 1rem;
+    line-height: 1.05;
+    margin-bottom: var(--space-md);
+    color: var(--color-text);
   }
-  .hero p {
+
+  .hero__desc {
+    font-family: var(--font-reading);
     font-size: 1.1rem;
     line-height: 1.6;
     color: var(--color-text-secondary);
+    max-width: 48ch;
+    margin-bottom: var(--space-lg);
   }
+
   .hero__stats {
-    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
     font-weight: 500;
     color: var(--color-text);
+    margin-bottom: var(--space-lg);
   }
-  section {
-    margin-bottom: 3rem;
+
+  .hero__stats-dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--color-accent);
   }
-  section h2 {
-    margin-bottom: 1rem;
+
+  .hero__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.75rem;
+    background: var(--color-accent);
+    color: #fff;
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    font-weight: 600;
+    border-radius: var(--radius-pill);
+    transition: all var(--duration-normal) var(--ease-out);
+    text-decoration: none;
+    box-shadow: var(--shadow-md);
+  }
+
+  .hero__cta:hover {
+    background: var(--color-accent-hover);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-lg), var(--shadow-glow);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  /* Sections */
+  .home-section {
+    margin-bottom: var(--space-3xl);
+  }
+
+  .home-section__header {
+    margin-bottom: var(--space-lg);
+  }
+
+  .home-section__header h2 {
+    margin-top: var(--space-xs);
   }
 </style>

@@ -3,6 +3,7 @@ import LibraryLayout from '@/layouts/LibraryLayout.astro';
 import WorkCard from '@/components/WorkCard.astro';
 import GenreNav from '@/components/GenreNav.astro';
 import { getCollection } from 'astro:content';
+import browseImg from '@/assets/images/banners/browse-banner.jpg';
 
 const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
 const sortedWorks = allWorks.sort((a, b) => b.data.rating - a.data.rating);
@@ -19,10 +20,10 @@ const genres = Object.entries(genreCounts).map(([name, count]) => ({
 })).sort((a, b) => a.name.localeCompare(b.name));
 ---
 
-<LibraryLayout title="Browse All Works">
+<LibraryLayout title="Browse All Works" bannerSrc={browseImg}>
   <GenreNav genres={genres} />
   <div class="library-grid">
-    {sortedWorks.map(w => (
+    {sortedWorks.map((w) => (
       <WorkCard
         title={w.data.title}
         slug={w.data.slug}

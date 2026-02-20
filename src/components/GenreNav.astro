@@ -8,10 +8,16 @@ const { genres, activeGenre } = Astro.props;
 ---
 
 <nav class="genre-nav" aria-label="Genre navigation">
-  <a href={`${import.meta.env.BASE_URL}browse/`} class:list={["filter-pill", { active: !activeGenre }]}>All</a>
+  <a href={`${import.meta.env.BASE_URL}browse/`} class:list={["filter-pill", { active: !activeGenre }]}>
+    All
+  </a>
   {genres.map(g => (
-    <a href={`${import.meta.env.BASE_URL}browse/${g.slug}/`} class:list={["filter-pill", { active: activeGenre === g.slug }]}>
-      {g.name} <span class="genre-nav__count">({g.count})</span>
+    <a
+      href={`${import.meta.env.BASE_URL}browse/${g.slug}/`}
+      class:list={["filter-pill", { active: activeGenre === g.slug }]}
+    >
+      {g.name}
+      <span class="genre-nav__count">{g.count}</span>
     </a>
   ))}
 </nav>
@@ -20,11 +26,13 @@ const { genres, activeGenre } = Astro.props;
   .genre-nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    padding: 1rem 0;
+    gap: var(--space-sm);
+    padding: var(--space-md) 0 var(--space-lg);
   }
+
   .genre-nav__count {
-    font-size: 0.75em;
-    opacity: 0.7;
+    font-size: 0.72em;
+    opacity: 0.6;
+    margin-left: 0.15rem;
   }
 </style>

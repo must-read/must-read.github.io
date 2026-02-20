@@ -1,22 +1,39 @@
+/* ============================================
+   Reading Experience — Premium Literary Layout
+   ============================================ */
+
 .reading-content {
   max-width: var(--max-width-reading);
   margin: 0 auto;
-  padding: 2rem 1.5rem 6rem;
+  padding: var(--space-xl) var(--space-lg) var(--space-3xl);
   font-family: var(--font-reading);
   font-size: var(--font-size-reading);
   font-weight: var(--reading-font-weight);
   line-height: var(--line-height-reading);
   letter-spacing: var(--letter-spacing-reading);
   color: var(--color-text);
+  animation: fadeIn 600ms var(--ease-out);
 }
 
 .reading-content p {
   margin-bottom: var(--paragraph-spacing);
+  hanging-punctuation: first last;
+}
+
+.reading-content p:first-of-type::first-letter {
+  font-family: var(--font-display);
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  padding-top: 0.07em;
+  color: var(--color-accent);
+  font-weight: 700;
 }
 
 .reading-content blockquote {
   border-left: 3px solid var(--color-accent);
-  padding-left: 1.25em;
+  padding-left: 1.5em;
   margin: 2em 0;
   color: var(--color-text-secondary);
   font-style: italic;
@@ -25,39 +42,106 @@
 .reading-content hr {
   border: none;
   text-align: center;
-  margin: 2.5em 0;
+  margin: 3em 0;
 }
 
 .reading-content hr::after {
-  content: '* * *';
-  color: var(--color-text-secondary);
-  letter-spacing: 0.5em;
+  content: '\2726  \2726  \2726';
+  color: var(--color-accent);
+  letter-spacing: 0.75em;
+  font-size: 0.8rem;
 }
+
+.reading-content em {
+  font-style: italic;
+}
+
+.reading-content strong {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+/* ============================================
+   Reading Header
+   ============================================ */
 
 .reading-header {
   max-width: var(--max-width-reading);
   margin: 0 auto;
-  padding: 3rem 1.5rem 1rem;
+  padding: var(--space-3xl) var(--space-lg) var(--space-lg);
+  text-align: center;
+  animation: fadeUp 600ms var(--ease-out);
 }
 
 .reading-header h1 {
-  font-family: var(--font-reading);
-  margin-bottom: 0.5rem;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 1.5rem + 2vw, 3rem);
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: var(--space-md);
+  letter-spacing: -0.02em;
 }
 
 .reading-header .byline {
-  color: var(--color-text-secondary);
-  font-size: 0.9rem;
+  font-family: var(--font-ui);
+  color: var(--color-accent);
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.12em;
+  font-weight: 600;
 }
 
 .reading-header .formula {
+  font-family: var(--font-reading);
   color: var(--color-text-secondary);
-  font-size: 0.85rem;
-  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  margin-top: var(--space-sm);
   font-style: italic;
 }
+
+.reading-header time {
+  display: block;
+  font-family: var(--font-ui);
+  color: var(--color-text-secondary);
+  font-size: 0.8rem;
+  margin-top: var(--space-sm);
+}
+
+.reading-header .header-divider {
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--color-accent), transparent);
+  margin: var(--space-xl) auto var(--space-sm);
+  border: none;
+}
+
+/* ============================================
+   Reviews Section
+   ============================================ */
+
+.reviews-section {
+  max-width: var(--max-width-reading);
+  margin: 0 auto;
+  padding: var(--space-2xl) var(--space-lg) var(--space-3xl);
+  animation: fadeUp 500ms var(--ease-out) 200ms both;
+}
+
+.reviews-section h2 {
+  font-family: var(--font-display);
+  margin-bottom: var(--space-sm);
+}
+
+.reviews-section .reviews-divider {
+  width: 40px;
+  height: 2px;
+  background: var(--color-accent);
+  border: none;
+  margin-bottom: var(--space-xl);
+}
+
+/* ============================================
+   Reading Progress Bar
+   ============================================ */
 
 .reading-progress {
   position: fixed;
@@ -65,7 +149,8 @@
   left: 0;
   width: 0%;
   height: 3px;
-  background: var(--color-accent);
-  z-index: 1000;
-  transition: width 100ms ease-out;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-star));
+  z-index: 1001;
+  transition: width 80ms linear;
+  box-shadow: 0 0 8px rgba(184, 134, 11, 0.3);
 }

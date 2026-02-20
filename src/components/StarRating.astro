@@ -2,36 +2,64 @@
 interface Props {
   rating: number;
   count?: number;
+  size?: 'sm' | 'md' | 'lg';
 }
 
-const { rating, count } = Astro.props;
+const { rating, count, size = 'md' } = Astro.props;
 const fullStars = Math.floor(rating);
 const hasHalf = rating - fullStars >= 0.25 && rating - fullStars < 0.75;
 const emptyStars = 5 - fullStars - (hasHalf ? 1 : 0);
+const sizeClass = `star-rating--${size}`;
 ---
 
-<span class="star-rating" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
-  {Array(fullStars).fill(null).map(() => <span class="star star--full" aria-hidden="true">&#9733;</span>)}
-  {hasHalf && <span class="star star--half" aria-hidden="true">&#9733;</span>}
-  {Array(emptyStars).fill(null).map(() => <span class="star star--empty" aria-hidden="true">&#9734;</span>)}
-  {count !== undefined && <span class="star-rating__count">({count})</span>}
+<span class:list={["star-rating", sizeClass]} aria-label={`${rating.toFixed(1)} out of 5 stars`}>
+  <span class="star-rating__score">{rating.toFixed(1)}</span>
+  <span class="star-rating__stars">
+    {Array(fullStars).fill(null).map(() => <span class="star star--full" aria-hidden="true">&#9733;</span>)}
+    {hasHalf && <span class="star star--half" aria-hidden="true">&#9733;</span>}
+    {Array(emptyStars).fill(null).map(() => <span class="star star--empty" aria-hidden="true">&#9734;</span>)}
+  </span>
+  {count !== undefined && <span class="star-rating__count">{count} {count === 1 ? 'review' : 'reviews'}</span>}
 </span>
 
 <style>
   .star-rating {
     display: inline-flex;
     align-items: center;
+    gap: 0.4rem;
+  }
+
+  .star-rating__score {
+    font-family: var(--font-ui);
+    font-weight: 700;
+    color: var(--color-text);
+  }
+
+  .star-rating--sm .star-rating__score { font-size: 0.85rem; }
+  .star-rating--md .star-rating__score { font-size: 1.1rem; }
+  .star-rating--lg .star-rating__score { font-size: 1.5rem; }
+
+  .star-rating__stars {
+    display: inline-flex;
     gap: 1px;
   }
+
   .star {
-    font-size: 1.1em;
+    line-height: 1;
   }
+
+  .star-rating--sm .star { font-size: 0.85em; }
+  .star-rating--md .star { font-size: 1.05em; }
+  .star-rating--lg .star { font-size: 1.3em; }
+
   .star--full { color: var(--color-star); }
-  .star--half { color: var(--color-star); opacity: 0.6; }
-  .star--empty { color: var(--color-border); }
+  .star--half { color: var(--color-star); opacity: 0.55; }
+  .star--empty { color: var(--color-star-empty); }
+
   .star-rating__count {
-    margin-left: 0.35rem;
-    font-size: 0.85em;
+    font-family: var(--font-ui);
+    font-size: 0.82em;
     color: var(--color-text-secondary);
+    margin-left: 0.15rem;
   }
 </style>

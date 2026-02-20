@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="reading-progress" id="reading-progress"></div>
+<div class="reading-progress" id="reading-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
 
 <script>
   const bar = document.getElementById('reading-progress');
@@ -10,7 +10,9 @@
       const scrollTop = window.scrollY;
       const docHeight = document.documentElement.scrollHeight - window.innerHeight;
       const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
-      bar.style.width = `${Math.min(progress, 100)}%`;
+      const val = Math.min(progress, 100);
+      bar.style.width = `${val}%`;
+      bar.setAttribute('aria-valuenow', String(Math.round(val)));
     }, { passive: true });
   }
 </script>

@@ -1,46 +1,130 @@
+/* ============================================
+   MUST READ — Literary Amber Design System
+   ============================================ */
+
 :root {
-  --font-reading: 'Lexend', system-ui, -apple-system, sans-serif;
-  --font-ui: 'Inter', system-ui, -apple-system, sans-serif;
+  /* Typography */
+  --font-display: 'Cormorant', 'Garamond', 'Georgia', serif;
+  --font-reading: 'Source Serif 4', 'Georgia', serif;
+  --font-ui: 'Outfit', system-ui, -apple-system, sans-serif;
+
+  /* Reading-specific */
   --font-size-reading: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
-  --line-height-reading: 1.55;
-  --letter-spacing-reading: 0.01em;
+  --line-height-reading: 1.65;
+  --letter-spacing-reading: 0.005em;
   --max-width-reading: 65ch;
   --paragraph-spacing: 1.5em;
-  --font-size-h1: clamp(1.75rem, 1.5rem + 1vw, 2.5rem);
-  --font-size-h2: clamp(1.375rem, 1.25rem + 0.5vw, 1.75rem);
-  --font-size-h3: clamp(1.125rem, 1rem + 0.375vw, 1.375rem);
-  --color-bg: #FAFAF8;
-  --color-text: #1A1A1A;
-  --color-text-secondary: #555555;
-  --color-accent: #2563EB;
-  --color-border: #E5E5E5;
-  --color-surface: #FFFFFF;
-  --color-star: #F59E0B;
   --reading-font-weight: 400;
+
+  /* Type scale */
+  --font-size-h1: clamp(2rem, 1.5rem + 2vw, 3.25rem);
+  --font-size-h2: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  --font-size-h3: clamp(1.2rem, 1rem + 0.5vw, 1.5rem);
+
+  /* Color palette — Warm Parchment */
+  --color-bg: #FAF7F2;
+  --color-text: #2C1810;
+  --color-text-secondary: #7A6B5D;
+  --color-accent: #B8860B;
+  --color-accent-hover: #996B08;
+  --color-accent-subtle: rgba(184, 134, 11, 0.08);
+  --color-border: #E8DFD3;
+  --color-surface: #FFFFFF;
+  --color-surface-raised: #FBF9F5;
+  --color-star: #D4A843;
+  --color-star-empty: #E0D5C7;
+  --color-overlay: rgba(44, 24, 16, 0.55);
+  --color-overlay-light: rgba(44, 24, 16, 0.3);
+
+  /* Effects */
+  --shadow-sm: 0 1px 3px rgba(44, 24, 16, 0.06);
+  --shadow-md: 0 4px 16px rgba(44, 24, 16, 0.08);
+  --shadow-lg: 0 8px 32px rgba(44, 24, 16, 0.1);
+  --shadow-xl: 0 16px 48px rgba(44, 24, 16, 0.12);
+  --shadow-glow: 0 0 24px rgba(184, 134, 11, 0.15);
+
+  /* Blur */
+  --blur-header: saturate(180%) blur(16px);
+
+  /* Borders */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-pill: 999px;
+
+  /* Transitions */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 400ms;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  /* Noise texture (inline SVG for paper feel) */
+  --noise: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
 }
 
+/* ============================================
+   Dark mode — Deep Espresso
+   ============================================ */
+
 [data-theme="dark"] {
-  --color-bg: #1A1A2E;
-  --color-text: #E0E0E0;
-  --color-text-secondary: #A0A0A0;
-  --color-accent: #60A5FA;
-  --color-border: #2D2D3F;
-  --color-surface: #232338;
-  --color-star: #FBBF24;
-  --reading-font-weight: 420;
-  --letter-spacing-reading: 0.015em;
+  --color-bg: #1C1410;
+  --color-text: #E8DFD3;
+  --color-text-secondary: #A0917F;
+  --color-accent: #D4A843;
+  --color-accent-hover: #E8B84D;
+  --color-accent-subtle: rgba(212, 168, 67, 0.1);
+  --color-border: #3D2E22;
+  --color-surface: #2A1F18;
+  --color-surface-raised: #342820;
+  --color-star: #E8B84D;
+  --color-star-empty: #4A3D32;
+  --color-overlay: rgba(28, 20, 16, 0.7);
+  --color-overlay-light: rgba(28, 20, 16, 0.45);
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.35);
+  --shadow-glow: 0 0 24px rgba(212, 168, 67, 0.12);
+
+  --reading-font-weight: 380;
+  --letter-spacing-reading: 0.01em;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --color-bg: #1A1A2E;
-    --color-text: #E0E0E0;
-    --color-text-secondary: #A0A0A0;
-    --color-accent: #60A5FA;
-    --color-border: #2D2D3F;
-    --color-surface: #232338;
-    --color-star: #FBBF24;
-    --reading-font-weight: 420;
-    --letter-spacing-reading: 0.015em;
+    --color-bg: #1C1410;
+    --color-text: #E8DFD3;
+    --color-text-secondary: #A0917F;
+    --color-accent: #D4A843;
+    --color-accent-hover: #E8B84D;
+    --color-accent-subtle: rgba(212, 168, 67, 0.1);
+    --color-border: #3D2E22;
+    --color-surface: #2A1F18;
+    --color-surface-raised: #342820;
+    --color-star: #E8B84D;
+    --color-star-empty: #4A3D32;
+    --color-overlay: rgba(28, 20, 16, 0.7);
+    --color-overlay-light: rgba(28, 20, 16, 0.45);
+
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.25);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
+    --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.35);
+    --shadow-glow: 0 0 24px rgba(212, 168, 67, 0.12);
+
+    --reading-font-weight: 380;
+    --letter-spacing-reading: 0.01em;
   }
 }

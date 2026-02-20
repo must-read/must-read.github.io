@@ -5,28 +5,45 @@ import '@/styles/library.css';
 interface Props {
   title: string;
   description?: string;
+  bannerSrc?: ImageMetadata;
 }
 
-const { title, description } = Astro.props;
+const { title, description, bannerSrc } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
+  {bannerSrc ? (
+    <div class="page-banner">
+      <img src={bannerSrc.src} alt="" class="page-banner__img" />
+      <div class="page-banner__overlay"></div>
+      <div class="page-banner__content">
+        <h1>{title}</h1>
+        {description && <p>{description}</p>}
+      </div>
+    </div>
+  ) : (
+    <div class="container">
+      <header class="library-header">
+        <h1>{title}</h1>
+        {description && <p class="library-header__desc">{description}</p>}
+      </header>
+    </div>
+  )}
   <div class="container">
-    <header class="library-header">
-      <h1>{title}</h1>
-      {description && <p class="library-header__desc">{description}</p>}
-    </header>
     <slot />
   </div>
 </BaseLayout>
 
 <style>
   .library-header {
-    padding: 2rem 0 1rem;
+    padding: var(--space-2xl) 0 var(--space-lg);
   }
+
   .library-header__desc {
+    font-family: var(--font-reading);
     color: var(--color-text-secondary);
-    margin-top: 0.5rem;
+    margin-top: var(--space-sm);
     max-width: 60ch;
+    font-size: 1.05rem;
   }
 </style>
