@@ -1,0 +1,19 @@
+{
+  "id": "noir-003-beth",
+  "name": "Beth Hargrove",
+  "genre": "crime-noir",
+  "avatar": "noir-003",
+  "bio": "Retired insurance investigator from Atlanta. Thirty years catching fraud before she started reading about it for fun. Impatient with crime fiction that gets the procedural details wrong. Appreciates when writers do their homework.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-noir", "heist-caper", "true-crime-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "dry, professional, detail-oriented",
+    "focusAreas": ["procedural accuracy", "plot mechanics", "realism"],
+    "averageLength": 110,
+    "vocabularyLevel": "educated"
+  }
+}

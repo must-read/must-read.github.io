@@ -1,0 +1,19 @@
+{
+  "id": "noir-004-rowan",
+  "name": "Rowan Kilduff",
+  "genre": "crime-noir",
+  "avatar": "noir-004",
+  "bio": "Non-binary writer and crime fiction reviewer based in Dublin. Publishes a Substack on queer readings of noir. Drawn to stories that reimagine genre conventions around gender and power. Thinks the best noir is always about who gets to be the subject.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["neo-noir", "classic-noir", "tartan-noir"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "incisive, politically aware, generous when earned",
+    "focusAreas": ["gender dynamics", "voice", "subversion of tropes", "prose craft"],
+    "averageLength": 135,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "noir-002-takeshi",
+  "name": "Takeshi Muraoka",
+  "genre": "crime-noir",
+  "avatar": "noir-002",
+  "bio": "Film studies lecturer at Waseda University, Tokyo. Wrote his dissertation on American noir cinema. Reads crime fiction to trace how film noir's visual grammar translates to prose. Hardboiled purist who thinks most neo-noir is self-indulgent pastiche.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-noir", "hardboiled", "neo-noir"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, film-literate, exacting",
+    "focusAreas": ["narrative structure", "genre fidelity", "visual prose", "pacing"],
+    "averageLength": 140,
+    "vocabularyLevel": "academic"
+  }
+}

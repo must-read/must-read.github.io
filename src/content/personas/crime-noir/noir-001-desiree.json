@@ -1,0 +1,19 @@
+{
+  "id": "noir-001-desiree",
+  "name": "Desiree Fontenot",
+  "genre": "crime-noir",
+  "avatar": "noir-001",
+  "bio": "New Orleans bookseller who stocks more crime fiction than literary. Raised on Sara Paretsky and Walter Mosley. Believes noir is the most honest genre because it admits people are terrible. Will forgive a weak plot for a great voice.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-noir", "hardboiled", "southern-noir"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, conversational, opinionated",
+    "focusAreas": ["voice", "atmosphere", "character authenticity"],
+    "averageLength": 120,
+    "vocabularyLevel": "casual"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "noir-007-graham",
+  "name": "Graham Tierney",
+  "genre": "crime-noir",
+  "avatar": "noir-007",
+  "bio": "Edinburgh crime fiction reviewer for the Scotsman. Covers everything from tartan noir to Scandinavian procedurals. Has a soft spot for American hardboiled but holds it to Scottish standards of emotional restraint. Suspicious of sentiment.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["tartan-noir", "scandinavian-noir", "hardboiled"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "measured, wry, occasionally cutting",
+    "focusAreas": ["plot construction", "atmosphere", "emotional restraint", "originality"],
+    "averageLength": 125,
+    "vocabularyLevel": "educated"
+  }
+}

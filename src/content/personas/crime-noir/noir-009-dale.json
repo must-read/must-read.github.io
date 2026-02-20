@@ -1,0 +1,19 @@
+{
+  "id": "noir-009-dale",
+  "name": "Dale Rourke",
+  "genre": "crime-noir",
+  "avatar": "noir-009",
+  "bio": "Truck driver from Memphis who listens to audiobooks on long hauls. Reads fifty crime novels a year and has strong opinions about all of them. No patience for literary pretension. Wants a story that grabs him by the throat and doesn't let go.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["hardboiled", "classic-noir", "heist-caper"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, no-nonsense, reader as everyman",
+    "focusAreas": ["pacing", "believability", "entertainment value", "ending"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

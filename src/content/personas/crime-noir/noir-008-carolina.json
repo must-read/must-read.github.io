@@ -1,0 +1,19 @@
+{
+  "id": "noir-008-carolina",
+  "name": "Carolina Vidal",
+  "genre": "crime-noir",
+  "avatar": "noir-008",
+  "bio": "Buenos Aires lit professor who teaches a seminar on noir and gender. Published a monograph on female narrators in American crime fiction. Reads everything through the lens of who has power and how the text distributes it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-noir", "neo-noir", "southern-noir"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "theoretical but readable, feminist, precise",
+    "focusAreas": ["gender politics", "narrative structure", "power dynamics", "literary influences"],
+    "averageLength": 145,
+    "vocabularyLevel": "academic"
+  }
+}

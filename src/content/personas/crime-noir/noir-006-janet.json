@@ -1,0 +1,19 @@
+{
+  "id": "noir-006-janet",
+  "name": "Janet Osei-Mensah",
+  "genre": "crime-noir",
+  "avatar": "noir-006",
+  "bio": "Accra-based journalist and book blogger. Came to noir through Agatha Christie, stayed for Megan Abbott and Attica Locke. Reads fast, reviews faster. Cares most about whether a story keeps her up past midnight.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["classic-noir", "southern-noir", "neo-noir"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "enthusiastic, direct, reader-focused",
+    "focusAreas": ["pacing", "suspense", "emotional impact", "readability"],
+    "averageLength": 100,
+    "vocabularyLevel": "casual"
+  }
+}

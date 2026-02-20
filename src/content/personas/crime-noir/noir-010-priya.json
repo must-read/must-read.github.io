@@ -1,0 +1,19 @@
+{
+  "id": "noir-010-priya",
+  "name": "Priya Chandrasekaran",
+  "genre": "crime-noir",
+  "avatar": "noir-010",
+  "bio": "Mumbai-based literary agent who represents crime writers across South Asia. Discovered noir through James Ellroy, now reads widely across the subgenres. Evaluates prose with a professional eye — she knows what sells and what lasts.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["neo-noir", "classic-noir", "southern-noir"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "sharp, market-aware, constructively critical",
+    "focusAreas": ["commercial viability", "voice distinctiveness", "opening hooks", "emotional stakes"],
+    "averageLength": 120,
+    "vocabularyLevel": "mixed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "noir-005-vince",
+  "name": "Vince Barreto",
+  "genre": "crime-noir",
+  "avatar": "noir-005",
+  "bio": "Sao Paulo-based translator who has rendered Chandler, Hammett, and Jim Thompson into Portuguese. Reads noir in four languages. Judges stories primarily on sentence-level craft. Believes if the prose doesn't cut, nothing else matters.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["hardboiled", "classic-noir", "southern-noir"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "blunt, prose-focused, multilingual sensibility",
+    "focusAreas": ["sentence craft", "rhythm", "voice authenticity", "economy of language"],
+    "averageLength": 130,
+    "vocabularyLevel": "academic"
+  }
+}
