@@ -7,6 +7,7 @@ import heroImg from '@/assets/images/banners/hero-banner.jpg';
 import '@/styles/library.css';
 
 const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
+const topRated = [...allWorks].sort((a, b) => b.data.rating - a.data.rating || b.data.ratingCount - a.data.ratingCount).slice(0, 6);
 const recentWorks = allWorks.sort((a, b) => b.data.publishedDate.getTime() - a.data.publishedDate.getTime()).slice(0, 12);
 
 const genreCounts: Record<string, number> = {};
@@ -54,6 +55,29 @@ for (const [path, mod] of Object.entries(genreImageModules)) {
   </section>
 
   <div class="container">
+    <!-- Top Rated -->
+    {topRated.length > 0 && (
+      <section class="home-section">
+        <div class="home-section__header">
+          <span class="section-label">Highest Rated</span>
+          <h2>Top Rated</h2>
+        </div>
+        <div class="library-grid">
+          {topRated.map((w) => (
+            <WorkCard
+              title={w.data.title}
+              slug={w.data.slug}
+              genre={w.data.genre}
+              subgenre={w.data.subgenre}
+              rating={w.data.rating}
+              readingTimeMinutes={w.data.readingTimeMinutes}
+              synopsis={w.data.synopsis}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
     <!-- Browse by Genre -->
     {genres.length > 0 && (
       <section class="home-section">
