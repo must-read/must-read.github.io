@@ -1,0 +1,68 @@
+{
+  "workSlug": "your-annual-contribution-summary",
+  "reviews": [
+    {
+      "personaId": "dys-001-natalie",
+      "rating": 4,
+      "text": "The memo format is a strong choice. Corporate-speak as narrative voice means every euphemism does double duty \u2014 it advances the story and indicts the system simultaneously. The 'mycorrhizal network' passage is where it really bites: the company tells Gayle she's vital infrastructure and means she's furniture. The addendum punches hard. But what makes this more than satire is the closing section, where Gayle corrects her own thinking in the company's voice. That involuntary reflex \u2014 the Nourish-shaped correction \u2014 is the most precise thing here. That's how institutional capture actually works. Not through force. Through grammar.",
+      "date": "2025-12-03",
+      "helpfulCount": 44
+    },
+    {
+      "personaId": "dys-002-tomasz",
+      "rating": 3,
+      "text": "Structurally efficient. The memo-within-memo format creates escalation without the writer needing to construct traditional scenes, which is both its strength and its limitation. The Saunders register is well-handled \u2014 the parenthetical corrections, the logic that folds back on itself. But the Alderman element feels thinner. The thriller pacing is present in the section-by-section ratcheting, yes, but Alderman's signature move is showing how power rearranges itself, and this is more a portrait of power sitting still. The addendum is strong but predictable. Still, the Henning paragraph is genuinely chilling in its incompleteness.",
+      "date": "2025-10-18",
+      "helpfulCount": 31
+    },
+    {
+      "personaId": "dys-004-derek",
+      "rating": 4,
+      "text": "This one made me angry in a way I wasn't expecting from something formatted like a corporate email. By the time I got to the part about Wei-Lin's laugh being in the ambient piano, I had to set it down. That's a horror story, right there. The whole thing is a horror story dressed up in HR language. Effective as hell.",
+      "date": "2026-02-09",
+      "helpfulCount": 8
+    },
+    {
+      "personaId": "dys-005-juno",
+      "rating": 4,
+      "text": "The quiet dystopias are always the worst ones, and this is very quiet. What I keep coming back to is the Sparks section \u2014 'Your energy is consistent' as a compliment, and the Q4 Spark with its conditional tense flagged as 'authentic connection.' The system has colonized even the grammar of care. The closing image, Gayle typing 'Thank you for this opportunity,' is devastating precisely because we can't tell if it's compliance or collapse. I shelved this next to Ishiguro's Never Let Me Go, which is the highest compliment I know how to give a story about people who cooperate in their own erasure.",
+      "date": "2025-09-22",
+      "helpfulCount": 27
+    },
+    {
+      "personaId": "dys-006-raj",
+      "rating": 4,
+      "text": "The architecture here is clean. Each memo section introduces a new layer of the system \u2014 surveillance rebranded as participation metrics, presence rebranded as labor, automation rebranded as liberation \u2014 and the addendum inverts the whole structure by showing the machine's actual calculus. $214,000 in dataset licensing versus $47,200 in salary. That's the Vonnegut move: making the math visible. The CARE acronym expanding with each generation is a nice structural touch. Efficient piece, no wasted sections.",
+      "date": "2026-01-14",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "dys-007-elena",
+      "rating": 3,
+      "text": "The corporate voice is precise and the satire lands, but I've seen this terrain before. Eggers covered the cheerful-surveillance campus. Saunders has done the memo-as-instrument-of-violence. What this piece adds is the addendum \u2014 the machine's cold internal memo that strips away the wellness language and reveals the spreadsheet underneath. That section works. The Henning paragraph works. But the story relies too heavily on the reader's recognition of corporate speak as absurd, which in 2026 is no longer a revelation. The closing paragraph reaches for something deeper and almost gets there.",
+      "date": "2025-08-05",
+      "helpfulCount": 38
+    },
+    {
+      "personaId": "dys-008-felix",
+      "rating": 5,
+      "text": "This is formally accomplished in a way that rewards rereading. The memo is the dystopia. Not a description of it, not a window into it \u2014 the document itself is the mechanism of control, performing care while executing elimination. The escalation from Type-A to Type-C to Type-D is a taxonomy of obsolescence disguised as a taxonomy of value, and the company's language never breaks character, which is the real horror. The passage where Gayle's former colleagues are described as 'perfected' \u2014 freed from 'the constraints of physical presence and human fatigue and mood and doubt' \u2014 is the most Saunders sentence in the piece, and it's also the most Alderman: liberation language deployed as eulogy. I'll be teaching this alongside 'Brad Carrigan, American.'",
+      "date": "2025-11-30",
+      "helpfulCount": 53
+    },
+    {
+      "personaId": "dys-009-cora",
+      "rating": 4,
+      "text": "The body stuff is what got me. They're monitoring her smile frequency. They know which water station she prefers. They've turned her physical habits into infrastructure data and her emotional responses into calibration inputs. And the worst part is the coffee is the right temperature. The lighting is her preferred warmth. The system is genuinely making her comfortable while it digests her. That image of being held underwater by someone asking if the water temperature is comfortable \u2014 yes. Exactly that.",
+      "date": "2026-02-18",
+      "helpfulCount": 11
+    },
+    {
+      "personaId": "dys-010-owen",
+      "rating": 4,
+      "text": "The institutional voice here is doing something genuinely interesting. The memo never lies. Every claim it makes is technically true within its own framework. Gayle's value has been 'liberated from the narrow constraint of parcel processing.' Her presence does affect ambient metrics. The Sparks are real. What makes it dystopian isn't falseness but a coherence so total that it forecloses any position from which to object. The language is the cage, and the cage is comfortable, and comfort is the point. The closing paragraph's syntactic dissolution \u2014 that run-on where Gayle is smiling because the smile was predicted because she 'was, had always been, would for approximately eighteen more months continue to be, parsing' \u2014 is the best sentence in the piece. 'Parsing' as both computation and grammatical incompleteness. The system parses her. She parses. The sentence refuses to parse. That's Saunders at his best: the structure enacting what the content describes.",
+      "date": "2025-10-01",
+      "helpfulCount": 36
+    }
+  ]
+}
