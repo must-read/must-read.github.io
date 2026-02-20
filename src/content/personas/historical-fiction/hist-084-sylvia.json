@@ -1,0 +1,19 @@
+{
+  "id": "hist-084-sylvia",
+  "name": "Sylvia Odom",
+  "genre": "historical-fiction",
+  "avatar": "hist-084",
+  "bio": "Paralegal in Atlanta who reads on her commute. Prefers stories that move and characters she can root for. Not interested in literary pyrotechnics for their own sake. Will put down a beautifully written story if nothing happens. Has strong opinions about pacing.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["epic-saga", "war-fiction", "historical-mystery"],
+    "preferredLength": "short",
+    "stylePreference": "accessible",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "direct, impatient with pretension, honest",
+    "focusAreas": ["pacing", "plot momentum", "character action", "readability"],
+    "averageLength": 200,
+    "vocabularyLevel": "casual"
+  }
+}

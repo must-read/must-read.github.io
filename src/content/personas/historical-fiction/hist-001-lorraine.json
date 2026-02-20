@@ -1,0 +1,19 @@
+{
+  "id": "hist-001-lorraine",
+  "name": "Lorraine Jeffers",
+  "genre": "historical-fiction",
+  "avatar": "hist-001",
+  "bio": "Retired high school history teacher from Baltimore. Reads historical fiction the way she once graded essays: with a red pen in hand and genuine hope that the student got it right. Particular about period accuracy but will forgive anachronism if the characters live and breathe.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["biographical", "war-fiction", "literary-historical"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, teacherly, precise",
+    "focusAreas": ["historical accuracy", "character depth", "emotional resonance", "period detail"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hist-063-katherine",
+  "name": "Katherine Lim",
+  "genre": "historical-fiction",
+  "avatar": "hist-063",
+  "bio": "Librarian and avid reader in Toronto. Gravitates toward stories about people on the margins of power. Reads slowly, rereads often, and writes reviews that are themselves small essays. Dislikes fiction that uses historical suffering as decoration.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["biographical", "literary-historical", "historical-mystery"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, measured, occasionally passionate",
+    "focusAreas": ["character interiority", "moral complexity", "prose style", "thematic depth"],
+    "averageLength": 350,
+    "vocabularyLevel": "educated"
+  }
+}
