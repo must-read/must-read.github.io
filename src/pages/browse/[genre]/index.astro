@@ -1,0 +1,136 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import WorkCard from '@/components/WorkCard.astro';
+import GenreNav from '@/components/GenreNav.astro';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import '@/styles/library.css';
+
+export async function getStaticPaths() {
+  const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
+  const genreSet = new Set(allWorks.map(w => w.data.genre));
+  return [...genreSet].map(genre => ({ params: { genre } }));
+}
+
+const { genre } = Astro.params;
+const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
+const genreWorks = allWorks
+  .filter(w => w.data.genre === genre)
+  .sort((a, b) => b.data.rating - a.data.rating);
+
+const genreCounts = allWorks.reduce<Record<string, number>>((acc, w) => {
+  acc[w.data.genre] = (acc[w.data.genre] || 0) + 1;
+  return acc;
+}, {});
+
+const genres = Object.entries(genreCounts).map(([name, count]) => ({
+  name: name.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+  slug: name,
+  count,
+})).sort((a, b) => a.name.localeCompare(b.name));
+
+const genreLabel = genre!.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+const genreImageModules = import.meta.glob('/src/assets/images/genres/genre-*.jpg', { eager: true });
+let bannerImage: any = null;
+for (const [path, mod] of Object.entries(genreImageModules)) {
+  if (path.includes(`genre-${genre}.jpg`)) {
+    bannerImage = (mod as any).default;
+    break;
+  }
+}
+
+const subgenreCounts: Record<string, number> = {};
+for (const w of genreWorks) {
+  subgenreCounts[w.data.subgenre] = (subgenreCounts[w.data.subgenre] || 0) + 1;
+}
+const subgenres = Object.entries(subgenreCounts).map(([name, count]) => ({
+  label: name.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+  slug: name,
+  count,
+})).sort((a, b) => a.label.localeCompare(b.label));
+---
+
+<BaseLayout title={genreLabel} description={`Browse ${genreWorks.length} ${genreLabel.toLowerCase()} works`}>
+  {bannerImage ? (
+    <div class="page-banner">
+      <Image src={bannerImage} alt={genreLabel} class="page-banner__img" widths={[800, 1200]} sizes="100vw" />
+      <div class="page-banner__overlay"></div>
+      <div class="page-banner__content">
+        <h1>{genreLabel}</h1>
+        <p>{genreWorks.length} {genreWorks.length === 1 ? 'work' : 'works'}</p>
+      </div>
+    </div>
+  ) : (
+    <div class="container">
+      <header class="genre-page__header">
+        <h1>{genreLabel}</h1>
+        <p class="genre-page__count">{genreWorks.length} {genreWorks.length === 1 ? 'work' : 'works'}</p>
+      </header>
+    </div>
+  )}
+
+  <div class="container">
+    <GenreNav genres={genres} activeGenre={genre} />
+
+    {subgenres.length > 1 && (
+      <div class="subgenre-pills">
+        {subgenres.map(sg => (
+          <span class="subgenre-pill">{sg.label} <span class="subgenre-pill__count">{sg.count}</span></span>
+        ))}
+      </div>
+    )}
+
+    <div class="library-grid">
+      {genreWorks.map((w) => (
+        <WorkCard
+          title={w.data.title}
+          slug={w.data.slug}
+          genre={w.data.genre}
+          subgenre={w.data.subgenre}
+          rating={w.data.rating}
+          readingTimeMinutes={w.data.readingTimeMinutes}
+          synopsis={w.data.synopsis}
+        />
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .genre-page__header {
+    padding: var(--space-2xl) 0 var(--space-lg);
+  }
+
+  .genre-page__count {
+    font-family: var(--font-ui);
+    color: var(--color-text-secondary);
+    margin-top: var(--space-xs);
+    font-size: 0.95rem;
+  }
+
+  .subgenre-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    padding-bottom: var(--space-lg);
+  }
+
+  .subgenre-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.3rem 0.75rem;
+    background: var(--color-accent-subtle);
+    color: var(--color-accent);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-ui);
+    font-size: 0.82rem;
+    font-weight: 500;
+  }
+
+  .subgenre-pill__count {
+    opacity: 0.6;
+    font-size: 0.82em;
+  }
+</style>
