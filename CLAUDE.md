@@ -36,6 +36,7 @@ Every work uses a unique 4-element formula: **AuthorA(style) + AuthorB(style) + 
 1. **Writer agent** (single): Reads combination spec + genre taxonomy + template. Writes the piece, self-reviews against the style directive, revises. Outputs the `.md` file.
 2. **Reviewer agents** (one per persona, in parallel): Each reads the finished work + their persona JSON. Writes one review. Outputs an individual review JSON.
 3. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
+4. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
 
 ### Review file format:
 Individual reviews are written to `review-{persona-number}-{name}.json` then assembled into the final `<slug>.json` for the Content Collection.
@@ -54,7 +55,7 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 
 **Work frontmatter** (required fields): title, slug, genre, subgenre, authorA, authorB, workX, workY, wordCount, readingTimeMinutes, tags, rating, ratingCount, publishedDate, status, formulaSummary, synopsis, combination (with fromAuthorA, fromAuthorB, fromWorkX, fromWorkY arrays)
 
-**Review JSON**: workSlug, reviews[] with personaId, rating (1-5), text (50-1000 chars), date
+**Review JSON**: workSlug, reviews[] with personaId, rating (1-5), text (50-1000 chars), date, helpfulCount (0-100, default 0)
 
 **Persona JSON**: id (format: `{genre-abbrev}-{###}-{firstname}`), name, genre, avatar, bio, readingPreferences (favoriteSubgenres, preferredLength, stylePreference, ratingTendency), reviewStyle (tone, focusAreas, averageLength, vocabularyLevel)
 

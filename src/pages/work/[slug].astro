@@ -46,13 +46,14 @@ allPersonas.forEach(p => {
       <StarRating rating={work.data.rating} count={work.data.ratingCount} />
     </div>
 
-    {workReviews && workReviews.data.reviews.map(review => (
+    {workReviews && [...workReviews.data.reviews].sort((a, b) => b.helpfulCount - a.helpfulCount).map(review => (
       <ReviewCard
         personaName={personaMap.get(review.personaId) || review.personaId}
         personaId={review.personaId}
         rating={review.rating}
         text={review.text}
         date={review.date.toISOString().split('T')[0]}
+        helpfulCount={review.helpfulCount}
       />
     ))}
 

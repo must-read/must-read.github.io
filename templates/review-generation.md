@@ -26,4 +26,8 @@ You will write reviews from the perspective of the following reader personas. Ea
 
 ## Output Format
 
-Output as a JSON file matching the reviews schema: { workSlug, reviews: [{ personaId, rating, text, date }] }
+Output as a JSON file matching the reviews schema: { workSlug, reviews: [{ personaId, rating, text, date, helpfulCount }] }
+
+## Helpful Votes
+
+After reviews are generated, a separate agent assigns `helpfulCount` values to each review. Values range from 0-100 and follow an organic-looking distribution (most reviews cluster in the 0-20 range, with a long tail of highly-helpful outliers). Thoughtful, specific, longer reviews should tend to receive higher counts. Do not assign helpfulCount during review generation — it is a post-processing pipeline step.

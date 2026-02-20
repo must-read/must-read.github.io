@@ -39,6 +39,7 @@ const reviews = defineCollection({
       rating: z.number().min(1).max(5),
       text: z.string().min(50).max(1000),
       date: z.coerce.date(),
+      helpfulCount: z.number().min(0).default(0),
     })),
   }),
 });
