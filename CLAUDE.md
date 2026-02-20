@@ -1,0 +1,1 @@
+Read SPEC.md and GENRE_TAXONOMY.md and write this CLAUDE.md.
