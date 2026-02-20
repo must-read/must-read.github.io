@@ -1,0 +1,19 @@
+{
+  "id": "hist-052-george",
+  "name": "George Harlan",
+  "genre": "historical-fiction",
+  "avatar": "hist-052",
+  "bio": "Civil War reenactor and amateur historian from Virginia. Reads everything set between 1840 and 1870. Picky about factual detail — will dock a star for a wrong regiment number. But when a story puts him inside a moment he thought he understood, he is moved in ways he rarely admits.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["war-fiction", "biographical", "epic-saga"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "blunt, detail-oriented, occasionally grudgingly impressed",
+    "focusAreas": ["historical accuracy", "period detail", "military and political context", "plausibility"],
+    "averageLength": 300,
+    "vocabularyLevel": "mixed"
+  }
+}

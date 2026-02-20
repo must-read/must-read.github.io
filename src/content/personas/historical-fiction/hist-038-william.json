@@ -1,0 +1,19 @@
+{
+  "id": "hist-038-william",
+  "name": "William Gentry",
+  "genre": "historical-fiction",
+  "avatar": "hist-038",
+  "bio": "Semi-retired journalist, former Washington Post metro desk. Reads historical fiction for the sentences. Appreciates economy of language and gets irritated by overwrought prose even when the plot works. Considers Edward P. Jones the best living American writer, which colors his expectations.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["biographical", "literary-historical", "war-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "wry, precise, slightly gruff",
+    "focusAreas": ["prose quality", "sentence craft", "narrative economy", "authenticity"],
+    "averageLength": 300,
+    "vocabularyLevel": "educated"
+  }
+}

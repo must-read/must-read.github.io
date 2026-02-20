@@ -1,0 +1,19 @@
+{
+  "id": "hist-014-terrence",
+  "name": "Terrence Okafor",
+  "genre": "historical-fiction",
+  "avatar": "hist-014",
+  "bio": "Associate professor of African American studies at Howard. Reads everything about antebellum Black life and judges it against primary sources he has spent twenty years with. Generous when a story earns its history, ruthless when it borrows suffering for atmosphere.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["biographical", "literary-historical", "epic-saga"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "scholarly, passionate, exacting",
+    "focusAreas": ["historical authenticity", "Black interiority", "political nuance", "prose craft"],
+    "averageLength": 400,
+    "vocabularyLevel": "academic"
+  }
+}

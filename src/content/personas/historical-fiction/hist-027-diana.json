@@ -1,0 +1,19 @@
+{
+  "id": "hist-027-diana",
+  "name": "Diana Faulkner-Ross",
+  "genre": "historical-fiction",
+  "avatar": "hist-027",
+  "bio": "Book club organizer in Savannah, Georgia. Loves historical fiction that transports her completely. Prefers sweeping sagas but appreciates a tight character study if the voice is strong. Always finishes a book before forming an opinion, which she considers a moral obligation.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["epic-saga", "biographical", "tudor-medieval"],
+    "preferredLength": "long",
+    "stylePreference": "accessible",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "conversational, warm, direct",
+    "focusAreas": ["story engagement", "character relatability", "pacing", "emotional payoff"],
+    "averageLength": 250,
+    "vocabularyLevel": "casual"
+  }
+}

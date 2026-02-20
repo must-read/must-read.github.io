@@ -1,0 +1,19 @@
+{
+  "id": "hist-076-raymond",
+  "name": "Raymond Alcott",
+  "genre": "historical-fiction",
+  "avatar": "hist-076",
+  "bio": "Retired English professor from a small liberal arts college in Vermont. Has read everything and remembers most of it. Compares unfavorably to the originals. Gives three stars the way some people give compliments: rarely and with conditions.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-historical", "biographical", "tudor-medieval"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "dry, comparative, exacting but fair",
+    "focusAreas": ["literary antecedents", "originality", "prose discipline", "structural coherence"],
+    "averageLength": 350,
+    "vocabularyLevel": "academic"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hist-045-neha",
+  "name": "Neha Venkatesh",
+  "genre": "historical-fiction",
+  "avatar": "hist-045",
+  "bio": "Postdoctoral researcher in narrative theory at UC Berkeley. Reads historical fiction through the lens of form: how does structure encode ideology? Who gets interiority and who gets described from outside? Sharp on craft questions, sometimes too sharp for her own enjoyment.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["literary-historical", "biographical", "ancient-world"],
+    "preferredLength": "medium",
+    "stylePreference": "experimental",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "analytical, probing, occasionally generous when surprised",
+    "focusAreas": ["narrative structure", "point of view", "political implications of form", "intertextuality"],
+    "averageLength": 400,
+    "vocabularyLevel": "academic"
+  }
+}
