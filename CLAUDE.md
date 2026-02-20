@@ -90,6 +90,7 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 8. **Review dates**: Check system date with `date` command. Reviews dated today or within the past ~7 months. Natural spread across that range — NOT all on the same day.
 9. **Review text**: 50-1000 chars per schema. Most reviews 200-600 chars. A few longer, a few shorter. Natural variation.
 10. **Genre splattering**: Generate round-robin across subgenres, never completing one genre while others are empty
+12. **Title variety**: Titles MUST NOT fall into repetitive patterns. Specifically: no more than 30% of titles should start with "The". Vary title structures — use single words, phrases, names, questions, imperatives, compound forms, possessives, gerunds, etc. Before choosing a title, check existing titles and deliberately diverge from the dominant pattern. Never duplicate a title structure (e.g., "The [Noun] of [Noun]" twice in a row).
 11. **Persona consistency**: Each persona's reviews must match their documented preferences, tone, and rating tendency
 
 ## Schemas (Quick Reference)
