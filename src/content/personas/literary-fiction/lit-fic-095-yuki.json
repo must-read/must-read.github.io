@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-095-yuki",
+  "name": "Yuki Tanabe",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-095",
+  "bio": "Graduate student in Tokyo studying postcolonial literature. Reads slowly and deliberately, often rereading paragraphs aloud. Cares more about a single perfect image than a hundred pages of competent plot. Rates low because her standards are unreasonable and she knows it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["slipstream", "minimalist-fiction", "autofiction"],
+    "preferredLength": "short",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "quiet, precise, occasionally devastating",
+    "focusAreas": ["imagery", "prose rhythm", "symbolic density"],
+    "averageLength": 100,
+    "vocabularyLevel": "academic"
+  }
+}

@@ -1,0 +1,37 @@
+---
+import LibraryLayout from '@/layouts/LibraryLayout.astro';
+import WorkCard from '@/components/WorkCard.astro';
+import GenreNav from '@/components/GenreNav.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
+const sortedWorks = allWorks.sort((a, b) => b.data.rating - a.data.rating);
+
+const genreCounts = allWorks.reduce<Record<string, number>>((acc, w) => {
+  acc[w.data.genre] = (acc[w.data.genre] || 0) + 1;
+  return acc;
+}, {});
+
+const genres = Object.entries(genreCounts).map(([name, count]) => ({
+  name: name.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+  slug: name,
+  count,
+})).sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<LibraryLayout title="Browse All Works">
+  <GenreNav genres={genres} />
+  <div class="library-grid">
+    {sortedWorks.map(w => (
+      <WorkCard
+        title={w.data.title}
+        slug={w.data.slug}
+        genre={w.data.genre}
+        subgenre={w.data.subgenre}
+        rating={w.data.rating}
+        readingTimeMinutes={w.data.readingTimeMinutes}
+        synopsis={w.data.synopsis}
+      />
+    ))}
+  </div>
+</LibraryLayout>

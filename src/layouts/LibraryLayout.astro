@@ -1,0 +1,32 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import '@/styles/library.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="container">
+    <header class="library-header">
+      <h1>{title}</h1>
+      {description && <p class="library-header__desc">{description}</p>}
+    </header>
+    <slot />
+  </div>
+</BaseLayout>
+
+<style>
+  .library-header {
+    padding: 2rem 0 1rem;
+  }
+  .library-header__desc {
+    color: var(--color-text-secondary);
+    margin-top: 0.5rem;
+    max-width: 60ch;
+  }
+</style>

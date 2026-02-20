@@ -1,0 +1,30 @@
+{
+  "name": "must-read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/must-read/must-read.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/must-read/must-read.github.io/issues"
+  },
+  "homepage": "https://github.com/must-read/must-read.github.io#readme",
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.17.3"
+  }
+}

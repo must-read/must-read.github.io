@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-047-adaeze",
+  "name": "Adaeze Okonkwo",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-047",
+  "bio": "Doctoral student in comparative literature at Ibadan. Reads voraciously across African and diaspora fiction. Impatient with novels that treat Africa as backdrop rather than subject. Believes the best literary fiction makes you feel homesick for a place you've never been.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["bildungsroman", "autofiction", "domestic-drama"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "warm, analytical, occasionally rhapsodic",
+    "focusAreas": ["cultural authenticity", "emotional resonance", "prose craft", "representation"],
+    "averageLength": 120,
+    "vocabularyLevel": "educated"
+  }
+}

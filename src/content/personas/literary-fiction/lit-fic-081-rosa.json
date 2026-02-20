@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-081-rosa",
+  "name": "Rosa Gutierrez-Vidal",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-081",
+  "bio": "Retired librarian in Mexico City. Has read everything and remembers most of it. Gravitates toward stories about memory and family across cultures. Patient with slow pacing if the payoff is earned. Her favourite word is luminous and she is not embarrassed about it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["bildungsroman", "domestic-drama", "epistolary"],
+    "preferredLength": "long",
+    "stylePreference": "traditional",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "gentle, discerning, grandmotherly but sharp",
+    "focusAreas": ["emotional payoff", "thematic depth", "character development"],
+    "averageLength": 140,
+    "vocabularyLevel": "educated"
+  }
+}

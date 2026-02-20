@@ -1,0 +1,40 @@
+---
+interface Props {
+  id: string;
+  name: string;
+  genre: string;
+}
+
+const { id, name, genre } = Astro.props;
+---
+
+<a href={`${import.meta.env.BASE_URL}persona/${id}/`} class="persona-badge">
+  <span class="persona-badge__name">{name}</span>
+  <span class="persona-badge__genre">{genre}</span>
+</a>
+
+<style>
+  .persona-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  .persona-badge:hover {
+    background: var(--color-border);
+    text-decoration: none;
+  }
+  .persona-badge__name {
+    font-weight: 500;
+    color: var(--color-text);
+  }
+  .persona-badge__genre {
+    color: var(--color-text-secondary);
+  }
+</style>

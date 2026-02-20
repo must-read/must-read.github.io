@@ -1,0 +1,43 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import ReadingProgress from '@/components/ReadingProgress.astro';
+import '@/styles/reading.css';
+
+interface Props {
+  title: string;
+  genre: string;
+  subgenre: string;
+  authorA: string;
+  authorB: string;
+  workX: string;
+  workY: string;
+  publishedDate: Date;
+}
+
+const { title, genre, subgenre, authorA, authorB, workX, workY, publishedDate } = Astro.props;
+const formattedDate = publishedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+const isoDate = publishedDate.toISOString().split('T')[0];
+---
+
+<BaseLayout title={title}>
+  <ReadingProgress />
+  <article lang="en">
+    <header class="reading-header">
+      <h1>{title}</h1>
+      <p class="byline">{genre} / {subgenre}</p>
+      <p class="formula">Combining {authorA} + {authorB} | {workX} + {workY}</p>
+      <time datetime={isoDate}>{formattedDate}</time>
+    </header>
+
+    <section class="reading-content">
+      <slot />
+    </section>
+  </article>
+
+  <aside aria-label="Reviews and ratings" class="reviews-section container">
+    <slot name="reviews" />
+  </aside>
+
+  <meta slot="head" name="author" content={`${authorA} x ${authorB} style`} />
+  <meta slot="head" property="article:published_time" content={isoDate} />
+</BaseLayout>

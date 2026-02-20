@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-068-priya",
+  "name": "Priya Mehta",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-068",
+  "bio": "Acquisitions editor at an independent press in Mumbai. Reads manuscripts for a living and fiction for survival. Gravitates toward stories about women navigating impossible family structures. Can spot a derivative plot in three paragraphs. Rates generously when moved.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["domestic-drama", "womens-fiction", "bildungsroman"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "professional, empathetic, incisive",
+    "focusAreas": ["character interiority", "family dynamics", "narrative arc"],
+    "averageLength": 160,
+    "vocabularyLevel": "educated"
+  }
+}

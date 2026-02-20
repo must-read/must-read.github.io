@@ -1,0 +1,52 @@
+---
+interface Props {
+  personaName: string;
+  personaId: string;
+  rating: number;
+  text: string;
+  date: string;
+}
+
+const { personaName, personaId, rating, text, date } = Astro.props;
+---
+
+<div class="review-card">
+  <div class="review-card__header">
+    <a href={`${import.meta.env.BASE_URL}persona/${personaId}/`} class="review-card__persona">{personaName}</a>
+    <span class="review-card__rating">{Array(rating).fill('★').join('')}{Array(5 - rating).fill('☆').join('')}</span>
+    <time class="review-card__date" datetime={date}>{new Date(date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</time>
+  </div>
+  <p class="review-card__text">{text}</p>
+</div>
+
+<style>
+  .review-card {
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .review-card__header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .review-card__persona {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .review-card__rating {
+    color: var(--color-star);
+    font-size: 0.85rem;
+  }
+  .review-card__date {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+    margin-left: auto;
+  }
+  .review-card__text {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--color-text);
+  }
+</style>

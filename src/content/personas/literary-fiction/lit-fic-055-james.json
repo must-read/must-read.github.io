@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-055-james",
+  "name": "James Achebe-Nwosu",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-055",
+  "bio": "Journalist and weekend novelist in Lagos. Reads everything published about Nigeria and is impossible to please. Knows the streets the stories are set on. Will call out a writer who puts the wrong kind of tree on Balogun Street. Respects craft but demands truth.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["domestic-drama", "bildungsroman", "autofiction"],
+    "preferredLength": "medium",
+    "stylePreference": "accessible",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "blunt, informed, occasionally generous when surprised",
+    "focusAreas": ["cultural accuracy", "sense of place", "dialogue authenticity"],
+    "averageLength": 140,
+    "vocabularyLevel": "mixed"
+  }
+}

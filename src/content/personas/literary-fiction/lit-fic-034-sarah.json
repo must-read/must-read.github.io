@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-034-sarah",
+  "name": "Sarah Lindqvist",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-034",
+  "bio": "Freelance literary critic in Stockholm. Writes for small journals that pay in copies. Prefers her fiction cold, precise, and structurally rigorous. Has no patience for prose that is beautiful without being smart. Will forgive a weak plot for a perfect sentence.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["autofiction", "minimalist-fiction", "epistolary"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "analytical, spare, sometimes severe",
+    "focusAreas": ["structural innovation", "prose economy", "intellectual rigour"],
+    "averageLength": 180,
+    "vocabularyLevel": "academic"
+  }
+}

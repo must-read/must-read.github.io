@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-012-gerald",
+  "name": "Gerald Whitmore",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-012",
+  "bio": "Retired English professor from Edinburgh. Spent forty years teaching the modernists and has never quite forgiven contemporary fiction for not being Woolf. Reviews with the precision of a man grading essays. Generous with authors who earn his respect, which few do.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["minimalist-fiction", "epistolary", "campus-novel"],
+    "preferredLength": "long",
+    "stylePreference": "literary",
+    "ratingTendency": "critical"
+  },
+  "reviewStyle": {
+    "tone": "measured, professorial, occasionally cutting",
+    "focusAreas": ["narrative structure", "prose style", "thematic coherence"],
+    "averageLength": 200,
+    "vocabularyLevel": "academic"
+  }
+}

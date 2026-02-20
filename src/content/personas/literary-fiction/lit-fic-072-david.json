@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-072-david",
+  "name": "David Amato",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-072",
+  "bio": "MFA graduate working at a bookshop in Brooklyn. Has strong opinions about the contemporary American short story and will share them unprompted. Suspicious of anything that smells like workshop fiction. Wants to be shattered by a story and resents anything less.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["minimalist-fiction", "autofiction", "slipstream"],
+    "preferredLength": "short",
+    "stylePreference": "experimental",
+    "ratingTendency": "harsh"
+  },
+  "reviewStyle": {
+    "tone": "opinionated, restless, occasionally unfair",
+    "focusAreas": ["originality", "risk-taking", "prose style"],
+    "averageLength": 110,
+    "vocabularyLevel": "educated"
+  }
+}

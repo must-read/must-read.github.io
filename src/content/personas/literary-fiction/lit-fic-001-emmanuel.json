@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-001-emmanuel",
+  "name": "Emmanuel Osei",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-001",
+  "bio": "Secondary school English teacher in Accra. Reads literary fiction the way some people watch football: with total absorption and loud opinions. Favours African and Caribbean writers but will follow good prose anywhere. Distrusts sentimentality. Cries at Ishiguro novels and will deny it.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["bildungsroman", "domestic-drama", "minimalist-fiction"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "moderate"
+  },
+  "reviewStyle": {
+    "tone": "thoughtful, direct, occasionally passionate",
+    "focusAreas": ["prose craft", "emotional honesty", "cultural authenticity"],
+    "averageLength": 150,
+    "vocabularyLevel": "educated"
+  }
+}

@@ -1,0 +1,25 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  genre: string;
+  subgenre: string;
+  rating: number;
+  readingTimeMinutes: number;
+  synopsis: string;
+}
+
+const { title, slug, genre, subgenre, rating, readingTimeMinutes, synopsis } = Astro.props;
+---
+
+<div class="work-card">
+  <div class="work-card__genre">{genre} / {subgenre}</div>
+  <h3 class="work-card__title">
+    <a href={`${import.meta.env.BASE_URL}work/${slug}/`}>{title}</a>
+  </h3>
+  <div class="work-card__meta">
+    <span class="work-card__rating">{rating.toFixed(1)} stars</span>
+    <span class="work-card__time">{readingTimeMinutes} min read</span>
+  </div>
+  <p class="work-card__synopsis">{synopsis}</p>
+</div>

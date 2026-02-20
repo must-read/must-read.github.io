@@ -1,0 +1,108 @@
+---
+import ReadingLayout from '@/layouts/ReadingLayout.astro';
+import ReviewCard from '@/components/ReviewCard.astro';
+import StarRating from '@/components/StarRating.astro';
+import { getCollection } from 'astro:content';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const works = await getCollection('works');
+  return works.map(work => ({
+    params: { slug: work.data.slug },
+    props: { work },
+  }));
+}
+
+const { work } = Astro.props;
+const { Content } = await render(work);
+
+// Try to load reviews for this work
+const allReviews = await getCollection('reviews');
+const workReviews = allReviews.find(r => r.data.workSlug === work.data.slug);
+
+// Try to load persona names for review display
+const allPersonas = await getCollection('personas');
+const personaMap = new Map<string, string>();
+allPersonas.forEach(p => {
+  personaMap.set(p.data.id, p.data.name);
+});
+---
+
+<ReadingLayout
+  title={work.data.title}
+  genre={work.data.genre}
+  subgenre={work.data.subgenre}
+  authorA={work.data.authorA}
+  authorB={work.data.authorB}
+  workX={work.data.workX}
+  workY={work.data.workY}
+  publishedDate={work.data.publishedDate}
+>
+  <Content />
+
+  <div slot="reviews">
+    <h2>Reviews</h2>
+    <div class="reviews-summary">
+      <StarRating rating={work.data.rating} count={work.data.ratingCount} />
+    </div>
+
+    {workReviews && workReviews.data.reviews.map(review => (
+      <ReviewCard
+        personaName={personaMap.get(review.personaId) || review.personaId}
+        personaId={review.personaId}
+        rating={review.rating}
+        text={review.text}
+        date={review.date.toISOString().split('T')[0]}
+      />
+    ))}
+
+    <div class="formula-card">
+      <h3>The Formula</h3>
+      <p><strong>Author A — {work.data.authorA}:</strong></p>
+      <ul>
+        {work.data.combination.fromAuthorA.map(item => <li>{item}</li>)}
+      </ul>
+      <p><strong>Author B — {work.data.authorB}:</strong></p>
+      <ul>
+        {work.data.combination.fromAuthorB.map(item => <li>{item}</li>)}
+      </ul>
+      <p><strong>Work X — {work.data.workX}:</strong></p>
+      <ul>
+        {work.data.combination.fromWorkX.map(item => <li>{item}</li>)}
+      </ul>
+      <p><strong>Work Y — {work.data.workY}:</strong></p>
+      <ul>
+        {work.data.combination.fromWorkY.map(item => <li>{item}</li>)}
+      </ul>
+    </div>
+  </div>
+</ReadingLayout>
+
+<style>
+  .reviews-summary {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+  .formula-card {
+    margin-top: 3rem;
+    padding: 1.5rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+  }
+  .formula-card h3 {
+    margin-bottom: 1rem;
+  }
+  .formula-card p {
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+  }
+  .formula-card ul {
+    padding-left: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+  }
+  .formula-card li {
+    margin-bottom: 0.25rem;
+  }
+</style>

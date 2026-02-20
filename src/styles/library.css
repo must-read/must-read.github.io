@@ -1,0 +1,132 @@
+.library-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .library-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .library-grid { grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+}
+
+@media (min-width: 1440px) {
+  .library-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.work-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.work-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.work-card__title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.work-card__title a {
+  color: var(--color-text);
+}
+
+.work-card__meta {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.work-card__genre {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.75rem;
+  color: var(--color-accent);
+  font-weight: 500;
+}
+
+.work-card__synopsis {
+  font-size: 0.9rem;
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.genre-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .genre-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .genre-grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.genre-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  transition: box-shadow 0.2s ease;
+}
+
+.genre-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.genre-card__name {
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.genre-card__count {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+}
+
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.filter-pill {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.filter-pill:hover,
+.filter-pill.active {
+  background: var(--color-accent);
+  color: white;
+  border-color: var(--color-accent);
+}

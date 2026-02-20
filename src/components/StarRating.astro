@@ -1,0 +1,37 @@
+---
+interface Props {
+  rating: number;
+  count?: number;
+}
+
+const { rating, count } = Astro.props;
+const fullStars = Math.floor(rating);
+const hasHalf = rating - fullStars >= 0.25 && rating - fullStars < 0.75;
+const emptyStars = 5 - fullStars - (hasHalf ? 1 : 0);
+---
+
+<span class="star-rating" aria-label={`${rating.toFixed(1)} out of 5 stars`}>
+  {Array(fullStars).fill(null).map(() => <span class="star star--full" aria-hidden="true">&#9733;</span>)}
+  {hasHalf && <span class="star star--half" aria-hidden="true">&#9733;</span>}
+  {Array(emptyStars).fill(null).map(() => <span class="star star--empty" aria-hidden="true">&#9734;</span>)}
+  {count !== undefined && <span class="star-rating__count">({count})</span>}
+</span>
+
+<style>
+  .star-rating {
+    display: inline-flex;
+    align-items: center;
+    gap: 1px;
+  }
+  .star {
+    font-size: 1.1em;
+  }
+  .star--full { color: var(--color-star); }
+  .star--half { color: var(--color-star); opacity: 0.6; }
+  .star--empty { color: var(--color-border); }
+  .star-rating__count {
+    margin-left: 0.35rem;
+    font-size: 0.85em;
+    color: var(--color-text-secondary);
+  }
+</style>

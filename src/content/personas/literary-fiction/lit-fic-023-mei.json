@@ -1,0 +1,19 @@
+{
+  "id": "lit-fic-023-mei",
+  "name": "Mei-Lin Tsai",
+  "genre": "literary-fiction",
+  "avatar": "lit-fic-023",
+  "bio": "Book blogger and translator based in Taipei. Reads in three languages and judges prose in all of them. Has a weakness for coming-of-age stories and an allergy to neat endings. Believes the best fiction makes you homesick for a life you never lived.",
+  "readingPreferences": {
+    "favoriteSubgenres": ["bildungsroman", "autofiction", "slipstream"],
+    "preferredLength": "medium",
+    "stylePreference": "literary",
+    "ratingTendency": "generous"
+  },
+  "reviewStyle": {
+    "tone": "lyrical, enthusiastic, perceptive",
+    "focusAreas": ["imagery", "emotional resonance", "translation quality"],
+    "averageLength": 130,
+    "vocabularyLevel": "educated"
+  }
+}

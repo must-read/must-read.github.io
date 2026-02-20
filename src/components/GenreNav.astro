@@ -1,0 +1,30 @@
+---
+interface Props {
+  genres: { name: string; slug: string; count: number }[];
+  activeGenre?: string;
+}
+
+const { genres, activeGenre } = Astro.props;
+---
+
+<nav class="genre-nav" aria-label="Genre navigation">
+  <a href={`${import.meta.env.BASE_URL}browse/`} class:list={["filter-pill", { active: !activeGenre }]}>All</a>
+  {genres.map(g => (
+    <a href={`${import.meta.env.BASE_URL}browse/${g.slug}/`} class:list={["filter-pill", { active: activeGenre === g.slug }]}>
+      {g.name} <span class="genre-nav__count">({g.count})</span>
+    </a>
+  ))}
+</nav>
+
+<style>
+  .genre-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 1rem 0;
+  }
+  .genre-nav__count {
+    font-size: 0.75em;
+    opacity: 0.7;
+  }
+</style>
