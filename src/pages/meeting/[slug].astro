@@ -1,0 +1,109 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ReadingProgress from '@/components/ReadingProgress.astro';
+import '@/styles/reading.css';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const meetings = await getCollection('meetings');
+  return meetings.map(meeting => ({
+    params: { slug: meeting.data.slug },
+    props: { meeting },
+  }));
+}
+
+const { meeting } = Astro.props;
+const { Content } = await render(meeting);
+
+const genreLabel = meeting.data.genre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const subgenreLabel = meeting.data.subgenre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+const formattedDate = meeting.data.publishedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+const isoDate = meeting.data.publishedDate.toISOString().split('T')[0];
+
+const workDetailUrl = `${import.meta.env.BASE_URL}work/${meeting.data.workSlug}/`;
+const workReadUrl = `${import.meta.env.BASE_URL}read/${meeting.data.workSlug}/`;
+---
+
+<BaseLayout title={meeting.data.title}>
+  <ReadingProgress />
+  <article lang="en">
+    <header class="reading-header">
+      <p class="byline">{genreLabel} / {subgenreLabel}</p>
+      <h1>{meeting.data.title}</h1>
+      <p class="formula">A discussion between {meeting.data.authorA} and {meeting.data.authorB}</p>
+      <time datetime={isoDate}>{formattedDate}</time>
+      <hr class="header-divider" />
+    </header>
+
+    <section class="reading-content">
+      <Content />
+    </section>
+
+    <div class="meeting-footer">
+      <div class="meeting-footer__nav">
+        <a href={workReadUrl} class="meeting-footer__link meeting-footer__link--primary">
+          Read the story that grew from this discussion
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+        <a href={workDetailUrl} class="meeting-footer__link meeting-footer__link--secondary">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+          Back to story details
+        </a>
+      </div>
+    </div>
+  </article>
+
+  <meta slot="head" name="author" content={`${meeting.data.authorA} x ${meeting.data.authorB} discussion`} />
+  <meta slot="head" property="article:published_time" content={isoDate} />
+</BaseLayout>
+
+<style>
+  .meeting-footer {
+    max-width: var(--max-width-reading);
+    margin: 0 auto;
+    padding: var(--space-2xl) var(--space-lg) var(--space-xl);
+  }
+
+  .meeting-footer__nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-lg);
+  }
+
+  .meeting-footer__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-ui);
+    font-weight: 500;
+    transition: color var(--duration-fast) var(--ease-out);
+    text-decoration: none;
+  }
+
+  .meeting-footer__link--primary {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-accent);
+    padding: 0.75rem 1.75rem;
+    border: 2px solid var(--color-accent);
+    border-radius: var(--radius-pill);
+    transition: all var(--duration-normal) var(--ease-out);
+  }
+
+  .meeting-footer__link--primary:hover {
+    background: var(--color-accent);
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .meeting-footer__link--secondary {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+  }
+
+  .meeting-footer__link--secondary:hover {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+</style>

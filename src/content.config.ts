@@ -44,6 +44,21 @@ const reviews = defineCollection({
   }),
 });
 
+const meetings = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/meetings' }),
+  schema: z.object({
+    title: z.string(),
+    slug: z.string(),
+    genre: z.string(),
+    subgenre: z.string(),
+    authorA: z.string(),
+    authorB: z.string(),
+    workSlug: z.string(),
+    wordCount: z.number().min(1000).max(6000),
+    publishedDate: z.coerce.date(),
+  }),
+});
+
 const personas = defineCollection({
   loader: glob({ pattern: '**/*.json', base: './src/content/personas' }),
   schema: z.object({
@@ -67,4 +82,4 @@ const personas = defineCollection({
   }),
 });
 
-export const collections = { works, reviews, personas };
+export const collections = { works, reviews, meetings, personas };

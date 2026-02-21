@@ -5,7 +5,7 @@ genre: "humor-satire"
 subgenre: "dark-comedy"
 authorA: "George Saunders"
 authorB: "Mark Twain"
-workSlug: ""
+workSlug: "optimal-distress-processing"
 wordCount: 3018
 publishedDate: "2026-02-21"
 ---

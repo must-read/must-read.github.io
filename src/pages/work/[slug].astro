@@ -23,6 +23,37 @@ allPersonas.forEach(p => {
   personaMap.set(p.data.id, p.data.name);
 });
 
+const allMeetings = await getCollection('meetings');
+const workMeeting = allMeetings.find(m => m.data.workSlug === work.data.slug);
+
+// Build meeting preview: strip markdown, truncate to ~500 chars
+let meetingPreview = '';
+let meetingUrl = '';
+if (workMeeting) {
+  meetingUrl = `${import.meta.env.BASE_URL}meeting/${workMeeting.data.slug}/`;
+  const rawBody = workMeeting.body || '';
+  // Strip markdown formatting for plain text preview
+  const plainText = rawBody
+    .replace(/^---[\s\S]*?---\n*/m, '') // strip frontmatter if present in body
+    .replace(/#{1,6}\s+/g, '')          // strip headings
+    .replace(/\*\*([^*]+)\*\*/g, '$1')  // strip bold
+    .replace(/\*([^*]+)\*/g, '$1')      // strip italic
+    .replace(/_([^_]+)_/g, '$1')        // strip underscores italic
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // strip links
+    .replace(/`[^`]+`/g, '')            // strip inline code
+    .replace(/\n{2,}/g, ' ')            // collapse double newlines to space
+    .replace(/\n/g, ' ')               // collapse single newlines to space
+    .trim();
+  if (plainText.length > 500) {
+    // Cut at last word boundary before 500 chars
+    const truncated = plainText.slice(0, 500);
+    const lastSpace = truncated.lastIndexOf(' ');
+    meetingPreview = (lastSpace > 400 ? truncated.slice(0, lastSpace) : truncated) + '\u2026';
+  } else {
+    meetingPreview = plainText;
+  }
+}
+
 const genreLabel = work.data.genre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 const subgenreLabel = work.data.subgenre.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 const formattedDate = work.data.publishedDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
@@ -63,6 +94,19 @@ const readUrl = `${import.meta.env.BASE_URL}read/${work.data.slug}/`;
     <section class="detail-formula-summary animate-fade-up animate-delay-2" aria-label="Formula summary">
       <p class="detail-formula-summary__text">{work.data.formulaSummary}</p>
     </section>
+
+    <!-- Behind the Story (Author Meeting) -->
+    {workMeeting && (
+      <section class="detail-meeting animate-fade-up animate-delay-2" aria-label="Behind the story">
+        <h2 class="detail-section-title">Behind the Story</h2>
+        <hr class="detail-divider" />
+        <p class="detail-meeting__subtitle">A discussion between {workMeeting.data.authorA} and {workMeeting.data.authorB}</p>
+        <p class="detail-meeting__preview">{meetingPreview}</p>
+        <a href={meetingUrl} class="detail-meeting__link">
+          Read the full discussion <span aria-hidden="true">&rarr;</span>
+        </a>
+      </section>
+    )}
 
     <!-- The Formula Card -->
     <section class="detail-formula animate-fade-up animate-delay-2" aria-label="The formula">
@@ -294,6 +338,47 @@ const readUrl = `${import.meta.env.BASE_URL}read/${work.data.slug}/`;
     max-width: 65ch;
     border-left: 3px solid var(--color-accent);
     padding-left: var(--space-lg);
+  }
+
+  /* ============================================
+     Behind the Story (Author Meeting)
+     ============================================ */
+  .detail-meeting {
+    padding: var(--space-2xl) 0 0;
+  }
+
+  .detail-meeting__subtitle {
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    font-style: italic;
+    margin-bottom: var(--space-md);
+  }
+
+  .detail-meeting__preview {
+    font-family: var(--font-reading);
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    max-width: 65ch;
+    margin-bottom: var(--space-lg);
+  }
+
+  .detail-meeting__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--color-accent);
+    transition: color var(--duration-fast) var(--ease-out);
+  }
+
+  .detail-meeting__link:hover {
+    color: var(--color-accent-hover);
+    text-decoration: none;
   }
 
   /* ============================================
