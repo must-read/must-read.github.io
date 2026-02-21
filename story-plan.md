@@ -1,70 +1,124 @@
-# Story Plan: lf-dd-strout-lahiri
+# Story Plan: mt-pt-tartt-highsmith
+
+**Genre**: Mystery-Thriller
+**Subgenre**: Psychological Thriller
+**Combination ID**: mt-pt-tartt-highsmith
+**Target Word Count**: 5,500 words (acceptable range: 5,200-5,800)
+
+---
 
 ## 1. Premise
 
-Runa Dasgupta, a seventy-one-year-old retired schoolteacher in Harpswell, Maine, has spent forty years being the difficult woman on Orr's Island — the one who said aloud what everyone else only whispered, and who lost her only son over a Thanksgiving fight about a name. When her son Nikhil dies suddenly in a car accident in Connecticut, she must drive south alone to claim his body and spend three days in the house of a daughter-in-law she has met exactly once, learning who her son became in the life he built as far from her as geography allowed.
+A failed PhD student, fired from a rare books library for a theft he committed but was never formally charged with, has spent the last eight months living inside the identity of a recently deceased literary scholar — inhabiting the dead man's apartment, answering his emails, and finishing the dead man's book under his name. The story opens with the narrator at a faculty dinner, wearing a dead man's jacket, realizing that the woman across the table has recognized something wrong. The tension is not whether the fraud will be discovered but what happens to a person who has become so good at being someone else that there is nothing left underneath to return to.
+
+---
 
 ## 2. Protagonist
 
-**Runa Dasgupta**, 71. Retired eighth-grade English teacher in a small coastal Maine town. Born in Kolkata, came to the U.S. in 1977 with her husband Arun, who died of a stroke in 2009. Has lived alone for sixteen years in the same saltbox house on a hill above Mackerel Cove. Known in town for her bluntness, her garden, and the way she corrects people's grammar at the post office.
+**Name**: Julian Ault
+**Age**: 29
+**Situation**: A former doctoral candidate in Comparative Literature at a small, prestigious East Coast college (modeled on the Bennington/Reed/Williams world — a place where intellectual refinement is a social currency more valuable than money). His dissertation on Renaissance self-fashioning was never completed. He was quietly let go from his position at the college's rare books archive after a first edition of Montaigne's *Essais* went missing from a private collection he was cataloguing. The book was recovered; no charges filed; his academic career was over.
 
-**What she WANTS**: To bring her son's body home to Maine and bury him properly — the rituals she knows, the place she chose.
+Six months later, his former professor and mentor — a respected but not famous literary critic named Aldous Fenwick, 64 — died of a heart attack alone in his off-campus cottage. Julian, who still had a key, found the body. Instead of calling anyone, he sat with it for two hours. Then he called the funeral home. Then he didn't leave.
 
-**What she NEEDS**: To understand that her son's rejection of her was not a rejection of everything she was, and that the life he built without her was not a repudiation but a translation.
+**What Julian WANTS**: To finish Fenwick's book — a critical study of literary imposture titled *The Forger's Mirror* — and publish it under Fenwick's name. He tells himself this is an act of devotion, a final gift to his mentor. He wants to complete the work, see it published, and then quietly disappear. He wants to believe he is doing something noble.
 
-**Her flaw**: Runa believes that saying the true thing is always the brave thing. She has confused bluntness with honesty her entire life. She told her daughter-in-law Meg, at their only meeting (Thanksgiving 2018), that naming the baby "Kai" was "a name that means nothing, from nowhere" — meaning: you have erased my family's naming traditions, you have taken my son so far from Bengal that even his child will carry no trace. What Meg heard: you don't accept me or my son. What Nikhil heard: you will never stop. He didn't come back. Runa has spent six years telling herself she was right about the name.
+**What Julian NEEDS**: To confront the fact that he is not preserving Fenwick's legacy — he is consuming it. He doesn't love literature or Fenwick; he loves the feeling of being someone who matters. He needs to understand that his emptiness is not a wound that happened to him but a condition he cultivates because it lets him become anyone.
+
+**His flaw / blind spot (RISK CARD)**: Julian believes the impersonation is the problem — that if he can just keep the performance going long enough to finish the book, he can step back into his own life with the private satisfaction of having done something meaningful. He does not understand that there is no "own life" to step back into. The impersonation is not a disguise over a real self; it is the realest thing about him. The story reveals that what Julian IS — a person who fills himself with other people — is more dangerous and more permanent than anything he has done.
+
+---
 
 ## 3. Structure
 
-### Opening Image/Scene
-Runa is in her garden in late October, pulling up the last of the season's kale, when the phone rings inside the house. She doesn't hurry. She finishes the row. The phone stops. It starts again. She pulls off her gloves. By the time she answers, she already knows something is wrong — no one calls her landline twice. A Connecticut state trooper tells her that her son Nikhil Dasgupta was killed in a single-car accident on Route 9 near Middletown. She thanks the officer, hangs up, and stands in the kitchen looking at her muddy boots on the clean floor. She takes the boots off, lines them up by the door, and then sits at the table and does not move for a very long time.
+### Opening: The Crack in the Performance (approx. 800 words)
 
-### The Inciting Disruption
-Runa learns she must go to Connecticut to handle arrangements because she is next of kin — Nikhil and Meg divorced two years ago, something Runa did not know. She must also learn, from the trooper's follow-up call, that Meg has temporary custody of six-year-old Kai and that the funeral will be in Middletown, not Maine. Runa's plan to bring him home collapses before she's even packed the car.
+A faculty dinner at the college, late autumn. Julian is seated among scholars, wearing Aldous Fenwick's herringbone jacket. He has been living as a kind of ghost-Fenwick for eight months — not literally claiming to be him, but occupying his spaces, continuing his correspondence with a few distant colleagues who don't know Fenwick has died, and writing the final chapters of *The Forger's Mirror*. Most people on campus think Julian is simply house-sitting and handling the estate, which is technically true. But the dinner is a mistake — he has been avoiding social proximity to anyone who knew Fenwick well, and tonight he is too close.
 
-### The Escalating Middle
-Runa drives five hours south and arrives at a house she's never seen, in a town she's never visited, to meet a woman she insulted the only time they spoke. Meg is wary but civil. Kai is small, serious, and looks startlingly like Runa's dead husband. Three days of funeral preparation force Runa and Meg into proximity — choosing clothes for the body, deciding on cremation vs. burial (Nikhil left no instructions), fielding calls from Nikhil's Connecticut friends whom Runa has never heard of. Each interaction reveals a piece of the life Nikhil built that Runa knows nothing about: his woodworking hobby, his volunteer work with refugee families, his Bengali cooking (learned from YouTube, not from her). The details accumulate like evidence in a trial she is losing.
+The woman across the table is **Lena Brovik**, a visiting scholar from Oslo, who had a brief but intense intellectual affair with Fenwick two years ago. She is studying Julian with an expression he cannot read. The opening establishes: the crime is already in motion. We know what Julian is doing. The question is what it will cost.
 
-Meanwhile, Kai barely speaks, but he watches Runa with an unnerving steadiness. He follows her around Meg's house. On the second night, he brings Runa a book — a Bengali children's book, dog-eared — and asks her to read it to him. Runa realizes Nikhil taught his son some Bengali. The name that meant nothing, from nowhere — Nikhil had been building a bridge she couldn't see because she'd stopped looking.
+### How We Got Here: The Seduction (approx. 1,500 words)
 
-### The Crisis Point
-The morning of the funeral. Meg asks Runa if she'd like to say something. Runa has prepared nothing. At the service, held at a funeral home she finds depressingly generic, Nikhil's friends speak — a colleague, a neighbor, a woman from the refugee center. They describe a man Runa half-recognizes: her son's gentleness, his stubbornness (that she does recognize), his patience. When it's Runa's turn, she stands at the front and faces a room of strangers who knew her son better than she did. She opens her mouth to say something correct, something about Nikhil as a boy, something that establishes her claim. Instead, she tells them about the name. She tells the whole room that she ruined Thanksgiving in 2018 because she said the name Kai meant nothing, and that she was wrong, and that she has been wrong for six years, and that her son died knowing she was wrong because she never called to say so.
+We pull back in time. Julian's history at the college — his arrival as a scholarship student among old-money aesthetes, his quick absorption into the intellectual life, his relationship with Fenwick (mentor, surrogate father, the first person who ever told him he was brilliant). The Montaigne theft — rendered not as a crime of greed but as an act of identification: Julian wanted to hold the book because Montaigne's essays on self-fashioning felt like the only text that had ever described what it was like to be him. The quiet expulsion. The months of nothing. Then Fenwick's death, the key, the body, the two hours of sitting.
 
-### The Ending
-After the funeral, Runa helps Meg clean up. They don't talk about what Runa said. They wash dishes. Meg asks Runa, quietly, if she'd like to take some of Nikhil's things back to Maine. Runa says no — then changes her mind and asks for the Bengali children's book. Meg says Kai will want that. Runa nods. She drives home to Maine in the dark. The house is cold. She turns on the heat, puts on the kettle, and calls Meg's number. When Meg answers, Runa says: "I thought I could read it to him. Over the phone. If he wants." Meg is quiet for a long time. The story ends with Runa waiting, the kettle beginning to whistle, Meg's silence on the line — we don't hear the answer.
+The gradual slide into occupation: first just feeding Fenwick's cat. Then sleeping in the guest room. Then the study. Then answering an email from Fenwick's editor asking about the manuscript's progress. Then writing a paragraph. Then a page. Then chapters. The seduction of becoming a person who has a desk, a library, a purpose, a reputation (even borrowed). Julian's prose (the Fenwick chapters he writes) is actually better than Fenwick's original work, which makes the imposture feel less like theft and more like collaboration. This is where the reader gets seduced too — Julian is good at this, and we want him to succeed.
+
+### The Escalating Middle: Complications and Cost (approx. 1,800 words)
+
+Three pressure points converge:
+
+1. **Lena Brovik** begins visiting the cottage. She says she wants to look through Fenwick's papers for letters he wrote her. Julian cannot refuse without raising suspicion. She is observant, she knew Fenwick intimately, and she notices things: the tea is wrong (Julian drinks Earl Grey; Fenwick drank Lapsang Souchong), the desk has been rearranged, there are new books on the shelf that don't match Fenwick's interests. She does not accuse Julian of anything. She simply watches, and her watching is unbearable.
+
+2. **The manuscript** is nearly finished, and Fenwick's editor, **Patricia Oakes**, flies in from New York. She wants to meet with Julian to discuss the estate's handling of the book. Julian has been corresponding with her as "the estate executor" and has implied that the final chapters were found in draft form. Patricia is sharp, warm, and genuinely moved by the book. She says the last three chapters are "the best thing Aldous ever wrote." Julian experiences this compliment as both triumph and annihilation — the best work is his, but it will never be his.
+
+3. **A letter arrives** from Fenwick's estranged sister in Montpelier, demanding to know why the estate hasn't been filed with probate court. Julian has been paying Fenwick's bills from Fenwick's accounts (power of attorney he forged). The legal structure is about to collapse.
+
+Through this section, Julian's internal narration becomes increasingly Fenwick-like — adopting the dead man's cadences, opinions, even memories. He catches himself telling Lena an anecdote about a conference in Dubrovnik, then realizes it happened to Fenwick, not to him. The reader should feel the ground shifting: is Julian pretending to be Fenwick, or is Julian disappearing?
+
+### The Crisis Point (approx. 800 words)
+
+Lena comes to the cottage late one evening. She has found something in the papers Julian gave her access to — Fenwick's private journal, which Julian somehow missed. In it, Fenwick writes about Julian extensively. The entries are devastating: Fenwick saw Julian clearly. He describes Julian as "a brilliant mimic with no original self," a student whose gift for literary analysis was actually a gift for ventriloquism. Fenwick loved Julian but understood him with clinical precision: "He does not want to be a scholar. He wants to be *the kind of person who is a scholar.* The distinction is everything."
+
+Lena reads Julian a passage. Julian listens. The scene is almost unbearable in its quietness — no confrontation, no shouting. Lena is not angry. She is something worse: she is sad for him. She says, "He knew. He knew what you would do." The implication — never stated outright — is that Fenwick may have left the key, the manuscript, the open door, as a kind of trap or a test, knowing exactly what Julian was.
+
+### The Ending: Consequences, Not Justice (approx. 600 words)
+
+Julian does not confess. He does not get caught. Lena leaves and does not call the police. The legal issue with the sister can probably be managed.
+
+Instead, something worse happens: nothing changes. Julian finishes the book. He sends the final manuscript to Patricia. He feeds the cat. He sits at Fenwick's desk and begins reading Fenwick's journal from the beginning — not to understand Fenwick, but to study how Fenwick saw the world, so he can do it better next time.
+
+The final image: Julian standing in front of Fenwick's bathroom mirror, practicing a facial expression he saw in a photograph of Fenwick at thirty. He adjusts his jaw, tilts his chin. It is the smallest, most devastating gesture — a man rehearsing someone else's face with the patience of a craftsman. The reader realizes: the story hasn't been about a crime. It's been about a condition. Julian will do this forever. There is no resolution because there is no Julian to resolve into.
+
+---
 
 ## 4. Key Scenes
 
-- **The garden/phone call opening**: Runa's hands in the dirt, the ringing phone, the boots lined up — establishes her as physical, precise, someone who finishes what she's doing before she falls apart. The delay tells us everything about her relationship with the world.
+- **The faculty dinner** (opening): Julian in Fenwick's jacket, Lena's gaze across the table. The reader enters mid-crime. Tartt's lush, socially saturated academic world. The seduction of belonging to a world of candlelight and classical references.
 
-- **Arriving at Meg's house**: The door opening, the two women seeing each other for the second time in their lives, Kai appearing behind Meg's leg. Runa notices the house is nicer than she expected. She notices a framed photo of Nikhil in the hallway — recent, laughing, a face she didn't know he had anymore. The small talk is agonizing and exact.
+- **The two hours with the body**: Julian finds Fenwick dead and simply sits. No panic, no grief — a strange, patient waiting, as if he were letting the apartment become available. This is the scene where Highsmith's cold moral vacuum is most visible. The reader should feel complicit: we understand why he doesn't call anyone immediately, and that understanding implicates us.
 
-- **The Bengali book scene**: Kai bringing the book to Runa on the second night. She reads it haltingly — her own Bengali has gone rusty from forty years in Maine, and the words feel strange in her mouth. Kai corrects her pronunciation of one word. Runa almost laughs. Almost.
+- **Patricia reads the final chapters aloud**: In the cottage study, Patricia reads a passage from the manuscript and begins to cry. She says it's the most personal thing Aldous ever wrote. Julian knows every word is his. The scene operates on three levels: Julian's private triumph, the fraudulence of the moment, and the genuine beauty of the work itself. The reader feels all three simultaneously.
 
-- **The funeral confession**: The moment Runa stops performing grief and starts telling the truth. The room shifts. Meg, in the front row, looks at her hands. This is not the eulogy anyone expected. Runa is not saying her son was wonderful. She is saying she failed him, specifically, over a name, and that she let her pride fill the silence for six years.
+- **Fenwick's journal entry**: Lena reads aloud Fenwick's private assessment of Julian. The precision of Fenwick's observation — "He does not want to be a scholar. He wants to be *the kind of person who is a scholar*" — functions as the story's thesis delivered as a wound. Julian does not argue. His silence is the loudest thing in the story.
 
-- **The phone call**: The final image. Runa alone in her cold Maine kitchen, offering to read Bengali to a grandchild she barely knows, over the phone, across the distance she created. The offer is small and possibly too late, and Meg's silence could mean anything.
+- **The mirror** (final image): Julian rehearsing Fenwick's face. No narrative comment. No epiphany. Just the image of a man practicing how to be a person, alone, with the light failing.
+
+---
 
 ## 5. The Emotional Trajectory
 
-The reader begins with respect and wariness — Runa is formidable, precise, armored. There's dark humor in her bluntness. By the time she arrives in Connecticut, the reader feels the disorientation of entering a life your own child built without you — the specific humiliation of being a stranger in your son's house. Through the middle, as details of Nikhil's life accumulate, the reader feels the creeping recognition of what Runa has done to herself — not villainy, but the ordinary catastrophe of being right in a way that costs you everything.
+The reader's emotional journey moves through five phases:
 
-At the funeral, the reader should feel the floor drop — Runa's confession is not cathartic. It's an act of self-demolition in front of strangers. It's brave and too late and not enough.
+1. **Fascination** (opening): Who is this person? What has he done? The academic world is gorgeous and the narrator is articulate and self-aware. We lean in.
 
-The ending should leave the reader holding their breath. The phone call is an act of extraordinary courage for a woman like Runa — it asks for nothing, it offers the only thing she has (her language, her voice, the Bengali she almost lost herself), and Meg's silence could be grace or could be a door closing. The reader puts the story down not knowing which, and understanding that Runa doesn't know either, and that she called anyway.
+2. **Seduction** (backstory): We understand why Julian did this. The emptiness of his expulsion, the beauty of Fenwick's life, the ease of the slide. We begin rooting for him. We want the book finished. We want him to get away with it.
+
+3. **Unease** (escalating middle): Small wrongnesses accumulate. Julian's narration starts absorbing Fenwick's voice. Lena's quiet scrutiny makes us aware that we have been identifying with someone hollow. The complicity shifts from comfortable to uncomfortable.
+
+4. **Recognition** (the journal): Fenwick's words hit the reader before they hit Julian. We see Julian the way Fenwick saw him — brilliant, hollow, dangerous in the way that empty things are dangerous because they fill themselves with whatever is closest. The emotional blow is not that Julian is a fraud but that he may be nothing else.
+
+5. **Dread** (ending): The absence of consequences is the consequence. Julian will continue. He will find another life to inhabit. The reader leaves the story feeling not the catharsis of justice but the chill of recognition — we have all, at some point, performed a version of ourselves. Julian is what happens when the performance is all there is.
+
+---
 
 ## 6. Formula Integration
 
-**Elizabeth Strout (Author A)** — Most visible in: **the funeral confession scene.** Strout's signature is the woman who says the wrong thing and the right thing simultaneously, who is prickly and brave without recognizing it. Runa standing in front of strangers and admitting she was wrong about the name — the sentence structure should be plain, declarative, devastating. No ornamentation. Strout's prose works like a verdict: "She told them she had been wrong for six years and that her son died knowing it."
+### Author A — Donna Tartt
+**Most visible in**: The faculty dinner scene and all descriptions of the college world. Lush, hypnotic sentences that make the academic setting feel like a drug — the candlelight on oak paneling, the way Latin phrases hang in conversation like expensive perfume, the particular intoxication of being admitted to a world of beauty and learning. Julian's narration in these passages should have Tartt's signature trance-state quality: long, rhythmic sentences heavy with sensory detail, obsessive cataloguing of textures and atmospheres, the way privilege feels to someone who grew up without it.
 
-**Jhumpa Lahiri (Author B)** — Most visible in: **the Bengali book scene.** Lahiri's power lives in the small domestic detail that carries the entire immigrant experience — a children's book, a mispronounced word, a grandchild who knows more Bengali than his grandmother expected. The weight of cultural transmission reduced to a dog-eared picture book brought to a stranger's lap. The restraint here should be absolute: no narration explaining what this means, just the image of the old woman reading haltingly and the boy correcting her.
+### Author B — Patricia Highsmith
+**Most visible in**: The two hours with the body, and throughout Julian's internal narration when he is alone. Highsmith's influence is the cold engine beneath the lush surface. When Julian is thinking clearly — planning, calculating, maintaining the fraud — the prose should tighten, become clinical, almost affectless. The moral vacuum at the center of the story is Highsmith's territory: Julian does not agonize about what he's doing. He simply does it, the way a person breathes. The reader's discomfort comes from the absence of guilt, not its presence.
 
-**Olive Kitteridge / Work X (Structure)** — Most visible in: **the overall architecture.** Like Olive, Runa is revealed not through her own telling but through her encounters with others — Meg's wariness shows us the damage Runa has done; Nikhil's friends at the funeral show us the son she didn't know; Kai's steady watching shows us the connection she almost forfeited. The protagonist-as-witness structure: Runa witnesses her own son's life from the outside, seeing too much, understanding too late.
+### Work X — The Secret History
+**Most visible in**: The structural frame (crime revealed early, the story is about how we got here and what it costs) and the group dynamics of the college world. The opening dinner explicitly echoes the dinner scenes in *The Secret History* — the intoxication of intellectual aristocracy, the narrator as outsider admitted to the circle. Fenwick's small group of mentees and colleagues should feel like a version of Julian's Greek class: sealed, exclusive, operating under aesthetic principles that justify transgression. The shared secret (Fenwick's death, improperly handled) creates a bond between Julian and the reader that mirrors the bond between Richard and his classmates.
 
-**The Namesake / Work Y (Themes)** — Most visible in: **the naming wound and its resolution.** The entire engine of the story is a fight about a name — Kai, "a name that means nothing, from nowhere." Like Gogol in The Namesake, the name carries the full weight of generational displacement: what the first generation wanted to preserve, what the second generation rejected, what the third generation might yet reclaim. The funeral as revelation — the moment Runa finally sees what her son carried, and that he carried more of her than she knew.
+### Work Y — The Talented Mr. Ripley
+**Most visible in**: Julian's relationship with Fenwick's identity and possessions. The precise, acquisitive way Julian catalogs what he has taken — the jacket, the desk, the handwriting, the intellectual opinions — mirrors Ripley's meticulous absorption of Dickie Greenleaf's life. The class aspiration is explicit: Julian came from nothing and Fenwick's life represents everything he believes a person should be. The final mirror scene is pure Ripley — the rehearsal of another person's face, the patient, workmanlike approach to becoming someone, the terrifying absence beneath the performance.
+
+---
 
 ## 7. Title
 
-**Kai, After All**
+**Visiting Fellow**
 
-The title works on three levels: Kai is the grandchild, the contested name, and the unresolved future. "After All" is what you say when you've been wrong for a long time — after all that, after all I said, after all these years. It also gestures toward aftermath: after all of this, what remains. It's quiet, domestic, slightly rueful — matching the story's tone exactly.
+The title operates on multiple levels: Julian's quasi-official status at the college (he is, in a sense, visiting Fenwick's life); the academic title "visiting fellow" as a marker of the institutional world he craves entry to; the darker reading — he is a "fellow" who only "visits" other people's selves, never inhabiting his own. It is dry, institutional, and faintly sinister. It sounds like something you would see on a nameplate outside a door that belongs to someone else.
