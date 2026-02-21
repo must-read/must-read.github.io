@@ -10,8 +10,8 @@ workY: "The Namesake"
 wordCount: 3790
 readingTimeMinutes: 15
 tags: [domestic-drama, immigrant-family, grief, estrangement, naming, new-england, generational-conflict]
-rating: 0
-ratingCount: 0
+rating: 3.4
+ratingCount: 9
 publishedDate: 2026-02-20
 status: published
 formulaSummary: "Strout's fierce New England plainness meets Lahiri's luminous immigrant precision in a story of a grandmother, a name, and the six years of silence that a funeral breaks open"
