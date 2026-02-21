@@ -48,6 +48,8 @@ Before designing the story, you MUST research and collect actual writing samples
 
 **Collect at least one substantial prose sample (500+ words) per source.** Four sources = four samples minimum. More is better. These go in a `## Writing Samples` section of your plan output.
 
+**Context window management:** If a model work is a short story or novella (under ~15,000 words), download and include it in full — the writer benefits enormously from having the complete text. If a model work is a full novel (50,000+ words), do NOT read the entire thing into your context. Instead: read the first chapter, sample 2-3 representative passages from the middle and end, and include those excerpts. Be aware of your own context window — you need room for the story design, writing samples from ALL four sources, and the Wikipedia concepts. Budget roughly: 40% of your context for research/samples, 30% for story design, 30% for overhead. If you're running low, prioritize voice samples (actual prose) over plot summaries.
+
 For each sample, label:
 - Source (which of the 4 formula elements)
 - Origin (title, chapter, page if known)
