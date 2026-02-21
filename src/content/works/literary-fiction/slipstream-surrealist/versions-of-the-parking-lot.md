@@ -7,8 +7,8 @@ authorA: Kathy Acker
 authorB: Denis Johnson
 workX: "Blood and Guts in High School"
 workY: "Jesus' Son"
-wordCount: 3800
-readingTimeMinutes: 15
+wordCount: 3280
+readingTimeMinutes: 13
 tags: [experimental, collage, multiple-voices, addiction, grace, punk-literature, body-horror, hallucinatory]
 rating: 0
 ratingCount: 0
@@ -51,13 +51,13 @@ Patient in room 6 not sleeping. Third night. She writes in the composition noteb
 
 She told the intake counselor her name was Dahl. First name or last name, unclear. We wrote DAHL on her chart and she looked at the letters like she couldn't remember agreeing to them.
 
-I mop the hallways at 2 AM because that's when the tile is honest. During the day it's covered in sneaker marks and spilled Ensure and the particular gray scuff that institutional furniture leaves when you drag it. At 2 AM with the wet mop it becomes just a surface. It gives back the light. I like the weight of the mop handle, the way my arms know the motion without my brain having to participate. I like the clean wet stripe the mop leaves and how it narrows as it dries, like a road disappearing.
+I mop the hallways at 2 AM because that's when the tile is honest. During the day it's covered in sneaker marks and spilled Ensure and the particular gray scuff that institutional furniture leaves when you drag it. At 2 AM with the wet mop it becomes just a surface. It gives back the light. I like the weight of the mop handle, the way my arms know the motion without my brain having to participate.
 
 The fluorescent in the hallway outside room 6 hums at a frequency that lives in my back teeth. I've submitted three maintenance requests. The hum continues. It is the ward's one continuous sound. At night when everything else goes quiet the hum becomes the largest thing in the building and I think about the woman in the car.
 
 Not Dahl. The other woman. The one from the call.
 
-I was a paramedic for six years. I was good at it. I was good at touching people with precision and saying *you're going to be okay* in the voice that means *I am performing competence so you don't panic.* None of it was love. All of it was tenderness. I learned the difference on the job: you stabilize the cervical spine, you apply pressure to the wound, you do not let your hands shake. A woman on Camelback Road. 4 AM. She had driven into the light pole in the Walgreens lot and when I got there the sodium lights were making everything amber and the blood was black on the asphalt and she was still in the car with the seatbelt on and the airbag deflated across her lap like a failed parachute. She said something as I leaned into the car. She said *I did this on purpose.* I said *you're going to be okay.* She said *that's not what I said.* I never learned her name. The ER took her and I went to the next call and the next and two years later I quit and now I mop floors in a detox unit and I think the mop handle weighs the same as a human head. I don't know why I know that. I don't know why I carry this pocket notebook. I don't know when the patient notes became something else.
+I was a paramedic for six years. I was good at it. I was good at touching people with precision and saying *you're going to be okay* in the voice that means *I am performing competence so you don't panic.* None of it was love. All of it was tenderness. I learned the difference on the job: you stabilize the cervical spine, you apply pressure to the wound, you do not let your hands shake. A woman on Camelback Road. 4 AM. She had driven into the light pole in the Walgreens lot and when I got there the sodium lights were making everything amber and the blood was black on the asphalt and she was still in the car with the seatbelt on and the airbag deflated across her lap like a failed parachute. She said something as I leaned into the car. She said *I did this on purpose.* I said *you're going to be okay.* She said *that's not what I said.* I never learned her name. The ER took her and I went to the next call and the next and two years later I quit and now I mop floors in a detox unit and I think the mop handle weighs the same as a human head. I don't know why I know that.
 
 ---
 
@@ -87,13 +87,13 @@ I was a paramedic for six years. I was good at it. I was good at touching people
 
 My body. I should describe my body because this is supposed to be a record and my body is the evidence.
 
-The amphetamines ate me from the inside. Teeth first — my dentist said *significant erosion* and I said *significant erosion of what* and he said *enamel* and I wanted to say no, significant erosion of the person who used to floss, who used to show up for the cleaning every six months, who used to believe the mouth was worth maintaining. My skin went paper. My cunt dried out. That's not metaphor, that's pharmacology — you can't come on thirty milligrams of mixed amphetamine salts, you can fuck for four hours and never arrive anywhere, you become a machine for generating friction with no product. I wrote a whole essay about this once. "The Machinic Body Under Late Capitalism." I submitted it to a journal and the rejection letter said *this reads more like confession than criticism* and I thought yes, you idiot, the confession IS the criticism, my ruined mouth IS the argument, but I didn't write back. I couldn't write back. My hands were shaking too hard from the pills and the not-eating and the particular kind of exhaustion that comes from being awake for seventy hours and still not being able to stop thinking, stop revising, stop trying to find the sentence that will make the whole thing cohere.
+The amphetamines ate me from the inside. Teeth first — my dentist said *significant erosion* and I said *significant erosion of what* and he said *enamel* and I wanted to say no, significant erosion of the person who used to floss, who used to show up for the cleaning every six months, who used to believe the mouth was worth maintaining. My skin went paper. My cunt dried out. That's not metaphor, that's pharmacology — you can't come on thirty milligrams of mixed amphetamine salts, you can fuck for four hours and never arrive anywhere, you become a machine for generating friction with no product. I wrote a whole essay about this once. "The Machinic Body Under Late Capitalism." I submitted it to a journal and the rejection letter said *this reads more like confession than criticism* and I thought yes, you idiot, the confession IS the criticism, my ruined mouth IS the argument.
 
 I found the book in the common room. Between a James Patterson and a water-stained Bible. No cover. No first thirty pages. The spine cracked at page 112 like someone had held it open there, pressing down until the glue surrendered. I started reading because there was nothing else — they took my phone and the television in the common room plays only a channel that sells jewelry and the jewelry is always described as *stunning,* which is a word that means to be knocked unconscious.
 
 Page 31 began mid-sentence: *—never forgave her for the parking lot, for the way she'd turned the wheel deliberately, not toward anything but away from the last version of herself that still—*
 
-The character's name was Dahlia. Close enough. The events were wrong but the body was right — the same ruined mouth, the same dead hands, the same inability to stop writing. I read passages out loud in group therapy. The counselor said *Dahl, we're doing something else right now.* I said *this is the something else, this is the only thing.* I kept reading. A woman named Dahlia drives through a city. A woman named Dahlia fucks a man in a parking structure and feels nothing and writes about feeling nothing and the writing feels like something, which is the trap, which is always the trap.
+The character's name was Dahlia. Close enough. The events were wrong but the body was right — the same ruined mouth, the same dead hands, the same inability to stop writing. I read passages out loud in group therapy. The counselor said *Dahl, we're doing something else right now.* I said *this is the something else, this is the only thing.* I kept reading. A woman named Dahlia drives through a city. A woman named Dahlia fucks a man in a parking structure and feels nothing and writes about feeling nothing and the writing feels like something, which is the trap.
 
 I copied sentences from the book into my notebook without quotation marks because quotation marks are a form of property law and I don't believe in property, not anymore, not since everything I owned fit in a car I couldn't drive. I changed Dahlia to Dahl. I changed the parking structure to a parking lot. I changed the man to a woman because that was truer. The sentences were mine now. The sentences had always been mine. Every book I've ever read was written by me in a language I hadn't learned yet.
 
@@ -109,17 +109,13 @@ I am three people: the woman in the car, the woman in the book, and the woman in
 
 ---
 
-I watched her through the observation window at 3 AM and the fluorescent light made her look dead. Not dead. Something else. A body that had been set down on a bed with great care by something not human — the way we used to place people on gurneys, with precision that looked like love but wasn't.
+I watched her through the observation window at 3 AM and the fluorescent light made her look like something that had been set down on a bed with great care by something not human — the way we used to place people on gurneys, with precision that looked like love but wasn't.
 
-I know the difference. I learned it on the job. You touch a person's head and stabilize the spine and your hands are gentle and your voice is gentle and none of it comes from the part of you that loves. It comes from the part that was trained. The training sits in your hands like muscle memory and you can do it in your sleep and I have done it in my sleep, in dreams where I'm back on the rig and the woman on Camelback is in the car and the blood is black under the sodium lights and this time I lean in and she doesn't say *I did this on purpose,* this time she says my name, and I wake up.
-
-Tonight I stood outside room 6 for eleven minutes. I timed it by the clock above the nurse's station. I put my hand on the door. The metal was warm from the heating vent. Through the window I could see her writing. Her mouth was moving. She was saying the words as she wrote them, or she was saying different words, or she was praying, which is a thing I've seen patients do at 3 AM when they think no one is watching — their mouths move and you can't hear what comes out and it doesn't matter what comes out because the mouth moving is the prayer, the asking is the having.
+Tonight I stood outside room 6 for eleven minutes. I timed it by the clock above the nurse's station. I put my hand on the door. The metal was warm from the heating vent. Through the window I could see her writing. Her mouth was moving. She was saying the words as she wrote them, or she was saying different words, or she was praying, which is a thing I've seen patients do at 3 AM when they think no one is watching — their mouths move and you can't hear what comes out and it doesn't matter what comes out because the mouth moving is the thing itself.
 
 I wanted to open the door. Not to help her. To read what she'd written. To see if her parking lot was my parking lot. To see if the woman in her notebook was the woman from my call — the one who said *I did this on purpose* — and if so, what that would mean, and if not, what the coincidence would mean, and in either case whether meaning was even the right word for the thing I was looking for standing outside that door with my hand on the warm metal at 3 AM with the fluorescent humming in my teeth.
 
 I did not open the door.
-
-In the version I'm writing now, I did not open the door.
 
 ---
 
@@ -127,30 +123,22 @@ In the version I'm writing now, I did not open the door.
 
 *A woman sits in a room. She writes. A man stands outside the room. He watches. Between them a door, a window, a sheet of glass that is also a version of the windshield she drove through, that is also a page of the book she stole from the common room, that is also the surface of the parking lot where everything happened or nothing happened or the happening was so small, so internal, that no police report could contain it.*
 
-*The glass wants to give. The glass always wants to give. You just have to press.*
-
 ---
 
 Last version. I'll make this one plain.
 
 October 9th. 2:47 AM. The Rite Aid parking lot on Camelback. I was alone. I was driving and then I was not driving. I pulled into the lot and turned off the engine and sat there with my hands on the wheel. Nothing was hit. No cart corral, no light pole, no child, no passenger. The airbag didn't deploy because there was no impact. I sat in the car for two hours. The parking lot was empty. The sodium lights buzzed. A cat walked across the asphalt and looked at me through the windshield and I thought it could see every version of me and didn't care about any of them.
 
-I called 911 at 4:50 AM because I couldn't make my hands let go of the wheel. The dispatcher asked what my emergency was and I said *I stopped.* She said *stopped what, ma'am.* I said *everything, I stopped everything* and she sent someone and the someone was kind. The kindness was the worst part. I hadn't earned it. I knew then what I know now, what the book knows, what the notebook knows: that unearned kindness is the only kind there is. That grace shows up in the wrong shape, wearing the wrong uniform. That you can't make your hands let go.
+I called 911 at 4:50 AM because I couldn't make my hands let go of the wheel. The dispatcher asked what my emergency was and I said *I stopped.* She said *stopped what, ma'am.* I said *everything, I stopped everything* and she sent someone and the someone was kind and the kindness didn't mean what I wanted it to mean.
 
-I'm leaving the notebook on the bed. The orderly watches me through the glass. I know because I can feel the quality of his attention the way you feel someone reading over your shoulder. Let him have it. Let him hold the versions. I am walking out of here tomorrow with nothing in my hands and the light will be whatever the light will be and I will not describe it because I am done making things beautiful. I am done making the wreckage into a sentence. This is the last sentence.
-
----
-
-I found the notebook on the bed Tuesday morning after she was discharged. The sheets were still wrinkled from her body and the pen was on the pillow. I read the whole thing standing in the doorway. Twenty minutes. The handwriting got smaller as the pages went on, like she was trying to fit more of herself into less space, like the words were being compressed by something I couldn't see.
-
-I put the notebook in my locker. Combination 12-34-08. I did not return it. She didn't leave a forwarding address. She didn't leave a last name. She left versions of a parking lot that might be my parking lot, that might be the Walgreens on Camelback, that might be the Rite Aid or the strip mall or every lot in this city, which is a city made of parking lots, a city that paves its grief and parks on it and puts up sodium lights and waits for someone to crash.
-
-I read one passage three times. She had written it in handwriting so small I had to hold the page to my face: *The orderly came in. He read what I wrote. He recognized it. This is how I know it's true — when someone else's face breaks.* But I didn't come in. I stood outside the door. I didn't read it until now. She wrote my recognition before it happened. She wrote me into her notebook the way she wrote herself into the book she found in the common room — without permission, without accuracy, without caring whether it was true. She needed a witness so she invented one. And now here I am, witnessing. And I can't tell if I'm doing this because she wrote it or because I chose it.
-
-I will keep this. I think she left it for me. I think that's a lie I'm telling myself so the keeping feels less like theft. I think tenderness and theft are the same motion, the same hand reaching out, and the only difference is what the other person needed you to take.
-
-The fluorescent still hums.
+I'm leaving the notebook on the bed. The orderly watches me through the glass. I know because I can feel the quality of his attention the way you feel someone reading over your shoulder. Let him have it. Let him hold the versions. I'm walking out of here tomorrow with nothing in my hands.
 
 ---
 
-*She walked out of the building into sunlight and the sunlight was wrong. Too bright, too thick, like something with weight, like a liquid she was wading into. The door closed behind her. She carried nothing. Her hands were open. The sunlight pooled in her palms and it was warm and it was not forgiveness because forgiveness requires someone to forgive and she was alone in a parking lot and the light was just light but it was on her skin and it was changing the temperature of her blood, degree by degree, the way water shapes stone, not through force but through the simple stupid patient act of*
+I found the notebook on the bed Tuesday morning after she was discharged. The sheets were still wrinkled from her body and the pen was on the pillow. I read the whole thing standing in the doorway. Twenty minutes. The handwriting got smaller as the pages went on, like she was trying to fit more of herself into less space.
+
+I put the notebook in my locker. Combination 12-34-08. I did not return it. She didn't leave a forwarding address. She didn't leave a last name. She left versions of a parking lot that might be my parking lot, that might be the Walgreens on Camelback, that might be the Rite Aid or the strip mall or every lot in this city.
+
+I read one passage three times. She had written it in handwriting so small I had to hold the page to my face: *The orderly came in. He read what I wrote. He recognized it. This is how I know it's true — when someone else's face breaks.* But I didn't come in. I stood outside the door. I didn't read it until now. She wrote my recognition before it happened. She wrote me into her notebook the way she wrote herself into the book she found in the common room — without permission, without accuracy, without caring whether it was true. She needed a witness so she invented one. And now here I am, witnessing. And I can't tell if I'm doing this because she wrote it or because I chose it or if there's a difference.
+
+The fluorescent still hums. I have her notebook in my locker and I don't know what to do with it. I thought I would know by the time I finished writing this down.
