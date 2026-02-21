@@ -57,6 +57,16 @@ The writer agent will receive these samples alongside the plan and should intern
 
 ---
 
+## Step 1b: Wikipedia Random Concept Mining (REQUIRED)
+
+After collecting writing samples, hit Wikipedia's random article feature 20 times. Use WebFetch on `https://en.wikipedia.org/wiki/Special:Random` for each hit. From the 20 random articles, **select 2 concepts** that spark something — an image, a setting detail, a character's job, a plot mechanism, a metaphor, a piece of history. These can be anything: a town in Romania, a species of moth, an obsolete maritime law, a 1970s television host, a geological formation.
+
+**The key rule: these concepts must be FUSED into the story, not tacked on.** They are not Easter eggs or gimmicks. They should feel like they were always part of the story — a detail so specific it must be real, a piece of knowledge the character would naturally have, an image that earns its place. A reader should never think "that felt random." They should think "how did the author know about that?"
+
+Document your 20 articles, your 2 selections, and a sentence each on how they'll be integrated. Put this in a `## Wikipedia Concepts` section of your plan output.
+
+---
+
 ## Step 2: Design the Story
 
 With the research complete, design the story plan.
