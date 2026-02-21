@@ -7,9 +7,9 @@ authorA: Elizabeth Strout
 authorB: Jhumpa Lahiri
 workX: "Olive Kitteridge"
 workY: "The Namesake"
-wordCount: 4107
-readingTimeMinutes: 16
-tags: [domestic-drama, immigrant-family, grief, estrangement, naming, new-england, generational-conflict, reconciliation]
+wordCount: 3790
+readingTimeMinutes: 15
+tags: [domestic-drama, immigrant-family, grief, estrangement, naming, new-england, generational-conflict]
 rating: 0
 ratingCount: 0
 publishedDate: 2026-02-20
@@ -73,7 +73,7 @@ Linda's face did something complicated—sympathy and shock and the faint vibrat
 
 "I don't know," Runa said, which was true, and which was the worst part, worse than Linda Carrier's pity, worse than the five-hour drive ahead: she did not know if her son had been sick. She did not know what he ate for dinner or whether he still ran in the mornings or if the gray at his temples had spread. She did not know because she had not spoken to him in six years, and everyone on Orr's Island knew that too, though they were polite enough or frightened enough of Runa not to mention it.
 
-She paid for the gas and left. The bay was flat and silver. A lobster boat moved across it, far out, slow as a thought. Runa watched it for a moment from the parking lot, her hand on the car door. She had stood in this exact spot a thousand times—after buying milk, after mailing a letter, after dropping off the recycling—and looked at the water and felt the particular loneliness of living somewhere beautiful that had never been hers. Arun had chosen Harpswell. He had loved the coves, the rocky shore, the way the fog came in like something from a painting. Runa had tolerated it. She had never swum in the ocean, not once in forty years. She did not like cold water. She did not like the way the tide rearranged things.
+She paid for the gas and left. The bay was flat and silver. A lobster boat moved across it, far out, slow as a thought. Runa watched it for a moment from the parking lot, her hand on the car door. She had stood in this exact spot a thousand times—after buying milk, after mailing a letter, after dropping off the recycling—and looked at the water and felt the particular loneliness of living somewhere beautiful that had never been hers. Arun had chosen Harpswell. He had loved the coves, the rocky shore, the way the fog came in. Runa had tolerated it. She had never swum in the ocean, not once in forty years. She did not like cold water. She did not like the way the tide rearranged things.
 
 She got in the car and drove south.
 
@@ -103,7 +103,7 @@ Not Nikhil's. Arun's. The broad forehead, the heavy brows, the mouth that turned
 
 Three days of funeral arrangements in a house that was not hers, in a town she had never visited, with a woman she had insulted the only time they'd met. Runa slept in the guest room, which had been Nikhil's study—Meg said this without emphasis, the way you state the weather—and Runa lay in the fold-out bed surrounded by her dead son's bookshelves and did not open any of the books, though she looked at their spines in the dark. Woodworking. Bengali cookbooks. A shelf of children's picture books in three languages.
 
-The arrangements themselves were a series of small negotiations that Runa lost, one after another, with a kind of exhausted courtesy. Cremation, not burial—Meg said Nikhil had mentioned it once, casually, and Runa said he'd been raised Hindu, they should do it properly, and Meg said quietly that she didn't think Nikhil would have wanted that, and Runa opened her mouth to say something and then closed it, because what she would have said was *how would you know what he wanted, you divorced him*, and she heard the sentence in her head and recognized it for what it was—a grenade, lobbed from the same place in her chest that had produced the comment about the name—and for once in her life, she swallowed it.
+The arrangements themselves were a series of small negotiations that Runa lost, one after another, with exhausted courtesy. Cremation, not burial—Meg said Nikhil had mentioned it once, casually, and Runa said he'd been raised Hindu, they should do it properly, and Meg said quietly that she didn't think Nikhil would have wanted that, and Runa opened her mouth to say something and then closed it, because what she would have said was *how would you know what he wanted, you divorced him*, and she heard the sentence in her head and recognized it for what it was—a grenade, lobbed from the same place in her chest that had produced the comment about the name—and for once in her life, she swallowed it.
 
 Meg was watching her. Runa saw that Meg had expected the grenade. Had braced for it.
 
@@ -111,9 +111,9 @@ Meg was watching her. Runa saw that Meg had expected the grenade. Had braced for
 
 They chose clothes for the body. One of Nikhil's friends—a woman named Deb, with cropped gray hair and the careful manner of someone who did not want to take up too much space—brought over a suit, but it turned out Nikhil didn't own a suit. He owned khakis and flannels and one good blazer, and Runa held the blazer against her face for a moment while Meg pretended to look at something else, and the blazer smelled of nothing, just clean fabric, and Runa put it back in the closet and said the khakis were fine.
 
-People called. Runa answered the phone twice when Meg was upstairs with Kai, because there was nothing else to do, and because she had spent thirty-four years answering phones in school offices and faculty lounges and could not hear one ring without reaching for it. The first caller was a colleague from the community college where Nikhil taught environmental science—Runa had not known this. She had imagined, vaguely, that he still worked in the private sector, something with software. The second was a woman named Patrice from a refugee resettlement organization where Nikhil volunteered on weekends—Runa had not known about this either. Both callers cried. Runa told them the funeral was Thursday and wrote down their names on a piece of paper by the phone, her handwriting neat and small, the way she'd written on report cards for decades. By the end of the second day the list had grown to eleven names: a colleague, a volunteer coordinator, three neighbors, someone called "Jim from the workshop," a woman who said she was Kai's piano teacher. Runa stared at this list the way she might have stared at a map of a country she'd never visited, understanding that she was looking at the shape of her son's life, and it was a shape she had not drawn and could not have imagined and would never now be part of.
+People called. Runa answered the phone twice when Meg was upstairs with Kai, because there was nothing else to do, and because she had spent thirty-four years answering phones in school offices and faculty lounges and could not hear one ring without reaching for it. The first caller was a colleague from the community college where Nikhil taught environmental science—Runa had not known this. She had imagined, vaguely, that he still worked in the private sector, something with software. The second was a woman named Patrice from a refugee resettlement organization where Nikhil volunteered on weekends—Runa had not known about this either. Both callers cried. Runa told them the funeral was Thursday and wrote down their names on a piece of paper by the phone, her handwriting neat and small, the way she'd written on report cards for decades. By the end of the second day the list had grown to eleven names. Runa stared at this list the way she might have stared at a map of a country she'd never visited, understanding that she was looking at the shape of her son's life, and it was a shape she had not drawn and could not have imagined and would never now be part of.
 
-In the evenings, Meg retreated upstairs with Kai, and Runa sat in the living room and looked at the photographs on the mantle. Nikhil at a woodworking bench, plane in hand. Nikhil and Kai on a beach somewhere—not Maine, the sand was wrong, too fine. Nikhil in an apron, stirring something in a wide pan, and Runa leaned in close to this one and saw that the pan held mustard fish—*shorshe maach*—and the recipe was hers, or her mother's, or her grandmother's, and he had learned it from a screen instead of from her hands, and she could not decide if this was the saddest thing she had ever seen or the bravest.
+In the evenings, Meg retreated upstairs with Kai, and Runa sat in the living room and looked at the photographs on the mantle. Nikhil at a woodworking bench, plane in hand. Nikhil and Kai on a beach somewhere—not Maine, the sand was wrong, too fine. Nikhil in an apron, stirring something in a wide pan, and Runa leaned in close to this one and saw that the pan held mustard fish—*shorshe maach*—and the recipe was hers, or her mother's, or her grandmother's, and he had learned it from a screen instead of from her hands, and she could not decide if this made it better or worse.
 
 ---
 
@@ -125,21 +125,19 @@ A Bengali children's book. Runa recognized it—not the specific copy, but the s
 
 "Will you read it?" Kai said.
 
-Runa took the book and opened it and her Bengali, which had gone rusty over forty years of English in Maine, stumbled. The script was familiar in her hands but clumsy in her mouth. She hadn't spoken Bengali regularly since Arun died. The words came out halting—she mispronounced *hilsa*, gave it an English H instead of the aspirated sound, and Kai said, "No, it's *hilsha*," with the ease of a child correcting something obvious, and Runa looked at him—this boy, this small boy with Arun's face and a name she had called meaningless—and something vast and simple opened in her chest.
+Runa took the book and opened it and her Bengali, which had gone rusty over forty years of English in Maine, stumbled. The script was familiar in her hands but clumsy in her mouth. She hadn't spoken Bengali regularly since Arun died. The words came out halting—she mispronounced *hilsa*, gave it an English H instead of the aspirated sound, and Kai said, "No, it's *hilsha*," with the ease of a child correcting something obvious, and Runa looked at him—this boy with Arun's face and a name she had called meaningless—and did not know what she felt. It was too large and too contradictory to name.
 
-She read the story through. Her Bengali improved as she went, the words loosening, finding grooves she'd thought were gone. She could hear her own mother's voice beneath hers—the cadence, the slightly theatrical way she'd read the part where Gopal tricks the whole village—and for the first time in years the memory did not hurt. It just was. Kai listened with his head slightly tilted, his thumb hooked into the collar of his pajama shirt, and when she finished, he took the book back and left without saying goodnight, which Runa respected.
+She read the story through. Her Bengali improved as she went, the words loosening, finding grooves she'd thought were gone. She could hear her own mother's voice beneath hers—the cadence, the slightly theatrical way she'd read the part where Gopal tricks the whole village. Kai listened with his head slightly tilted, his thumb hooked into the collar of his pajama shirt, and when she finished, he took the book back and left without saying goodnight, which Runa respected.
 
-She sat there for a long time afterward. She was thinking about her son, thirteen years old, sitting at the kitchen table in the house on Orr's Island, refusing to speak Bengali. "I'm American," he'd said, and Runa had said, "You are both," and Nikhil had said, "I don't want to be both," and this had been the first wound, the one she'd thought was the deepest until the one about the name proved her wrong. Her American son, who'd refused Bengali at thirteen, had taught it to his own child. Had bought the book. Had read it enough times to crease the spine.
-
-The name that meant nothing, from nowhere. Nikhil had been building something she couldn't see because she'd stopped looking.
+She sat there for a long time afterward. She was thinking about her son, thirteen years old, sitting at the kitchen table in the house on Orr's Island, refusing to speak Bengali. "I'm American," he'd said, and Runa had said, "You are both," and Nikhil had said, "I don't want to be both," and this had been the first wound, the one she'd thought was the deepest until the one about the name proved her wrong.
 
 ---
 
-The funeral home was beige and smelled of carnations. Runa sat in the front row beside Meg, with Kai between them, and she hated the room—the dropped ceiling, the industrial carpet, the artificial flowers—with a precision that felt almost like grief itself.
+The funeral home was beige and smelled of carnations. Runa sat in the front row beside Meg, with Kai between them, and she hated the room—the dropped ceiling, the industrial carpet, the artificial flowers—with a precision that felt like grief itself.
 
 Nikhil's friends spoke. The colleague from the college—a bearded man named Tom—described Nikhil's patience with struggling students, how he'd meet them in the hallway before exams and quiz them until they believed they could pass. Deb, from the workshop, talked about Nikhil building a set of bookshelves for the refugee center and refusing to let anyone help carry them in. Patrice described him showing up on Saturday mornings with bags of groceries—plantains and rice and ghee—and cooking enormous meals for families who'd arrived with nothing.
 
-Runa listened to these people describe a man she half-recognized. The stubbornness was hers, or his father's—the insistence on doing things himself, on being useful whether or not usefulness was wanted. The gentleness was something else entirely. She did not know where it had come from. She wanted to believe she had given it to him, but she was not gentle, had never been gentle, and she was not about to start lying to herself about it in a beige funeral home in Connecticut.
+Runa listened to these people describe a man she half-recognized. The stubbornness was hers, or his father's—the insistence on doing things himself, on being useful whether or not usefulness was wanted. The gentleness was something else. She did not know where it had come from. She was not gentle, had never been gentle, and she was not about to start lying to herself about it in a beige funeral home in Connecticut.
 
 A young woman Runa didn't recognize—dark hair, a nose ring, work boots under her dress—got up and said Nikhil had helped her fix a porch railing last summer and wouldn't take money for it. She said he'd stayed for dinner and eaten three helpings of her grandmother's lasagna and told her it reminded him of his mother's cooking, which made no sense because his mother was Indian, but that was Nikhil—he found the connection even when it wasn't obvious. Runa sat very still during this, her hands folded in her lap so tightly that her knuckles ached.
 
@@ -147,21 +145,13 @@ Meg had asked if Runa wanted to say something. Runa had said she'd think about i
 
 She walked to the front. The room held perhaps forty people. She knew none of them.
 
-She'd intended to say something about Nikhil as a boy. Something about the tide pools at Mackerel Cove, how he'd spent hours crouched over them, cataloguing snails. Something that established her claim—*I knew him first, I knew him longest, I knew things about him none of you knew.*
+"When Nikhil was nine he spent a whole summer at Mackerel Cove on Orr's Island cataloguing periwinkles," Runa said. "He had a notebook. He was very serious about it." She paused. She could feel the room waiting for more. She had nothing more about the periwinkles. "The last time I saw my son was Thanksgiving in 2018. I met his wife and his baby and I told them the baby's name meant nothing. I said it was a name from nowhere." She stopped. She hadn't intended to say this. It was coming out wrong, or it was coming out right in a way she couldn't control. "I meant that it wasn't a Bengali name. I thought saying the true thing was—" She stopped again. She had been about to say *brave.* "I didn't call him after that. He didn't call me. I want you to know that part. That it was both of us."
 
-Instead she told them about the name.
+She looked at the room. Some of them were looking at their laps.
 
-She said, "The last time I saw my son was Thanksgiving in 2018. I came to dinner and I met his wife and I met his baby, and I told them the baby's name meant nothing. I said it was a name from nowhere." She paused. The room was very quiet. "I meant that it wasn't a Bengali name. I meant that it didn't carry anything—no grandfather, no history. I thought I was saying something true, and I thought saying the true thing was brave, and I have thought this my whole life. But what I was saying was that my son's choices were wrong. And that his wife's choices were wrong. And that their child, who was three months old and perfect, was not enough."
+"I was wrong about the name," Runa said. She gripped the sides of the podium. "That's all I came up here to say, but it isn't enough, and I know it isn't enough."
 
-She looked at the room. She could feel Meg's attention behind her, a physical pressure.
-
-"Nikhil didn't come back after that. He didn't call. I didn't call either. I want you to know that. I didn't call because I believed I was right, and I am a woman who would rather be right than be a mother, and I have been that woman for six years, and now my son is dead."
-
-She stopped. She had not planned to say any of this. Her hands were shaking and she put them flat on the podium, and she could see, in the front row, that Meg was looking at her hands in her lap, and Kai was looking straight at Runa with that same steady gaze—Arun's gaze, or her own, she couldn't tell anymore.
-
-"I was wrong about the name," Runa said. "I was wrong and my son knew I was wrong because he never told me he'd taught his son Bengali, and he never told me about the book, because he'd given up on me understanding. And he was right to give up." She stepped back from the podium. "That's all."
-
-She sat down. Kai's hand found hers—she didn't know if he reached or if she reached—and she held it, and it was small and warm and slightly sticky, and the funeral continued around them, and Runa sat very still and breathed.
+She sat down. She did not look at Meg. Kai was sitting very straight between them, looking at the podium where Runa had just been standing, and the funeral continued, and Runa sat still and breathed.
 
 ---
 
@@ -183,15 +173,15 @@ Meg folded the dish towel. "Kai reads that every night."
 
 "Of course." Runa placed the plate in the drying rack. "Of course he does."
 
-They finished the dishes. Runa packed her bag, thanked Meg—this time the thank-you was right, she was almost sure of it—and carried her bag to the car. Kai was on the porch. He didn't wave. He watched her go with that unsettling composure, and Runa raised a hand to him and he raised one back, a mirror of her gesture, precise and contained, and she thought: *he is mine. He is mine whether or not I deserve it.*
+They finished the dishes. Runa packed her bag, thanked Meg—this time the thank-you was right, or closer to right—and carried her bag to the car. Kai was on the porch. He didn't wave. He watched her go with that unsettling composure, and Runa raised a hand to him and he raised one back, a mirror of her gesture, precise and contained.
 
-She drove north in the dark. Five hours. The trees along I-91 were black shapes against a blacker sky, and the highway was nearly empty—just long-haul trucks and the occasional pair of headlights coming south, each one a life going somewhere Runa would never know about. She didn't turn on the radio. She drove with both hands on the wheel and thought about nothing, or tried to, but what came instead was the image of her son at nine years old, standing on the rocks at Mackerel Cove in rubber boots two sizes too large, holding a periwinkle up to the light with an expression of ferocious concentration. He had wanted to be a marine biologist then. Later he wanted to be a pilot. Later still he stopped telling her what he wanted to be, and she had not noticed the silence until it was permanent.
+She drove north in the dark. Five hours. The trees along I-91 were black shapes against a blacker sky, and the highway was nearly empty—just long-haul trucks and the occasional pair of headlights coming south. She didn't turn on the radio. She drove with both hands on the wheel and thought about nothing, or tried to, but what came instead was the image of her son at nine years old, standing on the rocks at Mackerel Cove in rubber boots two sizes too large, holding a periwinkle up to the light with an expression of ferocious concentration. He had wanted to be a marine biologist then. Later he wanted to be a pilot. Later still he stopped telling her what he wanted to be, and she had not noticed the silence until it was permanent.
 
 Somewhere past Hartford she realized she was crying, which she allowed for twelve miles, and then she stopped, because she was merging onto I-84 and the ramp was poorly lit.
 
 ---
 
-The house on Orr's Island was cold. She'd left the heat off, three days, and the kitchen floor cracked under her feet like something wounded. She turned the thermostat up. Filled the kettle. Stood in the middle of her kitchen where the muddy boot prints were still on the floor from Monday, and the kale was still on the garden path—she could not see it in the dark, but she knew it was there, ruined by now, and she would clean it up in the morning or she wouldn't.
+The house on Orr's Island was cold. She'd left the heat off, three days, and the kitchen floor cracked under her feet. She turned the thermostat up. Filled the kettle. The muddy boot prints were still on the floor from Monday, and the kale was still on the garden path—she could not see it in the dark, but she knew it was there, ruined by now, and she would clean it up in the morning or she wouldn't.
 
 She picked up the phone and dialed Meg's number. She had memorized it from the funeral home paperwork, which was the kind of thing Runa did—memorize numbers, retain details, hold onto information as though knowing things were the same as understanding them.
 
@@ -207,6 +197,8 @@ Another pause. Longer.
 
 "I know it's his book," Runa said. "I know I can't take it. But I thought I could read it to him. Over the phone. If he wants."
 
-The kettle ticked. Outside, the bay was invisible, just the sound of water on rock, that sound she'd lived beside for forty years and still could not call home, not entirely, though there was nowhere else.
+The kettle ticked. Outside, the bay was invisible, just the sound of water on rock.
 
-Meg was quiet. The silence lasted long enough that Runa thought she might have hung up, and then long enough that she knew she hadn't, and then long enough that the kettle began to whistle—low at first, then building—and Runa stood in her cold kitchen on Orr's Island, holding the phone, waiting.
+Meg said, "I'll ask him." And hung up.
+
+Runa stood in her kitchen holding the phone. The kettle was beginning to hiss. She set the phone down and got a mug from the cupboard and spooned in the Darjeeling and waited for the water, and she did not know if Meg would call back tonight or tomorrow or at all, and this not-knowing was different from the other not-knowing—the six years of it—because this time she had asked.
