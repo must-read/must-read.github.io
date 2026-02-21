@@ -22,8 +22,8 @@ tags:
   - documentary-fiction
 publishedDate: 2026-02-20
 status: "published"
-rating: 3.9
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 formulaSummary: >
   El Akkad's reportorial calm renders the collapse of the American Southwest as bureaucratic inevitability — displacement processed through intake forms and water ration cards — while Bradbury's lyrical nostalgia saturates every memory of what was lost: lawns, libraries, the smell of rain on asphalt. The structure borrows American War's documentary scaffolding, weaving official memoranda and testimony between narrative chapters, and from Fahrenheit 451 comes fire as the story's central metaphor — the government burns archived climate data and old books to fuel heating stations, and a girl discovers that what they're really destroying is the evidence of a world that chose this ending.
 synopsis: >
