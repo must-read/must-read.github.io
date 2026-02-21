@@ -15,7 +15,7 @@ tags:
   - "sense-of-wonder"
   - "first-contact"
   - "grief"
-rating: 3.7
+rating: 3.3
 ratingCount: 9
 publishedDate: "2026-02-21"
 status: "published"
