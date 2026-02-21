@@ -7,8 +7,8 @@ authorA: "Becky Chambers"
 authorB: "Arthur C. Clarke"
 workX: "A Psalm for the Wild-Built"
 workY: "Rendezvous with Rama"
-wordCount: 4926
-readingTimeMinutes: 20
+wordCount: 4718
+readingTimeMinutes: 19
 tags:
   - "alien-artifact"
   - "found-family"
@@ -50,7 +50,7 @@ The mineral content in the *Meridian*'s number-three water recycler has been cli
 
 "I know exactly how determined basil can be. It's not determined enough." She withdraws her arm from the panel and wipes the coupling grease on her coveralls — the left thigh, where a permanent dark smear has taken on the approximate shape of Lake Baikal, which Dae pointed out two months ago and which Naveli has never been able to unsee. "The calcium exchanger is scaling. I need to flush it with citric acid, which I would have done yesterday if someone hadn't used my entire supply to descale the coffee machine."
 
-Poul has the grace to look briefly ashamed. He is forty-six, broad-shouldered, with a salt-and-pepper beard he trims with the same meticulous care he brings to his exobiology samples and his cooking, both of which occupy roughly equal portions of his working hours. When the *Meridian* launched from Callisto Station two years ago, the crew manifest listed him as Senior Exobiologist. In practice, he runs the galley, maintains the hydroponics bay, catalogs the deep-field sensor data, and occasionally remembers to publish a paper. Nobody has ever asked him to choose. The *Meridian* is that kind of ship — small enough that everyone does three jobs and complains about two of them, old enough that the jobs keep multiplying.
+Poul has the grace to look briefly ashamed. He is forty-six, broad-shouldered, with a salt-and-pepper beard he trims with the same meticulous care he brings to his exobiology samples and his cooking. The crew manifest lists him as Senior Exobiologist. In practice he runs the galley, tends the hydroponics bay, and occasionally remembers to publish a paper. The *Meridian* is that kind of ship — small enough that everyone does three jobs and complains about two of them.
 
 "I can synthesize more citric acid," he offers.
 
@@ -68,15 +68,15 @@ It is a soft sound, three ascending tones, the kind of alert designed for events
 
 "All hands, this is Osen." The captain's voice carries its usual quality of measured calm, as if every sentence has been reviewed and edited before delivery. "We're within sensor range of the Alcyone Object. I'd like everyone on the observation deck in twenty, but there's no rush. Finish what you're doing."
 
-Naveli finishes what she is doing. She seals the access panel, logs the calcium exchanger for citric flush — noting in the maintenance record that she will need to source the citric acid from somewhere other than Poul's lemon — and cleans her tools. She hangs the hex driver on its peg, coils the diagnostic cable, wipes the access panel surround with a cloth. None of this is strictly necessary. All of it is part of how she keeps the ship running — not just the mechanisms but the discipline of care, the principle that every task deserves its full completion before the next one begins.
+Naveli finishes what she is doing. She seals the access panel, logs the calcium exchanger for citric flush — noting in the maintenance record that she will need to source the citric acid from somewhere other than Poul's lemon — and cleans her tools. She hangs the hex driver on its peg, coils the diagnostic cable, wipes the access panel surround with a cloth. None of this is strictly necessary. She does it anyway.
 
 Poul waits, because Poul always waits for her. He has the patient attention of a man who studies organisms that evolve over geological timescales; a few extra minutes in a mechanical bay does not trouble him. When she is ready, they walk together through the *Meridian*'s central corridor, which smells the way it always smells: recycled air and cumin and the faintly astringent cleaning solution Dae uses on the engine components, which she insists is industrial-grade but which Naveli suspects is mostly vinegar.
 
-The observation deck is a generous term for a reinforced viewport bay roughly the size of a large closet. Captain Osen is already there, hands clasped behind his back in his habitual posture of contained authority. He is sixty-one and has commanded supply vessels for longer than Naveli has been fixing them; his face has the particular weather of a man who has made a thousand undramatic decisions correctly. Dae stands beside him with her arms wrapped around herself, her small frame tense in the way it gets before she has decided how worried to be. Liat, at twenty-three the youngest aboard by nearly a decade, presses her forehead against the viewport glass like a child at an aquarium. Remi, the navigator, sits cross-legged on the floor with a thermos of tea, radiating the preternatural calm of someone who has been tracking the Object on her instruments for the past six hours and has already made her peace with it.
+The observation deck is a generous term for a reinforced viewport bay roughly the size of a large closet. Captain Osen is already there, hands clasped behind his back. He is sixty-one and has commanded supply vessels for longer than Naveli has been fixing them. Dae stands beside him with her arms wrapped around herself, her small frame tense in the way it gets before she has decided how worried to be. Liat, at twenty-three the youngest aboard by nearly a decade, presses her forehead against the viewport glass. Remi, the navigator, sits cross-legged on the floor with a thermos of tea.
 
 The Alcyone Object fills the lower quarter of the viewport.
 
-It is two point three kilometers along its longest axis. Its surface is the color of old iron, though spectrographic analysis has never matched it to any known alloy or composite. It orbits the gas giant Kepler-442c at a distance of 1.6 million kilometers — close enough to catch the planet's pale blue light along one flank, far enough to appear autonomous, unanchored, beholden to nothing but its own intentions, if intentions is a word that applies. It is not rotating. Forty years ago, the first Alcyone Object passed through the outer system in nine months, was tracked by a long-haul relay station, catalogued, studied at insufficient resolution, and never seen again. This one arrived fourteen months ago, decelerated from interstellar velocity over a period of six weeks — a feat that implied an energy budget larger than Earth's annual output — and has been motionless since. It is, by any reasonable measure, the most significant discovery in human history.
+It is two point three kilometers along its longest axis. Its surface is the color of old iron, though spectrographic analysis has never matched it to any known alloy or composite. It orbits the gas giant Kepler-442c at a distance of 1.6 million kilometers — close enough to catch the planet's pale blue light along one flank, far enough to appear autonomous. It is not rotating. Forty years ago, the first Alcyone Object passed through the outer system in nine months, was tracked by a long-haul relay station, catalogued, studied at insufficient resolution, and never seen again. This one arrived fourteen months ago, decelerated from interstellar velocity over a period of six weeks — a feat that implied an energy budget larger than Earth's annual output — and has been motionless since. It is, by any reasonable measure, the most significant discovery in human history.
 
 The *Meridian* has come to service the sensor array that monitors it.
 
@@ -116,15 +116,15 @@ Remi projects the sensor data above the table's surface. The aperture is a circl
 
 "We also have a word for door," Liat fires back.
 
-Remi, who has said nothing, refills her tea from the pot at the center of the table. She is the only crew member who has not spoken, and she will not, Naveli knows, until she has something to say that is not an opinion but a fact. This is why Remi is a good navigator. Opinions drift. Facts hold course.
+Remi, who has said nothing, refills her tea from the pot at the center of the table.
 
-Osen looks at Naveli. He does this sometimes — seeks her out when the conversation fractures, not because she outranks anyone but because she has been doing this longer than anyone except him, and she does not say things she has not thought through. There is a trust between them that has nothing to do with hierarchy and everything to do with twenty years of adjacent competence, two people who understand that the hardest decisions on a ship are not the dramatic ones but the quiet calls made in empty corridors at three in the morning with no one watching.
+Osen looks at Naveli. He does this when the conversation fractures — not because she outranks anyone, but because she has been doing this longer than anyone except him, and she does not say things she has not thought through.
 
 "Naveli?"
 
 She is thinking about response lag. Eleven hours to mission control at Callisto. Eleven hours back. Twenty-two hours during which the aperture might close, might change, might never appear again. She is thinking about the fact that no military vessel, no science flagship, no diplomatic envoy will reach this orbit for three months minimum — the nearest research fleet is at Tau Ceti, five weeks out even under maximum burn. She is thinking about the first Alcyone Object, how it passed through the entire solar system and humanity did nothing but watch it go, and how that watching was described in every textbook she ever read as a failure of nerve and infrastructure.
 
-She is also thinking — and this thought she does not examine too closely — about the nine years she has spent moving from one repair job to the next without stopping, and the particular way the aperture sits in the Object's surface like a question asked to no one in particular.
+She is also thinking — and this thought she does not examine too closely — about the nine years she has spent moving from one repair job to the next without stopping.
 
 "I can pilot the approach," she says.
 
@@ -152,11 +152,11 @@ He says yes.
 
 ---
 
-The shuttle is called the *Gosling*, a name Liat chose during her first week aboard because she thought it was funny for a small craft deployed from a larger bird. Nobody laughed at the time. Everyone uses the name now. That is the way of things on the *Meridian*: the jokes that don't land become the traditions that endure.
+The shuttle is called the *Gosling*, a name Liat chose during her first week aboard because she thought it was funny for a small craft deployed from a larger bird. Nobody laughed at the time. Everyone uses the name now.
 
-Naveli runs the pre-flight checks the way she runs everything: methodically, without rushing, giving each system the attention it deserves. Atmosphere containment. Hull integrity. Thruster alignment. Sensor calibration. Emergency beacon — which will be useless inside the Object, since the walls attenuate all known transmission frequencies, but she checks it anyway, because that is what you do. You check the systems. You trust the procedure. You go.
+Naveli runs the pre-flight checks methodically, without rushing, giving each system the attention it deserves. Atmosphere containment. Hull integrity. Thruster alignment. Sensor calibration. Emergency beacon — which will be useless inside the Object, since the walls attenuate all known transmission frequencies, but she checks it anyway, because that is what you do. You check the systems. You trust the procedure. You go.
 
-Poul settles into the second seat with his sample kit on his lap like a child holding a lunchbox on the first day of school. He has packed for every contingency his training covers and several it does not, and the kit bulges accordingly. Liat takes the sensor station behind them and begins a continuous data stream back to the *Meridian*, her fingers quick and certain on the console. Whatever anxiety she felt at the galley table has been absorbed into procedure. Naveli understands this. Procedure is a kind of courage — the decision to act correctly when acting at all feels insane.
+Poul settles into the second seat with his sample kit on his lap like a child holding a lunchbox on the first day of school. He has packed for every contingency his training covers and several it does not, and the kit bulges accordingly. Liat takes the sensor station behind them and begins a continuous data stream back to the *Meridian*, her fingers quick and certain on the console. Whatever anxiety she felt at the galley table has been absorbed into procedure.
 
 "Gosling, you are cleared for departure." Osen's voice in the headset, steady as a metronome. "Maintain open comms as long as signal holds. Return protocol is your discretion, Naveli. If anything reads outside human-safe parameters, you come back."
 
@@ -180,19 +180,19 @@ This is the first thing Naveli's instruments confirm and the first thing her min
 
 They are inside a space roughly twice the size of the thing that contains it.
 
-The *Gosling*'s floodlights illuminate perhaps two hundred meters ahead. Beyond that, the interior is lit by its own sources — pale luminescence emanating from structures that rise from the curved floor like the ribs of a cathedral, if the cathedral were sixteen kilometers long and built by something that had never seen a cathedral and had no use for worship. The structures are ridged and branching, their surfaces textured with the same hexagonal patterning as the exterior hull, but here the cells are smaller — centimeters across — and they pulse with faint bioluminescence in sequences too regular to be random and too complex to be mechanical. The colors shift through ranges that Naveli's eye parses as blue-green and amber but which the spectrometer identifies as frequencies that do not correspond to any known bioluminescent chemistry.
+The *Gosling*'s floodlights illuminate perhaps two hundred meters ahead. Beyond that, the interior is lit by its own sources — pale luminescence from structures that rise from the curved floor like ribs, ridged and branching, their surfaces textured with the same hexagonal patterning as the exterior hull but smaller here, centimeters across, pulsing in sequences too regular to be random and too complex to be mechanical. The colors shift through ranges Naveli's eye parses as blue-green and amber. The spectrometer identifies frequencies that correspond to no known chemistry.
 
-"Convergent evolution," Poul whispers, reaching for the analogy the way a drowning man reaches for a rope. Then he stops. He closes his mouth, opens it, closes it again. "No," he says. "That's not what this is. Convergent evolution requires a shared selective pressure. This isn't..." He gestures at the ribbed structures rising around them, their branches interweaving overhead in patterns that suggest growth but not biology, design but not engineering. "I don't have a framework for this."
+"Convergent evolution," Poul whispers. Then he stops. He closes his mouth, opens it, closes it again. "No. That's not what this is. Convergent evolution requires a shared selective pressure. This isn't..." He gestures at the ribbed structures rising around them, their branches interweaving overhead in patterns that suggest growth but not biology, design but not engineering. "I don't have a framework for this."
 
 "What is it?" Liat asks.
 
-"I don't know." He says this with the honesty of a scientist confronting the edge of his discipline, and Naveli respects him for it. There are people who would have kept talking, kept analogizing, kept forcing the unfamiliar into familiar shapes. Poul sits with his not-knowing the way he sits with his lemon — holding it carefully, accepting its limits.
+"I don't know." He says this simply, and Naveli respects him for it. There are people who would have kept talking, kept forcing the unfamiliar into familiar shapes. Poul lets it be unfamiliar.
 
 The shuttle drifts forward. Naveli keeps the speed low — eight meters per second, the pace of a brisk walk. On either side, the ribbed structures rise and curve overhead, their branches interweaving at heights the lidar places at 1.2 kilometers above them. The atmosphere outside the shuttle hull is breathable, nineteen degrees, one standard atmosphere of pressure. Every instrument says the same thing: this environment is survivable. None of them say why. None of them say for whom.
 
-They pass through corridors — the word is wrong, but human language is all they have — where the structures on either side narrow and the bioluminescent patterning brightens, casting shifting geometric shadows across the shuttle's hull. In one stretch of roughly three hundred meters, the hexagonal cells on the walls pulse in unison, a single slow wave of light that travels from behind them to ahead of them and vanishes into the distance. In another section, the floor — if it can be called a floor — drops away beneath them, and the lidar reports a depth of nine hundred meters below the shuttle, a chasm whose walls are covered in the same luminescent cells but arranged in spiraling patterns that tighten as they descend, as if the geometry itself is being drawn down toward something.
+They pass through corridors — the word is wrong, but human language is all they have — where the structures narrow and the bioluminescent patterning brightens, casting geometric shadows across the shuttle's hull. In one stretch, the hexagonal cells pulse in unison, a single slow wave of light that travels from behind them and vanishes into the distance ahead. In another, the floor drops away. The lidar reports nine hundred meters of depth, the walls spiraling down in tightening patterns.
 
-Poul records everything. His sample kit remains closed. At one point he says, very softly, "The branching patterns on the structures — they follow a ratio close to 1.618. The golden ratio. But not exactly. The deviation is consistent." He does not say what this means. Perhaps it means nothing. Perhaps it means that whatever built this place was close enough to terrestrial mathematics to share a proportion, and different enough to alter it.
+Poul records everything. His sample kit remains closed. At one point he says, very softly, "The branching ratios — close to 1.618. But not exactly. The deviation is consistent." He does not say what this means.
 
 Liat's sensor station begins to change.
 
@@ -200,7 +200,7 @@ It starts small — a secondary display cycling through datasets Liat did not re
 
 "I'm not doing this," Liat says. Her voice is very flat. She is checking the same sensor calibration she checked thirty seconds ago. She will check it again in thirty seconds. "The system is receiving input from an external source. I don't know what the source is. I don't know what the data means. I've tried to isolate it — it's coming through the hull sensors. It's not a signal in any conventional sense. It's more like the shuttle's instruments are reading the Object's environment and translating it into our display format, but the translation doesn't correspond to anything in our reference libraries. I'm getting physical constants that don't match any known values."
 
-Naveli watches the concentric rings turn on Liat's screen. They are beautiful in the way that mathematics is sometimes beautiful — self-referential, elegant, closed. She does not understand them. She is a woman who has spent twenty-two years understanding systems, reading their faults and correcting their drifts, and she does not understand this system, and the not-understanding sits inside her chest like a stone she cannot put down.
+Naveli watches the concentric rings turn on Liat's screen. She does not understand them. Twenty-two years of reading systems, finding their faults, correcting their drifts — and this system is opaque to her.
 
 She sets the shuttle to hold position and unbuckles her restraints.
 
@@ -218,19 +218,19 @@ Liat's hands pause. "What?"
 
 "That sounds like her," Liat says, and then blinks, because she has never met the woman. "I mean — that sounds like a good thing."
 
-"She died nine years ago. Complications from a respiratory condition she'd had for years — the station air on Titan was never quite right, too dry, not enough particulate filtration in the older decks. I was three weeks out on a cargo run to the Kuiper depot. The message came through on a forty-minute delay. By the time I heard her voice — my sister's voice, I mean, telling me — my mother had been dead for almost an hour." Naveli keeps her voice level, the way she keeps her hands level inside machines. Steady, functional, directed toward a task. "The *Meridian* was between rotations. I could have rerouted to Titan. Taken leave. Gone to the memorial, seen the garden. My sister Preet was there. My cousins. Everyone." She pauses. The rings turn. The Object breathes around them in its slow bioluminescent pulse. "I logged in to the next deployment instead. There was a water recycler on a relay station near Neptune that needed servicing. I told myself it couldn't wait."
+"She died nine years ago. Complications from a respiratory condition she'd had for years — the station air on Titan was never quite right, too dry, not enough particulate filtration in the older decks. I was three weeks out on a cargo run to the Kuiper depot. The message came through on a forty-minute delay. By the time I heard her voice — my sister's voice, I mean, telling me — my mother had been dead for almost an hour." Naveli keeps her voice level. "The *Meridian* was between rotations. I could have rerouted to Titan. Taken leave. Gone to the memorial, seen the garden. My sister Preet was there. My cousins. Everyone." She pauses. The rings turn. The Object breathes around them in its slow bioluminescent pulse. "I logged in to the next deployment instead. There was a water recycler on a relay station near Neptune that needed servicing. I told myself it couldn't wait."
 
 Liat has stopped checking the calibration. Her hands rest on the console, motionless. "Could it?"
 
-"It was a water recycler. They're always important. There's always one that can't wait. That's the thing about maintenance — the work never runs out, and every job is genuinely necessary, and you can fill a whole life with genuinely necessary work and never once have to sit still." She looks at Liat — really looks at her, this young woman on her first deep-space rotation, her first encounter with something that refuses to be fixed or filed or understood. "I've serviced four hundred and twelve water recyclers since my mother died. I can tell you the model number and maintenance history of every one. I couldn't tell you what kind of frangipani she grew. I think it was the yellow kind. I'm not sure."
+"It was a water recycler. They're always important. There's always one that needs servicing." She looks at Liat. "I couldn't tell you what kind of frangipani my mother grew. I think it was the yellow kind. I'm not sure. I can tell you the maintenance history of every recycler I've touched since she died. Hundreds of them. I know their model numbers."
 
-The display between them continues its slow rotation. The Object's interior hums around them — not audibly, not mechanically, but in the pulse of the bioluminescent cells, the gradual shift of the pale light, the sense of a space that is attentive in a way that has nothing to do with biology or intent.
+The display between them continues its slow rotation. The bioluminescent cells pulse around them in their slow overlapping rhythms.
 
-"I don't know what any of this means," Liat says quietly. She means the display. She might also mean the rest of it.
+"I don't know what any of this means," Liat says quietly.
 
-"Neither do I." Naveli puts her hand on the console beside Liat's, close but not touching, present without imposing. "But I think maybe I've been fixing things instead of being in the rooms that matter. And I think maybe this is one of those rooms."
+"Neither do I." Naveli puts her hand on the console beside Liat's, not quite touching. "I don't know if this is important or if I'm just tired of always having somewhere else to be."
 
-Liat says nothing. After a moment, she stops reaching for the calibration controls. She folds her hands in her lap and watches the rings turn, and Naveli watches them with her, and the silence between them is not empty but held, the way a pause in conversation can hold more than the words around it.
+Liat says nothing. After a moment, she stops reaching for the calibration controls. She folds her hands in her lap and watches the rings turn, and Naveli watches them with her.
 
 ---
 
@@ -240,7 +240,7 @@ Naveli returns to the pilot's seat and guides them forward. The ribbed structure
 
 They enter the central chamber.
 
-The word "chamber" is inadequate, but it is the word the official reports will use, and so it is the word Naveli files in her mind alongside the lidar readings and the atmospheric data and all the other insufficient frameworks she carries into this space. It is a sphere, three point one kilometers in diameter, its inner surface covered in the same luminescent patterning as the corridors but brighter here, more varied — shifting through frequencies that Liat's instruments identify as ranging from deep infrared to near ultraviolet, most of it invisible to the human eye but sensed as a warmth on the skin, a faint pressure behind the temples, a harmonic that might be sound or might be the nervous system reaching for a category and finding none.
+It is a sphere, three point one kilometers in diameter. The inner surface carries the same luminescent patterning as the corridors but brighter here, shifting through frequencies from deep infrared to near ultraviolet. Most of it invisible to the eye. Naveli feels it as warmth on her skin, a faint pressure behind the temples.
 
 At the center of the sphere, there is a presence.
 
@@ -248,13 +248,13 @@ It is not a shape. The lidar finds no surface to reflect from. The thermal senso
 
 It is aware of them the way an ocean is aware of a wave.
 
-Naveli knows this. She cannot explain how. There is no communication, no signal, no message. The presence does not address them or acknowledge them in any way that could be called intentional. But there is a quality to the space — a listening quality, an attendance — that she has felt only once before, standing in the corridor outside her mother's room on Titan station years before the end, hearing through the closed door a woman singing to flowers in artificial soil, not knowing she was overheard and not caring if she was.
+Naveli knows this without knowing how. There is no communication, no signal, no message. But there is something attentive in the space — not directed at them, not interested in them, but aware like a room where someone is singing alone.
 
-She shuts down the shuttle's engines. The *Gosling* drifts, frictionless, in the center of the sphere, three people in a metal shell inside an impossible space inside an alien object orbiting a gas giant at the edge of settled space. The hierarchy of containers is absurd. Naveli lets it be absurd.
+She shuts down the shuttle's engines. The *Gosling* drifts, frictionless, in the center of the sphere.
 
 "Naveli," Poul says softly. "What do we do?"
 
-She thinks about this. She thinks about all the things she knows how to do — recalibrate, repair, flush, seal, replace, reroute, optimize, service, maintain. She thinks about the four hundred and twelve water recyclers, each one a small victory of function over entropy, each one a reason not to stop. She thinks about the deployment schedule she logged into instead of a shuttle home to Titan.
+She thinks about all the things she knows how to do — recalibrate, repair, flush, seal, replace. She thinks about the deployment schedule she logged into instead of a shuttle home to Titan. She thinks about the number-three water recycler on the *Meridian*, its calcium exchanger still waiting for citric acid.
 
 "Nothing," she says. "We do nothing."
 
@@ -262,28 +262,30 @@ They sit in the shuttle, in the center of the sphere, in the presence of somethi
 
 They stay for forty-one minutes.
 
-Naveli does not know why they stay for exactly that long. There is no signal to leave, as there was no signal to stay. But at some point the stillness completes itself — not a revelation, not an understanding, but something simpler and harder to name, the way a held breath eventually releases not because you decide to exhale but because the body knows when it has been still long enough.
+Naveli does not know why they stay for exactly that long. There is no signal to leave, as there was no signal to stay. At some point the stillness completes itself — not a revelation, not an understanding, but the way a held breath releases because the body decides before the mind does.
 
 "Okay," Naveli says. She starts the engines.
 
 ---
 
-The aperture is still open when they return. The *Gosling* passes through it into ordinary space — stars, the blue glow of Kepler-442c, the battered familiar hull of the *Meridian* seventeen kilometers distant — and Naveli feels the transition this time, not as a physical sensation but as a loss, the way stepping from a warm room into cold air is a loss, the way leaving a conversation that mattered is a loss you carry in your hands for hours afterward without knowing what to do with them.
+The aperture is still open when they return. The *Gosling* passes through it into ordinary space — stars, the blue glow of Kepler-442c, the battered familiar hull of the *Meridian* seventeen kilometers distant — and Naveli feels the transition this time, not as a physical sensation but as a loss she carries in her hands without knowing what to do with them.
 
 Behind them, the aperture closes. It does not shrink or contract. One moment it is there; the next, the Object's surface is continuous and unmarked, as if the circle had never existed. Liat confirms on sensors. No trace. No seam. No scar.
 
 They dock with the *Meridian*. The clamps engage with a familiar clunk that reverberates through the shuttle's frame, and Naveli sits for a moment with her hands on the controls, feeling the ship take the *Gosling*'s weight, feeling the vibration of the *Meridian*'s systems conducting through the hull into her palms. Recyclers humming. Atmosphere processors cycling. The ten thousand small mechanical processes that keep six people alive in the vacuum. She knows every one of them. She has always found comfort in that knowing.
 
-Osen meets them at the shuttle bay with a medkit and a face carefully arranged to not betray the last four hours of what must have been considerable anxiety. Dae runs full diagnostics on all three of them and finds nothing anomalous, then runs them again because she does not trust the first results, then runs them a third time because she is Dae and Dae does things in threes.
+Osen meets them at the shuttle bay with a medkit and a face carefully arranged to betray nothing. Dae runs full diagnostics on all three of them, finds nothing anomalous, and runs them twice more.
 
-Remi makes tea. Poul starts dinner. The *Meridian* settles back into its routines with the ease of a body returning to a familiar chair — the hum of the recyclers, the smell of garlic in the ventilation, the wobble in the galley table that Dae's boot corrects without thinking. Nobody asks Naveli what she saw inside the Object. She is not sure what she would say if they did. The official report will take days to write and will contain every reading, every measurement, every datum the *Gosling*'s instruments recorded. It will not contain the forty-one minutes. Not really. There is no instrument for what those minutes held.
+Remi makes tea. Poul starts dinner. The *Meridian* settles back into its routines with the ease of a body returning to a familiar chair — the hum of the recyclers, the smell of garlic in the ventilation, the wobble in the galley table that Dae's boot corrects without thinking. Nobody asks Naveli what she saw inside the Object. The official report will take days to write and will contain every reading, every measurement, every datum the *Gosling*'s instruments recorded. The forty-one minutes of silence at the center will appear in the report as a gap in the navigation log.
 
 That evening, after Poul's fish and rice and the single lemon deployed as garnish over Naveli's half-hearted objections, she sits at the communications terminal in the *Meridian*'s small forward office. The room is quiet. Through the viewport, the Object is visible as a dark shape against the gas giant's glow — unchanged, unrevealing, patient.
 
-She composes a message to Titan station. The words come slowly. She is not good at this kind of language — the personal, the unstructured, the kind that solves no mechanical problem and cannot be logged in a maintenance record. She writes a sentence, deletes it, writes another. She does not mention the Object. She does not describe the interior or the central chamber or the silence. These things will be in her official report, in language calibrated for mission control and stripped of everything that made them matter.
+She opens a message to Titan station. To Preet, specifically — her sister's contact, unchanged in nine years, still sitting in her address list between a parts supplier on Ganymede and a retired crew mate she never writes to either.
 
-The message she sends is four sentences long. The last one reads: *I'd like to see the garden.*
+The words come slowly. She types *How is the garden* and deletes it. She types *I've been thinking about* and deletes that too. She does not mention the Object. She does not describe the interior or the central chamber or the silence. Those things will be in her official report, in language calibrated for mission control.
 
-She sends it into the eleven-hour silence between here and anywhere else, and then she goes to bed, and the *Meridian* carries her through the dark the way it always has — steadily, without complaint, a warm and unglamorous vessel doing its work at the edge of where people live.
+She sits for a long time with the cursor blinking in an empty field. Then she types: *Is the frangipani still alive?*
+
+She stares at the four words. She does not send them. She does not delete them either. She saves the message as a draft and goes to bed, and the *Meridian* carries her through the dark the way it always has — steadily, without complaint, doing its work at the edge of where people live.
 
 The Alcyone Object remains in orbit around Kepler-442c for another nineteen days. On the twentieth, without warning or acceleration visible to any instrument in the monitoring array, it is gone. Remi's sensor logs, when submitted to the Callisto Institute and analyzed over the following years, will reveal a detail no one noticed during the encounter. The Object's energy emissions — the faint, almost subliminal electromagnetic output recorded across forty years and two separate objects — describe, when plotted in three dimensions against time, a curve. The curve is smooth, asymptotic, and corresponds to no known natural phenomenon. Three independent research teams will confirm its mathematical validity. None will determine what it represents. The curve is still incomplete. Its projected terminus, if the pattern holds, lies approximately two hundred years in the future, at coordinates that correspond to no star, no planet, no catalogued body — only empty space, and whatever waits there, patient as a garden, for the pattern to close.
