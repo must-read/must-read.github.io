@@ -1,0 +1,68 @@
+{
+  "workSlug": "ordinary-maintenance-at-the-edge-of-the-knowable",
+  "reviews": [
+    {
+      "personaId": "sf-007-rowan",
+      "rating": 5,
+      "text": "The forty-one minutes of silence at the center of the alien sphere is one of the bravest climaxes I've read in SF this year. Nothing happens, and everything happens. Naveli's grief -- nine years of fleeing into work, of choosing water recyclers over a shuttle home to Titan -- unfolds not as confession but as presence, sitting beside Liat while unknown patterns turn on a screen neither of them can read. The crew of the Meridian feels like a real found family, down to Dae wedging her boot under the wobbly table leg. This is a story about learning to stop fixing things long enough to feel them.",
+      "date": "2025-09-14",
+      "helpfulCount": 45
+    },
+    {
+      "personaId": "sf-009-lena",
+      "rating": 3,
+      "text": "Accomplished prose -- the opening recycler scene is efficient, the crew dynamics are sharply drawn, and the final-paragraph coda about the incomplete energy curve is the story's strongest structural move. But Naveli's emotional revelation inside the alien artifact functions a bit too neatly as a confessional space, the Object becoming a therapeutic chamber precisely when the narrative needs it to. The frangipani monologue is well-written in isolation; its placement feels engineered. I wanted the alien encounter to resist the protagonist's needs rather than accommodate them.",
+      "date": "2025-11-02",
+      "helpfulCount": 42
+    },
+    {
+      "personaId": "sf-005-jin",
+      "rating": 4,
+      "text": "What works here is the subversion: a first-contact story where the crew does nothing. The Gosling enters the Object, sits in the central chamber for forty-one minutes, and leaves. No communication, no revelation, no weapon or gift. The domestic-scale opening -- basil roots, lemon negotiations, the grease stain shaped like Lake Baikal -- is a deliberate tonal setup for the cosmic encounter, and the contrast mostly pays off. The concentric rings on Liat's display are a nice detail: data that builds without resolving.",
+      "date": "2025-12-29",
+      "helpfulCount": 38
+    },
+    {
+      "personaId": "sf-002-helen",
+      "rating": 5,
+      "text": "I kept coming back to the line about Naveli knowing the maintenance history of every recycler she's touched since her mother died but not what kind of frangipani her mother grew. That's the whole story in one sentence. The crew reminded me of the best ensemble casts in SF -- everyone doing three jobs and complaining about two, Poul with his lemon and his sample kit held like a lunchbox. When Naveli types \"Is the frangipani still alive?\" and saves it as a draft instead of sending -- I had to put my phone down for a minute.",
+      "date": "2026-01-17",
+      "helpfulCount": 31
+    },
+    {
+      "personaId": "sf-001-tunde",
+      "rating": 4,
+      "text": "The Meridian is a convincing lived-in vessel -- the garlic-and-machine-oil smell, the wobbly table leg, Poul's dual role as exobiologist and cook. The worldbuilding earns its details rather than dumping them. The transition from basil banter to the Alcyone Object feels natural, which is harder than it looks. I wanted more from the alien interior -- the branching ratios near 1.618 and the non-standard physical constants are tantalizing but underdeveloped. The story deliberately refuses to explore them, which is either admirable restraint or a missed opportunity.",
+      "date": "2025-10-08",
+      "helpfulCount": 27
+    },
+    {
+      "personaId": "sf-003-dmitri",
+      "rating": 3,
+      "text": "The non-Euclidean interior geometry is interesting -- 4.7 km interior within a 2.3 km exterior -- but the story never engages with the physics. \"The geometry is wrong\" is not analysis, it is description. The deceleration energy budget is mentioned but not explored. The breathable nitrogen-oxygen atmosphere is suspiciously convenient. Some good hard-SF instincts here (the spectrographic data, the incomplete energy curve), but the story ultimately abandons its scientific premises for an emotional payoff. Competent, not rigorous.",
+      "date": "2026-02-03",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "sf-010-kwesi",
+      "rating": 2,
+      "text": "The non-Euclidean dimensions are hand-waved. The atmosphere being human-breathable is never interrogated. The forty-one minutes of \"doing nothing\" reads as the author not knowing what happens next. The lemon is genuinely funny, though, and the final paragraph about the energy curve almost saved it -- that's the story I wanted to read instead of the grief processing.",
+      "date": "2025-08-22",
+      "helpfulCount": 18
+    },
+    {
+      "personaId": "sf-006-claire",
+      "rating": 3,
+      "text": "The crew banter in the first half is great -- the basil argument, the lemon standoff, Dae's boot propping up the table. These people feel real in a way SF crews often don't. But once they enter the Object, the pacing loosens. The central chamber sequence is all mood and no event. The unsent message to Preet at the end is a quiet beat that lands, though I wished the story had trusted it enough to end there instead of tacking on the epilogue about the energy curve.",
+      "date": "2026-01-05",
+      "helpfulCount": 12
+    },
+    {
+      "personaId": "sf-008-derek",
+      "rating": 3,
+      "text": "Solid crew setup, good alien encounter, but the ending doesn't deliver. They go in, sit there, come out, and Naveli almost sends a message to her sister. That's it? The energy curve epilogue hints at something bigger that never arrives. Wanted more payoff for 4,700 words of buildup.",
+      "date": "2025-11-19",
+      "helpfulCount": 6
+    }
+  ]
+}

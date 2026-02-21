@@ -15,8 +15,8 @@ tags:
   - "sense-of-wonder"
   - "first-contact"
   - "grief"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: "Chambers' empathetic found-family warmth aboard a battered supply ship meets Clarke's precise rendering of the truly alien, as a maintenance technician who has spent nine years avoiding grief enters an artifact that defies every system she knows."
