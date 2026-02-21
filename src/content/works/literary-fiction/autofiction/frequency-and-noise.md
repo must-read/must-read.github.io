@@ -20,8 +20,8 @@ tags:
   - artistic-failure
   - systems-thinking
   - mentor-student
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 10
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >

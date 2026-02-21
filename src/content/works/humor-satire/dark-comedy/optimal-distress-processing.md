@@ -17,8 +17,8 @@ tags:
   - utilitarianism
   - corporate-dystopia
   - moral-philosophy
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 11
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
