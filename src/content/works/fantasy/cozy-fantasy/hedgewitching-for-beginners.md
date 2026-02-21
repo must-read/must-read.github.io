@@ -7,7 +7,7 @@ authorA: "Terry Pratchett"
 authorB: "Robin Hobb"
 workX: "The Wee Free Men"
 workY: "Assassin's Apprentice"
-wordCount: 3675
+wordCount: 3645
 readingTimeMinutes: 15
 tags:
   - cozy-fantasy
@@ -15,8 +15,8 @@ tags:
   - animal-bond
   - village-life
   - quiet-magic
-rating: 3.8
-ratingCount: 8
+rating: 0
+ratingCount: 0
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
@@ -51,7 +51,7 @@ combination:
 
 The jackdaw had been stealing ward-bottles all summer.
 
-Bramble Hopworth was halfway up the ladder, one hand braced against the cottage eave and the other extended toward the bird in what she hoped was a gesture of reasonable authority, when the jackdaw tilted its head and regarded her with the contempt that only a creature with no concept of property can muster for someone who has too much of it.
+Bramble Hopworth was halfway up the ladder, one hand braced against the cottage eave and the other extended toward the bird in what she hoped was a gesture of reasonable authority, when the jackdaw tilted its head and regarded her with the particular contempt that only a creature with no concept of property can muster for someone who has too much of it.
 
 "That," Bramble said, "is not a toy. That is a Number Seven Equinox Seal infused with three months of collected moonlight, and if you crack it on a rock like you did the last one, I will be having words with you that neither of us will enjoy."
 
@@ -61,37 +61,37 @@ Bramble had been a hedgewitch for thirty-one years. She had learned, in that tim
 
 She was composing a further remark — something about the declining quality of avian moral fiber in the valley — when the Listening went wrong.
 
-It wasn't dramatic. It never was. The Listening was not the sort of magic that announced itself with thunderclaps and columns of light; it was more like the difference between a house where someone is home and a house where no one is. Bramble had carried it since she was twenty-seven, inherited from her aunt Sedge along with the cottage, the bee skeps, and a comprehensive set of opinions about compost.
+It wasn't dramatic. It never was. The Listening was not the sort of magic that announced itself with thunderclaps and columns of light; it was more like the difference between a house where someone is home and a house where no one is. A quality of presence in the soil and the water and the slow green breath of growing things. Bramble had carried it since she was twenty-seven, inherited from her aunt Sedge along with the cottage, the bee skeps, and a comprehensive set of opinions about compost.
 
 What she felt now was an absence. A cold spot in the warmth, like pressing your thumb into a bruised apple and feeling the softness beneath the skin.
 
 It was coming from the commons beech.
 
-She climbed down the ladder. The jackdaw, recognizing a strategic opportunity, departed with its prize. Bramble didn't watch it go. She wiped her hands on her apron — an apron that had started the morning with three poultice stains and a smear of beeswax and had since acquired a fourth — and started walking.
+She climbed down the ladder. The jackdaw, recognizing a strategic opportunity, departed with its prize. Bramble didn't watch it go. She wiped her hands on her apron — an apron that had started the morning with three poultice stains and a smear of beeswax and had since acquired a fourth poultice stain, because aprons, like hedgewitches, accumulated evidence of their work whether they intended to or not — and started walking.
 
-The walk from her cottage to the commons was not far. Past the hen coop, where the Orpingtons were arguing about whatever it is that Orpingtons argue about. Past the herb garden, where the rosemary was putting on its autumn growth and the sage had developed ambitions above its station. Past the stone wall that her aunt Sedge had built forty years ago and that Bramble maintained every spring, not because it needed maintaining but because walls, like most things, did better when someone paid attention to them.
+The walk from her cottage to the commons was not far. Past the hen coop, where the Orpingtons were arguing about something only Orpingtons understood. Past the herb garden, where the rosemary was putting on its autumn growth and the sage had developed ambitions above its station. Past the stone wall that her aunt Sedge had built forty years ago and that Bramble maintained every spring, not because it needed maintaining but because walls, like most things, did better when someone paid attention to them.
 
-She walked the way hedgewitches walk when something is wrong: not fast, but not about to stop.
+The walking had the quality of someone who was not hurrying but was not going to stop either.
 
 ---
 
 The commons beech was four hundred years old, give or take a century. Nobody knew exactly, because the sort of person who might have counted its rings would have had to cut it down first, and the sort of person who would cut down the commons beech was the sort of person who would not be welcome in Underfold for very long afterward. It stood at the center of the village green, broad as a barn, its canopy throwing shade across half the commons in summer and dropping enough beech-mast in autumn to feed every pig in the valley.
 
-What it also did — and this was the part that only Bramble and a few others knew about — was anchor the weather ward. The beech was old enough and rooted deep enough that it served as a living wardstone, smoothing the worst of the winter storms, coaxing the spring rains into politeness, keeping the frosts from coming early or staying late. Underfold's reputation as a gentle valley, a place where the fruit always set and the hay always dried, was not an accident of geography. It was the tree.
+What it also did — and this was the part that only Bramble and a few others knew about — was anchor the weather ward. The beech was old enough and rooted deep enough that it served as a kind of living wardstone, smoothing the worst of the winter storms, coaxing the spring rains into something polite, keeping the frosts from coming early or staying late. Underfold's reputation as a gentle valley, a place where the fruit always set and the hay always dried, was not an accident of geography. It was the tree.
 
 And the tree had a Warden.
 
-Bramble knelt at the base of the trunk and pressed both palms flat against the bark. It was like pressing her hands against the chest of something that was breathing wrong — shallow, labored, a rattle in the deep wood that she felt in her own ribs. The heartwood was rotting. Not the ordinary rot that came from fungus and damp and the slow patient business of decay. This was something else. It had teeth.
+Bramble knelt at the base of the trunk and pressed both palms flat against the bark. It was like pressing her hands against the chest of something that was breathing wrong — shallow, labored, a rattle in the deep wood that she felt in her own ribs. The heartwood was rotting. Not the ordinary sort of rot, the kind that came from fungus and damp and the slow patient business of decay. This was something else. It had teeth.
 
 The blight was eating the bond itself: the connection between the tree and its Warden, the magical symbiosis that had kept both of them alive and the valley mild for four decades. It tasted, through the Listening, like iron and old ash.
 
-She tasted the soil at the base of the trunk, pressing a pinch against her tongue. Sour. Not the honest sourness of acid ground — every hedgewitch worth the name knew their soil by flavor — but a flat, metallic sourness, like licking a nail.
+She tasted the soil at the base of the trunk, pressing a pinch of it against her tongue. Sour. Not the honest sourness of acid ground — she knew what that tasted like; every hedgewitch worth the name knew their soil by flavor — but a flat, metallic sourness, like licking a nail. The land itself was flinching.
 
-She walked around the trunk to the south side, where the roots humped up out of the earth and formed a natural doorway. Grisle's set. She'd have to go down.
+She walked around the trunk to the south side, where the roots humped up out of the earth and formed a kind of natural doorway. Grisle's set. She'd have to go down.
 
-Bramble was fifty-eight years old and her knees had opinions about crawling into badger burrows, but her knees had opinions about most things and she had long since stopped consulting them. She got down on all fours and went in.
+Bramble was fifty-eight years old and her knees had opinions about crawling into badger burrows, but her knees had opinions about most things and she had spent thirty-one years overruling them. She got down on all fours and went in.
 
-The passage was narrow, earth-walled, thick with the smell of a creature who had lived in one place for a very long time. Root-tendrils brushed her hair. The blight was stronger here, a sick throbbing that transmitted through her palms into the bones of her wrists, her forearms, her shoulders. It settled in her joints the way her own arthritis did in wet weather — a deep grinding wrongness with no single source and no clean edge.
+The passage was narrow, earth-walled, thick with the smell of a creature who had been living in the same place for a very long time. Root-tendrils brushed her hair. She could feel the blight more strongly here, a sick throbbing in the soil that transmitted through her palms and into the bones of her wrists, her forearms, her shoulders. It settled in her joints the way her own arthritis did in wet weather — a deep, grinding wrongness that had no single source and no clean edge.
 
 Grisle was curled in the main chamber, a hollow about the size of a hearthstone, lined with dry leaves and tufts of his own shed fur. He had been a magnificent badger once. Bramble remembered him at his prime: dense, powerful, with a stripe so white it seemed to glow in moonlight and a temperament so foul that the village dogs crossed the street to avoid his territory. He had bitten Bramble twice in their first year of acquaintance. She had respected him for it.
 
@@ -99,17 +99,19 @@ Now he was diminished. His fur was patchy, dull where it had been sleek. His bre
 
 "Hello, old man," she said.
 
-He closed his eye. A tremor ran through his flank. Through the Listening, she felt what he felt: exhaustion so deep it had become landscape — a grey country where everything was far away and took too much effort to reach.
+He closed his eye. A tremor ran through his flank. Through the Listening, she felt what he felt: exhaustion so deep it had become a kind of landscape, a grey country where everything was far away and took too much effort to reach.
 
-She sat with him for a long time, her hand resting on his side, feeling his breathing sync with the tree's slow failing pulse. They had never needed to speak. She was not sure, sitting there, whether that was the bond's doing or simply what happened when you knew someone long enough — when all the important arguments had been had and all the important silences had been kept.
+She sat with him for a long time, her hand resting on his side, feeling his breathing sync with the tree's slow failing pulse. They did not speak. They had never needed to. That was the nature of a bond — the truest things passed without words, and what couldn't be said in silence probably wasn't worth saying.
 
 When she finally crawled out, the afternoon light had gone amber and the shadows under the beech had lengthened. She stood, brushed the earth from her knees, and began the inventory that all hedgewitches conduct in times of crisis: What do I have? What do I know? What can I do?
 
+She had poultices. She had draughts. She had a ward-circle and thirty-one years of practice drawing them. She had a very thorough understanding of beech trees in general and this beech in particular. She had the Listening, which was not precisely a power but more like a very good ear pressed to a very thin wall.
+
 She set to work.
 
-Over the next week, she tried everything. Comfrey and spiderweb poultices packed into the rotting patches. Strengthening draughts of oak bark and elderflower poured into the root channels. A ward-circle of river stones around the trunk, each one charged with a season's worth of stored sunlight. Every evening she sat with Grisle and tried to feed the bond from her own Listening, which was like trying to inflate a bellows by breathing into it — technically possible but not, she had to admit, sustainable.
+Over the next week, she tried everything. She packed the rotting patches with poultices of comfrey and spiderweb. She brewed strengthening draughts from oak bark and elderflower and poured them into the root channels. She laid a ward-circle of river stones around the trunk, each one charged with a season's worth of stored sunlight. She sat with Grisle every evening and tried to feed the bond from her own Listening, which was like trying to inflate a bellows by breathing into it — technically possible but not, she had to admit, a sustainable approach.
 
-Nothing worked. Or rather, everything worked a little, for a day or two, before the blight ate through whatever she'd done and the cold spot spread another inch.
+Nothing worked. Or rather, everything worked a little, for a day or two, before the blight ate through whatever she'd done and the cold spot in the Listening spread another inch.
 
 ---
 
@@ -125,7 +127,7 @@ This, in Underfold, was the equivalent of a declaration of war. Runner beans wer
 
 They all looked at Bramble.
 
-This was the part of hedgewitching that no one told you about. You spent decades quietly keeping things running, and you did it so well that everyone forgot it required keeping. And then something went wrong and they looked at you as if you'd personally invented the concept of blight.
+This was the part of hedgewitching that no one told you about. You spent years — decades — quietly keeping things running, and you did it so well that everyone forgot it required keeping. The wards, the blessings, the seasonal adjustments, the careful negotiation between the land's needs and the village's wants — all of it invisible, all of it thankless, all of it absolutely necessary. And then something went wrong and they looked at you as if you'd personally invented the concept of blight.
 
 "The commons beech is sick," Bramble said. "The weather ward is failing. I'm working on it."
 
@@ -147,11 +149,11 @@ Parliament ate the corner of a tax record.
 
 "I *know*, Juniper."
 
-There was a silence. Bramble looked at the five faces looking at her. She had kept this village comfortable for longer than some of them had been alive. She had refreshed the wards every equinox, talked the bees through three bad winters, coaxed the creek back into its bed after the flood of '09, and once — though no one remembered this — spent four days without sleep holding a containment circle around a patch of wild magic that had bubbled up in Fen Ridley's turnip field and would have given every root vegetable in the valley legs if she hadn't.
+There was a silence. Bramble looked at the five faces looking at her and felt the weight of thirty-one years of invisible labor settle on her shoulders like a wet cloak. She had kept this village comfortable for longer than some of them had been alive. She had refreshed the wards every equinox, talked the bees through three bad winters, coaxed the creek back into its bed after the flood of '09, and once — though no one remembered this — spent four days without sleep holding a containment circle around a patch of wild magic that had bubbled up in Fen Ridley's turnip field and would have turned every root vegetable in the valley into something with legs if she hadn't.
 
 They didn't know. Of course they didn't know. That was the job. You held things together, and if you did it well enough, no one noticed the holding.
 
-"I'll fix it," she said, because that was what she always said. The alternative — "I don't know how" — was not a sentence that hedgewitches were issued.
+"I'll fix it," she said, because that was what she always said, and because the alternative — saying "I don't know how" — was a sentence that had no place in a hedgewitch's vocabulary. Hedgewitches knew how. That was the entire point.
 
 Parliament headbutted the bench leg on her way out. She chose to interpret this as solidarity.
 
@@ -159,9 +161,9 @@ Parliament headbutted the bench leg on her way out. She chose to interpret this 
 
 The walk to Hazel Blackthorn's cottage took the better part of a morning, over the ridge and through two valleys where the weather was already rougher than Underfold's — not because of any blight, but because those valleys had no beech and no Warden, and their winters came honestly. Bramble felt the difference in her Listening like stepping from a warm room into a cold one: the land here was harder, more itself, unapologetic about its frosts.
 
-It was a useful reminder. Underfold's gentleness was not the natural state of things.
+It was a useful reminder that Underfold's gentleness was not the natural state of things. It was a gift. And gifts, unlike entitlements, could be withdrawn.
 
-Hazel Blackthorn lived in a cottage so overgrown with climbing roses that it looked like an argument between architecture and botany that botany was winning. She was a hundred and twelve years old and had largely retired from active witching in favor of her rock garden, which she maintained with a ferocity that suggested the rocks would not dare to be anywhere other than exactly where she put them.
+Hazel Blackthorn lived three valleys over, in a cottage so overgrown with climbing roses that it looked like an argument between architecture and botany that botany was winning. She was a hundred and twelve years old and had largely retired from active witching in favor of her rock garden, which she maintained with a ferocity that suggested the rocks would not dare to be anywhere other than exactly where she put them.
 
 "It's the bond," Bramble said, sitting on a stone bench while Hazel repotted a succulent with hands that were mostly knuckle but still precise. "The blight is eating the bond between the tree and its Warden. I've tried poultices, strengthening draughts, a ward-circle around the roots. Nothing works."
 
@@ -169,7 +171,7 @@ Hazel Blackthorn lived in a cottage so overgrown with climbing roses that it loo
 
 "I know that. I'm not stupid."
 
-"No. Stubborn, which is different and occasionally worse." Hazel set down the succulent. "The beech is four hundred years old."
+"No. Stubborn, which is different and occasionally worse." Hazel set down the succulent and looked at Bramble with eyes that were the color of old tea and twice as sharp. "The beech is four hundred years old."
 
 "Approximately."
 
@@ -179,7 +181,7 @@ Hazel Blackthorn lived in a cottage so overgrown with climbing roses that it loo
 
 "There won't be a forty-one, Bramble."
 
-Bramble said nothing. Wind moved through the roses.
+The words sat between them like a stone in a stream, and the silence went around them.
 
 "The tree can be saved," Bramble said. "If I can find the source of the blight, if I can clear it out—"
 
@@ -187,13 +189,13 @@ Bramble said nothing. Wind moved through the roses.
 
 Bramble opened her mouth and found she had nothing to put in it.
 
-"You can't cure what's finishing," Hazel said, returning to her succulent. "You can only help what's beginning."
+"You can't cure what's finishing," Hazel said, returning to her succulent with the air of someone who has delivered a truth and considers the delivery sufficient. "You can only help what's beginning."
 
 "That's not—"
 
-"You've been the mortar so long you've forgotten you're also a brick." Hazel pressed soil around the succulent's roots with her thumbs, firmly, without gentleness but with absolute care.
+"You've been the mortar so long you've forgotten you're also a brick." Hazel pressed soil around the succulent's roots with her thumbs, firmly, without gentleness but with absolute care. "When was the last time you asked yourself what you wanted, instead of what needed doing?"
 
-Bramble didn't answer. She wanted the tree to live, the ward to hold, Grisle to breathe without that terrible rattle. She wanted the runner beans back. She was not, at that particular moment, interested in philosophy.
+Bramble didn't answer, because the question was absurd. What she wanted and what needed doing had been the same thing for thirty-one years. She wanted the tree to live, the ward to hold, the village to stay gentle and green and comfortable. She wanted Grisle to breathe without that terrible rattle. She wanted the runner beans back.
 
 "There's a sapling," Hazel said. "Growing in the old roots. I can feel it from here, if I bother to listen, which I mostly don't because retirement is supposed to mean something. And there's a young badger."
 
@@ -203,7 +205,7 @@ Bramble didn't answer. She wanted the tree to live, the ward to hold, Grisle to 
 
 "So what?"
 
-Hazel looked at her. The look contained no pity and no softness and more patience than Bramble deserved, which was worse than either.
+Hazel looked at her. The look contained no pity and no softness and a great deal of patience, which was worse than either.
 
 "You know what the Passing is," Hazel said.
 
@@ -215,15 +217,17 @@ Hazel looked at her. The look contained no pity and no softness and more patienc
 
 She went home. She sat with her badger.
 
-She was not ready. She didn't think Hazel was right — or she did, somewhere underneath the part of her that was still arguing, but the arguing part was louder and more practiced and had been winning for thirty-one years.
+She had been doing this all wrong, and she had known it, and knowing it had not stopped her, because stopping meant accepting that the thing she had built her life around holding together was coming apart, and she did not know who she was on the other side of that.
 
-Grisle was awake when she crawled into his set that evening, his dark eyes open and clear in a way they hadn't been for weeks. The Listening between them was wide open, and what came through was not words — badgers do not traffic in words; they have better things to do — but something more fundamental. Memory, carried in sensation.
+Grisle was awake when she crawled into his set that evening, his dark eyes open and clear in a way they hadn't been for weeks. The Listening between them was wide open, and what came through it was not words — badgers do not traffic in words; they have better things to do — but something more fundamental. Memory, carried in sensation.
 
-The taste of earthworms after summer rain, rich and loamy and alive. The sound of children's feet on the beech's lowest branch, and the vibration traveling down through the trunk into the roots where he lay. Autumn light falling through the canopy in coins of gold, and the warmth of the bark against his back in his younger years, when leaning was still easy. A winter when three cubs died and the set smelled of grief for months and the tree held him in its roots and said nothing, because trees have no comfort to offer, only presence. The slow green patience of sapwood growing: imperceptible, unstoppable, a movement measured in decades.
+The taste of earthworms after summer rain, rich and loamy and alive. The sound of children's feet on the beech's lowest branch, and the vibration traveling down through the trunk into the roots where he lay, a kind of music made of weight and laughter. Autumn light falling through the canopy in coins of gold, and the warmth of the bark against his back as he leaned against the trunk in his younger years, when leaning was still easy. The slow green patience of sapwood growing: imperceptible, unstoppable, a movement measured in decades.
 
-Forty years. He had never been thanked. He had never expected thanks. That was not what wardenship was.
+Forty years. Forty years of tending, of watching, of being the steady heartbeat beneath the village's oblivious daily life. He had never been thanked. He had never expected thanks. That wasn't what wardenship was. Wardenship was a conversation between two living things that had agreed, somewhere below the level of language, to hold each other up.
 
-And underneath all of it, clear as water: readiness. A tiredness that had earned its rest, and a willingness to set the work down. Not faith that what came after would be enough — he was a badger, not a philosopher — but the simpler thing beneath faith, which is being too tired to hold on and finding that the letting go is not the disaster you expected.
+And underneath all of it, clear as water: readiness.
+
+Not despair. Not defeat. A tiredness that had earned its rest, and a willingness — open, calm, enormous — to set the work down. To trust that what came after would be enough, even if he couldn't see it, even if it would be different, even if it would stumble and struggle and take years to grow into what the old bond had been.
 
 Bramble pressed her face against his fur and breathed him in — earth, leaf mold, the faint sharp musk of a wild creature, the warm animal smell that she had known for thirty years and would not know again.
 
@@ -233,32 +237,32 @@ Bramble pressed her face against his fur and breathed him in — earth, leaf mol
 
 The Passing was not a complicated ritual. Aunt Sedge had described it in three sentences, which was three more than Aunt Sedge usually spent on anything that wasn't sheep or weather. You sat with the old bond. You opened the Listening as wide as it would go. And you let go.
 
-The letting go was the hard part. Not because it required power or skill but because it required her to stop. To stop holding. To stop maintaining. To stop being the mortar — she was still annoyed at Hazel for that one, which was probably the point.
+The letting go was the hard part. Not because it required power or skill or any of the things that Bramble had spent thirty-one years accumulating, but because it required her to stop. To stop holding. To stop maintaining. To stop being the mortar and remember that she was also a brick, whatever that meant — she was still annoyed at Hazel for that one, which was probably the point.
 
-She sat with Grisle through the night. The old beech creaked above them, its branches moving in a wind that smelled of coming weather — real weather, unmediated, the kind that Underfold hadn't felt in decades. Through the Listening she could feel the tree's long, slow exhale, the bond between trunk and Warden thinning like smoke, and it hurt. It hurt in her joints and her chest and the backs of her eyes. Part of it was grief. Part of it she refused to name, because if it was relief she would not forgive herself for it.
+She sat with Grisle through the night. The old beech creaked above them, its branches moving in a wind that smelled of coming weather — real weather, unmediated, the kind that Underfold hadn't felt in decades. Through the Listening she could feel the tree's long, slow exhale, the bond between trunk and Warden thinning like smoke, and it hurt. It hurt in her joints and her chest and the backs of her eyes, a grief that was also a kind of relief, which was the worst part, because grief you could argue with but relief just sat there and was true.
 
-She kept her hand on Grisle's side. His breathing slowed. The rattle faded, not because he was getting better but because he was getting past the need for better. She felt his awareness narrow: the warmth of her hand, the smell of the earth, the deep old root-hold of the tree he had served.
+She kept her hand on Grisle's side. His breathing slowed. The rattle faded, not because he was getting better but because he was getting past the need for better. She felt his awareness narrow to the essential: the warmth of her hand, the smell of the earth, the deep old root-hold of the tree he had served. Simple things. The simplest things.
 
-Somewhere past midnight, she felt it: a new warmth in the Listening, faint and directionless. The sapling in the old roots, no taller than her forearm, its green thread of life reaching blindly downward. And above, padding soft-footed across the moonlit commons, a young badger — Grisle's last cub, bright-eyed, not yet heavy with the years that would come. The cub stopped at the edge of the beech's canopy and lifted her nose to the air.
+Somewhere past midnight, she felt it: a new warmth in the Listening, faint as a candle flame in a drafty room. The sapling in the old roots, no taller than her forearm, its green thread of life reaching blindly downward. And above, padding soft-footed across the moonlit commons, a young badger — Grisle's last cub, bright-eyed, not yet heavy with the years that would come. The cub stopped at the edge of the beech's canopy and lifted her nose to the air, and Bramble felt, through the Listening, the first tentative brush of recognition between two living things that had not yet agreed to anything but were considering it.
 
-Bramble did not know if it would take. She did not know if the sapling was strong enough or the cub was the right cub or if wanting something to work had ever once been sufficient to make it work. She knew that the weather ward would fail. That Underfold would have hard winters and late frosts and bread that sometimes didn't rise. That she would have to explain to the village council that comfort was not a permanent condition, and Parliament would eat something important, and none of it would be easy.
+It was not a triumphant blaze. It was a match struck in the dark. It might go out. It probably would, a few times, before it caught properly. The new bond would be fragile and untested and the weather ward would fail and Underfold would have hard winters and late frosts and bread that sometimes didn't rise, and Bramble would have to explain to the village council that comfort was not a permanent condition but a gift that had to be regrown, and Parliament would eat something important, and none of it would be easy.
 
-Grisle's breathing stopped sometime before dawn. It didn't stop all at once. It slowed, and thinned, and became indistinguishable from the sound of the wind in the branches, and by the time Bramble realized it had ended, it had been over for a while. She sat with him in the silence and felt the last of the old bond dissolve — not snapping, not breaking, but releasing, the way a leaf releases from a branch when the season turns.
+Grisle's breathing stopped sometime before dawn. It didn't stop all at once. It slowed, and thinned, and became indistinguishable from the sound of the wind in the branches, and by the time Bramble realized it had ended, it had been over for a while. She sat with him in the silence and felt the last of the old bond dissolve — not snapping, not breaking, but releasing, the way a leaf releases from a branch when the season turns. A thing completed.
 
-She crawled out of the set into grey morning light. The commons was wet with dew. The old beech stood as it had always stood, massive and patient, but she could see now the bare patches in the canopy, the branch-ends that had stopped reaching. It would stand for years yet. Beeches were stubborn that way.
+She crawled out of the set into grey morning light. The commons was wet with dew. The old beech stood as it had always stood, massive and patient, but she could see now — or perhaps she was just willing to see — the bare patches in the canopy, the branch-ends that had stopped reaching. It would stand for years yet, even dying. Beeches were stubborn that way. But it would not stand forever, and the sapling growing between its roots would need light to grow, and someday the old trunk would come down in a storm and the village would gather and say wasn't it a shame and wasn't it always so big, and they would not know what they had lost because they had never known what they had.
 
 The young badger was sitting on the commons, watching her.
 
-She was smaller than Grisle had been, with a stripe that was more cream than white and ears that seemed slightly too large for her head. She watched Bramble with an expression that was either recognition or simple curiosity about why a middle-aged woman was crawling out of a hole in the ground at dawn, which, to be fair, was a reasonable thing to be curious about.
+She was smaller than Grisle had been, with a stripe that was more cream than white and ears that seemed slightly too large for her head. She watched Bramble with an expression that was either profound recognition or simple curiosity about why a middle-aged woman was crawling out of a hole in the ground at dawn, which, to be fair, was a reasonable thing to be curious about.
 
-Bramble sat down on the wet grass. Her knees protested. Her back protested. She was too tired to argue with either of them.
+Bramble sat down on the wet grass. Her knees protested. Her back protested. Her heart protested loudest of all, but it was the kind of protest that comes after a long effort, when the muscles ache not because they are injured but because they have been used fully and can finally stop bracing.
 
-The young badger walked over, sniffed her hand, and settled against her knee. She was warm. Her fur was coarse and dense and smelled of nothing but herself.
+The young badger walked over, sniffed her hand, and settled against her knee. She was warm. Her fur was coarse and dense and smelled of nothing but herself — no history, no accumulated decades, no weight of service. Just a young animal, sitting with a tired woman, in the first light of a morning that did not know what it would become.
 
-Through the Listening, faint as a heartbeat heard through a wall, the new bond pulsed. Once. Twice. Then nothing for a long time, and then once more.
+Through the Listening, faint as a heartbeat heard through a wall, the new bond pulsed. Once. Twice.
 
-Bramble closed her eyes. She had a ward to rebuild, a village to disappoint, a sapling to tend, and a badger who did not know her yet. Behind her, in the set, the old familiar weight of Grisle's absence. Ahead of her, a great deal of work that she did not know how to do.
+Bramble had been a hedgewitch for thirty-one years, and she had thought she knew what that meant. She was beginning to suspect she'd only ever known the easy part.
 
-The badger yawned against her knee, enormous and unconcerned.
+The badger opened one eye, looked at her, and yawned.
 
-Bramble got up. Her knees had more to say about it, but she had never been a good listener — not in the ordinary sense, anyway.
+It seemed, Bramble thought, as good a place as any to start.
