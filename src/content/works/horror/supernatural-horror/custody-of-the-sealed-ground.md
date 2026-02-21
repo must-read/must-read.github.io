@@ -10,8 +10,8 @@ workY: "A Warning to the Curious"
 wordCount: 3154
 readingTimeMinutes: 13
 tags: ["small-town horror", "antiquarian dread", "guardians", "Maine gothic", "atmospheric horror"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: "King's blue-collar domestic texture and town-as-organism decay fused with James's antiquarian restraint and peripheral horror, structured around Salem's Lot's house-by-house corruption and A Warning to the Curious's sacred covenant and deathless guardian."
