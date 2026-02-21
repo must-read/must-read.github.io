@@ -7,16 +7,16 @@ authorA: "Agatha Christie"
 authorB: "Tana French"
 workX: "Murder on the Orient Express"
 workY: "In the Woods"
-wordCount: 4127
-readingTimeMinutes: 17
+wordCount: 4413
+readingTimeMinutes: 18
 tags:
   - cozy-mystery
   - locked-room
   - snowbound
   - unreliable-memory
   - antiquarian-books
-rating: 3.6
-ratingCount: 9
+rating: 0
+ratingCount: 0
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
@@ -148,7 +148,7 @@ But Bea Caldwell, who had appeared behind him in the hallway, made a small sound
 
 ---
 
-Mrs. Dillard made tea. Of course she did. The kitchen was warm and the rest of the house was not, and we gathered there by instinct — all of us except Sylvie, who remained in her wingback chair.
+Mrs. Dillard made tea. Of course she did. The kitchen was warm and the rest of the house was not, and we gathered there by instinct — all of us except Sylvie, who remained in her wingback chair, attended only by the dying fire and a forty-five-year-old secret.
 
 "I need to ask you all some questions," I said, and even as I said it I heard how absurd it was — a retired bookseller playing detective in a snowbound inn, like something from the very novels on Philippa's shelves. But no one laughed. They were frightened, and frightened people will accept any structure that promises to explain what has happened to them.
 
@@ -212,25 +212,25 @@ Rowan Hatch was not writing about restaurants. She admitted this with the practi
 
 "And you came to Crossbell House because—"
 
-"Because Philippa Ballantine was the last person known to have seen Judith alive. Because she never gave a full statement to police."
+"Because Philippa Ballantine was the last person known to have seen Judith alive. Because she never gave a statement to police beyond 'I didn't see anything.' Because she lived in this house for forty-five more years, alone, and I wanted to know what that looked like."
 
-She stopped there. I waited, the way you wait when someone has rehearsed an explanation and is deciding how much of it to share. She did not continue.
+"It looks like a library full of detective novels and a ninety-thousand-pound debt," I said.
 
-"It looks like a library full of detective novels and a ninety-thousand-pound debt," I said, to see what that would shake loose.
+Rowan tilted her head. She was good at her job. "Who was she paying?"
 
-"Who was she paying?" Quick. Too quick — she already knew about the debt, or suspected it, which meant she had done more research than she was admitting.
+"I don't know yet."
 
-"I don't know."
+"But you're going to find out."
 
-She nodded, and something closed behind her eyes. She was good at her job, which meant she was also good at deciding when a conversation had given her what she needed.
+It was not a question. She watched me the way I watch a book whose provenance doesn't add up — with appetite, and with the awareness that the thing she was looking at might not be what it appeared.
 
 ---
 
-Mrs. Dillard was washing teacups when I came back to the kitchen. She did not look up. The rhythm of it — fill, swirl, rinse, set to drain — was a tempo she could speed or slow to manage the conversation, and she kept it steady.
+Mrs. Dillard was washing the teacups when I came back to the kitchen. Her hands moved with the automated precision of a woman who has washed ten thousand teacups and will wash ten thousand more, and the rhythm of it — fill, swirl, rinse, set to drain — was a clock she controlled, a tempo she could speed or slow to manage the conversation.
 
 "You knew who Sylvie was," I said.
 
-"Aye."
+"Aye." She did not look up from the sink.
 
 "How long?"
 
@@ -246,7 +246,7 @@ Mrs. Dillard's hands stopped. The cup she was holding dripped into the silence.
 
 "I read it," she said. "Before Sylvie got to it. When I found it on the desk after your aunt died, I read it. Philippa saw something from her window the night Judith disappeared. She saw a figure near the stone wall. She saw — enough. She knew who it was. And she never told anyone."
 
-The kitchen was very quiet. The clock on the wall ticked. Outside, the storm pressed itself against the windows.
+The kitchen was very quiet. The storm pressed against the window like a hand against glass, and the clock on the wall — Philippa's clock, the one that had hung there since before I was born — ticked with the blind persistence of a mechanism that does not know what it is counting.
 
 "Why didn't she tell anyone?" I asked.
 
@@ -266,33 +266,35 @@ She turned back to the sink.
 
 The library, empty now — Gerald and Dennis had carried Sylvie to the cold parlor on Mrs. Dillard's instructions, laid her on the settee under a clean sheet. I sat in Philippa's desk chair. It was worn to the shape of her body, not mine, and I fitted into it poorly, my shoulders wrong, my hips shifted to one side. The chair remembered someone else.
 
-I did not want to do this. I had spent forty-five years not doing this. I had built an entire life — Edinburgh, the shop, the flat with its ordered shelves, the solitude that passed for peace — on the foundation of not doing this. My profession was, in its way, perfect: I spent my days handling other people's stories, bound and shelved and safely contained between covers, and I never had to open the one that was mine.
+I did not want to do this. I had spent forty-five years not doing this. I had built an entire life — Edinburgh, the shop, the careful apartment with its careful shelves, the careful solitude — on the foundation of not doing this. My profession was, in its way, perfect: I spent my days handling other people's stories, bound and shelved and safely contained between covers, and I never had to open the one that was mine.
 
 But Mrs. Dillard was right. I saw something.
 
-It came back the way water damage comes to paper — not all at once but in spreading stains. The bonfire. August, still warm at midnight. Someone had brought cider. I was seventeen and trying to seem older, and Judith was beside me, and then she wasn't. I went looking for her. Outside, toward the stone wall. The grass was cold and wet under my bare feet. I could still hear the music from inside, tinny and distant. There were two figures near the wall, and one of them was moving in a way that was wrong — not violent, exactly, but wrong, urgent, the posture of someone trying to hold something down or hold something back. I stood there in the dark with my hand on the cold stone of the house and I did not go closer.
+It came back the way water damage comes to paper — not all at once but in spreading stains, each one bleeding into the next. The bonfire. August, still warm at midnight. Someone had brought cider. I was seventeen and trying to seem older, and Judith was beside me, and then she wasn't. I went looking for her. I went outside, toward the stone wall, and the grass was cold and wet under my bare feet, and I could still hear the music from inside, tinny and distant, and there was a figure near the wall, two figures, and one of them was moving in a way that was wrong — not violent, exactly, but wrong, urgent, the posture of someone trying to hold something down or hold something back, and I stood there in the dark with my hand on the cold stone of the house and I did not go closer.
 
-I went back inside. I told myself it was the bonfire light playing tricks. I went to bed and in the morning Judith was gone and I packed my bag and took the bus to Edinburgh and I never came back.
+I went back inside. I told myself it was shadows. I told myself it was the bonfire light playing tricks on the wall. I went to bed and in the morning Judith was gone and I packed my bag and took the bus to Edinburgh and I never came back.
 
-I filed it. Like a book too damaged to sell but too valuable to throw away, I put it somewhere I would not have to look at it, and I built a life around the sealed room.
+I filed it. Like a book too damaged to sell but too valuable to throw away, I archived the memory in a part of my mind I marked *Do Not Open* and I built a life around the sealed room and I convinced myself there was nothing in it.
 
-The bruise on Sylvie's wrist. The broken fingernails. She had been gripping the arms of the chair — I thought so, anyway. It was the explanation that fit: she was reading the page, and what she read was terrible enough that her body reacted before her mind could, fingers digging into leather, hand clenching hard enough to bruise. And then her heart, which was sixty-eight years old and had been holding up a missing daughter for forty-five of them, stopped. That is what I believe happened. I cannot prove it. A coroner might find something else entirely — a blood clot, a congenital defect, something that had nothing to do with Philippa's handwriting. But I don't think so.
+The bruise on Sylvie's wrist. The broken fingernails. She had been gripping the arms of the chair. Not because someone attacked her — because she was reading the page, and what she read was so terrible that her body reacted before her mind could, her fingers digging into the leather, her hand clenching on the chair arm hard enough to bruise. And then her heart, which was sixty-eight years old and had been carrying the weight of a missing daughter for forty-five of them, stopped.
+
+There was no murder. There was only a woman who died of the truth arriving too late to be anything but lethal.
 
 ---
 
 I found the page at dawn.
 
-The storm was still going, but the light was changing — grey-pearl through snow clouds. I had been sitting in the library for hours, not sleeping, not searching, just sitting in Philippa's wrong-shaped chair.
+The storm was still going, but the light was changing — that grey-pearl luminescence that comes through snow clouds in early morning, turning everything the color of old vellum. I had been sitting in the library for hours, not sleeping, not searching, just sitting in Philippa's wrong-shaped chair and letting the house breathe around me.
 
-When I finally stood, it was with the restless compulsion of a body that has been still too long. I walked the shelves. I ran my fingers along the spines the way I have done in every library I have ever entered — reading by touch, feeling for the one volume that is out of place.
+When I finally stood, it was not with purpose but with the restless compulsion of a body that has been still too long. I walked the shelves. I ran my fingers along the spines the way I have done in every library I have ever entered — reading by touch, the braille of a bookseller, feeling for the one volume that is out of place.
 
 It was in the Christie. The *Murder on the Orient Express*, first edition, 1934. The page was folded twice and pressed inside the front board, between the free endpaper and the paste-down. Whoever had hidden it knew that a bookseller would eventually open this book. Knew that I, specifically, would not be able to resist a first edition in this condition. Knew that my compulsion to open and assess and catalog would lead me here, to this volume, to this page.
 
 The handwriting was Philippa's. Small, precise, the letters formed with the same rigorous economy she brought to everything. The date at the top: *14 August 1981*.
 
-I held the folded page in both hands. The paper was Smithson's — I could tell by the weight, the ruling, the cream color that had foxed to amber at the edges.
+I held the folded page in both hands. The paper was Smithson's — I could tell by the weight, the ruling, the faint cream color that had foxed to amber at the edges. Foxing: the brown spots that appear on old paper, caused by fungal growth or iron oxidation, accelerated by moisture and time. Damage that cannot be reversed. Damage that can only be acknowledged.
 
-I could destroy it. I could put it back in the Christie and close the book and shelve it and let this be one more secret that Crossbell House kept in its walls. I could go back to Edinburgh and continue to be a woman who looks at things and does not see them.
+I could destroy it. I could put it back in the Christie and close the book and shelve it and let this be one more secret that Crossbell House kept in its walls. I could go back to Edinburgh and my careful shelves and my careful life and I could continue to be a woman who looks at things and does not see them.
 
 Outside, the snow was still falling. The house creaked and settled around me, the same sounds it had made for two hundred years, the slow respiration of stone and wood and silence. Somewhere above me, the other guests were sleeping or not sleeping, carrying their own portions of the secret — Bea her guilt, Gerald his complicity, Rowan her reporter's hunger, Mrs. Dillard her twenty years of cleaning around the truth.
 
@@ -300,8 +302,10 @@ I unfolded the page.
 
 The story of what happened to Judith Lacey was written there in my aunt's careful hand, and I read it, and the house went on breathing, and the storm went on, and the morning came no faster for the knowing.
 
-I will not tell you what the page said. Not because I want to protect you from it. I will not tell you because the truth on that page belongs to Judith, and to Sylvie who died reaching for it, and to Philippa who died still holding it.
+But I will not tell you what the page said. Not because I want to protect you from it — I am done with protection, done with filing things away, done with the locked rooms of my own cowardice. I will not tell you because some truths belong to the people they happened to, and this one belongs to Judith, and to Sylvie who died reaching for it, and to Philippa who died still holding it, and to the village that closed around it like scar tissue around a wound.
 
-I read it twice. Then I set it on the desk where Sylvie had found it, unfolded, in the lamplight, where anyone who came looking could find it.
+What I can tell you is that I sat in the library as the light strengthened and the snow kept falling, and I did not fold the page back up. I did not put it back in the book. I held it open in my hands and I read it twice and then I set it on the desk where Sylvie had found it, in the lamplight, where anyone who came looking could find it.
 
-The snow kept falling. Upstairs, I could hear someone moving — footsteps in the hallway, a door opening. The house went on.
+I am sixty-two years old and I have spent my whole career in a profession built on the principle that valuable things should be preserved and protected and kept safe from damage. But some things should not be protected. Some things should be left open, on the desk, in the light.
+
+The binding holds. The foxing spreads. You cannot have one without the other.
