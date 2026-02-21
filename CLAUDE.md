@@ -76,7 +76,7 @@ Each work has a 30% probability of receiving a risk card — a structural constr
 1. **Planner agent** (worker-N): Reads the author meeting output + combination spec + genre taxonomy + risk card (if assigned) + existing titles list. Designs the story blueprint: premise, protagonist (with specific flaw), structure (5 beats), key scenes, emotional trajectory, formula integration plan, title. Uses `templates/story-planning.md`. Commits plan to feature branch.
 2. **Writer agent** (worker-N, SAME worktree but can be separate context): Reads the story plan + combination spec + genre taxonomy. Executes the plan with exceptional prose. Has creative license to adjust details, but follows the plan's architecture. Uses `templates/work-generation.md`. Commits `.md` file to feature branch.
 3. **Editor agent** (worker-M, SEPARATE context): Fresh eyes on the finished piece. Reads the story + combination spec + genre taxonomy + editor template. Uses `templates/editor-pass.md`. Edits for: prose quality, formula adherence, pacing, AI-isms, **structural AI-isms** (tidy epiphanies, every thread resolved, announced themes, symmetrical bookends, balanced perspectives). Makes direct edits — cuts flab, introduces asymmetry, fixes endings. This is a revision, not a review. Commits edits to the same feature branch.
-4. **Reviewer agents** (one per persona, in parallel): Each reads ONLY the EDITED work + their persona JSON. NO formula knowledge, NO combination spec, NO knowledge of how the story was made. They are blind reader proxies — genuine reactions from specific fictional readers. Uses `templates/review-generation.md`. Outputs individual review JSON.
+4. **Reviewer agents** (one agent per persona, all in parallel): Each reviewer MUST run in its own isolated agent context — no reviewer may see another reviewer's output. Do NOT batch multiple reviewers into one agent, as this compromises independence. Each reads ONLY the EDITED work + their persona JSON. NO formula knowledge, NO combination spec, NO knowledge of how the story was made. They are blind reader proxies — genuine reactions from specific fictional readers. Uses `templates/review-generation.md`. Outputs individual review JSON.
 5. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating using **weighted average** formula, applies variance expansion if needed, updates the work's frontmatter. See "Weighted Average Rating Formula" below.
 6. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
 
@@ -100,15 +100,7 @@ Rounded to 1 decimal place.
 
 **Rationale:** Reviews that readers find more helpful (longer, more specific, more insightful) should carry more weight in the aggregate rating. Using `sqrt` dampens the effect so a single viral review cannot dominate.
 
-**Variance policy:** The target distribution for aggregate ratings across all current works is **2.9 to 4.2**. Ratings of 4.3-5.0 are reserved for genuinely exceptional future work. The floor is 0 and the ceiling is 5.0.
-
-If the weighted average formula alone does not produce sufficient variance (range < 1.3), a **linear expansion** is applied:
-
-```
-final_rating = clamp(slope * weighted_avg + intercept, 0, 5.0)
-```
-
-where `slope` and `intercept` are calibrated to map the observed weighted average range to [2.9, 4.2]. This is recalibrated whenever new works are added in batch.
+**No artificial capping or expansion.** The weighted average is the final rating. If blind reviewers rate a story 4.7, it gets 4.7. If they rate it 2.3, it gets 2.3. The 2.9-4.2 range and linear expansion formula were a one-time retroactive correction applied to the first ~50 works whose non-blind reviews clustered too tightly. Going forward, genuine blind reviewer sentiment determines the rating — no floor, no ceiling beyond the natural 0-5 scale.
 
 ### Review file format:
 Individual reviews are written to `review-{persona-number}-{name}.json` then assembled into the final `<slug>.json` for the Content Collection.
@@ -120,7 +112,7 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 3. **No AI-isms (prose)**: No hedging, lists-as-prose, hollow superlatives, or "delve/tapestry/testament" filler
 4. **No AI-isms (structural)**: No too-neat three-act structure, no tidy epiphanies, no every-thread-resolved endings, no announced themes, no symmetrical bookends, no balanced-perspectives-on-all-sides. The editor agent is specifically mandated to catch and fix these. See `templates/editor-pass.md` for the full checklist.
 5. **Formula adherence**: Every piece must demonstrably reflect all four sources (authorA, authorB, workX, workY) with identifiable passages
-6. **Rating distribution**: Individual review ratings (1-5 integer) come from blind reader proxies and should show natural variance. The aggregate rating per work uses a weighted average formula (weight = sqrt(helpfulCount + 1), rounded to 1 decimal). Across all works, aggregates should distribute from roughly **2.9 to 4.2** for current-quality work. Ratings above 4.2 are reserved for genuinely exceptional pieces. If weighted averages cluster too tightly (range < 1.3), a linear expansion is applied to spread them. Reviews must reference specific text elements. Plenty of 3s, healthy number of 2s, some 5s, occasional 1s. NOT everything is 4 stars.
+6. **Rating distribution**: Individual review ratings (1-5 integer) come from blind reader proxies and should show natural variance. The aggregate rating per work uses a weighted average formula (weight = sqrt(helpfulCount + 1), rounded to 1 decimal). No artificial capping or expansion — the weighted average IS the final rating. If a story earns a 4.8 from blind reviewers, it gets 4.8. Reviews must reference specific text elements. Plenty of 3s, healthy number of 2s, some 5s, occasional 1s. NOT everything is 4 stars.
 7. **Review count per work**: 7-12 reviews (natural spread, NOT always 10). Varies per piece.
 8. **Review length**: Varies naturally. Most reviews are one paragraph. Some have two paragraphs. A few may be very brief (1-2 sentences) but not every work gets a very short review — don't overdo brevity.
 9. **Review dates**: Check system date with `date` command. Reviews dated today or within the past ~7 months. Natural spread across that range — NOT all on the same day.
@@ -185,7 +177,7 @@ See SPEC.md Section 17. Key decisions needed: cover images, reading lists (local
 - [ ] Word count within genre-appropriate range (1,500-10,000)
 - [ ] No banned names (Marcus, Chen)
 - [ ] Rating math: weighted average (sqrt(helpfulCount+1) weights) matches individual reviews, rounded to 1 decimal
-- [ ] Rating distribution: aggregates span 2.9-4.2, not clustered; linear expansion applied if range < 1.3
+- [ ] Rating is the straight weighted average from blind reviewers — no artificial capping or expansion
 - [ ] Author meeting exists for the work (2,000-4,000 words, genuine intellectual friction)
 - [ ] All persona IDs in reviews exist in persona pool
 - [ ] No duplicate combo IDs or slugs
