@@ -10,7 +10,7 @@ workY: "2666"
 wordCount: 5239
 readingTimeMinutes: 21
 tags: [experimental, fragmented-narrative, body-horror, systemic-violence, found-document, sleep, border-city, clinical-horror]
-rating: 4.0
+rating: 3.7
 ratingCount: 10
 publishedDate: 2026-02-20
 status: published

@@ -18,7 +18,7 @@ tags:
   - neural-interface
   - artificial-intelligence
   - survival
-rating: 3.8
+rating: 3.7
 ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"

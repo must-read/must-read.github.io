@@ -18,7 +18,7 @@ tags:
   - confession
   - female-voice
   - contemporary
-rating: 4.0
+rating: 3.9
 ratingCount: 8
 publishedDate: 2026-02-20
 status: "published"

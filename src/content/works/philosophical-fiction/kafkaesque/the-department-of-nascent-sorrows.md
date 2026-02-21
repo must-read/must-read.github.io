@@ -19,7 +19,7 @@ tags:
   - consciousness
 publishedDate: 2026-02-20
 status: "published"
-rating: 3.8
+rating: 3.4
 ratingCount: 9
 formulaSummary: >
   Kafka's matter-of-fact bureaucratic nightmare fused with Lispector's interior philosophical dissolution. The Trial provides the architecture of an institution that processes people without reason or appeal; The Passion According to G.H. provides the shattering confrontation with the void that occurs when the self encounters something it cannot metabolize through language. The protagonist is caught between an external system that demands classification and an internal experience that refuses it.

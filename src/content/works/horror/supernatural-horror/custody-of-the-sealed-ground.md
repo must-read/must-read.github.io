@@ -10,7 +10,7 @@ workY: "A Warning to the Curious"
 wordCount: 3154
 readingTimeMinutes: 13
 tags: ["small-town horror", "antiquarian dread", "guardians", "Maine gothic", "atmospheric horror"]
-rating: 3.9
+rating: 3.8
 ratingCount: 9
 publishedDate: "2026-02-21"
 status: "published"

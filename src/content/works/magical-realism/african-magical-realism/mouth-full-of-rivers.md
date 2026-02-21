@@ -19,7 +19,7 @@ tags:
   - returned-dead
   - maternal-grief
   - communal-exorcism
-rating: 3.9
+rating: 3.7
 ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"

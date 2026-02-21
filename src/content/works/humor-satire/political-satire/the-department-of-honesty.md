@@ -18,7 +18,7 @@ tags:
   - media-satire
   - transatlantic
   - government
-rating: 3.9
+rating: 3.7
 ratingCount: 11
 publishedDate: 2026-02-20
 status: "published"

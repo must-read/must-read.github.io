@@ -18,7 +18,7 @@ tags:
   - reproductive-rights
   - unreliable-narrator
   - boarding-school
-rating: 3.8
+rating: 3.7
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

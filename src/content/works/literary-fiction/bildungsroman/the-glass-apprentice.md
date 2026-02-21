@@ -15,7 +15,7 @@ tags:
   - cultural-identity
   - restraint
   - family
-rating: 3.7
+rating: 3.3
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

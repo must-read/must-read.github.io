@@ -20,7 +20,7 @@ tags:
   - tech-campus
 publishedDate: 2026-02-20
 status: "published"
-rating: 3.9
+rating: 3.7
 ratingCount: 9
 formulaSummary: >
   Saunders's devastating corporate vernacular fused with Alderman's structural thriller pacing. The Circle provides the architecture of a tech campus where surveillance is rebranded as caring and cheerfulness is policy; Player Piano provides the dawning horror of an engineer who realizes the system he serves is designed to eliminate him. Reads like a series of HR memos; lands like a verdict on complicity.

@@ -18,7 +18,7 @@ tags:
   - vintage-shop
   - 1940s
   - love-story
-rating: 3.9
+rating: 3.5
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

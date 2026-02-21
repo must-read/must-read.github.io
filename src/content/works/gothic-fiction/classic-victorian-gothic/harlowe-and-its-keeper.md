@@ -20,7 +20,7 @@ tags:
   - secrets
   - identity
   - class
-rating: 3.8
+rating: 3.6
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

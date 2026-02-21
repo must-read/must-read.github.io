@@ -18,7 +18,7 @@ tags:
   - race-and-class
   - observation
   - personal-loss
-rating: 4.0
+rating: 3.7
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

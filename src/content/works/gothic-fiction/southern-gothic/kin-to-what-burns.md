@@ -18,7 +18,7 @@ tags:
   - american-south
   - ancestral-memory
   - grotesque
-rating: 3.8
+rating: 3.3
 ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"

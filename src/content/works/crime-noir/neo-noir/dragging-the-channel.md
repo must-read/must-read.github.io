@@ -20,7 +20,7 @@ tags:
   - the-past
   - Boston
   - loyalty
-rating: 4.1
+rating: 4.0
 ratingCount: 10
 publishedDate: 2026-02-19
 status: "published"

@@ -10,7 +10,7 @@ workY: "The Namesake"
 wordCount: 3790
 readingTimeMinutes: 15
 tags: [domestic-drama, immigrant-family, grief, estrangement, naming, new-england, generational-conflict]
-rating: 3.4
+rating: 2.9
 ratingCount: 9
 publishedDate: 2026-02-20
 status: published

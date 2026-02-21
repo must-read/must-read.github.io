@@ -18,7 +18,7 @@ tags:
   - memory
   - trauma
   - moral-ambiguity
-rating: 3.8
+rating: 3.5
 ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"

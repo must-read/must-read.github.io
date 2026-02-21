@@ -18,7 +18,7 @@ tags:
   - antiquarian
   - outsider
   - community
-rating: 3.8
+rating: 3.6
 ratingCount: 9
 publishedDate: 2026-02-18
 status: "published"

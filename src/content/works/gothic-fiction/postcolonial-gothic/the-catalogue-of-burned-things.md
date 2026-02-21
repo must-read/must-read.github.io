@@ -18,7 +18,7 @@ tags:
   - generational-trauma
   - libraries
   - postcolonial-gothic
-rating: 3.7
+rating: 3.3
 ratingCount: 11
 publishedDate: 2026-02-20
 status: "published"

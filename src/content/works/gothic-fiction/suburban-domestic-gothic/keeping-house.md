@@ -18,7 +18,7 @@ tags:
   - psychological-horror
   - quiet-horror
   - devotion
-rating: 3.5
+rating: 3.2
 ratingCount: 10
 publishedDate: 2026-02-20
 status: published

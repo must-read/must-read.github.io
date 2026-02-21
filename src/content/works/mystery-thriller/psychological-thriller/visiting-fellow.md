@@ -10,7 +10,7 @@ workY: "The Talented Mr. Ripley"
 wordCount: 4835
 readingTimeMinutes: 19
 tags: [dark-academia, identity-fraud, literary-thriller, impersonation, campus-gothic, moral-vacuum, class-aspiration, psychological-suspense]
-rating: 3.6
+rating: 3.2
 ratingCount: 9
 publishedDate: 2026-02-20
 status: published

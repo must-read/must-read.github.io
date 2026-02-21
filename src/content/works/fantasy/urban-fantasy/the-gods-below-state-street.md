@@ -18,7 +18,7 @@ tags:
   - underground
   - bartender-protagonist
   - dark-whimsy
-rating: 3.8
+rating: 3.5
 ratingCount: 8
 publishedDate: 2026-02-20
 status: "published"

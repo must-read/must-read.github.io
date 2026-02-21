@@ -18,7 +18,7 @@ tags:
   - memory
   - impossible-architecture
   - generational-trauma
-rating: 4.0
+rating: 3.8
 ratingCount: 7
 publishedDate: 2026-02-20
 status: "published"

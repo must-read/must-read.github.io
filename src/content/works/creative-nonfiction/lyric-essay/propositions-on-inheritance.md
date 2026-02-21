@@ -20,7 +20,7 @@ tags:
   - numbered-propositions
   - fatherhood
   - philosophy-of-color
-rating: 3.8
+rating: 3.4
 ratingCount: 9
 publishedDate: 2026-02-19
 status: "published"

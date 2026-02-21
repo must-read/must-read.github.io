@@ -18,7 +18,7 @@ tags:
   - mediterranean
   - napoleonic-wars
   - moral-reckoning
-rating: 3.8
+rating: 3.6
 ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"

@@ -22,7 +22,7 @@ tags:
   - folklore-retelling
   - psychological-interiority
   - archival-tone
-rating: 4.1
+rating: 4.2
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

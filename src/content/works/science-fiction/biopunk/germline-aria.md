@@ -20,7 +20,7 @@ tags:
   - designed-bodies
   - grief
   - philosophy-of-mind
-rating: 4.0
+rating: 3.9
 ratingCount: 8
 publishedDate: 2026-02-18
 status: "published"

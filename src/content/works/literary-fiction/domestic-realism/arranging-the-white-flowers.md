@@ -18,7 +18,7 @@ tags:
   - cultural-displacement
   - interior-life
   - literary-fiction
-rating: 3.7
+rating: 3.4
 ratingCount: 10
 publishedDate: 2026-02-14
 status: "published"

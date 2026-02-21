@@ -18,7 +18,7 @@ tags:
   - self-deception
   - dining-etiquette
   - multicultural-london
-rating: 3.8
+rating: 3.5
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"

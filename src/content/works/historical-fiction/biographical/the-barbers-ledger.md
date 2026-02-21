@@ -18,7 +18,7 @@ tags:
   - survival
   - black-history
   - moral-complexity
-rating: 3.9
+rating: 3.8
 ratingCount: 10
 publishedDate: 2026-02-20
 status: "published"
