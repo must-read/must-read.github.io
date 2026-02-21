@@ -15,8 +15,8 @@ tags:
   - ensemble-cast
   - meddling
   - rivals-to-lovers
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
