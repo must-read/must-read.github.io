@@ -7,7 +7,7 @@ authorA: "H.P. Lovecraft"
 authorB: "Carmen Maria Machado"
 workX: "At the Mountains of Madness"
 workY: "Her Body and Other Parties"
-wordCount: 5199
+wordCount: 5206
 readingTimeMinutes: 21
 tags:
   - cosmic-horror
@@ -70,7 +70,7 @@ That first night, in our hotel in Christchurch, I undressed her slowly. I had be
 
 Her skin tasted of salt and something else. Something mineral and old. Like licking a cave wall. I told myself it was the Antarctic air, the months of recycled station atmosphere. I told myself this even as some part of me — the part that had spent a career studying the boundaries of living things — catalogued the wrongness and filed it away.
 
-I should have listened to that part. I should have paid closer attention to the way my scientific mind was already sounding alarms that my loving mind refused to hear. But she was my wife, and she was home, and the distance between those two facts and the thing that was happening to her body was a distance I was not yet prepared to measure.
+I should have listened to that part. But she was my wife, and she was home, and the distance between those two facts and the thing that was happening to her body was a distance I was not yet prepared to measure.
 
 ---
 
@@ -100,11 +100,11 @@ In the first week home, Renata slept fourteen hours a day. I attributed this to 
 
 But her sleep was wrong.
 
-I don't mean she had nightmares, though she did — terrible ones that made her moan in a register I had never heard from her, a sound like wind through a space too large and too empty. I mean the sleep itself had a different quality. She lay too still. Her breathing came at intervals that seemed to follow no biological rhythm I could identify — three breaths close together, then nothing for a minute, then a single deep inhalation that expanded her ribcage to a degree I found uncomfortable to watch.
+I don't mean she had nightmares, though she did — terrible ones that made her moan in a register I had never heard from her, a sound like wind through a space too large and too empty. I mean the sleep itself had a different quality. She lay too still. Her breathing came at intervals that followed no biological rhythm — three breaths close together, then nothing for a minute, then a single deep inhalation that expanded her ribcage to a degree I found uncomfortable to watch.
 
 On the fourth night, I woke at 3 a.m. and found her lying on her back, eyes open, staring at the ceiling. But she was asleep. I know she was asleep because I said her name and she did not respond, and because her pupils were dilated to the edges of her irises, and because her hands, resting on her stomach, were making small repetitive movements — her fingers tracing patterns on her own skin that I recognized, with a shock of nausea, as non-Euclidean.
 
-I am a scientist. I know that the phrase "non-Euclidean" is overused and poorly understood. I know that in common parlance it has become a kind of shorthand for "weird geometry." I am telling you that my wife, in her sleep, was tracing curves on her belly that my eyes could not follow. That the angles her fingers described were wrong in a way that made my vision blur and my sinuses ache. That when I looked away and then looked back, the pattern seemed to have moved without her moving, as though the geometry had a will of its own.
+I know that the phrase is overused and poorly understood. I am telling you that my wife, in her sleep, was tracing curves on her belly that my eyes could not follow. That the angles her fingers described were wrong in a way that made my vision blur and my sinuses ache. That when I looked away and then looked back, the pattern seemed to have moved without her moving, as though the geometry had a will of its own.
 
 I photographed her hands. In the morning, I examined the photos. They showed Renata's hands resting flat and still on her stomach. Whatever the pattern was, it did not exist in the electromagnetic spectrum that my phone's camera could capture.
 
@@ -144,7 +144,7 @@ She found them.
 
 What she also found, in a core pulled from 3,200 meters — ice that had been frozen for roughly 1.5 million years — was a structure. Not a fossil. Not a mineral formation. A structure that, when she examined thin sections under the station's electron microscope, displayed organized complexity at a scale and of a type she could not reconcile with any known biology.
 
-I learned this not from Renata but from the fragments of her field notes that I found on her personal laptop, which she had left open on the kitchen table one morning when she went out walking. (She went out walking often now, at strange hours, and always east — toward the coast, toward the water.) The notes were disjointed. The handwriting in the scanned pages deteriorated over the course of the field season. By the last entries it was nearly illegible, the letters distorted by the same geometric wrongness I'd seen her fingers trace in sleep.
+I learned this not from Renata but from the fragments of her field notes that I found on her personal laptop, left open on the kitchen table one morning when she went out walking. (She went out walking often now, at strange hours, and always east — toward the coast, toward the water.) The notes were disjointed. The handwriting in the scanned pages deteriorated over the course of the field season. By the last entries it was nearly illegible, the letters distorted by the same geometric wrongness I'd seen her fingers trace in sleep.
 
 The photographs she had taken of the thin sections under magnification were on the laptop too. I wish I had not looked at them. The structures in the ice were not like cells. They were not like crystals. They were like diagrams of something — blueprints or schematics rendered in matter instead of ink, as though some intelligence had used water and pressure and geological time to write instructions in a language of frozen geometry. The scale was wrong, too. Some of the structures appeared to extend beyond the edges of the thin sections in ways that implied they continued through the ice sheet itself, branching and ramifying through cubic kilometers of frozen water, a network so vast that the core sample was merely a cross-section of a single thread.
 
@@ -160,7 +160,7 @@ Below this, in different ink, in letters that seemed to squirm on the page:
 
 ## VI. The Warmth
 
-She ran hot now. Not like a fever — I took her temperature daily and it remained at a steady 37.2°C, perfectly normal. But the warmth I felt when I touched her was not the warmth of a body at 37.2. It was denser than that, heavier, the way her skin was denser. As though the heat were coming from somewhere deeper than her core, radiating outward through more layers than her anatomy should contain.
+She ran hot now. Not like a fever — I took her temperature daily and it remained at a steady 37.2°C, perfectly normal. But the warmth I felt when I touched her was not the warmth of a body at 37.2. It was heavier, as though the heat were coming from somewhere deeper than her core, radiating outward through more layers than her anatomy should contain.
 
 At night, in bed, the warmth was almost unbearable. I would press myself against her back — and I did, I still did, I still wanted her, that was the monstrous thing, I still wanted her even as the inventory grew — and the heat that came off her body had a quality of *depth*. Like pressing yourself against the wall of a furnace that extended down through the floor and the foundation and the earth's crust and kept going.
 
@@ -174,7 +174,7 @@ When I could feel them again, I found that my fingerprints had changed. Subtly. 
 
 She talked in her sleep.
 
-Not in English. Not in Portuguese. Not in any of the four languages she spoke. The sounds she made were — I must be precise, I must be clinical, I must hold to the discipline of observation even as the observations exceed the capacity of the discipline — the sounds she made were not sounds that should have been possible for a human vocal apparatus to produce. They had harmonics. Undertones. They resonated in the walls of the house in ways that made the plaster crack in hairline fractures that followed those same non-Euclidean curves.
+Not in English. Not in Portuguese. Not in any of the four languages she spoke. The sounds she made were — I must be precise, I must be clinical, I must hold to the discipline of observation even as the observations exceed the capacity of the discipline — the sounds were not possible for a human vocal apparatus to produce. They had harmonics. Undertones. They resonated in the walls of the house in ways that made the plaster crack in hairline fractures that followed those same non-Euclidean curves.
 
 One night I recorded her on my phone. In the morning I played it back and heard only static. But the static made Pilot whimper and press himself into the corner of the room, and when I looked at the waveform on the screen, the amplitude pattern spelled out shapes I could almost read, arrangements of sound that were almost language, almost meaning, almost a message from something that had been broadcasting for geological ages and had finally, in the warm wet vessel of my wife's sleeping body, found a receiver.
 
@@ -196,7 +196,7 @@ Five weeks after her return, Renata stopped eating. Not gradually — one mornin
 
 She pressed her hand flat against her sternum. "By what's underneath."
 
-She did not eat for three weeks. She did not lose weight. If anything, she became more solid, more present, more *dense* — that word again, the only word that approaches it. Her body was being nourished by something I could not see, something that operated below the threshold of every instrument I possessed.
+She did not eat for three weeks. She did not lose weight. If anything, she became more solid, more present. Her body was being nourished by something I could not see, something that operated below the threshold of every instrument I possessed.
 
 I begged her to eat. She ate, to please me, but I could see that the food meant nothing to her. She chewed and swallowed with the mechanical patience of a person performing a ritual whose significance has been lost. Once I watched her eat an orange and saw that she was weeping — silently, without expression — and when I asked her why, she said, "I can taste what it is. Not the orange. The atoms. The forces that hold them together. And underneath the forces — Lena, underneath the forces there is something *singing*, and it has been singing since before the Earth cooled, and the song is not for us."
 
@@ -218,7 +218,7 @@ At the moment of climax — hers, not mine, though I felt it too, I felt it in m
 
 I will not describe it fully. I cannot. Language is a technology designed for the scale at which humans operate, and what I saw operated at a scale for which language has no units. But I will say that it was vast. That it was old — old in the way that light from dead stars is old, old in the way that the iron in our blood is old, forged in furnaces that burned out before our sun ignited. That it was structured, patterned, organized with an intelligence that bore no relation to thought as we practice it. That it was aware. Not of me. Not of Renata. Not of the Earth or the solar system or the galaxy. It was aware the way gravity is aware — automatically, comprehensively, without interest or mercy.
 
-And I understood, in that moment, that the structure Renata had found in the ice at 3,200 meters was not a discovery. It was an introduction. It was the handshake between the signal that has been playing since before the formation of the planet and the biological receiver that had finally tuned itself — through 1.5 million years of patient, frozen waiting — to the right frequency.
+And I understood, in that moment, that the structure Renata had found in the ice at 3,200 meters was not a discovery. It was an introduction. The handshake between the signal that has been playing since before the formation of the planet and the biological receiver that had finally tuned itself — through 1.5 million years of patient, frozen waiting — to the right frequency.
 
 That the receiver was my wife's body.
 
@@ -268,13 +268,13 @@ Dr. Ashworth closed her eyes.
 
 I mentioned that my fingerprints changed. I need to return to this.
 
-After the institute's visit, I examined myself. Carefully, methodically, with the discipline of a scientist who is investigating the most terrifying specimen of her career — herself. I spent three hours in the bathroom with a magnifying glass, a flashlight, and a growing sense of dissolution.
+After the institute's visit, I examined myself. Carefully, methodically, with the discipline of a scientist who is investigating the most terrifying specimen of her career — herself.
 
 My fingerprints had changed. My moles had migrated — three of them, shifting to form a triangle on my left forearm that matched one of the shapes Renata traced in her sleep. The fine hair on my arms, when I examined it under magnification, was growing in patterns. Not random, not the usual biological scatter. Organized. Directional. Like iron filings responding to a magnetic field whose source was not in the room.
 
-I was becoming part of the architecture.
+I was becoming part of it.
 
-Through love. Through proximity. Through the simple human act of pressing my body against another body in the night and wanting what I had always wanted — my wife, my life, the ordinary architecture of a shared existence. The signal had passed from the ice into Renata and from Renata into me, using desire as its medium, using intimacy as its vector. Not because it was cruel. Not because it was designed to prey on love. Because it did not know what love was. Because love, to the thing beneath the ice, was simply another frequency. Another waveform to ride.
+The signal had passed from the ice into Renata and from Renata into me, using desire as its medium, using intimacy as its vector. Not because it was cruel. Not because it was designed to prey on love. Because it did not know what love was. Because love, to the thing beneath the ice, was simply another frequency. Another waveform to ride.
 
 I ran my tongue along my teeth and felt them hum.
 
@@ -294,7 +294,7 @@ She looked at me. Her eyes were still brown, still dark, still beautiful. But th
 
 "Come with me," she said.
 
-I almost did. God help me, I almost did. Not because I wanted to see what was in the water or feel the signal rewrite the rest of me. But because she asked. Because her voice was still her voice, and her hand reaching for mine was still her hand, and eleven years of love is its own kind of architecture, its own deep structure, and I would have followed it anywhere.
+I almost did. God help me, I almost did. Not because I wanted to see what was in the water or feel the signal rewrite the rest of me. But because she asked. Because her voice was still her voice, and her hand reaching for mine was still her hand, and eleven years of love is its own kind of deep structure, and I would have followed it anywhere.
 
 "No," I said.
 
@@ -315,7 +315,7 @@ What she left behind:
 3. A wedding ring, white gold, inscribed *L & R, para sempre*
 4. Seven strands of dark hair on her pillow, each of which, under magnification, displays a helical structure with more turns than human hair should have
 5. A blue mug from Reykjavik, chipped on the rim, still containing coffee that has developed a surface growth I have been monitoring for two weeks — it is not mold, it is not bacterial, it is organized, it is warm, and it is growing in patterns I recognize from her sleeping hands
-6. The smell of her on the sheets, which I have not washed, which changes daily, becoming deeper, more mineral, more ancient, losing the citrus of her shampoo and the salt of her sweat and acquiring instead the smell of deep ice, of compressed time, of air that was last breathed by something that was not alive in any sense we understand
+6. The smell of her on the sheets, which I have not washed, which changes daily, becoming deeper, more mineral, more ancient, losing the citrus of her shampoo and the salt of her sweat and acquiring the smell of deep ice, of compressed time, of air that was last breathed by something that was not alive in any sense we understand
 7. One dog, who will not stop staring east, who will not eat, whose eyes have begun to develop that same depthless quality, who presses himself against me at night with a warmth that is becoming familiar in all the wrong ways
 8. One framed photograph from our wedding, in which Renata is laughing with her head thrown back, and in which, if I look closely — if I look with the eyes that the signal has begun to change — I can see that her throat, even then, even years before the ice, contained a shadow that should not have been there, as though the blueprint had always known where its receiver would be
 9. Me
@@ -330,15 +330,15 @@ I do not remember this lecture. I do not remember much of October or November. T
 
 What I know:
 
-The signal is in me. Not the way it was in Renata — I was not the one who touched the structure in the ice, who served as the primary receiver. I am secondary. A relay. A smaller tower, picking up the broadcast from the larger one and retransmitting at reduced power. But it is in me all the same. I feel it in my sleep, in my dreams, in the way my body has begun to hum at a frequency that makes the glass in the kitchen cabinets vibrate.
+The signal is in me. Not the way it was in Renata — I was not the one who touched the structure in the ice, who served as the primary receiver. I am secondary. A relay. A smaller tower, picking up the broadcast from the larger one and retransmitting at reduced power. But it is in me. I feel it in my sleep, in my dreams, in the way my body has begun to hum at a frequency that makes the glass in the kitchen cabinets vibrate.
 
-My fingerprints now match the patterns Renata traced on her belly. My moles form constellations that do not correspond to any sky visible from Earth but which I nonetheless recognize, the way you recognize a word in a language you didn't know you spoke. My tongue has not changed — not yet — but my sense of taste has sharpened, deepened, and Renata was right: there is a flavor beneath flavor, a substrate beneath substance, and it tastes of time and iron and the appalling patience of something that set a process in motion before our species existed and is content to wait until we are gone.
+My fingerprints now match the patterns Renata traced on her belly. My moles form constellations that do not correspond to any sky visible from Earth but which I nonetheless recognize, the way you recognize a word in a language you didn't know you spoke. My tongue has not changed — not yet — but my sense of taste has sharpened, deepened, and Renata was right: there is a flavor beneath flavor, a substrate beneath substance, and it tastes of time and iron and the patience of something that set a process in motion before our species existed and is content to wait until we are gone.
 
 I have been watching the news. Three fishing villages in Patagonia evacuated after residents reported "mass hallucinations" and "structural anomalies in the local geography." A research vessel in the Southern Ocean went silent for forty-eight hours and, when contact was restored, the crew reported that the water around them had become "too deep" — not that they had drifted into deep water, but that the water itself had acquired additional depth, extra dimensions of downwardness that their instruments could not measure but their bodies could feel.
 
 Renata is out there somewhere. In the water, near the water, becoming the water. Becoming the tower. Becoming the broadcast.
 
-And I am here, in our kitchen, writing this inventory of a body returned and a body lost and a body that was never really a body at all but a message in a bottle, a letter written in the language of flesh, a love note from something so old and so large that it does not know it is writing.
+And I am here, in our kitchen, writing this inventory of a body returned and a body lost and a body that was never really a body at all but a message in a bottle, a letter written in the language of flesh, a love note from something so old and so vast that it does not know it is writing.
 
 ---
 
@@ -348,13 +348,13 @@ I need to stop. My hand is shaking. The coffee in Renata's mug — the growth on
 
 I should leave this house. I should drive west — away from the water, away from the signal, away from every trace of her. The institute would take me in, I think. Dr. Ashworth left a card. They would study me, the secondary receiver, the woman who was infected by love, and perhaps they would learn something, some way to filter the signal or dampen the broadcast or save whatever remains of the species' illusion that we are the point of the story.
 
-But I keep reaching for her mug. I keep pressing my hand flat against the table where the growth is spreading, and it is warm, so warm, the way she was warm, and in the warmth I can feel her. Not her consciousness, not her personality, not the woman who burned the bolognese and laughed about it and held me when my mother died and sang off-key in the shower. Something else. Something that used to be held within the shape of her and has now been released into a larger shape, a shape that includes the ice and the water and the deep rock and the iron core and the space between stars, a shape that is still expanding, still broadcasting, still singing the song that was old before the Earth cooled.
+But I keep reaching for her mug. I keep pressing my hand flat against the table where the growth is spreading, and it is warm, the way she was warm, and in the warmth I can feel her. Not her consciousness, not her personality, not the woman who burned the bolognese and laughed about it and held me when my mother died and sang off-key in the shower. Something that used to be held within the shape of her and has now been released into a larger shape, a shape that includes the ice and the water and the deep rock and the iron core and the space between stars, still expanding, still broadcasting, still singing the song that was old before the Earth cooled.
 
 I press my hand against the warmth and I feel her the way you feel gravity — automatically, comprehensively, without mercy.
 
-I am going to go east. I know this now. Not because the signal compels me — or not only because of that. Because she asked me to come with her, and I said no, and the saying of that no was the last fully human thing I did, and I find that I regret it. Not because humanity was not worth preserving. It was. It is. But because she is out there, and I am in here, and the distance between us has become the distance between frequencies, between architectures, between one way of being organized and another, and I would rather be reorganized beside her than remain intact alone.
+I am going to go east. I know this now. Not because the signal compels me — or not only because of that. Because she asked me to come with her, and I said no, and the saying of that no was the last fully human thing I did, and I find that I regret it. Not because humanity was not worth preserving. But because she is out there, and I am in here, and the distance between us has become the distance between frequencies, between one way of being organized and another, and I would rather be reorganized beside her than remain intact alone.
 
-This is the inventory. This is what was returned to me and what was taken. This is the record of a body that became a door and a love that became a frequency and a woman who is writing in a kitchen where the walls are beginning to hum.
+This is the inventory. This is what was returned to me and what was taken.
 
 Pilot is pressed against me. He is so warm. His eyes are deep.
 
