@@ -1,154 +1,104 @@
-# Story Plan: rom-romcom-henry-wodehouse
+# Story Plan: Space Opera — Chambers + Clarke
 
-## Metadata
-- **Genre**: Romance
-- **Subgenre**: Romantic Comedy
-- **Combination ID**: rom-romcom-henry-wodehouse
-- **Author A (style)**: Emily Henry
-- **Author B (style)**: P.G. Wodehouse
-- **Work X (structure)**: Beach Read
-- **Work Y (themes)**: Right Ho, Jeeves
-- **Target Word Count**: 3,400 words (range: 3,100-3,700)
-- **Reading Time**: ~14 minutes
+**Combination ID**: sf-opera-chambers-clarke
+**Genre**: Science Fiction
+**Subgenre**: Space Opera
+**Target Word Count**: 5,000 words (range: 4,700–5,300)
+**Reading Time**: ~20 minutes
 
 ---
 
 ## Writing Samples
 
-### Sample 1: Emily Henry (Author A) — Narrative voice, banter, vulnerability beneath humor
+### Sample 1: Arthur C. Clarke — *Rendezvous with Rama* (Work Y)
+**Origin**: Opening of Chapter 1, "Spaceguard"; collected Goodreads quotes
+**Why representative**: Clarke's signature approach — clean, precise, panoramic scope that renders humanity small against cosmic scale while maintaining matter-of-fact clarity. The mystery that deepens rather than resolves.
 
-**Source**: Author A — Emily Henry's witty, self-aware first-person narration
-**Origin**: Beach Read (Chapter 1, assorted passages), Book Lovers, People We Meet on Vacation, Funny Story
-**Why representative**: These passages demonstrate Henry's signature blend of self-deprecating humor, sharp banter that masks real feeling, internal monologue that processes pain through wry observation, and physical attraction described with comic indignation.
-
-**Opening voice — self-aware narration as emotional negotiation:**
-
-> I have a fatal flaw. I like to think we all do. Or at least that makes it easier for me when I'm writing — building my heroines and heroes up around this one self-sabotaging trait, hinging everything that happens to them on a specific characteristic: the thing they learned to do to protect themselves and can't let go of, even when it stops serving them.
+Opening passage:
+> Sooner or later, it was bound to happen. On June 30, 1908, Moscow escaped destruction by three hours and four thousand kilometers — a margin invisibly small by the standards of the universe. On February 12, 1947, another Russian city had a still narrower escape, when the second great meteorite of the twentieth century detonated less than four hundred kilometers from Vladivostok, with an explosion rivaling that of the newly invented uranium bomb.
 >
-> Maybe, for example, you didn't have much control over your life as a kid. So, to avoid disappointment, you learned never to ask yourself what you truly wanted. And it worked for a long time. Only now, upon realizing you didn't get what you didn't know you wanted, you're barreling down the highway in a midlife-crisis-mobile with a suitcase full of cash and a man named Stan in your trunk. Or maybe, like me, you're a hopeless romantic.
+> In those days there was nothing that men could do to protect themselves against the last random shots in the cosmic bombardment that had once scarred the face of the Moon. The meteorites of 1908 and 1947 had struck uninhabited wilderness; but by the end of the twenty-first century there was no region left on Earth that could be safely used for celestial target practice. The human race had spread from pole to pole.
 
-**Banter as flirtation — dialogue that's really a contest for emotional territory:**
+Key quotes capturing Clarke's voice:
+- "If such a thing had happened once, it must surely have happened many times in this galaxy of a hundred billion suns."
+- "He had a suspicion of plausible answers; they were so often wrong."
+- "But at least we have answered one ancient question. We are not alone. The stars will never again be the same to us."
+- "Absence of noise is not a natural condition; all human senses require some input."
+- "It seemed altogether unfair and unreasonable that the sky should be so hard."
+- "They would probably never even know that the human race existed."
+- "Training was one thing, reality another, and no one could be sure that the ancient human instincts of self-preservation would not take over in an emergency."
+- Final line: "And on far-off Earth, Dr. Carlisle Perera had as yet told no one how he had wakened from a restless sleep with the message from his subconscious still echoing in his brain: The Ramans do everything in threes."
 
-> "'I knew you in college, January.' 'That seems like the biggest in a series of vast exaggerations you've made tonight.' 'Fine, I knew of you.'"
+**Rama's structure**: A 54-km-long, 20-km-diameter cylinder enters the solar system. Inside: an artificial world with "cities" (London, Paris, Tokyo), a 10-km cylindrical sea, mysterious lighting trenches. At the south pole, a titanic dark cone surrounded by six smaller ones. Every discovery creates a new mystery. Danger comes not from hostility but from the crew's own lack of knowledge and the large-scale physics involved. The object departs without explanation.
 
-> "'Come on, Gus,' I bumped his arm. 'You can do it. Be adorable.' His eyes darted to where I'd bumped him, then back to my face, and he scowled. 'I think you misunderstood me. I said adorable.'"
-
-> "What's it like writing Hemingway circle-jerk fanfiction?"
-
-> "'You're as small as you are ridiculous.' 'So not very?'"
-
-**Physical attraction as comic grievance:**
-
-> "Speaking of fire, sometimes his eyes seemed to be reflecting it, even though there wasn't any. The car was nearly pitch-black for God's sake. His eyes should not be allowed, physically or morally, to glint like that. His pupils were disrespectful to the laws of nature."
-
-> "Sometimes I just missed _liking_ people."
-
-**Vulnerability under the humor — the moments where the armor drops:**
-
-> "Mom's first diagnosis taught me that love was an escapee rope, but it was her second diagnosis that taught me love could be a life vest when you were drowning."
-
-> "The hardest thing had turned out to be being angry with someone you couldn't fight it out with."
-
-> "He fit so perfectly in the love story I'd imagined for myself that I mistook him for the love of my life."
-
-> "I can miss my dad and hate him at the same time."
-
-From Funny Story:
-> "Miles smiles tentatively, an apology of a smile: *Should I be here right now?* *You should always be here*, my heart answers."
-
-> "This is how time works. The things you wait months for blink past, like the flash of a strobe, huge swaths lost in the dark beats between."
-
-**Craft notes for the writer**: Henry's first-person narration confides — the narrator talks to you like a smart friend processing something in real time. Internal monologue oscillates between acerbic humor and sudden unguarded feeling. Banter works because both parties are genuinely clever and neither will yield; the humor masks a real contest for emotional territory. Physical attraction is described with comic indignation. Dialogue tags are minimal; voice does the work. The key Henry move: a funny observation that catches in the throat because the reader realizes what emotion it's covering.
+**Clarke's technique (from criticism)**: Clarke forges "an uneasy alliance between pulp science fiction and the English literary tradition," drawing on Wells's matter-of-fact descriptions, Dunsany's poetic evocation, and Stapledon's vast temporal perspectives. His prose is "amazingly clear and functional" — never delving into pure robotic conveyance but only rarely making leaps into pure poetry. "The Star" is described as "compression, poetic in style, somber in tone, and totally devoid of action and dialogue." Clarke focuses on "scientific and technical detail" rather than characterization, but this is purposeful: wonder is earned through precision, not exclamation. Every Clarke story has a moment of revelation that almost always lands in the final paragraph.
 
 ---
 
-### Sample 2: P.G. Wodehouse (Author B) — Comic precision, sentences as surprise machines
+### Sample 2: Becky Chambers — *A Psalm for the Wild-Built* (Work X)
+**Origin**: Multiple passages from the Monk & Robot series
+**Why representative**: Chambers' hallmark — philosophical dialogue delivered through character warmth, where the small personal moment carries the weight of existential questions. The journey as self-discovery. Resolution through understanding rather than action.
 
-**Source**: Author B — Wodehouse's comic prose style
-**Origin**: Right Ho, Jeeves; The Code of the Woosters; Very Good, Jeeves!; The Mating Season; assorted works
-**Why representative**: These demonstrate Wodehouse's hallmark techniques — the elaborate simile that detonates at the end, the periodic sentence that delays its punchline, comic understatement, Bertie's confidently wrong narration, and the verbal performance of dialogue.
+Dex-Mosscap pronoun exchange:
+> "So, it is correct, then? You wouldn't prefer they or —"
+> "Oh, no, no, no. Those sorts of words are for people. Robots are not people. We're machines, and machines are objects. Objects are its."
+> "I'd say you're more than just an object," Dex said.
+> The robot looked a touch offended. "I would never call you just an animal, Sibling Dex." It turned its gaze to the road, head held high. "We don't have to fall into the same category to be of equal value."
 
-**The sentence as a perfectly engineered mechanism for surprise:**
+On perspective:
+> "It is difficult for anyone born and raised in human infrastructure to truly internalize the fact that your view of the world is backward."
 
-> "He had the look of one who had drunk the cup of life and found a dead beetle at the bottom."
+On the limits of understanding:
+> "How am I supposed to answer the question of what humans need if I can't even determine what one human needs?"
 
-> "She looked as if she had been poured into her clothes and had forgotten to say 'when.'"
+On the world they've built:
+> "The world we made out there, Mosscap — it's nothing like what your originals left. It's a good world, a beautiful world. It's not perfect, but we've fixed so much..."
 
-> "Unseen in the background, Fate was quietly slipping lead into the boxing-glove."
+From *A Prayer for the Crown-Shy*:
+> "You don't have to have a reason to be tired. You don't have to earn rest or comfort. You're allowed to just be."
 
-> "I could see that, if not actually disgruntled, he was far from being gruntled."
+> "I've never met any humans but you, and I know that doing so is rather the whole point of me being here, but now the enormity of it is hitting me, and — and — oh, I must seem so foolish."
 
-> "He groaned slightly and winced like Prometheus watching his vulture dropping in for lunch."
-
-> "He felt like a man who, chasing rainbows, has had one of them suddenly turn and bite him in the leg."
-
-> "A melancholy-looking man, he had the appearance of one who has searched for the leak in life's gas-pipe with a lighted candle."
-
-> "The voice of Love seemed to call to me, but it was a wrong number."
-
-> "Freddie experienced the sort of abysmal soul-sadness which afflicts one of Tolstoy's Russian peasants when, after trudging miles across the steppe to where his sweetheart lives, he is met at the door by her and told that she has married someone else."
-
-> "A sort of gulpy, gurgly, plobby, squishy, wofflesome sound, like a thousand eager men drinking soup in a foreign restaurant."
-
-> "And she's got brains enough for two, which is the exact quantity the girl who marries you will need."
-
-**Bertie Wooster's confidently wrong narration:**
-
-> "There are moments, Jeeves, when one asks oneself, 'Do trousers matter?'" / "'The mood will pass, sir.'"
-
-> "I'm not absolutely certain of the facts, but I rather fancy it's Shakespeare who says..."
-
-> "I loosed it down the hatch, and after undergoing the passing discomfort, unavoidable when you drink Jeeves's patented morning revivers, of having the top of the skull fly up to the ceiling and the eyes shoot out of their sockets and rebound from the opposite wall like racquet balls, felt better. It would have been overstating it to say that even now Bertram was back again in mid-season form, but I had at least slid into the convalescent class and was equal to a spot of conversation."
-
-**Physical description as comic mechanism:**
-
-> "A tall, drooping man, looking as if he had been stuffed in a hurry by an incompetent taxidermist."
-
-> "Bicky rocked, like a jelly in a high wind."
-
-> "I clutched at the brow. The mice in my interior had now got up an informal dance and were buck-and-winging all over the place like a bunch of Nijinskys."
-
-**Craft notes for the writer**: Wodehouse builds sentences the way a watchmaker builds mechanisms — every clause sets up the final detonation. His similes yoke the cosmic to the mundane. Narrators are supremely confident and consistently wrong. Dialogue is performance — slightly heightened register that stays just this side of absurd. Comedy arises from the gap between what characters believe about themselves and what the reader can see. Understatement and litotes create humor through rhetorical precision. The writer should channel this into: elaborate metaphors that land with a comic twist, a narrator whose self-assessment is hilariously off-base, and set-piece sequences where small misunderstandings escalate through perfect mechanical logic.
+**Psalm's structure**: Sibling Dex, a tea monk, abandons their urban monastery for the wilderness, driven by a dissatisfaction they cannot name. There they encounter Mosscap, a wild robot on a quest to answer "What do people need?" The story unfolds through their journey and conversation — philosophical exploration disguised as companionship. Resolution comes not through action but through the question being reframed: What do YOU need? The answer is not a thing but a way of being — to be present, to stop optimizing, to accept that desire without clear purpose is not a failure.
 
 ---
 
-### Sample 3: Beach Read (Work X) — Rivals-to-lovers via a bet/challenge
+### Sample 3: Becky Chambers — *The Long Way to a Small, Angry Planet* (Author A)
+**Origin**: Collected quotes and critical analysis of the Wayfarers series
+**Why representative**: Chambers' space opera voice — found family aboard a ship, warmth between species, existential weight carried lightly through interpersonal texture.
 
-**Source**: Work X — Beach Read structural architecture
-**Origin**: Beach Read by Emily Henry, plot summary and structural analysis
-**Why representative**: This captures the bones the story must echo — the bet as romantic catalyst, forced proximity, mutual transformation, and the reveal that punctures self-narratives.
+- "It's not the weight of the world that's gonna break you. It's the weight of the people you try to carry."
+- "All you can do, Rosemary — all any of us can do — is work to be something positive instead. That is a choice that every sapient must make every day of their lives."
+- "That was the thing about space: It forced you to confront yourself."
+- "The universe was a vast, cold place, and it didn't much care whether you were happy or not."
+- "There's plenty of room for people who can be kind."
+- "Harmagians had money. Aeluons had firepower. Aandrisks had diplomacy. Humans had arguments."
+- "If you strip away all the packaging, all the fluff, you still have two people, looking at each other, trying to figure the other one out."
+- "Sometimes, being a person is hard."
 
-**Structure to internalize**:
-
-Beach Read follows January Andrews (romance novelist) and Augustus Everett (literary fiction writer) — college rivals who end up as lake-house neighbors in Michigan. Both have writer's block tied to personal crises: January has discovered her late father's infidelity, shattering her belief in love stories. Gus carries trauma from an abusive father and failed marriage.
-
-The central catalyst is the bet: they challenge each other to write in the other's genre. January will attempt dark literary fiction; Gus will attempt a happy ending. This forces each into the other's worldview — January must confront darkness she's been avoiding, Gus must believe joy is possible.
-
-The "educational outings" structure provides weekly set-piece scenes where they guide each other through research, creating escalating intimacy. Physical attraction builds alongside genuine intellectual respect.
-
-The reveal: January discovers Gus's ex-wife and deeper emotional wounds. Gus discovers January's father's love was real even though imperfect. Both characters' self-narratives are punctured — January's "love is pure and simple" fantasy AND Gus's "happiness is naivete" cynicism are both wrong. The truth is messier and more beautiful.
-
-**Key structural elements to borrow**: (1) The bet/challenge that forces protagonists into each other's territory; (2) recurring set-piece meetings that escalate both comedy and intimacy; (3) the reveal that neither character's self-story is accurate; (4) professional/intellectual territory as metaphor for emotional territory.
+**Chambers' technique (from criticism)**: "Empathetic worldbuilding" — succeeding at worldbuilding not just on a logistical level but on an emotional level. Diversity treated as normal rather than remarkable. Multi-species crews where cultural difference is source of warmth and gentle comedy rather than conflict. The ship as domestic space — kitchen, bunks, shared meals. Prose characterized by "an enjoyable, laidback writing style, with attention to detail and a gift for crafting interesting characters with depth." Story told in multiple POVs without losing clarity in voice or thought. The set-pieces, when they come, are dramatic and reveal character depths. The vastness of space serves as backdrop that makes the intimate feel more precious.
 
 ---
 
-### Sample 4: Right Ho, Jeeves (Work Y) — Cascading catastrophe of good intentions
+### Sample 4: Arthur C. Clarke — *The Collected Stories* (Author B)
+**Origin**: "The Star," "The Sentinel," "If I Forget Thee, O Earth..."
+**Why representative**: Clarke's range — from devastating brevity to sublime wonder, always anchored in precise observation and the final-paragraph revelation.
 
-**Source**: Work Y — Right Ho, Jeeves thematic engine and plot mechanics
-**Origin**: Right Ho, Jeeves by P.G. Wodehouse, plot summary and structural analysis
-**Why representative**: This captures the thematic architecture — cascading good intentions creating catastrophe, ensemble subplots that collide, and the gap between self-image and reality as comic engine.
+From "The Star":
+> "It is three thousand light-years to the Vatican."
+> "The ancient mystery is solved at last. Yet, oh God, there were so many stars you could have used. What was the need to give these people to the fire, that the symbol of their passing might shine above Bethlehem?"
 
-**Themes and mechanics to internalize**:
+From "The Sentinel":
+> "So they left a sentinel, one of millions they have scattered throughout the Universe, watching over all worlds with the promise of life. It was a beacon that down the ages has been patiently signaling the fact that no one had discovered it."
 
-In Right Ho, Jeeves, Bertie Wooster decides he can outdo Jeeves at solving romantic problems. He attempts to help Gussie Fink-Nottle court Madeline Bassett and to reconcile his cousin Angela with Tuppy Glossop. Each intervention makes everything worse in ways that are both logical and catastrophic.
+From "If I Forget Thee, O Earth...":
+> "He was looking upon the funeral pyre of a world — upon the radioactive aftermath of Armageddon. Across a quarter of a million miles of space, the glow of dying atoms was still visible, a perennial reminder of the ruinous past."
 
-The ensemble mechanics: Bertie gives Gussie brandy for courage — Gussie gets spectacularly drunk, proposes to Madeline during a chaotic school prize-giving, then gets dumped. Heartbroken drunk Gussie proposes to Angela (to spite Madeline); Angela accepts (to spite Tuppy). Tuppy goes berserk chasing Gussie around the mansion. Aunt Dahlia's French chef Anatole threatens to resign. Every thread pulls on every other thread until the entire social fabric unravels.
+From "Rescue Party": Opens with the question "Who was to blame?" — immediately establishing dramatic context through interrogative framing.
 
-The comic engine: Bertie's self-image as a capable operator is hilariously divorced from reality. He genuinely believes he's helping. His narration brims with confidence even as every plan collapses. The distance between his self-assessment and actual results is the primary comedy source.
+From "The Sentinel": The narrator recalls "fixing breakfast when a glint of light in the mountains caught his eye; staring through a telescope so fascinated him that he burned the sausages." — wonder arriving through the mundane, the cosmic through the domestic.
 
-The resolution: Jeeves solves everything in the few hours Bertie is absent, demonstrating that the best thing the would-be helper can do is get out of the way. But Bertie learns nothing — essential to the comedy.
-
-**Key thematic elements to borrow**: (1) A protagonist who believes they're brilliant at relationships while being catastrophically bad at them; (2) multiple romantic subplots that collide because of the protagonist's meddling; (3) good intentions that mechanically produce the worst possible outcomes; (4) the gap between self-image and reality played for both comedy AND eventual emotional truth; (5) ensemble cast where every subplot pulls on the others.
+**Clarke's short fiction technique**: "The Star" demonstrates "compression, poetic in style, somber in tone, and totally devoid of action and dialogue." "A Meeting with Medusa" is "allusive and subtly patterned," balancing character study and adventure. The common thread: each story has a moment of revelation — the turn where comprehension shifts — that almost always lands in the final paragraph. Geographic and numeric specificity applied to cosmic distances creates a grounding effect that paradoxically enhances wonder.
 
 ---
 
@@ -156,141 +106,161 @@ The resolution: Jeeves solves everything in the few hours Bertie is absent, demo
 
 ### 1. Premise
 
-Juliet Fawley, an events coordinator who has never sustained a relationship past four months, runs a side hustle as a self-appointed "relationship fixer" for her friend group — dispensing advice, engineering meet-cutes, orchestrating grand gestures — with a success rate she generously estimates at "quite good" and everyone else knows is zero. When she's hired to plan the engagement party of two friends she secretly helped get together (and who are now, thanks to her latest advice, barely speaking), she must un-destroy their relationship while sharing every planning session with Elliot Yoon, a conflict mediator who finds her methods genuinely horrifying and whose calm, logical approach to human emotion makes her want to scream. The bet: she'll plan the party her way, he'll handle the couple his way, and whoever fixes the relationship first gets full creative control of the event.
+Forty years ago, a long-haul relay station detected a signal from an object drifting through interstellar space — a structure roughly two kilometers across, of no known material, emitting no energy, responding to no contact. It passed through the system and out the other side. Humanity catalogued it, named it the Alcyone Object, published papers, and moved on. Now a second one has appeared. This one is decelerating. It has parked itself in orbit around a gas giant at the edge of settled space. Naveli Kaur, chief systems technician on the aging supply vessel *Meridian*, is part of the small, underfunded crew dispatched not to make first contact — the governments and military fleets are months behind them — but to service the sensor array that monitors it. They are maintenance workers, not explorers. But the Object opens for them.
+
+The story asks: When the unknowable offers itself to the unremarkable, what do ordinary people owe the encounter?
 
 ### 2. Protagonist
 
-**Juliet Fawley**, 30, events coordinator at a mid-tier hotel in Portland, Oregon. She plans other people's happy endings for a living and moonlights as her friend group's unofficial relationship counselor. She once texted a friend's crush from the friend's phone — without permission — a sonnet she found online, which led to a spectacular public breakup at a farmers' market involving thrown peaches.
+**Naveli Kaur**, 41, chief systems technician aboard the supply vessel *Meridian*. Born on a generation station orbiting Titan. Has spent twenty-two years in deep-space logistics — the person who fixes atmospheric scrubbers, recalibrates water recyclers, patches hull breaches. Competent, unflappable, quietly proud of work most people consider invisible.
 
-- **What she WANTS**: To prove that her instincts about love are right — that romance requires boldness, big gestures, and a willingness to make a fool of yourself. To fix Priya and Dev's engagement before the party she's planning celebrates a love that may no longer exist.
-- **What she NEEDS**: To understand that fixing other people's relationships is easier than examining why she can't sustain her own — that her compulsive meddling is a way of experiencing intimacy at arm's length, participating in love stories without risking being the protagonist of one.
-- **Her flaw**: She genuinely believes she understands love better than the people actually in it. She's read every romance novel, seen every movie, and has internalized the grammar of courtship so thoroughly that she mistakes pattern recognition for emotional wisdom. She is Bertie Wooster with a Pinterest board — supremely confident, constitutionally incapable of recognizing that her grand plans are the problem. Her specific wound: her parents had an ugly divorce when she was twelve, and her mother told her, "Your father never once made a gesture that wasn't about himself." Juliet took this to mean gestures must be selfless and enormous. She never considered that her mother might have been wrong, or at least not entirely right.
+- **What she WANTS**: To do her job, rotate home, and finally take the extended leave she keeps deferring so she can visit her mother's memorial garden on the Titan station — a small terraced plot of frangipani and jasmine in artificial soil, which she hasn't seen in nine years.
+- **What she NEEDS**: To accept that her relentless competence is a form of hiding. She fixes systems because systems don't grieve, don't disappoint, don't die on you while you're in transit. Her mother died while Naveli was three weeks out on a cargo run. She rerouted to the next deployment rather than turning back for the memorial. She has not stopped moving since.
+- **Her flaw**: She believes that being useful and being present are the same thing. They are not. She has confused solving problems with being alive.
 
 ### 3. Structure
 
-**Opening image**: Juliet, in her car outside a restaurant, is coaching her friend Priya through an earpiece on how to respond to Dev's toast at their engagement dinner. ("No, don't touch his hand yet — wait for the callback to the story about the umbrella.") It's going beautifully until Juliet's increasingly specific stage directions cause Priya to knock over a candle, set a napkin on fire, and accidentally reveal the earpiece. Dev storms out. Juliet, watching through the restaurant window, murmurs into the dead earpiece: "That wasn't supposed to be the callback."
+**Opening image/scene**: Naveli is elbow-deep in a water recycler aboard the *Meridian*, explaining to the ship's cook — a cheerful exobiologist named Poul who somehow ended up running both the lab and the galley — why the mineral content keeps spiking. A warm, cluttered domestic scene aboard a battered working ship. The crew has been together for two years; they bicker like family. Mid-conversation, the proximity alert chimes. They're within sensor range of the Alcyone Object. Nobody runs to the viewport. They finish the recycler repair first. Then they look.
 
-**Inciting disruption**: The engagement party is in three weeks, it's already paid for, and now the engaged couple aren't speaking. Priya's mother, Mrs. Rajan, is Juliet's most important client. Juliet cannot let this party fail. But Priya, furious about the earpiece incident, has banned Juliet from all relationship advice and instead hired a professional — Elliot Yoon, a workplace conflict mediator who "also does personal." When Juliet and Elliot meet at the first planning session, their approaches collide immediately: she wants to engineer a grand romantic gesture to remind Priya and Dev why they fell in love; he wants to put them in a room and let them talk. The bet crystallizes: they'll each get a week to try their approach. If Juliet's method works, Elliot stays out of the party planning. If Elliot's works, Juliet agrees to stop giving unsolicited relationship advice — permanently.
+**The inciting disruption**: The sensor array they've come to service has detected something new. A geometric aperture has appeared on the Object's surface — perfectly circular, exactly large enough for a shuttle. It wasn't there when the last survey drone passed six months ago. Captain Osen contacts mission control. Response lag is eleven hours. Everyone aboard knows what mission control will say: wait. Everyone also knows the aperture might close before the response arrives.
 
-**Escalating middle**: Juliet's Week One gambit: she orchestrates a "spontaneous" re-creation of Priya and Dev's first date (same restaurant, same rain, same accidentally-ordered dish neither of them liked). It nearly works — until Dev discovers the setup and feels manipulated. Worse: Juliet has also been advising two other couples in the friend group (Ravi and Suki, who are fighting about a dog; Tomas and Bea, who can't agree on where to live), and her advice starts creating crossover chaos. She tells Ravi to "show up with the puppy as a surprise" — the puppy escapes and destroys Priya's mother's garden. She tells Tomas to write Bea a letter confessing his true feelings — Tomas accidentally sends it to the friend group chat. Each subplot collision worsens the one before it, Wodehouse-style.
+**The escalating middle**: The crew of six debates around the galley table — not a military briefing but a family argument over something reckless. Osen is cautious. The engineer, Dae, is flat-out terrified. Liat, the youngest crew member on her first deep-space rotation, is electrified. Poul cites exobiology protocols nobody has ever actually invoked. Naveli says little, then volunteers to pilot the approach shuttle. She takes Poul (exobiology expertise) and Liat (sensor technician). Inside the Object, they find not the sterile alien corridors of imagination but something closer to an ecology — vast internal spaces with structures that suggest biology without being biological, light sources with no visible origin, a scale that defies the external dimensions. Their instruments give contradictory readings. Naveli, whose entire identity is built on understanding systems, cannot understand this system.
 
-Meanwhile, Elliot's calm approach is slowly, infuriatingly working. He listens. He asks questions. He doesn't try to script anyone's feelings. And he keeps showing up at Juliet's planning sessions with observations that are both devastatingly correct and maddeningly gentle. ("You built a beautiful version of their first date. But it was your version. Have you ever asked them what they remember about it?") Juliet and Elliot's planning meetings — ostensibly about the party — become increasingly charged. They argue about love like it's a philosophical position. She accuses him of being so afraid of mess that he'll never experience real passion. He suggests that her addiction to grand gestures might be a way of avoiding the terrifying simplicity of just... telling someone how you feel.
+**The crisis point**: Deep inside, the shuttle's instruments begin mirroring the Object's internal patterns — screens displaying data that wasn't requested, atmospheric readings corresponding to no known biosphere. Liat goes very quiet, checking the same sensor reading over and over. Naveli recognizes the behavior because she does it herself — the retreat into procedure when the world becomes unintelligible. She must choose: retreat to safety (the competent choice, the choice that protects everyone) or go deeper into a vast central chamber where every instrument agrees something is present but none can describe it. She thinks of her mother's garden, the one she has never visited. She thinks of all the systems she has fixed instead of standing still in the places that mattered. She goes deeper.
 
-**Crisis point**: Everything collides at the "practice dinner" Juliet has organized (a dry run for the engagement party, because of course she has). Ravi shows up with the recaptured puppy. Tomas shows up with a guitar (Juliet's idea). Bea shows up with a real estate agent (Elliot's suggestion, which Juliet has misunderstood and amplified). The puppy knocks over Tomas's music stand. The real estate agent starts pitching Priya's mother on selling her house. Dev, who has quietly arrived hoping to reconcile with Priya, sees the chaos and assumes Juliet has orchestrated another scheme. He tells Priya: "This is what it'll always be. Your friends running our relationship." Priya looks at Juliet and says, "He's right."
-
-This is the moment Juliet's self-narrative shatters. She sees herself through their eyes: not a woman who understands love, but a woman so afraid of her own love life that she colonizes everyone else's. Elliot finds her outside, sitting on the back steps. For the first time, she doesn't perform. She doesn't have a plan. She says, "I think I might be the reason none of this works." He doesn't reassure her. He just sits down.
-
-**Ending**: Juliet goes to Priya alone. No script, no earpiece, no orchestrated moment. She apologizes — not the grand-gesture apology she would have planned a week ago, but a real one, clumsy and incomplete. She says she doesn't know how to fix it, which is the first honest thing she's said about relationships in years. Priya and Dev reconcile on their own terms, in their own time, before the party. The party happens — simpler than Juliet planned. She's given up control of the playlist, the seating chart, the toast structure. When Elliot asks her to dance, she doesn't choreograph the moment. She says yes. On the dance floor, she tells him she's terrible at this. "At dancing?" "At being in the story instead of writing it." He says, "I've noticed." But he doesn't let go of her hand. The final image: Juliet's phone buzzes. It's Ravi, asking for advice about proposing to Suki. Juliet stares at the text. Her thumbs hover. She locks the phone and puts it in her pocket. Then she unlocks it, types "Ask her what she wants," and puts it away for real.
+**The ending**: In the central chamber, they find — or experience — something. Not a message, not a welcome, not a warning. A presence that is aware of them the way an ocean is aware of a wave. Naveli's instruments go quiet. For the first time in nine years, she is in a place she cannot fix, cannot optimize, cannot leave better than she found it. She can only be there. The three of them sit in the shuttle, in silence, for what the ship's clock will later record as forty-one minutes. When they return to the *Meridian*, the aperture closes behind them. In the final scene, Naveli sends a message to the Titan station requesting leave. She doesn't mention the Object. She says: "I'd like to see the garden." A closing paragraph, Clarke's final-line technique: the *Meridian*'s sensor logs, when analyzed years later, will reveal a pattern no one noticed at the time — the Object's energy emissions, plotted across forty years and two encounters, describe a curve that matches no natural phenomenon. The curve is still incomplete.
 
 ### 4. Key Scenes
 
-- **The earpiece disaster** (opening): Establishes Juliet's modus operandi AND her blind spot in a single comic set-piece. The comedy comes from the precision of her stage directions collapsing in real time. Reveals character: she's not malicious, she's genuinely trying to help, which makes the catastrophe funnier and sadder.
+1. **The recycler repair** (opening): Naveli and Poul working side by side in the cramped mechanical bay, bantering about mineral content and Poul's latest failed attempt at growing herbs in the galley hydroponics. Establishes found-family warmth, Naveli's competence, the ship as lived-in domestic space. The proximity alert arrives mid-sentence — the Object first glimpsed not through dramatic revelation but through the interruption of an ordinary task. Does double duty: grounds the reader in character and introduces the cosmic.
 
-- **The first Juliet-Elliot planning session**: Their fundamental worldview clash plays out through party planning logistics. She wants a curated Spotify playlist that tells the story of Priya and Dev's relationship in chronological order. He wants to ask them what songs matter to them. The argument about the playlist is really an argument about whether love is something you design or something you discover. This is the scene where the reader realizes these two are going to fall for each other and both of them are going to be the last to know.
+2. **The galley-table debate**: All six crew arguing about whether to approach the aperture. Not a military briefing — more like a family dinner where someone has proposed something reckless. Each voice reveals character: Osen's caution born of experience, Dae's engineering-brain terror (she has run the numbers on what happens if the aperture closes with them inside), Liat's hunger to matter, Poul's fumbling invocation of protocols designed for situations nobody actually expected. Naveli listens, then volunteers with the quiet certainty of someone who has been making decisions in empty hallways for two decades.
 
-- **The re-created first date**: Juliet's most ambitious scheme, executed with maximum competence and minimum understanding. The scene should be genuinely touching for a moment — she's gotten the details perfect, the restaurant is beautiful, Priya tears up — before the whole thing detonates when Dev finds the planning binder Juliet accidentally left in the coat check. The comedy is in the gap between the perfection of the setup and the fundamental wrongness of the premise.
+3. **First interior passage**: Naveli pilots the shuttle through the aperture. Silence, then the geometry. Structures that suggest biology without being biological — ridged surfaces that could be coral or circuitry or neither, vast open spaces lit by no visible source, dimensions that should not fit inside the external hull. Liat's sensor readings contradict themselves. Poul whispers something about convergent evolution and then stops because the analogy collapses. Pure Clarke: the sublime encounter rendered through precise technical language that ultimately fails.
 
-- **The practice dinner catastrophe**: The Wodehouse collision scene where every subplot crashes into every other simultaneously. The puppy, the guitar, the real estate agent, the music stand — each element individually reasonable, together absolute pandemonium. But the real punch is emotional: Dev's quiet "This is what it'll always be" lands harder than any slapstick.
+4. **Naveli's confession to Liat**: When the shuttle instruments begin mirroring the Object's patterns and Liat retreats into repetitive procedure, Naveli sits beside her and talks — not about the Object but about her mother. The frangipani garden on Titan. How absurd it was to grow tropical flowers in artificial soil on a moon of Saturn. How her mother spent sixteen years getting the soil pH right. How Naveli was three weeks out when the message came and decided the next deployment needed her more than an empty garden did. This is the Chambers moment: the intimate confession inside the vast cosmic setting, the personal rendered as urgent as the alien.
 
-- **Juliet and Elliot on the back steps**: The scene where comedy gives way to genuine vulnerability. No banter, no performance. Henry's emotional register takes over — the moment when being funny stops working as armor. Elliot doesn't fix her. He just stays.
+5. **The central chamber / forty-one minutes of silence**: The presence. The story earns this scene through everything before it — we have spent 4,000 words watching Naveli fix things, avoid things, competently manage things, and now she is in a place where none of those skills apply. The wonder is not in what they find but in what it does to them: it makes them still. This scene should be written with restraint — no mystical prose, no transcendence language. Just three people in a shuttle, in silence, in a place that does not need them to understand it.
 
 ### 5. Emotional Trajectory
 
-The reader begins in **delight** — Juliet is charming, her schemes are elaborate and fun, her narration is sharp and self-aware enough that we're laughing with her even as we see the disasters approaching. The earpiece sequence should produce genuine laughs. By the middle, delight shifts to **comic dread mixed with anticipation** — we can see the collisions coming, we know the practice dinner will be a catastrophe, and we're watching Juliet fall for Elliot while absolutely refusing to acknowledge it. The crisis produces a sharp pivot to **recognition** — not pity, but the uncomfortable feeling of seeing someone realize a truth about themselves they've been elaborate about avoiding. The ending leaves the reader with **warm, complicated hope** — not the sugar-rush of a perfect resolution, but the feeling that Juliet has taken one genuine step toward being brave about her own heart, and that she'll probably relapse a little (the phone scene), and that this is how real change actually works. The final emotion is tenderness cut with a knowing laugh.
+**Beginning**: Comfortable competence. The reader settles into the warm, cluttered domesticity of the *Meridian* — a feeling like a favorite sweater, familiar and safe. The Object is out there, but these are maintenance workers. It's just the next job.
+
+**Middle (entering the Object)**: Growing unease braided with awe. As the crew enters, comfort gives way to the vertigo of genuine incomprehension. Not fear exactly — the Object is not hostile — but a deeper disorientation: confronting something that does not operate on any axis the characters understand. The reader should feel the instruments failing, the frameworks dissolving.
+
+**Crisis**: The ache of recognition. When Naveli tells Liat about her mother's garden, the reader understands what this story is actually about — not the alien artifact but the human inability to be present for the things that matter. The Object becomes a mirror: it is vast and unknowable, and so is grief.
+
+**End**: Earned stillness. Not triumph, not revelation, not closure. The Object remains unexplained. Naveli has not solved anything. But she has stopped moving long enough to feel the shape of what she's been avoiding. The final image — "I'd like to see the garden" — should land with the quiet force of a held breath released. Then the Clarke coda: the incomplete curve in the data, the pattern no one noticed, the suggestion that this was only the beginning of something humanity cannot yet see. The reader should feel both small and strangely hopeful.
 
 ### 6. Formula Integration
 
-**Emily Henry (Author A)** — Most visible in: Juliet's first-person narration throughout, but concentrated in the scenes where she describes Elliot with comic indignation. The way she catalogs his annoying qualities ("He listens like he's being paid for it, which, I suppose, he is") should carry Henry's signature blend of attraction-expressed-as-grievance. Her internal monologue when she realizes she's staring at his hands during a planning session. The banter between Juliet and Elliot should have Henry's rhythm: fast, competitive, each person trying to win while secretly hoping to be understood.
+**Author A — Becky Chambers** (empathetic worldbuilding, found family, warmth):
+*Most visible in*: The galley-table debate and the recycler-repair opening. The *Meridian* should feel lived-in the way Chambers' ships feel — the cook who is also a scientist, the herbs failing in the galley hydroponics, the crew arguing like family. Diversity treated as unremarkable: multi-ethnic crew, varied ages, Liat's first rotation alongside Naveli's twenty-second year. The warmth of the ship is the emotional anchor that makes the Object's alienness bearable. Also in Naveli's confession to Liat — the small personal moment inside the vast cosmic setting, warmth without naivety.
 
-**P.G. Wodehouse (Author B)** — Most visible in: The practice dinner catastrophe scene, which should be engineered with Wodehouse's mechanical precision — each element introduced innocently, each collision producing exactly the worst possible result, the whole sequence escalating with the beautiful inevitability of a Rube Goldberg machine. Also in Juliet's extended similes and metaphors ("He looked at me the way a very patient border collie looks at a sheep that has not only left the flock but has somehow gotten on a motorcycle") and her narration's supreme, unfounded confidence.
+**Author B — Arthur C. Clarke** (hard science, the sublime, clean prose):
+*Most visible in*: The interior of the Object. Clarke's technique of rendering the alien through precise technical language that ultimately fails — instruments giving contradictory readings, geometries that shouldn't fit inside the external dimensions, biological analogies that collapse under scrutiny. Also the closing paragraph: the incomplete curve in the energy data is pure Clarke — the mystery that deepens rather than resolves, the suggestion of a larger pattern humanity is only beginning to glimpse. The prose throughout should aspire to Clarke's clarity: declarative sentences, specific numbers, wonder earned through precision rather than exclamation.
 
-**Beach Read (Work X)** — Most visible in: The bet/challenge structure, the forced proximity of the planning sessions, and the moment of mutual transformation. The "educational outings" parallel is the planning sessions themselves — each one brings Juliet and Elliot closer while ostensibly being about Priya and Dev. The reveal that punctures both self-narratives: Juliet's revelation that she meddles to avoid vulnerability, and Elliot's eventual admission (implied, not stated) that his professional calm is its own kind of armor.
+**Work X — A Psalm for the Wild-Built** (journey as self-discovery, human/non-human conversation, "what do people need?"):
+*Most visible in*: Naveli's conversation with Liat in the depths of the Object, and the central chamber's forty-one minutes of silence. The journey into the Object mirrors Dex's journey into the wilderness — a movement away from function toward presence. The question the story asks — what do ordinary people owe the encounter with the unknowable? — reframes Chambers' "what do people need?" The answer, as in *Psalm*, is not a thing but a way of being: not to fix, but to witness. Not to be useful, but to be there.
 
-**Right Ho, Jeeves (Work Y)** — Most visible in: The cascading-catastrophe structure of the middle section, where every fix creates a new problem. Juliet is Bertie Wooster — certain she's helping, constitutionally unable to see that she IS the problem. The ensemble subplots (Ravi/Suki, Tomas/Bea) serve the same function as Wodehouse's subplot collisions — they're individually manageable, but Juliet's meddling links them into a single Gordian knot. The thematic engine: good intentions as the most destructive force in romance.
+**Work Y — Rendezvous with Rama** (alien artifact, exploration as metaphor, unsolved mystery):
+*Most visible in*: The Object itself — its impossible interior geometry, its indifference to human presence, its departure without explanation. The story borrows Rama's structure: approach, entry, exploration of increasingly strange interior spaces, encounter with something beyond comprehension, departure that leaves more questions than answers. The incomplete energy curve in the final paragraph directly echoes "The Ramans do everything in threes" — a pattern detected too late, suggesting a larger design humanity is only beginning to perceive. The Object's aperture opening for the *Meridian* — a maintenance vessel, not a science ship — echoes Rama's indifference to human categories of importance.
 
 ### 7. Title
 
-**Unsolicited**
+**Ordinary Maintenance at the Edge of the Knowable**
 
-This title works on multiple levels: Juliet's unsolicited advice, her unsolicited interventions in other people's love lives, and — by the end — the unsolicited feelings she discovers for Elliot, which she never planned for and can't orchestrate. It's punchy, slightly wry, and doesn't start with "The." It diverges from the existing title patterns (no gerunds, no possessives, no "of" constructions). Single-word titles have energy and confidence, which suits the comic register.
+This title captures the story's central tension: the collision between Naveli's identity as a maintenance worker (ordinary, functional, fixable) and the Object's radical unknowability. It echoes both Chambers' elevation of the mundane and Clarke's sublime. Its structure — [adjective] [noun] at [prepositional phrase] — is distinct from existing titles in the collection. It does not start with "The."
+
+Alternative titles considered:
+- *Aperture* — clean but too generic, no character
+- *Forty-One Minutes of Silence* — evocative but gives away the climactic scene
+- *What Systems Cannot Hold* — strong but leans too literary-fiction
+- *Naveli at the Threshold* — character-forward but lacks cosmic resonance
 
 ---
 
 ## Metadata for Content Generation
 
 ```yaml
-title: "Unsolicited"
-slug: "unsolicited"
-genre: "romance"
-subgenre: "romantic-comedy"
-authorA: "Emily Henry"
-authorB: "P.G. Wodehouse"
-workX: "Beach Read"
-workY: "Right Ho, Jeeves"
-targetWordCount: 3400
-readingTimeMinutes: 14
+title: "Ordinary Maintenance at the Edge of the Knowable"
+slug: "ordinary-maintenance-at-the-edge-of-the-knowable"
+genre: "science-fiction"
+subgenre: "space-opera"
+authorA: "Becky Chambers"
+authorB: "Arthur C. Clarke"
+workX: "A Psalm for the Wild-Built"
+workY: "Rendezvous with Rama"
+targetWordCount: 5000
+readingTimeMinutes: 20
 tags:
-  - romantic-comedy
-  - banter
-  - ensemble-cast
-  - meddling
-  - engagement-party
-  - forced-proximity
-  - rivals-to-lovers
-  - cascading-catastrophe
-  - portland
-  - good-intentions
+  - space-opera
+  - alien-artifact
+  - found-family
+  - sense-of-wonder
+  - first-contact
+  - grief
+  - maintenance-workers
+  - cosmic-scale
+  - unsolved-mystery
+  - self-discovery
 formulaSummary: >
-  Henry's witty, self-aware first-person narration and banter-as-emotional-negotiation
-  meet Wodehouse's mechanical comic precision and elaborately escalating set-pieces.
-  A compulsive relationship fixer wages a bet against a conflict mediator — her
-  grand gestures against his calm logic — while every subplot she's meddling in
-  collides into a single, glorious catastrophe that forces her to stop writing
-  everyone else's love story and risk starring in her own.
+  Chambers' empathetic found-family warmth aboard a battered supply ship meets
+  Clarke's clean, precise rendering of the truly alien. A maintenance technician
+  who has spent nine years avoiding grief enters an alien artifact that defies
+  every system she knows — and discovers that the only adequate response to
+  the unknowable is the one she has been refusing to give herself: to be
+  present, to be still, to stop fixing and start witnessing.
 synopsis: >
-  An events coordinator who moonlights as her friend group's relationship fixer
-  must save an engagement she accidentally sabotaged — while sharing every planning
-  session with a maddeningly calm conflict mediator who thinks her methods are insane.
-  As her cascading interventions in three couples' lives collide spectacularly, she
-  discovers that the hardest person to be honest with is herself.
+  When a second alien object appears in settled space — this time decelerating,
+  this time opening — the crew of a supply vessel arrives first. Naveli Kaur
+  did not come to make first contact. She came to service a sensor array. But
+  the Object opens for maintenance workers as readily as it would for admirals,
+  and inside, nothing works the way it should.
 combination:
   fromAuthorA:
-    - Witty, confiding first-person narration that processes attraction as comic grievance — cataloging Elliot's infuriating qualities while falling for every one of them
-    - Banter as emotional negotiation — fast, competitive dialogue where both parties are trying to win and secretly hoping to be understood
-    - The moment the humor drops and genuine vulnerability surfaces, unprotected by performance or self-deprecation
+    - Found-family warmth aboard the Meridian — the cook-scientist, the bickering galley debates, the crew as domestic unit where competence and care are indistinguishable
+    - Diversity treated as unremarkable — multi-ethnic crew, varied ages and experience levels, cultural differences as texture rather than conflict
+    - The small personal moment inside the vast cosmic setting — Naveli's confession about her mother's garden carrying the same weight as the alien encounter
   fromAuthorB:
-    - Elaborately engineered comic set-pieces where small misunderstandings escalate through perfect mechanical logic into spectacular catastrophe
-    - Extended similes and metaphors that yoke the cosmic to the mundane, building through multiple clauses to a surprise detonation
-    - A narrator whose supreme confidence in her own relationship expertise is hilariously and consistently divorced from the evidence
+    - Hard-science rendering of the alien — instruments giving contradictory readings, geometries that defy external dimensions, technical language that ultimately fails before the truly incomprehensible
+    - Clean, precise prose — declarative sentences, specific numbers, wonder earned through clarity rather than purple prose or exclamation
+    - The final-paragraph revelation — the incomplete energy curve suggesting a larger pattern, the mystery that deepens rather than resolves
   fromWorkX:
-    - Rivals-to-lovers structure via a bet/challenge that forces two people with opposing worldviews into forced proximity and gradual mutual transformation
-    - Recurring planning sessions that function like Beach Read's educational outings — ostensibly about someone else's relationship, actually building their own
-    - The reveal that punctures both characters' self-narratives — her belief that she understands love, his armor of professional detachment
+    - The journey as self-discovery — entering the Object mirrors Dex entering the wilderness, a movement away from function toward presence
+    - The philosophical conversation in extremis — Naveli and Liat's exchange in the Object's depths, working through existential questions in real time
+    - Resolution through understanding rather than action — the forty-one minutes of silence as the story's climax, being as more meaningful than doing
   fromWorkY:
-    - The catastrophe of good intentions — every attempt to fix someone else's relationship making it worse through irrefutable comic logic
-    - Ensemble cast with interconnected subplots that collide because the protagonist's meddling has linked them into a single chain reaction
-    - The gap between self-image and reality as comic engine — a protagonist who genuinely believes she's helping while being the source of every problem
+    - The alien artifact that defies comprehension — the Object's impossible interior, its indifference to human categories, its refusal to be a message or a welcome or a warning
+    - Exploration as metaphor for the limits of knowledge — every new discovery inside the Object creates a new mystery rather than answering the previous one
+    - The mystery that is never solved — the Object departs, the aperture closes, the energy curve remains incomplete, and the encounter changes the explorers more than it changes the explored
 ```
 
 ---
 
 ## Notes for the Writer Agent
 
-**Prose voice**: First person, present tense for immediacy. Juliet's narration should blend Henry's confiding warmth with Wodehouse's elaborate comic constructions. She is smart, self-aware about everything except herself, and her sentences should have both Henry's emotional precision and Wodehouse's mechanical surprise. She notices the right details but draws the wrong conclusions.
+**Prose voice**: Third person limited, Naveli's POV throughout. Present tense for immediacy. The voice should blend Chambers' warmth (in the ship scenes, crew interactions, and personal moments) with Clarke's precision (in the Object scenes, technical descriptions, and the closing paragraph). The transition between these registers should be gradual, not jarring — as the crew moves from ship to Object, the prose should cool and clarify, the sentences shortening, the imagery becoming more geometric.
 
-**Comedy mechanics**: This must be GENUINELY FUNNY. Not literary fiction with a smile, but a story that produces real laughs. The earpiece scene, the puppy escape, the group-chat letter, the practice dinner — these are comic set-pieces that need timing, escalation, and payoff. Wodehouse's method: introduce each element innocently, let the reader see the collision approaching, then execute it with worse-than-expected results. Henry's method: the funniest line is the one that, two seconds later, you realize was also the saddest.
-
-**Emotional stakes**: The comedy must coexist with real vulnerability. The back-steps scene (Juliet and Elliot after the catastrophe) is the emotional center of the story. It should earn its quiet by the volume of comedy that preceded it. Don't rush it. Let the silence do work.
+**Pacing guidance**:
+- ~1,200 words: Ship life, recycler repair, first glimpse of the Object (Chambers register)
+- ~800 words: The galley debate, the decision to enter (Chambers register with rising tension)
+- ~1,200 words: Entry and exploration of the Object's interior (transitioning to Clarke register)
+- ~800 words: Naveli's conversation with Liat about her mother (Chambers register inside Clarke's setting)
+- ~600 words: The central chamber, forty-one minutes of silence (minimal prose, maximum restraint)
+- ~400 words: Return, the message home, the Clarke coda (both registers fused)
 
 **What NOT to do**:
-- Don't make Juliet a screw-up played for pity. She's competent at everything except the one thing she thinks she's best at. That's the comedy.
-- Don't make Elliot boring or purely the "reasonable one." He should be funny in his own right — dry, unexpected, capable of surprising Juliet. His calm should occasionally crack and reveal something complicated underneath.
-- Don't resolve the Juliet-Elliot romance fully. The dance, the hand, the conversation — these are a beginning, not a happily-ever-after. The open thread is whether she'll actually let this become something real.
-- Don't let the ensemble subplots overwhelm. Ravi/Suki and Tomas/Bea exist to create collision material and to demonstrate Juliet's pattern. They should be sketched economically — a sentence or two of setup, then they pay off in the catastrophe scene.
-- Don't announce the theme. Juliet should never say "I've been meddling to avoid my own feelings." The reader should feel it; Juliet should almost-say it and then deflect into humor, except once, on the back steps, when she doesn't.
+- Do not make the Object hostile or threatening. It is indifferent. Indifference is more alien than malice.
+- Do not explain the Object. Do not have the characters decode a message or understand a purpose. The mystery must remain whole.
+- Do not give Naveli a dramatic breakdown about her mother. The grief surfaces through action and choice, not monologue. The most emotional moment should be delivered with understatement.
+- Do not write the forty-one minutes of silence as a mystical experience. No transcendence, no cosmic oneness, no "she understood everything." They sat in silence. That is enough.
+- Do not use: "delve," "tapestry," "testament," "myriad," "plethora," "at the end of the day," or any hollow superlatives.
+- Do not resolve every thread. The Object leaves. The curve is incomplete. Naveli requests leave but we don't see her arrive at the garden.
 
 **What TO do**:
-- Make the banter crackle. Juliet and Elliot arguing about playlists, seating charts, and toast structures should be as charged as any love scene. They're talking about party planning but they're really talking about what love is.
-- Use the Wodehouse escalation in the practice dinner. Each new arrival should make the reader's dread-delight increase. The reader should be thinking "no, no, no" while laughing.
-- Give Juliet at least one extended Wodehouse-style simile per major scene — the kind that builds through three clauses and lands on something unexpected.
-- The phone scene at the end must be precise. The impulse to meddle, the restraint, the relapse into one piece of genuinely good advice ("Ask her what she wants") — this is the thread left open. She's changing, but she's not changed.
+- Make the *Meridian* smell like something — recycled air and Poul's cooking and whatever cleaning agent Dae uses on the engine components. Sensory texture makes the ship real.
+- Give each crew member a distinct voice in the galley debate, even if some only get a line or two. Six people, six positions, quickly rendered.
+- Use specific numbers in the Object scenes. Clarke's trick: "sixteen kilometers" is more sublime than "vast." Precision deepens mystery.
+- Let the aperture be described simply. A circle. Perfectly geometric. That's more unsettling than any ornate description.
+- The closing paragraph should be tonally separate — a slight shift to omniscient perspective, the way Clarke steps back at the end of his stories to show the larger pattern the characters cannot see.
