@@ -10,8 +10,8 @@ workY: "2666"
 wordCount: 5239
 readingTimeMinutes: 21
 tags: [experimental, fragmented-narrative, body-horror, systemic-violence, found-document, sleep, border-city, clinical-horror]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: 2026-02-20
 status: published
 formulaSummary: "Butler's decomposing body-horror prose and Bolaño's clinical litany of atrocity converge in a sleep clinic's annual case index that becomes a catalog of disappeared women"
