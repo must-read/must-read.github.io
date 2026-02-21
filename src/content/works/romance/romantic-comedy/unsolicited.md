@@ -7,16 +7,16 @@ authorA: "Emily Henry"
 authorB: "P.G. Wodehouse"
 workX: "Beach Read"
 workY: "Right Ho, Jeeves"
-wordCount: 3659
-readingTimeMinutes: 15
+wordCount: 3393
+readingTimeMinutes: 14
 tags:
   - romantic-comedy
   - banter
   - ensemble-cast
   - meddling
   - rivals-to-lovers
-rating: 3.6
-ratingCount: 10
+rating: 0
+ratingCount: 0
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
@@ -85,7 +85,7 @@ The problem, which Priya informed me of with the icy calm of a woman who has rec
 
 His name was Elliot Yoon, and I hated him on sight.
 
-Not because he was bad-looking. That was actually the problem. He was good-looking in the worst possible way: the quiet, structural way, like a building you don't notice until someone points out the proportions and then you can't stop staring at the windows. He had the kind of calm that made you want to throw something at him just to see if he'd flinch. He did not flinch. He sat across from me at the first planning session in Priya's living room, legs crossed at the ankle, notebook open, pen held loosely — not like a weapon but like a medical instrument — and listened to me explain my vision for the party with an expression of polite, focused horror.
+Not because he was bad-looking. That was actually the problem. He was good-looking in the worst possible way: the quiet, structural way, like a building you don't notice until someone points out the proportions and then you can't stop staring at the windows. He had the kind of calm that made you want to throw something at him just to see if he'd flinch. He did not flinch. He had the demeanor of a man who had once found inner peace and had kept it on a very short leash ever since. He sat across from me at the first planning session in Priya's living room, legs crossed at the ankle, notebook open, pen held loosely — not like a weapon but like a medical instrument — and listened to me explain my vision for the party with an expression of polite, focused horror.
 
 "So," he said, when I'd finished outlining the curated Spotify playlist that would tell the story of Priya and Dev's relationship in chronological order, starting with the song that was playing in the coffee shop where they met and ending with their wedding song, which they hadn't chosen yet but which I had narrowed to three candidates, "you want to pre-script the entire emotional arc of their evening."
 
@@ -137,9 +137,9 @@ Then the coat check attendant called Dev over to collect a binder someone had le
 
 The binder was mine. It was labeled, in my handwriting, "OPERATION SECOND FIRST DATE — PRIYA/DEV — FULL RUN OF SHOW."
 
-I had left it in my coat. My coat was at the coat check. The coat check attendant, a young man whose helpful initiative would in other contexts be admirable, had assumed it belonged to someone at the table and had delivered it with the cheerful efficiency of a grenade courier.
+I had left it in my coat. My coat was at the coat check. The coat check attendant, a young man with the kind of helpful initiative that in other contexts would be admirable, had assumed it belonged to someone at the table and had delivered it with the cheerful efficiency of a grenade courier.
 
-Dev read the first page. His eyes moved from Priya to the mushroom risotto, which now sat between them like evidence in a trial neither of them had asked for.
+Dev read the first page. Looked at Priya. Looked at the mushroom risotto, which now sat between them like evidence in a trial neither of them had asked for.
 
 "The sprinkler," he said quietly. "The sprinkler was you."
 
@@ -161,11 +161,11 @@ These are the facts. I present them without editorializing, except to note that 
 
 Elliot's week went differently.
 
-He met with Priya and Dev separately. He asked them questions. He listened. He did not recreate anything or engineer spontaneous encounters in controlled environments. He just — sat there, with his notebook and his calm brown eyes and his maddeningly effective silence, and let people talk.
+He met with Priya and Dev separately. He asked them questions. He listened. He did not recreate anything or re-create anything or engineer spontaneous encounters in controlled environments. He just — sat there, with his notebook and his calm brown eyes and his maddeningly effective silence, and let people talk.
 
 "They're making progress," Priya told me, with the particular gentleness people use when they're trying not to rub something in. "He asked Dev what he actually felt about the earpiece thing, and Dev said he wasn't angry about the earpiece — he was angry because he thought the whole evening was fake, and he couldn't tell which parts of Priya were Priya and which parts were me."
 
-This landed in a place I wasn't ready for.
+This landed like a punch thrown by someone you weren't watching.
 
 "That's — " I started.
 
@@ -175,7 +175,7 @@ This landed in a place I wasn't ready for.
 
 "It was a good cry, Juliet."
 
-At our next planning session — the one where we were supposed to discuss centerpieces and I was supposed to concede defeat with grace — I sat across from Elliot and felt the specific frustration of having spent years perfecting an elaborate system only to watch someone achieve better results by doing almost nothing.
+At our next planning session — the one where we were supposed to discuss centerpieces and I was supposed to concede defeat with grace — I sat across from Elliot and felt the particular frustration of a woman who has spent years perfecting an elaborate system only to watch someone achieve better results by doing almost nothing.
 
 "You just *listen*," I said, like it was an accusation.
 
@@ -183,7 +183,7 @@ At our next planning session — the one where we were supposed to discuss cente
 
 "It is cheating. You're exploiting people's natural desire to be heard. It's — it's emotional judo. You're using their own feelings against them."
 
-"I'm using their feelings *for* them." He tilted his head, and the light from Priya's kitchen window did something to his jaw that I resented. "What do you use?"
+"I'm using their feelings *for* them." He tilted his head. The light from Priya's kitchen window caught the line of his jaw, which had no business being in that light at that angle at this point in the conversation. "What do you use?"
 
 "Pinterest boards. Curated playlists. Well-timed grand gestures."
 
@@ -199,9 +199,9 @@ At our next planning session — the one where we were supposed to discuss cente
 
 "Your mouth is doing a *specific* thing, and I need it to stop."
 
-He smiled. Not the polite professional version — the real one, slightly crooked, like a sentence that changes direction halfway through and lands somewhere better.
+He smiled. It was the first time I'd seen him smile — really smile, not the polite professional version — and it rearranged his whole face into something unguarded and slightly crooked, like a sentence that changes direction halfway through and lands somewhere better than where it was headed.
 
-*Shut up, Juliet.*
+*You're as small as you are ridiculous*, I thought, nonsensically, and then: *Shut up, Juliet.*
 
 ---
 
@@ -239,11 +239,11 @@ I heard the door open behind me. Elliot sat down. He didn't say anything. He jus
 
 "I think I might be the reason none of this works," I said.
 
-He didn't reassure me. He didn't argue. He didn't reach for his notebook. He just stayed there, close enough that I could feel the warmth of his shoulder not quite touching mine.
+He didn't reassure me. He didn't argue. He didn't reach for his notebook or offer a therapeutic framework. He just stayed there, on the step, close enough that I could feel the warmth of his shoulder not quite touching mine.
 
-"They love each other," I said. "Priya and Dev. They actually love each other, and I keep — " My throat did something inconvenient. "I keep getting in the way of it. I keep building the set and then wondering why everyone looks like they're acting."
+"They love each other," I said. "Priya and Dev. They actually love each other, and I keep — " My throat did something inconvenient. "I keep building sets for other people's love stories because I don't know how to be in one. I just know how they're supposed to look."
 
-Somewhere inside, Tomas was still playing. The puppy barked twice, the second bark trailing off into a whine.
+The yard was quiet. Somewhere inside, Tomas was still playing.
 
 "That's the first honest thing you've said about relationships since I met you," Elliot said.
 
@@ -253,13 +253,13 @@ Somewhere inside, Tomas was still playing. The puppy barked twice, the second ba
 
 "Same thing, coming from you."
 
-He almost smiled. Not quite. Then he said, "I don't actually think you're wrong about everything. The sprinkler was insane, but the impulse behind it — wanting to give people back a moment they lost — that's not nothing."
+He almost smiled. Not quite. "For what it's worth — you do understand love. You just understand it the way an architect understands a house. You know how it's supposed to be built. You're just not used to living in one."
 
-I didn't know what to do with that. I'd been ready for the diagnosis, not the partial acquittal.
+I didn't have a response for that. I didn't have a plan. I sat on the step and felt the cold concrete under my palms and the almost-warmth of his shoulder and the strange, terrifying lightness of not performing.
 
 ---
 
-I went to Priya the next morning. No earpiece. No binder. No run of show.
+I went to Priya the next morning. No earpiece. No binder. No run of show. No backup plan. I felt like a surgeon walking into the operating theater without instruments — just my hands and the unsettling conviction that my hands might be enough.
 
 "I'm sorry," I said. "Not — not the big version. I don't have a gesture for this. I just — I'm sorry I made your engagement about my idea of what your engagement should be. I'm sorry about the earpiece. And the sprinkler. And the binder. And, God, the practice dinner."
 
@@ -267,35 +267,25 @@ I went to Priya the next morning. No earpiece. No binder. No run of show.
 
 "I take partial credit for the napkin fire."
 
-She didn't laugh. She sort of exhaled through her nose in a way that was adjacent to laughing, and then she said, "I need you to not fix this one, Jules. I need you to just be my friend at my party and not have a plan."
+She laughed. It was a small laugh, but it was real, and when she hugged me it wasn't the kind of hug you give someone you've forgiven. It was the kind you give someone you're in the process of forgiving, which is messier and better.
 
-"I can do that."
+Priya and Dev worked it out themselves. Elliot helped — or rather, Elliot created conditions in which they could help themselves, which is a distinction I now understand and formerly would have found enraging. They talked. They cried. They decided the engagement party would still happen, but simpler. No chronological playlist. No reconstructed first dates. Just a room full of people who loved them and food from their favorite Laotian place and whatever songs came on when someone handed Dev the aux cord.
 
-"Can you, though?"
-
-That was fair. I didn't answer, because the honest answer was *probably not entirely*, and we both knew it.
-
-Priya and Dev worked it out themselves. Elliot helped — or rather, Elliot created conditions in which they could help themselves, which is a distinction I now understand and formerly would have found enraging. They talked. They decided the engagement party would still happen, but simpler. No chronological playlist. No reconstructed first dates. Just a room full of people who loved them and food from their favorite Laotian place and whatever songs came on when someone handed Dev the aux cord.
+The party was beautiful in the way that things are beautiful when you stop trying to make them beautiful.
 
 I gave up control of the seating chart. I gave up the toast structure. I gave up the curated lighting scheme. I kept the centerpieces, because I am a work in progress and not a miracle.
 
-When Elliot asked me to dance, I said yes before I could think of a reason to say something clever instead.
+When Elliot asked me to dance, I didn't choreograph the moment. I didn't have a plan for where to put my hands or when to look up or what to say when the song shifted to something slow. I just said yes.
 
-On the dance floor, surrounded by people who were having a good time without any assistance from me, I stepped on his foot almost immediately.
+On the dance floor, surrounded by people who were having a good time without any assistance from me, I told him, "I'm terrible at this."
 
-"Sorry."
+"At dancing?"
 
-"You're fine."
+"At being in the story instead of writing it."
 
-"I had a plan for this, you know. I had a whole — I was going to wait until the third song and then —"
+"I've noticed." His hand was on my back, warm and steady, and he didn't let go. "But you're here."
 
-"Juliet."
-
-"What."
-
-"You're dancing."
-
-I was. Badly, and without a plan, and his hand was on my back, and I didn't have a single note card telling me what to do next.
+"I'm here," I said, and it felt like the first true thing I'd said in a long time, and I didn't try to make it sound like anything other than what it was.
 
 ---
 
@@ -305,10 +295,10 @@ Ravi: *So Suki and I made up. I'm going to propose. How should I do it?*
 
 I stared at the screen. My thumbs hovered over the keyboard, and I could feel it — the whole machinery spinning up, the plans forming, the Pinterest boards assembling themselves in the background of my brain like a Broadway show going into tech rehearsal.
 
-I typed: *First of all, do NOT get a puppy. Second —*
+I locked the phone. Put it in my pocket.
 
-I deleted it. Typed: *Ask her what she wants.*
+Then I took it back out, because I am who I am, and typed: *Ask her what she wants.*
 
-Then, after a pause that cost me more than I'd like to admit, I typed: *But if you need help with the logistics, I know a place on Division Street that does a really nice corner booth.*
+I put the phone away for real this time. Across the room, Elliot was talking to Dev, and he must have felt me looking because he glanced over, and his expression was the one I'd spent three weeks trying not to see clearly: not a plan, not a performance, not a grand gesture, just a person looking at another person with the kind of uncomplicated warmth that no amount of staging could improve.
 
-Across the room, Elliot caught me looking at my phone and gave me the expression of a man who knows exactly what you're doing and has decided to find it endearing rather than pathological. I put the phone in my pocket. He went back to talking to Dev. The party continued without my supervision, which was either growth or exhaustion, and I wasn't sure it mattered which.
+I didn't look away. That was the gesture. The only one that mattered.
