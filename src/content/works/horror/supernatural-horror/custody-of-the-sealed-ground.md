@@ -7,8 +7,8 @@ authorA: "Stephen King"
 authorB: "M.R. James"
 workX: "'Salem's Lot"
 workY: "A Warning to the Curious"
-wordCount: 2743
-readingTimeMinutes: 11
+wordCount: 3154
+readingTimeMinutes: 13
 tags: ["small-town horror", "antiquarian dread", "guardians", "Maine gothic", "atmospheric horror"]
 rating: 0
 ratingCount: 0
@@ -39,13 +39,13 @@ combination:
     - "Landscape that watches — the bluffs, the dead pines, the eroding coast"
 ---
 
-The Dollar General had replaced the five-and-dime. That was the first thing Nell Britten noticed driving into Harrowfield — not that she'd expected the five-and-dime to still be there after forty-four years, but the Dollar General sign, sun-bleached to the color of old teeth, looked as if it had given up pretending to be new about a decade ago. The parking lot held two cars and a shopping cart lying on its side with one wheel still spinning, though there was no wind. Beyond it, Chandler Street climbed the hill toward the coast, and the houses along it had the drawn-in look of a town holding its breath.
+The Dollar General had replaced the five-and-dime. That was the first thing Nell Britten noticed driving into Harrowfield — not that she'd expected the five-and-dime to still be there after forty-four years, but the Dollar General sign, sun-bleached to the color of old teeth, looked as if it had given up pretending to be new about a decade ago. The parking lot held two cars and a shopping cart lying on its side. Beyond it, Chandler Street climbed the hill toward the coast, and the houses along it had the drawn-in look of a town holding its breath.
 
-She'd left Harrowfield in 1982. Eighteen years old, a Greyhound ticket, and a conviction that anyplace was better than a dying fishing village where the fog came in like a headache. Now she was sixty-two, widowed, retired from thirty-six years at the Sargasso County Library, and back because the Harrowfield Historical Society — which was, she suspected, three women and a filing cabinet — had asked her to process the papers of Aldous Fane. Fane had died alone in his house on Chandler Street three weeks ago. Heart, they said. He was seventy-nine and had spent the last decade becoming the kind of local historian nobody asks to become — the kind who just starts accumulating, and then one day there's a room full of papers and no one who can make sense of them except the dead man who created the mess.
+She'd left Harrowfield in 1982. Eighteen years old, a Greyhound ticket, and a conviction that anyplace was better than a dying fishing village where the fog came in like a headache. Now she was sixty-two, widowed, retired from thirty-six years at the Sargasso County Library, and back because the Harrowfield Historical Society — which was, she suspected, three women and a filing cabinet — had asked her to process the papers of Aldous Fane. Fane had died alone in his house on Chandler Street three weeks ago. Heart, they said. He was seventy-nine and had spent the last decade becoming the kind of local historian nobody asks to become — just starts accumulating, and then one day there's a room full of papers and no one who can make sense of them except the dead man who created the mess.
 
 Nell was good at making sense of other people's messes. It was, if she was being honest — and she tried to be honest, even when it cost something — the only thing she'd ever been really good at.
 
-Fane's house was a Cape Cod with a side porch and a roof that needed attention. She parked the Subaru Outback in the gravel drive and sat for a moment with the engine ticking. Gray October light. The maples along Chandler were turning, and the leaves had that papery sound in the wind that always made her think of pages being turned in an empty room. Down the street a dog barked once, then stopped, as if something had changed its mind for it.
+Fane's house was a Cape Cod with a side porch and a roof that needed attention. She parked the Subaru Outback in the gravel drive and sat for a moment with the engine ticking. Gray October light. The maples along Chandler were turning, and the leaves had that dry, clicking sound in the wind that always made her think of something counting. Down the street a dog barked once, then stopped.
 
 The front door was unlocked. The lights were on.
 
@@ -107,7 +107,7 @@ She bought a coffee from the Dunkin' across the street — one of those Dunkin' 
 
 Mrs. Pedersen on Maple Street didn't answer her door. Nell knocked three times. She could see the television's blue flicker through the curtains, could hear it murmuring — a game show, from the sound of it, applause rising and falling like surf — but nobody came. The mail slot was stuffed with three days of circulars.
 
-The Gagnon house had a kid's bicycle lying in the front yard, on its side, one wheel still turning slowly in the wind. No one had been to school in a week, the woman at the gas station mentioned while counting back Nell's change. "Flu going around," she said, but she said it the way Gerry Pottle had said *three* — with the sound of a door closing behind the word.
+The Gagnon house had a kid's bicycle lying in the front yard, on its side. No one had been to school in a week, the woman at the gas station mentioned while counting back Nell's change. "Flu going around," she said, but she said it the way Gerry Pottle had said *three* — with the sound of a door closing behind the word.
 
 ---
 
@@ -121,7 +121,7 @@ She turned. The yard was empty. Dead leaves scraped across the flagstones in a g
 
 But the motion-sensor light on the back porch — the one she'd tested that morning, walking in and out of its range to make sure it worked, because the bulb was new and she was systematic about these things — did not come on. Not that evening. Not that night. She checked it twice, opening the back door and waving her arm into the darkness. The sensor's red eye glowed steadily. It was receiving. It simply was not triggering.
 
-As though something was standing very still within its range. Something that had been still for a very long time and knew how to keep being still.
+As though something was standing very still within its range.
 
 She locked the door. She checked it. She checked it again. Then she pulled the curtains on every window in the house, working room by room, because she did not want to see any more reflections in dark glass. When she drew the curtains in the upstairs hallway, she glanced out at the backyard one last time. The motion-sensor light was still dark. The yard was empty, or appeared to be empty, which she was beginning to understand were not the same thing.
 
@@ -133,7 +133,7 @@ Fane had been writing about it for years. He'd traced the Harker line. He'd foun
 
 She found the panel in the basement the next morning. Behind Fane's workbench, a section of drywall that didn't match the rest — newer, the seams poorly taped. She pulled it away and found a cavity in the foundation wall, cool and dark, smelling of wet stone. Inside: a lead casket, roughly the size of a breadbox, wrapped in oilskin so old it crumbled where she touched it.
 
-The casket was sealed with lead that someone — Fane — had pried open with a flathead screwdriver she found on the floor beside it, still bearing the marks of his effort. Inside, a bundle of stained cloth around something she couldn't identify — something that felt, through the cloth, like stone but warmer than stone, as if it held a residual heat from being so long in the earth — and a folded document in a hand so old the ink had gone the brown of dried blood. She could read enough. The language was formal, covenantal, the kind of English that still had one foot in the pulpit. *Placed in trust and covenant... that which is sealed shall remain sealed... the Harker line shall keep custody of the ground and the ground shall keep custody of that which lies beneath... until the sea takes the land or the Lord takes the sea.*
+The casket was sealed with lead that someone — Fane — had pried open with a flathead screwdriver she found on the floor beside it, still bearing the marks of his effort. Inside, a bundle of stained cloth around something that felt, through the fabric, like stone but warmer than stone. And a folded document in a hand so old the ink had gone the brown of dried blood. The language was covenantal, one foot in the pulpit. *Placed in trust and covenant... the Harker line shall keep custody of the ground and the ground shall keep custody of that which lies beneath... until the sea takes the land or the Lord takes the sea.*
 
 The air that came out of the casket was wrong. Not the smell of rot — she knew rot; she'd cleaned out her parents' house after the pipes burst and the basement flooded, and that had been plenty. This was the opposite of rot. It was absence. The smell of air that had been sealed away from the living world so long it had forgotten what oxygen was for. Her throat closed. Her eyes watered. She gagged, steadied herself on the workbench, and wrapped the casket in a garbage bag from the roll under the sink.
 
@@ -147,9 +147,9 @@ The bluffs at night were nothing like the bluffs in daylight. The ocean worked a
 
 She found the excavation site by flashlight — a neat, careful hole, the edges squared with a trowel. Fane had done good work. Thorough work. The kind of work a man does when he doesn't understand that thoroughness is the thing that will kill him.
 
-She set the casket — still in its Hannaford bag, because that was what she had, and isn't that always the way, you go to face down three hundred years of supernatural covenant and you're carrying a grocery bag — in the bottom of the hole and began filling it in. The shovel bit into the loose earth. The flashlight, propped against a rock, threw her shadow long and crooked across the grass.
+She set the casket — still in its Hannaford bag — in the bottom of the hole and began filling it in. The shovel bit into the loose earth. The flashlight, propped against a rock, threw her shadow long and crooked across the grass.
 
-Behind her, footsteps in the dead leaves. A rhythm that was almost hers — almost synchronized with the fall of the shovel — but a half-beat off. Like an echo that had gotten ahead of the sound.
+Behind her, footsteps in the dead leaves. A rhythm synchronized with the fall of the shovel — but a half-beat off. Like an echo that had gotten ahead of the sound.
 
 She did not look back.
 
@@ -159,11 +159,11 @@ The footsteps had stopped.
 
 She turned.
 
-Among three dead pines, twenty yards up the ridge, a figure stood. She saw it clearly for the first and only time. A man in clothes from another century — not costume-old, just *wrong*-old, the way things look in photographs from before photography learned to lie. His face was not hostile. It was not anything. It was extinguished, like a lantern someone had blown out and never relit. He was not looking at her. He was looking past her, down the ridge, toward the town.
+Among three dead pines, twenty yards up the ridge, a figure stood. She saw it clearly for the first and only time. A man in clothes from another century — not costume-old, just *wrong*-old, the way things look in photographs from before photography learned to lie. His face was not hostile. It was extinguished — a lantern blown out and never relit. He was not looking at her. He was looking past her, down the ridge, toward the town.
 
 Then he was not there. Not gone — that implies movement, departure. He simply was not there, the way a sound is not there after it stops.
 
-Nell stood on the bluff for a long time. The ocean breathed below her. The wind moved through the dead pines with a sound like pages turning.
+Nell stood on the bluff for a long time. The ocean breathed below her.
 
 ---
 
@@ -174,7 +174,5 @@ She thought about the houses she'd passed on the way out. All dark. Every one of
 The school parking lot had been empty on a Wednesday morning.
 
 She put the car in drive. She pulled onto Route 1. She did not go back. She would never go back. And she knew — without evidence, without source documentation, without anything she could catalogue or cross-reference or file under the proper heading — that she had not been fast enough. That the town had emptied while she was sorting papers. That whatever Fane had let loose had moved through Harrowfield house by house, family by family, in the weeks before she arrived, and that the lights she'd found burning in his hallway had been left on by something that did not need light but remembered, dimly, that the living did.
-
-The sealed ground had taken back its own. The custody was restored.
 
 But Harrowfield was already gone.
