@@ -10,8 +10,8 @@ workY: "Jesus' Son"
 wordCount: 3280
 readingTimeMinutes: 13
 tags: [experimental, collage, multiple-voices, addiction, grace, punk-literature, body-horror, hallucinatory]
-rating: 0
-ratingCount: 0
+rating: 3.5
+ratingCount: 8
 publishedDate: 2026-02-20
 status: published
 formulaSummary: "Acker's punk collage provocation meets Johnson's hallucinatory grace in three incompatible accounts of a parking lot breakdown"
