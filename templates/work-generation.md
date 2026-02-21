@@ -24,6 +24,12 @@ You are writing an original short work of fiction for the Must Read platform. Yo
 **Work Y — {{workY}}**:
 {{fromWorkY}}
 
+### Writing Samples
+
+The story plan includes researched writing samples — actual prose from the source authors and works. **Read these samples carefully before writing.** Internalize the sentence rhythms, vocabulary, imagery patterns, and structural choices. Your prose should demonstrate that you have absorbed these voices, not just read their descriptions.
+
+{{writingSamples}}
+
 ### Story Plan
 
 {{storyPlan}}
