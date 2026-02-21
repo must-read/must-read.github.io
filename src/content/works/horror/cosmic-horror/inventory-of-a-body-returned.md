@@ -21,8 +21,8 @@ tags:
   - incomprehensible
 publishedDate: 2026-02-20
 status: "published"
-rating: 3.9
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 formulaSummary: >
   Lovecraft's retrospective narration and cosmic dread merge with Machado's formally inventive, body-centered horror. The expedition structure of At the Mountains of Madness — a journey toward knowledge that obliterates the discoverers' understanding of reality — is refracted through the lens of Her Body and Other Parties, where the female body becomes contested ground and the horror operates through intimacy, cataloguing, and domestic spaces rather than through distance alone.
 synopsis: >
