@@ -20,8 +20,8 @@ tags:
   - weird-fiction
   - grotesque-beauty
   - coming-of-age
-rating: 3.9
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"
 formulaSummary: >
