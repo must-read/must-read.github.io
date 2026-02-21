@@ -1,107 +1,160 @@
-# Story Plan: lf-ef-butler-bolano
+# Story Plan: lf-ss-acker-johnson
 
-**Genre**: Literary Fiction
-**Subgenre**: Epistolary / Fragmented Narrative
-**Combination ID**: lf-ef-butler-bolano
-**Target Word Count**: 5,200 words (range: 4,900-5,500)
-**Risk Card**: STORY-AS-DOCUMENT
-
----
-
-## 1. Title
-
-**Somnographic Index of Disappearances**
+## Combination
+- **Genre**: Literary Fiction
+- **Subgenre**: Slipstream / Surrealist Fiction
+- **Author A**: Kathy Acker (punk cut-up; plagiaristic collage; sexual frankness; jagged anti-beauty)
+- **Author B**: Denis Johnson (hallucinatory prose; fractured consciousness; grace amid degradation)
+- **Work X**: Blood and Guts in High School (collage anti-narrative; the body written upon; structural refusal)
+- **Work Y**: Jesus' Son (addiction as accidental pilgrimage; revelation arrived at sideways; miracles in wreckage)
+- **Risk Card**: MULTIPLE VOICES (2-3 narrators; truth in the gaps between versions)
+- **Target**: 3,800 words (range: 3,500-4,100)
 
 ---
 
-## 2. Premise
+## 1. Premise
 
-A municipal sleep research clinic in a sprawling border city has been compiling somnographic intake reports on women who come in complaining of identical nightmares -- women who, one by one, stop returning for follow-up appointments and are later reported missing. The document we are reading is the clinic's internal case log: a sequential index of patient intake records, sleep study transcriptions, clinician annotations, and administrative notes that begins with bureaucratic precision and gradually reveals that the clinic itself -- its instruments, its architecture, its attending physician -- may be complicit in whatever is consuming these women. The question the story asks: *What happens when the system designed to document harm becomes the instrument of harm, and the only record of the dead is the paperwork that helped kill them?*
-
----
-
-## 3. Protagonist
-
-**Dr. Lourdes Araya**, 41, somnologist and clinic director at the Centro de Estudios del Sueno in a fictionalized border city (unnamed but recognizable as a Juarez/Santa Teresa analogue). Chilean by birth, she relocated after a fellowship at a Mexico City hospital eleven years ago and never left. Divorced. Lives alone in an apartment above a pharmacy.
-
-- **What she WANTS**: To complete the clinic's annual case index — an internal document she compiles every December for the municipal health authority — and to explain, in clinical language, why seventeen of her patients failed to complete treatment. She wants the document to be clean. She wants the numbers to add up. She wants to believe the disappearances are coincidental.
-
-- **What she NEEDS**: To admit that she has been using the clinical document as a shield — that the act of recording and categorizing these women's sleep disorders has become a way of not seeing what is happening to them. She needs to stop indexing and start *witnessing*.
-
-- **Her flaw/blind spot**: Lourdes believes that rigorous documentation is a form of care. She has confused precision with compassion, the clinical record with the human record. She annotates, cross-references, and files while women vanish. Her training taught her that the body is legible if you have the right instruments. She cannot accept that some things happen beyond the reach of measurement — and that her instruments may be recording the *process* of these women's erasure rather than their illness.
-
-- **The specific wound**: When Lourdes was nineteen, her younger sister Pilar went missing for eleven days in Santiago during a period of political unrest. Pilar was found alive — disoriented, dehydrated, with no memory of where she had been. The family never discussed it. Lourdes became a sleep researcher because Pilar, after her return, could not sleep without screaming, and Lourdes wanted to believe that if she could read the architecture of sleep, she could find where her sister had gone. Pilar died of an overdose at twenty-six. Lourdes still has Pilar's last polysomnogram printout folded in her desk drawer.
+A woman named Dahl checks herself into a county detox facility after totaling her car in a strip mall parking lot. She keeps rewriting the story of what happened — who she was before, what the car hit, whether there was a child in the crosswalk or just a shopping cart — and the text itself cannot hold a stable version. Two other voices intrude: a male orderly named Fitz who is writing his own account of the woman in room 6 as a kind of love letter or confession, and a third voice that might be Dahl's earlier self, or might be someone she killed, or might be the story she stole from a book she found in the facility's waiting room. The question the story asks: **Can a person who has destroyed her own narrative coherence still arrive at something that functions like grace — and would she even recognize it?**
 
 ---
 
-## 4. Structure
+## 2. Protagonists
 
-The document is the **Annual Case Index, Centro de Estudios del Sueno, Year 11** — a clinical log compiled by Dr. Araya for the municipal health authority. It is organized as numbered patient entries (intake records with somnographic data, followed by clinician notes and administrative status updates). The document also includes inter-office memoranda, instrument calibration logs, and margin annotations that Lourdes adds in a different voice — more personal, increasingly unraveled.
+### Voice 1: Dahl, 31
 
-### Document Architecture and Narrative Arc
+A former adjunct writing instructor who lost the position, then the apartment, then the car, then any stable sense of what order those things happened in. Currently in a 72-hour detox hold after the parking lot incident. Amphetamines and alcohol, in combination, for two years.
 
-**Opening (Entries 1-3, ~800 words):** The document begins in perfect clinical form. Patient intake data, EEG readings, complaint descriptions. Bureaucratic headers, date stamps, referral codes. The first three patients are women aged 22-35 who present with a shared symptom: recurring nightmares involving a building they cannot describe upon waking, only that it had no windows and smelled of copper. Each entry concludes with a status line. The first: "Treatment ongoing." The second: "Patient failed to attend follow-up; file transferred to inactive." The third: "Patient failed to attend follow-up; missing persons report filed by family member (see Appendix C)." The clinical language is steady. Nothing is wrong yet. Everything is wrong.
+- **WANTS**: To write down what happened accurately — to produce one true account of the parking lot, the months before, the person she was. She keeps a composition notebook the facility gave her.
+- **NEEDS**: To stop rewriting herself. Her compulsion to revise is the same compulsion that drove the addiction — the belief that the next version will be the one that holds. She needs to let a version be ugly and final.
+- **FLAW**: She cannot stop performing her own damage. Every account of her wreckage is also a seduction — she's brilliant at making her destruction beautiful, which means she never has to actually look at it. The prose is always better than the life.
 
-**Inciting disruption (Entries 4-6, ~800 words):** The pattern becomes undeniable. Three more women, same dream architecture — the windowless building, the copper smell, the sense that the building is *inside them* or they are inside it. Lourdes's clinician notes grow longer. She begins cross-referencing the somnographic data and discovers that all six patients show an identical anomaly in their REM waveforms: a signature she has never seen in the literature, a frequency she privately names "the architecture frequency." An inter-office memo from the hospital administrator asks why so many patients have been transferred to inactive. Lourdes replies with a form letter. But in the margin of her own copy, she writes — in handwriting the document transcribes in italics — *Pilar had this same frequency. I checked. I went back and checked.*
+### Voice 2: Fitz, 44
 
-**Escalating middle (Entries 7-13, ~1,800 words):** The entries accelerate. Each woman is briefly individualized — name, age, occupation, family contact, presenting complaint — and then absorbed into the pattern. A factory worker, a university student, a mother of three, a waitress, a pharmacy clerk, a retired teacher, a girl who lied about her age to get into the study (she is fifteen, not eighteen). The somnographic data becomes stranger: the "architecture frequency" intensifies with each patient, and Lourdes notes that the clinic's own EEG equipment seems to be *generating* the frequency, not just recording it. She requests a calibration check. The calibration report comes back normal. She requests another. Normal. In the margins, her annotations become longer, more fragmented, slipping from clinical observation into something resembling dream transcription. She begins recording her own sleep. She finds the frequency in her own data. An administrative note from the health authority requests that Lourdes stop filing missing persons cross-references in her clinical index — it is "outside the scope of the document." She does not stop. She adds an appendix: a list of dates, names, last known addresses. A litany.
+Night orderly at the facility. Former paramedic who quit after a call he won't describe directly. Divorced. Lives in a studio apartment above a laundromat. Has worked at the facility for three years.
 
-**Crisis point (Entries 14-16, ~1,000 words):** Entry 14 is a woman named Renata Solis, 28, who tells Lourdes during intake that she has been dreaming of the clinic itself — that in her dream, the clinic has no exits, and the somnographic equipment is attached not to her scalp but growing *out of* it. Lourdes's clinical notes for this entry are three times longer than any previous entry. She describes Renata's dream in detail that exceeds what a patient interview could produce — as though Lourdes has *been in the dream with her*. Entry 15 is blank except for a patient number and the note: "Intake incomplete. Patient removed from waiting room by two men in unmarked vehicle. Attending physician [self] witnessed from window. Duration of observation: 14 seconds. No further action taken." Entry 16 is Lourdes's own somnographic record, submitted as a patient file. She has checked herself into her own study. Her intake form lists her presenting complaint as: "Recurring dream of compiling a document that never ends. The document is a building. The building has no windows. It smells of copper."
+- **WANTS**: To understand the woman in room 6, who he has been watching through the observation window. He writes about her in a pocket notebook — ostensibly part of his patient notes but actually something private, confessional, strange.
+- **NEEDS**: To stop using other people's crises as a substitute for facing his own. His tenderness toward patients is real but it's also a way of never being the one on the bed.
+- **FLAW**: He believes witnessing suffering is the same as experiencing it. He thinks his proximity to pain makes him holy. It doesn't.
 
-**Ending (Final section + administrative footer, ~800 words):** The index ends with an administrative section that should be routine: a summary table, aggregate statistics, a signature line. But the summary table lists seventeen patients, and the "status" column reads the same for all seventeen: "See Appendix C." Appendix C, which Lourdes was told to remove, is still there. It has grown. It now contains not just names and dates but fragments of the somnographic transcriptions — the dreams themselves, stitched together into a single continuous narrative that reads like a collective account of one enormous, shared experience of being taken into a building that is also a body that is also a city that is also a document. The final entry in Appendix C is undated and unsigned. It describes a woman compiling an index. The index is a building. She cannot find the exit. She can smell copper. The document's last line is the standard administrative footer: *"This index has been compiled in accordance with Municipal Health Authority Directive 11-47 and is certified as complete."* Below it, in what the transcription marks as handwriting: *It is not complete. None of them came back. I am the eighteenth.*
+### Voice 3: "She" / The Stolen Voice
 
----
+This voice has no name. It speaks in third person about a woman who may or may not be Dahl. The prose is colder, more clinical, sexually frank, and sometimes shifts without warning into appropriated text — fragments that sound like they come from a medical intake form, a romance novel, a driver's ed manual, a letter never sent. This voice might be:
+- Dahl's earlier self, before the collapse
+- A character from a book Dahl read and can no longer distinguish from memory
+- The version of events that's actually true, stripped of Dahl's self-mythologizing
+- Someone Dahl hurt who is now narrating her from the outside
 
-## 5. Key Scenes
+The story never clarifies which. The ambiguity is the point.
 
-- **Entry 3's status line** — The first mention of a missing persons report, buried in routine administrative language. This is where the reader understands what kind of document they are holding. It must be delivered with absolute clinical flatness — no emphasis, no alarm — because that flatness IS the horror. Reveals Lourdes's capacity to file atrocity under the correct heading.
-
-- **The margin note about Pilar** — The first crack in the clinical voice. Lourdes's handwritten annotation connecting her sister's old polysomnogram to the current patients' anomalous frequency. This is where the personal breaks through the institutional, where the reader understands that Lourdes has been carrying a private reason for this work all along — and that the private reason has made her both more perceptive and more complicit.
-
-- **Entry 10: the fifteen-year-old** — The girl who lied about her age. Lourdes knows she is underage and admits her to the study anyway, rationalizing that the data is important. This is the scene where Lourdes's flaw becomes action — where documentation-as-care becomes documentation-as-complicity. The girl does not return for follow-up. Her entry is the shortest in the index.
-
-- **Entry 15: the abduction from the waiting room** — Fourteen seconds. Lourdes watches from the window. The clinical note is devastatingly minimal. "No further action taken." Four words that contain Lourdes's entire moral failure — and her entire human helplessness. This scene must do the work of showing that the system is not abstract; it has men in vehicles, it operates in daylight, and the people who witness it write notes and continue.
-
-- **Entry 16: Lourdes checks herself in** — The moment the documenter becomes the documented. The clinician becomes the patient. The index swallows its author. This is where Lourdes finally acts — not by fighting the system but by submitting herself to it, by refusing to remain on the observing side of the clipboard. It is both surrender and the only honest thing she has done in the entire document.
-
----
-
-## 6. The Emotional Trajectory
-
-**Beginning**: The reader feels the low-grade unease of bureaucratic language applied to human bodies. Clinical competence. Trust in the document. A faint hum of wrongness beneath the procedural surface — like reading a coroner's report and realizing midway that you are reading many coroner's reports.
-
-**Middle**: Dread accumulates. The repetition of the entries — each woman individualized just enough to be a person, then absorbed into the pattern — creates the same suffocating rhythm as Bolano's "Part About the Crimes." The reader begins to feel the weight of enumeration. The margin notes provide brief oxygen — Lourdes is human, Lourdes is noticing — but they also deepen the horror because noticing is not the same as stopping.
-
-**End**: The reader should feel the floor give way. The document has consumed its author. The clinical frame, which promised legibility and order, has become the architecture of the nightmare it was meant to record. The final administrative footer — "certified as complete" — should land like a door closing. And Lourdes's last handwritten line should feel like a fist against that door. The reader puts this down feeling that systems of documentation are not neutral; that paperwork can be a grave; and that the only honest response to an impossible catalog of harm may be to add yourself to it.
+- **WANTS**: To be heard. To exist outside Dahl's revisions.
+- **NEEDS**: Nothing. This voice might not be a person.
+- **FLAW**: If this is a person, her flaw is that she has been reduced to text. If this is text, it has no flaw. This is the problem.
 
 ---
 
-## 7. Formula Integration
+## 3. Structure
 
-### Blake Butler (Author A) — Most visible in: Entries 7-13, the escalating middle
-The somnographic data descriptions should channel Butler's incantatory body-horror prose. As the entries accumulate, the clinical language describing the patients' EEG readings should begin to *sound* like the dreams it is recording — sentences that dissolve and reform, the body as architecture, flesh and instrument blurring. The "architecture frequency" is pure Butler: a measurable phenomenon that is also a metaphysical condition, the sleeping body as a building you cannot leave. Paragraphs in this section should feel like they are decomposing on the page — the clinical format holding its shape while the content inside it liquefies.
+### Opening Image
+Dahl's voice. She is writing in the composition notebook. The first paragraph appears to be a straightforward account of the parking lot incident — time, place, substance, impact — but by the third sentence, it has shifted tense, then person, then the parking lot has become a different parking lot from a different year. The notebook itself is unreliable. She crosses things out. The crossed-out things might be truer than what replaces them.
 
-### Roberto Bolano (Author B) — Most visible in: The full litany of entries (but especially the aggregate rhythm of Entries 4-13)
-The entire document structure channels Bolano's "Part About the Crimes" — the catalog of disappeared women, each briefly individualized (name, age, occupation, last seen), each absorbed into a pattern too large to comprehend. The clinical distance is Bolano's clinical distance: atrocity reported with the flatness of a police blotter. The digressions — Lourdes's margin notes about Pilar, the calibration reports, the administrative memos — are Bolano's digressions: seemingly tangential material that becomes the emotional spine. The city (unnamed, border, desert-adjacent) is Bolano's Santa Teresa: a place where women disappear into a system that records their disappearance and does nothing else.
+First line should be something like a clinical statement that immediately destabilizes: a time, a date, a fact — then the fact rots.
 
-### 300,000,000 / Work X — Most visible in: Entry 16 (Lourdes's self-admission) and Appendix C
-Butler's novel treats the sleeping body as a nation, as architecture. Entry 16, where Lourdes submits herself as a patient and describes her dream of compiling a document that is also a building, channels this directly. The numbered-section structure of the index mirrors 300,000,000's numbered entries — an impossible catalog that accumulates dread without traditional narrative progression. Appendix C, where the dreams are stitched into a single continuous narrative, should read like a passage from 300,000,000: the dissolution of boundary between self and sleep, between documenter and documented, between the body and the building it inhabits.
+### The Inciting Disruption
+Dahl finds a paperback novel in the facility's common room — water-damaged, missing its cover and first thirty pages. She starts reading it and realizes (or convinces herself) that the novel is about her. Not metaphorically. The character has her name, or a name close enough. The events are wrong but the feelings are right. She begins copying passages from the book into her notebook, interleaving them with her own account. She can no longer tell which sentences are hers.
 
-### 2666 / Work Y — Most visible in: Entry 15 (the abduction witnessed from the window) and the administrative friction
-2666's "Part About the Crimes" is the DNA of this entire document — the litany of the dead as both memorial and indictment. But Entry 15 is where 2666's specific horror concentrates: the atrocity witnessed in daylight, reported in minimal language, followed by "no further action taken." The administrative notes — the health authority telling Lourdes to stop cross-referencing missing persons, the pressure to keep the document within its "scope" — channel 2666's vast invisible systems of cruelty: the institutions that are not exactly causing the violence but are maintaining the conditions under which it continues.
+This is where Voice 3 enters the text. It may be the book. It may be Dahl ventriloquizing. It may be neither.
+
+### The Escalating Middle
+Three movements, intercut:
+
+**Movement A (Dahl's notebook):** Her attempts to write the parking lot become increasingly fractured. Each version reveals different details — in one, she was alone; in another, there was a passenger; in another, she wasn't driving at all. The versions don't converge. They proliferate. She starts writing about her body — what the amphetamines did to her teeth, her skin, her ability to orgasm. The prose gets graphic, Acker-raw, sentences that are half confession and half assault on the reader. She writes about her father. Then crosses out the father and writes a different father. Then crosses out fathers entirely.
+
+**Movement B (Fitz's notes):** His observations of the woman in room 6 are initially clinical — sleep patterns, food intake, behavior during group. But they slide. He starts describing the way she holds the pen, the sound she makes when she sleeps, a dream he had about her that he writes down and then attributes to a "patient." He describes a moment when he brought her a cup of water at 3 AM and she looked at him and said something he couldn't hear through the glass. He is falling into something — not love exactly, but the addiction of witnessing. He describes the paramedic call he never talks about: a woman in a car, a parking lot, but the details are wrong for Dahl's story. Or right. The overlap is nauseating.
+
+**Movement C (Voice 3):** Fragments. A woman drives through a city at night. She is looking for something. The prose is stripped, affectless, then suddenly pornographic, then suddenly quoting what sounds like a textbook on trauma bonding. A list appears — items found in a car after an accident. A paragraph about the mechanics of a human body hitting a windshield, written with the precision of an autopsy report and the tenderness of a love letter. This voice knows things about Dahl that Dahl hasn't written yet.
+
+### The Crisis Point
+Fitz enters Dahl's room during his night shift. She is awake, writing. He reads over her shoulder — a violation he knows is a violation. What he reads does not match any version of events he has been told. It matches his own paramedic call. The woman in the car. The parking lot. He backs out of the room without speaking.
+
+Dahl, in her notebook, writes: "The orderly came in. He read what I wrote. He recognized it. This is how I know it's true — when someone else's face breaks."
+
+But we don't know if Fitz actually entered the room. His own account of that night describes standing outside the door and never opening it.
+
+### The Ending
+The three voices do not converge. Instead:
+
+Dahl writes one final version of the parking lot. This version is simple, plain, short. No performance. No beauty. It is probably the truest version — the one where she was alone, where she hit nothing, where the car stopped in an empty lot and she sat there for two hours before calling 911 on herself. The damage was all internal. There was no child, no shopping cart, no passenger. Just a woman in a car who had stopped being able to drive.
+
+Fitz, in his last entry, describes finding Dahl's notebook on the bed after she is discharged. He reads it. He puts it in his locker. He does not return it. He writes: "I will keep this. I don't know why. I think she left it on purpose. I think she wanted someone to hold the versions she couldn't."
+
+Voice 3 delivers the final paragraph: a fragment about a woman walking out of a building into sunlight, and the sunlight is wrong — too bright, too thick, like a liquid. The sentence structure breaks down. The paragraph does not end so much as stop, mid-phrase, as if the book it was stolen from had its last pages torn out.
+
+The story ends without ending. Grace is not achieved — but something was witnessed, and something was left behind for someone else to carry. That might be enough. The text doesn't say. The text can't say. The text is over.
 
 ---
 
-## 8. Technical Notes for the Writer
+## 4. Key Scenes
 
-- **Document form**: The piece should look and feel like a clinical document — use entry headers, patient numbers, date stamps, status lines, memo formatting. But the form should degrade. Early entries are clean. Later entries bleed. The margin annotations (rendered in italics) are where Lourdes's human voice lives.
+- **The parking lot variations**: Dahl writes three incompatible versions of the crash, each revealing different wounds. The reader must hold all three as simultaneously possible. This is the story's engine — the inability to produce a single truth. Each version is 200-400 words, and they should feel like they could each be the real one.
 
-- **Names**: Every patient should be named. Full name, age, occupation. This is Bolano's method — individuation within enumeration. The names make it impossible to treat the catalog as abstraction. Do NOT use "Marcus" or "Chen" as names. Draw from Latin American naming conventions appropriate to the border-city setting.
+- **Fitz at the observation window, 3 AM**: He watches Dahl sleep and writes about it. The prose slips from clinical to devotional without him noticing. He describes the way the fluorescent light makes her look dead, then corrects himself — "not dead, blessed," then crosses that out too. This is where Johnson's spiritual yearning meets Acker's refusal of sentimentality.
 
-- **The "architecture frequency"**: This is the story's central metaphor and should remain ambiguous. Is it a real neurological phenomenon? A malfunction in the equipment? Something supernatural? The document's clinical frame means Lourdes *cannot* speculate beyond her data — but the data itself becomes impossible, and the clinical frame's inability to contain what it is measuring IS the horror.
+- **The stolen book**: Dahl reads passages from the coverless novel aloud in group therapy. The other patients are confused. The counselor asks her to stop. She doesn't stop. The passages are about a woman who sounds like her but isn't, doing things she did but differently. The scene should feel like a séance — she is channeling a text that is channeling her.
 
-- **Pacing**: The first three entries should be brisk and procedural — establishing the document's voice and lulling the reader into the rhythm. The middle entries should slow down slightly as the annotations grow. The final three entries should feel like falling. The administrative footer should be one clean sentence after a long descent.
+- **Fitz's paramedic memory**: Told in fragments across his sections, never as a complete narrative. A woman. A parking lot. A windshield. The way blood looks on asphalt under sodium lights. He never says what happened to the woman. The reader assembles it from shards. The overlap with Dahl's story is deliberate and never explained.
 
-- **Tone**: Start at absolute clinical zero. End somewhere between prayer and autopsy. The transition should feel inevitable in retrospect and impossible to pinpoint in the reading.
+- **The discharge**: Dahl leaves the facility. The scene is told by all three voices, each version incompatible. In one, Fitz watches her go. In another, he's not on shift. In Voice 3, the woman walks out into light that behaves like water. No version is privileged. The reader chooses.
 
-- **Word count distribution**: ~800 words for opening entries (1-3), ~800 for the inciting section (4-6), ~1,800 for the accumulating middle (7-13), ~1,000 for the crisis (14-16), ~800 for the ending/appendix/footer. Total ~5,200.
+---
+
+## 5. The Emotional Trajectory
+
+The reader begins in **disorientation** — the text refuses to settle, the narrator is unreliable, the form is aggressive. This should feel like vertigo, like the floor of the story is not where you expected it.
+
+Through the middle, disorientation gives way to **recognition** — the reader starts to understand that the instability IS the content. Dahl's inability to write a stable account of herself is the wound, not a symptom of the wound. The reader begins to feel **implicated** — holding multiple versions of a person, deciding which one is real, is something readers do with every narrative. The text is making you aware of that.
+
+At the crisis, the reader should feel **invaded** — the overlapping details between Fitz's memory and Dahl's account create a nauseating vertigo, a sense that stories are parasitic, that one person's trauma can migrate into another person's body.
+
+The ending should leave the reader feeling **hollowed and strangely held**. Not catharsis. Not devastation. Something more like the feeling after a fever breaks — you're still weak, the room still smells like sickness, but light is coming through the window and it looks new. The grace is not earned. It shows up anyway, in the wrong form, at the wrong time, and nobody in the story is equipped to receive it. The reader might be.
+
+---
+
+## 6. Formula Integration
+
+### Author A — Kathy Acker
+**Most visible in**: Dahl's notebook entries, particularly the section where she writes about her body. The prose should be Acker-jagged: short declarative sentences, then a long obscene run-on, then a fragment of tenderness. Sexual content as political act — Dahl writing about what amphetamines did to her sexuality is not titillation, it's reclamation of a body that substances colonized. She should appropriate text — from the stolen novel, from medical forms, from a letter her father may or may not have written — and weave it into her own account without quotation marks, without attribution, until the reader cannot tell what's "hers." The narrator's identity should be unstable: in one passage, Dahl says "I," then shifts to "she," then to "you," within the same paragraph, as if even the pronoun can't hold.
+
+### Author B — Denis Johnson
+**Most visible in**: Fitz's sections. His prose should have Johnson's spare, weird, unpredictable rhythm — a mind that notices the wrong details. He describes a fluorescent light's hum but not a patient's scream. He describes the way a mop handle feels in his hand at 4 AM with the precision most writers reserve for sunsets. The spiritual yearning should be present but never named — Fitz doesn't know he's looking for grace, he thinks he's just doing his job. The moment where he watches Dahl through the observation window should have the quality of Johnson's hospital scenes in "Emergency" — luminous, wrong, holy in a way that embarrasses everyone.
+
+### Work X — Blood and Guts in High School
+**Most visible in**: The overall structure. The story should feel like collage, not narrative. Paragraphs that begin in one voice and end in another. Sections that look like they belong to different stories. The text should include non-prose elements: a list of items found in Dahl's car. A fragment that reads like a dream transcription. A paragraph formatted like a medical intake form. The anti-narrative accumulation — the story doesn't progress toward resolution, it accretes. Each section adds material but doesn't advance a plot. The stolen book is a direct echo of Acker's plagiaristic method — text consumed and rewritten until authorship dissolves.
+
+### Work Y — Jesus' Son
+**Most visible in**: The emotional arc and the ending. The sense that these damaged, confused people are on an accidental pilgrimage toward something they can't name. The story should feel like it ends in the wrong place — the discharge is not a climax, it's an interruption. Grace arrives, if it arrives at all, in the form of sunlight that behaves wrong, a notebook left behind, an orderly who keeps a stranger's pages in his locker. The miracles are in the wrong form: not recovery, not redemption, but a woman walking out of a building and the light being too thick, too present, too much like something living.
+
+---
+
+## 7. Title
+
+**Versions of the Parking Lot**
+
+This title:
+- Does not start with "The"
+- Signals the multiple-versions/multiple-voices structure
+- Grounds the surrealism in a banal, specific location (parking lot)
+- Echoes both Acker (versions, rewrites, the text as unstable) and Johnson (the parking lot as site of wreckage and accidental revelation)
+- Does not duplicate any existing title structure in the corpus
+
+---
+
+## Notes for the Writer Agent
+
+- The three voices should be **formally distinct** on the page. Dahl's sections: frantic, overwritten, beautiful-ugly, shifting pronouns. Fitz's sections: spare, observational, accidentally devotional. Voice 3: cold, fragmented, interpolated with appropriated text.
+- **Do not resolve the contradictions.** The reader should finish the story holding at least two incompatible truths. This is not a puzzle to be solved.
+- **Sexual content** should be present in Dahl's sections — frank, unglamorous, Acker-direct. Not erotica. The body as a site of damage and reclamation.
+- **The stolen book** should never be identified. No author, no title, no genre. It is a text that exists to be consumed and rewritten.
+- Section breaks should be **abrupt**. No transitions. The reader is dropped into each voice without preparation.
+- The prose should run **hot and compressed**. Both Acker and Johnson write in bursts. Long, sustained passages of description or reflection would violate both sources. Keep it jagged.
+- **Fitz should never be heroic.** His tenderness is real but it's also a kind of theft. He is taking something from Dahl — her story, her suffering, her pages — and calling it care.
+- The ending is **three endings, none of which is an ending.** This is the structural enactment of the story's theme: there is no stable version. There is only what you're willing to carry.
