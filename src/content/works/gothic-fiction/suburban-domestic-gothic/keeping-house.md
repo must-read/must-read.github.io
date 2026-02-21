@@ -18,8 +18,8 @@ tags:
   - psychological-horror
   - quiet-horror
   - devotion
-rating: 3.8
-ratingCount: 0
+rating: 3.5
+ratingCount: 10
 publishedDate: 2026-02-20
 status: published
 formulaSummary: "Jackson's domestic-gothic isolation meets Ishiguro's devastating restraint in a story of a woman keeping house for a husband who is no longer able to object"
