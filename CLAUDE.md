@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A read-only literary platform: ~13,000 original short works (2,500-6,000 words each) spanning 16 genres and ~130 subgenres, with AI-generated ratings, reviews, and reader personas. Static Astro site deployed to GitHub Pages. All content written by Claude Opus 4.6.
+A read-only literary platform: ~13,000 original short works (1,500-10,000 words each) spanning 16 genres and ~130 subgenres, with AI-generated ratings, reviews, and reader personas. Static Astro site deployed to GitHub Pages. All content written by Claude Opus 4.6.
 
 Every work uses a unique 4-element formula: **AuthorA(style) + AuthorB(style) + WorkX(structure) + WorkY(themes)**. The combination is documented per piece and visible to readers.
 
@@ -49,57 +49,71 @@ All heavy lifting MUST run in background Task agents, NOT in the main context. T
 | `astro.config.mjs` | Site config — output to `docs/`, static mode |
 | `manifests/combination-matrix/` | Author/work combos per subgenre (JSON) |
 | `manifests/generation-queue.json` | Ordered queue of next pieces to generate |
-| `templates/` | Prompt templates for work, review, and persona generation |
+| `templates/` | Prompt templates: story-planning, work-generation, editor-pass, review-generation, risk-cards, persona-generation |
+| `scripts/word-count-distribution.json` | Genre-specific probabilistic word count distributions |
 | `personas/` | Reader persona definitions per genre (JSON) |
 | `scripts/` | Automation scripts for generation pipeline |
 
 ## Content Generation Workflow
 
-**Critical rule: Writing and reviewing are separate contexts.** The agent that writes a work must NEVER be the same agent that reviews it. Each reviewer agent gets a fresh context — it reads the finished story and one persona profile, then writes a single review. This ensures genuinely independent perspectives.
+**Critical rules:**
+1. **Each pipeline stage uses a SEPARATE context.** Planner, writer, editor, and each reviewer are all different agents with fresh eyes. No agent sees another's reasoning or process — only its output.
+2. **Reviewers are blind reader proxies.** They know NOTHING about the combination formula, source authors, or how the story was made. They read it cold, like a real reader encountering it on a shelf.
 
 ### Target word counts:
-Each combination spec includes a `targetWordCount` and `readingTime`. These are assigned when building the generation queue, drawn from a natural distribution across the full 2,500-6,000 range:
-- ~20% short (2,500-3,200 words, 10-13 min) — tight, focused pieces
-- ~40% medium (3,200-4,500 words, 13-18 min) — the sweet spot
-- ~30% long (4,500-5,500 words, 18-22 min) — room to breathe
-- ~10% extended (5,500-6,000 words, 22-25 min) — epic or complex pieces
+Each combination spec includes a `targetWordCount` and `readingTime`, sampled from genre-specific probabilistic distributions defined in `scripts/word-count-distribution.json`. The range is 1,500-10,000 words across all genres, but each genre has its own distribution:
+- Horror and humor/satire skew shorter (many 1,500-4,000 word pieces)
+- Fantasy, historical fiction, and philosophical fiction skew longer (many 5,000-10,000 word pieces)
+- Most genres center around 3,000-6,500 words
 
-The writer agent treats the target as a natural pace, not a hard constraint. A story that wants to be 3,800 words shouldn't be padded to 4,200 or cut to 3,500.
+**Assignment process:** Roll against the genre's tier weights to select a tier, sample uniformly within that tier's range, then give the writer a window of target ±300 words. At 250 wpm, `readingTimeMinutes = Math.round(targetWordCount / 250)`.
+
+### Risk cards (30% of works):
+Each work has a 30% probability of receiving a risk card — a structural constraint that forces the story off the safe path. Risk cards are drawn randomly from the pool in `templates/risk-cards.md`. When assigned, the card is MANDATORY: it shapes the story's architecture, not just decorates it. Cards are not reused within the same generation batch. See the template for the full pool (12 cards: unreliable narrator, non-linear time, story-as-document, ambiguous ending, second person, withheld information, multiple voices, reverse chronology, genre subversion, protagonist is wrong, constraint of space, dual timeline).
 
 ### Pipeline per work:
-1. **Writer agent** (worker-N): Reads combination spec (including targetWordCount) + genre taxonomy + template. Writes the piece, does an initial self-review against the style directive, revises. Outputs the `.md` file. Commits to feature branch.
-2. **Editor agent** (worker-M, SEPARATE context): Fresh eyes on the finished piece. Reads the story + combination spec + genre taxonomy. Reviews for: prose quality, formula adherence, pacing, AI-isms, structural completeness, genre accuracy. Makes direct edits to the `.md` file — cuts flab, sharpens sentences, fixes pacing issues, ensures the ending lands. This is NOT a review; it's a revision pass by a skilled editor. Commits edits to the same feature branch.
-3. **Reviewer agents** (one per persona, in parallel): Each reads the EDITED work + their persona JSON. Writes one review. Outputs an individual review JSON.
-4. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
-5. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
+1. **Planner agent** (worker-N): Reads combination spec + genre taxonomy + risk card (if assigned) + existing titles list. Designs the story blueprint: premise, protagonist (with specific flaw), structure (5 beats), key scenes, emotional trajectory, formula integration plan, title. Uses `templates/story-planning.md`. Commits plan to feature branch.
+2. **Writer agent** (worker-N, SAME worktree but can be separate context): Reads the story plan + combination spec + genre taxonomy. Executes the plan with exceptional prose. Has creative license to adjust details, but follows the plan's architecture. Uses `templates/work-generation.md`. Commits `.md` file to feature branch.
+3. **Editor agent** (worker-M, SEPARATE context): Fresh eyes on the finished piece. Reads the story + combination spec + genre taxonomy + editor template. Uses `templates/editor-pass.md`. Edits for: prose quality, formula adherence, pacing, AI-isms, **structural AI-isms** (tidy epiphanies, every thread resolved, announced themes, symmetrical bookends, balanced perspectives). Makes direct edits — cuts flab, introduces asymmetry, fixes endings. This is a revision, not a review. Commits edits to the same feature branch.
+4. **Reviewer agents** (one per persona, in parallel): Each reads ONLY the EDITED work + their persona JSON. NO formula knowledge, NO combination spec, NO knowledge of how the story was made. They are blind reader proxies — genuine reactions from specific fictional readers. Uses `templates/review-generation.md`. Outputs individual review JSON.
+5. **Assembler** (manager): Collects individual reviews into the combined reviews JSON file, computes aggregate rating, updates the work's frontmatter.
+6. **Helpful votes agent** (post-processing): Reads the assembled reviews and assigns `helpfulCount` values (0-100) with an organic distribution. Thoughtful, specific, longer reviews receive higher counts. Most cluster in 0-20; a few outliers reach higher.
 
-**Why a separate editor?** The writer's context window has "creator's blindness" — it just spent thousands of tokens generating the piece and can't see its flaws. A fresh context reading the work cold catches pacing sags, overworked metaphors, weak endings, and structural issues the writer missed. This is the single highest-leverage quality improvement in the pipeline.
+**Why separate planner and writer?** Invention and execution are different skills. The planner can take risks — an ambitious structure, a protagonist who never changes, an ending that refuses to resolve — because it's not also responsible for sustaining 5,000 words of prose. The writer can focus on craft — sentence rhythm, image, voice — because the architecture is already designed.
+
+**Why a separate editor?** The writer's context has "creator's blindness." A fresh context reading the work cold catches pacing sags, overworked metaphors, weak endings, and **structural AI-isms** (the predictable patterns that emerge from AI-generated fiction at the architectural level, invisible in any single sentence).
+
+**Why blind reviewers?** Previous reviewers knew the formula and rated accordingly — like judges at a wine tasting who can see the label. Blind reviewers react to the text itself, creating organic rating variance. A technically accomplished story that fails to move a reader should get a 3, not a 4-because-the-craft-is-competent.
 
 ### Review file format:
 Individual reviews are written to `review-{persona-number}-{name}.json` then assembled into the final `<slug>.json` for the Content Collection.
 
 ## Content Rules
 
-1. **Word count**: 2,500-6,000 words per work (10-25 min read). Lengths MUST vary organically — each combination spec includes a target word count. Do NOT produce stories of uniform length. A cozy mystery might be a tight 2,800 words; an epic fantasy excerpt might run 5,500. The generation queue assigns varied targets across the full range.. Each work gets a unique target word count assigned at generation time — vary naturally across the full range. Do NOT make every story the same length. A generation batch should include short punchy pieces (~2,500-3,000), medium (~3,500-4,500), and long (~5,000-6,000). At 250 wpm, the minimum is a true 10-minute read (2,500 words floor).
+1. **Word count**: 1,500-10,000 words per work (6-40 min read). Lengths are sampled from genre-specific probabilistic distributions in `scripts/word-count-distribution.json`. Each work gets a target word count with a ±300 word window. Horror and humor skew shorter; fantasy and historical skew longer. A generation batch should show genuine variety — not all 4,000-word stories.
 2. **Banned names**: Never use "Marcus" or "Chen" in generated content
-3. **No AI-isms**: No hedging, lists-as-prose, hollow superlatives, or "delve/tapestry/testament" filler
-4. **Formula adherence**: Every piece must demonstrably reflect all four sources (authorA, authorB, workX, workY) with identifiable passages
-5. **Rating distribution**: Mean ~3.8, std ~0.6 — not uniform praise. Reviews must reference specific text elements
-6. **Review count per work**: 7-12 reviews (natural spread, NOT always 10). Varies per piece.
-7. **Review length**: Varies naturally. Most reviews are one paragraph. Some have two paragraphs. A few may be very brief (1-2 sentences) but not every work gets a very short review — don't overdo brevity.
-8. **Review dates**: Check system date with `date` command. Reviews dated today or within the past ~7 months. Natural spread across that range — NOT all on the same day.
-9. **Review text**: 50-1000 chars per schema. Most reviews 200-600 chars. A few longer, a few shorter. Natural variation.
-10. **Genre splattering**: Generate round-robin across subgenres, never completing one genre while others are empty
-12. **Title variety**: Titles MUST NOT fall into repetitive patterns. Specifically: no more than 30% of titles should start with "The". Vary title structures — use single words, phrases, names, questions, imperatives, compound forms, possessives, gerunds, etc. Before choosing a title, check existing titles and deliberately diverge from the dominant pattern. Never duplicate a title structure (e.g., "The [Noun] of [Noun]" twice in a row).
-11. **Persona consistency**: Each persona's reviews must match their documented preferences, tone, and rating tendency
+3. **No AI-isms (prose)**: No hedging, lists-as-prose, hollow superlatives, or "delve/tapestry/testament" filler
+4. **No AI-isms (structural)**: No too-neat three-act structure, no tidy epiphanies, no every-thread-resolved endings, no announced themes, no symmetrical bookends, no balanced-perspectives-on-all-sides. The editor agent is specifically mandated to catch and fix these. See `templates/editor-pass.md` for the full checklist.
+5. **Formula adherence**: Every piece must demonstrably reflect all four sources (authorA, authorB, workX, workY) with identifiable passages
+6. **Rating distribution**: Mean ~3.5, std ~0.8 — organic variance from blind reader proxies. Reviews must reference specific text elements. Plenty of 3s, healthy number of 2s, some 5s, occasional 1s. NOT everything is 4 stars.
+7. **Review count per work**: 7-12 reviews (natural spread, NOT always 10). Varies per piece.
+8. **Review length**: Varies naturally. Most reviews are one paragraph. Some have two paragraphs. A few may be very brief (1-2 sentences) but not every work gets a very short review — don't overdo brevity.
+9. **Review dates**: Check system date with `date` command. Reviews dated today or within the past ~7 months. Natural spread across that range — NOT all on the same day.
+10. **Review text**: 50-1000 chars per schema. Most reviews 200-600 chars. A few longer, a few shorter. Natural variation.
+11. **Blind reviews**: Reviewers are blind reader proxies. They receive ONLY the finished work and their persona profile. NO combination formula, NO source author info, NO knowledge of how the story was constructed. They react as real readers.
+12. **Genre splattering**: Generate round-robin across subgenres, never completing one genre while others are empty
+13. **Title variety**: Titles MUST NOT fall into repetitive patterns. Specifically: no more than 30% of titles should start with "The". Vary title structures — use single words, phrases, names, questions, imperatives, compound forms, possessives, gerunds, etc. Before choosing a title, check existing titles and deliberately diverge from the dominant pattern.
+14. **Risk cards**: ~30% of works receive a risk card (structural constraint). Drawn randomly from the pool in `templates/risk-cards.md`, not reused within the same batch. When assigned, the constraint is MANDATORY and must be architecturally central, not decorative.
+15. **Persona name uniqueness**: Persona first names must be unique across the entire platform, not just within a genre. Check existing personas before generating new ones.
+16. **Persona consistency**: Each persona's reviews must match their documented preferences, tone, and rating tendency
 
 ## Schemas (Quick Reference)
 
-**Work frontmatter** (required fields): title, slug, genre, subgenre, authorA, authorB, workX, workY, wordCount, readingTimeMinutes, tags, rating, ratingCount, publishedDate, status, formulaSummary, synopsis, combination (with fromAuthorA, fromAuthorB, fromWorkX, fromWorkY arrays)
+**Work frontmatter** (required fields): title, slug, genre, subgenre, authorA, authorB, workX, workY, wordCount (1500-10000), readingTimeMinutes (6-40), tags, rating, ratingCount, publishedDate, status, formulaSummary, synopsis (max 300 chars), combination (with fromAuthorA, fromAuthorB, fromWorkX, fromWorkY arrays)
 
 **Review JSON**: workSlug, reviews[] with personaId, rating (1-5), text (50-1000 chars), date, helpfulCount (0-100, default 0)
 
-**Persona JSON**: id (format: `{genre-abbrev}-{###}-{firstname}`), name, genre, avatar, bio, readingPreferences (favoriteSubgenres, preferredLength, stylePreference, ratingTendency), reviewStyle (tone, focusAreas, averageLength, vocabularyLevel)
+**Persona JSON**: id (format: `{genre-abbrev}-{###}-{firstname}`), name (unique across all genres), genre, avatar, bio, readingPreferences (favoriteSubgenres, preferredLength, stylePreference, ratingTendency), reviewStyle (tone, focusAreas, averageLength, vocabularyLevel)
 
 ## Git Conventions
 
@@ -140,10 +154,16 @@ See SPEC.md Section 17. Key decisions needed: cover images, reading lists (local
 ## Quality Validation Checklist (Every PR)
 
 - [ ] Astro build passes (schema validation)
-- [ ] Word count 2,500-6,000
+- [ ] Word count within genre-appropriate range (1,500-10,000)
 - [ ] No banned names (Marcus, Chen)
 - [ ] Rating math: aggregate matches individual reviews
+- [ ] Rating distribution: mean near 3.5, not clustered at 4.0
 - [ ] All persona IDs in reviews exist in persona pool
 - [ ] No duplicate combo IDs or slugs
 - [ ] Style directive honored (identifiable passages per source)
 - [ ] Reviews reference specific text from the work
+- [ ] Reviews contain NO formula/source references (blind reader proxy check)
+- [ ] No structural AI-isms: check endings for tidy resolutions, announced themes
+- [ ] Risk card (if assigned) is architecturally central, not decorative
+- [ ] Title does not start with "The" (unless under 30% threshold)
+- [ ] Persona names are unique across all genres

@@ -1,0 +1,147 @@
+{
+  "_comment": "Genre-specific word count distributions. At assignment time: (1) roll against tier weights to pick a tier, (2) sample uniformly within that tier's range for the target, (3) give the writer a window of target ±300 words. At 250 wpm, readingTimeMinutes = Math.round(targetWordCount / 250).",
+  "literary-fiction": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.30, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6500], "label": "long" },
+      { "weight": 0.20, "range": [6500, 8500], "label": "extended" },
+      { "weight": 0.05, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "science-fiction": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.25, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6500], "label": "long" },
+      { "weight": 0.20, "range": [6500, 8000], "label": "extended" },
+      { "weight": 0.10, "range": [8000, 10000], "label": "epic" }
+    ]
+  },
+  "fantasy": {
+    "tiers": [
+      { "weight": 0.05, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.20, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.25, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.15, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "horror": {
+    "tiers": [
+      { "weight": 0.15, "range": [1500, 2500], "label": "compact" },
+      { "weight": 0.35, "range": [2500, 4000], "label": "short" },
+      { "weight": 0.30, "range": [4000, 5500], "label": "medium" },
+      { "weight": 0.15, "range": [5500, 7000], "label": "long" },
+      { "weight": 0.05, "range": [7000, 8500], "label": "extended" }
+    ]
+  },
+  "romance": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.35, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6000], "label": "long" },
+      { "weight": 0.15, "range": [6000, 7500], "label": "extended" },
+      { "weight": 0.05, "range": [7500, 9000], "label": "epic" }
+    ]
+  },
+  "mystery-detective": {
+    "tiers": [
+      { "weight": 0.10, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.30, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.20, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.05, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "crime-noir": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.30, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6500], "label": "long" },
+      { "weight": 0.20, "range": [6500, 8000], "label": "extended" },
+      { "weight": 0.05, "range": [8000, 9500], "label": "epic" }
+    ]
+  },
+  "thriller-suspense": {
+    "tiers": [
+      { "weight": 0.10, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.30, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.20, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.05, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "historical-fiction": {
+    "tiers": [
+      { "weight": 0.05, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.25, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.25, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.10, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "gothic-fiction": {
+    "tiers": [
+      { "weight": 0.10, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.30, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.20, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.05, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "dystopian": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.30, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6500], "label": "long" },
+      { "weight": 0.20, "range": [6500, 8000], "label": "extended" },
+      { "weight": 0.05, "range": [8000, 9500], "label": "epic" }
+    ]
+  },
+  "magical-realism": {
+    "tiers": [
+      { "weight": 0.15, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.35, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.30, "range": [4500, 6000], "label": "long" },
+      { "weight": 0.15, "range": [6000, 7500], "label": "extended" },
+      { "weight": 0.05, "range": [7500, 9000], "label": "epic" }
+    ]
+  },
+  "philosophical-fiction": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3500], "label": "compact" },
+      { "weight": 0.25, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.30, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.25, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.10, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "creative-nonfiction": {
+    "tiers": [
+      { "weight": 0.10, "range": [2000, 3000], "label": "compact" },
+      { "weight": 0.30, "range": [3000, 4500], "label": "medium" },
+      { "weight": 0.35, "range": [4500, 6500], "label": "long" },
+      { "weight": 0.20, "range": [6500, 8000], "label": "extended" },
+      { "weight": 0.05, "range": [8000, 9500], "label": "epic" }
+    ]
+  },
+  "adventure": {
+    "tiers": [
+      { "weight": 0.10, "range": [2500, 3500], "label": "compact" },
+      { "weight": 0.25, "range": [3500, 5000], "label": "medium" },
+      { "weight": 0.35, "range": [5000, 7000], "label": "long" },
+      { "weight": 0.20, "range": [7000, 8500], "label": "extended" },
+      { "weight": 0.10, "range": [8500, 10000], "label": "epic" }
+    ]
+  },
+  "humor-satire": {
+    "tiers": [
+      { "weight": 0.20, "range": [1500, 2500], "label": "compact" },
+      { "weight": 0.35, "range": [2500, 4000], "label": "short" },
+      { "weight": 0.30, "range": [4000, 5500], "label": "medium" },
+      { "weight": 0.10, "range": [5500, 7000], "label": "long" },
+      { "weight": 0.05, "range": [7000, 8000], "label": "extended" }
+    ]
+  }
+}
