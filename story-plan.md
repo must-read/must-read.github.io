@@ -1,119 +1,154 @@
-# Story Plan: Cozy Fantasy — Pratchett + Hobb
+# Story Plan: rom-romcom-henry-wodehouse
 
-**Combination ID**: fan-cozy-pratchett-hobb
-**Genre**: Fantasy
-**Subgenre**: Cozy Fantasy
-**Target Word Count**: 3,800 words (range: 3,500–4,100)
-**Reading Time**: ~15 minutes
+## Metadata
+- **Genre**: Romance
+- **Subgenre**: Romantic Comedy
+- **Combination ID**: rom-romcom-henry-wodehouse
+- **Author A (style)**: Emily Henry
+- **Author B (style)**: P.G. Wodehouse
+- **Work X (structure)**: Beach Read
+- **Work Y (themes)**: Right Ho, Jeeves
+- **Target Word Count**: 3,400 words (range: 3,100-3,700)
+- **Reading Time**: ~14 minutes
 
 ---
 
 ## Writing Samples
 
-### Sample 1: Terry Pratchett — The Wee Free Men (Work X)
+### Sample 1: Emily Henry (Author A) — Narrative voice, banter, vulnerability beneath humor
 
-**Source**: Work X — *The Wee Free Men*, Chapter 1: "A Clang Well Done"
-**Origin**: Opening chapter, Penguin/HarperCollins editions
-**Why representative**: Shows Pratchett's technique of building an entire worldview through a child's stubborn literalism, combining domesticity with the uncanny, and delivering character through action rather than description.
+**Source**: Author A — Emily Henry's witty, self-aware first-person narration
+**Origin**: Beach Read (Chapter 1, assorted passages), Book Lovers, People We Meet on Vacation, Funny Story
+**Why representative**: These passages demonstrate Henry's signature blend of self-deprecating humor, sharp banter that masks real feeling, internal monologue that processes pain through wry observation, and physical attraction described with comic indignation.
 
-> Some things start before other things.
+**Opening voice — self-aware narration as emotional negotiation:**
+
+> I have a fatal flaw. I like to think we all do. Or at least that makes it easier for me when I'm writing — building my heroines and heroes up around this one self-sabotaging trait, hinging everything that happens to them on a specific characteristic: the thing they learned to do to protect themselves and can't let go of, even when it stops serving them.
 >
-> It was a summer shower but it rained as fast as a winter one, soaking the grass and flattening it into a carpet that bled water at every step. Miss Perspicacia Tick sat in what little shelter a raggedy hedge could give her and explored the universe. She did it with a couple of twigs tied together with string, a stone with a hole in it, an egg, one of Miss Tick's stockings (which also had a hole in it), a pin, a piece of paper, and a tiny stub of pencil. It was amazing what you could find out with those things.
->
-> [...]
->
-> Tiffany Aching was lying on her stomach by the river, tickling trout. She liked to hear them laugh. It came up in bubbles.
+> Maybe, for example, you didn't have much control over your life as a kid. So, to avoid disappointment, you learned never to ask yourself what you truly wanted. And it worked for a long time. Only now, upon realizing you didn't get what you didn't know you wanted, you're barreling down the highway in a midlife-crisis-mobile with a suitcase full of cash and a man named Stan in your trunk. Or maybe, like me, you're a hopeless romantic.
 
-Key Pratchett techniques visible here:
-- **The deadpan absurd made real**: "She liked to hear them laugh. It came up in bubbles." A joke that is also literal, also worldbuilding.
-- **Domestic objects elevated**: A frying pan, a piece of string, a stocking with a hole — these are the tools of magic and combat alike. Tiffany "unhooked the largest frying pan, the one that could cook breakfast for half a dozen people all at once."
-- **Granny Aching's shadow**: "'Brides o' the sky', Granny Aching had called them once, and it was so rare that she ever said anything at all, let alone anything that wasn't to do with sheep, that Tiffany had remembered it." The absent mentor whose silence speaks louder than words.
-- **Sheep as philosophy**: Granny Aching described sheep as "just bags of bones, eyeballs and teeth, lookin' for new ways to die." Comedy as precise observation. The joke IS the thesis.
+**Banter as flirtation — dialogue that's really a contest for emotional territory:**
 
-Additional Pratchett voice markers from *The Wee Free Men*:
-- "Yes! I'm me! I am careful and logical and I look up things I don't understand!"
-- "It didn't stop being magic just because you found out how it was done."
-- "Ordinary fortune-tellers tell you what you want to happen; witches tell you what's going to happen whether you want it to or not."
-- "People who say things like 'May all your dreams come true' should try living in one for five minutes."
-- "Speak up for those who don't have voices."
-- "No one is actually dead until the ripples they cause in the world die away."
+> "'I knew you in college, January.' 'That seems like the biggest in a series of vast exaggerations you've made tonight.' 'Fine, I knew of you.'"
 
-**Structural pattern from Work X**: A young protagonist who solves problems through cleverness and stubbornness rather than power. The fairy tale inverted. The home territory defended not through violence but through knowing it better than the invader. Tiffany brings a frying pan to fight a monster. She wins not because she's powerful but because she's practical, she's angry, and she knows her land.
+> "'Come on, Gus,' I bumped his arm. 'You can do it. Be adorable.' His eyes darted to where I'd bumped him, then back to my face, and he scowled. 'I think you misunderstood me. I said adorable.'"
+
+> "What's it like writing Hemingway circle-jerk fanfiction?"
+
+> "'You're as small as you are ridiculous.' 'So not very?'"
+
+**Physical attraction as comic grievance:**
+
+> "Speaking of fire, sometimes his eyes seemed to be reflecting it, even though there wasn't any. The car was nearly pitch-black for God's sake. His eyes should not be allowed, physically or morally, to glint like that. His pupils were disrespectful to the laws of nature."
+
+> "Sometimes I just missed _liking_ people."
+
+**Vulnerability under the humor — the moments where the armor drops:**
+
+> "Mom's first diagnosis taught me that love was an escapee rope, but it was her second diagnosis that taught me love could be a life vest when you were drowning."
+
+> "The hardest thing had turned out to be being angry with someone you couldn't fight it out with."
+
+> "He fit so perfectly in the love story I'd imagined for myself that I mistook him for the love of my life."
+
+> "I can miss my dad and hate him at the same time."
+
+From Funny Story:
+> "Miles smiles tentatively, an apology of a smile: *Should I be here right now?* *You should always be here*, my heart answers."
+
+> "This is how time works. The things you wait months for blink past, like the flash of a strobe, huge swaths lost in the dark beats between."
+
+**Craft notes for the writer**: Henry's first-person narration confides — the narrator talks to you like a smart friend processing something in real time. Internal monologue oscillates between acerbic humor and sudden unguarded feeling. Banter works because both parties are genuinely clever and neither will yield; the humor masks a real contest for emotional territory. Physical attraction is described with comic indignation. Dialogue tags are minimal; voice does the work. The key Henry move: a funny observation that catches in the throat because the reader realizes what emotion it's covering.
 
 ---
 
-### Sample 2: Robin Hobb — Assassin's Apprentice (Work Y)
+### Sample 2: P.G. Wodehouse (Author B) — Comic precision, sentences as surprise machines
 
-**Source**: Work Y — *Assassin's Apprentice*, Chapter 1: "The Earliest History"
-**Origin**: Opening pages, Bantam/Del Rey editions
-**Why representative**: Demonstrates Hobb's retrospective first-person interiority, the ache of looking back at a self that didn't yet understand what was happening to it, and the way she grounds emotional devastation in physical, sensory detail.
+**Source**: Author B — Wodehouse's comic prose style
+**Origin**: Right Ho, Jeeves; The Code of the Woosters; Very Good, Jeeves!; The Mating Season; assorted works
+**Why representative**: These demonstrate Wodehouse's hallmark techniques — the elaborate simile that detonates at the end, the periodic sentence that delays its punchline, comic understatement, Bertie's confidently wrong narration, and the verbal performance of dialogue.
 
-> A history of the Six Duchies is of necessity a history of its ruling family, the Farseers. A complete telling would reach back beyond the founding of the First Duchy, and, if such names were remembered, would tell us of Outislanders raiding from the sea, visiting as pirates a shore more temperate and gentler than the icy beaches of the Out Islands.
->
-> [...]
->
-> My life has been a web of secrets, secrets that even now are unsafe to share. Shall I set them all down on fine paper, only to create from them flame and ash? Perhaps. My memories reach back to when I was six years old. Before that, there is nothing, only a blank gulf no exercise of my mind has ever been able to pierce. Prior to that day at Moonseye, there is nothing. But on that day they suddenly begin, with a brightness and detail that overwhelms me. Sometimes it seems too complete, and I wonder if it is truly mine. Am I recalling it from my own mind, or from dozens of retellings by legions of kitchen maids and ranks of scullions and herds of stable boys as they explained my presence to each other?
+**The sentence as a perfectly engineered mechanism for surprise:**
 
-Key Hobb techniques visible here:
-- **Retrospective grief**: The narrator looks back from a position of knowledge at a self that was innocent and confused, and the gap between those two selves IS the emotional engine.
-- **Physical cost made tangible**: Everything in Hobb has a price paid in flesh. Magic costs. Duty costs. Even memory costs — "a brightness and detail that overwhelms me."
-- **The imperfect mentor**: Burrich, who raises Fitz like a hound rather than a child. He loves the boy but doesn't know how to love a boy. "My silences he mistook for a lack of wit rather than a lack of any need to speak."
+> "He had the look of one who had drunk the cup of life and found a dead beetle at the bottom."
 
-Additional Hobb voice markers from *Assassin's Apprentice*:
-- "When you cut pieces out of the truth to avoid looking like a fool you end up looking like a moron instead."
-- "Very little worth knowing is taught by fear."
-- "Nothing takes the heart out of a man more than the expectation of failure."
-- "Men cannot grieve as dogs do. But they grieve for many years."
-- "One can only walk so far from one's true self before the bond either snaps, or pulls back."
-- "And tomorrow we'll do the same again. And again. Until one day you get up and find out that whatever it was didn't kill you after all."
+> "She looked as if she had been poured into her clothes and had forgotten to say 'when.'"
 
-**Thematic pattern from Work Y**: The cost of duty. The mentor who loves imperfectly. Belonging to a place that uses you. The animal companion as the truest relationship. Identity forged through what you survive. Fitz is raised as a tool of the crown — loved, but instrumentally. His bond with Nighteyes (the wolf) is described by critic Amanda Craig as "as passionate as the deepest romantic love." The animal sees him whole when no human does.
+> "Unseen in the background, Fate was quietly slipping lead into the boxing-glove."
 
----
+> "I could see that, if not actually disgruntled, he was far from being gruntled."
 
-### Sample 3: Terry Pratchett — General Discworld Voice (Author A)
+> "He groaned slightly and winced like Prometheus watching his vulture dropping in for lunch."
 
-**Source**: Author A style — *Small Gods*, *The Light Fantastic*, various Discworld
-**Origin**: Opening passages and representative excerpts
-**Why representative**: Shows Pratchett's range — the philosophical asides, the footnote voice, the way a sentence can pivot from absurdity to profundity without changing register.
+> "He felt like a man who, chasing rainbows, has had one of them suddenly turn and bite him in the leg."
 
-> The sun rose slowly, as if it wasn't sure it was worth all the effort. Another Disc day dawned, but very gradually, and this is why. When light encounters a strong magical field it loses all sense of urgency. It slows right down. And on the Discworld the magic was embarrassingly strong, which meant that the soft yellow light of dawn flowed over the sleeping landscape like the caress of a gentle lover or, as some would have it, like golden syrup.
-> — *The Light Fantastic*
+> "A melancholy-looking man, he had the appearance of one who has searched for the leak in life's gas-pipe with a lighted candle."
 
-> The tortoise is a ground-living creature. It is impossible to live nearer the ground without being under it. Its horizons are a few inches away. It has about as good a turn of speed as you need to hunt down a lettuce. It has survived while the rest of evolution flowed past it by being, on the whole, no threat to anyone and too much trouble to eat.
-> — *Small Gods*
+> "The voice of Love seemed to call to me, but it was a wrong number."
 
-**Pratchett's prose mechanics**:
-- Sentences that sound offhand but are structurally precise — conversational rhythm hiding careful construction
-- The simile that undercuts itself ("like the caress of a gentle lover or, as some would have it, like golden syrup")
-- Footnotes as worldbuilding, jokes, asides, philosophy, and commentary — "making the page itself into comedy"
-- The joke that is ALSO the thesis — humor is never separate from meaning
-- Compassion expressed through comedy, never through sentimentality
+> "Freddie experienced the sort of abysmal soul-sadness which afflicts one of Tolstoy's Russian peasants when, after trudging miles across the steppe to where his sweetheart lives, he is met at the door by her and told that she has married someone else."
 
-**From literary criticism** (David Bapst, L-Space analysis): Pratchett's evolution moved from "just gag books" to work where parody became inseparable from genuine emotion. Neil Gaiman: "Terry is just really good at human beings. He's good at genuine human emotions." The humor is the vehicle for emotional truth, not a shield against it.
+> "A sort of gulpy, gurgly, plobby, squishy, wofflesome sound, like a thousand eager men drinking soup in a foreign restaurant."
+
+> "And she's got brains enough for two, which is the exact quantity the girl who marries you will need."
+
+**Bertie Wooster's confidently wrong narration:**
+
+> "There are moments, Jeeves, when one asks oneself, 'Do trousers matter?'" / "'The mood will pass, sir.'"
+
+> "I'm not absolutely certain of the facts, but I rather fancy it's Shakespeare who says..."
+
+> "I loosed it down the hatch, and after undergoing the passing discomfort, unavoidable when you drink Jeeves's patented morning revivers, of having the top of the skull fly up to the ceiling and the eyes shoot out of their sockets and rebound from the opposite wall like racquet balls, felt better. It would have been overstating it to say that even now Bertram was back again in mid-season form, but I had at least slid into the convalescent class and was equal to a spot of conversation."
+
+**Physical description as comic mechanism:**
+
+> "A tall, drooping man, looking as if he had been stuffed in a hurry by an incompetent taxidermist."
+
+> "Bicky rocked, like a jelly in a high wind."
+
+> "I clutched at the brow. The mice in my interior had now got up an informal dance and were buck-and-winging all over the place like a bunch of Nijinskys."
+
+**Craft notes for the writer**: Wodehouse builds sentences the way a watchmaker builds mechanisms — every clause sets up the final detonation. His similes yoke the cosmic to the mundane. Narrators are supremely confident and consistently wrong. Dialogue is performance — slightly heightened register that stays just this side of absurd. Comedy arises from the gap between what characters believe about themselves and what the reader can see. Understatement and litotes create humor through rhetorical precision. The writer should channel this into: elaborate metaphors that land with a comic twist, a narrator whose self-assessment is hilariously off-base, and set-piece sequences where small misunderstandings escalate through perfect mechanical logic.
 
 ---
 
-### Sample 4: Robin Hobb — General Farseer Voice (Author B)
+### Sample 3: Beach Read (Work X) — Rivals-to-lovers via a bet/challenge
 
-**Source**: Author B style — Farseer Trilogy, various
-**Origin**: Interviews, critical analysis, representative passages
-**Why representative**: Shows Hobb's approach to deep interiority, the animal bond, and the physical/emotional cost of everything.
+**Source**: Work X — Beach Read structural architecture
+**Origin**: Beach Read by Emily Henry, plot summary and structural analysis
+**Why representative**: This captures the bones the story must echo — the bet as romantic catalyst, forced proximity, mutual transformation, and the reveal that punctures self-narratives.
 
-From Robin Hobb interviews on craft:
-> "I think a great deal of writing takes place in a part of my brain that I don't have conscious access to."
-> "The things that happen to us change us... I think that is actually what makes a character interesting."
-> "I find that some characters just have their own ideas about the story, and that if I let them have their way, the story becomes much more interesting."
+**Structure to internalize**:
 
-**Hobb's prose mechanics**:
-- First-person retrospective narration — the narrator knows more than their past self, and the gap is where the emotion lives
-- Deep psychological interiority: Steven Erikson called it "a quiet seduction" and "handled with consummate control, precision and intent"
-- The Los Angeles Review of Books described her work as offering "complete immersion in Fitz's complicated personality"
-- Patient character development where growth is measured in years, not pages
-- The physical and emotional cost of magic — nothing comes free
-- The animal companion as the truest relationship — the Fitz/Nighteyes bond described as "as passionate as the deepest romantic love" (Amanda Craig, The Times, 2005)
-- Prose described as having "a sinewy simplicity close to that of myths and fairytales"
-- Vocabulary, cadence, and attitude shift with the character's emotional state — the prose IS the interiority
+Beach Read follows January Andrews (romance novelist) and Augustus Everett (literary fiction writer) — college rivals who end up as lake-house neighbors in Michigan. Both have writer's block tied to personal crises: January has discovered her late father's infidelity, shattering her belief in love stories. Gus carries trauma from an abusive father and failed marriage.
+
+The central catalyst is the bet: they challenge each other to write in the other's genre. January will attempt dark literary fiction; Gus will attempt a happy ending. This forces each into the other's worldview — January must confront darkness she's been avoiding, Gus must believe joy is possible.
+
+The "educational outings" structure provides weekly set-piece scenes where they guide each other through research, creating escalating intimacy. Physical attraction builds alongside genuine intellectual respect.
+
+The reveal: January discovers Gus's ex-wife and deeper emotional wounds. Gus discovers January's father's love was real even though imperfect. Both characters' self-narratives are punctured — January's "love is pure and simple" fantasy AND Gus's "happiness is naivete" cynicism are both wrong. The truth is messier and more beautiful.
+
+**Key structural elements to borrow**: (1) The bet/challenge that forces protagonists into each other's territory; (2) recurring set-piece meetings that escalate both comedy and intimacy; (3) the reveal that neither character's self-story is accurate; (4) professional/intellectual territory as metaphor for emotional territory.
+
+---
+
+### Sample 4: Right Ho, Jeeves (Work Y) — Cascading catastrophe of good intentions
+
+**Source**: Work Y — Right Ho, Jeeves thematic engine and plot mechanics
+**Origin**: Right Ho, Jeeves by P.G. Wodehouse, plot summary and structural analysis
+**Why representative**: This captures the thematic architecture — cascading good intentions creating catastrophe, ensemble subplots that collide, and the gap between self-image and reality as comic engine.
+
+**Themes and mechanics to internalize**:
+
+In Right Ho, Jeeves, Bertie Wooster decides he can outdo Jeeves at solving romantic problems. He attempts to help Gussie Fink-Nottle court Madeline Bassett and to reconcile his cousin Angela with Tuppy Glossop. Each intervention makes everything worse in ways that are both logical and catastrophic.
+
+The ensemble mechanics: Bertie gives Gussie brandy for courage — Gussie gets spectacularly drunk, proposes to Madeline during a chaotic school prize-giving, then gets dumped. Heartbroken drunk Gussie proposes to Angela (to spite Madeline); Angela accepts (to spite Tuppy). Tuppy goes berserk chasing Gussie around the mansion. Aunt Dahlia's French chef Anatole threatens to resign. Every thread pulls on every other thread until the entire social fabric unravels.
+
+The comic engine: Bertie's self-image as a capable operator is hilariously divorced from reality. He genuinely believes he's helping. His narration brims with confidence even as every plan collapses. The distance between his self-assessment and actual results is the primary comedy source.
+
+The resolution: Jeeves solves everything in the few hours Bertie is absent, demonstrating that the best thing the would-be helper can do is get out of the way. But Bertie learns nothing — essential to the comedy.
+
+**Key thematic elements to borrow**: (1) A protagonist who believes they're brilliant at relationships while being catastrophically bad at them; (2) multiple romantic subplots that collide because of the protagonist's meddling; (3) good intentions that mechanically produce the worst possible outcomes; (4) the gap between self-image and reality played for both comedy AND eventual emotional truth; (5) ensemble cast where every subplot pulls on the others.
 
 ---
 
@@ -121,150 +156,141 @@ From Robin Hobb interviews on craft:
 
 ### 1. Premise
 
-Bramble Hopworth, the only hedgewitch in the village of Underfold, discovers that the ancient beech tree at the center of the commons — the one that supposedly keeps the valley's weather mild and its harvests gentle — is dying from the inside. The tree has a Warden, a badger named Grisle who has been bonded to it for forty years, and Grisle is dying too. Bramble must find a way to save the tree (and Grisle, and the village's comfortable existence) not through any grand magic she doesn't possess, but by being more stubborn than rot, more patient than decay, and better acquainted with her own soil than the creeping blight that's eating both tree and badger from within.
-
-The question the story asks: What do you owe to a place that shaped you but never thanked you — and what happens when the thing you've been quietly holding together finally asks you to let it change?
+Juliet Fawley, an events coordinator who has never sustained a relationship past four months, runs a side hustle as a self-appointed "relationship fixer" for her friend group — dispensing advice, engineering meet-cutes, orchestrating grand gestures — with a success rate she generously estimates at "quite good" and everyone else knows is zero. When she's hired to plan the engagement party of two friends she secretly helped get together (and who are now, thanks to her latest advice, barely speaking), she must un-destroy their relationship while sharing every planning session with Elliot Yoon, a conflict mediator who finds her methods genuinely horrifying and whose calm, logical approach to human emotion makes her want to scream. The bet: she'll plan the party her way, he'll handle the couple his way, and whoever fixes the relationship first gets full creative control of the event.
 
 ### 2. Protagonist
 
-**Bramble Hopworth**, 58, hedgewitch of Underfold. Unmarried, not from tragedy but from the slow accretion of being too busy and too particular. She makes salves, talks to the bees, keeps the village's wards refreshed every equinox, and maintains the Listening — a low-grade magical bond with the land itself that lets her feel when the soil is tired or the creek is running wrong. She inherited the Listening from her aunt Sedge, who inherited it from her aunt before that.
+**Juliet Fawley**, 30, events coordinator at a mid-tier hotel in Portland, Oregon. She plans other people's happy endings for a living and moonlights as her friend group's unofficial relationship counselor. She once texted a friend's crush from the friend's phone — without permission — a sonnet she found online, which led to a spectacular public breakup at a farmers' market involving thrown peaches.
 
-- **What she WANTS**: To fix the tree. To keep things as they are. She's spent thirty years holding Underfold together with string and stubbornness and she's not about to stop now.
-- **What she NEEDS**: To accept that some things can't be maintained — they can only be transformed. That holding on is not always the same as caring. That the tree (and Grisle, and she herself) need to become something new, not be preserved in amber.
-- **Her flaw**: She conflates duty with identity so completely that she cannot imagine who she'd be without the work. She has never once asked what she wants because she's too busy doing what needs doing. She would call this selflessness. It's actually a kind of fear.
-- **Endearing quality**: She talks to everything — the bees, the bread dough, the fence posts. Not because she thinks they're listening (she knows perfectly well fence posts don't listen; they're fence posts) but because she finds silence inefficient. She also keeps a running mental footnote on everything she observes, a habit of annotation that is both diagnostic tool and personality quirk.
+- **What she WANTS**: To prove that her instincts about love are right — that romance requires boldness, big gestures, and a willingness to make a fool of yourself. To fix Priya and Dev's engagement before the party she's planning celebrates a love that may no longer exist.
+- **What she NEEDS**: To understand that fixing other people's relationships is easier than examining why she can't sustain her own — that her compulsive meddling is a way of experiencing intimacy at arm's length, participating in love stories without risking being the protagonist of one.
+- **Her flaw**: She genuinely believes she understands love better than the people actually in it. She's read every romance novel, seen every movie, and has internalized the grammar of courtship so thoroughly that she mistakes pattern recognition for emotional wisdom. She is Bertie Wooster with a Pinterest board — supremely confident, constitutionally incapable of recognizing that her grand plans are the problem. Her specific wound: her parents had an ugly divorce when she was twelve, and her mother told her, "Your father never once made a gesture that wasn't about himself." Juliet took this to mean gestures must be selfless and enormous. She never considered that her mother might have been wrong, or at least not entirely right.
 
 ### 3. Structure
 
-**Opening image/scene**: Bramble is halfway up a ladder, arguing with a jackdaw that's stolen one of her glass ward-bottles from the cottage eave, when she feels it through the Listening — a wrongness in the commons beech. Not dramatic. Not a thunderclap. More like the moment you realize the kettle isn't just slow to boil; the flame has gone out. She climbs down, leaves the jackdaw to its thieving, and walks to the tree.
+**Opening image**: Juliet, in her car outside a restaurant, is coaching her friend Priya through an earpiece on how to respond to Dev's toast at their engagement dinner. ("No, don't touch his hand yet — wait for the callback to the story about the umbrella.") It's going beautifully until Juliet's increasingly specific stage directions cause Priya to knock over a candle, set a napkin on fire, and accidentally reveal the earpiece. Dev storms out. Juliet, watching through the restaurant window, murmurs into the dead earpiece: "That wasn't supposed to be the callback."
 
-**The inciting disruption**: The beech's heartwood is rotting. Not ordinary rot — this is a magical blight, something that feeds on the bond between Warden and tree. Old Grisle the badger, who has been the tree's bonded Warden since before Bramble was born, is curled in his set beneath the roots, wheezing, his silver-streaked fur dull. The blight is killing them both. And because the tree anchors Underfold's climate ward, the village is going to start feeling it: frost where there shouldn't be frost, rain that forgets to stop, soil that turns sour.
+**Inciting disruption**: The engagement party is in three weeks, it's already paid for, and now the engaged couple aren't speaking. Priya's mother, Mrs. Rajan, is Juliet's most important client. Juliet cannot let this party fail. But Priya, furious about the earpiece incident, has banned Juliet from all relationship advice and instead hired a professional — Elliot Yoon, a workplace conflict mediator who "also does personal." When Juliet and Elliot meet at the first planning session, their approaches collide immediately: she wants to engineer a grand romantic gesture to remind Priya and Dev why they fell in love; he wants to put them in a room and let them talk. The bet crystallizes: they'll each get a week to try their approach. If Juliet's method works, Elliot stays out of the party planning. If Elliot's works, Juliet agrees to stop giving unsolicited relationship advice — permanently.
 
-**The escalating middle**: Bramble tries every remedy she knows — poultices on the bark, strengthening draughts for Grisle, a ward-circle around the roots. None of it works because she's treating symptoms. The village begins to notice: the baker's bread won't rise right, the apples taste of nothing, a late frost kills the early peas. The village council (five people and a disagreeable goat) wants answers. Bramble doesn't have them. She goes to consult Hazel Blackthorn, the nearest proper witch, who lives three valleys over and is 112 years old and mostly interested in her rock garden. Hazel tells her, with the bluntness of the very old: "You can't cure what's finishing. You can only help what's beginning." Bramble doesn't want to hear this.
+**Escalating middle**: Juliet's Week One gambit: she orchestrates a "spontaneous" re-creation of Priya and Dev's first date (same restaurant, same rain, same accidentally-ordered dish neither of them liked). It nearly works — until Dev discovers the setup and feels manipulated. Worse: Juliet has also been advising two other couples in the friend group (Ravi and Suki, who are fighting about a dog; Tomas and Bea, who can't agree on where to live), and her advice starts creating crossover chaos. She tells Ravi to "show up with the puppy as a surprise" — the puppy escapes and destroys Priya's mother's garden. She tells Tomas to write Bea a letter confessing his true feelings — Tomas accidentally sends it to the friend group chat. Each subplot collision worsens the one before it, Wodehouse-style.
 
-**The crisis point**: Grisle, in a moment of lucidity, speaks to Bramble through the Listening — not in words, but in feelings. Forty years of bond-memories: the taste of earthworms after rain, the sound of children climbing the beech, the slow green patience of sapwood growing. And underneath it all, a readiness. Not despair. Acceptance. Grisle knows the tree's time has come, and his with it. What he's asking Bramble to do is not save them — it's help a new bond take root. There's a sapling growing from a beech-mast in the roots of the old tree. And there's a young badger, Grisle's last cub, nosing around the commons at dusk. Bramble has to let go of the old bond to midwife the new one.
+Meanwhile, Elliot's calm approach is slowly, infuriatingly working. He listens. He asks questions. He doesn't try to script anyone's feelings. And he keeps showing up at Juliet's planning sessions with observations that are both devastatingly correct and maddeningly gentle. ("You built a beautiful version of their first date. But it was your version. Have you ever asked them what they remember about it?") Juliet and Elliot's planning meetings — ostensibly about the party — become increasingly charged. They argue about love like it's a philosophical position. She accuses him of being so afraid of mess that he'll never experience real passion. He suggests that her addiction to grand gestures might be a way of avoiding the terrifying simplicity of just... telling someone how you feel.
 
-**The ending**: Bramble performs the Passing — a ritual her aunt Sedge described once but that Bramble has never done, because it means accepting that the thing you've been tending is done. She sits with Grisle through his last night, feeling the old bond dissolve and the new one — tentative, fragile, entirely unproven — kindle between sapling and cub. The old beech will die. The new one will take decades to grow. Underfold's weather will be rough for a few years. But the bond is alive, and so is the Listening, and in the morning Bramble finds herself sitting on the commons with a young badger asleep against her knee and no idea what comes next — which, she realizes, might be the first truly interesting thing that's happened to her in thirty years.
+**Crisis point**: Everything collides at the "practice dinner" Juliet has organized (a dry run for the engagement party, because of course she has). Ravi shows up with the recaptured puppy. Tomas shows up with a guitar (Juliet's idea). Bea shows up with a real estate agent (Elliot's suggestion, which Juliet has misunderstood and amplified). The puppy knocks over Tomas's music stand. The real estate agent starts pitching Priya's mother on selling her house. Dev, who has quietly arrived hoping to reconcile with Priya, sees the chaos and assumes Juliet has orchestrated another scheme. He tells Priya: "This is what it'll always be. Your friends running our relationship." Priya looks at Juliet and says, "He's right."
 
-**Open thread**: The young badger, not yet named, opens one eye and looks at Bramble with an expression that is either profound recognition or simple hunger. Bramble isn't sure which. She suspects she'll spend quite a long time finding out.
+This is the moment Juliet's self-narrative shatters. She sees herself through their eyes: not a woman who understands love, but a woman so afraid of her own love life that she colonizes everyone else's. Elliot finds her outside, sitting on the back steps. For the first time, she doesn't perform. She doesn't have a plan. She says, "I think I might be the reason none of this works." He doesn't reassure her. He just sits down.
+
+**Ending**: Juliet goes to Priya alone. No script, no earpiece, no orchestrated moment. She apologizes — not the grand-gesture apology she would have planned a week ago, but a real one, clumsy and incomplete. She says she doesn't know how to fix it, which is the first honest thing she's said about relationships in years. Priya and Dev reconcile on their own terms, in their own time, before the party. The party happens — simpler than Juliet planned. She's given up control of the playlist, the seating chart, the toast structure. When Elliot asks her to dance, she doesn't choreograph the moment. She says yes. On the dance floor, she tells him she's terrible at this. "At dancing?" "At being in the story instead of writing it." He says, "I've noticed." But he doesn't let go of her hand. The final image: Juliet's phone buzzes. It's Ravi, asking for advice about proposing to Suki. Juliet stares at the text. Her thumbs hover. She locks the phone and puts it in her pocket. Then she unlocks it, types "Ask her what she wants," and puts it away for real.
 
 ### 4. Key Scenes
 
-1. **The Ladder and the Jackdaw** (opening): Bramble mid-argument with a bird, domestic chaos as the entry point, the Listening's alarm arriving not as drama but as a quiet wrongness — establishes the cozy tone and Pratchett's technique of building cosmic stakes from domestic absurdity. Also establishes Bramble's voice: practical, annotating, funny without trying to be.
+- **The earpiece disaster** (opening): Establishes Juliet's modus operandi AND her blind spot in a single comic set-piece. The comedy comes from the precision of her stage directions collapsing in real time. Reveals character: she's not malicious, she's genuinely trying to help, which makes the catastrophe funnier and sadder.
 
-2. **Grisle's Set** (early middle): Bramble crawls into the badger's burrow beneath the beech roots to check on him. She hasn't been down here in years. The passage is cramped, earthy, intimate. She finds Grisle diminished — his fur patchy, his breathing labored — and feels through the Listening the tree's pain as if it were her own arthritis, a deep ache in the joints of the world. This scene carries Hobb's interiority and the animal-bond tenderness. The physical cost of the bond made tangible.
+- **The first Juliet-Elliot planning session**: Their fundamental worldview clash plays out through party planning logistics. She wants a curated Spotify playlist that tells the story of Priya and Dev's relationship in chronological order. He wants to ask them what songs matter to them. The argument about the playlist is really an argument about whether love is something you design or something you discover. This is the scene where the reader realizes these two are going to fall for each other and both of them are going to be the last to know.
 
-3. **The Village Council** (mid-story): Five people, a disagreeable goat named Parliament, and Bramble trying to explain magical arboreal blight to people who think magic is "that thing Bramble does with the bees." Pratchett-inflected comedy: the village understands the crisis only when the baker's bread fails. Bread is real. Trees are just trees. But bread that won't rise? That's an emergency. Bramble realizes she's been holding the village together so seamlessly that they've forgotten the holding requires effort.
+- **The re-created first date**: Juliet's most ambitious scheme, executed with maximum competence and minimum understanding. The scene should be genuinely touching for a moment — she's gotten the details perfect, the restaurant is beautiful, Priya tears up — before the whole thing detonates when Dev finds the planning binder Juliet accidentally left in the coat check. The comedy is in the gap between the perfection of the setup and the fundamental wrongness of the premise.
 
-4. **Hazel Blackthorn's Garden** (turning point): The old witch's advice, delivered while repotting a succulent: "You can't cure what's finishing. You can only help what's beginning." Hazel is the imperfect mentor — she knows the answer but won't soften it. She also sees what Bramble can't: that Bramble's grief isn't about the tree. It's about the fear of not being needed. "You've been the mortar so long you've forgotten you're also a brick."
+- **The practice dinner catastrophe**: The Wodehouse collision scene where every subplot crashes into every other simultaneously. The puppy, the guitar, the real estate agent, the music stand — each element individually reasonable, together absolute pandemonium. But the real punch is emotional: Dev's quiet "This is what it'll always be" lands harder than any slapstick.
 
-5. **The Passing** (climax): The ritual scene. Bramble sits with Grisle through the night, feeling forty years of bonded memory flow through the Listening. She has to actively release her grip — not on the tree, but on her certainty that maintaining is the same as caring. The new bond kindles: faint, wobbly, like a candle flame in a draft. Not a triumphant blaze. An uncertain beginning. This is the emotional peak — earned comfort, not easy comfort.
+- **Juliet and Elliot on the back steps**: The scene where comedy gives way to genuine vulnerability. No banter, no performance. Henry's emotional register takes over — the moment when being funny stops working as armor. Elliot doesn't fix her. He just stays.
 
 ### 5. Emotional Trajectory
 
-**Beginning**: The reader feels *settled* — this is a world of kettles and ward-bottles and argumentative jackdaws, and Bramble's voice is warm and wry and specific enough to feel like visiting someone's kitchen. Comfort as the baseline.
-
-**Early middle**: A creeping *unease* beneath the comfort, as the wrongness in the tree registers. Not fear — this is cozy fantasy — but the particular anxiety of watching something you love start to fail. The reader feels protective of this world Bramble has built.
-
-**Middle**: *Frustration and tenderness* in equal measure. Frustration because Bramble keeps trying to fix things with the tools she has and they aren't working. Tenderness because her stubbornness is so clearly an expression of love, even when it's misguided. The village council scene provides comic relief that also sharpens the stakes.
-
-**Late middle / crisis**: *Grief that is also recognition*. When Grisle shares his bond-memories through the Listening, the reader should feel the weight of forty years of quiet service — the badger's lifetime of tending something larger than himself, without complaint, without thanks. And underneath: readiness. Not resignation. The difference matters.
-
-**Ending**: The reader should feel *warm but not finished*. The old bond is gone. The new one is barely there. Bramble is sitting in the dawn with a young badger she doesn't know yet and a future she can't predict. It's not a resolution — it's a threshold. The warmth comes from the fact that she's still here, still listening, still willing. The reader puts this down feeling like they've had a good cry and a cup of tea afterward, and the tea is still warm.
+The reader begins in **delight** — Juliet is charming, her schemes are elaborate and fun, her narration is sharp and self-aware enough that we're laughing with her even as we see the disasters approaching. The earpiece sequence should produce genuine laughs. By the middle, delight shifts to **comic dread mixed with anticipation** — we can see the collisions coming, we know the practice dinner will be a catastrophe, and we're watching Juliet fall for Elliot while absolutely refusing to acknowledge it. The crisis produces a sharp pivot to **recognition** — not pity, but the uncomfortable feeling of seeing someone realize a truth about themselves they've been elaborate about avoiding. The ending leaves the reader with **warm, complicated hope** — not the sugar-rush of a perfect resolution, but the feeling that Juliet has taken one genuine step toward being brave about her own heart, and that she'll probably relapse a little (the phone scene), and that this is how real change actually works. The final emotion is tenderness cut with a knowing laugh.
 
 ### 6. Formula Integration
 
-**Author A — Terry Pratchett** (satirical warmth, footnotes as worldbuilding, the joke that's also the thesis, compassion through comedy): **Most visible in**: Bramble's narrating voice throughout, but concentrated in the **Village Council scene**. The comedy of Parliament the goat, the baker's bread as the true measure of crisis, the villagers' cheerful obliviousness to the magic that sustains them — all of this is Pratchett's technique of finding the universal human truth inside the absurd particular. Bramble's running mental footnotes (observations that annotate the world as she moves through it — "*The jackdaw had been stealing ward-bottles all summer. Bramble suspected it liked the way they caught the light, which was fair enough; so did she.*") are a prose-level echo of Pratchett's footnote voice brought into close third person.
+**Emily Henry (Author A)** — Most visible in: Juliet's first-person narration throughout, but concentrated in the scenes where she describes Elliot with comic indignation. The way she catalogs his annoying qualities ("He listens like he's being paid for it, which, I suppose, he is") should carry Henry's signature blend of attraction-expressed-as-grievance. Her internal monologue when she realizes she's staring at his hands during a planning session. The banter between Juliet and Elliot should have Henry's rhythm: fast, competitive, each person trying to win while secretly hoping to be understood.
 
-**Author B — Robin Hobb** (deep interiority, the physical/emotional cost of magic, bonds between humans and animals, patient development): **Most visible in**: The **Grisle's Set scene** and the **Passing ritual**. The Listening as a magical bond that carries physical sensation — feeling the tree's rot as joint-ache, feeling Grisle's exhaustion as her own breathlessness — is Hobb's signature technique of making magic cost something real and bodily. Bramble's interiority when she's alone with Grisle, the private tenderness of sitting with a dying animal companion, the understanding that passes between them without words — this is the Fitz/Nighteyes bond translated into a gentler register. The emotional cost of letting go, measured in the body.
+**P.G. Wodehouse (Author B)** — Most visible in: The practice dinner catastrophe scene, which should be engineered with Wodehouse's mechanical precision — each element introduced innocently, each collision producing exactly the worst possible result, the whole sequence escalating with the beautiful inevitability of a Rube Goldberg machine. Also in Juliet's extended similes and metaphors ("He looked at me the way a very patient border collie looks at a sheep that has not only left the flock but has somehow gotten on a motorcycle") and her narration's supreme, unfounded confidence.
 
-**Work X — The Wee Free Men** (young protagonist solving problems through cleverness and stubbornness, fairy tale inverted, home territory defended through knowing it): **Most visible in**: The **overall structure** — Bramble defends her territory not through power (she's a hedgewitch, not an archmage) but through knowing her land better than the blight does. She crawls into a badger's burrow. She checks the soil pH by taste. She reads the wind. The fairy tale inverted: there is no villain, no dark lord, no invading army. The enemy is entropy, and the weapon is attention. Tiffany's frying pan becomes Bramble's poultice-pot. The stubbornness-as-heroism throughline is direct.
+**Beach Read (Work X)** — Most visible in: The bet/challenge structure, the forced proximity of the planning sessions, and the moment of mutual transformation. The "educational outings" parallel is the planning sessions themselves — each one brings Juliet and Elliot closer while ostensibly being about Priya and Dev. The reveal that punctures both self-narratives: Juliet's revelation that she meddles to avoid vulnerability, and Elliot's eventual admission (implied, not stated) that his professional calm is its own kind of armor.
 
-**Work Y — Assassin's Apprentice** (cost of duty, imperfect mentor, belonging to a place that uses you, animal companion as truest relationship, identity forged through survival): **Most visible in**: **Hazel Blackthorn's scene** and **Bramble's internal arc**. Hazel is the imperfect mentor — she has the wisdom but delivers it without cushioning, and she sees Bramble's blind spot before Bramble does. The cost of duty is Bramble's central wound: thirty years of holding Underfold together, and the village doesn't even know it needs holding. She belongs to a place that uses her. And Grisle — the animal companion who sees her whole, who shares forty years of wordless understanding through the bond — is the truest relationship in the story, just as Nighteyes is for Fitz. Identity forged through what you survive: Bramble survives the Passing, and what she finds on the other side is not triumph but the possibility of becoming someone new.
+**Right Ho, Jeeves (Work Y)** — Most visible in: The cascading-catastrophe structure of the middle section, where every fix creates a new problem. Juliet is Bertie Wooster — certain she's helping, constitutionally unable to see that she IS the problem. The ensemble subplots (Ravi/Suki, Tomas/Bea) serve the same function as Wodehouse's subplot collisions — they're individually manageable, but Juliet's meddling links them into a single Gordian knot. The thematic engine: good intentions as the most destructive force in romance.
 
 ### 7. Title
 
-**Hedgewitching for Beginners**
+**Unsolicited**
 
-This title works because:
-- Does not start with "The" (existing portfolio is at ~30%, needs to stay below threshold)
-- Gerund structure ("Hedgewitching") — varied from the existing title patterns
-- The "for Beginners" subverts expectations: Bramble is NOT a beginner; she's been doing this for thirty years. But the story's emotional arc is about discovering she's a beginner at the thing that actually matters — letting go, starting over, being uncertain. By the end, she genuinely is a beginner again.
-- Echoes Pratchett's love of titles that are jokes with hidden teeth (cf. *The Wee Free Men*, *A Hat Full of Sky*, *I Shall Wear Midnight*)
-- Has a cozy, inviting, approachable quality — you'd pick this up like you'd pick up a book called "Beekeeping for Beginners" at a village bookshop
+This title works on multiple levels: Juliet's unsolicited advice, her unsolicited interventions in other people's love lives, and — by the end — the unsolicited feelings she discovers for Elliot, which she never planned for and can't orchestrate. It's punchy, slightly wry, and doesn't start with "The." It diverges from the existing title patterns (no gerunds, no possessives, no "of" constructions). Single-word titles have energy and confidence, which suits the comic register.
 
 ---
 
 ## Metadata for Content Generation
 
 ```yaml
-title: "Hedgewitching for Beginners"
-slug: "hedgewitching-for-beginners"
-genre: "fantasy"
-subgenre: "cozy-fantasy"
-authorA: "Terry Pratchett"
-authorB: "Robin Hobb"
-workX: "The Wee Free Men"
-workY: "Assassin's Apprentice"
-targetWordCount: 3800
-readingTimeMinutes: 15
+title: "Unsolicited"
+slug: "unsolicited"
+genre: "romance"
+subgenre: "romantic-comedy"
+authorA: "Emily Henry"
+authorB: "P.G. Wodehouse"
+workX: "Beach Read"
+workY: "Right Ho, Jeeves"
+targetWordCount: 3400
+readingTimeMinutes: 14
 tags:
-  - cozy-fantasy
-  - hedgewitch
-  - animal-bond
-  - village-life
-  - letting-go
-  - quiet-magic
-  - mentor
-  - duty
-  - found-purpose
-  - badger
+  - romantic-comedy
+  - banter
+  - ensemble-cast
+  - meddling
+  - engagement-party
+  - forced-proximity
+  - rivals-to-lovers
+  - cascading-catastrophe
+  - portland
+  - good-intentions
 formulaSummary: >
-  Pratchett's satirical warmth and footnote-voice merge with Hobb's deep
-  interiority and animal-bond tenderness. A hedgewitch must stop trying to
-  fix a dying tree-bond and learn to midwife a new one instead — defending
-  her home not through power but through knowing it, and discovering that
-  the cost of duty is learning when to let go.
+  Henry's witty, self-aware first-person narration and banter-as-emotional-negotiation
+  meet Wodehouse's mechanical comic precision and elaborately escalating set-pieces.
+  A compulsive relationship fixer wages a bet against a conflict mediator — her
+  grand gestures against his calm logic — while every subplot she's meddling in
+  collides into a single, glorious catastrophe that forces her to stop writing
+  everyone else's love story and risk starring in her own.
 synopsis: >
-  When the ancient beech tree that anchors her village's weather ward begins
-  dying, hedgewitch Bramble Hopworth throws every remedy she knows at the
-  problem. None of them work. The tree's bonded badger is dying too, and the
-  only cure is one Bramble can't bring herself to accept.
+  An events coordinator who moonlights as her friend group's relationship fixer
+  must save an engagement she accidentally sabotaged — while sharing every planning
+  session with a maddeningly calm conflict mediator who thinks her methods are insane.
+  As her cascading interventions in three couples' lives collide spectacularly, she
+  discovers that the hardest person to be honest with is herself.
 combination:
   fromAuthorA:
-    - Satirical warmth in the village council scene — a disagreeable goat named Parliament, bread that won't rise as the true measure of crisis
-    - Running mental footnotes that annotate the world with wry precision — the joke that is also the observation that is also the worldbuilding
-    - Compassion expressed through comedy — Bramble's voice is funny because it's honest, not because it's trying to be
+    - Witty, confiding first-person narration that processes attraction as comic grievance — cataloging Elliot's infuriating qualities while falling for every one of them
+    - Banter as emotional negotiation — fast, competitive dialogue where both parties are trying to win and secretly hoping to be understood
+    - The moment the humor drops and genuine vulnerability surfaces, unprotected by performance or self-deprecation
   fromAuthorB:
-    - Deep interiority during the Listening sequences — magic that carries physical sensation, feeling the tree's rot as joint-ache in her own bones
-    - The animal-bond tenderness of the Bramble-Grisle relationship — wordless understanding, the companion who sees you whole
-    - Patient accumulation of emotional weight — the Passing ritual as forty years of bonded memory flowing through a single night
+    - Elaborately engineered comic set-pieces where small misunderstandings escalate through perfect mechanical logic into spectacular catastrophe
+    - Extended similes and metaphors that yoke the cosmic to the mundane, building through multiple clauses to a surprise detonation
+    - A narrator whose supreme confidence in her own relationship expertise is hilariously and consistently divorced from the evidence
   fromWorkX:
-    - Home territory defended through knowledge rather than power — Bramble wins by knowing her soil, not by being stronger than the blight
-    - The fairy tale inverted — no villain, no dark lord, the enemy is entropy and the weapon is attention
-    - Stubbornness as heroism — the frying-pan-and-common-sense approach to the magical problem
+    - Rivals-to-lovers structure via a bet/challenge that forces two people with opposing worldviews into forced proximity and gradual mutual transformation
+    - Recurring planning sessions that function like Beach Read's educational outings — ostensibly about someone else's relationship, actually building their own
+    - The reveal that punctures both characters' self-narratives — her belief that she understands love, his armor of professional detachment
   fromWorkY:
-    - The cost of duty as the protagonist's central wound — thirty years of invisible service to a village that forgot the service was happening
-    - The imperfect mentor who delivers truth without cushioning — Hazel Blackthorn seeing Bramble's blind spot before Bramble does
-    - The animal companion as the truest relationship — Grisle's bond-memories as the emotional climax, identity transformed through what you survive
+    - The catastrophe of good intentions — every attempt to fix someone else's relationship making it worse through irrefutable comic logic
+    - Ensemble cast with interconnected subplots that collide because the protagonist's meddling has linked them into a single chain reaction
+    - The gap between self-image and reality as comic engine — a protagonist who genuinely believes she's helping while being the source of every problem
 ```
 
 ---
 
 ## Notes for the Writer Agent
 
-**Prose voice**: Close third person, past tense, with Bramble's interior commentary running as a warm, annotating presence throughout. The voice should feel like Pratchett's omniscient narrator squeezed into one character's perspective — wry, observational, structurally precise beneath the conversational surface. When the story reaches the Listening scenes (Grisle's set, the Passing), the voice should shift toward Hobb's register: slower, more sensory, more interior, the comedy dropping away not because it's forced out but because the moment is too real for jokes.
+**Prose voice**: First person, present tense for immediacy. Juliet's narration should blend Henry's confiding warmth with Wodehouse's elaborate comic constructions. She is smart, self-aware about everything except herself, and her sentences should have both Henry's emotional precision and Wodehouse's mechanical surprise. She notices the right details but draws the wrong conclusions.
+
+**Comedy mechanics**: This must be GENUINELY FUNNY. Not literary fiction with a smile, but a story that produces real laughs. The earpiece scene, the puppy escape, the group-chat letter, the practice dinner — these are comic set-pieces that need timing, escalation, and payoff. Wodehouse's method: introduce each element innocently, let the reader see the collision approaching, then execute it with worse-than-expected results. Henry's method: the funniest line is the one that, two seconds later, you realize was also the saddest.
+
+**Emotional stakes**: The comedy must coexist with real vulnerability. The back-steps scene (Juliet and Elliot after the catastrophe) is the emotional center of the story. It should earn its quiet by the volume of comedy that preceded it. Don't rush it. Let the silence do work.
 
 **What NOT to do**:
-- Do NOT make the comedy broad. Pratchett's humor was precise, observational, grounded in specific human truths. No slapstick, no wackiness, no "zany magical village" energy.
-- Do NOT make the emotional beats saccharine. The warmth should be earned. When Bramble cries, it should surprise her. When the bond kindles, it should be fragile and uncertain, not triumphant.
-- Do NOT explain the themes. The story is about letting go, about the cost of duty, about the fear of not being needed — but these should be visible in what happens, not stated.
-- Do NOT give Bramble a tidy epiphany. She doesn't "realize" anything in a clean sentence. She acts, and the understanding follows later, incomplete.
-- Do NOT resolve every thread. The new bond is uncertain. The old beech is still dying. Underfold's weather will be rough. The young badger is unnamed. Leave room.
+- Don't make Juliet a screw-up played for pity. She's competent at everything except the one thing she thinks she's best at. That's the comedy.
+- Don't make Elliot boring or purely the "reasonable one." He should be funny in his own right — dry, unexpected, capable of surprising Juliet. His calm should occasionally crack and reveal something complicated underneath.
+- Don't resolve the Juliet-Elliot romance fully. The dance, the hand, the conversation — these are a beginning, not a happily-ever-after. The open thread is whether she'll actually let this become something real.
+- Don't let the ensemble subplots overwhelm. Ravi/Suki and Tomas/Bea exist to create collision material and to demonstrate Juliet's pattern. They should be sketched economically — a sentence or two of setup, then they pay off in the catastrophe scene.
+- Don't announce the theme. Juliet should never say "I've been meddling to avoid my own feelings." The reader should feel it; Juliet should almost-say it and then deflect into humor, except once, on the back steps, when she doesn't.
 
 **What TO do**:
-- Ground every scene in physical, sensory detail. The smell of the beech bark. The weight of Grisle's fur. The taste of soil. The sound of bees. The cozy world must be tangible enough to live in.
-- Let Bramble be funny without trying to be funny. Her comedy comes from precision, not performance.
-- Let the Listening be a fully realized magical system — subtle, bodily, integrated into how Bramble perceives the world. It's not a superpower; it's a way of paying attention that has a cost.
-- Let Grisle be a character, not a symbol. He's an old badger. He's grumpy. He bites when his arthritis flares. He has been the tree's warden for forty years and he is tired, and his tiredness is dignified, not pathetic.
-- Let the ending breathe. The last scene should feel like dawn — uncertain, quiet, open.
+- Make the banter crackle. Juliet and Elliot arguing about playlists, seating charts, and toast structures should be as charged as any love scene. They're talking about party planning but they're really talking about what love is.
+- Use the Wodehouse escalation in the practice dinner. Each new arrival should make the reader's dread-delight increase. The reader should be thinking "no, no, no" while laughing.
+- Give Juliet at least one extended Wodehouse-style simile per major scene — the kind that builds through three clauses and lands on something unexpected.
+- The phone scene at the end must be precise. The impulse to meddle, the restraint, the relapse into one piece of genuinely good advice ("Ask her what she wants") — this is the thread left open. She's changing, but she's not changed.
