@@ -15,7 +15,7 @@ tags:
   - animal-bond
   - village-life
   - quiet-magic
-rating: 4.0
+rating: 3.8
 ratingCount: 8
 publishedDate: "2026-02-21"
 status: "published"

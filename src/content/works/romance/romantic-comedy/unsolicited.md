@@ -15,7 +15,7 @@ tags:
   - ensemble-cast
   - meddling
   - rivals-to-lovers
-rating: 3.9
+rating: 3.6
 ratingCount: 10
 publishedDate: "2026-02-21"
 status: "published"
