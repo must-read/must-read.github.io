@@ -18,8 +18,8 @@ tags:
   - banter
   - contemporary
   - british-setting
-rating: 3.9
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: 2026-02-20
 status: "published"
 formulaSummary: >
