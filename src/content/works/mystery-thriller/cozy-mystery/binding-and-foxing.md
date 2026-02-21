@@ -15,8 +15,8 @@ tags:
   - snowbound
   - unreliable-memory
   - antiquarian-books
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-21"
 status: "published"
 formulaSummary: >
