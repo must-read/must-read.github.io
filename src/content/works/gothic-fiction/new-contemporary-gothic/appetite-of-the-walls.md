@@ -20,8 +20,8 @@ tags:
   - efflorescence
   - measurement
   - postcolonial
-rating: 0
-ratingCount: 0
+rating: 4.2
+ratingCount: 10
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: >

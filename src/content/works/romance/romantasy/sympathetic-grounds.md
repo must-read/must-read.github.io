@@ -20,8 +20,8 @@ tags:
   - rivals
   - hedge-practitioner
   - ward-architect
-rating: 1
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: >

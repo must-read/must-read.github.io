@@ -10,8 +10,8 @@ workY: "All Quiet on the Western Front"
 wordCount: 4039
 readingTimeMinutes: 16
 tags: ["war", "memory", "unreliable narrator", "Rhodesia", "bush war", "loss", "camaraderie", "Africa", "survival", "self-deception"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: "Stevenson's polished retrospective narration and moral composure fused with Smith's visceral African landscape prose, structured through Jones's ensemble military perspectives and shaped by Remarque's themes of youth destroyed by war and the impossibility of return."

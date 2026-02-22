@@ -22,8 +22,8 @@ tags:
   - seismic-magic
   - buried-civilization
   - name-songs
-rating: 3
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: >

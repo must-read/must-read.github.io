@@ -19,8 +19,8 @@ tags:
   - forensics
   - watts-towers
   - moral-compromise
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: >
