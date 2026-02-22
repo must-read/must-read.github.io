@@ -7,7 +7,7 @@ authorA: Robert Aickman
 authorB: Carmen Maria Machado
 workX: "House of Leaves (Mark Z. Danielewski)"
 workY: "The Lottery (Shirley Jackson)"
-wordCount: 4856
+wordCount: 4805
 readingTimeMinutes: 19
 tags: [weird-fiction, multiple-voices, communal-ritual, body-horror, nested-narratives, ambiguity]
 rating: 4.0
@@ -71,7 +71,7 @@ I don't mean everyone at once. I mean that, one by one, people stepped to the ed
 
 I cried. Ros held my hand. I could feel the warmth of the pool on my face from five feet away.
 
-The second Attending was the following March. A different body in the pool — a man, this time, older, with a broad back and heavy arms. The hands went in. The same gentleness. But this time I was closer, and I could see what the hands were doing, and I'm not sure the word is *holding*. The fingers were pressing into the skin in a way that left white marks. The man's face was not pained, exactly. Concentrated. Like someone listening to a sound just below the range of hearing. When it was over he climbed out and dressed and people spoke to him in low voices and he nodded, and nodded, and I saw that the white marks where the fingers had pressed were still there on his shoulders the next day, and the day after that, and I never saw them fade.
+The second Attending was the following March. A different body in the pool — a man, this time, older, with a broad back and heavy arms. The hands went in. The same gentleness. But this time I was closer, and I could see what the hands were doing, and the word is not *holding*. The fingers were pressing into the skin in a way that left white marks. The man's face was not pained, exactly. Concentrated. Like someone listening to a sound just below the range of hearing. When it was over he climbed out and dressed and people spoke to him in low voices and he nodded, and nodded, and I saw that the white marks where the fingers had pressed were still there on his shoulders the next day, and the day after that, and I never saw them fade.
 
 The third Attending. The fourth. Each one I describe differently in my memory, not because the ritual changed but because my eyes did. What I had seen as tenderness I now saw as — not violence, but something for which I didn't have a word. Something that occupied the same space as tenderness, wore its clothes, moved like it, but was not it. Like looking at a word you've read a thousand times until the letters stop making sense. The hands in the water. The body receiving them. The warm blue-green water and the candles and the smell.
 
@@ -135,7 +135,7 @@ She writes about the hands as though they were doing something to a body. The ha
 
 She writes that the water was the colour of something wrong. The water is the colour it has always been. The *Aphanothece* bloom when the springs are generous. They are beautiful. We have watched them for generations. They are ours the way the springs are ours, the way the pool is ours, the way the bodies in the pool are ours.
 
-That is not what happened. What she describes — the pressure, the marks, the unwillingness — that is her own fear made visible. We have seen it before. Fear looks like violence to the frightened.
+That is not what happened. What she describes — the pressure, the marks, the unwillingness — we have seen this before. We have seen it in others who came here and could not understand what was being given to them.
 
 We do not understand why she left. We do not understand why anyone leaves.
 
@@ -151,9 +151,9 @@ I should tell you what I noticed about the others. The ones who'd been in the po
 
 Ros was thirty-nine. She had a scar on her left knee from a cycling accident and a mole on her right shoulder blade that I used to press my thumb against when I couldn't sleep. She was solid. She was the most real person I knew. I am telling you this because I need you to understand what went into the pool.
 
-The evening of the Attending. September again. We walked to the pool house. The community was already there. Candles in glass jars. The warm mineral smell. The blue-green of the *Aphanothece* brighter than I'd ever seen it, almost fluorescent, as though the colonies had been waiting.
+The evening of the Attending. September again. We walked to the pool house. The community was already there. Candles in glass jars. The warm mineral smell. The blue-green of the *Aphanothece* brighter than I'd ever seen it, nearly fluorescent.
 
-Ros undressed. She was calm. She walked into the pool the way the others had — slowly, steadily, the warm water rising to her waist. She turned to face us. She didn't smile. Her face had the concentrated look I'd seen on the man years before, the look of listening to a frequency just below hearing.
+Ros undressed. She was calm. She walked into the pool the way the others had — slowly, steadily, the warm water rising to her waist. She turned to face us. She didn't smile. Her face had that same concentrated look I'd seen on the man years before.
 
 The hands went in. One by one. Ailsa first, then Robert, then Joan. I watched their hands on Ros's shoulders, her arms, her ribs. The white pressure of fingertips on skin. Ros's eyes were closed. The water moved.
 
@@ -187,7 +187,7 @@ The pool is larger. The water is warm. She can feel the heat from the doorway. T
 
 Dr. Sable measures the room. Sixty-eight feet. The building has not grown. She checked the exterior on her way in. Forty-one feet, four inches, as before.⁶
 
-She does not enter the water. She stands at the edge of the pool and looks down. The water is dark. Something moves beneath the surface — not a current exactly, but a shifting, the way light moves inside a gemstone when you turn it. She crouches. She can see her own reflection but it is wrong: the face in the water is hers but it is smiling and she is not smiling. She notes this in her field book. Her handwriting, at this point, has changed — the letters are rounder, the pressure heavier, as though she is writing with unfamiliar hands.
+She does not enter the water. She stands at the edge of the pool and looks down. The water is dark. Something moves beneath the surface — not a current, but a shifting, the way light moves inside a gemstone when you turn it. She crouches. She can see her own reflection but it is wrong: the face in the water is hers but it is smiling and she is not smiling. She notes this in her field book. Her handwriting, at this point, has changed — the letters are rounder, the pressure heavier, as though she is writing with unfamiliar hands.
 
 She photographs the room, the corridors, the pool, the growth. She notes the temperature of the air: 32°C, ten degrees above the exterior temperature. She notes a smell she cannot identify — not mineral, not organic, something between the two. She notes that the four corridors leading off the main chamber each extend beyond the reach of her torch beam. She does not follow them. She records that she wanted to.
 
@@ -199,9 +199,9 @@ Dr. Sable files her field report. She does not request a follow-up visit. She ap
 
 ---
 
-⁵ Dr. Sable's report contains no reference to this opera. Rossini's *Eduardo e Cristina* (1819) is notable primarily for its method of composition: assembled under extreme time pressure from the composer's existing works, its borrowed components were so seamlessly integrated that contemporary audiences perceived it as wholly new. The parallel to communal ritual traditions assembled from heterogeneous folk practices across centuries is, Dr. Sable might have noted, structurally precise.
+⁵ Dr. Sable's report contains no reference to this opera. Rossini's *Eduardo e Cristina* (1819) is notable primarily for its method of composition: assembled under extreme time pressure from the composer's existing works, its borrowed components were so seamlessly integrated that contemporary audiences perceived it as wholly new.
 
-⁶ The building's exterior measurements remained constant across all three of Dr. Sable's surveys (14 August, 16 August, 18 August). The interior measurements were: 53 feet, 2 inches (14 August); 57 feet, 6 inches (16 August); 68 feet, 0 inches (18 August). Dr. Sable did not note this progression in her report. This footnote was added during document preparation by a third party whose identity has not been established.
+⁶ The building's exterior measurements remained constant across all three of Dr. Sable's surveys (14 August, 16 August, 18 August). The interior measurements were: 53 feet, 2 inches (14 August); 57 feet, 6 inches (16 August); 68 feet, 0 inches (18 August). Dr. Sable did not note this progression in her report.
 
 ---
 
@@ -213,7 +213,7 @@ Everyone is present. We stood at the pool this morning and felt the warmth come 
 
 A new resident has arrived. A woman, alone, who has been writing to us for some months. She found us the way people find us — a mention somewhere, a name half-remembered, a road that seemed to lead somewhere else until it didn't. She is younger than most who come. She has a quality of attention we recognize.
 
-We showed her the springs. We showed her the pool. We told her the water was warm and the water was good and she knelt at the pool's edge and put her hand in and looked up at us and said nothing, and we recognized the expression on her face because it is the expression everyone wears, the first time. Surprise, and then something deeper than surprise.
+We showed her the springs. We showed her the pool. We told her the water was warm and the water was good and she knelt at the pool's edge and put her hand in and looked up at us and said nothing, and we recognized the expression on her face because it is the expression everyone wears, the first time. Surprise, and then the end of surprise.
 
 We brought her bread. We brought her jam.
 
@@ -231,11 +231,11 @@ But the space inside her was different. I could feel it when I held her. She was
 
 I once heard a story about a woman who loved someone so much she could hear the sea inside them. In the version I was told, it was a curse. In the version Ros would have told me, it was the point.
 
-She looked at me in the weeks after the Attending and I could feel the community behind her eyes. Not watching, exactly. Attending. Her hands on my waist when she passed me in the kitchen left faint white pressure marks that lasted hours. She did not seem to notice. She hummed sometimes — low, tuneless, except when it wasn't, when it resolved into a melody I almost recognized, ornate and borrowed and old.
+She looked at me in the weeks after the Attending and I could feel the community behind her eyes. Not watching. Attending. Her hands on my waist when she passed me in the kitchen left faint white pressure marks that lasted hours. She did not seem to notice. She hummed sometimes — low, tuneless, except when it wasn't, when it resolved into a melody I almost recognized, ornate and borrowed and old.
 
 I left because I was afraid I would stop noticing. I left because Ailsa smiled at me one morning — that same even, held smile — and I realized they were going to choose me next and I was going to say yes. I was going to walk into that warm water and let the hands attend to me and I was going to become a building larger than my own walls and I wanted it. I wanted it the way you want to breathe. Not as desire but as necessity. And wanting it that badly, with that little resistance, was the thing that made me drive to Norwich in the dark.
 
-I have been trying to write this for eighteen months. I have been trying to describe the shape of what was in the pool — what Ros became, what the hands did, what the *Aphanothece* colonies looked like when they spread across her skin like a living map of something I almost recognized. I type medical reports all day. I convert bodies into language. But the body in the pool was a language I could not convert. It was a text that read me.
+I have been trying to write this for eighteen months. I have been trying to describe the shape of what was in the pool — what Ros became, what the hands did, what the *Aphanothece* colonies looked like when they spread across her skin like a map I couldn't quite read. I type medical reports all day. I convert bodies into language. But the body in the pool was not a body I could convert.
 
 I keep dreaming about the water. In the dream my hands are in the pool and the water is warm and the colour is that impossible blue-green and underneath my palms is a surface that goes on further than skin, further than muscle, further than bone, into a space that opens and opens and
 
