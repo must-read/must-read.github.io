@@ -20,8 +20,8 @@ tags:
   - betrayal
   - cochineal
   - coming-of-age
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: published
 formulaSummary: "O'Brian's naval precision meets Dumas's theatrical velocity, with Treasure Island's moral ambiguity and Master and Commander's professional intimacy"

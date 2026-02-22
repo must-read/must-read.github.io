@@ -18,8 +18,8 @@ tags:
   - civic-decline
   - quorum
   - participation
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: published
 formulaSummary: "Saramago's flowing omniscience meets Camus's spare clarity, with The Stranger's institutional judgment and Blindness's allegorical collapse"

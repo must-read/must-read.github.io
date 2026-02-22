@@ -10,8 +10,8 @@ workY: Animal Farm
 wordCount: 6205
 readingTimeMinutes: 25
 tags: ["diary", "surveillance", "transparency", "language", "semantic satiation", "desire paths", "totalitarianism", "glass architecture", "compliance", "revolution"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: published
 formulaSummary: "Orwell's transparent clarity meets Zamyatin's feverish fragmentation, with We's diary-as-document and Animal Farm's incremental language corruption"

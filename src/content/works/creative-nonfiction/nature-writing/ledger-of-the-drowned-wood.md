@@ -22,8 +22,8 @@ tags:
   - attention
   - loss-and-creation
   - landscape
-rating: 3.5
-ratingCount: 0
+rating: 3.6
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: >

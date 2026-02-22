@@ -22,8 +22,8 @@ tags:
   - subsidence
   - developer
   - inter-caste-marriage
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: "Rushdie's maximalist energy meets Roy's microscopic intensity, with God of Small Things' transgressive love and Midnight's Children's national allegory"
