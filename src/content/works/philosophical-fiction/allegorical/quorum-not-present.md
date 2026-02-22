@@ -7,8 +7,8 @@ authorA: José Saramago
 authorB: Albert Camus
 workX: "The Stranger"
 workY: Blindness
-wordCount: 3614
-readingTimeMinutes: 14
+wordCount: 3743
+readingTimeMinutes: 15
 tags:
   - allegorical
   - bureaucracy
@@ -72,7 +72,7 @@ The Member for District Nine observed that the phenomenon appeared to lack inten
 
 The Health Subcommittee Representative disputed this characterization. She argued that the absence of intentionality was itself a finding that required explanation. People do not stop participating by accident.
 
-The Member for District Nine replied that perhaps they do.
+The Member for District Nine replied that perhaps they do. He then retracted the statement. He then said he was not sure he had retracted it.
 
 The committee debated the point for forty-seven minutes. No resolution was reached.
 
@@ -107,9 +107,9 @@ The Chairperson noted the absence of the Representative of the Transit Authority
 
 **Item 2: Situation Update**
 
-Transit ridership had fallen 58% since the committee's first meeting. The Liaison to the Municipal Police reported that lampposts in Districts Three, Seven, and Twelve were being left on during daylight hours because no one had filed the complaints that triggered the automated shutoff cycle. The lampposts were not malfunctioning. The system required human input to complete its task. The input had stopped.
+Transit ridership had fallen 58% since the committee's first meeting, though the Chairperson noted an anomaly: ridership on Route 11 had actually increased for three consecutive days in the second week of the period before dropping to zero. No explanation was offered for the increase. The Liaison to the Municipal Police reported that lampposts in Districts Three, Seven, and Twelve were being left on during daylight hours because no one had filed the complaints that triggered the automated shutoff cycle. The lampposts were not malfunctioning. The system required human input to complete its task. The input had stopped.
 
-The coffee brought to the committee room was weaker than at previous meetings. The Secretary notes this without editorial comment.
+The coffee brought to the committee room was weaker than at previous meetings.
 
 **Item 3: Discussion of Emergency Declaration**
 
@@ -119,7 +119,7 @@ The Chairperson asked whether "withdrawal" constituted an emergency under munici
 
 The motion to recommend emergency declaration was tabled pending further study.
 
-(A phone rang somewhere in the building. It rang for a long time. It stopped without being answered.)
+A phone rang somewhere in the building during the Chairperson's closing remarks. It rang for a long time. It stopped without being answered. The Chairperson did not acknowledge it.
 
 The meeting was adjourned at 12:15.
 
@@ -195,9 +195,9 @@ The Chairperson asked whether he had filed a missing persons report. The Member 
 
 **Item 3: Other Business**
 
-The heating in Council Chamber B had failed. The building's maintenance request system required a digital submission, and the system's administrator had not logged in for twelve days. The committee met in coats.
+The heating in Council Chamber B had failed. The building's maintenance request system required a digital submission, and the system's administrator had not logged in for twelve days. The committee met in coats. The Member for District Nine, who had not mentioned it during formal proceedings, said as the committee was gathering its papers that he had seen a line of people outside a bakery in District Four on his way to the meeting. Seven or eight people. Waiting. He did not know what to make of it and so he had not raised it as an item.
 
-(The light through the window had a quality the Secretary found difficult to describe. Pale. Unimpeded. As though there were fewer things between the sun and the glass than there had been before.)
+(The light through the window had a quality the Secretary could not name. Pale. Unimpeded.)
 
 The meeting was adjourned at 10:48.
 
@@ -220,7 +220,7 @@ The Chairperson noted the absence of the Member for District Nine. No notificati
 
 The Chairperson stated that she wished to discuss the minutes themselves. She asked the Secretary to produce the minutes of all previous meetings. The Secretary complied.
 
-The Chairperson asked why, in the minutes of Meeting No. 3, the Secretary had recorded the notation "A phone rang somewhere in the building. It rang for a long time. It stopped without being answered." She asked what procedural purpose this notation served.
+The Chairperson asked why, in the minutes of Meeting No. 3, the Secretary had recorded the notation "A phone rang somewhere in the building during the Chairperson's closing remarks." She asked what procedural purpose this notation served, and why the Secretary had further noted that the Chairperson did not acknowledge it.
 
 The Secretary replied that the notation described what occurred during the meeting.
 
@@ -246,9 +246,9 @@ The Secretary stated that the function of minutes is to record what occurred, no
 
 The Chairperson said: "We are not asking about your function. We are asking about you."
 
-The Secretary recorded the statement.
+(The Secretary's pen moved across the page.)
 
-The Chairperson moved that the Secretary be formally censured for conduct unbecoming the gravity of the committee's work. The motion required a second.
+The Chairperson moved that the Secretary be formally censured for conduct unbecoming the gravity of the committee's work. The motion required a second. The Chairperson, while waiting, straightened the papers in front of her, which were already straight.
 
 (Long pause.)
 
@@ -256,7 +256,7 @@ The Member Who Arrived Late did not second the motion.
 
 The Health Subcommittee Representative did not second the motion.
 
-The motion failed for lack of a second. The Chairperson looked at the other two members. Neither met her eyes. The Health Subcommittee Representative examined the surface of the table. The Member Who Arrived Late folded his hands and unfolded them.
+The motion failed for lack of a second. The Health Subcommittee Representative examined the surface of the table. The Member Who Arrived Late folded his hands and unfolded them. The Chairperson did not look at either of them. She was still straightening the papers.
 
 The Chairperson asked that her dissatisfaction be recorded. The Secretary recorded it.
 
@@ -309,7 +309,7 @@ The Secretary said: "Yes."
 
 The Chairperson asked: "For whom?"
 
-The Secretary wishes to note, for the record, that the Secretary's spouse ceased participating one hundred and seventeen days before this committee was convened, not in the manner of the city's general withdrawal but in a private and preceding way, first by falling silent at meals, then by failing to answer when addressed directly, then by no longer going out, then by no longer coming home at the expected hour, and then by no longer coming home at all, and that the Secretary did not report this to any authority or mention it in any meeting or record it in any minutes because the function of minutes is to record what occurred in proceedings, and a marriage is not a proceeding, and the Secretary continued to attend these meetings not because the Secretary believed that attendance would restore civic function or that the committee's recommendations, if it ever produced any, would bring back what was leaving, but because the act of recording was the last signal the Secretary knew how to send, and because sending a signal requires believing someone will receive it, and believing someone will receive it is itself a form of participation, and participation was the thing that was being lost, and so the Secretary continued, and continues, and will continue until the signal is no longer a signal but only a motion of the hand, and perhaps even after that.
+The Secretary wishes to note, for the record, that the Secretary's spouse ceased participating one hundred and seventeen days before this committee was convened, not in the manner of the city's general withdrawal but in a private and preceding way, first by falling silent at meals, then by failing to answer when addressed directly, then by no longer going out, then by no longer coming home at the expected hour, and then by no longer coming home at all, and that the Secretary did not report this to any authority or mention it in any meeting or record it in any minutes because the function of minutes is to record what occurred in proceedings, and a marriage is not a proceeding, and the Secretary continued to attend these meetings not because the Secretary believed that attendance would restore civic function or that the committee's recommendations, if it ever produced any, would bring back what was leaving, but because the act of recording was the last act the Secretary could perform without being asked, and the Secretary has not been asked, and continues not to be asked, and will continue until the hand stops or the pen runs dry, whichever comes first, and the Secretary does not know which it will be and has stopped wondering.
 
 The Chairperson said: "Let the record show —" and did not finish the sentence.
 
@@ -344,4 +344,4 @@ There being no second, the motion was not carried.
 
 The Secretary entered the minutes into the permanent record.
 
-There being no further business, the meeting was adjourned at ________.
+There being no further business, and no objection to the characterization of this absence of business as the absence of further business rather than the absence of business entire, the meeting was adjourned at ________.
