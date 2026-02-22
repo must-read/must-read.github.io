@@ -5,7 +5,7 @@ genre: "fantasy"
 subgenre: "epic-high-fantasy"
 authorA: "J.R.R. Tolkien"
 authorB: "Ursula K. Le Guin"
-workSlug: ""
+workSlug: "varnis-and-grieving"
 wordCount: 2983
 publishedDate: 2026-02-22
 ---
