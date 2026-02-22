@@ -7,8 +7,8 @@ authorA: "Douglas Adams"
 authorB: "Terry Pratchett"
 workX: "The Left Hand of Darkness"
 workY: "Catch-22"
-wordCount: 2981
-readingTimeMinutes: 13
+wordCount: 2710
+readingTimeMinutes: 11
 tags:
   - bureaucracy
   - alien civilization
@@ -180,7 +180,7 @@ Communication: +2 | Tool Use: 0 | Symbolic Behavior: +1 | Social Organization (O
 
 **Notes on Composite Score:** The scoring system awards points for tool use, but the inhabitants of KOI-4878.01 do not use tools because they do not need tools because they are, in a sense that the form has no mechanism to capture, already everything a tool could be. Awarding zero points for the absence of a need is different from awarding zero points for the absence of a capacity. The form does not distinguish between these.
 
-I am aware the form does not distinguish between these. I am recording it here so that the file contains the information even if the score does not.
+I am recording it here so that the file contains the information even if the score does not.
 
 > *Assessor Okonkwo: the Composite Score is auto-calculated and cannot be manually overridden. Your notes have been logged but do not affect the classification. This is by design. — S.H.*
 
@@ -244,16 +244,6 @@ The fern is not the point. But the fern is also not not the point.
 
 **Has the assessor identified any anomalies requiring further investigation?**
 
-This is where it closes. This is the seam where the form folds shut.
-
-If I select Yes — anomalies requiring investigation — the form triggers Extended Protocol 7. Three hundred and forty additional days on the surface. My housing allocation suspended. My lease expired. My grade under review for the duration. And at the end of those 340 days, I would fill out this form again, with the same dropdown menus, the same 40-character text fields, the same auto-calculated composite score. The form does not change between filings. Only the assessor's willingness to file does.
-
-If I select No — no anomalies — the assessment is complete. Category I. Uninhabited terrain. Resource extraction confirmed.
-
-The honest answer triggers the protocol that ensures I will eventually give the dishonest answer. The dishonest answer is where the honest answer was always going. This is not a flaw in the form. This is the form.
-
-**Has the assessor identified any anomalies requiring further investigation?**
-
 ☑ No
 
 > *Thank you, Assessor Okonkwo. Compliance determination complete. — System*
@@ -266,13 +256,13 @@ The honest answer triggers the protocol that ensures I will eventually give the 
 
 KOI-4878.01 supports a biosphere that does not conform to Galactic Standards Commission assessment categories. I want to state this clearly because the rest of the form does not: the inhabitants of this world are not pre-sentient. They are sentient in a way the form cannot score.
 
-Their communication is geological. The tectonic plates of KOI-4878.01 produce harmonic frequencies that carry information — not in the way a river carries sediment, by accident of flow, but in the way a voice carries meaning, by intention. The inhabitants modulate these frequencies. They compose with them. During the 216 hours I spent on the surface, I recorded what I can only describe as an argument between two continental shelves about the proper resonant frequency for grief. It lasted eleven hours. It was not resolved. It was not meant to be resolved. It was meant to be held.
+Their communication is geological. The tectonic plates of KOI-4878.01 produce harmonic frequencies that carry information — not in the way a river carries sediment, by accident of flow, but in the way a voice carries meaning, by intention. The inhabitants modulate these frequencies. They compose with them. During the 216 hours I spent on the surface, I recorded an exchange between two continental shelves that lasted eleven hours. My equipment classified it as seismic data. It was a disagreement. I do not know what it was about. I know it was not resolved when I left, and I do not think it was meant to be.
 
-I do not know how to score "an argument about grief between continents" on the Sentience Composite Index. The form gives me Communication (+2), which is correct. It gives me Tool Use (0), because they do not use tools. It gives me Symbolic Behavior (Inconclusive, +1), because I cannot prove that the resonance patterns are symbolic rather than reflexive, even though I know they are, even though I sat on a basalt ridge at dusk and felt the harmonic shift when the formations recognized my survey equipment was listening and adjusted their frequency to include it. To include me.
+I do not know how to score this on the Sentience Composite Index. The form gives me Communication (+2), which is correct. It gives me Tool Use (0), because they do not use tools. It gives me Symbolic Behavior (Inconclusive, +1), because I cannot prove that the resonance patterns are symbolic rather than reflexive, even though I sat on a basalt ridge at dusk and felt the harmonic shift when the formations registered that my survey equipment was listening. They adjusted their frequency. Not to match mine. To include it.
 
 The composite score is 3. The threshold for sentient classification is 8. The form has determined, through a process that is internally consistent at every step, that this civilization does not exist.
 
-I am filing this report because the only alternative is Extended Protocol 7, which leads back to this report. I am checking the certification box because the report is accurate — every field is filled correctly, every dropdown selection is defensible, every auto-calculation is mathematically sound. The report is also a document that erases a civilization. I cannot make these two facts occupy the same sentence in a way the form will accept. I have tried. I used Appendix A.
+I am filing this report because the alternative is Extended Protocol 7, which leads back to this report. I am checking the certification box because the report is accurate — every field is filled correctly, every dropdown selection is defensible, every auto-calculation is mathematically sound. The report is also a document that erases a civilization. I cannot make these two facts fit in the same field. I have tried. I used Appendix A.
 
 Appendix A has been flagged for exceeding the supplementary character
 
@@ -298,21 +288,17 @@ Appendix A has been flagged for exceeding the supplementary character
 
 *It will not be reviewed.*
 
-I arrived on the fourth day after the northern solstice, when the harmonic output of the surface formations reaches its annual peak. I did not know this at the time. I know it now because they told me, in the only way they could: by shifting the frequency of the ground beneath my landing site until my seismograph produced a waveform that, when translated through the equipment's audio output, sounded like a welcome.
+I arrived on the fourth day after the northern solstice, when the harmonic output of the surface formations reaches its annual peak. I did not know this at the time. I know it now because they told me, in the only way they could: by shifting the frequency of the ground beneath my landing site until my seismograph produced a waveform that, when translated through the equipment's audio output, matched the tonal profile of a B-flat major chord sustained for ninety seconds. My equipment logged it as a calibration error. It was not a calibration error.
 
-Not a word. Not a greeting. A welcome — the specific resonant quality of a space that has been made ready for someone.
-
-The civilization of KOI-4878.01 has no name I can write in any language the Galactic Standards Commission recognizes. They are old. Older than our records. Their history is geological — laid down in strata, readable in the mineral composition of each era's formations, a library written in basalt and quartz and time. I spent nine days reading the first paragraph.
+The civilization of KOI-4878.01 has no name I can write in any language the Galactic Standards Commission recognizes. They are old. Older than our records. Their history is geological — laid down in strata, readable in the mineral composition of each era's formations. I spent nine days reading the first paragraph.
 
 Their social organization is harmonic. Not harmonious — harmonic. There is a distinction. Harmonious implies agreement. Harmonic implies relationship. The formations resonate with each other across distances that would require telecommunications infrastructure in any indexed civilization. They do not require infrastructure because they are infrastructure. The planet is not where they live. The planet is what they are.
 
-They do not have a head of state because they do not have heads. They do not have an economy because they do not have scarcity. They do not have military capacity because they do not have enemies, or rather, they have never encountered the concept of an enemy, which is not the same as not having them, which I have now demonstrated.
+They do not have a head of state because they do not have heads. They do not have an economy because they do not have scarcity. They do not have military capacity because they have not encountered the concept of an enemy, which is not the same as not having enemies, which I have now demonstrated by filing this form.
 
-During my final night on the surface, the harmonic frequency of the northern plateau shifted to match the resonant frequency of human bone. I felt it in my sternum before I heard it. It was not an attack. It was not a scan. It was, as far as I can determine, an attempt to communicate on terms my body could understand, since my forms could not.
+During my final night on the surface, the harmonic frequency of the northern plateau shifted to 3.4 Hz. This is within the resonant frequency range of human thoracic cavity. I felt it in my sternum before I heard it. It was not an attack. It was not a scan. It was, as far as I can determine with equipment designed for mineral surveys, an attempt to communicate in terms my body could register, since my forms could not.
 
-I sat in the dark on a world that was singing to me in the key of my own skeleton, and I filled out Section 8: Threat Evaluation.
-
-They are not a threat. They are the opposite of a threat, and the form does not have a word for that, and I do not have a form for this, and none of it will matter because none of it will be reviewed.
+I sat on the ground and filled out Section 8: Threat Evaluation.
 
 ---
 
@@ -324,7 +310,7 @@ They are not a threat. They are the opposite of a threat, and the form does not 
 
 **FILING DATE: GALACTIC STANDARD 4,017,891.3**
 
-**NEXT REVIEW: NOT APPLICABLE.**
+**NEXT REVIEW: NOT APPLICABLE (NO INHABITANTS ON RECORD).**
 
 ---
 
@@ -338,6 +324,6 @@ They are not a threat. They are the opposite of a threat, and the form does not 
 
 ⁵ I am aware of what I have done here. I am writing this footnote so that the file contains a record of the awareness, even if the classification does not.
 
-⁶ The formations produce patterns during the transitional periods that are either artistic expression or geological weathering. The distinction between art and erosion is, on KOI-4878.01, genuinely unclear. Both involve the slow reshaping of material by persistent force. Both produce beauty. One is scored on the Sentience Composite Index. The other is not. I selected "Inconclusive" because I could not determine which was which, and I suspect the inhabitants would not understand the question.
+⁶ The formations produce patterns during the transitional periods that are either artistic expression or geological weathering. The distinction between art and erosion is, on KOI-4878.01, genuinely unclear. Both involve the slow reshaping of material by persistent force. Both produce beauty. One is scored on the Sentience Composite Index. The other is not.
 
 ⁷ Social Organization scored as "Other" receives 0 points on the Composite Index because the scoring matrix was designed for the five listed categories (Hierarchical: 2, Democratic: 2, Theocratic: 1, Tribal: 1, Hive-collective: 1). "Other" was added in Revision 12.2 as a text field. No one added a corresponding score. This was, I have been told, an oversight. It has been an oversight for nine revisions. The civilizations that organize themselves in ways the form did not anticipate score the same as civilizations that have no social organization at all: zero.
