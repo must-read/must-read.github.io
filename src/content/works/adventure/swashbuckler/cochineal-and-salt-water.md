@@ -7,8 +7,8 @@ authorA: Patrick O'Brian
 authorB: Alexandre Dumas
 workX: Treasure Island
 workY: Master and Commander
-wordCount: 5429
-readingTimeMinutes: 22
+wordCount: 5115
+readingTimeMinutes: 20
 tags:
   - age-of-sail
   - privateer
@@ -69,7 +69,7 @@ Vidal was there. He was always there, on the quarterdeck, as though the ship pro
 
 Duval, who was sixty years old and had the face of a man who had spent all sixty of them disagreeing with the weather, adjusted the course without comment. Vidal caught Sylvie's eye as she turned to go below. "Your father would have been proud of that work, mademoiselle. Five men under fire, and all of them breathing."
 
-He said it simply. It was the finest compliment she had ever received.
+He said it simply.
 
 ---
 
@@ -93,7 +93,7 @@ She should have left it. She knew this later. She should have closed the chest a
 
 Two manifests. The same cargo described twice. The first: "Cochineal, 42 sacks, assessed at 14,200 livres." The second: "Cochineal, 42 sacks, assessed at 6,100 livres." Beneath the second figure, in a hand she recognised as Vidal's — she had seen it on the watch bill, on the punishment log, on the letter of marque itself — a note: *Remainder to be disposed at Cagliari. Favero handles. Split as before.*
 
-She put the papers back. She finished with Pécaut. She went to her own berth, which was a screened-off section of the orlop no larger than a coffin standing on its end, and sat on her cot, and stared at the planking above her head, and thought.
+She put the papers back, aligning them as she had found them, the edges flush against the linen beneath. Her hands were steady. A surgeon's hands are always steady, even when the surgeon is not. She finished with Pécaut — told him to avoid chewing on the left side, gave him a cloth soaked in clove oil for the pain, watched him leave with the careful steps of a man whose mouth was still numb — and went to her own berth, which was a screened-off section of the orlop no larger than a coffin standing on its end, and sat on her cot, and stared at the planking above her head, and thought.
 
 The arithmetic was not difficult. Fourteen thousand livres declared to the prize court meant a certain distribution: forty percent to the admiralty, a captain's share, officers' shares, crew's shares, according to the published scale. Six thousand livres declared meant the same distribution on a smaller principal. The difference — eight thousand livres and change — went to Cagliari, to someone named Favero, and was split. With whom? And how many times before?
 
@@ -117,11 +117,11 @@ Vidal smiled. He had a way of smiling that was also an assessment — as though 
 
 "I know what I am competent to do," she said. "That is not the same as knowing what I am."
 
-The distinction hung in the air. Vidal cut his pork with a knife that he also used to clean his fingernails — a gesture she had seen him perform a dozen times, and which she now understood as a kind of theatre: the great captain, so easy in his authority that he could sit at table with a warrant officer and behave as though they were equals, as though rank were a costume he could remove at will.
+Vidal cut his pork with a knife that he also used to clean his fingernails — a gesture she had seen him perform a dozen times, and which she now understood as a kind of theatre: the great captain, so easy in his authority that he could sit at table with a warrant officer and behave as though they were equals, as though rank were a costume he could remove at will.
 
 "I found the manifests," she said.
 
-The knife stopped. Vidal looked at her. His expression did not change — that was the remarkable thing, the thing she would remember long after the rest of the evening had blurred into the general texture of that voyage. His face remained precisely as it had been: composed, attentive, mildly amused. But his stillness changed. It became the stillness of a man who is calculating, very rapidly, what to do with information he had not expected to receive.
+The knife stopped. Vidal looked at her. His expression did not change. His face remained precisely as it had been: composed, attentive, mildly amused. But his stillness changed. It became the stillness of a man who is calculating, very rapidly, what to do with information he had not expected to receive.
 
 "Pécaut's chest," he said. Not a question.
 
@@ -163,7 +163,9 @@ She said nothing. Soulier stood too close — not threatening, exactly, but occu
 
 "Daubrac. You are a competent surgeon and the men respect you. The captain respects you. I am telling you this because respect is a finite commodity aboard a ship and it would be a waste to spend it all at once." He waited. She looked at him. His eyes were the color of the sea in bad weather — gray-green, opaque, giving nothing back. "What you found is known to me. It has been known for some time. I do not object to it. The men benefit. You would be wise to arrive at a similar accommodation."
 
-He walked away. Bonnard, who had heard everything, looked at her with an expression she could not read and did not try to.
+He walked away. His boots made a sound on the deck planking that was somehow final — not loud, but precise, each step placed with the deliberation of a man who knew exactly how much space he occupied and how much he was leaving for others.
+
+Bonnard, who had heard everything, looked at her with his bandaged hand cradled against his chest. He opened his mouth, closed it, and went forward without speaking.
 
 ---
 
@@ -177,11 +179,7 @@ Vidal emerged from the companionway with his glass already extended, like a man 
 
 "Superior mirage," he said. "Temperature inversion — warm air above cold water. The light bends. You are looking at the coast of Sardinia reflected and refracted over a distance of forty nautical miles. It is not there. Or rather — it is there, but not where you see it." He turned to Duval. "Maintain course. We do not chase phantoms."
 
-An hour later the city dissolved, as though the sea had swallowed it, and the horizon was empty again. The crew returned to their work. But Sylvie stood at the rail and thought about what she had seen — not the mirage itself but Vidal's response to it. The absolute confidence with which he had identified the false. The ease with which he had dismissed an illusion that had fooled every other eye aboard. A man who could see through a Fata Morgana — who could watch towers appear on the horizon and know, instantly, that they were light playing tricks on itself — was a man who understood the architecture of deception at a level that most people never reached. He could distinguish the real from the apparent, the true from the convincing.
-
-Which meant he could also construct the convincing from the false. His argument about the prize court — the righteous theft, the redistribution, the sailors finally getting their due — had the same quality as those phantom towers. It was built from real materials. It refracted genuine grievances. But it was not where he said it was.
-
-She did not yet know this for certain. She felt it the way she sometimes felt an infection before it declared itself — a warmth under the skin, a wrongness in the texture, a body telling her something that the symptoms had not yet confirmed.
+An hour later the city dissolved, as though the sea had swallowed it, and the horizon was empty again. The crew returned to their work. Sylvie stayed at the rail longer than she should have, watching the place where the towers had been. She thought about Vidal's explanation in the great cabin — the prize court, the parasites, the redistribution. She thought about how quickly he had identified the mirage, how casually he had collapsed his glass and turned away, a man who could distinguish the true from the convincing without apparent effort. The wind shifted. She went below.
 
 ---
 
@@ -189,7 +187,7 @@ The Neapolitan xebec appeared three days later, making west under lateen sails i
 
 What followed was not a battle so much as a performance — Vidal at his most theatrical, running down on the xebec with a speed and precision that left no room for resistance. The *Dorade* fired a single gun to leeward. The xebec struck her colors — Neapolitan, as it turned out — and lay rolling in the swell while the boarding party crossed in the cutter.
 
-There was fighting, brief and stupid. A handful of the xebec's crew resisted, and two of them were cut down, and three of the *Dorade*'s men took wounds. They were carried below to Sylvie.
+There was fighting, brief and stupid. A handful of the xebec's crew resisted with boarding pikes and a blunderbuss that misfired, scattering fragments of wadding across the deck. Two of them were cut down — she heard the sound from the cockpit, a shout that became a gurgle, then silence, then the particular shuffle of men stepping around a body in a confined space. Three of the *Dorade*'s men took wounds. They were carried below to Sylvie.
 
 The first was a French sailor with a slash across his forearm — superficial, quickly stitched. The second had taken a pike thrust to the shoulder that had nicked the subclavian vein, and she worked on him for twenty minutes before the bleeding stopped, her fingers slick, the loblolly boy holding the lantern close while she tied ligatures in a space no larger than a penny. The third was not French.
 
@@ -205,7 +203,7 @@ He said more, but it became less coherent, the words dissolving into sounds and 
 
 The cochineal was one thing. Prize cargo skimmed and sold through Cagliari — theft, yes, but theft with an argument attached, theft that could be dressed in justice. The powder was another thing entirely. Powder and shot, captured from British ships, sold to Neapolitan smugglers, to Algerians, to anyone. French munitions circulating through the Mediterranean in the hands of anyone who could pay, used against French ships, against French sailors, against men like Bonnard with his shattered hand, men whose wounds she sutured in the dark. Vidal was not redistributing prize money. Vidal was selling the instruments of war to all comers and counting the proceeds while his own crew stopped British shot that might, for all she knew, have been French shot first, sold and resold until its provenance was a closed loop and the only constant was profit.
 
-She heard Silver in the apple barrel. She heard the words of flattery — *your father would have been proud* — and saw them for what they were: a technology. A tool, deployed with the same precision Vidal used to aim a broadside or dismiss a mirage. He had seen her competence, and he had complimented it, and the compliment was as real and as functional as a well-tied ligature. It held. It was meant to hold.
+She heard the words of flattery — *your father would have been proud* — and saw them for what they were: a technology. A tool, deployed with the same precision Vidal used to aim a broadside. He had seen her competence, and he had complimented it, and the compliment was as real and as functional as a well-tied ligature. It held. It was meant to hold.
 
 ---
 
@@ -227,7 +225,7 @@ Duval smoked. The pipe glowed and faded and glowed. The sea was dark now, the sh
 
 "A dying man's words."
 
-Duval nodded. He smoked. The pipe-light caught the lines of his face — a face carved by salt and sun into something that was not handsome but was entirely finished, like a piece of wood worn smooth by the sea until it could not be worn any further.
+Duval nodded. He smoked. The pipe-light caught the lines of his face.
 
 "I knew about the cargo," he said. "The Cagliari arrangement. I have known for eight months."
 
@@ -237,32 +235,32 @@ She stared at him.
 
 "And the cargo — you said nothing?"
 
-"The men benefit. The court would have taken it. Vidal's way, the crew sees money they would not otherwise see. I made a judgment." He looked at her, and for the first time she saw something in his expression that was not competence or assessment but something rawer — an acknowledgment, perhaps, that the judgment had been wrong, or that it had been right in a way that no longer mattered. "I will handle it when we reach Toulon. I know people at the maritime prefecture. It will be done quietly."
+"The men benefit. The court would have taken it. Vidal's way, the crew sees money they would not otherwise see. I made a judgment." He looked at her. "I will handle it when we reach Toulon. I know people at the maritime prefecture. It will be done quietly."
 
 "Quietly," Sylvie repeated.
 
 "If it is done loudly, the crew hangs with him. Every man aboard is complicit by proximity. You know this."
 
-She did know it. She was complicit herself. She had slept aboard a ship that carried stolen cargo and eaten food paid for with the proceeds and treated wounds that were, in some calculus she did not want to complete, part of the cost of doing business with everyone and loyalty to no one. She was inside the mechanism. She had been inside it since the day she came aboard.
+She did know it. She had been inside the mechanism since the day she came aboard — had slept in it, eaten from it, sutured its wounds. The laudanum she used on Pécaut's tooth was purchased with prize money that might or might not have been honestly assessed. The catgut she tied in Bonnard's hand was bought in Marseille with funds from the ship's account, an account fed by captures whose value had been declared by a captain who kept two sets of numbers.
 
 "I will handle it," Duval said again, and there was a finality in his voice that closed the conversation the way a hatch closes — firmly, with a sound that meant the subject was sealed below and would not be brought on deck again. She wanted to ask: what will you do? Will you report him? Will you confront him? Will Vidal know it was me? But the questions were inappropriate — they assumed a familiarity with Duval's intentions that his rank and his years and his expression did not permit. She was a warrant officer speaking to the sailing master about the captain's treason. The hierarchy did not allow for follow-up.
 
-She went below. She lay in her coffin berth and listened to the ship and thought about nothing and everything and the specific feeling of a floor giving way beneath you while the walls remained standing — the discovery that the structure you inhabit is sound in every visible particular and rotten where it cannot be seen.
+She went below. She lay in her coffin berth and listened to the ship.
 
 ---
 
-The *Dorade* made Toulon on a Tuesday, coming in through the Grande Rade with the mistral on her quarter and the harbour opening before her like a mouth, the breakwater and the arsenal and the masts of the fleet at anchor and the town rising behind in tiers of white stone and red tile. Vidal brought her in himself, standing at the weather rail, giving orders in that carrying voice, adjusting the trim of each sail with a precision that turned seamanship into something close to music — a series of minute corrections, each one arriving at the exact moment required, so that the *Dorade* moved through the crowded harbour without once checking her way, threading between a ship of the line and a transport brig with a clearance that made the watching pilots on the quay put down their glasses and stare.
+The *Dorade* made Toulon on a Tuesday, coming in through the Grande Rade with the mistral on her quarter and the harbour opening before her, the breakwater and the arsenal and the masts of the fleet at anchor and the town rising behind in tiers of white stone and red tile. Vidal brought her in himself, standing at the weather rail, giving orders in that carrying voice, adjusting the trim of each sail with a precision that turned seamanship into something close to music — a series of minute corrections, each one arriving at the exact moment required, so that the *Dorade* moved through the crowded harbour without once checking her way, threading between a ship of the line and a transport brig with a clearance that made the watching pilots on the quay put down their glasses and stare.
 
 Sylvie stood on the gangway with her surgical kit in its leather case, the case her father had carried aboard the *Redoutable*, the brass fittings tarnished green by salt air and the leather stained with things she did not catalogue. She watched Vidal. She watched him perform the final act of the voyage — the mooring, the backing of the foretopsail, the precise calculation of the ship's way through the water so that she came to rest against the quay with a kiss of timber against stone that was barely audible.
 
-He was the best sailor she had ever seen. He was the most dangerous man she had ever met. These two facts occupied the same body, the same pair of hands, the same voice that had complimented her surgery and ordered broadsides and negotiated the sale of munitions to men who would use them to kill his own countrymen. She could not reconcile them. She was not sure they required reconciliation. They might simply coexist, the way a body could carry a fever and still walk, still speak, still perform all the functions of health while the infection worked unseen beneath the skin.
+He was the best sailor she had ever seen. He was also the man who sold powder to Neapolitans and Algerians and anyone else who had money. These two facts occupied the same pair of hands, the same voice that had complimented her surgery and ordered broadsides and negotiated the sale of munitions to men who would use them to kill his own countrymen.
 
-The gangplank went down. The sailors filed ashore. Bonnard, his hand bandaged, went past her without speaking and disappeared into the crowd on the quay. Soulier followed, his narrow face unreadable. Duval went last of the warrant officers, pausing at the gangplank to look back at the ship with an expression that Sylvie could not interpret and did not try to — an old man's expression, compounded of too many voyages and too many captains and too many accommodations made with things that should not have been accommodated.
+The gangplank went down. The sailors filed ashore. Bonnard, his hand bandaged, went past her without speaking and disappeared into the crowd on the quay. Soulier followed, his narrow face unreadable. Duval went last of the warrant officers, pausing at the gangplank to look back at the ship.
 
-Vidal remained on the quarterdeck. He would be the last to leave, because the captain was always the last to leave, because that was the custom, and because Vidal understood custom the way he understood mirages — as a structure that could be inhabited or exploited, depending on what the moment required.
+Vidal remained on the quarterdeck. He would be the last to leave, because the captain was always the last to leave, because that was the custom.
 
-Sylvie walked down the gangplank. The stone of the quay was solid and unmoving beneath her feet, and after weeks at sea the stillness felt wrong, felt like a different kind of heeling, a world that had stopped responding to the wind. She carried her kit. She carried what she knew. She did not look back, because looking back would have meant meeting Vidal's eye, and she was not yet sure what her face would say if she did, and a surgeon should know what her instruments will do before she uses them.
+Sylvie walked down the gangplank. The stone of the quay was solid and unmoving beneath her feet, and after weeks at sea the stillness felt wrong, felt like a different kind of heeling, a world that had stopped responding to the wind. She carried her kit, the leather warm against her hip. She did not look back. A cart was loading salt fish at the end of the quay, and two women were arguing about the price, and the ordinary machinery of a port town was turning with the indifference of a place that had received ten thousand ships and cared nothing for the particulars of any one of them.
 
-The harbour smelled of tar and fish and the particular staleness of land after sea. Somewhere in the town, Duval was doing whatever Duval was going to do, or not do, and the machinery of consequence was either turning or still, and Sylvie could not tell which, and could not, standing on the quay with her father's surgical kit, have said which outcome she preferred.
+The harbour smelled of tar and fish. Somewhere in the town, Duval was doing whatever Duval was going to do, or not do.
 
-The *Dorade* sat at her mooring, beautiful and complete, her hull dark with weed and copper-green below the waterline, her rigging still perfect, the pennant at her masthead lifting in the mistral. A ship that had done terrible things and magnificent things and would, tomorrow or the next day, sail again, with or without Sylvie, with or without Vidal, carrying whoever stepped aboard her into whatever the sea decided was next. The gangplank creaked. A gull cried. The sun was warm on the stone, and the cochineal was still in the lazarette, and the manifests were still in Pecaut's chest, and the war was still everywhere, and Sylvie walked into the town with her kit and her knowledge and the particular heaviness of a person who has learned something that cannot be put down.
+Behind her the *Dorade* sat at her mooring, her hull dark with weed and copper-green below the waterline, her rigging still perfect, the pennant at her masthead lifting in the mistral. A gull cried. Somewhere aboard, the cochineal was still in the lazarette, and the manifests were still in Pécaut's chest, and she thought, absurdly, of Bonnard's hand — the shattered thenar eminence, the ligature she had tied in the dark — and wondered whether the ball that had done it was French-made, sold at Palermo, fired back at them by men who had paid Vidal for the privilege.
