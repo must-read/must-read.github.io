@@ -7,8 +7,8 @@ authorA: "Elmore Leonard"
 authorB: "Angela Carter"
 workX: "Valdez Is Coming"
 workY: "The Bloody Chamber"
-wordCount: 4201
-readingTimeMinutes: 17
+wordCount: 4081
+readingTimeMinutes: 16
 tags: ["weird western", "frontier justice", "transformation", "debt", "desert", "multiple narrators", "uncanny"]
 rating: 0
 ratingCount: 0
@@ -159,11 +159,11 @@ Gage left him there. There was nothing else to do with him.
 
 ***
 
-His epidermis had entered into a correspondence with the mineral substrate — a slow, cellular calligraphy in which the ink was manganese and the page was the borderland between animal tissue and lithic patience. The negotiation had concluded in the substrate's favor, as it always concludes, as it concluded for the four others who came with their employer and their mule train and their blasting powder and their absolute confidence in the transactional nature of the earth: that you put a hole in it and it gives you what's inside and the exchange is clean.
+His epidermis had entered into a correspondence with the mineral substrate — a slow, cellular calligraphy in which the ink was manganese and the page was the borderland between animal tissue and geological indifference. The negotiation had concluded in the substrate's favor, as it always concludes, as it concluded for the four others who came with their employer and their mule train and their blasting powder and their confidence that the earth is transactional: that you put a hole in it and it gives you what's inside and the exchange is clean.
 
 The exchange is never clean.
 
-The man's smile was the residue of a surrender so complete that the muscles required for other expressions had been released from service. Surrender, once accomplished, is a state of rest, and rest is what the canyon offers — rest from the exhausting project of maintaining a boundary between the self and what surrounds it. His arms had simply stopped insisting on the distinction. The varnish had accepted them as it accepts all surfaces given sufficient time, coating them in its slow black patience, and they had accepted the varnish, and the acceptance was, from the inside, indistinguishable from relief.
+The man's smile was the residue of a surrender so complete that the muscles required for other expressions had been released from service. His arms had simply stopped insisting on the distinction between themselves and what surrounded them. The varnish had accepted them as it accepts all surfaces given sufficient time, coating them in its slow black accumulation, and they had accepted the varnish, and the acceptance was, from the inside, indistinguishable from relief.
 
 His teeth remained his own. Teeth are honest — calcium phosphate arranged in the body's most durable confession of appetite — and his appetite had been the last thing to quiet. He had wanted gold. Then he had wanted water. Then air. Then nothing. The teeth survived as monument to the progression.
 
@@ -187,17 +187,15 @@ He took a step toward the wall.
 
 The canyon knew him. It had begun to know him at the mouth — the particular chemistry of his sweat, the cadence of his heartbeat, the specific gravity of his grief, which was considerable and which he carried in the architecture of his silence the way a house carries its foundation: invisibly, structurally, the thing upon which everything else rests.
 
-Gage Ellender had lost his wife six years before to a fever that took her in four days, and when she died he had been sitting at her bedside and he had said "All right" and stood and walked out and never spoke of her again. Not to his friends. Not to himself. He had sealed the wound not with mourning, which is a poultice, but with function, which is a tourniquet, and the limb below the tourniquet had gone cold and numb and he had mistaken the numbness for recovery.
+Gage Ellender had lost his wife six years before to a fever that took her in four days, and when she died he had been sitting at her bedside and he had said "All right" and stood and walked out and never spoke of her again. Not to his friends. Not to himself. He had sealed the wound with function — mornings converted into tasks, silences into discipline — and the seal had held so well he had mistaken it for healing.
 
-The canyon knew this because the canyon knows mineral patience, and grief, if left long enough, mineralizes — calcifies, deposits itself in strata the way the varnish lays itself down on the rock face, one imperceptible layer per year, until the accumulation becomes a surface, and the surface becomes a skin, and the skin becomes indistinguishable from the thing it covers. His grief had become his surface. Six years of it. The canyon could read those years the way a geologist reads sediment — each one a stratum of refusal, of function substituted for feeling, of mornings survived by converting them into tasks.
+The canyon knew this because grief, if left long enough, mineralizes. It deposits itself in strata the way the varnish lays itself down on the rock face, one imperceptible layer per year, until the accumulation becomes a surface, and the surface becomes indistinguishable from the thing it covers. His grief had become his surface. Six years of it.
 
 The wall showed him his wife.
 
 Not a phantom, not a visitation, not the translucent specter of campfire stories and dime novels. A face in the varnish — the way a face appears in the grain of wood or the stain on a ceiling, except that this face was exact. Her jaw. The way her hair fell. The particular asymmetry of her mouth that he had loved and then refused to remember and that now, in the black mineral surface of the canyon's deepest wall, was as precise as a daguerreotype.
 
-And the canyon said: stop.
-
-Stop carrying the rifle. Stop counting steps. Stop converting every hour into a task and every silence into discipline and every morning into proof that you can function without her. Stop being the man who works. Be, instead, the man who grieves, and let the grief run its course, which is geological, which is the timeframe appropriate to loss of this magnitude, and I will hold you the way the varnish holds the rock — slowly, completely, without requiring you to speak.
+The canyon did not speak. The canyon has never spoken, in any language the ear can register, though the body hears it — through the soles of the feet, through the open palm, through the slow dilation of the lungs as they accept a medium that is no longer air but something older and more patient. What the canyon offered was not a command or a promise. It was a surface. It was rest. It was the black varnish reaching, as it has always reached, for whatever stands still long enough.
 
 ***
 
@@ -209,17 +207,17 @@ I put the coffee on.
 
 Gage looked at the face in the wall. He looked at it for what felt like a long time.
 
-His hands were open and his arms were heavy and his knees wanted to bend. The air was so sweet he could taste it on his teeth and the warmth had moved from his hands up his forearms and it wasn't unpleasant, that was the thing about it, it wasn't pain or cold or any of the sensations his training had prepared him for. It was warmth and sweetness and the particular relief of putting something down that you've carried too long.
+His hands were open and his arms were heavy and his knees wanted to bend. The air was so sweet he could taste it on his teeth and the warmth had moved from his hands up his forearms and it wasn't unpleasant, that was the thing about it, it wasn't pain or cold or any of the sensations his training had prepared him for. It was warmth and sweetness and something else he didn't have a word for.
 
 He looked at Luisa's face in the varnish and he thought about the man against the wall with his arms gone to black and his smile and his white teeth and the word he'd said. Paid.
 
 Gage bent down and picked up the rifle.
 
-It took everything. His fingers didn't want to close. His arms didn't want to lift. His back didn't want to straighten. Every part of him had entered into its own negotiation with the sweet warm air and every part of him had been ready to sign. But his right hand — the hand that had held the Sharps for eleven years, the hand that was dumb and calloused and knew one thing — his right hand closed on the stock and he straightened up and the weight of the rifle was the weight of a language he refused to put down.
+It took everything. His fingers didn't want to close. His arms didn't want to lift. His back didn't want to straighten. Every part of him had entered into its own negotiation with the sweet warm air and every part of him had been ready to sign. But his right hand — the hand that had held the Sharps for eleven years, the hand that was dumb and calloused and knew one thing — his right hand closed on the stock and he straightened up and the rifle was heavy in a way it had never been heavy before, the heaviness of a thing that insists you remain yourself.
 
 He didn't turn around.
 
-He walked backward. One step. Another. His eyes on the black wall, on the face that was already losing its precision, becoming varnish again, becoming rock. He kept the rifle in front of him, stock against his hip, barrel pointed at the wall, though he understood without examining the thought that the rifle was not pointed at anything the rifle could address. It was a grammar. Subject, verb, object. He was a man holding a weapon retreating from a place. As long as the grammar held, he was still a sentence. He was still language. He was still on this side of whatever the varnish-man had crossed to.
+He walked backward. One step. Another. His eyes on the black wall, on the face that was already losing its precision, becoming varnish again, becoming rock. He kept the rifle in front of him, stock against his hip, barrel pointed at the wall, though he understood without examining the thought that the rifle was not pointed at anything the rifle could address. It was a grammar. Subject, verb, object. A man holding a weapon retreating from a place. As long as the grammar held, he was still on this side of whatever the varnish-man had crossed to.
 
 He walked backward and the walls widened around him and the air thinned and the sweetness faded by degrees, the way a fever breaks — not all at once but in a slow recession of heat. The light began to behave itself again, remembering what angle February required of it.
 
@@ -227,7 +225,7 @@ He counted his steps. Forty-seven from the dead end to the turn. Sixty-two from 
 
 Eighty more steps to the camp, where the tents stood and the provisions rotted and the flat rock where the money had been was empty now. The rock was clean. Not just empty — clean, as if no one had ever set anything on it.
 
-He kept walking. He did not look at the varnished man. He heard breathing as he passed, or thought he did. He did not stop. Stopping was the thing he could not do. Stopping was the grammar breaking.
+He kept walking. He did not look at the varnished man. He heard breathing as he passed, or thought he did. He did not stop.
 
 One hundred and nine steps from the camp to the mouth.
 
@@ -259,7 +257,7 @@ I told him his horse had water and his rifle had dust on it.
 
 The canyon breathes still. At dusk the exhalation is visible — a faint distortion of the air at the mouth, a shimmering that is not heat because the temperature drops at dusk, and is not a mirage because mirages require distance and the canyon's mouth is close enough to touch. The varnish thickens by a fraction of a micrometer each year, which is to say it grows at the speed of patience, which is to say it is always growing, which is to say that what happened to the man with the black arms is happening to the walls and has been happening since before the territory had a name, and will continue after the territory forgets it.
 
-The goat knows. The goat has always known. That is the bargain of the Judas creature — to stand at the threshold and know what lies beyond and to remain, by the grace of its usefulness, on this side. The woman knows this about the goat, and the goat knows this about the woman, and this mutual knowing is the foundation of their partnership, which is not affection but the professional respect of two creatures who have negotiated their own terms with something that does not negotiate.
+The goat knows. The goat has always known. That is the bargain of the Judas creature — to stand at the threshold and know what lies beyond and to remain, by the grace of its usefulness, on this side. The woman and the goat have negotiated their own terms with something that does not negotiate. It is not affection. It is the professional respect of sentries.
 
 The coins in the man's pocket carry a residue of varnish so faint that only a microscope would find it. The dark spot on his palm will not wash off. It will not fade. It is not a wound. It is a receipt.
 
@@ -269,4 +267,4 @@ He left on a Friday. I don't know what came out of the canyon but it drank coffe
 
 I tied the goat out at dusk. She stood where she stands. The canyon was quiet. It's always quiet after.
 
-I didn't count the money. I don't count what comes out.
+I counted the money. I don't know why. Two hundred dollars exactly.
