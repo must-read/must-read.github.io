@@ -17,7 +17,7 @@ status: "published"
 formulaSummary: >
   Murakami's deadpan narration of the impossible shapes the log's professional register, where phantom trains and nonexistent apartments are recorded with the same calm as lightbulb replacements. Schweblin's fever-dread bleeds through the accelerating middle entries — sweet smells, accumulating wrongness, a format straining to contain what it describes. The Wind-Up Bird Chronicle provides the structural descent: a familiar space (apartment 3A) revealed as portal, history and geology leaking upward through foundations. Fever Dream provides the thematic urgency: a parent who failed to believe a child's testimony about contamination, the poisoned building as metaphor for what cannot be protected against.
 synopsis: >
-  A building superintendent's maintenance log begins with routine entries — boiler checks, lightbulb replacements — but each contains one wrong detail. Over several weeks, the impossible accumulates in professional language until the superintendent opens an apartment and finds what his estranged daughter tried to tell him four years ago.
+  A superintendent's maintenance log begins with routine entries, but each contains one wrong detail. The impossible accumulates in professional language until he opens an apartment and finds what his estranged daughter tried to tell him four years ago.
 combination:
   fromAuthorA:
     - "Deadpan professional register recording the surreal without alarm — phantom trains noted for follow-up, nonexistent floors logged as complaints"
