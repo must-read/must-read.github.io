@@ -1,11 +1,11 @@
 ---
 title: "Attending to What Does Not Need Us"
-slug: "tbd-nature-writing-meeting"
+slug: "ledger-of-the-drowned-wood-meeting"
 genre: "creative-nonfiction"
 subgenre: "nature-writing"
 authorA: "Annie Dillard"
 authorB: "Barry Lopez"
-workSlug: "tbd-nature-writing"
+workSlug: "ledger-of-the-drowned-wood"
 wordCount: 2973
 publishedDate: "2026-02-22"
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Swords, Rigging, and What Gets Left Ashore"
-slug: "tbd-swashbuckler-meeting"
+slug: "cochineal-and-salt-water-meeting"
 genre: "adventure"
 subgenre: "swashbuckler"
 authorA: "Patrick O'Brian"
 authorB: "Alexandre Dumas"
-workSlug: "tbd-swashbuckler"
+workSlug: "cochineal-and-salt-water"
 wordCount: 3029
 publishedDate: "2026-02-22"
 ---

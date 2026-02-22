@@ -1,11 +1,11 @@
 ---
 title: "Whose Midnight, Whose Small Things"
-slug: "tbd-south-asian-magical-realism-meeting"
+slug: "subsidence-and-survey-meeting"
 genre: "magical-realism"
 subgenre: "south-asian-magical-realism"
 authorA: "Salman Rushdie"
 authorB: "Arundhati Roy"
-workSlug: "tbd-south-asian-magical-realism"
+workSlug: "subsidence-and-survey"
 wordCount: 3188
 publishedDate: "2026-02-22"
 ---

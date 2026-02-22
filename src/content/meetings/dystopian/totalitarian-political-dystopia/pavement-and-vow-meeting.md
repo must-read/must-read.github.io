@@ -1,11 +1,11 @@
 ---
 title: "Arithmetic of the Transparent Cage"
-slug: "tbd-totalitarian-political-dystopia-meeting"
+slug: "pavement-and-vow-meeting"
 genre: "dystopian"
 subgenre: "totalitarian-political-dystopia"
 authorA: "George Orwell"
 authorB: "Yevgeny Zamyatin"
-workSlug: "tbd-totalitarian-political-dystopia"
+workSlug: "pavement-and-vow"
 wordCount: 2896
 publishedDate: "2026-02-22"
 ---

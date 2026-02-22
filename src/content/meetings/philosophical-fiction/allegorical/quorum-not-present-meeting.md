@@ -1,11 +1,11 @@
 ---
 title: "Minutes of a Room That Emptied Slowly"
-slug: "tbd-allegorical-meeting"
+slug: "quorum-not-present-meeting"
 genre: "philosophical-fiction"
 subgenre: "allegorical"
 authorA: "José Saramago"
 authorB: "Albert Camus"
-workSlug: "tbd-allegorical"
+workSlug: "quorum-not-present"
 wordCount: 2673
 publishedDate: "2026-02-22"
 ---
