@@ -1,8 +1,8 @@
 ---
 title: "Debt and Varnish"
 slug: "debt-and-varnish"
-genre: "Western"
-subgenre: "Weird Western"
+genre: "western"
+subgenre: "weird-western"
 authorA: "Elmore Leonard"
 authorB: "Angela Carter"
 workX: "Valdez Is Coming"
