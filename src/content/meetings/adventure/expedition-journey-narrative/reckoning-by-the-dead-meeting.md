@@ -1,11 +1,11 @@
 ---
 title: "The Skeleton of the Fish"
-slug: "tbd-expedition-journey-narrative-meeting"
+slug: "reckoning-by-the-dead-meeting"
 genre: "adventure"
 subgenre: "expedition-journey-narrative"
 authorA: "Joseph Conrad"
 authorB: "Beryl Markham"
-workSlug: "tbd-expedition-journey-narrative"
+workSlug: "reckoning-by-the-dead"
 wordCount: 3042
 publishedDate: "2026-02-22"
 ---

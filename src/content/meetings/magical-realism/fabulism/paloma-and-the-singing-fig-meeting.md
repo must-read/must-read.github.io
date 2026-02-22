@@ -1,11 +1,11 @@
 ---
 title: "The Kitchen at the End of the Labyrinth"
-slug: "tbd-fabulism-meeting"
+slug: "paloma-and-the-singing-fig-meeting"
 genre: "magical-realism"
 subgenre: "fabulism"
 authorA: "Karen Russell"
 authorB: "Laura Esquivel"
-workSlug: "tbd-fabulism"
+workSlug: "paloma-and-the-singing-fig"
 wordCount: 3927
 publishedDate: "2026-02-22"
 ---

@@ -1,11 +1,11 @@
 ---
 title: "The Last Good Story They Told About Themselves"
-slug: "tbd-outlaw-narrative-meeting"
+slug: "riding-the-backwash-meeting"
 genre: "western"
 subgenre: "outlaw-narrative"
 authorA: "Elmore Leonard"
 authorB: "Annie Proulx"
-workSlug: "tbd-outlaw-narrative"
+workSlug: "riding-the-backwash"
 wordCount: 3086
 publishedDate: "2026-02-22"
 ---

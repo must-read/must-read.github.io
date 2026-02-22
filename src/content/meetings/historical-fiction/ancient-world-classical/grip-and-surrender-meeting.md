@@ -1,11 +1,11 @@
 ---
 title: "The Body on the Marble"
-slug: "tbd-ancient-world-classical-meeting"
+slug: "grip-and-surrender-meeting"
 genre: "historical-fiction"
 subgenre: "ancient-world-classical"
 authorA: "Mary Renault"
 authorB: "Pat Barker"
-workSlug: "tbd-ancient-world-classical"
+workSlug: "grip-and-surrender"
 wordCount: 2874
 publishedDate: "2026-02-22"
 ---

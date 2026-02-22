@@ -1,11 +1,11 @@
 ---
 title: "The Footnote That Swallowed the Page"
-slug: "tbd-metafiction-meeting"
+slug: "annotations-on-the-concealed-meeting"
 genre: "philosophical-fiction"
 subgenre: "metafiction"
 authorA: "Italo Calvino"
 authorB: "Clarice Lispector"
-workSlug: "tbd-metafiction"
+workSlug: "annotations-on-the-concealed"
 wordCount: 2741
 publishedDate: "2026-02-22"
 ---
