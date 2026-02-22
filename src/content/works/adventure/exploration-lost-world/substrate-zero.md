@@ -10,10 +10,10 @@ workY: "Jurassic Park"
 wordCount: 7268
 readingTimeMinutes: 29
 tags: ["deep sea", "exploration", "obsession", "marine biology", "corporate science", "astrobiology", "survival", "hubris"]
-rating: 3.0
-ratingCount: 0
+rating: 3.6
+ratingCount: 8
 publishedDate: "2026-02-21"
-status: "draft"
+status: "published"
 formulaSummary: >
   Melville's encyclopedic philosophical prose and obsessive quest narrative fuse with Crichton's techno-thriller pacing and cascading system failures. Moby-Dick's monomaniacal leader driving her crew past every threshold meets Jurassic Park's corporate arrogance and nature's refusal to be contained — staged two miles beneath the Pacific in a lost world older than Earth itself.
 synopsis: >

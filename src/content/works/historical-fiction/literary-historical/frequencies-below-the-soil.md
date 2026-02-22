@@ -22,10 +22,10 @@ tags:
   - morse-code
   - freedom
   - motherhood
-rating: 0
-ratingCount: 0
+rating: 4.4
+ratingCount: 8
 publishedDate: 2026-02-21
-status: "draft"
+status: "published"
 formulaSummary: >
   Whitehead's flat, self-interrogating prose — the body under systemic violence
   recorded without sentimentality — alternates with Doerr's luminous sensory
