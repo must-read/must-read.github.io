@@ -7,8 +7,8 @@ authorA: "Elmore Leonard"
 authorB: "Annie Proulx"
 workX: "No Country for Old Men"
 workY: "Butch Cassidy and the Sundance Kid"
-wordCount: 5247
-readingTimeMinutes: 21
+wordCount: 5028
+readingTimeMinutes: 20
 tags: ["outlaws", "wyoming", "1899", "pursuit", "identity"]
 rating: 0
 ratingCount: 0

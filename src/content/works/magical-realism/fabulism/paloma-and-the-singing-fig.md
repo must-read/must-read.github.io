@@ -7,8 +7,8 @@ authorA: "Karen Russell"
 authorB: "Laura Esquivel"
 workX: "The House of the Spirits"
 workY: "Piranesi"
-wordCount: 3894
-readingTimeMinutes: 16
+wordCount: 3731
+readingTimeMinutes: 15
 tags: ["food", "family", "inheritance", "confinement", "mexico"]
 rating: 0
 ratingCount: 0

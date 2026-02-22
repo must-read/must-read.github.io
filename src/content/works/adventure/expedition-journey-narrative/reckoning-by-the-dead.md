@@ -7,8 +7,8 @@ authorA: "Joseph Conrad"
 authorB: "Beryl Markham"
 workX: "Heart of Darkness"
 workY: "The Old Man and the Sea"
-wordCount: 5542
-readingTimeMinutes: 22
+wordCount: 5241
+readingTimeMinutes: 21
 tags:
   - aviation
   - colonial-africa
