@@ -7,7 +7,7 @@ authorA: "Liu Cixin"
 authorB: "Ursula K. Le Guin"
 workX: "The Three-Body Problem"
 workY: "The Dispossessed"
-wordCount: 6914
+wordCount: 6900
 readingTimeMinutes: 28
 tags:
   - hard-sf
@@ -56,7 +56,7 @@ The algorithm finished at 03:14 ship-time, which meant nothing to anyone but Lia
 
 The streams were not random.
 
-She sat with the visualization for ninety seconds, her hands flat on the bench, and felt the room reorganize itself around the image the way a room reorganizes around a body on the floor. The streams formed a lattice. Not approximate, not suggestive — a grid with hexagonal symmetry, spacing consistent to four decimal places across the entire survey volume. Where each line of the lattice crossed another, the field value dropped to a local minimum: a node, a thinning, a place where the membrane between their slow-light domain and the outer vacuum was not thick but threadbare.
+She sat with the visualization for ninety seconds, her hands flat on the bench, and the room changed around the image the way a room changes around a body on the floor. The streams formed a lattice. Not approximate, not suggestive — a grid with hexagonal symmetry, spacing consistent to four decimal places across the entire survey volume. Where each line of the lattice crossed another, the field value dropped to a local minimum: a node, a thinning, a place where the membrane between their slow-light domain and the outer vacuum was not thick but threadbare.
 
 Lian zoomed in on one node. The field gradient was not smooth. It had a discontinuity — a phase boundary, sharp as a crack in glass. On one side, the vacuum had the properties they had always known: light crawling at a fraction of its natural speed, signals dying over short distances, the universe reduced to a sphere eleven light-minutes across. On the other side, extrapolated from the gradient's slope, the vacuum was normal. Lightspeed vacuum. The real universe, with its real distances and its real silence.
 
@@ -74,15 +74,15 @@ She locked the lab, pocketed the data chip, and walked home through the ship's i
 
 The commons at 03:40 was not empty. The *Anwei* had four thousand people and the informal rule was that the commons belonged to whoever was awake, which meant the insomniacs and the third-shift recycler workers and the teenagers who had discovered that the adults' communal spaces felt different at night — less surveilled, the architecture softening into permission. Lian passed a group of them near the hydroponic gallery, five or six kids sitting on the floor eating stolen persimmons, and recognized Sovei's jacket before she recognized Sovei.
 
-Her daughter did not look up. This was not unusual. Sovei was sixteen and had been practicing a particular form of not-seeing her mother for the better part of a year, a studied blindness that was itself a political act — or a personal one, or some combination that Lian had stopped trying to distinguish. She walked past without stopping. The persimmons were probably from Bay 7, which meant someone had picked them before the rotation was scheduled, which meant a conversation at the next food assembly about whether fruit belonged to whoever grew it or whoever was hungry, and Lian could not hold the scale of that argument in the same mind that held the lattice, so she let it go.
+Her daughter did not look up. This was not unusual. Sovei was sixteen and had been practicing a studied blindness toward her mother for the better part of a year, a performance that was itself a political act — or a personal one, or some combination that Lian had stopped trying to parse. She walked past without stopping. The persimmons were probably from Bay 7, which meant someone had picked them before the rotation was scheduled, which meant a conversation at the next food assembly about whether fruit belonged to whoever grew it or whoever was hungry, and Lian could not hold the scale of that argument in the same mind that held the lattice, so she let it go.
 
-Home was a three-room unit on Deck 9, identical to every other three-room unit, which was itself a political statement — the *Anwei*'s founding charter specified uniform living spaces, no larger, no smaller, the architecture of equality made literal in square meters. Deris was asleep, turned toward the wall, one arm trailing off the bed's edge. Deris slept like someone had been set down carelessly — limbs at odd angles, face pressed into the pillow with an abandon that struck Lian, every time, as an act of trust in the room itself, in the air and the gravity and the walls that held the air in place. She stood in the doorway and did not think about membranes. Then she went to the kitchen table and sat down and thought about membranes.
+Home was a three-room unit on Deck 9, identical to every other three-room unit, which was itself a political statement — the *Anwei*'s founding charter specified uniform living spaces, no larger, no smaller, the architecture of equality made literal in square meters. Deris was asleep, turned toward the wall, one arm trailing off the bed's edge. Deris slept like someone who'd been set down carelessly — limbs at odd angles, face pressed into the pillow with an abandon that struck Lian, every time, as an act of trust in the room itself, in the air and the gravity and the walls that held the air in place. She stood in the doorway and did not think about membranes. Then she went to the kitchen table and sat down and thought about membranes.
 
 Phase boundaries. The slow-light field was not uniform — she had known that for years, everyone in her four-person research group knew it, it was the foundational observation of boundary-layer physics aboard the *Anwei*. The streams were well-documented: rivers of faster light moving through the general medium, shear zones where the field's dielectric properties shifted and the effective refractive index dropped. She had published three papers on stream dynamics. She had taught a seminar about them every second year. She had used the scissurellid snails in the thermal vents as a teaching metaphor — tiny organisms, smaller than her thumbnail, whose survival depended on maintaining a permanent slit in their shells. The slit let water through, let the organism breathe. *A sealed shell is a dead shell*, she had told her students. Then she'd corrected herself: *A sealed shell is a coffin. The slit is what makes it a house.*
 
 But the streams were supposed to be natural. Turbulence in the field, like weather patterns in an atmosphere. What she had found tonight was not weather. It was infrastructure.
 
-She pressed her forehead against the table's cool surface and listened to the ship breathe and the ship breathed and the ship breathed and she breathed with it because breathing was the only decision she could make that did not require choosing a side.
+She pressed her forehead against the table's cool surface and listened to the ship breathe and the ship breathed and she breathed with it because breathing was the only decision she could make that did not require choosing a side.
 
 ---
 
@@ -128,11 +128,13 @@ She sat with this for one full day before she opened the ship's historical archi
 
 ---
 
-The archive was a physical room on Deck 3, though the data could be accessed from any terminal. Lian went to the room. She wanted walls around her while she read this particular thing.
+The archive was a physical room on Deck 3, though the data could be accessed from any terminal. Lian went to the room. She wanted walls around her while she read this.
 
 She searched for a phrase she had encountered once in a first-year physics seminar, a piece of pre-departure cosmological theory that the *Anwei*'s founders had included in the knowledge base the way you include a warning label on a container of something that could kill you: the dark forest.
 
-The dark forest hypothesis had arrived on the *Anwei* as part of twelve thousand years of human thought, compressed and curated and filed by discipline. The hypothesis was under cosmology, subsection astro-sociology — a field that had not survived the departure because the *Anwei* had no stars to be social with. Lian had read the abstract once, years ago, the way you read about a disease that afflicts people on a different continent. Now she read the primary sources.
+The dark forest hypothesis had arrived on the *Anwei* as part of twelve thousand years of human thought, compressed and curated and filed by discipline. It was listed under cosmology, subsection astro-sociology — a field that had not survived the departure because the *Anwei* had no stars to be social with. Lian had read the abstract once, years ago, the way you read about a disease that afflicts people on a different continent. Now she read the primary sources.
+
+
 
 The logic was not complex. It did not need to be. The simplest arguments are the hardest to escape.
 
@@ -140,7 +142,7 @@ The universe is large. Civilizations exist but cannot verify each other's intent
 
 Lian read the mathematical formulations. Game theory applied to lightyears. Evolutionary dynamics extended across species boundaries. The chain of suspicion: even if you are peaceful, you cannot prove it across relativistic distance; even if they are peaceful, they might not remain so across evolutionary time; even if both of you are peaceful now, a third civilization might not be, and it takes only one defector to validate the entire model. She read the sociological appendices — how the theory had shaped Earth-era policy, how it was invoked to justify militarization and surveillance and the building of barriers, how dissenters had attempted to counter it with broadcasts of goodwill that were, by the theory's own logic, either suicidal or irrelevant. How the theory had become, over centuries, not a hypothesis but an architecture. How you could trace the shape of the *Anwei*'s membrane in the equations.
 
-She read for six hours. When she stopped, the archive room was dark except for the terminal's glow and her neck ached and she understood something that she had not understood before: the *Anwei*'s membrane was not a shield. It was not a wall. It was a strategic position. The founders had not hidden their people from the universe out of caution or cowardice. They had encoded a cosmological argument into the vacuum structure of space itself and wrapped it around four thousand human lives and called it home.
+She read for six hours. When she stopped, the archive room was dark except for the terminal's glow and her neck ached and she understood something she had not understood before: the *Anwei*'s membrane was not a shield. It was not a wall. It was a strategic position. The founders had not hidden their people from the universe out of caution or cowardice. They had encoded a cosmological argument into the vacuum structure of space itself and wrapped it around four thousand human lives and called it home.
 
 The membrane was an argument. It said: *We are not here. We have never been here. If you find us, we were never here.* And for eleven generations the argument had held because the physics had held.
 
@@ -166,9 +168,9 @@ The mathematics were possible. The engineering was uncertain. The computational 
 
 She locked the lab at 04:00 and went looking for more coffee. What she found was Sovei.
 
-Her daughter was sitting on the floor outside the physics wing with two other teenagers Lian did not recognize, reading something on a shared tablet. They were so absorbed they did not hear her approach. Lian stood in the corridor for a moment, watching — the three of them leaning in toward the screen with the particular intensity of people reading something they believe will change them. She looked over Sovei's shoulder and read the header: *The Opening Argument: Why Anarres Must Speak.*
+Her daughter was sitting on the floor outside the physics wing with two other teenagers Lian did not recognize, reading something on a shared tablet. They were so absorbed they did not hear her approach. Lian stood in the corridor for a moment, watching — the three of them leaning in toward the screen with the concentrated attention of people reading something they believe will change them. She looked over Sovei's shoulder — close enough to smell the stolen persimmon on her daughter's breath — and read the header: *The Opening Argument: Why Anarres Must Speak.*
 
-Anarres. The ship's youth had taken to calling the *Anwei* by the name of a fictional planet from the pre-departure literature — an anarchist world behind a wall, a society that had chosen isolation and been shaped by the choice until the choice and the shape were the same thing. The analogy was imperfect, which the teenagers argued about constantly, which was part of the point. They called themselves the Openists. They wanted to speak. They wanted to drop the wall and send a signal into the dark and wait for an answer, because they were sixteen and had never watched a cooling system kill twelve people and had the terrifying clarity that comes from not yet having a reason to be afraid.
+Anarres. The ship's youth had taken to calling the *Anwei* by the name of a fictional planet from the pre-departure literature — an anarchist world behind a wall, a society that had chosen isolation and been shaped by the choice until the choice and the shape were the same thing. The analogy was imperfect — the *Anwei* had no planet to be exiled from, no Urras to measure itself against, only the membrane and the dark — which the teenagers argued about constantly, which was part of the point. They called themselves the Openists. They wanted to speak. They wanted to drop the wall and send a signal into the dark and wait for an answer, because they were sixteen and had never watched a cooling system kill twelve people and had the terrifying clarity that comes from not yet having a reason to be afraid.
 
 Sovei looked up. Their eyes met. Lian saw her daughter's face — young, hard with conviction, utterly certain in the way that only someone who has not yet been wrong about anything that matters can be certain — and felt a vertigo that had nothing to do with the ship's rotation.
 
@@ -180,14 +182,11 @@ She knew the wall had seams. She knew the seams were opening. And her daughter w
 
 Back in the lab, she sat in the dark for an hour. Not working. Not thinking, exactly. Processing, the way the ship's water recyclers processed — taking in what was contaminated and returning something cleaner, though never clean.
 
-The dramatic irony was precise enough to be cruel. Her daughter was reading a manifesto about opening the wall. Her mother had the data proving the wall could be opened, was opening, would open whether anyone manifested about it or not. Between the two of them stood Lian's silence, which was not a wall but functioned like one — it kept the knowledge on one side and the people who needed it on the other, and Lian stood at the boundary pretending she was a door when she was, in fact, a lock.
+The dramatic irony was not lost on her. Her daughter was reading a manifesto about opening the wall. Her mother had the data proving the wall could be opened, was opening, would open whether anyone manifested about it or not. Between the two of them stood Lian's silence, which kept the knowledge on one side and the people who needed it on the other, and Lian stood at the boundary pretending she was a door when she was, in fact, a lock.
 
-She wrote a letter to Deris that night. She did not send it.
+She wrote a letter to Deris on the terminal. She did not send it. She knew what it said — that she had found something that changed everything, and she was holding it alone because she believed she was best equipped to understand what it meant, and she knew this was the same conviction Fen had held about the cooling data, and she was doing it anyway, because the alternative — trusting the assembly, trusting that four thousand people could hold a truth larger than any of them — felt like handing a child a loaded tool and hoping they build something instead of breaking something. She knew that metaphor made her the person who thinks she's the only adult in the room. She knew that person is always wrong. She was doing it anyway.
 
-*I have found something that changes everything, and I am holding it alone because I believe I am the one best equipped to understand what it means, and I know this is the same conviction Fen held about the cooling data, and I know what happened to Fen, and I am doing it anyway, and I do not know how to stop doing it because the alternative — trusting the assembly, trusting the process, trusting that four thousand people can hold a truth that is larger than any of them — feels like handing a child a loaded tool and hoping they build something instead of breaking something, and I know that metaphor makes me the person who thinks she's the only adult in the room, and I know that person is always wrong, and I am doing it anyway.*
-
-She deleted the letter. She went back to her models. The lattice stared back at her with its hexagonal patience, its 1,447 nodes, its seams that were widening whether she watched them or not. She ran the numbers again. She would always run the numbers again. The numbers were the part of the problem she could control, and control was the drug she had been taking since she was nineteen years old and watched Fen Audo learn that sharing the truth and being heard were two different things.
-
+She deleted the letter. She went back to her models. The lattice stared back with its hexagonal patience, its 1,447 nodes, its seams that were widening whether she watched them or not. She ran the numbers again. She would always run the numbers again. The numbers were the part of the problem she could control, and control was the drug she had been taking since she was nineteen years old and watched Fen Audo learn that sharing the truth and being heard were two different things.
 
 ---
 
@@ -203,7 +202,7 @@ On the seventh day, Deris came to the lab. They brought soup. This was an act of
 
 "Hiding."
 
-The word sat in the air between them. Lian opened her mouth and closed it.
+The word sat between them. Lian opened her mouth and closed it.
 
 "She's angry because you're absent," Deris continued. "She's angry because the Openists talk about community and participation and transparency, and you — her mother, the boundary-layer physicist — won't even attend their meetings. She thinks your silence is a judgment."
 
@@ -219,7 +218,7 @@ The word sat in the air between them. Lian opened her mouth and closed it.
 
 "You sound like the people who built the wall."
 
-The sentence landed with the specific, irreversible weight of a true thing said at the wrong moment or the right one — Lian could not tell the difference, and the not-telling was itself a kind of answer. She looked at Deris. Deris looked back. Neither of them flinched, which was not a contest but a recognition: they had arrived at the place in the argument where both of them were right and the two rights were incompatible and the incompatibility was not a problem to be solved but a condition to be lived in, like gravity, like the slow-light field, like love.
+The sentence landed and Lian could not tell whether it had arrived at the wrong moment or the right one, and the not-telling was itself a kind of answer. She looked at Deris. Deris looked back. Neither of them flinched, which was not a contest but a recognition: they had arrived at the place in the argument where both of them were right and the two rights were incompatible and the incompatibility was not a problem to be solved but a condition to be lived in, like gravity, like the slow-light field, like love.
 
 "Maybe I do," Lian said. "Sound like them."
 
@@ -245,7 +244,7 @@ At the current rate of acceleration, the forward seam would reach critical phase
 
 Eleven days until the candle lit itself.
 
-She sat in the lab and held the number. Eleven was a small number. It fit in your hand. It weighed nothing. It meant everything. She thought about Fen Audo, who had held a number like this and brought it to the assembly and the assembly had flinched and the flinching had killed twelve people.
+She sat in the lab and held the number. Eleven was a small number. It fit in your hand. It weighed nothing. It meant everything. She thought about Fen Audo, who had held a number like this and brought it to the assembly and the assembly had flinched and the flinching had killed twelve people. She thought about Fen's face in the dream and wondered whether Fen had sat alone with her number too, and for how many nights, and whether the sitting alone had been the thing that killed the twelve or whether the telling had.
 
 She thought about Deris, who was right about knowledge and wrong about danger and right about the wall and wrong about what the wall was for.
 
@@ -253,13 +252,13 @@ She thought about Sovei, who wanted to open a wall she did not know was already 
 
 Three options. She could present the data to the assembly. She could act alone — redirect the thermal systems to reinforce the forward seam, kill the ecology to save the wall. Or she could do nothing and let the probe succeed.
 
-Each option was a different shape of violence. Against the community's autonomy, against the community's ecology, against the community's existence. There was no fourth option. There was no option that preserved everything. The universe did not offer options that preserved everything — it offered trade-offs, and the only question was who got to make the trade. And she sat in the lab with eleven days pressing against her like a headache that was also a countdown and thought: *I am the people who built the wall. I have been standing on the inside of it my entire life, and the only thing I have ever done with the view is refuse to share it.*
+Each option was a different shape of violence. Against the community's autonomy, against the community's ecology, against the community's existence. There was no fourth option. The universe did not offer options that preserved everything — it offered trade-offs, and the only question was who got to make the trade. And she sat in the lab with eleven days pressing against her like a headache that was also a countdown and thought: *I am the people who built the wall. I have been standing on the inside of it my entire life, and the only thing I have ever done with the view is refuse to share it.*
 
 She walked to the communications panel. She called an assembly.
 
 ---
 
-The assembly met in the commons on Deck 5 — dining hall and gymnasium and theater and clinic, depending on the hour and the need. Lian had called it, which anyone could do, which was the rule, which meant that by 20:00 ship-time there were eleven hundred people on the floor and along the walls and more watching from screens in their units, and the room carried the smell of dinner and the particular electric tension of a community that knows something has broken but not what.
+The assembly met in the commons on Deck 5 — dining hall and gymnasium and theater and clinic, depending on the hour and the need. Lian had called it, which anyone could do, which was the rule, which meant that by 20:00 ship-time there were eleven hundred people on the floor and along the walls and more watching from screens in their units, and the room smelled of dinner and carried the particular electric tension of a community that knows something has broken but not what.
 
 Lian stood at the front. She had the visualizations loaded on the main display. She had not prepared a speech or built a narrative or constructed an argument or decided what she thought they should do. She had data and she had options and she was finished deciding for other people what they could carry.
 
@@ -271,7 +270,7 @@ She showed them the widening data. Twenty-two years of archival evidence.
 
 "The degradation is accelerating. In the forward quadrant, the rate has increased by a factor of six in nine days. The pattern is periodic — 73.2-hour cycles. Something outside the membrane is probing the seam structure."
 
-The room shifted. Not a sound but a change in the quality of the silence, a held breath becoming a different kind of held breath.
+The room shifted. Not a sound but a change in the quality of the silence — a held breath becoming a different kind of held breath.
 
 She showed them the dark forest hypothesis. Not her interpretation — the original sources, the mathematics, the game theory. She watched eleven hundred faces encounter the idea that the universe was a place where being seen was the same as being targeted, and she watched the idea land differently on each face, because fear is personal even when the threat is cosmological.
 
@@ -289,25 +288,27 @@ The survivalists spoke first, because fear moves faster than thought: reinforce 
 
 The Openists spoke next. Pava Osei argued that the probing was evidence of intelligence, that intelligence implied the possibility of communication, that the dark forest was a theory and theories could be wrong. A physicist from Lian's own group — Rais, who had not known about the lattice until tonight — countered that the theory did not need to be wrong for the probing to be non-hostile, but the theory did not need to be right for the probing to be lethal.
 
-The third faction assembled without a name — engineers, ecologists, a few people who simply could not bear either extreme. They argued for the controlled opening. Listen first. Crack the door an inch. Put your ear against it.
+A third faction assembled without a name — engineers, ecologists, people who could not bear either extreme. They argued for the controlled opening. Listen first. Crack the door an inch. Put your ear against it.
 
-The debate went for two hours. It became circular, then personal, then ugly in the specific way that communal arguments become ugly — not through cruelty but through the exhaustion of discovering that the people you eat with and sleep near and share air with have completely different ideas about what survival means and what it costs. Someone accused Lian of withholding the data for weeks, which was true. Someone else defended her, which was kind but changed nothing. A man stood and proposed a vote and was shouted down by people who said you don't vote on survival, and other people who said you don't vote on anything, consensus or nothing, and other people who said consensus takes time and eleven days was not enough time for consensus and maybe they should talk about that.
+The debate went for two hours. It became circular, then personal, then ugly in the way that communal arguments become ugly — not through cruelty but through the exhaustion of discovering that the people you eat with and sleep near and share air with have completely different ideas about what survival means and what it costs. Someone accused Lian of withholding the data for weeks, which was true. Someone else defended her, which was kind but changed nothing. A man proposed a vote and was shouted down by people who said you don't vote on survival, and others who said you don't vote on anything, consensus or nothing, and others who said consensus takes time and eleven days was not enough time for consensus and maybe they should talk about that, and someone else said if they talked about talking they would die talking about talking.
 
 Sovei stood up.
 
-The room was loud. Sovei was not loud. But sixteen-year-olds broadcast on a frequency that cuts through adult noise — not authority, not volume, but the particular pitch of someone who has not yet learned to qualify.
+The room was loud. Sovei was not loud. But sixteen-year-olds broadcast on a frequency that cuts through adult noise — not authority, not volume, but the pitch of someone who has not yet learned to qualify.
 
-"I want to say one thing," Sovei said, "and I want you to actually hear it instead of using it as a pause before you keep arguing."
+"I want to say one thing," Sovei said. "One thing, and then I'll sit down."
 
-The room did not go quiet. But it went quieter. Enough.
+The room did not go quiet. But it went quieter.
 
-"Everyone here is arguing about what to do with the membrane. Seal it or open it or crack it. But nobody's said the obvious thing. The membrane is already opening. Something out there is opening it. It's been doing it for nine days and it's going to keep doing it whether we vote or don't vote or argue until we suffocate." She looked around the room. Lian saw her daughter's face — not wise, not brave, just clear, the way a pane of glass is clear, the way a question is clear when it hasn't been decorated with caveats. "So the question isn't what we do to the membrane. The membrane is doing what it's doing. The question is what we do with ourselves. Are we the kind of people who act, or the kind who let things happen to them? We've been letting things happen for eleven generations, hiding inside a wall we didn't build, and I don't think it's made us better. I think it's made us careful. And careful and good are not the same thing."
+"Everyone's arguing about what to do with the membrane. Seal it or open it or crack it. But the membrane is already opening. Something out there is opening it. It's been doing it for nine days and it doesn't care what we vote." She looked at her mother — not at the room, at her mother, and Lian felt the look land like a phase boundary, a discontinuity she could not smooth. "So maybe the question isn't what we do to the membrane. Maybe it's what we do with ourselves while it does what it's going to do. We've been hiding inside a wall we didn't build for eleven generations. I don't think it's made us better. I think it's made us careful. And I don't know if careful and good are the same thing."
 
-She sat down. The room was silent for five seconds — an eternity in an assembly of eleven hundred — and then the conversation resumed, but different now. Not about physics or strategy but about identity, about what the hiding had made them, about whether the wall was their protection or their shape and whether those were different things.
+She sat down. She had not said what the answer was. A man in the back row started to speak and then stopped, as if he'd realized his sentence was no longer the one that was needed.
 
-Lian sat in the back row. Deris was beside her. At some point — she could not have said when — Deris had taken her hand. Not a reconciliation. Not a gesture. A fact, like the ship's gravity, like the recycled air, like the membrane that held and would hold until it didn't. Deris's hand was warm and rough from years of tending the thermal systems and it held hers the way the ship held them all — not because anyone had decided to hold on, but because letting go was not yet the thing that was happening.
+The conversation resumed, but different now. Not about physics or strategy but about identity — what the hiding had done to them, whether the wall was their protection or their shape and whether those were different things. Lian listened to people she'd known for decades argue as if they were strangers, and realized that on this question they were — she had never had this conversation with any of them, because the wall had made the conversation unnecessary, and the wall was coming down.
 
-The assembly continued. No consensus was reached. No vote was taken. People argued and fell silent and argued again, and the arguing was the point — not resolution but process, the slow, contradictory, maddening process of four thousand people trying to decide together what one person could have decided alone.
+Lian sat in the back row and listened. Deris was beside her — she had not noticed when Deris sat down. At some point — she could not have said when — Deris had taken her hand. Not a reconciliation. Not a gesture. A fact, like the ship's gravity, like the recycled air. Deris's hand was warm and rough from years of tending the thermal systems and it held hers the way the ship held them all — not because anyone had decided to hold on, but because letting go was not yet the thing that was happening.
+
+The assembly continued. No consensus was reached. No vote was taken. People argued and fell silent and argued again, and somewhere in the arguing a woman whose name Lian didn't know stood up and said something about her grandmother and the first-generation colonists and what they had feared, and the room went quiet, and then someone else said something about children, and the room went loud, and there was no resolution, and the lack of resolution was not a failure but not a success either — it was the process, and the process was ongoing, and the membrane did not care about their process but they did, and that caring was the only thing they had that the dark forest did not account for.
 
 ---
 
@@ -315,10 +316,10 @@ Afterward, when the commons had emptied — not adjourned but dispersed, people 
 
 The channels ran beneath the hydroponic racks in a network of ceramic pipes, heated by the reactor's secondary loop, cooled by the hull's radiative surface, cycling water through the temperature gradient that powered the ship's ecology. In the warm sections, clinging to the pipe walls, the scissurellid snails carried on as they had carried on for longer than any human generation aboard — small, pale, their ridged shells no larger than a child's fingernail, each one bearing a slit through which the thermal water entered, passed over the animal's respiratory membrane, and exited. The slit was the central engineering problem of their existence: too wide and the shell collapsed; too narrow and the organism suffocated. Every snail was a negotiation between armor and breath, between the safety of enclosure and the necessity of exchange.
 
-Lian crouched at the edge of a channel and watched them. Dozens, oriented into the current, alive in the way that small things are alive — without commentary, without justification, without knowing that the boundary they inhabited had a name or a history or a crisis bearing down on it. They breathed through their slits and the water flowed through their shells and they were alive, and being alive was not a decision but a condition, and the condition required no defense.
+Lian crouched at the edge of a channel and watched them. Dozens, oriented into the current, alive without commentary, without justification, without knowing that the boundary they inhabited had a name or a history or a crisis bearing down on it. They breathed through their slits and the water flowed through their shells and they did not know about the membrane or the lattice or the dark forest or the assembly or the eleven days. They lived at the boundary between warm and cold, inside and outside, protection and exposure, and they had never needed to know what the boundary was for because knowing was not required.
 
-The water in the channel was warm. The current was steady. Somewhere above, eleven light-minutes away in a direction the ship's cartography had never named, something pressed against the membrane's forward seam with a patience that could have been curiosity or appetite or something with no human name. The assembly was still arguing in hallways and kitchens. Deris was somewhere — home or not home. Sovei had said what she said and the room had heard it and what would come of the hearing was not yet a fact but a pressure, building.
+The water was warm. The current was steady. Somewhere above, something pressed against the membrane's forward seam with a patience that might have been curiosity or appetite or something without a human name. The assembly was still arguing in hallways and kitchens. Deris was somewhere. Sovei had said what she said.
 
-The snails did not know about any of it. They did not know about the membrane or the lattice or the dark forest or the assembly or the eleven days. They lived at the boundary between warm and cold, inside and outside, protection and exposure, and they had never needed to know what the boundary was for because knowing was not required. They had slits. They had water. They had the specific, unsolvable negotiation of being open enough to live and closed enough to last, and they were managing it, organism by organism, shell by shell, the way they had always managed it, the way they would manage it tomorrow and the day after unless the thermal systems were redirected or the ecology collapsed or the wall came down.
+Lian thought about calling another assembly for the morning. She thought about running the controlled-opening model one more time with tighter boundary conditions, about whether Rais could verify her phase-boundary calculations independently, about whether any of it mattered when the probing would continue at its 73.2-hour intervals regardless. She thought about porridge with dried apricots and about Fen and about Deris's hand and about nothing.
 
-But the wall had not come down yet. And the snails did not deal in yet. The water flowed through them as it had always flowed, and their slits faced the current, open, structural, the smallest doors on the ship, and through them the warm water passed without knowing that beyond the ceramic and the hull and the slow-light field and the vacuum, something was pressing, pressing, pressing against the seam with a patience that had already outlasted every argument in the room above, and would outlast every argument still to come, because patience is not a human quality but a cosmological one, and the universe has more of it than any assembly, and the water flowed, and the shells held, and the current was about to change.
+The water flowed. The shells held. The slits faced the current — the smallest doors on the ship — and through them the water moved, in and out, and beyond the ceramic and the hull and the slow-light field and the vacuum, something continued its work at the forward seam with a patience that had already outlasted every argument in the room above. The water flowed. The shells held. The current moved through the slits whether the slits understood the current or not.
