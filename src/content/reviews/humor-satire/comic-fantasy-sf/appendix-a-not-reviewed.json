@@ -1,0 +1,61 @@
+{
+  "workSlug": "appendix-a-not-reviewed",
+  "reviews": [
+    {
+      "personaId": "hum-001-felicity",
+      "rating": 5,
+      "text": "The structural conceit here is flawless: a bureaucratic form that, through its own perfectly reasonable internal logic, erases a sentient civilization. Every checkbox is defensible. Every auto-calculation is correct. And the result is monstrous. What elevates this beyond clever premise is Okonkwo's voice — the footnotes carry all the weight the form strips out. \"I am aware of what I have done here\" is devastating precisely because it's buried in a footnote about carbon classification. The comedy never undermines the horror, and the horror never drowns the comedy. That balance is extraordinarily difficult to maintain, and this piece never wobbles.",
+      "date": "2025-12-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-002-ted",
+      "rating": 4,
+      "text": "\"Probably argon, but sad\" made me laugh out loud on the Brown Line. The whole thing is basically a government form that accidentally commits genocide, and somehow it's both hilarious and genuinely upsetting. Okonkwo trying to describe an entire alien civilization in 40-character fields is painfully funny. Lost half a star because the middle sections drag a bit — there are only so many times the system can truncate something before I get the joke — but the ending hit me harder than I expected.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-003-nadia",
+      "rating": 5,
+      "text": "This is institutional violence rendered as comedy, and it works because the satire is structurally precise rather than merely angry. The Sentience Composite Index is the centrepiece: a scoring system that awards zero for \"Other\" because nobody added a corresponding value in nine revisions. That detail alone is worth the piece — it captures exactly how institutional harm operates, not through malice but through categories that were never designed for what they encounter. Okonkwo's compliance is the most uncomfortable element. He checks the boxes because the alternative is losing his flat and his fern, and the story refuses to judge him for it while also refusing to let him off the hook. The fern line — \"The fern is not the point. But the fern is also not not the point\" — is doing real philosophical work about complicity and scale.",
+      "date": "2026-01-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-004-roger",
+      "rating": 5,
+      "text": "Forty years in the civil service and I have never seen anyone get the machinery of institutional failure quite this right. The form revisions alone — 12.1 allowed supplementary observations, 12.2 introduced auto-population, 12.3 made it mandatory, each one \"more efficient\" and each one less capable of describing reality — that is exactly how it works. Not conspiracy, not incompetence, just iteration toward blindness. The supervisor's margin notes are perfect. Hallam isn't evil; Hallam is doing his job, which is the whole point. I'd have this on every induction reading list if I still had any say in the matter.",
+      "date": "2025-09-18",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-005-jasmine",
+      "rating": 3,
+      "text": "Smart, well-built, but I wanted more laughs. The \"probably argon, but sad\" line is gold, and the footnote about the jurisdictional dispute that can't be acknowledged because acknowledging it requires the form that requires agreement on the thing they're disputing — that's a perfect comic mechanism. But large stretches of the middle read more like a thought experiment than a comedy. The Appendix at the end is beautiful writing, sure, but it's not funny. It's moving. And I came here to laugh.",
+      "date": "2026-02-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-006-oliver",
+      "rating": 4,
+      "text": "What a lovely, furious little piece this is. The story-as-form conceit could easily have been a one-note gimmick — look, bureaucracy is absurd — but it earns its length by making Okonkwo a real person inside the machinery. The moment where he explains that he acknowledged the Resource Extraction trigger because the alternative leads back through a chain of consequences to losing his fern is comic writing of a very high order, because the logic is impeccable and the outcome is an atrocity. The alien civilization itself is beautifully imagined — geological beings whose tectonic plates have disagreements, whose weather participates in conversation. I could have read pages more about them, which I suppose is exactly what Appendix A contained before it was flagged. My one reservation is that the piece occasionally tells you what to feel rather than trusting the form to do its work. \"The form has determined, through a process that is internally consistent at every step, that this civilization does not exist\" — that's the story stating its own thesis, and the form had already made the point.",
+      "date": "2025-11-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-007-diana",
+      "rating": 4,
+      "text": "Formally ambitious and largely successful. The constraint of the bureaucratic form is not decorative — it is the satirical method, because the form's limitations are the instrument of erasure. Every truncation, every auto-populated field, every character limit is an act of violence performed by structure rather than intent. The footnotes function as a counter-text, a parallel narrative that preserves what the form destroys, and the tension between the two registers is where the piece lives. I deduct a point because the Appendix, while moving, breaks the formal discipline. Once Okonkwo speaks in uninterrupted prose, the constraint that made the satire powerful is gone, and what remains is sentiment — well-crafted sentiment, but sentiment nonetheless.",
+      "date": "2026-02-01",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-008-pete",
+      "rating": 4,
+      "text": "Tight premise, good payoff. The callback structure is strong — Appendix A gets referenced and flagged repeatedly until the title lands like a punchline. \"Probably argon, but sad\" is the best single joke. The footnote about the jurisdictional dispute is the best extended one. Could lose some of the middle sections where it's repeating the same gag (system truncates thing, Okonkwo protests) but the ending earns the runtime.",
+      "date": "2025-08-27",
+      "helpfulCount": 0
+    }
+  ]
+}
