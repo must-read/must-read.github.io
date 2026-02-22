@@ -5,7 +5,7 @@ genre: "gothic-fiction"
 subgenre: "new-contemporary-gothic"
 authorA: "Edgar Allan Poe"
 authorB: "Silvia Moreno-Garcia"
-workSlug: ""
+workSlug: "appetite-of-the-walls"
 wordCount: 2782
 publishedDate: 2026-02-22
 ---
