@@ -5,7 +5,7 @@ genre: "adventure"
 subgenre: "military-adventure"
 authorA: "Robert Louis Stevenson"
 authorB: "Wilbur Smith"
-workSlug: ""
+workSlug: "farms-and-drinkers"
 wordCount: 3305
 publishedDate: 2026-02-22
 ---
