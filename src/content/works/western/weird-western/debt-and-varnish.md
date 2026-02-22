@@ -10,10 +10,10 @@ workY: "The Bloody Chamber"
 wordCount: 4081
 readingTimeMinutes: 16
 tags: ["weird western", "frontier justice", "transformation", "debt", "desert", "multiple narrators", "uncanny"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: 2026-02-21
-status: "draft"
+status: "published"
 formulaSummary: "Leonard's laconic prose and frontier economics collide with Carter's baroque transformation logic in a story of a debt collector entering a canyon that remakes what enters it."
 synopsis: "A former Army scout rides into a box canyon to collect a $200 debt from a mining speculator who hasn't come out in weeks. The canyon has other ideas about payment. Told in three voices that never agree on what happened."
 combination:
