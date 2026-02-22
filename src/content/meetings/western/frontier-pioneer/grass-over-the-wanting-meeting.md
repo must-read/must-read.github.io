@@ -1,11 +1,11 @@
 ---
 title: "What the Soddie Knew"
-slug: "tbd-frontier-pioneer-meeting"
+slug: "grass-over-the-wanting-meeting"
 genre: "western"
 subgenre: "frontier-pioneer"
 authorA: "Annie Proulx"
 authorB: "Larry McMurtry"
-workSlug: "tbd-frontier-pioneer"
+workSlug: "grass-over-the-wanting"
 wordCount: 2915
 publishedDate: "2026-02-21"
 ---

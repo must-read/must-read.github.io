@@ -1,11 +1,11 @@
 ---
 title: "On Walls, Frequencies, and Whether the Universe Owes You an Answer"
-slug: "tbd-hard-sf-meeting"
+slug: "slit-and-membrane-meeting"
 genre: "science-fiction"
 subgenre: "hard-sf"
 authorA: "Liu Cixin"
 authorB: "Ursula K. Le Guin"
-workSlug: "tbd-hard-sf"
+workSlug: "slit-and-membrane"
 wordCount: 2604
 publishedDate: "2026-02-21"
 ---

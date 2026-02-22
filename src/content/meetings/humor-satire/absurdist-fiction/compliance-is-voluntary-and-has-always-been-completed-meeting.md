@@ -1,11 +1,11 @@
 ---
 title: "On the Cosmic Illegibility of Paperwork"
-slug: "tbd-absurdist-fiction-meeting"
+slug: "compliance-is-voluntary-and-has-always-been-completed-meeting"
 genre: "humor-satire"
 subgenre: "absurdist-fiction"
 authorA: "Douglas Adams"
 authorB: "Franz Kafka"
-workSlug: "tbd-absurdist-fiction"
+workSlug: "compliance-is-voluntary-and-has-always-been-completed"
 wordCount: 2886
 publishedDate: "2026-02-21"
 ---

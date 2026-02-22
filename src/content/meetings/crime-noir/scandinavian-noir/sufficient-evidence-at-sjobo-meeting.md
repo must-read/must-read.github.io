@@ -1,11 +1,11 @@
 ---
 title: "What the Report Cannot Say"
-slug: "tbd-scandinavian-noir-meeting"
+slug: "sufficient-evidence-at-sjobo-meeting"
 genre: "crime-noir"
 subgenre: "scandinavian-noir"
 authorA: "Henning Mankell"
 authorB: "Kazuo Ishiguro"
-workSlug: "tbd-scandinavian-noir"
+workSlug: "sufficient-evidence-at-sjobo"
 wordCount: 3270
 publishedDate: "2026-02-21"
 ---

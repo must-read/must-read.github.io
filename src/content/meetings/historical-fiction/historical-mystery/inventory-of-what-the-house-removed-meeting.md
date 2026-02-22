@@ -1,11 +1,11 @@
 ---
 title: "The Inventory of What Was Removed"
-slug: "tbd-historical-mystery-meeting"
+slug: "inventory-of-what-the-house-removed-meeting"
 genre: "historical-fiction"
 subgenre: "historical-mystery"
 authorA: "Hilary Mantel"
 authorB: "Sarah Waters"
-workSlug: "tbd-historical-mystery"
+workSlug: "inventory-of-what-the-house-removed"
 wordCount: 3211
 publishedDate: "2026-02-21"
 ---
