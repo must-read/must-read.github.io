@@ -7,7 +7,7 @@ authorA: "Douglas Adams"
 authorB: "Franz Kafka"
 workX: "The Trial"
 workY: "The Hitchhiker's Guide to the Galaxy"
-wordCount: 2949
+wordCount: 2934
 readingTimeMinutes: 12
 tags:
   - absurdist-fiction
@@ -51,7 +51,7 @@ combination:
     - "Gerald's individual crisis rendered cosmically insignificant by a system operating at civilizational scale"
 ---
 
-The letter arrived on a Tuesday, which was the day Gerald Pinch received most of his correspondence, because Tuesday was the day the post came, because Gerald had arranged with the postal service to consolidate his deliveries to a single weekly visit, because Gerald believed that efficiency was a form of respect for institutions, and institutions, Gerald believed, were what kept the world from sliding into the kind of disorder where people opened their mail on any day they pleased.
+The letter arrived on a Tuesday, which was the day Gerald Pinch received most of his correspondence, because Tuesday was the day the post came, because Gerald had arranged with the postal service to consolidate his deliveries to a single weekly visit, because Gerald believed that efficiency was a form of respect for institutions, and institutions were what kept the world from sliding into the kind of disorder where people opened their mail on any day they pleased.
 
 The envelope was cream-colored and heavy in the way that implied someone, somewhere, had selected the paper stock with intention. In the upper left corner, embossed in a font that seemed to retreat slightly from the eye: **BUREAU OF CONDITIONS**. Below that, in smaller type: *Assessment Division, Sub-Branch 7(a), Provisional Wing*.
 
@@ -82,7 +82,7 @@ He went to the address on the letter the following morning, having packed a fold
 
 The building was between a dry cleaner Gerald had used for nine years and a vacant lot Gerald had walked past every day on his route to work. He had never noticed a building between them. The building did not look new. It looked, if anything, older than either of its neighbors — a slab of beige concrete with no windows and a revolving door that turned with the enthusiasm of something that had been waiting.
 
-Inside: carpet tiles the color of resigned acceptance. Fluorescent lighting tuned to a frequency that was almost, but not quite, the frequency of a headache. A reception desk, behind which sat a woman with steel-colored hair and the measured patience of a person who had explained this particular thing eleven thousand times and had come, over the course of those explanations, to enjoy the explanation more than the thing being explained.
+Inside: carpet tiles the color of institutional tea. Fluorescent lighting tuned to a frequency that was almost, but not quite, the frequency of a headache. A reception desk, behind which sat a woman with steel-colored hair and the measured patience of a person who had explained this particular thing eleven thousand times and had come, over the course of those explanations, to enjoy the explanation more than the thing being explained.
 
 "Name?" she said.
 
@@ -186,42 +186,36 @@ He met a woman sitting on a plastic chair that she had apparently brought with h
 
 "I don't know. I couldn't answer the last question."
 
-Janet nodded as if this were expected, and perhaps it was. "I've been here three weeks. Give or take. Time in the corridor behaves more like a suggestion than a rule. I've completed seventeen assessments."
+Janet nodded as if this were expected. "I've been here three weeks. Give or take. Time in the corridor behaves more like a suggestion than a rule. I've completed seventeen assessments."
 
 "Seventeen?"
 
-"Each time I pass, I receive a letter informing me that my results have been forwarded to a different department for secondary review. So I wait. And then I'm assessed again. The first week is the hardest." She smiled. The smile was genuine, which was the worst thing about it. "After that, you stop expecting it to end, and once you stop expecting it to end, it becomes quite peaceful. Like retirement, but with more forms."
+"Each time I pass, I receive a letter informing me that my results have been forwarded to a different department for secondary review. So I wait. And then I'm assessed again." She smiled. The smile was genuine, which was the worst thing about it. "After a while you stop expecting it to end. Like retirement, but with more forms."
 
-Gerald stood in the corridor and looked at Janet, who was comfortable, who had brought her own chair, who had been assessed seventeen times by a bureau that did not exist and had found in this arrangement something she was willing to call peace. He wanted to say something about this. He wanted to say that what she was describing was not peace but the absence of resistance, and that these were not the same thing, and that he knew this because he had spent his entire professional life making sure things were done correctly and had never once asked whether the things should be done at all.
-
-He said none of this. He was not authorized to say it. No form had asked him to.
-
-"Have you ever tried leaving?" he asked.
+"Have you ever tried leaving?" Gerald asked.
 
 Janet looked at him with the genuine puzzlement of a person who has been asked whether water is wet. "Why would I leave? They haven't told me I can."
 
-Gerald walked on. The corridor continued. The fluorescent lights hummed.
+Gerald walked on. The corridor continued. The fluorescent lights hummed. He passed Department 7 a third time, though he had not turned around. Behind its door, the typing had stopped, and what had replaced it was not silence but the particular quality of attention that a room acquires when someone in it is listening.
 
 ---
 
 He reached a door marked **EXIT**.
 
-Behind it was a waiting room. Twelve plastic chairs. Carpet tiles the color of resigned acceptance. Fluorescent lighting tuned to almost-a-headache. The poster on the wall: **YOUR COOPERATION IS APPRECIATED AND INEVITABLE.**
+Behind it was a staircase going down. The stairs were concrete, lit by the same fluorescent tubes, and Gerald counted fourteen steps before the landing, then fourteen more, then fourteen more, and the building, he was fairly certain, had only one floor. The staircase delivered him to a hallway, and the hallway to a room, and the room contained a desk.
 
-The reception desk was empty. Where Ms. Drewe had been, a small laminated sign: *Ms. Drewe is currently completing her own Verification of Continuance. Please take a number and wait.*
+Behind the desk sat no one. On the desk sat a folder with Gerald's name on it, a felt-tip pen, and a small laminated sign: *Your assessor is currently completing their own Verification of Continuance. Please complete Form PES-8 (Self-Assessment of Assessment) and leave it in the tray marked PENDING. Your results will be mailed to the address on file, which may or may not still be your address, depending on the outcome.*
 
-Gerald looked at the sign for a long time. Then he looked at a small table by the door, where a book sat. It was heavier than the last one. The cover read: *A Visitor's Companion to the Bureau of Conditions, 15th Edition (Provisional)*.
+Gerald sat down. There was no Form PES-8 on the desk. There was no tray marked PENDING. There was only the folder, which he opened, and which contained a single sheet of paper on which someone had written, in handwriting he recognized as his own, though he had no memory of writing it: "Gerald Pinch was here."
 
-He opened it. He turned to the index. He looked for his name.
-
-His name was not there. Not crossed out, not redacted — simply absent. The entries skipped from "Pikeworth, Standards of" to "Plenary, Conditions for Achieving," and in between there was nothing, not even a gap. The text continued as if he had never been included, the sentences grammatically complete, the paragraphs flowing from one to the next with the serene indifference of a document that has been revised to remove something it never needed.
+He did not know when he had written it. The ink was dry. The paper was the same heavy cream stock as the original letter, which meant nothing except that the Bureau, whether or not it existed, had consistent taste in stationery.
 
 *(A Visitor's Companion, 15th Edition, p. 214: "The Fork Inquiry is a standard component of all Continuance Verifications. Items submitted during assessment are catalogued, filed, and retained in perpetuity. To request the return of a submitted item, please complete Form IR-1 (Item Retrieval). Form IR-1 requires the applicant's Bureau reference number, which is assigned upon successful completion of the Verification of Continuance, which requires the return of the submitted item.")*
 
-Gerald closed the book. There was a number on his hand, written in felt-tip pen that had not dried and showed no sign of drying. The number was 4. It was the same number. He checked, although he did not know what he was checking against, since numbers do not change and 4 had been 4 for as long as mathematics had opinions on the subject.
+There was a number on his hand, written in felt-tip pen that had not dried and showed no sign of drying. The number was 4. He checked, although he did not know what he was checking against, since numbers do not change and 4 had been 4 for as long as mathematics had opinions on the subject.
 
-He sat down. The plastic chair accepted him with the creak of something that had accepted many people before and would accept many people after and did not distinguish between them.
+The pen on the desk was the same brand as the one the receptionist had used. Gerald picked it up. He turned the sheet of paper over. The back was blank. He could write something — a complaint, a question, a second declaration of his own presence. He could write "I was here" again, as if repetition were a form of proof.
 
-He waited.
+He put the pen down. He left the paper where it was. He stood up and walked back toward the staircase, which now had fifteen steps per landing, though Gerald did not count them, because he was thinking about his fork, and whether the Bureau would file it correctly, and whether correct filing, in a system that did not exist, was a concept that meant anything at all.
 
-In the corridor behind him, the fluorescent lights hummed. Somewhere in the building — or in the part of the building that exceeded the building — a drawer opened, and a fork was filed under a letter that would never be taught in schools, and the filing cabinet closed with a sound like a small, administrative door.
+Somewhere above him — or below, the building having lost its opinion on the matter — a drawer opened.
