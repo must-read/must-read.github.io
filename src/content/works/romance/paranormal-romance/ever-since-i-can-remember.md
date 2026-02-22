@@ -7,8 +7,8 @@ authorA: "Beverly Jenkins"
 authorB: "Casey McQuiston"
 workX: "Interview with the Vampire"
 workY: "The Time Traveler's Wife"
-wordCount: 4714
-readingTimeMinutes: 20
+wordCount: 4518
+readingTimeMinutes: 18
 tags:
   - immortality
   - bookstore
@@ -55,7 +55,7 @@ She counted Morrisons. Six *Beloved*. Four *Song of Solomon*. Three *Sula*. One 
 
 Elliot put the book back.
 
-She looked up. He was standing at the shelf with his hands in his jacket pockets, studying the spines like a man at a museum — a museum where he already knew the collection and was checking whether anything had moved.
+She looked up. He was standing at the shelf with his hands in his jacket pockets, studying the spines like a man at a museum where he already knew the collection and was checking whether anything had moved.
 
 "You know you can buy one," she said.
 
@@ -69,7 +69,7 @@ He turned. He had a face that registered surprise slowly, like he'd forgotten ot
 
 "The bandwidth."
 
-"Emotional bandwidth. She requires your full attention and she doesn't give it back. Like certain people I could name." He looked at her, and the corner of his mouth did something that wasn't quite a smile. "Present company unimplicated."
+"Emotional bandwidth. She requires your full attention and she doesn't give it back. Like certain people I could name." He looked at her. "Present company unimplicated."
 
 Naomi closed the ledger. "You're the only person I've ever met who uses 'unimplicated' in casual conversation."
 
@@ -77,11 +77,11 @@ Naomi closed the ledger. "You're the only person I've ever met who uses 'unimpli
 
 "It wasn't a compliment."
 
-He laughed. It was the kind of laugh that sounded like it had been built over time, layered and worn smooth, the way the wooden counter under her hands had been worn smooth by decades of transactions before she'd ever set a cash register on it. She liked his laugh and resented liking it. She did not have room in her operational budget for liking the laugh of a man who came to her store twice a week and refused to contribute to her revenue.
+He laughed. It was the kind of laugh that sounded like it had been built over time, layered and worn smooth. She liked his laugh and resented liking it. She did not have room in her operational budget for liking the laugh of a man who came to her store twice a week and refused to contribute to her revenue.
 
 He was looking at the ceiling. He did this every visit — tipped his head back and studied the exposed wooden beams as though they were trying to tell him something. The beams were original, 1923, installed when the building was constructed as a boarding house. She knew this because her aunt Vivian, who'd left Naomi the inheritance that became Cornerstone Books, had researched the property before buying it. The building had been a boarding house, then a dry cleaner, then empty for eleven years, then hers.
 
-"The wood remembers the drought of 1876," Elliot said, reaching up to brush his fingers across the nearest beam. His touch was light, almost reverential, the way a person touches a scar.
+"The wood remembers the drought of 1876," Elliot said, reaching up to brush his fingers across the nearest beam. His touch was light, reverent, the way a person touches a scar.
 
 Naomi watched him. "That beam's from 1923."
 
@@ -103,7 +103,7 @@ Cornerstone Books was still here. The lease renewal was in four months. She was,
 
 On Thursday, Elliot walked in and she watched him with new eyes. He went straight to the beams. He ran his hand along the wood. He walked the perimeter of the store slowly, stopping at the east wall — the one she now knew, because she'd checked, once held the second entrance he'd described.
 
-He paused at the doorframe and traced the carved symbol there with his thumb. The Sankofa. A bird with its head turned backward, feet facing forward. It had been there when her aunt bought the building. Naomi had never looked into it. She'd noticed it the way you notice an old stain or an uneven floorboard — a feature of the space, not a question.
+He paused at the doorframe and traced the carved symbol there with his thumb. The Sankofa. A bird with its head turned backward, feet facing forward. It had been there when her aunt bought the building. Naomi had never looked into it. She'd noticed it the way you notice an uneven floorboard — a feature of the space, not a question.
 
 "Who told you about the original floor plan?" she asked.
 
@@ -115,7 +115,7 @@ Elliot put his hands in his pockets. He had an expression she was learning to re
 
 "So is Meridian Development Group."
 
-The name landed between them like a coin on a counter. She saw it register. Not guilt — she'd have expected guilt from a man caught scouting. Something else. Something she couldn't catalog.
+The name landed between them. She saw it register. Not guilt — she'd have expected guilt from a man caught scouting. Something else. Something she couldn't catalog.
 
 "You got a letter," he said.
 
@@ -129,9 +129,9 @@ She looked at him for a long time. "You sound like you've done this before."
 
 "From which side?"
 
-He didn't answer. He walked to the poetry shelf, selected the Lucille Clifton, held it. He stood there with the book in both hands, not opening it, and she could see the conversation closing in him — the way a store closes, lights going off in sequence from back to front.
+He didn't answer. He walked to the poetry shelf, selected the Lucille Clifton, held it. He stood there with the book in both hands, not opening it, and she could see the conversation closing in him — lights going off in sequence from back to front.
 
-"Mr. Lassiter comes in once a month and takes one of those," she said. She didn't know why she said it except that the silence was becoming structural, load-bearing, and she needed to put something under it before it cracked.
+"Mr. Lassiter comes in once a month and takes one of those," she said. She didn't know why she said it except that the silence had become structural, load-bearing, and she needed to put something under it before it cracked.
 
 "Takes?"
 
@@ -139,7 +139,7 @@ He didn't answer. He walked to the poetry shelf, selected the Lucille Clifton, h
 
 Elliot looked at her. She expected a joke. His face was doing something different — not smiling, not sad, but open in a way that reminded her of the beams when the late-afternoon light hit them and you could see the grain.
 
-"She understood what bodies carry," he said. Then, lighter, but not all the way light: "She was funnier than people give her credit for, too."
+"She was funnier than people give her credit for," he said. Not quite offhand, not quite heavy.
 
 "You talk about her like you knew her."
 
@@ -237,7 +237,7 @@ He didn't leave. He walked to the folding chair she kept near the poetry section
 
 "Get out of my store."
 
-"The Sankofa on your doorframe. The bird facing backward." His voice was different. Not lighter, not heavier. Stripped. The voice of a man removing weight he was used to carrying, the way you'd set down boxes you'd been holding so long your arms had forgotten they were heavy. "It was carved by a woman named Dolores Washington on the night of November 14th, 1919. Her son Clifford came home from France. He'd been in the 369th Infantry — the Harlem Hellfighters, though Clifford hated that name, said it was something white newspapers made up so they wouldn't have to just say the regiment was better than theirs. Dolores ran this building as a boarding house. She took in Black travelers twenty-six years before the Green Book made such things official. She carved the Sankofa because Clifford told her about a man he'd met in Paris who had the symbol tattooed on his forearm, and it meant *go back and get it*, and Dolores said that was exactly what her son had done."
+"The Sankofa on your doorframe. The bird facing backward." His voice was different now. Stripped. The voice of a man setting down boxes he'd been holding so long his arms had forgotten they were heavy. "It was carved by a woman named Dolores Washington on the night of November 14th, 1919. Her son Clifford came home from France. He'd been in the 369th Infantry — the Harlem Hellfighters, though Clifford hated that name, said it was something white newspapers made up so they wouldn't have to just say the regiment was better than theirs. Dolores ran this building as a boarding house. She took in Black travelers twenty-six years before the Green Book made such things official. She carved the Sankofa because Clifford told her about a man he'd met in Paris who had the symbol tattooed on his forearm, and it meant *go back and get it*, and Dolores said that was exactly what her son had done."
 
 Naomi didn't move.
 
@@ -251,7 +251,7 @@ Naomi didn't move.
 
 "I'm three hundred and forty-seven years old." He said it the way she'd heard people say they were diabetic — not dramatic, not pained, just practiced. The specific flatness of a fact stated so many times it had lost its ability to shock the speaker, though it still worked on everyone else. "I don't know why. I've never known why. I don't drink blood. I don't turn into anything. I just don't die and I don't age and I have watched every neighborhood I have ever loved get swallowed, and I keep coming back to this building because the beams are original and the Sankofa is still on the door and you leave the Clifton forward on the shelf for a man who steals poetry, and I have been alive long enough to know what that means about a person."
 
-The store was quiet. Outside, a truck passed, its vibration traveling through the floor and into Naomi's shoes. The late-afternoon light came through the front window at the angle that caught the beam grain, the one that made the wood look alive, and she hated that she noticed this right now because it made everything he'd said feel possible.
+The store was quiet. Outside, a truck passed, its vibration traveling through the floor and into Naomi's shoes. The late-afternoon light came through the front window at the angle that caught the beam grain, and she hated that she noticed this right now because it made everything he'd said feel possible.
 
 "You're insane," she said.
 
@@ -261,17 +261,17 @@ The store was quiet. Outside, a truck passed, its vibration traveling through th
 
 "Buildings do." He looked at the beams. "That wood has been here for a hundred and three years and nobody thinks it's insane. It just sits there, recording time, and everyone walks under it without looking up."
 
-She picked up the phone and put it down. She picked up the ledger and closed it. She stood behind her counter in her store — her aunt's store, her aunt's inheritance, the building that Dolores Washington had made into a home for people who needed one — and she looked at a man sitting in a folding chair who was either delusional or the most exhausted person she'd ever met, and she couldn't tell the difference, and the fact that she couldn't tell was the most frightening thing that had happened to her since the first Meridian letter.
+She picked up the phone and put it down. She picked up the ledger and closed it. She stood behind her counter in her store — her aunt's store, her aunt's inheritance, the building that Dolores Washington had made into a home for people who needed one — and she looked at a man sitting in a folding chair who was either delusional or the most exhausted person she'd ever met, and she couldn't tell the difference.
 
 "Leave," she said. Quieter this time.
 
-He stood. He folded the chair and leaned it against the wall, which was where she kept it, which meant he'd noticed where she kept it. He walked to the door. He stopped with his hand on the frame, near the Sankofa, and she saw his thumb brush the carved bird the way it always did, and this time she understood the gesture was not curiosity. It was greeting. It was the way you touch a photograph of someone you lost.
+He stood. He folded the chair and leaned it against the wall, which was where she kept it, which meant he'd noticed where she kept it. He walked to the door. He stopped with his hand on the frame, near the Sankofa, and she saw his thumb brush the carved bird, and this time she understood the gesture was not curiosity. It was greeting.
 
 "The back door," he said. "Check the paint."
 
 ---
 
-She didn't check the paint for three days. She went about the business of running a bookstore — stocking, counting, selling, logging — with the rigid focus of a woman using work as architecture, building walls of routine around a room she was not ready to enter.
+She didn't check the paint for three days. She went about the business of running a bookstore — stocking, counting, selling, logging — with the rigid focus of a woman using routine as architecture, building walls around a room she was not ready to enter.
 
 On Monday she checked the back door.
 
@@ -279,25 +279,25 @@ The paint was there. Layered thick, slightly bubbled at the edges from years of 
 
 Under three layers of paint — white over green over white — the second Sankofa emerged. Smaller than the one on the front doorframe. The same hand. A bird facing backward, feet forward, the beak slightly open as if mid-sentence.
 
-She sat on the cardboard and looked at it. Her phone was in her pocket. She did not call anyone. She sat with the carving and the solvent smell and the sound of the alley and she let the fact of it settle into the room she'd been avoiding.
+She sat on the cardboard and looked at it. Her phone was in her pocket. She did not call anyone.
 
-On Tuesday she went to the D.C. Historical Society. She'd called ahead, asked about the 1400 block, asked about boarding houses, asked about a family named Washington. The archivist — a young woman who treated the inquiry with the seriousness of surgery — brought out a box of photographs from the Anacostia Community Museum's overflow collection. Naomi found it in the third folder: a black-and-white image, 1923, the building she stood in every day. The sign over the door read WASHINGTON. A woman stood on the front step, straight-backed, unsmiling, with one hand on the doorframe. She was touching the Sankofa.
+On Tuesday she went to the D.C. Historical Society. She'd called ahead, asked about the 1400 block, asked about boarding houses, asked about a family named Washington. The archivist — a young woman who treated the inquiry with the seriousness of surgery — brought out a box of photographs from the Anacostia Community Museum's overflow collection. Naomi found it in the third folder: a black-and-white image, 1923, the building she stood in every day. The sign over the door read WASHINGTON. A woman stood on the front step, straight-backed, unsmiling, with one hand on the doorframe.
 
 On Wednesday she looked up Washington descendants in the D.C. area. She found a listing for a Veronica Washington-Banks in Southeast. She called the number. An older woman answered with the guarded courtesy of someone who still answered unknown numbers out of principle. Naomi explained who she was, where she was calling from, what she'd found under the paint.
 
 Veronica Washington-Banks cried. She said her great-aunt Dolores was a woman who never backed down from anything, including a carving knife and a Douglas fir doorframe. She said she hadn't known the second Sankofa existed. She said her family had lost track of the building in the 1960s when the neighborhood started changing the first time. She asked Naomi if she could come see it.
 
-Naomi said yes. She hung up. She sat behind the counter with the ledger open and read her own entries: *drought of 1876. pharmacy with green awning. not nostalgia if you were there. Dolores.* She read them the way she imagined he read tree rings — each line a record, each record a year she hadn't been present for, each absence suddenly legible.
+Naomi said yes. She hung up. She sat behind the counter with the ledger open and read her own entries: *drought of 1876. pharmacy with green awning. not nostalgia if you were there. Dolores.* She read them and each line was a record, each record a year she hadn't been present for, each absence suddenly legible.
 
 ---
 
-She found him on Thursday. He was sitting on a bench across the street from the store, in the spot where — she knew this now, she'd checked the transit authority archives online at two in the morning — a bus stop had served the neighborhood until the routes were redrawn in 1973. He was wearing the same jacket. He looked the same. Of course he looked the same.
+She found him on Thursday. He was sitting on a bench across the street from the store, in the spot where — she'd checked the transit authority archives online at two in the morning — a bus stop had served the neighborhood until the routes were redrawn in 1973. He was wearing the same jacket. He looked the same. Of course he looked the same.
 
 She sat down next to him. She didn't say *I believe you*. She didn't know if she believed him. She knew that the Sankofa was under the paint. She knew that the photograph showed the Washingtons. She knew that Veronica Washington-Banks had cried on the phone with a stranger, and that no living person she could account for would have known what was under three layers of paint on a door that hadn't been stripped in sixty-five years.
 
 "Dolores's great-niece is listed in the D.C. phonebook," Naomi said. "I called her. She cried."
 
-Elliot turned his head. His face did the thing it did — slow surprise, recalibration, the returning awareness that other people existed and could do things he hadn't expected. His eyes were wet, or it was the light.
+Elliot turned his head. His eyes were wet, or it was the light.
 
 "Good," he said. Just: good.
 
@@ -311,7 +311,7 @@ Elliot turned his head. His face did the thing it did — slow surprise, recalib
 
 "That's what makes it either the best or the worst."
 
-The street was doing what the street did at this hour — the incense vendor on the corner folding his table, the woman from the Eritrean restaurant sweeping her sidewalk with the broom she refused to replace because it still worked, a group of teenagers passing with the boneless confidence of people who believe the neighborhood is theirs, which it is, for now, which is the only way anything is ever anyone's. Naomi watched the vendor tuck his inventory into a rolling suitcase. He'd been recommending Cornerstone to tourists all summer. She'd never asked him to. He just did it, the way Dolores had carved the Sankofa — because something should be marked, and he was the one standing there with the tools to do it.
+The street was doing what the street did at this hour — the incense vendor on the corner folding his table, the woman from the Eritrean restaurant sweeping her sidewalk with the broom she refused to replace because it still worked, a group of teenagers passing with the boneless confidence of people who believe the neighborhood is theirs, which it is, for now, which is the only way anything is ever anyone's.
 
 "It's Tuesday," Elliot said.
 
@@ -323,9 +323,9 @@ The street was doing what the street did at this hour — the incense vendor on 
 
 "I read it in 1981."
 
-The sentence sat between them. She let it sit. She was learning — had been learning, really, for eight weeks, though she'd been calling it suspicion instead of education — that the impossible, when it arrived, didn't announce itself with thunder or revelation. It arrived like a Tuesday. Ordinary, expected, the kind of day you forget until something happens in it that you carry for the rest of your life, however long that turns out to be.
+The sentence sat between them. She let it sit.
 
-"You're going to age," he said. Not a question. A thing he was looking at directly, the way she looked at the water bill.
+"You're going to age," he said. Not a question.
 
 "That is generally how it works, yes."
 
@@ -333,13 +333,11 @@ The sentence sat between them. She let it sit. She was learning — had been lea
 
 "I gathered."
 
-He was quiet. A car passed on the street. The streetlight came on, the one that buzzed in a frequency she'd stopped hearing years ago but now noticed again, the way you notice everything when your senses have been rearranged by something you can't undo.
+He was quiet. A car passed on the street. The streetlight came on, the one that buzzed in a frequency she'd stopped hearing years ago but now heard again.
 
 "Naomi, I don't have a solution for that."
 
-"I didn't ask you for one." She looked at the store. The lights were still on — she'd left them on, the warm yellow that made the spines glow in the window display, the Morrison face-out she'd arranged that morning before she'd known she was going to come out here. The building was 103 years old. The lease renewal was in three months. The Meridian letters were still on her counter, next to the cash register, next to the ledger. None of it was resolved. "I run a bookstore in a neighborhood that's being eaten alive. I have not once had a solution. I have a ledger and a stuck front door and a man who steals Lucille Clifton, and I open the store every morning anyway."
-
-She didn't say the rest of it. The thing about choosing to build without a guarantee. The thing about how a building stands for 103 years not because someone promised it would last but because someone keeps showing up to fix the pipe when it leaks. She didn't need to say it. He'd been alive for 347 years. He already knew what it cost to keep standing.
+"I didn't ask you for one." She looked at the store. The lights were still on — she'd left them on, the warm yellow that made the spines glow in the window display. The building was 103 years old. The lease renewal was in three months. The Meridian letters were still on her counter, next to the cash register, next to the ledger. "I run a bookstore in a neighborhood that's being eaten alive. I have not once had a solution. I have a ledger and a stuck front door and a man who steals Lucille Clifton, and I open the store every morning anyway."
 
 "Come inside," she said. "I'll sell you *Song of Solomon* and you can read the whole thing. Not just page one."
 
@@ -347,4 +345,4 @@ She didn't say the rest of it. The thing about choosing to build without a guara
 
 "I know."
 
-He stood when she stood. They crossed the street together, and she unlocked the door that still stuck in the heat, and the bell rang the way it always rang, and the beams held the ceiling the way they'd held it since 1923, recording time in grain and ring and silence, and it was a Tuesday, and the store was open, and that was enough. Not forever. For now. Which — she was learning, slowly, the way wood learns weather — might be the same thing.
+He stood when she stood. They crossed the street together, and she unlocked the door that still stuck in the heat, and the bell rang, and the store was open.
