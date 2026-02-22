@@ -1,0 +1,75 @@
+{
+  "workSlug": "inventory-of-what-the-house-removed",
+  "reviews": [
+    {
+      "personaId": "hist-001-lorraine",
+      "rating": 4,
+      "text": "What a quietly devastating story. The dual timeline works beautifully — Nell in 1947 cataloguing the physical remains of Brydworth Hall while Ada's Victorian story emerges through objects and letters. I loved the precision of both women: Nell with her Marchwick training and Ada with her twelve hairpins. The period detail is impeccable — the Wardian case, the coroner's inquest at the Dog and Partridge, the deodand. That final line about the record being complete \"by excluding everything that mattered\" is one I'll be thinking about for a long time.",
+      "date": "2025-08-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-014-terrence",
+      "rating": 3,
+      "text": "Accomplished prose, and the structural conceit — inventory as narrative device — is handled with genuine intelligence. The inquest scene is the best passage: Pemberton constructing a version of events while Ada calculates what speaking would cost, knowing the answer leads to Constance's room and then to 'a thing that has no legal name.' That's a powerful articulation of queer erasure in the Victorian period. My reservation is that the story is almost too controlled. Ada's interiority is rendered through objects and measurements so consistently that the emotional register stays narrow. I wanted one moment where the cataloguing fails her, where precision can't contain what she feels. The unpinning scenes approach this but never quite break through.",
+      "date": "2025-10-02",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-027-diana",
+      "rating": 3,
+      "text": "I really wanted to love this more than I did. The writing is gorgeous and the mystery of the missing candlestick is clever — I liked how it connects Ada's story to the possible murder. But honestly, it's a slow read. Two women cataloguing things in different centuries. I kept waiting for something to crack open and it never quite does. The ending where Nell just walks away with the herbarium and leaves the letters felt unfinished to me. I get that that's the point, but still.",
+      "date": "2025-12-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-038-william",
+      "rating": 4,
+      "text": "The sentences in this are first-rate. \"The not-touching is the thing itself\" — five words that contain an entire relationship. The writer trusts the reader completely, never explains what can be inferred, and builds the murder mystery through absence rather than revelation. That detail about the spaniel's bark sounding like a drawer being opened, and then later the sound Ada hears from below that she can't place — \"a sound like a drawer being shut firmly\" — that's the kind of echo that rewards careful reading. One of the better short stories I've come across recently.",
+      "date": "2025-09-07",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-045-neha",
+      "rating": 4,
+      "text": "Structurally fascinating. The inventory form does real ideological work here — it encodes a worldview where only the measurable exists, which is precisely what erases Ada from the historical record. The papered-over door is almost too neat as a metaphor for concealment, but the story earns it by making the concealment literal and functional rather than purely symbolic. What interests me most is the question of who catalogues whom: Nell catalogues objects, Ada catalogued rooms, but both are ultimately cataloguing loss, and neither can enter the loss into the official record. The decision to leave Ada's letters uncatalogued — refusing to make them legible to the auction system — is the story's most radical formal gesture.",
+      "date": "2026-01-11",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-052-george",
+      "rating": 3,
+      "text": "Not my usual period but the 1947 sections are well done. The detail about the Army requisitioning the house for ammunition storage rings true — plenty of country houses got that treatment. The inquest procedure is accurate for the era, and I appreciated that the deodand is handled correctly (they were actually abolished in 1846, so an 1889 inquest citing one is a stretch, but I'll let it pass since the story is fiction). The Victorian half is more of a character study than a mystery. Solid craft throughout.",
+      "date": "2025-11-28",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-063-katherine",
+      "rating": 5,
+      "text": "This story does something I rarely see done well: it tells a queer love story entirely through the language of domestic objects. Ada's world is one of hairpins and cushions and candlesticks, and within that vocabulary she builds something enormous. The scene where she unpins Constance's hair — 'crown, left temple, right, nape' — repeated across the story until it becomes liturgical, and then handed off to the maid without ceremony. That transfer broke something in me.\n\nAnd the mystery layer is genuinely unsettling. We never learn definitively who killed Gerald Holt, or whether Constance was involved, or whether Ada's silence at the inquest was loyalty or complicity. The candlestick she steals is evidence and keepsake simultaneously. Nell, decades later, finds the gap in the record and notes it and moves on, because she understands — as Ada understood — that some things exist only as long as they are not named.",
+      "date": "2026-02-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-076-raymond",
+      "rating": 3,
+      "text": "Competent and at times genuinely fine. The inventory conceit recalls Perec, though without his manic accumulation — this is cooler, more English, restrained to the point of occasional inertness. The prose is disciplined; the observation about Gerald resembling 'a clock whose hands move correctly but whose mechanism has been removed' is sharp. My complaint is that the two timelines mirror each other too neatly. Both women catalogue. Both are outsiders in the house. Both leave carrying something. The parallelism, elegant as it is, flattens what could have been a more complex relationship between past and present. A three, but a generous one.",
+      "date": "2025-08-29",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-084-sylvia",
+      "rating": 2,
+      "text": "Beautiful writing but nothing happens. Two women walk through a house and describe furniture. I kept expecting the mystery to go somewhere — who killed Gerald? Was it Constance? — but it just dissolves into ambiguity. Not for me.",
+      "date": "2026-01-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-091-fletcher",
+      "rating": 4,
+      "text": "I want to dislike this — the pacing is glacial, the structural mirroring is obvious, and the title announces the theme before you've read a word. But the execution is annoyingly good. The way the candlestick operates as physical evidence, emotional talisman, and narrative through-line simultaneously is the kind of object-work most writers attempt and botch. The inquest scene is airtight. And the line about Constance's engagement being 'a matter of inventory rather than feeling' does more character work than most writers manage in a chapter. I'd cut the crack-above-the-lintel passage in section XI — the 'not a metaphor' protest is the one moment where the story loses confidence — but otherwise this is irritatingly well-made.",
+      "date": "2025-11-03",
+      "helpfulCount": 0
+    }
+  ]
+}
