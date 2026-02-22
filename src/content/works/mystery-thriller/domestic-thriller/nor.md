@@ -7,8 +7,8 @@ authorA: "Gillian Flynn"
 authorB: "Tana French"
 workX: "Rebecca"
 workY: "Gone Girl"
-wordCount: 5569
-readingTimeMinutes: 22
+wordCount: 5069
+readingTimeMinutes: 20
 tags:
   - "domestic thriller"
   - "second wife"
@@ -124,23 +124,15 @@ I am trying to tell this without editorializing, but the truth is I don't know w
 
 Diana Ballard came for coffee on a Thursday. She lives three houses down, and she knew Leigh, and she mentions Leigh the way people in Millhaven mention anyone who's left: with affection and the faintest undertone of betrayal, as if leaving a suburb is a moral position.
 
-"I always loved what Leigh did with the garden," Diana said, holding her mug in both hands, sitting in the kitchen in the chair by the window — Leigh's chair, I knew now, the one positioned to catch the morning light. Diana sat in it without knowing whose warmth she was borrowing. I sat across from her, in my chair, which was also Leigh's chair, which was always Leigh's chair.
-
-"She had such a feel for it. And that studio upstairs — she was always up there, painting, or whatever she did. Collage, maybe? Something with paper."
+"She had such a feel for the garden. And that studio upstairs — she was always up there, painting, or whatever she did. Collage, maybe? Something with paper."
 
 I poured more coffee. The pot was Leigh's — a Chemex, the kind that demands a ritual. I had learned the ritual. I performed it now without thinking: the water at exactly 205 degrees, the circular pour, the bloom. My hands did what the kitchen required.
 
-"The closet," I said.
+"She showed me once," Diana said. "She had the whole room set up — work table by the window, supplies along the back wall. She could see the garden from up there. She designed it from that window, you know. Sketched it out while she was up there working."
 
-"Sorry?"
+"I didn't know that," I said, and it was true, technically, because knowing a thing from a building permit is different from knowing it from a person who was there, and I was collecting versions of this knowledge the way you collect soil samples — same ground, different depths, different truths depending on where you bore.
 
-"Nothing. The studio. Right. I haven't been up there much."
-
-Diana gave me a look that I filed and did not examine. The look said something about pity or recognition or the particular discomfort of a woman who knows a house's history sitting across from a woman who is only now learning it. "She showed me once. She had the whole room set up — work table by the window, supplies along the back wall. She could see the garden from up there. She designed it from that window, you know. Sketched it out while she was up there working."
-
-"I didn't know that," I said, and it was true, technically, because knowing a thing from a building permit is different from knowing it from a person who was there, and I was collecting versions of this knowledge like a woman pulling threads, and I didn't know what the threads would make yet, but I could feel them tightening.
-
-Diana left at eleven. I washed the mugs. I stood at the sink and looked out the window at the garden — Leigh's garden, Leigh's window, Leigh's angle — and I felt the house around me like a garment I'd been putting on every morning without noticing the seams. The garment fit. That was the problem. It fit better every day.
+Diana left at eleven. I washed the mugs. I stood at the sink and looked out the window at the garden — Leigh's garden, Leigh's window, Leigh's angle — and I felt the house around me like a garment I'd been putting on every morning without noticing the seams.
 
 ---
 
@@ -154,7 +146,7 @@ Nor. Not Nora. I had never been called Nor by anyone. My mother called me Nora J
 
 That night, after Joel fell asleep, I found the tablet.
 
-It was in the nightstand drawer on his side of the bed, an old iPad with a cracked screen protector and a battery that took twenty minutes to charge enough to wake. I don't know why I looked. I am not a person who goes through her husband's things. Or rather, I was not that person, and now I am a person who found a building permit and a sealed box and a spoon and an Instagram feed, and the accumulation of these discoveries had restructured me, the way water restructures stone — not all at once but through repetition, and I was a different shape now.
+It was in the nightstand drawer on his side of the bed, an old iPad with a cracked screen protector and a battery that took twenty minutes to charge enough to wake. I don't know why I looked. I am not a person who goes through her husband's things. Or rather, I was not that person, and now I am a person who found a building permit and a sealed box and a spoon and an Instagram feed, and these discoveries had changed the shape of me, slowly, the way a riverbed changes — not from any single storm but from the direction of the current.
 
 The tablet had one app still logged in: the messaging app Joel used before he switched to his phone. The conversations were three, four, five years old. I scrolled through them with the patience of an archaeologist, brushing dirt from text bubbles, and I found her.
 
@@ -166,11 +158,9 @@ The tablet had one app still logged in: the messaging app Joel used before he sw
 
 Not Nora. Not Leigh. Nor. He'd called Leigh "Nor." The same syllable, the same casual flattening of a name into something handier, something you could throw across a kitchen without thinking about who would catch it. And now he was throwing it at me, and I was catching it, and he hadn't paused, hadn't stumbled, hadn't registered any gap between the woman he'd texted about dry cleaning and the woman who'd passed the salt. We were the same Nor. We had always been the same Nor.
 
-I should have felt — what? Violated. Erased. Something from the vocabulary of women who discover they are interchangeable. Instead I felt a coolness spreading through my chest, like menthol, like the first breath after a fever breaks, and the coolness was recognition. Not of Joel's crime but of my own opportunity. He couldn't tell the difference. I had spent two years becoming Leigh's pattern — the hair, the recipes, the garden maintenance, the ritual of the Chemex — and it had worked. The pattern was complete. The mold had set. And Joel, who had bricked up Leigh's room and sealed her things in a box and told me the closet was always a closet, Joel couldn't tell the difference between his first wife and his second, which meant his first wife wasn't gone at all. She was me. I was the improvement. I was Leigh without the inconvenience of Leigh's actual personhood, Leigh without the studio and the collages and whatever it was that had made her a person instead of a pattern, and Joel preferred the pattern, and I — standing there in the dark with his old tablet in my hands, reading texts meant for a woman who'd been replaced — I preferred it too.
+I should have felt violated. Erased. Something from the vocabulary of women who discover they are interchangeable. Instead I felt a coolness spreading through my chest, like menthol, like the first breath after a fever breaks, and the coolness was recognition. Not of Joel's crime but of my own position. He couldn't tell the difference. I had spent two years becoming Leigh's pattern — the hair, the recipes, the garden maintenance, the ritual of the Chemex — and it had worked. The pattern was complete. The mold had set. And Joel, who had bricked up Leigh's room and sealed her things in a box and told me the closet was always a closet, Joel couldn't tell the difference between his first wife and his second, which meant his first wife wasn't gone at all. She was me. I was the improvement. I was Leigh without the inconvenience of Leigh's actual personhood, Leigh without the studio and the collages and whatever it was that had made her a person instead of a pattern, and Joel preferred the pattern, and I —
 
-I set the tablet back in the drawer. I went to the bathroom. I looked at my hair in the mirror — the twist, the tuck, the particular angle Leigh had worn in the photograph. It looked right. It looked like it belonged to this house.
-
-I went to bed. Joel shifted in his sleep, reaching for me the way you reach for a pillow — not with desire but with the muscle memory of a body expecting a shape to be there. I was the shape. I was exactly the shape.
+I set the tablet back in the drawer. I didn't finish the thought. Some thoughts are better left as architecture: load-bearing but uninspected.
 
 ---
 
@@ -190,23 +180,17 @@ On the inside of the drywall I'd torn away, in pencil, in Joel's handwriting: me
 
 I stood in the broken wall with plaster dust in my hair and on my shoulders and coating the inside of my throat, and I looked at the light, and I thought: *I could use this room.*
 
-Not — I could restore this room. Not — Leigh should have had this room. Not — what Joel did was monstrous. Those thoughts were there, somewhere, in the queue, waiting their turn. But the first thought, the one that arrived before I could curate it, before I could dress it in the right clothes and send it out as the correct emotional response — the first thought was strategic. I could use this room. I could set up a drafting table by the window. I could start working again, really working, not the two-emails-on-Tuesday farce but actual practice, actual design, and I could do it from Leigh's studio, from the room Leigh lost, and I would be the wife who recovered what Joel destroyed. Better than Leigh. Leigh had the room and lost it. I would win it back.
+Not — I could restore this room. Not — Leigh should have had this room. Not — what Joel did was monstrous. Those thoughts were there, somewhere, in the queue, waiting their turn. But the first thought, the one that arrived before I could dress it in the right clothes and send it out as the correct emotional response — the first thought was strategic. I could set up a drafting table by the window. I could start working again, really working, not the two-emails-on-Tuesday farce but actual practice, actual design, and I could do it from Leigh's studio, from the room Leigh lost, and I would be the wife who recovered what Joel destroyed. Better than Leigh. Leigh had the room and lost it.
 
-I caught the thought. I held it up and looked at it the way you look at something you've found in your pocket that you don't remember putting there — a receipt, a key, evidence of a transaction you've forgotten. And I understood, standing in the dust and the dirty light, what I had been doing for two years and four months.
-
-I had been competing. Not grieving. Not being haunted. Competing — with a woman who wasn't here, for the approval of a man who couldn't tell us apart. Every recipe card I'd cooked from, every garden bed I'd maintained, every morning I'd twisted my hair into Leigh's tuck: none of it was tribute. It was audition. I was trying out for the role of Joel's wife, and the script had already been written by the previous actress, and my performance was so faithful that the director had stopped seeing me and started seeing the part.
-
-The tenderness I'd felt toward Leigh's things — toward the paint chips and the spoon and the angle of the kitchen island — wasn't empathy. It was inventory. I had been cataloging a woman's life with the thoroughness of a buyer at an estate sale, picking through her choices, holding each one up to the light, asking not *what does this mean?* but *can I use this?*
-
-And the answer, for two years and four months, had been yes. I could use all of it. I was using all of it. I was standing in the rubble of a room I'd torn open not for Leigh but for myself, and the light from the uncovered window fell across my hands like a spotlight, and I was the only one on stage.
+I didn't examine the thought any further. Not because I was afraid of what I'd find — I am a woman who opens every drawer — but because the light from the uncovered window was warm on my face, and for the first time in this house, something felt like it was mine. Even if it was only the feeling. Even if the feeling was wrong.
 
 ---
 
 Joel came home at six-fifteen. His keys hit the bowl by the door. I listened to his footsteps in the hall — the particular sound of Joel walking on hardwood, the rhythm I knew the way I knew the paint colors and the garden layout, by absorption, by living inside the pattern until the pattern became pulse.
 
-He stopped at the end of the hall. I was sitting on the floor of the hallway, my back against the bathroom door, the pry bar on the ground beside me. The closet was open. The drywall was in pieces. The light from the studio window — and it was a studio window again now, it would never be a closet again — fell across the hallway floor in a rectangle that looked, from where I sat, exactly like the garden beds below. The same proportions. The same geometry. Leigh had designed the garden to match her window, or her window to match her garden, and the alignment persisted even through four years of drywall and lies, and now the light was back, and the house was whole in a way it hadn't been since Leigh left, and I had done that, and I didn't know if I'd done it for her or for me or for the house itself, and not knowing was the first honest thing I'd felt in months.
+He stopped at the end of the hall. I was sitting on the floor of the hallway, my back against the bathroom door, the pry bar on the ground beside me. The closet was open. The drywall was in pieces. The light from the studio window — and it was a studio window again now, it would never be a closet again — fell across the hallway floor in a rectangle that looked, from where I sat, exactly like the garden beds below. The same proportions. The same geometry. Leigh had designed the garden to match her window, or her window to match her garden, and the alignment persisted even through four years of drywall and lies, and now the light was back, and the house was whole in a way it hadn't been since Leigh left.
 
-Joel's face did something I'd never seen. Not anger. Not surprise. Something older — a kind of tired recognition, the expression of a man watching a scene he's already rehearsed. His eyes went to the broken wall, then to the window, then to me. He looked at me the way he looked at the kitchen when I cooked Leigh's recipes: with warmth that wasn't for me. With the comfort of a pattern confirming itself.
+Joel's face did something I'd never seen. Not anger. Not surprise. Something older — a kind of tired recognition, the expression of a man watching a scene he's already rehearsed. His eyes went to the broken wall, then to the window, then to me. He looked at me the way he looked at the kitchen when I cooked Leigh's recipes: with warmth that wasn't for me.
 
 "I was going to tell you about that," he said.
 
@@ -218,14 +202,12 @@ He didn't answer. He stood at the end of the hall with his coat still on and his
 
 "It was a room," he said. "It wasn't anyone's room." He said it the same way he'd said *it was always a closet* and *just kitchen stuff* and *she just goes by Leigh now*. The same tone. The ownership erasure. Not a lie, exactly — something more structural. A wall. A load-bearing wall he'd built inside the language, and everything he said rested on it, and if I pulled that wall down too the whole grammar of our marriage would come apart.
 
-The light from the east window crossed the floor between us. The rectangle of it touched the edge of his shoe, and he stepped back — the first time I'd ever seen Joel yield space in this house, the first time the house had made him smaller instead of making me. I watched him step back. I filed it.
+The light from the east window crossed the floor between us. The rectangle of it touched the edge of his shoe, and he stepped back — the first time I'd ever seen Joel yield space in this house. I watched him step back. I filed it.
 
 "Leigh designed the garden from that window," I said.
 
 "Leigh designed a lot of things." Something moved behind his eyes, and I couldn't tell if it was guilt or irritation or the simple fatigue of a man who has walled up a room and been found out and now has to stand in the hallway and have a conversation about it when he'd rather be eating dinner. The banality of it. The smallness. He had committed an act of architectural violence and he was standing there wanting chicken.
 
-I picked up my phone. The screen lit up in the dim hallway, and for a moment the light from the phone and the light from the studio window and the dusty overhead fixture all crossed in the air between us, three different kinds of illumination, none of them warm.
+I picked up my phone. The screen lit up in the dim hallway, and I dialed a number I'd found on the tablet — in the old messages, in the contacts Joel hadn't thought to delete because Joel doesn't think about deletion; he thinks about walls and closets, about containment, not erasure. The phone rang. Joel watched me hold it to my ear. He knew the number. I could see it in the way he stopped breathing — not dramatically, not a gasp, just a pause, the way a machine pauses when the input is wrong.
 
-I dialed. The phone rang — not in my ear but somewhere else in the house, a distant electronic trill, the sound of a device left in a drawer or on a shelf, a phone ringing in a room I couldn't see. Joel's eyes shifted. The ringing continued, tinny and insistent, coming from below us or above us or from inside the walls, and I held my phone to my ear and listened to it ring, and Joel listened to it ring, and neither of us moved to find where the sound was coming from.
-
-The light from the uncovered window held its rectangle on the floor. The garden below it held its shape. Somewhere in the house, a phone kept ringing, and I stood in the hallway with plaster dust on my hands and my husband three feet away and a room behind me that had been a studio and then a closet and was now something else — a wound, a weapon, a window — and I waited for someone to answer.
+The phone rang four times. Five. The voicemail didn't identify itself. A beep, and then silence, and I held the phone and said nothing, and Joel said nothing, and the light from the uncovered window held its rectangle on the floor between us, and the garden below held its shape, and the house held all of us — Leigh's design, Joel's walls, my inventory — in its rooms and its sealed rooms and its rooms that used to be rooms, and I stood there with plaster dust on my hands and my husband three feet away and I didn't know yet what I was going to do, only that whatever it was, I was going to do it from this room, from this window, from the vantage point Leigh had designed and Joel had buried and I had uncovered, and that the uncovering was not an act of justice or empathy but something I didn't have a word for yet, something with my fingerprints on it.
