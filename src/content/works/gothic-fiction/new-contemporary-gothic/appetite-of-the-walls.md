@@ -7,8 +7,8 @@ authorA: "Edgar Allan Poe"
 authorB: "Silvia Moreno-Garcia"
 workX: "House of Leaves"
 workY: "White is for Witching"
-wordCount: 3563
-readingTimeMinutes: 14
+wordCount: 3349
+readingTimeMinutes: 13
 tags:
   - new-contemporary-gothic
   - pica
@@ -56,11 +56,11 @@ combination:
 
 The laser measure read 14.7 meters.
 
-Irene held the device level against the corridor wall, its red dot trembling on the far plaster like the pupil of something watching her back, and she pressed the button again — a habit she had developed over the past week, always twice, sometimes three times, as if repetition could discipline a number into staying still. 14.7. She wrote it in her notebook, the Moleskine she kept in the back pocket of her work jeans, and drew a single line through the entry from yesterday: 14.2. She did not write a question mark beside the correction. She did not write anything except the new number, clean and definitive, because a question mark would have meant she did not trust the instrument, and the instrument was a Leica DISTO rated to plus-or-minus 1.5 millimeters at a hundred meters, and if she could not trust the instrument she would have to trust the house, and she was not ready to do that.
+Irene held the device level against the corridor wall, its red dot steady on the far plaster, and she pressed the button again — a habit she had developed over the past week, always twice, sometimes three times, as if repetition could discipline a number into staying still. 14.7. She wrote it in her notebook, the Moleskine she kept in the back pocket of her work jeans, and drew a single line through the entry from yesterday: 14.2. She did not write a question mark beside the correction. She did not write anything except the new number, clean and definitive, because a question mark would have meant she did not trust the instrument, and the instrument was a Leica DISTO rated to plus-or-minus 1.5 millimeters at a hundred meters, and if she could not trust the instrument she would have to trust the house, and she was not ready to do that.
 
 The white bloom along the baseboards had come back.
 
-She noticed it as she was pocketing the Moleskine — a powdery crust that traced the junction of wall and floor like frost, or like something breathing had left its residue on cold glass. Efflorescence. She knew the word. Knew the chemistry: moisture migrating through porous stone by capillary action, dissolving salts in the morite and tezontle and lime mortar, carrying them to the surface where the water evaporated and left its mineral freight behind — calcium carbonate, sodium sulfate, magnesium chloride, a pharmacopoeia of the house's own blood pushed outward through its skin. She had written a section on it in her thesis at the University of Arizona, fourteen pages on salt damage in historic masonry, with photographs of missions along the Santa Cruz River where the efflorescence had eaten the adobe down to its bones.
+She noticed it as she was pocketing the Moleskine — a powdery crust that traced the junction of wall and floor like frost. Efflorescence. She knew the word. Knew the chemistry: moisture migrating through porous stone by capillary action, dissolving salts in the morite and tezontle and lime mortar, carrying them to the surface where the water evaporated and left its mineral freight behind — calcium carbonate, sodium sulfate, magnesium chloride. She had written a section on it in her thesis at the University of Arizona, fourteen pages on salt damage in historic masonry, with photographs of missions along the Santa Cruz River where the efflorescence had eaten the adobe down to its bones.
 
 She crouched. Ran two fingers along the bloom. It was fine-grained and soft, like confectioner's sugar, and it came away on her fingertips in a pale smear that caught the last corridor light from the window at the west end — the window she kept meaning to measure, whose frame seemed to have shifted three centimeters to the left since she'd arrived, though that was settling, that was the subsidence endemic to every colonial building in Guanajuato, a city built over mines, over tunnels, over the hollow skeleton of silver extraction, where the ground had been eaten from below for four hundred years and the buildings compensated by leaning into one another like drunks.
 
@@ -84,7 +84,7 @@ She re-measured. The number held.
 
 She called Sebastián, who was in Mexico City until Friday, and explained it to him with the precision of someone presenting a structural report: the wall, the room, the measurements, the discrepancy. He listened. He said the old plans must be inaccurate, that his grandmother had told him the house had been modified dozens of times over the centuries, that rooms were added and sealed and forgotten. He said this in the voice of a man who has decided a question is not interesting enough to pursue.
 
-After she hung up, she went back to the hidden room and stood inside it. The earth floor was soft under her boots. The tezontle walls were damp. The white bloom was already there — efflorescence, growing in the seams between the stones, pushing outward through the mortar joints as if the room had been exhaling this mineral breath for a very long time and she had only just opened a way for it to reach her. She scraped a line of it from the wall with her thumbnail. Put it on her tongue. It tasted different here — denser, richer, like clay, like the fired-earth smell of a kiln, like something that had been alive in the way that soil is alive, not with consciousness but with process, with the slow chemical metabolism of calcium and water and time.
+After she hung up, she went back to the hidden room and stood inside it. The earth floor was soft under her boots. The tezontle walls were damp. The white bloom was already there — efflorescence, growing in the seams between the stones, pushing outward through the mortar joints as if the room had been exhaling this mineral breath for a very long time and she had only just opened a way for it to reach her. She scraped a line of it from the wall with her thumbnail. Put it on her tongue. It tasted different here — denser, richer, like clay, like the fired-earth smell of a kiln, like something that had been alive in the way that soil is alive, not with consciousness but with process, with the slow chemical metabolism of calcium and water.
 
 She wrote in her notebook: *Hidden room. Not on plans. Dimensions 1.84 x 1.41 m. Interior exceeds exterior by 1.3 sq m. Possible survey error. Investigate.*
 
@@ -104,7 +104,7 @@ She looked at the jar. She looked at her hand, white-dusted, reaching into it. S
 
 *Noticed I have been consuming wall efflorescence regularly. Likely pica — mineral deficiency? Schedule bloodwork when back in Tucson.*
 
-The note was rational. The note was a diagnosis. The note did not ask why she had not stopped, because the question required a faculty she could not locate in herself — not will, exactly, because she still had will; she had ordered materials that morning, had emailed the plumber, had reorganized the tool shed — but the specific will to stop this specific act, to close the jar and wash her hands and refuse the next white grain. That will had been removed so cleanly that she could not find the scar where it had been. Like a tooth extracted under anesthesia: the gap was there but the pain of the extraction was not, and so the loss did not feel like loss.
+The note was rational. The note was a diagnosis. The note did not ask why she had not stopped, because the question required a faculty she could not locate in herself — not will, exactly, because she still had will; she had ordered materials that morning, had emailed the plumber, had reorganized the tool shed — but the specific will to stop this specific act, to close the jar and wash her hands and refuse the next white grain. That will had been removed so cleanly she could not find the scar. Like a tooth extracted under anesthesia: the gap was there but not the memory of loss.
 
 She put the jar back in her bag.
 
@@ -120,13 +120,13 @@ They ate dinner in the courtyard — Irene had cooked, though she'd barely touch
 
 Irene knew the system. She had read about it in her research on colonial restoration — the company store, the debt bondage, the workers who owed more than they earned so that the debt accrued across generations, binding sons to the labor that had killed their fathers.
 
-"Some of them never left," Rosalba said. She said it without emphasis, as if describing a weather pattern. "Not because they were locked in. Because the debt made leaving irrational. The house provided. It fed them. Where would they go? They owed more than they could carry, and the debt was to the house, and the house was here, and so they stayed. Their children stayed. Their children's children. The house consumed three generations of Otomí labor and produced — this." She gestured at the courtyard, the arches, the carved stone lintels, the bougainvillea growing in soil that had been carried up from the ravine two centuries ago by hands that were not free.
+"Some of them never left," Rosalba said. "Not because they were locked in. Because the debt made leaving irrational. The house provided. It fed them. Where would they go? They owed more than they could carry, and the debt was to the house, and the house was here, and so they stayed. Their children stayed. Their children's children. The house consumed three generations of Otomí labor and produced — this." She gestured at the courtyard, the arches, the carved stone lintels, the bougainvillea growing in soil that had been carried up from the ravine two centuries ago by hands that were not free.
 
 Irene's fingers, under the table, were tracing the rim of the jar in her tool bag.
 
 "My mother ate the walls," Rosalba said.
 
-The sentence landed in the courtyard like a stone dropped into still water. Irene did not move.
+Irene did not move.
 
 "She was not from here. She was from Jalisco — a Ramírez, good family, married my father in 1946. She came to this house as a bride and she never left it. She began eating the plaster within a year. Then the mortar dust. Then the white powder that grew on the stones in the cellar — she told me it helped her think. She told me the house tasted like belonging."
 
@@ -152,9 +152,9 @@ She stood. She pushed her chair in.
 
 She left. Her taillights disappeared down the callejón, red and then gone. Irene sat in the courtyard listening to the pipe tick in the walls and the sound of water — not from the tap, which was off, but from somewhere lower, somewhere beneath the flagstones, the groundwater that fed the capillary system that fed the efflorescence that fed her.
 
-She went to the hidden room. It was larger now. She did not measure it. She stepped inside and the earth floor gave slightly beneath her weight, warm, as if the ground here were closer to something thermal, something that metabolized. The walls were thick with white bloom — not a dust anymore but a crust, millimeters thick, textured like coral or like the interior of a lung. She pressed her palm flat against it. It was warm. She could feel the moisture moving through the stone beneath her hand, the slow upward migration of dissolved minerals, the house pulling its own guts to the surface and offering them.
+She went to the hidden room. It was larger now. She did not measure it. She stepped inside and the earth floor gave slightly beneath her weight, warm, as if the ground here were closer to something thermal, something that metabolized. The walls were thick with white bloom — not a dust anymore but a crust, millimeters thick, textured like the interior of a lung. She pressed her palm flat against it. It was warm. She could feel the moisture moving through the stone beneath her hand, the slow upward migration of dissolved minerals, the house pulling its own substance to the surface and offering it.
 
-She lay down on the earth floor. It shaped itself to her. Not literally — the ground did not move — but the impression was of fit, of a surface that had been waiting to receive her specific weight, her particular outline. She stared at the ceiling, which was further away than it should have been for a room of this size, and she breathed, and the air tasted of calcium, and she thought she should call someone, and the thought completed itself and then dissolved, and she was still lying there, and the room was holding her.
+She lay down on the earth floor. It shaped itself to her. Not literally — the ground did not move — but the impression was of fit, of a surface that had been waiting to receive her specific weight, her particular outline. She stared at the ceiling, which was further away than it should have been for a room of this size, and she breathed, and the air tasted of calcium.
 
 ---
 
@@ -166,16 +166,14 @@ She re-measured the corridor. 15.6 meters. She wrote it down. She re-measured th
 
 Her notebook, the Moleskine, was nearly full. She turned through its pages and read her own handwriting — the early entries crisp, annotated, cross-referenced to the cadastral survey and the León assessment; the later entries sparser, just numbers, columns of measurements with dates, each entry a quiet overwriting of the last. She could see the transition but not the moment it had occurred. Somewhere between week one and week five, her notes had stopped being an investigation and become a ledger — a record not of the house's deviations but of its claims, entered faithfully, without protest, like the accounts in a tienda de raya where the debt only moves in one direction.
 
-She was in the hidden room. It was the largest room in the house now, though from the street the building looked the same — the same facade, the same carved lintels, the same wooden balcony leaning out over the callejón. The room had no windows but it was not dark. The efflorescence on the walls caught and held the light from the corridor in a way that gave the space a luminous pallor, like the inside of a shell, like a mouth lit from within.
+She was in the hidden room. It was the largest room in the house now, though from the street the building looked the same — the same facade, the same carved lintels, the same wooden balcony leaning out over the callejón. The room had no windows but it was not dark. The efflorescence on the walls caught and held the light from the corridor in a way that gave the space a luminous pallor, like a mouth lit from within.
 
 She ate from the wall. Not from the jar — directly, her face close to the stone, her lips against the crust, the white powder dissolving on her tongue with a taste that was no longer mineral but had become something she could only describe as spatial: the taste of the room itself, of its dimensions, of the distance between its walls which was also the distance between what she had been when she arrived and what she was now. She ate with the focused, unhurried attention of someone performing a devotion whose origin she has forgotten but whose choreography her body knows.
 
 A thought began: she should—
 
-The verb arrived but the object didn't. She should. The desire for something — departure, alarm, a phone call — surfaced and was consumed before it could attach itself to a noun. She could feel its absence the way you feel a word on the tip of your tongue: the shape was there, the meaning was not, and after a moment even the shape dissolved and she was just eating, just tasting, just inside the room that held her.
+The verb arrived but the object didn't. She should. The desire for something — departure, alarm, a phone call — surfaced and was consumed before it could attach itself to a noun. She could feel its absence the way you feel a word on the tip of your tongue: the shape was there, the meaning was not, and after a moment even the shape dissolved and she was just eating, just tasting, just inside.
 
 She picked up her notebook. Turned to a blank page. Wrote:
 
 *All measurements confirmed. Structure sound.*
-
-She closed the notebook. The walls were warm. Outside, the city went on — the tunnels beneath the streets where the Guanajuato River ran in its buried channel, the mines with their drowned lower levels, the colonial buildings leaning on their neighbors, the ground eating and being eaten, the whole landscape a system of consumption so old that no one remembered when it had started, only that it continued, only that it provided, only that it held you if you let it, if you stopped asking what it was made of and simply opened your mouth.
