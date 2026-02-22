@@ -7,8 +7,8 @@ authorA: "Michael Crichton"
 authorB: "Alexandre Dumas"
 workX: "King Solomon's Mines"
 workY: "The Poisonwood Bible"
-wordCount: 4063
-readingTimeMinutes: 16
+wordCount: 3448
+readingTimeMinutes: 14
 tags:
   - "geological survey"
   - "colonial hubris"
@@ -61,7 +61,7 @@ The consortium's brief had been specific: survey the laterite formations along t
 
 Piet had assembled the team in Arusha over three days. Amara — Maa-speaking, born somewhere near the escarpment, hired through the territorial survey office — served as guide and translator. Colette Desmet, twenty-nine, Belgian, the consortium's cartographer, had arrived with her own transit and a set of expectations about field conditions that Piet found optimistic but correctable. Four porters, local men, engaged through Amara at the standard rate plus a completion bonus. And Piet himself, who had done this work in the Namib, in Katanga, in the bauxite fields of British Guiana, and who carried in his head a model of how mineral surveys functioned — a model built on fourteen years of data and refined after every expedition.
 
-The model was simple. You measured the territory. You recorded the measurements. The measurements told you what the territory contained. If the measurements were accurate — and Piet's measurements were always accurate — then the territory had no secrets. It was a system of variables: soil composition,ite depth, mineral content, water table, slope stability, access routes. Each variable could be quantified. Each quantity could be mapped. The map was the territory, rendered in numbers.
+The model was simple. You measured the territory. You recorded the measurements. The measurements told you what the territory contained. If the measurements were accurate — and Piet's measurements were always accurate — then the territory had no secrets. It was a system of variables: soil composition, laterite depth, mineral content, water table, slope stability, access routes. Each variable could be quantified. Each quantity could be mapped. The map was the territory, rendered in numbers.
 
 On the third morning, they reached the first deposit site.
 
@@ -171,7 +171,7 @@ They walked together in the last of the light. The ridge was twenty minutes east
 
 "Volcanic calcium carbonate," Piet said. "Probably from an old eruption. The carbonates leach when exposed to water — turns the surface white. Standard weathering process."
 
-Amara looked at him. It was the look Piet had seen on the faces of local people in four countries and on three continents — a look he classified as deference or possibly incomprehension, because those were the categories he had. He did not have a category for a man watching another man name something incorrectly with absolute confidence.
+Amara looked at him. It was the look Piet had seen on the faces of local people in four countries and on three continents — a look he classified as deference or possibly incomprehension, because those were the categories he had.
 
 "The mountain changes its mind," Amara said.
 
@@ -181,7 +181,7 @@ Amara looked at him. It was the look Piet had seen on the faces of local people 
 
 They walked back to camp. Piet wrote in his log: *Volcanic calcium carbonate deposits on eastern ridge. Probable natrocarbonatite origin (cf. Oldoinyo Lengai, 40 km NE?). Novel mineralogy but not commercially relevant. Weathering pattern confirms high rainfall — note discrepancy with meteorological records.*
 
-He underlined the word *discrepancy*. He did not underline *natrocarbonatite*, though if he had spent another hour with the sample he might have understood what he was holding — the residue of the only volcano on Earth that erupts carbonatite lava, stone born cool enough to touch, born black, turning white in the rain, defying every categorical assumption about what lava is and how stone behaves. A geologist of his training should have recognized it. But recognizing it would have required admitting that his existing framework was insufficient, and his existing framework had never been insufficient before, and so he classified it as calcium carbonate and moved on.
+He underlined the word *discrepancy*. He did not underline *natrocarbonatite*.
 
 ---
 
@@ -215,7 +215,7 @@ Not dramatically wrong. The sky was the same sky. The plateau was the same plate
 
 The theodolite was tilted fifteen degrees to the east. One tripod leg was buried to the knee joint in what had been, twelve hours earlier, ground hard enough to ring under a hammer.
 
-Piet's hands were shaking. He noticed this clinically, as data — elevated adrenaline response, fine motor impairment, likely stress-related — and forced them steady. He pulled the theodolite free. The tripod leg came out with a sucking sound, and the hole it left was smooth-walled and dry, like a socket.
+Piet pulled the theodolite free. The tripod leg came out with a sucking sound, and the hole it left was smooth-walled and dry, like a socket.
 
 He re-surveyed. Set the theodolite on a fresh patch of ground, leveled it, shot his bearings. The readings were clean. They were also impossible. The deposit boundaries he'd mapped yesterday had moved — not by the imprecision of his instruments, which was negligible, but by measurable meters. The laterite formation was in a different configuration than it had been the day before. Same material, same composition, same acid-test results. Different shape.
 
@@ -233,31 +233,21 @@ Colette found him standing at the western edge of the plateau, Hendrik's field n
 
 "Then the instruments need recalibrating. The theodolite may have been damaged when the leg sank. We'll use your transit as the primary and recalibrate the Wild against known benchmarks when we're back in Arusha."
 
-She looked at him the way Amara had looked at him on the ridge — but where Amara's look had been patient, hers was something closer to grief. "What if the instruments aren't the problem?"
+She looked at him with something close to grief. "What if the instruments aren't the problem?"
 
-Piet folded the manifest into his notebook. "The instruments are always the problem, or the operator is the problem, or the site conditions are the problem. Those are the options. The ground doesn't decide things."
+"The instruments are always the problem, or the operator is the problem, or the site conditions are the problem. Those are the options. The ground doesn't decide things."
 
-He began packing the samples. The ones that had been exposed to both rain and air were stone — fused, immovable, part of the plateau now. He left those. The ones under the tarp were still soft enough to bag. He bagged them with the same care he brought to every task, labeling each with site coordinates, depth, date, composition notes. His handwriting was steady. His hands had stopped shaking. The model was back in place — damaged instruments, anomalous conditions, a follow-up survey with better equipment would resolve the discrepancies. The model held because Piet held it, and Piet held it because he had nothing else to hold, and he had nothing else to hold because the model had replaced everything else over fourteen years of fieldwork — had replaced doubt, had replaced the question of what his brother's death actually meant, had replaced the possibility that a territory might have something to say that was not expressible in parts per million.
+He began packing the samples. The ones that had been exposed to both rain and air were stone — fused, immovable, part of the plateau now. He left those. The ones under the tarp were still soft enough to bag. He bagged them with the same care he brought to every task, labeling each with site coordinates, depth, date, composition notes. His handwriting was steady.
 
 They broke camp in an hour. Colette carried her maps. Amara carried nothing. Piet carried the sample bags and the theodolite and Hendrik's notebook and the preliminary report he'd drafted from the first week's data, when the numbers had still been behaving.
 
 ---
 
-The walk out took three days. Amara led them by a different route than the one they'd come in on — shorter, he said, though Piet could not confirm this against his maps because the maps were based on the territorial survey office's topographical sheets, and the topographical sheets were based on a survey conducted in 1938 by men who had stayed on the established tracks. The route Amara chose had no track. It wound through country that seemed to rearrange itself behind them — not literally, not impossibly, but in the way that unfamiliar terrain refuses to become familiar, each backward glance revealing a landscape that does not match the one you remember walking through.
+The walk out took three days. Amara led them by a different route than the one they'd come in on — shorter, he said, though Piet could not confirm this against his maps because the maps were based on the territorial survey office's topographical sheets, and the topographical sheets were based on a survey conducted in 1938 by men who had stayed on the established tracks. The route Amara chose had no track. It wound through country that refused to become familiar, each backward glance revealing a landscape that did not match the one you remembered walking through.
 
 Piet did not look back often. He was composing the report in his head. Deposit confirmed at secondary site, nickel content exceeding projections, commercial viability high, recommend expanded survey with full drilling team. Anomalous instrument readings at plateau site — recommend recalibration protocol and resurvey with upgraded equipment. Local labor unreliable; recommend engaging porters from Arusha rather than local villages. Rainfall data from territorial meteorological office inaccurate; recommend independent weather monitoring for duration of follow-up survey.
 
-Each sentence was true. Each sentence was an instrument reading from a system that did not measure what was actually happening. The report described a territory that was commercially viable and logistically challenging and knowable. The territory they were walking through was none of these things, but the report would not say so, because the report could not say so, because the language of the report and the language of the territory were not the same language and Piet spoke only one of them.
-
-Colette walked beside him for the last hour before Arusha and said, "You know the samples we left on the plateau are part of it now."
-
-"Part of the deposit, yes. Laterite recuring."
-
-"Part of the plateau. The ground took them back."
-
-"The ground is a mineral formation, Colette. It doesn't take things."
-
-She adjusted the strap of her map case and did not argue further. There was nothing to argue about. They were speaking different languages and one of them knew it and the other did not.
+Each sentence was true.
 
 ---
 
@@ -265,12 +255,12 @@ The post office in Arusha was a low concrete building with a tin roof and a sing
 
 He had also written a supplementary note, in longhand, requesting that the follow-up team be equipped with a newer-model theodolite and a gravimeter for subsurface density mapping. "Anomalous readings," he wrote, "suggest instrument limitations rather than geological irregularities. Upgraded survey equipment should resolve the discrepancies observed at the plateau site."
 
-He did not include Amara's explanations. He did not mention the ground resting or the ground waking. He did not note that the headman at the first site had offered water to men he was also turning away, which was either generosity or farewell, and that Piet had not thought to ask which. He did not record the natrocarbonatite as anything other than volcanic calcium carbonate, because recording it correctly would have meant admitting that he had stood on a ridge holding stone that contradicted his training and had renamed it rather than reconsider what he knew.
+He did not include Amara's explanations. He did not mention the ground resting or the ground waking. He did not note that the headman at the first site had offered water to men he was also turning away, which was either generosity or farewell, and that Piet had not thought to ask which. He did not record the natrocarbonatite as anything other than volcanic calcium carbonate.
 
-In Hendrik's notebook, on the last blank page, he wrote: *Better preparation next time.*
+In Hendrik's notebook, on the last blank page, he wrote: *Better instruments next time.*
 
 He sealed the envelope. He addressed it to Consolidated Mineral Surveys, 14 Rue de la Loi, Brussels. He fed it into the mail slot and heard it drop — a flat, definitive sound, like a core sample hitting the bottom of a bag.
 
-The slot closed. The report traveled. Brussels would read what Brussels was equipped to read, and dispatch what Brussels was equipped to dispatch, and the territory would be there when they came — soft when wet, hard when dry, and operating, as it always had, by principles that no manifest in any hand could list.
+The slot closed. The report traveled. Brussels would read what Brussels was equipped to read, and the territory would be there when they came — soft when wet, hard when dry, and operating by principles that no manifest in any hand could list.
 
-Amara was outside, smoking, when Piet came through the door. He did not ask what was in the envelope. He already knew what would be in the envelope. He had known since the ridge, or since the headman's refusal, or since before any of them had arrived — since the first survey team came through in 1938, since the first map was drawn that described the territory in someone else's language. He smoked and watched the street and did not say goodbye when Piet walked toward the hotel, because nothing had ended. The consortium would send another team. The territory would do what the territory did. And men like Piet — precise, prepared, genuinely competent, genuinely blind — would go on mailing reports into systems that could read only what they had built the instruments to measure, and calling the result knowledge.
+Amara was outside, smoking, when Piet came through the door. He did not ask what was in the envelope.
