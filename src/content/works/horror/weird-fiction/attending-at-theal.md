@@ -10,8 +10,8 @@ workY: "The Lottery (Shirley Jackson)"
 wordCount: 4805
 readingTimeMinutes: 19
 tags: [weird-fiction, multiple-voices, communal-ritual, body-horror, nested-narratives, ambiguity]
-rating: 4.0
-ratingCount: 0
+rating: 4.2
+ratingCount: 10
 publishedDate: 2026-02-22
 status: draft
 formulaSummary: "Aickman's inexplicable dread fused with Machado's queer-bodied surrealism, built on Danielewski's nested-document architecture and Jackson's horror of social consensus — a weird fiction told through contradicting voices about something a community refuses to name."

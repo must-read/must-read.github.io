@@ -10,8 +10,8 @@ workY: "Circe (Madeline Miller)"
 wordCount: 7305
 readingTimeMinutes: 29
 tags: [sword-and-sorcery, reverse-chronology, sorcery, transformation, exile, grimdark]
-rating: 4.0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: 2026-02-22
 status: draft
 formulaSummary: "Abercrombie's cynical grimdark grit meets Miller's classical emotional elevation, built on Abercrombie's rotating-POV collision structure and Miller's themes of power earned through suffering — a sword-and-sorcery epic told in reverse, where every victory is recontextualized as loss."

@@ -16,8 +16,8 @@ tags:
   - collapse
   - cello
   - perseverance
-rating: 4.0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: 2026-02-22
 status: draft
 formulaSummary: "Butler's unflinching survival instinct meets James's elegiac moral gravity, driven by McCarthy's stripped-bone journey structure and Mandel's insistence that art outlasts collapse — a post-apocalyptic story about what people carry when they can only carry one thing."

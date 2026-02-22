@@ -11,7 +11,7 @@ wordCount: 5461
 readingTimeMinutes: 22
 tags: [literary-western, ranching, rootedness, transience, landscape, parallel-lives]
 rating: 4.0
-ratingCount: 0
+ratingCount: 9
 publishedDate: 2026-02-22
 status: draft
 formulaSummary: "Proulx's brutal landscape compression meets McMurtry's elegiac warmth, structured through Haruf's patient parallel-lives architecture and haunted by Robinson's meditation on rootedness and drift — a literary western about what holds people to land that gives nothing back."
