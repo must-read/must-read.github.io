@@ -22,8 +22,8 @@ tags:
   - philosophical-fiction
 publishedDate: 2026-02-22
 status: "published"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 formulaSummary: >
   Tokarczuk's fragmentary, wandering narration and Central European geographic
   sensibility merge with Kafka's deadpan precision applied to absurd

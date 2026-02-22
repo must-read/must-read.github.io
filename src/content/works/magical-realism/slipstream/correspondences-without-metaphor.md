@@ -10,8 +10,8 @@ workY: "Her Body and Other Parties"
 wordCount: 3326
 readingTimeMinutes: 13
 tags: ["archives", "bodies", "impossible-architecture", "intimacy", "cataloguing", "fossils", "grief"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Borges's cataloguing precision and Russell's sensory physicality meet Ishiguro's dream-logic acceptance and Machado's body-as-genre-seam in an archive whose corridors respond to the cataloguer's flesh"

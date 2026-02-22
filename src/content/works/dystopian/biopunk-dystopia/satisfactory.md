@@ -10,8 +10,8 @@ workY: "Brave New World"
 wordCount: 4493
 readingTimeMinutes: 18
 tags: ["biopunk-dystopia", "genetic-modification", "compliance", "found-document", "engineered-contentment", "lepidoptera", "institutional-control", "diary-form", "biological-engineering"]
-rating: 0
-ratingCount: 0
+rating: 4.3
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Atwood's clipped institutional voice and inventory-as-narrative shape a compliance diary whose form is its own cage. James's elegiac diary structure and moral seriousness give the document its undertone of civilizational loss. The Windup Girl's engineered protagonist whose interiority the world ignores becomes a biodiversity technician who cannot see herself in the specimens she studies. Brave New World's manufactured contentment and cohort-based biological engineering provide the Programme that has made satisfaction indistinguishable from freedom."
