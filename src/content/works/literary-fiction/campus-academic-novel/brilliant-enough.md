@@ -7,8 +7,8 @@ authorA: "Vladimir Nabokov"
 authorB: "Rachel Cusk"
 workX: "Lucky Jim (Kingsley Amis)"
 workY: "Stoner (John Williams)"
-wordCount: 5510
-readingTimeMinutes: 22
+wordCount: 5200
+readingTimeMinutes: 21
 tags:
   - campus-novel
   - academia
@@ -66,7 +66,7 @@ Under the desk, in a file box that had originally held five reams of copy paper,
 
 He sat down. The committee met in twenty minutes.
 
-*R. Olvera's note occupied the mind the way a splinter occupies the finger — not through pain exactly but through the sudden unignorable fact of its presence. The narrator is unkind and the reader knows it: yes, he had said this in seminar, about Pnin, about that scene with the bowl — the beautiful aquamarine bowl that Pnin loves and that the narrator describes with a tenderness available only to someone who has already decided to let us watch it break. And R. Olvera had heard this observation, carried it away, examined it — lepidopterist!— through her own magnifying apparatus, and returned it to him reversed. I think you were describing yourself. The precision of the accusation, its clean entomological pin through the thorax of a thought he had believed safely general.*
+*R. Olvera's note occupied the mind the way a splinter occupies the finger — not through pain but through the sudden unignorable fact of its presence. The narrator is unkind and the reader knows it: yes, he had said this in seminar, about Pnin, about that scene with the bowl — the beautiful aquamarine bowl that Pnin loves and that the narrator describes with a tenderness available only to someone who has already decided to let us watch it break. And R. Olvera had heard this, carried it away, examined it — lepidopterist! — through her own magnifying apparatus, and returned it to him reversed. I think you were describing yourself. The precision of the accusation, its clean entomological pin through the thorax of a thought he had believed safely general.*
 
 The parking lot held six cars at 8:40 in the morning. A campus security cart was parked near the far entrance, idling, no one in it.
 
@@ -98,17 +98,17 @@ Phyllis's pencil stopped. Sanjay nodded slowly. Vivian wrote something in the ma
 
 "That's a good solution," Phyllis said.
 
-It was not a solution. It was a preamble. A sentence that would appear at the top of the document and that no student would read and no instructor would reference and that would change nothing about how the course was taught. Gideon knew this. He could feel the knowledge sitting in his chest alongside the other knowledge — of Vivian's margins, of Sanjay's unrequited hope, of Phyllis's pencil marking time — and he marveled, as he had marveled many times, at the weight a person could carry simply by seeing clearly.
+It was not a solution. It was a preamble. A sentence that would appear at the top of the document and that no student would read and no instructor would reference and that would change nothing about how the course was taught. Gideon knew this. He could feel the knowledge sitting in his chest alongside the other knowledges — of Vivian's margins, of Sanjay's unrequited hope, of Phyllis's pencil marking time — and he marveled, as he had marveled many times, at how much a person could carry simply by seeing clearly.
 
 "At the risk of being retrograde," Harold Peck said, "I wonder whether we need a preamble at all."
 
 Phyllis's pencil resumed its tapping.
 
-The meeting continued for another ninety minutes. Gideon spoke four more times. Each contribution was measured, collegial, and slightly witty. Each advanced the document by a phrase or a comma. The room smelled of dry-erase marker and the particular staleness of air that has been recirculated through an institutional HVAC system for decades.
+The meeting continued for another ninety minutes. Gideon spoke four more times. Each contribution was measured, collegial, and slightly witty. Each advanced the document by a phrase or a comma. The room smelled of dry-erase marker and the staleness of air that has been recirculated through an institutional HVAC system for decades.
 
 *He thought, during a pause in which Phyllis reorganized her papers and Sanjay checked his phone, of a sentence from his own book — the first book, the published one, Ornament and Exile, page 214: "The exile's tragedy is not displacement but the competence with which he furnishes the new dwelling, transforming necessity into aesthetic, which is to say transforming the unbearable into the admirable, which is to say lying with such skill that the lie becomes a home." He had written this about Nabokov. He had not, at the time, understood that he was writing about himself. Or perhaps he had. The question of what one knows and when one knows it was, in his experience, less a question of epistemology than of willingness — the moment you allow the already-known fact to surface through the decorative intelligence you have laid over it, like varnish over a flaw in wood.*
 
-At eleven-twenty Phyllis adjourned the meeting. Gideon walked to his office, closed the door, and sat in the quiet for several minutes. R. Olvera's note was still in his jacket pocket. He could feel its weight, which was the weight of a torn half-sheet of legal paper and also not that at all.
+At eleven-twenty Phyllis adjourned the meeting. Gideon walked to his office, closed the door, and sat in the quiet for several minutes. R. Olvera's note was still in his jacket pocket. He could feel it there, which was the fact of a torn half-sheet of legal paper and also not that at all.
 
 ---
 
@@ -130,7 +130,7 @@ He paused. The pause was practiced but not insincere; he had learned, over decad
 
 Laughter — not from everyone, but from enough. A release of recognition. Gideon smiled. He looked, without meaning to, at R. Olvera. She was writing something in her notebook. She had not laughed.
 
-*The not-laughing was — what? An accusation? A refusal? Or simply the response of someone who heard the joke and heard also the thing behind it, the confession nestled inside the quip like the pit inside a cherry, like the specimen inside the display case, like the three hundred and forty pages inside the file box under his desk? She had heard him describing himself: the scholar as obsessive collector, the curiosity that became a cage. And she had declined to pretend it was only funny.*
+*The not-laughing was — what? An accusation? A refusal? Or simply the response of someone who heard the joke and heard also the thing behind it, the confession nestled inside the quip like the pit inside a cherry, like the specimen inside the display case? She had heard him describing himself: the scholar as obsessive collector, the curiosity that became a cage. And she had declined to pretend it was only funny.*
 
 The discussion turned to *Stoner*. Gideon had assigned the final hundred pages. The students were subdued in the way that Williams's novel tended to produce — not depressed but chastened, as though they had been shown something about endurance they were not sure they wanted to know.
 
@@ -180,13 +180,13 @@ He waited. He knew there was a conjunction coming, a *but* or a *however* or the
 
 The sentence landed in the room. It sat between them on the desk, next to the thermos and the stack of ungraded papers, and it did not go away.
 
-*He could feel his machinery engage — the ornate, dependable machinery of articulation that had served him for three decades, the ability to receive an observation and return it transformed, elevated, depersonalized, wrapped in the beautiful foil of analytic distance. He could say: All scholarship is autobiography in disguise. He could say: The distinction between describing one's own condition and studying it is the distinction that defines the humanities. He could say any of a dozen things that would be true and that would also be, in their truth, a performance of the very thing she was identifying — the deflection accomplished through eloquence, the dodge dressed as depth.*
+*He could feel his machinery engage — the ornate, dependable machinery of articulation that had served him for three decades, the ability to receive an observation and return it transformed, elevated, depersonalized, wrapped in the foil of analytic distance. He could say: All scholarship is autobiography in disguise. He could say: The distinction between describing one's own condition and studying it is the distinction that defines the humanities. He could say any of a dozen things that would be true and that would also be, in their truth, a performance of the very thing she was identifying — the deflection accomplished through eloquence, the dodge dressed as depth.*
 
 "That's an interesting reading," he said.
 
 "That's exactly what I mean," she said.
 
-The room was quiet. The radiator under the window ticked. He became aware, as one becomes aware of a sound that has been present all along, that the building was emptying. Doors closing at intervals down the hall. The particular late-afternoon hush of a humanities building in November.
+The room was quiet. The radiator under the window ticked. He became aware, as one becomes aware of a sound that has been present all along, that the building was emptying. Doors closing at intervals down the hall. The late-afternoon hush of a humanities building in November.
 
 He looked up at the postcard of the yellow ground squirrel.
 
@@ -196,7 +196,7 @@ She looked. "A ground squirrel."
 
 "*Spermophilus fulvus*. The yellow ground squirrel. Central Asian steppe. A colleague in zoology gave me that postcard nine years ago as a joke." He leaned back in his chair. "The yellow ground squirrel hibernates for six to eight months of the year. Even during its active season it sometimes aestivates — goes dormant in the warm months too, as though rest were its natural state and waking an interruption. And yet its life cycle is classified as 'fast.' Rapid maturation. Brief reproductive window. Early senescence. It spends most of its existence asleep and the rest of it rushing."
 
-He had meant this as a self-deprecating aside, a piece of trivia deployed to lighten the conversation's weight. But as the words arrived in the room they arranged themselves differently than he had intended, and he heard them — heard himself — with the clarity of someone listening to a recording. An animal that sleeps through most of its life. A life cycle classified as fast despite the dormancy. The brief window.
+He had meant this as a self-deprecating aside, a piece of trivia deployed to lighten the conversation. But as the words arrived in the room they arranged themselves differently than he had intended, and he heard them — heard himself — with the clarity of someone listening to a recording. An animal that sleeps through most of its life. A life cycle classified as fast despite the dormancy. The brief window.
 
 R. Olvera was watching him.
 
@@ -206,7 +206,7 @@ R. Olvera was watching him.
 
 "I'm describing a ground squirrel."
 
-"You're describing yourself describing a ground squirrel."
+She let that sit. Then: "You know you are."
 
 He almost laughed. He felt the laugh arrive and recede, and in its place was something less comfortable — the sensation of being seen through a surface he had maintained so long he had confused it with skin.
 
@@ -218,33 +218,33 @@ He almost laughed. He felt the laugh arrive and recede, and in its place was som
 
 "Yes," R. Olvera said. "But you weren't teaching the structural feature. You were — I watched you. Your voice changed when you talked about the narrator being unkind. It got quieter. You leaned forward. It was the most honest you've been all semester, and I don't think you knew it."
 
-The parking lot outside the window held two cars now. The light had gone to that particular amber-gray of New England in November, a color that existed only in the last hour before early dark, as though the atmosphere were deciding whether to commit to evening. A crow was walking on the hood of someone's Subaru with the proprietary air of a landowner inspecting a fence.
+The parking lot outside the window held two cars now. The light had shifted to that amber-gray of New England in November, the last hour before early dark. A crow was walking on the hood of someone's Subaru with the proprietary air of a landowner inspecting a fence.
 
 "I appreciate your candor," he said, and heard the formality of it, the institutional register, the voice of a man retreating into the apparatus of his position.
 
 "I know," she said. She picked up her bag. She was not angry. She was not triumphant. She had said what she had come to say, and now she was leaving, and the leaving was as direct as the arrival had been. At the door she stopped.
 
-"The book you're working on," she said. "The one you mention in your faculty bio. How long has it been?"
+"Your faculty bio still lists a book in progress," she said.
 
-"Eleven years."
+"It does."
 
-She nodded, as though this confirmed something. Then she left, and her footsteps moved down the hallway and down the stairs, and the building held the sound of her departure for a moment before absorbing it into its own institutional quiet.
+She nodded, as though this confirmed something. Then she left, and her footsteps moved down the hallway and down the stairs, and the building held the sound of her departure for a moment before absorbing it into its own quiet.
 
 ---
 
 At five-thirty Dalrymple Hall belonged to him.
 
-This was not an exaggeration, or not entirely. The department office locked at five. The adjuncts had gone home, the graduate students had migrated to the library or the bar on Prospect Street, and the building settled into the particular silence of a structure designed for voices now emptied of them. The hallways had the quality of a stage between performances — the same furniture, the same bulletin boards with their layers of expired announcements, but the meaning of these things shifted when no one was there to ignore them.
+This was not an exaggeration, or not entirely. The department office locked at five. The adjuncts had gone home, the graduate students had migrated to the library or the bar on Prospect Street, and the building settled into the silence of a structure designed for voices now emptied of them. The hallways had the quality of a stage between performances — the same furniture, the same bulletin boards with their layers of expired announcements, but the meaning of these things shifted when no one was there to ignore them.
 
 Gideon sat in his office with the door open. The desk lamp made its yellow circle. Beyond the window the parking lot held one car, his, a twelve-year-old Volvo whose passenger-side mirror he had repaired with electrical tape in September and then forgotten about until Lena, his ex-wife, had noticed it when she dropped off a box of books he had left in the Portland house. "You could get that fixed," she had said, and he had agreed that he could, and he had not.
 
-*He thought about R. Olvera's question — not the question she had asked but the question she had been. Every semester brought its complement of bright students, students who could parse a sentence and locate a symbol and construct an argument that demonstrated all the competencies the learning outcomes required. R. Olvera was something different. She read with what he could only describe as a moral attention — not moral in the sense of judgment, but in the sense of care. She cared what a text was doing to its reader. She cared whether the writer knew. And she had turned this care on him, and it had burned the way sunlight burns when focused through a lens not because the light is hostile but because the focusing is precise.*
+*He thought about R. Olvera's question — not the question she had asked but the question she had been. Every semester brought its complement of bright students, students who could parse a sentence and locate a symbol and construct an argument that demonstrated all the competencies the learning outcomes required. R. Olvera was something different. She read with what he could only describe as a moral attention — not moral in the sense of judgment, but in the sense of care. She cared what a text was doing to its reader. She cared whether the writer knew. And she had turned this care on him, and it had burned not because the light was hostile but because the focusing was precise.*
 
 He reached under the desk and pulled out the file box.
 
 The manuscript was three hundred and forty pages. The title was *Dwelling and Distance: Institutional Space in Postwar Fiction*. He had been working on it for eleven years, which was not accurate — he had been working on it for five years and holding it for six. The difference was crucial and was also, he suspected, invisible from the outside. From the outside, the book was unfinished. From the inside, the book was a country he visited evenings and weekends, a territory whose borders he knew better than the borders of his own daily life.
 
-He opened the box. He lifted the manuscript — its weight familiar, the particular heft of three hundred and forty pages of twenty-pound bond paper printed single-sided because he revised by hand, in pencil, in the margins — and he set it on the desk.
+He opened the box. He lifted the manuscript — its weight familiar, the heft of three hundred and forty pages of twenty-pound bond paper printed single-sided because he revised by hand, in pencil, in the margins — and he set it on the desk.
 
 He opened to a page near the middle. Chapter six. The section on Coetzee's *Disgrace* and the university as a site of moral reckoning. He read a paragraph.
 
@@ -254,13 +254,13 @@ He set the page down.
 
 The building hummed. The HVAC system, which operated on a schedule that bore no relationship to the building's actual occupancy, pushed warm air through vents that had not been cleaned in a period Gideon preferred not to estimate.
 
-He knew — had known for years, in the way one knows things one has decided not to articulate — that the book's unfinished state was not a circumstance. It was a choice. The book could be finished. The book, in most senses that mattered, was finished. The remaining chapters required revision, not invention. He could complete them in three months of focused work. He had not completed them. He had instead maintained them in a state of productive incompleteness, returning to them regularly, making small adjustments, treating the manuscript as a living process rather than a finite object.
+He knew — had known for years, in the way one knows things one has decided not to articulate — that the book's unfinished state was not a circumstance but a choice. The remaining chapters required revision, not invention. He could complete them in three months of focused work. He had not completed them. He had instead maintained them in a state of productive incompleteness, returning regularly, making small adjustments, treating the manuscript the way other people treated exercise or prayer — as a practice rather than a project.
 
-And the reason — the reason he could now name because R. Olvera had, with the blind confidence of someone who does not yet know what it costs to see clearly, walked into his office and asked the question the answer to which was obvious — the reason was that the manuscript, unfinished, belonged to him. It existed in the space between his desk lamp and his mind, and no one could judge it, and no one could misread it, and no one could find it competent but not essential, publishable but not important, the work of a man who had spent his career at an institution that did not require or reward brilliance and had therefore been free to cultivate it in private, like an orchid in a basement, like a collection of lead soldiers in a room no one visits.
+And the reason — the reason he could now almost name, because R. Olvera had walked into his office and said the thing he'd been circling for six years — was that the manuscript, unfinished, belonged to him. It existed in the space between his desk lamp and his mind, and no one could judge it, and no one could find it competent but not essential, publishable but not important.
 
-Finishing the book meant sending it into the world. The world would have opinions. The world's opinions would be delivered in the form of peer reviews and editorial letters and the silence of journals that did not respond, and these opinions would either confirm what he suspected — that the book was good, genuinely good, the work of a mind that had been magnificent in its privacy — or they would not. And if they did not, the private magnificence would be revealed as the delusion of a man who had confused cultivation with achievement, and the orchid would be just a flower in a basement, and the soldiers would be toys.
+Finishing the book meant sending it into the world. The world would have opinions. The world's opinions would be delivered in the form of peer reviews and editorial letters and the silence of journals that did not respond, and these opinions would either confirm what he suspected — that the book was good, genuinely good — or they would not. And if they did not. He could not complete that sentence, even in his own mind, without the ornate machinery intervening, reshaping the fear into analysis, which was the whole problem, and he knew it was the whole problem, which was also the whole problem.
 
-*This was the trap. Not the institution — the institution was blameless, or as blameless as any structure designed to organize human ambition can be. The trap was the intelligence itself. The capacity to see all of this — the manuscript, the reason for not finishing it, the reason for the reason, the ornate recursive architecture of his own avoidance — with a clarity so precise that the clarity itself became a form of shelter. I see the cage, therefore I am not in it. Except of course you are. You are the cage's most articulate resident.*
+*This was — what? Not the trap he had described to his students, the cage with a mirror. That had been too neat. A formulation. The real thing was messier. It was the inability to distinguish between protecting the manuscript and protecting himself, and the suspicion that there was no distinction, and the further suspicion that this suspicion was itself another form of the same avoidance, and at some point the recursions stopped being illuminating and became just the sound of a man thinking in circles in a building where no one could hear him.*
 
 He put the manuscript back in the box. He put the box under the desk.
 
@@ -272,9 +272,9 @@ He typed:
 
 *Dear Katherine — Is this still an address that reaches you? I may have something to show you. Or I may not. I wanted to know if the door was still there before I decided whether to open it.*
 
-He read the sentence. He read it again. He noticed what he had done — even in this, even in the act of reaching toward something, he had composed. He had selected his words. He had balanced the clauses. He had produced a sentence that performed the uncertainty it described, and the performance was, as always, immaculate, and the immaculacy was, as always, the distance between himself and the thing he was trying to do.
+He read the sentence. He read it again. He noticed what he had done — even in this, even in the act of reaching toward something, he had composed. He had balanced the clauses. He had produced a sentence that performed the uncertainty it described, and the performance was, as always, immaculate.
 
-He stared at the screen for what felt like a full minute. The cursor blinked at the end of his sentence with the patience of something that would wait forever.
+He stared at the screen. The cursor blinked at the end of his sentence.
 
 He closed the laptop.
 
@@ -282,8 +282,6 @@ He put on his coat, a gray wool overcoat he had bought fifteen years ago at a sh
 
 He walked down the hallway, past the closed doors of his colleagues' offices, past the bulletin board with its strata of announcements — a talk on digital humanities from September, a call for papers with a deadline that had passed in October, the visiting poet's flyer now curling so thoroughly it had nearly closed around its own pushpin. The stairwell smelled of the cleaning solution the custodial staff used on the railings, a chemical lemon scent that bore no relationship to actual lemons.
 
-Outside, the air was cold and damp, the particular cold of a New England November that enters through the seams of clothing and settles against the skin. The parking lot held one car. His. The security cart from the morning was gone. The space where it had idled was empty, and the emptiness had the quality of all absent things — noticeable only to someone who had registered the original presence.
+Outside, the air was cold and damp. The parking lot held one car. His. The Volvo's taped mirror caught the last of the light.
 
-The light was amber-gray. It lay on the asphalt and the dead leaves and the Volvo's taped mirror and the bare trees at the lot's edge like a color that could not decide what it was — not sunset, not dusk, but the interval between a day that had happened and an evening that had not yet committed to arriving.
-
-Gideon Pratt, fifty-seven, tenured associate professor of comparative literature, author of one book and holder of another, crossed the parking lot. His footsteps were the only sound. The building behind him went on glowing from its ground-floor windows, the way institutional buildings do, long after the people inside them have gone.
+Gideon Pratt crossed the parking lot. His footsteps were the only sound. Behind him the ground-floor windows of Dalrymple Hall went on glowing, as they would for hours yet, on their own schedule.
