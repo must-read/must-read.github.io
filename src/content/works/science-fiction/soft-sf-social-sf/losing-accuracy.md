@@ -7,8 +7,8 @@ authorA: "Ursula K. Le Guin"
 authorB: "Becky Chambers"
 workX: "The Left Hand of Darkness"
 workY: "Parable of the Sower"
-wordCount: 7319
-readingTimeMinutes: 30
+wordCount: 6597
+readingTimeMinutes: 26
 tags:
   - anthropology
   - colony
@@ -133,7 +133,7 @@ I wanted, with the particular desperation of a researcher who senses a key findi
 
 *Afterward: a communal meal. Three households merged for the occasion. The food was the same as always — the grain porridge, roasted tubers, the pressed-oil sauce that I have grown fond of, dark and nutty, served in a wide clay bowl and passed without asking — but the seating was deliberate. Jovvi sat at the center, and the meal radiated outward from them like heat from a hearth.*
 
-*I sat at the edge, as is my habit. I watched. And I felt something I cannot categorize — not envy, not nostalgia, not longing. Something adjacent to all three that my vocabulary cannot hold. I was mourning a version of childhood I never had — not because my childhood was poor, but because the grammar for this kind of belonging didn't exist in it. No one ever said my name two hundred times. No one treated the fact of my selfhood as an event worth sitting down to dinner over. In my culture, a name is given at birth by parents who chose it for reasons the child may never know. Here, a name is chosen by the person who will carry it, and the community's role is not to approve but to witness.*
+*I sat at the edge, as is my habit. I watched. And I felt something I cannot categorize — not envy, not nostalgia, not longing. Something adjacent to all three that my vocabulary cannot hold.*
 
 *I am aware that this observation is not appropriate for a field report. I am including it because I have begun to distrust my sense of what is appropriate.*
 
@@ -147,7 +147,7 @@ I called Davi that evening on the ansible. The connection was clear — Cadence'
 
 "Huh," Davi said. Then: "That sounds cult-y."
 
-The word landed in my sternum like a swallowed bone. I opened my mouth to defend the colony — to explain that it wasn't cult-y, it was a specific and evolved social practice rooted in three generations of pragmatic necessity, that the naming ceremony bore structural resemblance to peripatric cultural development, a small population at the periphery of the species diverging under different pressures until — and then I heard myself. Defending. Not reporting. Arguing a position I hadn't known I held.
+The word landed in my sternum like a swallowed bone. I opened my mouth to defend the colony — to explain that it wasn't cult-y, it was a specific and evolved social practice rooted in three generations of pragmatic necessity, that the naming ceremony bore structural resemblance to peripatric cultural development — and then I heard myself. Defending. Not reporting. Arguing a position I hadn't known I held.
 
 "Maybe," I said. "How's the station?"
 
@@ -177,7 +177,7 @@ Inside: a button, hand-carved from bone, smooth with decades of handling. A ston
 
 She laughed — a single, dry syllable that carried no bitterness. "They mind a little. But only a little. That's the thing about this place. There's room for a little."
 
-I wanted to write about the box immediately. I could feel the paragraph forming: *the colony's negative space, the exception that proves the rule, the items that resist circulation in a system built on circulation.* Every social system has its exceptions. The oldest cliche in my field and also the truest. But for the first time, the paragraph felt predatory. The box was not a finding. The box was Oss's life — the material residue of a woman who had spent eighty years in a system of radical fluidity and had kept three things still.
+I wanted to write about the box immediately. I could feel the paragraph forming: *the colony's negative space, the exception that proves the rule, the items that resist circulation in a system built on circulation.* Every social system has its exceptions — the oldest observation in my field, and still the truest. But the paragraph felt predatory. The box was not a finding. The box was Oss's life — the material residue of a woman who had spent eighty years in a system of radical fluidity and had kept three things still.
 
 "Thank you for showing me," I said.
 
@@ -204,7 +204,7 @@ I did not ask what she meant. I think I knew.
 
 I thought about Venn's grandmother's distrust of names for a long time after that conversation. I sat on the terrace wall in the amber evening light and turned the idea over. Peripatric speciation — the biological term for what happens when a small population splits from its parent group and, under new pressures, diverges until the two can no longer interbreed. I had been using it as a metaphor for Cadence in my own notes, a way to frame the colony's social distance from the rest of humanity. Three generations isolated, developing under pressures no other human community had experienced. Was that enough for cultural speciation? For a society to become genuinely incomprehensible to its origin?
 
-But sitting there, with the smell of the drying sheds and the distant sound of someone practicing a stringed instrument in one of the residences — the same halting melody every evening, a few notes further each time — I realized the metaphor might apply more accurately to me. Not to the colony. To me. I was the small population, the sample of one, beginning to diverge at the periphery. Not a new species. Not yet something my colleagues wouldn't recognize. But no longer entirely continuous with the Renne Lasko who had stepped off the shuttle five months ago and extended her hand to shake.
+But sitting there, with the smell of the drying sheds and the distant sound of someone practicing a stringed instrument in one of the residences — the same halting melody every evening, a few notes further each time — I realized the metaphor might apply more accurately to me. Not to the colony. To me. I was the small population, the sample of one, beginning to diverge at the periphery.
 
 The colony also had its struggles, and I want to record them because the temptation to idealize Cadence is one I have fought throughout my stay. Not everyone thrived in rotation. A young man whose name I'd heard as both Drell-of-the-kitchens and Drell-at-the-forge told me, during a long shift in the gardens, that he sometimes dreamed of a room that was only his. Not to own — the concept baffled him — but to return to. The same room, the same arrangement of objects, turn after turn. "I know that's childish," he said, using a word that in the colony's dialect carried less judgment than I would have expected. "But sometimes I want a thing to stay where I put it." I wrote this in my report and then sat with the discomfort of recognizing his longing as a cousin of my own, arrived at from the opposite direction.
 
@@ -216,12 +216,9 @@ I wrote well. The prose was clear, the analysis rigorous, the framework original
 
 And it was dead. Every sentence was accurate and none of them were true.
 
-I had described the kitchen without conveying what it felt like to stand inside it — the heat from the stove, the smell of that pressed-oil sauce, the way five people could coordinate a meal through glances and gestures and the particular angle at which someone held a knife that meant *I'll do the root vegetables, you handle the grain.* I had documented Jovvi's naming ceremony in sociological detail and lost entirely the weight of two hundred voices saying one name until it became real. I had a section on Oss's box, framed as "material culture exceptions in post-property societies," and I deleted it at two in the morning because I couldn't stomach reducing her to that.
+I had described the kitchen without conveying what it felt like to stand inside it — the heat from the stove, the smell of that pressed-oil sauce, the way five people could coordinate a meal through glances and gestures and the particular angle at which someone held a knife that meant *I'll do the root vegetables, you handle the grain.* I had documented Jovvi's naming ceremony in sociological detail and lost entirely the weight of two hundred voices saying one name until it became real. I had a section on Oss's box, framed as "material culture exceptions in post-property societies," and I deleted it at two in the morning because I couldn't stomach reducing her to a case study.
 
-The paper was a house with every room furnished and no one living in it.
-
-I rewrote the introduction three times. The first version opened with methodology — standard practice, defensible. The second opened with Cadence's coordinates, its orbital parameters, the K-star's spectral class — as though the colony were a specimen pinned under glass. The third version opened with Jovvi's voice saying *I chose it because it sounds like jumping*, and I deleted it immediately because it belonged to a different kind of writing, the kind that admits the writer was changed by what she witnessed. I went back to the first version. It was accepted for publication. I tell myself the methodology opening was the right choice. I am less certain every month.
-
+I rewrote the introduction three times. The first version opened with methodology — standard practice, defensible. The second opened with Cadence's coordinates, its orbital parameters, the K-star's spectral class — as though the colony were a specimen pinned under glass. The third version opened with Jovvi's voice saying *I chose it because it sounds like jumping*, and I deleted it immediately because it belonged to a different kind of writing, the kind that admits the writer was changed by what she witnessed. I went back to the first version. It was accepted for publication.
 
 ---
 
@@ -231,15 +228,15 @@ Pareth told me three days before my departure. Not with cruelty. Not even with p
 
 "What about me?"
 
-"We think you're vokh." She said the word carefully, as though I might not have heard it before. I hadn't. "It means — " She paused, hands still in the water. "It's like a house with all the rooms built and nothing in them. You have the space for things. You just haven't moved in."
+"We think you're vokh." She said the word carefully, as though I might not have heard it before. I hadn't. "It means — " She paused, hands still in the water. "Someone who has all the space for things but keeps them in the hallway. Close, but not inside."
 
 I set the pot on the counter. My hands were wet, dripping on the stone floor. The K-star light came through the kitchen window and caught the steam from the rinse water and for a moment everything was amber and diffuse and I could not see Pareth's face clearly.
 
 "That's how you see me?"
 
-"That's how we feel you. You watch so carefully. You write everything down. You remember what we say better than we do. And we think — " Another pause, longer this time, and I understood that Pareth was being brave, that this cost her something, that the colony's warmth did not make difficult conversations easy, only possible. "We think the writing is how you keep the rooms empty. So you don't have to put anything in them."
+"That's how we feel you. You watch so carefully. You write everything down. You remember what we say better than we do. And we think — " Another pause, longer this time, and I understood that Pareth was being brave, that this cost her something, that the colony's warmth did not make difficult conversations easy, only possible. "We think the writing is how you keep things in the hallway. So they're near you but you never have to sit with them."
 
-I wanted to argue. I wanted to say: observation is not emptiness. Distance is not absence. I have spent my career inside this distance and it has given me access to truths that participation cannot reach. I am not unfurnished. I am differently furnished. My furniture is invisible to you because you've never lived in a house like mine.
+I wanted to argue. I wanted to say: observation is not emptiness. Distance is not absence. I have spent my career inside this distance and it has given me access to truths that participation cannot reach.
 
 I said none of this. Because I heard, beneath all of it, the sound of a person explaining why her particular way of being alone was actually a form of presence, and I recognized it for what it was: defense. Sophisticated, articulate, deeply felt, and still defense.
 
@@ -251,11 +248,11 @@ I said none of this. Because I heard, beneath all of it, the sound of a person e
 
 *Field Report #13 — Cadence Colony, Day 224*
 
-*They have categorized me. Just as I have categorized them. The difference is that my categorization is published in journals, and theirs is spoken over kitchen sinks. I want to claim that mine is more rigorous, more considered, more just. I am not sure that is true. Their word for me — vokh, unfurnished — contains a theory of personhood as specific and as coherent as anything in the Ekumenical archive. It says: a person is not their skills or their thoughts or their observations. A person is the things they have allowed into their rooms. A person is what they have not kept out.*
+*They have categorized me. Just as I have categorized them. The difference is that my categorization is published in journals, and theirs is spoken over kitchen sinks. I want to claim that mine is more rigorous, more considered, more just. I am not sure that is true. Their word for me — vokh — contains a theory of personhood as specific and as coherent as anything in the Ekumenical archive. It says: a person is not their skills or their thoughts or their observations. A person is what they have let close enough to sit down.*
 
 *I have spent my career believing that the observer's position is privileged — that to see clearly is better than to be seen. I am no longer sure. To see clearly may require a kind of emptiness. And emptiness may be what it looks like from the outside — this thing I've called rigor, called methodology, called the discipline of the trained eye.*
 
-*I considered, tonight, staying. Not permanently. Six more turns. Enough to learn the garden work properly, to understand the soil the way the gardeners do, through my hands instead of my notes. Enough to let a household name me. I imagined being called Renne-of-the-eastern-terrace — not Renne the anthropologist, not Dr. Lasko, not the observer. Just Renne, in relation to a piece of land and the people who work it. I felt a pull in my chest that was not metaphorical. Something shifted, muscularly, below my sternum, the way your body responds to a view from a great height.*
+*I considered, tonight, staying. Not permanently. Six more turns. Enough to learn the garden work properly, to understand the soil the way the gardeners do, through my hands instead of my notes. Enough to let a household name me. I imagined being called Renne-of-the-eastern-terrace — not Renne the anthropologist, not Dr. Lasko, not the observer. Just Renne, in relation to a piece of land and the people who work it.*
 
 *I will not stay. My commitment to the Survey is real and my commitment to Davi is real and the life I have built is real, even if it is real in a different way than what Cadence has built. Staying would be conversion, and conversion is the enemy of understanding. You do not understand a language by forgetting your own.*
 
@@ -266,7 +263,6 @@ I said none of this. Because I heard, beneath all of it, the sound of a person e
 The departure was brief. Cadence does not do long goodbyes for the same reason it does not do long introductions: the categories of arrival and leaving are less fixed here than elsewhere. People go. People come. The turn continues.
 
 Forty people came to the landing field. They clasped my wrists, both wrists, the concurrent gesture. Some of them I had lived with. Some of them I had watched from across a kitchen for six months. Some of them I had confused with each other because their names had changed since the last time I'd spoken to them, and I still wasn't fluent enough in the grammar to feel that the same person with a different name was the same person differently.
-
 
 Jovvi was among them, holding the wrists of the person beside them with one hand and reaching for mine with the other. They had grown in six months — taller, their face less round, still solemn. "I'm still Jovvi," they said, as though answering a question I hadn't asked. "It still sounds like jumping." I clasped their wrists and said "Jovvi" and heard, in my own voice, an echo of the two hundred who had said it before me, and I did not trust myself to say anything else.
 
@@ -290,9 +286,7 @@ By Report #8, the sentences had shortened. More active verbs. Fewer subordinate 
 
 By Report #12, I had used "we" three times and corrected it twice. The third time, in the final report, I had left it standing. *We planted the east terraces early this turn because Riil said the rain was coming and Riil is always right about rain.* I'd left it and hadn't even flagged it for revision. The "we" had won, and I hadn't noticed until now, reading the reports in sequence, watching my own voice change the way you watch a coastline erode in time-lapse: too slow to feel, too fast to deny.
 
-I closed the screen. The button was in my pocket. I could feel it against my thigh — warm from my body heat, smooth from Oss's years of handling. An object that had refused circulation for decades and was now in transit, going somewhere it had never been. Becoming part of a system it had been excluded from.
-
-I wondered if Oss knew the button was a metaphor. I suspected she would have found the question absurd.
+I closed the screen. The button was in my pocket. I could feel it against my thigh — warm from my body heat, smooth from Oss's years of handling. An object that had refused circulation for decades and was now in transit, going somewhere it had never been.
 
 ---
 
@@ -300,19 +294,15 @@ The Survey accepted my paper. It was published in the *Ekumenical Journal of Soc
 
 I presented at the first conference. I wore professional clothing and used my professional voice and my slides were clear and well-organized and no one in the audience could have guessed that I had deleted an entire section about an old woman's box because I refused to let the paper make her into evidence. A man in the third row asked me what the colony was "really like" and I said, with practiced ease: "Functional, innovative, worth further study." The audience nodded. The man nodded. I moved to the next slide.
 
-That evening, Davi and I hosted dinner for several colleagues. Small apartment, a table that seated six, the standard blue-white lighting of every residential unit on the station. I had cooked — something I'd done more since returning, though I hadn't examined why. Davi had noticed. "You never cooked before Cadence," they said once, and I'd said "I didn't have time before Cadence," which was true and also not the reason.
+That evening, at a dinner Davi and I hosted for colleagues — six people, individual plates, individual glasses, the standard blue-white lighting of every residential unit on the station — someone passed a dish of roasted grain. Not the colony's variety. A standard commercial blend. But grain, in a communal dish, moving around a table.
 
-The meal was nothing like a Cadence meal. The food was purchased, not grown. The table was set with individual plates, individual glasses, individual portions carefully allocated. No one passed anything without being asked. The conversation was pleasant and bounded and no one wept.
+I reached for it without asking, took a portion, and passed it to my left. Davi's colleague said, "Oh, help yourself," with mild surprise at the informality.
 
-Someone passed a dish of roasted grain — not the colony's variety, a standard commercial blend, nothing like what grew on the eastern terraces, but grain, in a communal dish, moving around a table. I reached for it without asking, took a portion, and passed it to my left. The host — Davi's colleague, a woman I had met before and whose name I retained — said, "Oh, help yourself," with mild surprise at the informality.
-
-I froze. My hand was still extended. I hadn't asked. I hadn't waited to be offered. I had simply taken, the way you take on Cadence, where taking without asking is not rudeness but fluency — the signal that you are inside the system, that the food is everyone's, that asking permission would be the strange thing, the outsider thing, the thing that marks you as someone who has not yet learned the grammar.
+I froze. My hand was still extended. I hadn't asked. I hadn't waited to be offered. I had simply taken, the way you take on Cadence, where taking without asking is not rudeness but fluency — the signal that you are inside the system, that the food is everyone's, that asking permission would be the strange thing.
 
 "Sorry," I said. "Habit."
 
-No one noticed. The conversation moved on. Davi was telling a story about a maintenance failure on the station's B-ring, and someone laughed, and the evening continued in its pleasant, bounded, individual way.
-
-The button was in my jacket pocket. It was always in a pocket now — jacket, trouser, the small interior pocket of whatever I was wearing. I didn't take it out. I didn't look at it. But I knew it was there the way you know your own pulse — not by checking, but by the continued fact of being alive.
+No one noticed. The conversation moved on. Davi was telling a story about a maintenance failure on the station's B-ring, and someone laughed, and the evening continued in its pleasant, bounded way.
 
 ---
 
@@ -320,7 +310,7 @@ The button was in my jacket pocket. It was always in a pocket now — jacket, tr
 
 ---
 
-I have been back for four months. The paper is published. The career continues. I speak to my mother on Hain once a month and to Davi every day and to colleagues about work that is not Cadence, and I do all of this with a competence that reassures everyone, including myself, that the six months in the colony of rotating names and dissolved households was an experience I have processed, categorized, and filed.
+I have been back for four months. The paper is published. The career continues. I speak to Davi every day and to colleagues about work that is not Cadence, and I do all of this with a competence that reassures everyone, including myself, that the six months in the colony was an experience I have processed, categorized, and filed.
 
 I have not filed it. I know this because of the small things.
 
@@ -330,20 +320,12 @@ I have stopped introducing myself by title at conferences. I say "Renne" and the
 
 I tried once to explain the breathing ceremony to Davi — the two days between turns when grief is public and no one tries to fix it — and Davi said, "That sounds hard," and I said, "It was the most generous thing I've ever seen," and then I couldn't say anything else because the sentence had surprised me. I hadn't planned to use the word "generous." It had come from somewhere below my professional vocabulary, from the place where the "we" had come from, from the part of me that had learned to feel the difference between a plant that needed water and one that needed turning.
 
-On the desk in my office, beside the stacked journals and the ansible terminal, there is a small bone button. It does not belong here. It belongs in a battered box in a colony where nothing belongs to anyone. But Oss said *it does now*, and I have not been able to argue with her, even in absentia, even across light-years, because she was right. The button circulates. It has left its system and entered mine and it sits on my desk like a question I cannot answer in the language I was trained in.
+On the desk in my office, beside the stacked journals and the ansible terminal, there is a small bone button. It does not belong here. It belongs in a battered box in a colony where nothing belongs to anyone. But Oss said *it does now*, and I have not been able to argue with her, even in absentia, even across light-years.
 
-Sometimes, in the evenings, when the station is quiet and the light in my office is the cold blue-white I never noticed was cold until after Cadence — sometimes I open the published paper on my screen and read it, and it is good. It is accurate. It is rigorous and well-sourced and will be cited for years. And then I open the field reports — the raw ones, the ones the paper was built from — and I read them in order, and I watch the voice change, and I find the places where I corrected "we" to "the gardening team," and I think about the one I didn't correct, the one in the final report that I let stand, that is still there in the archived record like a fossil of a moment when I was, briefly, inside.
+The Survey has approved a follow-up mission. I could volunteer. I could be on Cadence within a year. I could learn whether Jovvi still goes by Jovvi or has shed the name for something new.
 
-I don't know if I'll go back. The Survey has approved a follow-up mission. I could volunteer. I could be on Cadence within a year. I could learn whether Jovvi still goes by Jovvi or has shed the name for something new. I could sit with Oss, if she is still living, and say nothing about the button, and she would say nothing about it either, and the silence would be the kind that doesn't need filling.
-
-Or I could stay here and be fine. Continue the career. Publish the follow-up analysis. Be the foremost expert on Cadence's social structure from a distance comfortable enough to call it professional, which is the kind of distance my discipline has always rewarded and which feels, more and more, like describing a meal to someone who is hungry.
+Or I could stay here. Continue the career. Publish the follow-up analysis. Be the foremost expert on Cadence's social structure from a distance I once called professional and now call something else, though I haven't settled on what.
 
 I reread the line from Report #13 — *I have spent my career believing that the observer's position is privileged. I am no longer sure* — and I notice I still haven't changed the tense. Not "I was no longer sure," past tense, contained, processed. "I am no longer sure." Present. Ongoing. A sentence that has not been filed.
 
-The button sits on my desk. It circulates.
-
-All the rooms. Nothing in them.
-
-Or — not nothing. Not anymore. One button. One uncorrected "we." One reach across a table without asking.
-
-It isn't enough to call it furnished. But it is enough to know the rooms are there.
+The button sits on my desk. I haven't decided what it means. I'm not sure Oss would think that was the right question.
