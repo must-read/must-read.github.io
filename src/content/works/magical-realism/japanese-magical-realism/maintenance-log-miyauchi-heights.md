@@ -7,7 +7,7 @@ authorA: "Haruki Murakami"
 authorB: "Samanta Schweblin"
 workX: "The Wind-Up Bird Chronicle"
 workY: "Fever Dream"
-wordCount: 2727
+wordCount: 2764
 readingTimeMinutes: 11
 tags: ["story-as-document", "maintenance log", "apartment building", "disappearance", "domestic uncanny", "parent-child", "geological memory", "phantom trains", "contamination", "Japanese setting"]
 rating: 0
@@ -48,7 +48,7 @@ combination:
 
 Annual boiler inspection completed. Filter replaced (standard 200mm, ordered from Takahashi Supply, invoice #4412). Pressure gauge reads 1.4 bar, within normal operating range. Hot water circulation tested to all twelve units, confirmed functional. Response time from boiler ignition to hot water at furthest fixture (unit 5B, kitchen tap) measured at 3 minutes 40 seconds, consistent with previous years.
 
-Replaced fluorescent tube in second-floor hallway (east side), 40W daylight type. Tube had been flickering for approximately one week per report from Mrs. Nishida (2A). Flickering ceased upon replacement. Old tube disposed of properly.
+Replaced fluorescent tube in second-floor hallway (east side), 40W daylight type. Tube had been flickering for one week per report from Mrs. Nishida (2A). Flickering ceased upon replacement. Old tube disposed of properly.
 
 Cleared leaves and debris from drainage grate, north side of building. Accumulated leaf matter consistent with the zelkova on the neighboring property. Checked all exterior lighting. Bulb above rear entrance operating intermittently — replaced with same wattage. Front entrance fixture functioning normally.
 
@@ -60,7 +60,7 @@ Heard the 2:32 train. Checked the schedule posted in the maintenance office — 
 
 **January 11, 2026 — UNIT 4B — Plumbing**
 
-Mrs. Harada (4B) reported water dripping from the ceiling light fixture in her kitchen, onset approximately two days prior. Inspected unit 5B directly above for leak source. Checked all joints, supply lines, and drainage connections. No evidence of water damage, standing water, or pipe failure anywhere in 5B. Floor dry beneath all fixtures. Bathroom and kitchen seals intact. Inspected roof above 5B quadrant — membrane intact, no pooling, no cracks in flashing. Downpipes clear.
+Mrs. Harada (4B) reported water dripping from the ceiling light fixture in her kitchen, onset two days prior. Inspected unit 5B directly above for leak source. Checked all joints, supply lines, and drainage connections. No evidence of water damage, standing water, or pipe failure anywhere in 5B. Floor dry beneath all fixtures. Bathroom and kitchen seals intact. Inspected roof above 5B quadrant — membrane intact, no pooling, no cracks in flashing. Downpipes clear.
 
 Returned to 4B. Dripping continues at a rate of approximately one drop every nine seconds. Water is warm to the touch, noticeably warmer than ambient room temperature. Collected sample in a clean maintenance jar. Water has a faint odor I could not classify — not chemical, not sewage, not mineral. Sweet. Very faint. Mrs. Harada had not noticed it until I held the jar close and asked her to smell it. She agreed there was something but could not name it either.
 
@@ -82,7 +82,7 @@ Checked resident registry for all units accessible via stairwell B. No minors li
 
 **January 19, 2026 — UNIT 6A — Complaint**
 
-Received written complaint from unit 6A regarding noise between 23:00 and 1:00, described as "tapping inside the walls, rhythmic, like someone counting." Complaint was placed in the maintenance office mail slot sometime during the night of January 18. I found it at 6:45 a.m. when I opened the office.
+Received written complaint from unit 6A regarding noise between 23:00 and 1:00, described as "tapping inside the walls, rhythmic, like someone counting." Complaint was in the maintenance office mail slot when I opened the office at 6:45 a.m.
 
 Miyauchi Heights has five floors. There is no unit 6A. The building contains units 1A through 5B. No sixth floor exists or has ever existed. I have been superintendent here for eighteen years.
 
@@ -122,7 +122,7 @@ I note this for the record. I am not a geologist. The formations may have a simp
 
 **February 5, 2026 — COMMON AREAS, HALLWAYS — Observation**
 
-The smell has spread beyond 4B. It is present in the third-floor corridor, in the stairwell between 3 and 4, and faintly in the ground-floor entrance hall. Sweet, warm, specific. Not floral. Not chemical. Not decay. Mrs. Harada's description remains the most accurate I have encountered. Like skin after hot water. Like the particular warmth that lingers in a bathroom after someone has bathed and left — not steam exactly, but what steam carries.
+The smell has spread beyond 4B. It is present in the third-floor corridor, in the stairwell between 3 and 4, and faintly in the ground-floor entrance hall. Sweet, warm, specific. Not floral. Not chemical. Not decay. Mrs. Harada's description remains the most accurate I have encountered: like someone's hair after a bath. I would add: like the air in a bathroom after someone has left it, before the warmth dissipates.
 
 I have received no other complaints about the smell. I asked Mr. Goto (3B) directly if he had noticed anything unusual about the air quality in the corridor. He said no. I asked if the hallway smelled different to him. He stood in the corridor and inhaled slowly and said it smelled the way it always smelled. I could smell it while we were speaking. He could not.
 
@@ -160,7 +160,7 @@ The apartment is wrong.
 
 The window in the main room is on the south wall. It should be on the east wall. I have entered this apartment several thousand times over eighteen years — first as its occupant, then as superintendent of the building that contains it. The window was on the east wall. It is on the south wall now. The light comes in at a different angle, lower, warmer. The room is the same dimensions but the light is wrong and so the room is wrong.
 
-The closet in the bedroom opens onto a hallway. Not the hallway of the building — a narrow corridor, approximately 80cm wide, extending beyond the range of my flashlight into darkness. The walls of this corridor are damp. The air coming from inside is warm and carries the smell — the same smell from 4B, from the stairwell, from the corridors — but stronger here, almost thick, almost a taste at the back of the throat. Like standing in a room where someone has just finished crying in a hot bath. Grief and warm water and skin.
+The closet in the bedroom opens onto a hallway. Not the hallway of the building — a narrow corridor, approximately 80cm wide, extending beyond the range of my flashlight into darkness. The walls of this corridor are damp. The air coming from inside is warm and carries the smell — the same smell from 4B, from the stairwell, from the corridors — but concentrated. I held my breath and still tasted it at the back of my throat. Warm water and something underneath that I will not describe in a maintenance log.
 
 I closed the closet door. I opened it again. The corridor was still there.
 
@@ -176,26 +176,28 @@ I am recording this accurately. The window is on the south wall. The closet open
 
 Phone call received at 22:15. Caller ID displayed Yuki's number. I have not deleted it from my phone in four years. I have not called it either.
 
-She did not speak. I heard breathing — hers, I believe, though I cannot confirm — and behind the breathing, the sound of running water. Not a faucet. Not a pipe. Something larger. Like water moving through a space bigger than a room. Like a river under a building.
+She did not speak. I heard breathing — hers, I believe, though I cannot confirm — and behind the breathing, the sound of running water. Not a faucet. Not a pipe. Something larger. Like water moving through a space bigger than a room.
 
-I said: "The room is wrong. You were right about the room."
+I did not say anything for the first twenty seconds. Then I said: "The corridor is still there."
 
-The line was silent for approximately twelve seconds. Then it disconnected.
+I do not know why I said that instead of something else. There were other things I should have said.
 
-Call duration: forty-three seconds.
+The line went silent. Then it disconnected.
+
+Call duration: forty-one seconds.
 
 I attempted to return the call immediately. The number is not in service.
 
-**Action Taken**: Will attempt contact through other means.
+**Action Taken**: [None.]
 
 ---
 
 **February 15, 2026 — UNIT 3A / MAINTENANCE OFFICE — Pending**
 
-Returned to 3A this morning. Placed the following item on the bookshelf in the main room: K. Ogata, *Fossils of the Triassic Period*, juvenile reference edition, 2009. Yuki's name is written inside the front cover in green felt-tip pen, in the handwriting of a twelve-year-old. I gave it to her for her birthday. She read it four times.
+Returned to 3A this morning. The window was on the south wall. The corridor behind the closet was still there, but shorter — I could see the end of it now, or what appeared to be a wall where previously there had been only darkness. The water smell was fainter today, or I have become accustomed to it.
 
-The window was on the south wall. The corridor behind the closet was still there. The water smell was fainter today, or I have become accustomed to it.
+Placed the following item on the bookshelf in the main room: K. Ogata, *Fossils of the Triassic Period*, juvenile reference edition, 2009. Yuki's name is written inside the front cover in green felt-tip pen, in the handwriting of a twelve-year-old. I gave it to her for her birthday.
 
 The 2:32 came again last night. I did not time it.
 
-She will know where to find it.
+**Action Taken**: Pending.
