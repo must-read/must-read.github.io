@@ -7,8 +7,8 @@ authorA: "Elmore Leonard"
 authorB: "Chester Himes"
 workX: "The Friends of Eddie Coyle"
 workY: "A Confederacy of Dunces"
-wordCount: 3688
-readingTimeMinutes: 15
+wordCount: 3299
+readingTimeMinutes: 13
 tags:
   - heist
   - Detroit
@@ -99,11 +99,11 @@ Lyle slid out of the booth. At the register he nodded at the waitress, put three
 
 Devaughn sat in the booth for another ten minutes going over the plan in his head. The plan was clean. The plan was, if he was being honest with himself, beautiful. Sixteen expansion bolts. A socket wrench. A man who could rig. A flatbed with a hydraulic crane arm. A lookout, which was Janae, who'd done lookout work before on things Devaughn didn't ask about.
 
-The target was a twenty-foot copper rooster. A folk-art weathervane commissioned by the city for the new Livernois Plaza, arriving next week for installation, scheduled to be unveiled on Saturday. Devaughn had seen the engineering drawings. He'd requested them from the city planning office using a Freedom of Information request, which was technically true in the sense that he was a citizen requesting information and freedom was involved. The drawings showed everything: bolt pattern, pedestal dimensions, weight distribution. The rooster weighed eighteen hundred pounds. The flatbed's crane arm was rated for three thousand.
+The target was a twenty-foot copper rooster. A folk-art weathervane commissioned by the city for the new Livernois Plaza, arriving next week for installation, scheduled to be unveiled on Saturday. Devaughn had seen the engineering drawings. He'd requested them from the city planning office using a Freedom of Information request, which took him four tries because the first three times he described the rooster wrong, and the fourth time the clerk just handed it over because she wanted him to leave.
 
-Devaughn worked the numbers the way he worked a smudged zip code at the plant — methodically, rotationally, checking each variable against the ones adjacent to it. At the Detroit Processing and Distribution Center, he was the one they brought the impossible parcels to. A package with half the address torn off, postmark from somewhere in Pennsylvania, sender's name illegible except for what might be a K and what might be a W. Devaughn would hold it under the light and turn it and think about paper weight and ink type and the way people in different regions format their return addresses, and in four minutes he'd have a zip code that was right about seventy percent of the time, which doesn't sound impressive until you consider that the machine's accuracy rate was twelve.
+Devaughn worked at the Detroit Processing and Distribution Center, manual sort line. He was the one they brought the impossible parcels to. A package with half the address torn off, postmark from somewhere in Pennsylvania, sender's name illegible except for what might be a K. Devaughn would hold it under the light and turn it and think about paper weight and ink type, and in four minutes he'd have a zip code that was right about seventy percent of the time, which doesn't sound impressive until you consider that the machine got twelve.
 
-He believed this skill was transferable. He believed it deeply, the way people believe things they've never tested.
+He believed this skill was transferable.
 
 ---
 
@@ -115,7 +115,7 @@ The storage unit was on Livernois, three blocks south of the plaza. Tuesday nigh
 
 "Because the sight lines from Puritan Avenue are blocked by the construction barriers on the south side, so you start where you're most exposed and work toward cover."
 
-Oz looked at him. Oz was six-two, built like a man who carried things for a living, which he did. Haitian, from Delmas originally, had been in Detroit since 2014 doing contractor work, mostly demolition. Devaughn had found him through a guy at the plant who owed Devaughn forty dollars and was willing to make introductions to settle the debt.
+Oz looked at him. Oz was six-two, built like a man who carried things for a living, which he did. He'd been in Detroit since 2014 doing contractor work, mostly demolition.
 
 "I've rigged loads before," Oz said.
 
@@ -141,7 +141,7 @@ Oz took a pack of gum from his pocket, unwrapped a piece, folded it into his mou
 
 "Then we rig a spreader bar to the hook. I'm not dropping eighteen hundred pounds of copper because you calculated the center of gravity from a drawing."
 
-Devaughn felt something tighten behind his sternum. It wasn't anger exactly. It was the feeling of watching someone rearrange his mail into the wrong bins.
+Devaughn felt something tighten behind his sternum. It was the feeling of watching someone rearrange his mail into the wrong bins.
 
 "The plan accounts for—"
 
@@ -177,7 +177,7 @@ Terrell got out of the Durango. He was tall and thin and wearing a Pistons jerse
 
 "Man, I'm here. Put me to work."
 
-Devaughn looked at Janae. Janae was already walking toward the back of the storage unit, checking her phone. She wasn't going to help with this.
+Devaughn looked at Janae. Janae was on her phone, thumbing through something. She wasn't going to help with this.
 
 Lyle, in the flatbed's cab, had the window down. He'd been watching the whole exchange.
 
@@ -187,7 +187,7 @@ Lyle, in the flatbed's cab, had the window down. He'd been watching the whole ex
 
 "There is now."
 
-Devaughn stood in the middle of the storage unit lot with a twenty-three-page plan folded in his back pocket and five people where there should have been four, and he thought about the time he'd reconstructed an address from a postmark, three letters of a surname, and the weight of the envelope, and he'd been right, and the package had gone to a woman in Braddock, Pennsylvania, who'd been waiting for her mother's ring for six weeks. He was good at systems. Systems had rules.
+Devaughn stood in the middle of the storage unit lot with a twenty-three-page plan folded in his back pocket and five people where there should have been four. He was good at systems. Systems had rules.
 
 "Fine," Devaughn said. "Terrell holds the light."
 
@@ -211,7 +211,7 @@ The rooster was copper, oxidizing green at the wingtips already, standing on a c
 
 "Devaughn, I've been building things and tearing things down for eleven years. That bird is twenty-three feet if it's an inch."
 
-They stood there, two men arguing about the size of a copper rooster in a public plaza at 2 AM, and neither of them looked around to check if anyone was watching because each was too sure the other was wrong. Janae, who was the lookout, had walked to the corner and was looking out. Terrell was standing next to the pedestal touching the copper with his palm.
+They stood there, two men arguing about the size of a copper rooster in a public plaza at 2 AM, and neither of them looked around to check if anyone was watching because each was too sure the other was wrong. Janae, who was the lookout, had walked to the corner and was on her phone again. Terrell was standing next to the pedestal touching the copper with his palm.
 
 "It's warm," Terrell said. "The copper. It's warm."
 
@@ -259,8 +259,6 @@ Lyle looked at Terrell for a second. "How old are you?"
 
 "It's expensive is what it is."
 
-They were quiet for a moment. It was the most peaceful thirty seconds of the entire night.
-
 ---
 
 Oz got fourteen of the sixteen bolts out in nineteen minutes. The fifteenth bolt was rusted. Oz hit it with penetrating oil he'd brought — not in the plan — and waited three minutes, then put the socket on it and leaned.
@@ -287,21 +285,19 @@ Terrell walked over to the base of the pedestal.
 
 "I'm not touching anything."
 
-Oz signaled Lyle. Lyle started the crane arm from the cab controls. The hydraulic whine cut through the 2 AM silence like a dental drill. The slings went taut. The rooster shifted — a quarter inch, then a half inch. The last bolt groaned.
+Oz signaled Lyle. Lyle started the crane arm from the cab controls. The hydraulic whine opened up across the empty street. The slings went taut. The rooster shifted — a quarter inch, then a half inch. The last bolt groaned.
 
 "It's moving," Terrell said, and walked two steps closer to see it better, and his left foot caught the rigging cable running from the spreader bar to the crane arm.
 
-What happened next took about three seconds. The cable jerked sideways. The spreader bar torqued. The rooster, which had been lifting straight, swung east. The beak — eighteen inches of pointed copper, heavy as a fire hydrant — came down in an arc and punched through the flatbed's rear left tire with a sound like a man hitting a watermelon with a baseball bat.
+The cable jerked sideways. The spreader bar torqued. The rooster, which had been lifting straight, swung east. The beak — eighteen inches of pointed copper, heavy as a fire hydrant — came down in an arc and punched through the flatbed's rear left tire. The sound was wet and final, like something that wasn't supposed to open had opened.
 
-The truck dropped three inches on that corner. Oz was yelling something in Creole. Terrell was on the ground holding his ankle where the cable had caught him. The rooster hung at a forty-degree angle from the pedestal, its beak embedded in the tire, one wing scraping the truck bed, tail feathers still pointing at the sky.
+The truck dropped three inches on that corner. Oz was yelling something in Creole. Terrell was on the ground holding his ankle where the cable had caught him. The rooster hung at a forty-degree angle from the pedestal, its beak buried in the tire, one wing scraping the truck bed, tail feathers still pointing at the sky.
 
 Janae came running from the corner. "What the hell was that?"
 
 "We're fine," Devaughn said.
 
 "Does that look fine to you?"
-
-Devaughn was already recalculating. He could feel the pathways opening in his head the way they did when he had a package with no zip code and half a name — variables rearranging, alternatives presenting themselves.
 
 "Okay," he said. "So we free the beak from the tire. Oz, you adjust the sling tension to bring it back to center. We complete the lift, set it on the bed, and we drive on the flat. It's three blocks."
 
@@ -329,23 +325,17 @@ Devaughn turned. Lyle was climbing down from the cab.
 
 Lyle zipped his jacket. He put his hands in his pockets. He looked at Devaughn with an expression that was not angry or disappointed or contemptuous but was something worse than all three, which was the expression of a man who had already stopped thinking about you.
 
-"My daughter's tuition is due Friday," Lyle said. "You paid me eight hundred dollars. That's the tuition. I have it. I don't have a reason to be standing in a plaza at three in the morning with a copper bird hanging off my truck."
+"You paid me eight hundred dollars," Lyle said. "I have it. I don't have a reason to be standing here."
 
 "We had a deal."
 
 "The deal was I drive the truck. Truck's not driving anywhere."
 
-Devaughn looked at him — really looked — and for one second he could almost see it, the thing he kept missing, the thing that made people different from mail. The package doesn't want anything. The package doesn't have a daughter at Wayne State. The package sits on the belt and waits for you to read it. Lyle wasn't waiting for anything. Lyle had already left. His body just hadn't caught up.
-
-"Lyle."
-
-"Take care, Devaughn."
-
 Lyle walked north on Livernois, hands in his pockets, not fast, not slow. At the first intersection he turned west without looking back.
 
 ---
 
-Oz worked for another twenty minutes. Nobody asked him to. He freed the beak from the tire, readjusted the slings, and used the come-along to manually crank the rooster the rest of the way off the pedestal. It came down on its side in the plaza with a deep copper bong that rolled across the empty street like a bell at the bottom of the ocean.
+Oz worked for another twenty minutes. Nobody asked him to. He freed the beak from the tire, readjusted the slings, and used the come-along to manually crank the rooster the rest of the way off the pedestal. It came down on its side in the plaza with a deep copper bong that you could feel in your back teeth.
 
 They stood around it. Devaughn, Oz, Janae, Terrell still on the ground but sitting up now, his ankle swelling inside his basketball shoe.
 
@@ -431,7 +421,9 @@ Devaughn looked up.
 
 "On paper," Oz said. "It was a good plan on paper." He walked out.
 
-Janae drove Terrell to urgent care on Grand River. Devaughn sat in the booth. The waitress refilled his coffee without asking. He turned the napkin over and started a new drawing — the same plan, corrected, optimized, the version that would have worked if the world had cooperated.
+Janae's phone buzzed. She looked at it, frowned, put it back in her pocket without answering. "I gotta take Terrell to urgent care," she said. "His ankle's the size of a grapefruit."
+
+Devaughn sat in the booth. The waitress refilled his coffee without asking. He turned the napkin over and started a new drawing — the same plan, corrected, optimized, the version that would have worked if the world had cooperated.
 
 ---
 
@@ -441,6 +433,4 @@ He held it under the light. He turned it. He looked at the postmark — Newark, 
 
 Roselle, New Jersey. Maybe Roselle Park. He'd check the route.
 
-He put the envelope in his maybe bin and picked up the next one. His hands were steady. His focus was absolute. He was the best sorter on the floor and everybody knew it and nobody cared very much, which was a sentence that described more about Devaughn Watts than any plan he would ever draw on a napkin at three in the morning.
-
-The rooster was found that Tuesday by a woman walking her dog at 6:15 AM. It was lying on its side in Livernois Plaza, one wing bent, beak dented. The flatbed was towed. There was a brief article in the Free Press. No arrests were made. The police report listed the incident as vandalism, which was wrong, but not in a way that mattered to anyone involved.
+He put the envelope in his maybe bin and picked up the next one. His hands were steady. His focus was absolute. He was the best sorter on the floor and everybody knew it and nobody cared very much.
