@@ -10,8 +10,8 @@ workY: "Macbeth (Shakespeare)"
 wordCount: 5980
 readingTimeMinutes: 24
 tags: [grimdark, multiple-perspectives, prophecy, ambition, tribunal, unreliable-narrators]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: 2026-02-22
 status: draft
 formulaSummary: "Abercrombie's grimdark viscerality and Rothfuss's lyrical prose structure three unreliable testimonies (Rashomon) about a warlord's death foretold by prophecy (Macbeth)"
