@@ -7,8 +7,8 @@ authorA: "Jane Austen"
 authorB: "Nora Roberts"
 workX: "The Night Circus (Erin Morgenstern)"
 workY: "Uprooted (Naomi Novik)"
-wordCount: 4665
-readingTimeMinutes: 19
+wordCount: 4588
+readingTimeMinutes: 18
 tags:
   - romantasy
   - magic-competition
@@ -45,13 +45,13 @@ combination:
 
 The valley was dying from the center, the way a fern dies when the roots have given up but the fronds have not yet received the news.
 
-Lark Vellaine knew this the way she knew most things worth knowing — through her knees, which were pressed into the cold earth at the edge of the Briar Valley clearing, and through her palms, which she had laid flat against the soil before anyone could tell her not to. The ground had the particular deadness of land that had been managed without being listened to. Tended, certainly. The furrows were geometrically precise. The drainage channels had been calibrated to carry runoff in exactly the patterns the College of Thresholds recommended for a temperate alluvial valley. Everything was correct. Everything was dying.
+Lark Vellaine knew this the way she knew most things worth knowing — through her knees, which were pressed into the cold earth at the edge of the Briar Valley clearing, and through her palms, which she had laid flat against the soil before anyone could tell her not to. The ground had the deadness of land that had been managed without being listened to. Tended, certainly. The furrows were geometrically precise. The drainage channels had been calibrated to carry runoff in exactly the patterns the College of Thresholds recommended for a temperate alluvial valley. Everything was correct. Everything was dying.
 
 She closed her eyes. Beneath her hands, something answered. Not the soil itself — something older, something the soil was holding. Old grief, dense and ferrous, leaching upward the way iron leaches from a buried nail. The valley remembered a love that had ended here. Two hundred years of rain had not washed it out.
 
 "You'll contaminate your reading if you touch the soil before the calibration sequence."
 
-The voice came from behind her: precise, unhurried, and carrying the particular authority of someone who had never once doubted that the correct way to do a thing was also the only way to do it.
+The voice came from behind her: precise, unhurried, and carrying the authority of someone who had never once doubted that the correct way to do a thing was also the only way to do it.
 
 Lark turned. Rowan Ashfeld was standing at the edge of the clearing. He was tall in the way of men who had been tall since boyhood and had learned to compensate by holding very still — as though height were a disturbance he was attempting not to cause. He wore the dark blue of a College ward-architect and carried an instrument case of oiled leather, and he was looking at her as though she were a species he had not yet classified but suspected of being invasive.
 
@@ -63,7 +63,7 @@ It was not a question. She understood that he had read her registration, noted h
 
 "And you are the man they sent to tend a valley he has never touched."
 
-Something moved behind his eyes. Not offense — he was too disciplined for that. Recognition, perhaps, that she had aimed and connected. He set down his instrument case and opened it with the economical movements of someone who had unpacked this case a thousand times and would unpack it a thousand more. Inside, tuning forks of graduated sizes lay in velvet channels. They caught the morning light and held it, trembling.
+Something moved behind his eyes. Not offense — he was too disciplined for that. Recognition, perhaps, that she had aimed and connected. He set down his instrument case and opened it with the economical movements of someone who had unpacked this case a thousand times. Inside, tuning forks of graduated sizes lay in velvet channels. They caught the morning light and held it, trembling.
 
 "I have tended eleven valleys," he said, "and all of them are thriving."
 
@@ -95,7 +95,7 @@ Not the College-approved cultivar that grew in regulated rows outside every ward
 
 The hawthorn grew.
 
-It grew the way wild things grow — not upward in an orderly column but outward, sideways, tangling into itself, sending runners through the topsoil and suckers through the clay. In four hours the three seeds had become a grove, thirty trees in a space designed for six, their branches interlocked in the intimate chaos of a crowd that has been waiting to gather. The blossoms opened white and went to pink as though blushing, and the air around them carried a scent that Lark had not planted and could not have planned: the smell of wet stone after summer rain. The valley's memory of every rain that had ever fallen on it, released in a single exhalation of petrichor so dense that Lark could taste it on her teeth.
+It grew the way wild things grow — not upward in an orderly column but outward, sideways, tangling into itself, sending runners through the topsoil and suckers through the clay. In four hours the three seeds had become a grove, thirty trees in a space designed for six, their branches interlocked in the intimate chaos of a crowd that has been waiting to gather. The blossoms opened white and went to pink as though blushing, and the air around them carried a scent that Lark had not planted and could not have planned: the smell of wet stone after summer rain. The valley's memory of every rain that had ever fallen on it, released in a single exhalation of petrichor so dense she could taste it on her teeth.
 
 She stepped back. The grove was beautiful. It was also, she realized with a discomfort she did not wish to examine, oriented. Every blossom faced north. Toward the section of valley where Rowan was working.
 
@@ -107,7 +107,7 @@ She walked toward it. She should not have. The competition did not require her t
 
 She walked toward it anyway.
 
-He had built a resonance arch. Two pillars of compressed ward-energy rose from the valley floor, joined at the apex by a keystone of pure harmonic calibration. The structure was invisible — ward-architecture always was — but standing beneath it, Lark could hear the subsonic hum of the mycorrhizal network amplified to the threshold of audibility. The fungal highways beneath their feet, carrying sugar and water and chemical warnings between trees that could not move but had never, in three hundred million years, stopped talking to each other. His arch made the conversation audible. She could hear the oldest oak asking the youngest birch for phosphorus. She could hear the hazel reporting a drainage change to the alder. She could hear, beneath all of it, the low constant murmur of a network that had been going quiet under institutional management and was now, inside the range of his arch, remembering how to speak.
+He had built a resonance arch. Two pillars of compressed ward-energy rose from the valley floor, joined at the apex by a keystone of pure harmonic calibration. The structure was invisible — ward-architecture always was — but standing beneath it, Lark could hear the subsonic hum of the mycorrhizal network amplified to the threshold of audibility. The fungal highways beneath their feet, carrying sugar and water and chemical warnings between trees that could not move but had never stopped talking to each other. His arch made the conversation audible. She could hear the oldest oak asking the youngest birch for phosphorus. She could hear the hazel reporting a drainage change to the alder. She could hear, beneath all of it, the low constant murmur of a network that had been going quiet under institutional management and was now, inside the range of his arch, remembering how to speak.
 
 His spellwork was beautiful the way a theorem is beautiful — everything in its place, nothing wasted, the logic so clean it verged on cruelty.
 
@@ -117,25 +117,25 @@ She heard it immediately. The harmonic relationship between his resonance and he
 
 Lark stood beneath his arch and listened to her own magic singing back to her in a register she had not known it possessed, and she thought: *He has been paying attention. From the first morning. He has been paying attention.*
 
-She left the arch quickly. The petrichor followed her — her own scent, amplified by his structure, clinging to her clothes and hair. She did not look back at where Rowan stood at the northern boundary, hands clasped behind his back, watching her with an expression she refused to interpret. She did not need to look back. She could feel his arch humming behind her like a held breath, and her hawthorn leaning toward it like a held answer, and the space between the two workings charged with something that had nothing to do with competition and everything to do with the particular, infuriating fact that he had listened to her magic before he had listened to her.
+She left the arch quickly. The petrichor followed her — her own scent, amplified by his structure, clinging to her clothes and hair. She did not look back at where Rowan stood at the northern boundary, hands clasped behind his back, watching her with an expression she refused to interpret. She did not need to look back. She could feel his arch humming behind her like a held breath, and her hawthorn leaning toward it like a held answer, and the space between the two workings charged with something that had nothing to do with competition and everything to do with the infuriating fact that he had listened to her magic before he had listened to her.
 
 ---
 
 The second round she lost her footing.
 
-She had been pulling deeper — drawing on the old grief the valley held in its water table, trying to use that sorrow as fuel for a second planting. Her grandmother had taught her that the strongest growth comes from composted pain, that the richest soil is always the soil where something has died. But the grief in this valley was not composted. It was raw. It was two hundred years old and it had not decomposed at all because no one had ever acknowledged it was there.
+She had been pulling deeper — drawing on the old grief the valley held in its water table, trying to use that sorrow as fuel for a second planting. Her grandmother had taught her that the strongest growth comes from composted pain, that the richest soil is always the soil where something has died. But the grief in this valley was not composted. It was raw. Two hundred years old and it had not decomposed at all because no one had ever acknowledged it was there.
 
 The grief hit her like a door swinging open onto a room she had not known existed in her own house. Two practitioners. A woman whose magic grew wild and a man whose magic built walls. They had loved each other in this valley, and they had tried to merge their workings, and the merge had failed, and the failure had killed something in the soil that had never recovered. The woman's wild magic had burned out the man's structures. His structures had strangled her growth. They had destroyed each other trying to become one thing, and the valley had absorbed the destruction the way valleys do — silently, into the water table, where it would leach into every root and every well for centuries.
 
 Lark staggered. The borrowed sorrow was so heavy she dropped to her knees, and for a terrible moment she could not distinguish the old grief from her own — could not tell whether she was feeling a dead woman's heartbreak or the anticipatory echo of her own. She pressed her palms into the soil and the soil gave her everything: the smell of smoke, the taste of iron, the sound of a man's voice saying *I cannot reach you* over and over into a silence that would not answer.
 
-From across the valley, something changed. A pressure — firm, calibrated, architectural — wrapped around her wild magic like a trellis around a vine. Rowan's ward. He had extended it without being asked. He had been watching closely enough to see her falter, and he had adjusted his resonance to stabilize her, and the structure settled around her chaos with the precision of a hand finding the exact right place on a back that has been in pain for a long time.
+From across the valley, something changed. A pressure — firm, calibrated, architectural — wrapped around her wild magic like a trellis around a vine. Rowan's ward. He had extended it without being asked. He had been watching closely enough to see her falter, and he had adjusted his resonance to stabilize her, and the structure settled around her chaos with the precision of a hand finding the exact right place on a back that has been hurting for a long time.
 
 It worked. The borrowed grief receded. Lark's own magic steadied. She could breathe.
 
 She was furious.
 
-She was not, she told herself, grateful. Gratitude implied a debt, and she owed this man nothing. That his ward had steadied her when the valley's grief threatened to pull her under was a fact of magical mechanics, nothing more — a structural resonance dampening an unstable frequency, the way a tuning fork stills a vibrating glass. That he had chosen to extend it without being asked — that he had been watching closely enough to see her falter — was a piece of information she declined to examine. She examined it anyway. She examined it the way one examines a letter one knows one should not have opened: quickly, guiltily, and with the sinking recognition that the contents cannot be unread.
+She was not, she told herself, grateful. Gratitude implied a debt, and she owed this man nothing. That his ward had steadied her when the valley's grief threatened to pull her under was a fact of magical mechanics, nothing more — a structural resonance dampening an unstable frequency, the way a tuning fork stills a vibrating glass. That he had chosen to extend it without being asked — that he had been watching closely enough to see her falter — was information she declined to examine. She examined it anyway, the way you examine a letter you know you should not have opened: quickly, guiltily, and with the sinking recognition that the contents cannot be unread.
 
 She found him at the northern boundary. He was recalibrating his tuning forks with the careful, unhurried movements of a man who wanted very much to appear as though nothing had happened.
 
@@ -147,7 +147,7 @@ She found him at the northern boundary. He was recalibrating his tuning forks wi
 
 "It stabilized your working. There is a difference, though I understand if the distinction is uncomfortable."
 
-"Uncomfortable." The word sat between them like a coin on a counter. She wanted to slap it off. "You adjusted your resonance to match my frequency. Without asking. Without warning. You reached into my magic and —"
+"Uncomfortable." She wanted to slap the word off the table between them. "You adjusted your resonance to match my frequency. Without asking. Without warning. You reached into my magic and —"
 
 "Steadied it. Yes." Now he looked up. His eyes were the grey of the sky through the crown-shy gaps. "You were drowning in something. I could feel it from forty yards. Old grief, concentrated, unprocessed. If you had pulled that into your hawthorn grove, the root systems would have carried the contamination into the mycorrhizal network and the whole section would have gone toxic. I made a professional assessment."
 
@@ -161,9 +161,9 @@ The silence that followed was the loudest sound Lark had ever heard in the Briar
 
 "Not entirely," he said.
 
-Lark left. She walked south through her hawthorn grove and did not stop until the blossoms were behind her and the scent of petrichor had faded and she was standing alone at the boundary of the competition section, breathing hard, her hands shaking. The evening was coming on. The light through the crown-shy gaps had gone amber, then copper, and the shadows of the oaks lay across the valley floor in long parallel lines — like the bars of something that was not a cage but felt, in that moment, like a cage's near relation.
+Lark left. She walked south through her hawthorn grove and did not stop until the blossoms were behind her and the scent of petrichor had faded and she was standing alone at the boundary of the competition section, breathing hard, her hands shaking. The evening was coming on. The light through the crown-shy gaps had gone amber, then copper, and the shadows of the oaks lay across the valley floor in long parallel lines — like the bars of something that was not a cage but felt, in that moment, adjacent.
 
-She pressed her palms to the soil. The valley hummed beneath her — not the old grief now but something newer, less catalogued. Recognition, maybe. Or the first faint vibration of a frequency she did not yet have a name for.
+She pressed her palms to the soil. The valley hummed beneath her — not the old grief now but something newer, less catalogued.
 
 ---
 
@@ -173,11 +173,11 @@ He built a lattice. A sympathetic resonance lattice — the term was his traditi
 
 The lattice was structured and elegant and enduring and cold. Not cold as in cruel. Cold as in a cathedral in winter: magnificent, hushed, and empty of the thing that would make it holy.
 
-Lark stood in the center of his lattice and felt the spaces. The nodes were perfectly calibrated. The harmonic relationships were flawless. And at every junction where a ward met the soil, there was a gap — a small, precise emptiness where something alive should root and grow but nothing did. His lattice was a trellis with no vine. An instrument with no musician. A structure built to hold something that he did not possess and could not grow.
+Lark stood in the center of his lattice and felt the spaces. The nodes were perfectly calibrated. The harmonic relationships were flawless. And at every junction where a ward met the soil, there was a gap — a small, precise emptiness where something alive should root and grow but nothing did. His lattice was a trellis with no vine. An instrument with no musician.
 
-She understood him then. Not the way one understands an argument — by dismantling it — but the way one understands a landscape: by standing in it long enough that its logic becomes your own. Rowan's lattice was not a bid for victory. It was a confession. He had built the most beautiful structure he knew how to build, and it was not enough, and he knew it was not enough, and the knowing was there in every empty junction — the spaces where his magic reached for something that was not there and held its shape anyway, the way a hand holds its shape around an absence.
+She understood him then. Not the way one understands an argument — by dismantling it — but the way one understands a landscape: by standing in it long enough that its logic becomes your own. His lattice was not a bid for victory. It was a confession. He had built the most beautiful structure he knew how to build, and it was not enough, and he knew it was not enough, and the knowing was there in every empty junction — the spaces where his magic reached for something that was not there and held its shape anyway.
 
-She sat on the cold ground in the center of his incomplete masterwork. The ward-energy pulsed around her in slow, even waves — his heartbeat, she realized, or something close to it, something the lattice had absorbed from its maker and could not stop reproducing. She put her face in her hands and felt something crack open in her chest that she had been keeping sealed since she was sixteen years old and found her grandmother's annotated report among the dead woman's things. The corrections in the margins. The theoretical framework no one had asked for. The proof that wild magic had structure — its own structure, not the College's, not anyone's — that her grandmother had written out in her careful hand and that no assessor had ever read.
+She sat on the cold ground in the center of his incomplete masterwork. The ward-energy pulsed around her in slow, even waves — his heartbeat, she realized, or something close to it, something the lattice had absorbed from its maker and could not stop reproducing. She put her face in her hands.
 
 Rowan's lattice had spaces for wild magic. He had built them in. He had designed his structure with junctions where institutional ward-work could not reach and something else — something he did not understand but had made room for — was meant to take root.
 
@@ -201,9 +201,9 @@ Lark looked at Rowan across fifty feet of churned soil and hawthorn blossom and 
 
 "I know. I read the College records."
 
-"Your College records don't mention that she had a theoretical framework. That she understood the structure of her own magic. They classified her as folk remediation without theoretical foundation." The words came out harder than she intended. "I found the assessor's report. In my grandmother's things."
+"Your College records don't mention that she understood the structure of her own magic. They classified her as folk remediation without theoretical foundation." The words came out harder than she intended. "I found the assessor's report. In my grandmother's things."
 
-Something changed in his expression. Not surprise — he was too controlled for surprise. But something shifted, as though a frequency he had been tuning to for a long time had suddenly resolved into clarity.
+Something shifted in his expression — as though a frequency he had been tuning to for a long time had suddenly resolved into clarity.
 
 "Your grandmother was the last wild practitioner of this valley."
 
@@ -211,11 +211,7 @@ Something changed in his expression. Not surprise — he was too controlled for 
 
 "The assessor was wrong."
 
-"I know."
-
-"I mean — the classification. Folk remediation. It was wrong. I have been standing in your hawthorn grove for three days and there is nothing folk about it. The root architecture follows a fractal pattern that no institutional model accounts for. The mycorrhizal integration is more precise than anything I have achieved with calibrated wards. Your magic has structure. It is not my structure. That does not make it structureless."
-
-Lark said nothing. She was aware that her throat was tight and her eyes were burning and that if she spoke she would say something that could not be taken back.
+Lark said nothing. She was aware that her throat was tight and her eyes were burning and that if she spoke she would say something that could not be taken back. He seemed to understand that the silence required him to keep going or to stop. He kept going.
 
 "We don't have to merge," he said. "We can each withdraw. The valley will find someone else, or it won't. In fifty years another competition, another pair of practitioners who have nothing in common and everything to lose."
 
@@ -227,7 +223,7 @@ She looked up at the crown-shy canopy. The dark gaps were narrower than they had
 
 "If we merge," she said, "your harmonics will resonate at my frequency. You won't be able to control it. Your entire system — everything you've calibrated, everything you've tuned — will be penetrated by something you can't categorize."
 
-"I know." He set down his instrument case. She had never seen him without it. His hands, unburdened, looked younger. "The College calls that sympathetic resonance. When a passive string vibrates in response to an external vibration at a harmonic frequency. It is a well-understood principle."
+"I know." He set down his instrument case. She had never seen him without it. His hands, unburdened, looked younger. "The College calls that sympathetic resonance. When a passive string vibrates in response to an external vibration at a harmonic frequency."
 
 "Between a practitioner and the world. Not between two practitioners."
 
@@ -245,9 +241,9 @@ The valley waited. The oaks leaned.
 
 "You are not making this easier."
 
-"I am making it accurate. There is a difference."
+"I am making it accurate."
 
-She almost smiled. She caught it before it reached her mouth, but not before it reached her eyes, and she watched him see it — watched his gaze track the expression as it crossed her face, the way a man watches a bird he did not expect to land on his hand.
+She almost smiled. She caught it before it reached her mouth, but not before it reached her eyes, and she watched him see it — watched his gaze track the expression the way a man watches a bird he did not expect to land on his hand.
 
 They walked to the center of the section. The soil between them was churned from five days of competing magic — hawthorn roots and ward-traces tangled together in the topsoil like two handwritings on the same page. Lark knelt. Rowan knelt opposite her. Two feet of ruined ground between them.
 
@@ -265,20 +261,22 @@ Not restraining. Steadying.
 
 "Don't stop," he said. His voice was rough. She had never heard his voice rough. "The lattice will hold. I built it to hold."
 
-She pushed. He held. Her hawthorn roots tore through his ward-junctions and his wards wrapped around her roots and the soil between them churned and heaved like something alive being born. The old grief in the water table surged upward — two hundred years of a dead woman's heartbreak meeting the living magic of her granddaughter — and Lark felt it hit her like a wall of cold water and she did not stagger because his structure was there, because his resonance had found her frequency and was vibrating at it now, not the tuned precision of his tradition but something raw and untested, a harmony neither of them had composed.
+She pushed. He held. Her hawthorn roots tore through his ward-junctions and his wards wrapped around her roots and the soil between them churned and heaved like something alive being born. The old grief in the water table surged upward — two hundred years of a dead woman's heartbreak meeting the living magic of her granddaughter — and Lark felt it hit her and she did not stagger because his structure was there, because his resonance had found her frequency and was vibrating at it now, not the tuned precision of his tradition but something raw and untested, a harmony neither of them had composed.
 
-It was not beautiful. The hawthorn grew in directions she had not planned. His wards bent into shapes the College had no notation for. The petrichor flooded back — the smell of every rain the valley had ever held — and beneath it something new: the scent of turned earth, of growth, of soil that has been broken open and is not yet sure whether the breaking was damage or planting.
+It was not beautiful. The hawthorn grew in directions she had not planned. His wards bent into shapes the College had no notation for. The petrichor flooded back — the smell of every rain the valley had ever held — and beneath it something new: the scent of turned earth, of growth, of soil broken open before it knows whether the breaking is damage or planting.
 
-Above them, the crown-shy oaks shivered. The *tywyll bwlch* — the dark gaps — narrowed, and narrowed, and closed. The trees touched. Leaf to leaf, branch to branch, the canopy sealed itself for the first time in centuries, and the light in the valley changed — went green and dappled and young — and Lark felt the mycorrhizal network beneath her knees roar back to life like a river finding its old channel.
+Above them, the crown-shy oaks shivered. The *tywyll bwlch* narrowed. Not all the way. Some gaps closed — leaf touching leaf, branch finding branch — and some held, uncertain, the canopy patching itself in places and leaving sky in others, the way any healing is partial and uneven and does not happen on schedule.
 
-She and Rowan knelt in the valley they had remade together, breathing hard, not looking at each other. His hand was still on her wrist. Her roots were still in his lattice. The distance between them — two feet of churned-up soil and old grief and the smell of petrichor — was exactly the same distance it had always been. She did not step toward him. He did not reach for her. The oaks above them held their new closeness with the tentative commitment of trees that have not yet decided whether touching is permanent.
+Lark felt the mycorrhizal network stir beneath her knees. Not the roar she had expected. A murmur. Tentative, the way circulation returns to a limb that has been asleep — sensation before strength, the network remembering what it had been before it decided whether to become that again.
 
-When she spoke, it was not about the competition. It was not about the magic or the Keepership or the valley's judgment.
+She and Rowan knelt in the valley they had changed together, breathing hard, not looking at each other. His hand was still on her wrist. Her roots were still in his lattice. The distance between them — two feet of churned-up soil and old grief and petrichor — was exactly the same distance it had always been. She did not close it. He did not reach.
+
+Something in the hawthorn grove had gone wrong — a cluster of trees at the eastern edge leaning at bad angles, their roots half-exposed where the merge had disrupted the soil structure. She could feel it: her magic and his, not yet fluent with each other, producing harmonies in some places and dissonance in others. The working was alive. It was also incomplete, and fragile, and would need tending they had not yet learned how to do.
 
 "Your resonance arch," she said. "You tuned it to my hawthorn. On the first day."
 
-The subsonic hum of their merged working filled the silence. Somewhere in the hawthorn grove, a blossom was still turning pink.
+The subsonic hum of their merged working filled the silence. It was not a clean sound. It wavered.
 
 "I know," he said.
 
-His hand was still on her wrist. The valley held its breath. The oaks did not pull apart.
+His hand was still on her wrist. The oaks held what closeness they had managed. Some of the dark gaps remained — would perhaps always remain — but the light through them had changed, and the valley beneath it was no longer the same valley it had been five days ago, and neither were they, and Lark did not yet know what that would cost.
