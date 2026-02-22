@@ -10,8 +10,8 @@ workY: "Piranesi"
 wordCount: 3731
 readingTimeMinutes: 15
 tags: ["food", "family", "inheritance", "confinement", "mexico"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Russell's deadpan fabulism and Esquivel's food-as-emotion meet Allende's multigenerational compression and Clarke's wonder-in-confinement"

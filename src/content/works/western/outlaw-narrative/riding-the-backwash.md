@@ -10,8 +10,8 @@ workY: "Butch Cassidy and the Sundance Kid"
 wordCount: 5028
 readingTimeMinutes: 20
 tags: ["outlaws", "wyoming", "1899", "pursuit", "identity"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Leonard's snappy criminal dialogue and Proulx's brutal landscape prose meet McCarthy's pursuit structure and Goldman's mythology of charming outlaws facing obsolescence"

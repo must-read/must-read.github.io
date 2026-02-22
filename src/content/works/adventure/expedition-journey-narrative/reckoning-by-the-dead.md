@@ -18,8 +18,8 @@ tags:
   - dead-reckoning
   - rift-valley
   - female-protagonist
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: >

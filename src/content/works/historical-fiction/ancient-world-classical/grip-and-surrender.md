@@ -18,8 +18,8 @@ tags:
   - bithynia
   - antinous
   - ancient-rome
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: >
