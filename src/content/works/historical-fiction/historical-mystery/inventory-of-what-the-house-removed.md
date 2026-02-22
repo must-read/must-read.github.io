@@ -10,10 +10,10 @@ workY: "The Little Stranger"
 wordCount: 7516
 readingTimeMinutes: 30
 tags: ["dual-timeline", "victorian", "postwar", "country-house", "inquest", "queer-subtext", "class", "cataloguing", "mystery", "historical"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Mantel's present-tense political consciousness meets Waters's atmospheric domestic dread in a dual-timeline mystery spanning 1889 and 1947. A Victorian companion's suppressed testimony and a postwar cataloguer's meticulous inventory converge on the same country house, where official records and architectural absences reveal what was deliberately erased."
 synopsis: "A woman cataloguing a dying Yorkshire estate in 1947 discovers gaps in the inventory that trace back to an 1889 death, a rigged inquest, and a companion whose silence protected the woman she loved — and erased her from the record."
 combination:

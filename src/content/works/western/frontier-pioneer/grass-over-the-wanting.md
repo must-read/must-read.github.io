@@ -10,10 +10,10 @@ workY: "Little House on the Prairie"
 wordCount: 4901
 readingTimeMinutes: 20
 tags: ["retrospective narrator", "frontier homesteading", "sod house", "Nebraska prairie", "memory and loss", "pioneer women", "elegiac", "1860s-1870s"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "A retired railroad surveyor writes from a Nebraska hotel room in 1923, trying to reconstruct the Bohemian homesteader he watched as a boy — her labor, her silence, her face he can no longer recall. Proulx's compressed landscape-prose and McMurtry's elegiac warmth frame a retrospective narration modeled on My Ántonia, while Little House domestic granularity renders the sod-brick weight of frontier survival."
 synopsis: "In 1923, old Arlo Falk tries to write down everything he remembers about Edith Vanek, the Bohemian homesteader on the neighboring claim. He can recall every task her hands performed but not her face."
 combination:

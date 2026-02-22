@@ -18,10 +18,10 @@ tags:
   - slow-light
   - collective-decision
   - physicist-protagonist
-rating: 1
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: >
   Liu Cixin's mathematical precision and cosmic dread fuse with Le Guin's
   anthropological attention to communal life under pressure. The Three-Body

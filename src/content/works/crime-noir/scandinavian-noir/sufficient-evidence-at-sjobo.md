@@ -10,10 +10,10 @@ workY: "The Remains of the Day"
 wordCount: 5927
 readingTimeMinutes: 24
 tags: ["scandinavian-noir", "police-procedural", "institutional-critique", "unreliable-narrator", "story-as-document", "immigration", "xenophobia", "rural-sweden", "cold-case", "risk-card"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Mankell's flat procedural prose and Skåne moral landscape meet Ishiguro's technique of devastation through omission, as a retired detective's internal case review of a rural murder — echoing Faceless Killers' xenophobic misdirection — gradually becomes the kind of retrospective confession The Remains of the Day withholds until it's too late."
 synopsis: "A retired Swedish detective's formal internal review of a 1993 murder case in Skåne slowly disintegrates, the procedural language cracking to reveal a man who stopped investigating at the moment the evidence pointed away from the convenient suspect."
 combination:

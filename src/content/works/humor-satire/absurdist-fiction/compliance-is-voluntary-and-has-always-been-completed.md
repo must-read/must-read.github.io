@@ -16,10 +16,10 @@ tags:
   - institutional-absurdism
   - identity
   - compliance
-rating: 3.0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-21"
-status: "draft"
+status: "published"
 formulaSummary: >
   Adams's deadpan cosmic absurdism and guidebook device merge with Kafka's
   matter-of-fact treatment of nightmare as ordinary. A compliance officer
