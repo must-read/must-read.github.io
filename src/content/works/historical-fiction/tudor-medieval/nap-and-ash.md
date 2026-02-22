@@ -7,8 +7,8 @@ authorA: "Viet Thanh Nguyen"
 authorB: "Ken Follett"
 workX: "The Name of the Rose"
 workY: "Wolf Hall"
-wordCount: 6951
-readingTimeMinutes: 28
+wordCount: 6297
+readingTimeMinutes: 25
 tags:
   - tudor
   - yorkist-conspiracy
@@ -136,9 +136,7 @@ He asked me why. I told him: to finish a consignment of broadcloth commissioned 
 
 He asked me about my origins, and I performed the foreigner. I made my accent thicker. I confused my tenses. I referred to the prior as "the big priest," which is not how I think of him but which made the interpreter smile and the commissioner dismiss me from his attention as a person capable of political understanding. This is the refugee's art — not the lie, exactly, but the strategic diminishment, the voluntary stupidity that allows the powerful to feel comfortable in the presence of someone they cannot place in their categories. I have done it in Bruges, in Antwerp, in London, in three towns whose English names I cannot spell. Each time, I am less certain whether I am performing ignorance or inhabiting it. Perhaps there is no difference. Perhaps the teaseler who spends his life making smooth surfaces has finally made one of himself.
 
-But here is what happened during the interview that I have not been able to set aside. The commissioner's clerk was recording my answers in a ledger, and the ledger was bound — I could see it from where I sat, close enough to touch if I leaned forward — in grey broadcloth. Napped broadcloth. The pile ran slightly heavier on the left side of the cover, and I recognized it the way you recognize a face across a room: not by any single feature but by the whole of it, the pattern that is your own hand's pattern, unmistakable. The priory sells its cloth. The cloth goes to market, and from market into the world, and the world covers its account books and its ledgers and its records of who said what to whom with the surfaces I made smooth. My labor is already inside the institution's records, literally wrapped around them. There is no position outside.
-
-I understood this, and I also understood that understanding it changed nothing, because understanding is the refugee's substitute for power — we comprehend the systems that use us, and the comprehension does not set us free, and we are proud of the comprehension anyway, which is its own kind of foolishness.
+But here is what happened during the interview that I have not been able to set aside. The commissioner's clerk was recording my answers in a ledger, and the ledger was bound — I could see it from where I sat, close enough to touch if I leaned forward — in grey broadcloth. Napped broadcloth. The pile ran slightly heavier on the left side of the cover, and I recognized it the way you recognize a face across a room: not by any single feature but by the whole of it, the pattern that is your own hand's pattern, unmistakable. The priory sells its cloth. The cloth goes to market, and from market into the world, and the world covers its account books and its ledgers and its records of who said what to whom with the surfaces I made smooth. My labor is already inside the institution's records, literally wrapped around them.
 
 After the interview, I went to the choir. The new stalls had been installed but not yet blessed. I knelt in the first stall — the one nearest the rood screen — and I tipped the seat up and looked at the underside, at the misericord the chronicle would never describe. A fox in a monk's cowl, preaching to a congregation of geese. The geese were attentive. Their necks were craned upward. The fox's mouth was open, and you could see that the carver — this William Braithwaite from York — had given the fox real teeth, not a beak, not a bill, but the pointed teeth of a predator wearing borrowed clothes. The geese could not see the teeth because the geese were looking at the cowl.
 
@@ -146,7 +144,7 @@ I checked the others. A demon stirring a cauldron, with a bishop's mitre hanging
 
 The institution had commissioned pious carvings and received them. Twelve subjects from Scripture, rendered in English oak, suitable for blessing. The carver had fulfilled his contract. And then, on the hidden face — the face that would be pressed against monks' backsides during the long hours of prayer, the face that no visitor would ever see, the face too profane for religious subjects and therefore free — he had carved what he actually thought.
 
-I understood William Braithwaite. I understand anyone who hides the truth on the underside of something the powerful sit upon without looking.
+I understood William Braithwaite.
 
 ---
 
@@ -174,21 +172,21 @@ Eadric came to me on the evening of the second day, and I will tell you what he 
 
 He stood in the doorway of the fulling house. The light was behind him. He was a thin man — I had seen him in the cloister, carrying ledgers, his shoulders pulled forward in the way of men who spend their lives bent over writing desks. His hands were stained with ink at the fingertips and clean everywhere else, which is the inverse of my hands, which are clean at the fingertips — the teasel hooks do that, they scrape the skin smooth — and stained everywhere else.
 
-He said he needed a favor. He said the word *favor* as though it were a transaction — which, in English institutional life, it is. A favor given is a debt created, and a debt is a leash, and a leash is a form of governance, and I have been governed by favors in four countries and I recognized the mechanism immediately.
+He said he needed a favor. He said the word *favor* as though it were a transaction, which in English institutional life it is. I have been governed by favors in four countries.
 
 What he wanted: for me to hide three hazel tally sticks among my teasel frames, carry them out of the priory when I left, and destroy them on the road.
 
 What he offered: my wage, paid immediately and in full, instead of upon completion of the remaining cloth.
 
-What he did not say but what was present in the room like the smell of the fulling vats — the acid, ammoniac smell of wool dissolving in its own impurities: that Aldhelm was dead because Aldhelm had discovered something in the priory's records that could not be allowed to survive, and that I, who had recognized the murder weapon in the dead man's hand and said nothing, was already complicit in whatever had happened, and that complicity is a door that only opens one way.
+What he did not say but what was present in the room like the smell of the fulling vats — the acid, ammoniac smell of wool dissolving in its own impurities: that Aldhelm was dead because Aldhelm had discovered something in the priory's records that could not be allowed to survive, and that I, who had recognized the murder weapon in the dead man's hand and said nothing, was already complicit in whatever had happened, and that my silence had already been entered into a ledger I could not see.
 
 I looked at his hands. The ink stains. I thought: this is the man who writes the chronicle. This is the man who wrote *peacefully, in the night, at his labors, commending his soul to God*. This is the man who decides what the priory's future will remember about its present, and he is standing in my fulling house asking me to carry his evidence away in my foreigner's pack so that the institution can continue to say about itself what it has always said.
 
-I should tell you that I considered it. I am not the kind of man — I am not certain what kind of man I am, but I know I am not the kind who refuses danger out of principle. I have hidden things before. In Bruges, in the weeks before the riots, I hid a bolt of English broadcloth in a grain store for a merchant who was afraid the guild inspectors would confiscate it, and I did this for money, and the broadcloth was later sold at a profit from which I received nothing, and the merchant was later killed in the riots anyway, and the cloth went on existing somewhere in the world, covering someone's table, and this is what I mean when I say that the things we make outlast the reasons we make them and the hands that shaped them.
+I should tell you that I considered it. I am not the kind of man — I am not certain what kind of man I am, but I know I am not the kind who refuses danger out of principle. I have hidden things before. In Bruges, in the weeks before the riots, I hid a bolt of English broadcloth in a grain store for a merchant who was afraid the guild inspectors would confiscate it, and I did this for money, and the broadcloth was later sold at a profit from which I received nothing, and the merchant was later killed in the riots anyway, and the cloth went on existing somewhere in the world, covering someone's table.
 
 I told Eadric no.
 
-Not out of principle. Not out of courage. I told him no because I had seen the cloth on the commissioner's ledger and I understood, finally, in the way that you understand something with your hands rather than your mind, that there was no outside. The cloth was already in the commissioner's records. My labor was already inside the institution. The tally sticks, if I carried them away, would be inside my pack, and my pack would be inside my journey, and my journey would be inside England, and England was the institution that the priory served and feared, and there was no outside, there had never been an outside, and the foreigner who believes he can pass through without being absorbed is telling himself the same lie as the chronicler who writes *peacefully* and means *silently*.
+Not out of principle. Not out of courage. I told him no because I had seen the cloth on the commissioner's ledger and I understood, with my hands rather than my mind, that there was no outside. The tally sticks, if I carried them away, would be inside my pack, and my pack would be inside my journey, and my journey would be inside England.
 
 Eadric looked at me for a long moment. Then he left.
 
@@ -246,13 +244,13 @@ Three sheets, curled, blackened, fragile as insect wings. The writing on two of 
 
 Enough. More than enough.
 
-I took the half-burned letter. I took it to the fulling house. I took a bolt of the grey broadcloth — finished, napped, ready for delivery — and I opened the seam where the bolt is folded for packing and I laid the letter inside the fold and I stitched the seam closed with thread the same color as the cloth. The bolt was addressed to the commissioner's household. It was part of the donation the prior had arranged. The cloth would go to Sir Thomas Greystone, and in the lining of the cloth would be a letter that proved the prior had supported Lambert Simnel, and the letter would be found or it would not be found, and I could not control which, and I did not try to control it, because control is a form of power and power is not available to me and I have stopped pretending otherwise.
+I took the half-burned letter. I took it to the fulling house. I took a bolt of the grey broadcloth — finished, napped, ready for delivery — and I opened the seam where the bolt is folded for packing and I laid the letter inside the fold and I stitched the seam closed with thread the same color as the cloth. The bolt was addressed to the commissioner's household. It was part of the donation the prior had arranged. The cloth would go to Sir Thomas Greystone, and in the lining of the cloth would be a letter that proved the prior had supported Lambert Simnel, and the letter would be found or it would not be found, and I could not control which, and I did not try to control it.
 
-You will ask: why? Why not simply walk away? Why not leave the letter in the ashes and let the fire finish what it started?
+You will ask: why? Why not simply walk away?
 
-I have been thinking about this for many months now, and the answer I keep returning to is this: because I raised the nap on the cloth that was used to kill a man, and the man who was killed was killed because he could read, and reading is the thing that makes a surface tell the truth about what is underneath, and teaseling is reading, and I am a reader, and a reader who discovers that the text has been altered and does nothing is not a witness but an accomplice.
+I have been thinking about this for many months now. The answer I had at the time was not an answer — it was my hands doing something while my mind was still deciding whether to let them. I stitched the seam before I understood what I was doing, and I have been constructing reasons ever since. The best reason I have found is that I raised the nap on the cloth that was used to kill a man. But I am not certain this is the true reason. It may be that I was angry. It may be that I wanted to matter. It may be that a man who has been invisible for two years will do anything — even something dangerous, even something futile — to leave a mark on the underside of a surface that the powerful will sit upon without looking.
 
-This is not heroism. A hero would have gone to the commissioner. A hero would have testified. A hero would have accepted the consequences and the history books would record his name alongside words like *courage* and *justice*. I hid a half-burned letter in a cloth seam. It is the smallest possible act of disclosure, the most cowardly form of truth-telling, and it is what I could do, and I did it, and I left.
+I hid a half-burned letter in a cloth seam. It is the smallest possible act of disclosure. I did it, and I left.
 
 ---
 
@@ -282,11 +280,11 @@ He writes it on a scrap of vellum that he will carry to Lincolnshire in his slee
 
 *I wrote the entry that says you died peacefully. I chose the word. I chose "peaceably" first and then changed it to "peacefully" because "peaceably" could mean merely that you did not resist, which allows for the possibility that there was something to resist, whereas "peacefully" means there was nothing — no event, no violence, no hands on your throat, no grey cloth pressed against your face, no struggle that left fibers under your fingernails for a Flemish teaseler to recognize. "Peacefully" is the more complete lie, and I am a man who finishes his work.*
 
-*I did not kill you. I want you to know this, though I am aware that the distinction I am about to draw may not survive your scrutiny, and you were always better than I at distinguishing the genuine from the forged.*
+*I did not kill you. You were always better than I at distinguishing the genuine from the forged, so I will not ask you to accept this.*
 
-*I told Prior Godfrey that you had found the letters. I told him this because I believed, and I still believe, though the belief has begun to feel less like conviction and more like a wall I built and now cannot see over, that the priory's survival required the letters to be destroyed and that your discovery of their destruction made you a danger to the priory. I told the prior. The prior made a decision. I do not know who carried it out. I know that the cloth came from the fulling house, and I know that you were found with it in your hand, and I know that I wrote "peacefully" and I know that "peacefully" is a word that will outlast both of us and will be the only account of your death that the future possesses, unless someone reads between the lines of the chronicle and notices the gap where the truth should be.*
+*I told Prior Godfrey that you had found the letters. The priory's survival required the letters to be destroyed. Your discovery made you a danger. I told the prior. The prior made a decision. I do not know who carried it out — I am aware that this sentence is itself a forgery, that "I do not know" is doing the same work as "peacefully," but I have written it and I find I cannot scratch it out. I know that the cloth came from the fulling house. I know that you were found with it in your hand. I know that "peacefully" will outlast both of us.*
 
-*I am not confessing. Confession requires the expectation of absolution, and I do not expect it and I am not certain I would accept it. I am making a record. It is what I do. It is the only thing I do.*
+*I am making a record. It is what I do.*
 
 *Pray for me if you are in a position to pray. I am told the dead intercede for the living, but I have always suspected this is a comfort invented by the living for themselves, like misericords — a hidden support for the body's weakness, carved with images too profane for anyone to see.*
 
@@ -302,12 +300,10 @@ Or the cloth may be cut for a tablecloth. Or a cover for an account book. Or a l
 
 I think about Brother Aldhelm, whom I never met alive. I think about his hands, trained to read the grain of vellum, the weight of ink, the age of parchment — and I think about the moment he held those forged letters and knew, with his fingertips, that they were wrong. He was a reader of surfaces, like me. He read the institution's lie in the texture of the page. And the institution killed him for it, and wrote *peacefully*, and the chronicle moved on to the next entry, which was about the weather.
 
-I think about Eadric, who writes the chronicle. I do not hate him. I have been in rooms where the choice is between the institution's survival and your own, and the institution's survival always feels more important because the institution is larger than you and will outlast you and gives your work its meaning, and a man who destroys the thing that gives his work its meaning has destroyed himself. Eadric could not let the priory fall. He could not, therefore, let Aldhelm's discovery stand. The logic is seamless, airtight, architectural. It is also monstrous. But I know, because I have been a foreigner in five countries and have watched institutions operate from the outside in each of them, that the monstrous and the logical often share a room, and the door between them is not locked, and most people walk through it without noticing the threshold.
-
-I think about the cloth. All the cloth I have ever raised the nap on. All those surfaces I made smooth, all those hidden fibers I pulled into the light so they could be sheared off and the fabric could present itself as finished, uniform, whole. The teasel's hooks are a tool for making hidden things visible, and visibility is a form of violence — the fiber, once raised, is cut away; the truth, once surfaced, is dangerous to whoever stands nearest to it — and I chose it anyway. Not because I am brave. Because my hands were already on the frame, and the cloth was already between the hooks, and the nap was already rising, and at a certain point the work has its own momentum and you are not choosing anymore, you are finishing what your hands started, and your hands started it before your mind gave permission, and this is perhaps the only form of moral action available to a man who has been thinking himself out of action for two years.
+I think about Eadric, who writes the chronicle. I do not hate him. I have been in rooms where the choice is between the institution's survival and your own, and the institution always feels larger. Eadric could not let the priory fall. He could not, therefore, let Aldhelm's discovery stand. The logic works. I have watched institutions operate from outside them in five countries and the logic always works.
 
 Lijsbeth would have said: you are making this too complicated. She would have said: you hid a letter in a seam, Pieter. It is not philosophy. It is needlework.
 
 She would have been right. She was usually right. She died anyway.
 
-The road turns south. The rain has stopped. I can smell sheep dung and wet stone and, faintly, the lanolin scent of raw wool — the smell of cloth before it is finished, before anyone's hands have changed it, when it is still only what the animal gave. My hands are not clean. They have never been clean. The teasel hooks scratch the skin smooth at the fingertips and leave the rest rough, and this is the mark of my trade, and it does not wash off, and I carry it the way I carry the ash-handled frames and the half-remembered sound of my wife's voice and the knowledge that somewhere in a bolt of grey broadcloth traveling toward a commissioner's house there is a charred letter that says what the chronicle will never say, and it will surface or it will not, and either way the cloth is in the world, and either way my hands were on it.
+The road turns south. The rain has stopped. I can smell sheep dung and wet stone and, faintly, the lanolin scent of raw wool — the smell of cloth before it is finished, before anyone's hands have changed it. The ash handles press into my shoulders. Somewhere ahead of me the road forks, and I do not yet know which way I will go, and this is not a metaphor — I genuinely do not know the road and I have no map and the light is failing.
