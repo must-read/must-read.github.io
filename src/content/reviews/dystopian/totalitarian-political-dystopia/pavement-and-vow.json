@@ -1,0 +1,68 @@
+{
+  "workSlug": "pavement-and-vow",
+  "reviews": [
+    {
+      "personaId": "dys-001-natalie",
+      "rating": 4,
+      "text": "The linguistic corruption thread is the sharpest thing here. Watching \"All records are public for the good of all\" get shaved down through successive revisions until the emphasis shifts from policy to ontology -- that's not just clever world-building, that's an accurate diagram of how institutional language actually works. I've watched it happen in legal frameworks I deal with professionally. The archivist's annotations are devastating in their bureaucratic flatness: she labels a woman watching a sunset as \"anthropomorphic projection onto meteorological phenomena\" and doesn't flinch, and neither does the prose, which is exactly the right choice. Where it loses me slightly is the ending. The final collapse into fragmented feeling is earned emotionally but structurally it concedes too much -- she becomes a recognizable dissident figure, which undercuts the more frightening possibility that she might have simply continued annotating forever.",
+      "date": "2025-12-18",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-002-tomasz",
+      "rating": 4,
+      "text": "The diary format does real structural work here rather than being decorative. Each entry's subject line performs compliance while the text beneath it begins to crack, and the reader watches the gap widen. The detail about her mother losing her pauses after treatment is chilling precisely because it is delivered without melodrama -- just an observation that the metrics do not measure pauses. The children's book section threatens to become too on-the-nose but is rescued by the image of the pig standing on two legs while the archivist insists it means nothing. I would have preferred more restraint in the final entry, where the fragmentation announces itself too loudly.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-003-amira",
+      "rating": 4,
+      "text": "What I appreciate most is that this is a story about complicity that doesn't let itself become a story about rebellion. PD-7734-V is not a secret revolutionary. She's a person whose body and language are beginning to register something her institutional self cannot name, and the story is honest enough to leave her there. The moment where Oren files a \"routine observation\" about her behavior and she thanks him -- and means it -- is the kind of thing most dystopian fiction would frame as horror, but here it's just breakfast. The domestic totalitarianism is rendered without any underlining. What I wanted more of: her relationship to her own body. The scene where she steps on the grass is the most physically alive moment in the story, and it's only four sentences. The rest is cerebral, which fits the world but also limits the emotional register.",
+      "date": "2026-01-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-004-derek",
+      "rating": 4,
+      "text": "This one got under my skin. The part about her mother coming back from treatment with no more pauses before she spoke -- I had to put it down for a minute. That's the whole story right there, isn't it? They didn't take anything you could name. They just took the pause.",
+      "date": "2025-08-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-005-juno",
+      "rating": 5,
+      "text": "This is the quietest dystopia I've read in a long time and I mean that as the highest compliment. The glass city, the Recitation scores, the compatibility ratings -- none of it is played for shock. It's played for banality, which is so much worse. The diary entries about the pre-Clarification notebooks are the heart of it: a woman reading about clover in a field and realizing she has no word for what the diarist was describing, because the vocabulary has been refined until \"solitude\" became \"social deficit\" and \"secret\" became \"transparency failure.\" That passage where she tries to write the contextualization protocol and can't get past the first sentence -- eleven minutes of staring at a blinking cursor -- I felt that physically. The story withholds everything I wanted it to say out loud and that's exactly why it works.",
+      "date": "2025-11-05",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-006-raj",
+      "rating": 3,
+      "text": "Structurally sound. The diary format creates a natural escalation engine -- each entry slightly more deviant than the last -- and the institutional language is internally consistent. The Recitation score system, the relational wellness filings, the contextualization protocol: these feel like real bureaucratic mechanisms rather than dystopian set dressing. My issue is pacing. At 6,000+ words the repetitive structure starts to drag around the middle entries. Some of the diary-within-diary passages could have been tighter. The grass-through-pavement metaphor is strong but gets restated too many times. Good architecture, could use editing.",
+      "date": "2025-09-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-007-elena",
+      "rating": 3,
+      "text": "This understands something important: that totalitarianism doesn't just control speech, it controls what speech means. The progressive revision of civic language -- \"community visibility\" for surveillance, \"social deficit\" for solitude -- is accurate to how this actually works. I've watched Romanian bureaucratic language do exactly this. But the story pulls its punches at the personal level. Oren is a cipher. The mother's treatment is sketched rather than inhabited. And the therapeutic assessment scene, where the assessor asks about metrics instead of meaning, lands too neatly as satire when it should land as something more complicated. Real surveillance states don't produce assessors who miss the point. They produce assessors who see the point and call it something else.",
+      "date": "2026-02-09",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-009-cora",
+      "rating": 4,
+      "text": "The moment she steps off the pavement onto the grass -- \"cold and alive under the soles of my regulation shoes\" -- I physically felt that. The whole story is cerebral and controlled and then suddenly her feet are on wet ground and the earth gives under her weight and it's like the first real breath in the whole piece. I wish there were more moments like it. The description of her mother losing her pauses hit me hard too. Not because it's dramatic but because it's so small. They took something no metric would even notice.",
+      "date": "2025-12-01",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-010-owen",
+      "rating": 5,
+      "text": "This is doing something genuinely interesting with institutional voice as a narrative mechanism. The archivist writes in bureaucratic register -- compliance summaries, protocol numbers, standardized annotations -- but the cracks in that register ARE the story. She describes the city as beautiful and then immediately reframes it as confirming an institutional measurement. She reads the word \"comfort\" in a diary and recognizes that the Foundational Lexicon definition doesn't match what the diarist meant, and that recognition is the most dangerous act in the story. The diary-within-a-diary structure creates a kind of textual archaeology: the pre-Clarification voices are literally buried under layers of annotation, and the archivist's job is to add another layer, which she increasingly can't do.\n\nThe children's book section is where it gets really interesting from a narrative-complicity standpoint. She annotates the animals' progressive rule amendments as a mirror of the Clarification's own language revisions and then spends three paragraphs insisting the parallel doesn't hold. The insistence IS the parallel. Her own diary entry performs the same operation it describes -- refinement as corruption, dressed as clarification. I'm going to be thinking about this one for a while.",
+      "date": "2026-02-15",
+      "helpfulCount": 0
+    }
+  ]
+}
