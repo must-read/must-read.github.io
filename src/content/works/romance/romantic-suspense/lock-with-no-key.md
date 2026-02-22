@@ -7,8 +7,8 @@ authorA: Alyssa Cole
 authorB: Dennis Lehane
 workX: "Gone Girl (Gillian Flynn)"
 workY: "Rebecca (Daphne du Maurier)"
-wordCount: 3567
-readingTimeMinutes: 15
+wordCount: 3471
+readingTimeMinutes: 14
 tags:
   - romantic-suspense
   - dual-perspective
@@ -49,7 +49,7 @@ Not the knob lock. Above it. A deadbolt mechanism, heavy steel, mounted at chest
 
 Not a privacy lock. Not the push-button on the knob that you can pop with a coin. A deadbolt. You could barricade yourself in this bathroom and no one without a battering ram is getting through.
 
-I stand with the towel in my hand for a while. The building is quiet. Below me, someone's TV plays something in Creole and the cadence is familiar enough to feel like company. I hang the towel. I finish unpacking the box. I don't touch the lock again, but I know it's there the way you know a crack in a wall is there — peripheral, persistent, spreading every time you don't look at it.
+I stand with the towel in my hand for a while. The building is quiet. Below me, someone's TV plays something in Creole and the cadence is familiar enough to feel like company. I hang the towel. I finish unpacking the box. I don't touch the lock again, but I know it's there the way you know a crack in a wall is there — peripheral, persistent.
 
 ---
 
@@ -91,7 +91,7 @@ The window in the bedroom. Painted shut, which I expected — half the windows i
 
 I stand back and look at the window. Afternoon light comes through the glass, which is old enough to have that slight warping that makes the street below look like it's underwater. On the floor in front of the window, the hardwood is lighter than the rest of the room. Worn smooth. A path, almost — not from walking across but from standing in one place for a long time, shifting weight. Someone stood here. Stood here and watched the street through warped glass for hours, regularly, long enough to change the color of the wood.
 
-The apartment is a palimpsest. Garrett painted over everything, hung his Bruins pennant, put up the shelf where he keeps his father's old transistor radio that doesn't work but looks right. He overwrote the space. But the old text bleeds through if you look at the right angle. The screw heads under the paint. The deadbolt in the bathroom. The worn floor. The seized lock on the door. Layer under layer of someone else's handwriting, and I am reading it the way my grandmother taught me to read a room — not for what's there but for what someone didn't want you to see.
+Garrett painted over everything. Hung his Bruins pennant, put up the shelf where he keeps his father's old transistor radio that doesn't work but looks right. His apartment now. But the screw heads are under the paint. The deadbolt is in the bathroom. The worn floor is in front of the window. The seized lock is on the door. And I am reading this place the way my grandmother taught me to read a room — not for what's there but for what someone tried to cover.
 
 ---
 
@@ -117,7 +117,7 @@ Mrs. Dorismond looked at me directly for the first time. She had a face that had
 
 "Garrett didn't say anything about drilling."
 
-"Garrett sleeps like the dead." She finished the beer and set the bottle on the counter with a decisive click. "Men pa tande sa yo pa vle tande." Men don't hear what they don't want to hear. She rinsed the bottle in the sink, dried it, put it with a row of other rinsed bottles on the windowsill — she recycled with the precision of a woman who had never wasted anything. "You want another?" she asked, meaning the conversation was over.
+"Garrett sleeps like the dead." She finished the beer and set the bottle on the counter with a decisive click. "Men pa tande sa yo pa vle tande." Men don't hear what they don't want to hear. She rinsed the bottle, dried it, set it with a row of other rinsed bottles on the windowsill. "You want another?" she asked, meaning the conversation was over.
 
 ---
 
@@ -175,11 +175,11 @@ The money felt warm. It shouldn't have — it had been in the wall — but it fe
 
 "I knew she was scared," I said. "I didn't know she was leaving."
 
-Nadia didn't touch me. She sat across the table with the bag between us and she didn't reach for my hand or tell me it wasn't my fault. I was grateful for that. If she'd been kind in that specific way — the reassurance, the absolution — I would have believed it and it would have been a lie and we'd have built on it.
+Nadia didn't touch me. She sat across the table with the bag between us and she didn't reach for my hand or tell me it wasn't my fault. I was grateful for that. If she'd said it — the it's not your fault, the you did your best — I would have taken it. And it would have been a lie we'd have both pretended was true.
 
 ---
 
-There is a hardware store on Blue Hill Ave where the owner, a Dominican man named Eladio, knows Garrett by name. Not the way a cashier knows a regular — the way a man who works with his hands knows another. They talk about the church renovation in Braintree. They talk about the price of copper. Garrett introduces me and Eladio says "Finally" and means it in a way that suggests Garrett has been talked about, which makes me feel a thing I don't examine too closely.
+There is a hardware store on Blue Hill Ave where the owner, a Dominican man named Eladio, knows Garrett by name. Not the way a cashier knows a regular — recognition between men who work with their hands, who can look at each other's calluses and read a trade. They talk about the church renovation in Braintree. They talk about the price of copper. Garrett introduces me and Eladio says "Finally" and means it in a way that suggests Garrett has been talked about, which makes me feel a thing I don't examine too closely.
 
 We are here to buy a lock. The aisle smells like cut keys and WD-40 and the particular staleness of a place that has been selling the same inventory since before the neighborhood changed around it. A hand-lettered sign above the deadbolts says MEASURE TWICE.
 
@@ -187,16 +187,14 @@ Garrett stands in the aisle with two options in his hands and asks me which one.
 
 I pick the one on the left. Brass. Schlage. Nothing fancy, nothing antique, nothing that seizes or remembers or catches anyone in the act. A lock that locks and unlocks. That's all.
 
-On the way home we stop for doubles from the Trinidadian cart on the corner and eat them walking, which is the only way to eat doubles, hot sauce on my wrist, Garrett laughing at something that isn't funny because he's lighter now — not light, lighter — and the difference is visible in his shoulders, in the way he's walking without the hunch I didn't notice until it was gone.
+On the way home we stop for doubles from the Trinidadian cart on the corner and eat them walking, which is the only way to eat doubles, hot sauce on my wrist, Garrett laughing at something that isn't funny. His shoulders are down. I don't know when they came down.
 
 He installs the new lock that evening. Takes out the old Kwikset, puts in the Schlage, checks the throw twice. The Chubb stays. I asked him to leave it — not on the door. I took it off myself, the old mortise mechanism, heavy in my hands. The regulator still jammed. The lock that caught someone and never forgave them.
 
-I put it on the bookshelf. Next to my grandmother's pilon, on the shelf where Garrett keeps the transistor radio that doesn't work. Three objects that remember things their owners couldn't say. The mortar that crossed an ocean. The radio that last played for a man who's been dead twelve years. The lock that seized on a secret and held.
+I put it on the bookshelf. Next to my grandmother's pilon, on the shelf where Garrett keeps the transistor radio that doesn't work. The mortar that crossed an ocean. The radio that last played for a man who's been dead twelve years. The lock that seized on a secret and held.
 
 The letter stays in the drawer of the nightstand. We don't talk about it. We don't solve it. Whatever Simone did, whoever "they" are, that story belongs to a woman who is not here and who left because she decided leaving was the only thing she could do for a man who wouldn't understand and a life that had gotten away from her in ways the letter doesn't explain.
 
-Garrett is in the kitchen. I hear him washing the pan from dinner, the water running, the clank of the cast iron against the sink. Tomorrow I'll go to work and read bodies and come home and cook with the pilon and check the new lock — once, not three times — and sleep next to a man who is learning, slowly, to look at the things he used to step around. Not because I taught him. Because my looking made his not-looking visible, and he couldn't unsee it.
-
-I don't know if that's enough. I don't know if enough is even the right thing to want. My grandmother never said the pilon made a house safe. She said it made a house yours.
+Garrett is in the kitchen. I hear him washing the pan from dinner, the water running, the clank of the cast iron against the sink. He checks the new lock before bed now. I've heard him do it — one click, then the pause where the second and third would go if he were someone else, and then his footsteps coming back down the hall. I don't know what that means. Whether he's checking for me or for her or for himself, or whether the checking is just what this apartment teaches the people who live in it.
 
 The lock sits on the shelf with its secret still inside it. I leave it there.
