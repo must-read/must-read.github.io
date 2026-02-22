@@ -21,9 +21,9 @@ tags:
   - names
   - aging
 publishedDate: 2026-02-21
-status: "draft"
-rating: 3.5
-ratingCount: 0
+status: "published"
+rating: 4.4
+ratingCount: 9
 formulaSummary: >
   Saramago's flowing, unpunctuated prose and allegorical catastrophe meet Beckett's
   minimalist self-undermining and bodily entropy. Blindness provides the epidemic
