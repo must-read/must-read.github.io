@@ -7,8 +7,8 @@ authorA: "Oscar Wilde"
 authorB: "David Sedaris"
 workX: "A Confederacy of Dunces"
 workY: "The Importance of Being Earnest"
-wordCount: 3246
-readingTimeMinutes: 13
+wordCount: 3097
+readingTimeMinutes: 12
 tags: ["picaresque", "cultural-diplomacy", "literary-fraud", "identity", "farce", "eastern-europe", "performance", "comic-misadventure"]
 rating: 0
 ratingCount: 0
@@ -27,7 +27,7 @@ The van smelled of cigarettes and sheep medicine, and the GPS had stopped preten
 
 Drago drove with one hand on the wheel and the other conducting an invisible orchestra. He spoke seven words of English: "no problem," "very close," and "it is what." The last phrase appeared to be a complete philosophical position. When I'd asked at the embassy motor pool how long the drive to Korbejn would take, Drago had said, "It is what," and we had been in the van for three hours.
 
-I was rehearsing, under my breath, the pronunciation of the celebrated author's name. Aleksandar Bogataj. I had been saying it wrong for three months — *Boh-GAH-taj*, with the confidence of someone who has heard themselves be wrong so many times that consistency becomes a kind of authority. Drago had corrected me that morning with a noise that combined instruction and sorrow in equal measure. *BOH-ga-tie*. Like a bow tie, but with more disappointment.
+I was rehearsing, under my breath, the pronunciation of the celebrated author's name. Aleksandar Bogataj. I had been saying it wrong for three months — *Boh-GAH-taj*, with the confidence of someone who has been wrong so many times that consistency has replaced accuracy. Drago had corrected me that morning with a noise that combined instruction and sorrow in equal measure. *BOH-ga-tie*. Like a bow tie, but with more disappointment.
 
 On my lap sat a gift-wrapped first edition of Bogataj's novel *The Laudankia*, purchased on the embassy's cultural engagement budget after a procurement process that required me to explain, in triplicate, why the British government needed to spend four hundred euros on a book written in a language no one in the building could read. I had not read it either. I had read the Wikipedia summary and a review in the TLS and considered this sufficient preparation, which it would have been, had the author existed.
 
@@ -57,11 +57,11 @@ The village had maintained this arrangement for eleven years. They had conducted
 
 "You understand," Josip said to me, in careful English, "this is a matter of some delicacy."
 
-I understood. I understood it completely. And I made a decision that was both rational and catastrophic, in the way that only the decisions of competent people can be.
+I understood. I understood it completely. And I made a decision that was both rational and catastrophic, which is a combination only competent people can manage.
 
 ---
 
-Here is the thing about the committee: they were terrible at being Bogataj. Their version of the author was inconsistent, nervous, and prone to contradicting himself between breakfast and dinner. Josip's Bogataj at a morning panel would expound on the loneliness of the creative process, and then Franjo's Bogataj at an evening reading would tell a joke about a donkey. Journalists were beginning to write about the author's "mercurial temperament," which is a kind way of saying they'd noticed he became a different person every eight hours.
+Here is the thing about the committee: they were terrible at being Bogataj. Their version of the author was inconsistent, nervous, and prone to contradicting himself between breakfast and dinner. Josip's Bogataj at a morning panel would expound on the loneliness of the creative process, and then Franjo's Bogataj at an evening reading would tell a joke about a donkey. Journalists were beginning to write about the author's "mercurial temperament," which is a polite way of saying they'd noticed he became a different person every eight hours.
 
 I perform identity for a living. I have been the appropriate version of myself in seventeen countries across three continents. I once spent an evening pretending to find a Romanian deputy minister's jokes about fish amusing, and I did it so convincingly that he sent me a crate of smoked trout for Christmas. My ex-husband, during our divorce three years ago, told me he had "never been entirely sure she was home." He meant present. Engaged. Herself. I found this hurtful and inaccurate and have been silently composing my rebuttal ever since.
 
@@ -121,21 +121,19 @@ I went to the bathroom and sat on the lid of the toilet for three minutes, breat
 
 ---
 
-Two weeks after the festival, I received an email from Petra Novak — the fictional agent whose email account I now checked daily, the way you check on a houseplant you have accidentally become responsible for — informing me that *The Laudankia* had been shortlisted for the Adriatic Prize for Fiction. The ceremony was in Dubrovnik. I wore a borrowed blazer and a look of literary gravitas that I had practiced in the mirror of the hotel bathroom until it sat on my face like something that had always been there.
+Two weeks after the festival, I received an email from Petra Novak — the fictional agent whose email account I now checked daily, with the anxious regularity of someone tending a houseplant they never meant to own — informing me that *The Laudankia* had been shortlisted for the Adriatic Prize for Fiction. The ceremony was in Dubrovnik. I wore a borrowed blazer and a look of literary gravitas that I had practiced in the mirror of the hotel bathroom until it sat on my face like something that had always been there.
 
 The auditorium was full. Real writers, real critics, real publishers — people who had spent their lives constructing things from words, which is the same material I was using to construct a person. I stood at the podium and delivered a speech about the solitude of the creative life, and I meant every word of it, which was the problem.
 
 "A writer," I said, "is someone who has agreed to be haunted. Not by ghosts — that would be manageable — but by versions of themselves they were too afraid to become. The characters we create are not inventions. They are confessions. Every protagonist is the person the author would have been if they'd had the courage, or the cowardice, or simply the different postal code."
 
-The audience was quiet. Not politely quiet. Quiet in the way people get when something true has been said by accident.
+The audience was quiet. Not politely quiet. Quiet the way a room goes quiet when something true has been said by accident.
 
 "The laudankia — the vine snake — survives by becoming indistinguishable from its surroundings. We call this camouflage, but that implies the snake knows it is pretending. I think it is more accurate to say the snake has forgotten. It has imitated the dried gourd stem for so long that imitation has become identity. This is not tragedy. This is craft. And it is, I suspect, the only honest definition of authorship I am capable of providing."
 
-The applause started somewhere near the back and moved forward like weather. A standing ovation. I stood in it the way you stand in unexpected rain — startled, and then still, and then aware that you are getting wet and there is nothing to be done about it.
+The applause started somewhere near the back and moved forward like weather. I stood in it the way you stand in unexpected rain — startled, and then still, and then aware that you are getting wet and there is nothing to be done about it.
 
-In the reception line afterward, a woman with white hair and an expression of ferocious kindness took my hand. "You remind me so much of my daughter," she said. "She also could never figure out who she was, so she just kept becoming other people until she ran out."
-
-I excused myself. I went to the bathroom. I stood at the mirror for four minutes. I did not wash my hands or check my scarf or practice any expression. I just stood there, looking at a face that looked back at me with the mild surprise of a stranger recognizing someone in a crowd and realizing it was their own reflection in a shop window.
+I went to the bathroom during the reception. I stood at the mirror for four minutes. I did not wash my hands or check my scarf or practice any expression. I just stood there, looking at a face that had no particular expression on it, which was new.
 
 The novel did not win the prize. It came second to a Croatian memoir about beekeeping, which Josip later described as "competent but emotionally shallow," a critique I found rich coming from a pharmacist who had written the chapter about grief.
 
@@ -155,18 +153,16 @@ I asked him why. Why had the village created Bogataj? What was the point of main
 
 Drago thought about this for a long time. The road unreeled in the headlights, pocked and narrow and, according to every official map, nonexistent.
 
-"Same reason anyone writes anything," he said. "We wanted someone to be from here."
+"Nobody comes here," he said. Then, after a minute: "They came for him."
 
-I turned to the window so he wouldn't see my face, though he was watching the road and would not have looked anyway. Outside, the hills were black against a slightly less black sky. Somewhere in them was Korbejn, or Corbein, or whatever the place was actually called by the people who had been living there before a Scottish cartographer arrived and decided he knew better.
+I turned to the window. Outside, the hills were black against a slightly less black sky. Somewhere in them was Korbejn, or Corbein, or whatever the place was actually called by the people who had been living there before a Scottish cartographer arrived and decided he knew better.
 
 ---
 
-I returned to Budapest on a Tuesday. I filed my expense report. I scheduled a call with the cultural programming office in London about next quarter's events. I wrote my annual review.
+I returned to Budapest on a Tuesday. I filed my expense report. Under "Notable Achievements," I wrote: *Successfully delivered the Korbejn Literary Festival. The author was well received.*
 
-Under "Notable Achievements," I wrote: *Successfully delivered the Korbejn Literary Festival. The author was well received.*
+I scheduled a call with the cultural programming office in London about next quarter's events. I renewed my transfer request to Vienna. I checked the email account I had created for Petra Novak, the fictional literary agent, because Dieter had written to ask about delivery timelines for the second novel.
 
-I considered this the most honest sentence I had written in years, and I was aware that this said something about either the nature of honesty or the nature of years, and I was not entirely sure which.
+I replied to Dieter. I told him the author was deep in the new work and could not be disturbed, which was not precisely a lie, since the village was presumably still writing.
 
-I did not return to the village. I did not expose the fraud. I did not transfer to Vienna. The transfer request is still pending, the way it has been pending for nine years, and I have begun to suspect that Vienna is my Bunbury — the place that does not need to exist in order to make my current location tolerable.
-
-The one thing that changed, and I cannot explain why it matters: I still say Bogataj's name correctly. *BOH-ga-tie*. I say it to no one, in no context, for no reason. Sometimes in the shower, sometimes waiting for the kettle. The name of a person who does not exist, pronounced with a precision that serves nothing except the strange conviction that getting it right is the least I owe a man I pretended to be for three days in a country that, according to my GPS, was not entirely there.
+I still say Bogataj's name correctly. *BOH-ga-tie*. I say it to no one, in no context, for no reason. Sometimes in the shower, sometimes waiting for the kettle. The name of a person who does not exist, pronounced with a precision that serves nothing except the strange conviction that getting it right is the least I owe a man I pretended to be for three days in a country that, according to my GPS, was not entirely there.
