@@ -7,8 +7,8 @@ authorA: "Colson Whitehead"
 authorB: "Anthony Doerr"
 workX: "The Underground Railroad"
 workY: "All the Light We Cannot See"
-wordCount: 8930
-readingTimeMinutes: 36
+wordCount: 8661
+readingTimeMinutes: 35
 tags:
   - ohio-1853
   - fugitive-slave-act
@@ -59,9 +59,9 @@ combination:
 
 ## 5:47 AM, Cincinnati Relay
 
-The cotton report came first. New Orleans to Cleveland, priority commercial, the prices steady at eleven and three-quarter cents per pound for middling uplands. Elias's fingers translated without consulting him. The sounder clicked its small iron tongue against the brass anvil and his right hand moved on the key in response and the message traveled north through the wire at something close to the speed of light, which was to say instantaneously, which was to say before he could form an opinion about it.
+The cotton report came first. New Orleans to Cleveland, priority commercial, the prices steady at eleven and three-quarter cents per pound for middling uplands. Elias's fingers translated without consulting him. The sounder clicked its small iron tongue against the brass anvil and his right hand moved on the key in response and the message traveled north through the wire at something near the speed of light, which was to say before he could form an opinion about it.
 
-He had been at the relay desk since five. The office smelled of lamp oil and the particular staleness of a room that is never fully aired. His coffee had gone cold in the tin cup. Outside, Third Street was still dark, though the sky over Kentucky had begun to gray in a way that was less sunrise than the withdrawal of night, as if darkness were a liquid slowly draining from the east.
+He had been at the relay desk since five. The office smelled of lamp oil and the staleness of a room that is never fully aired. His coffee had gone cold in the tin cup. Outside, Third Street was still dark, though the sky over Kentucky had begun to gray in a way that was less sunrise than the withdrawal of night.
 
 The priority line interrupted.
 
@@ -127,7 +127,7 @@ He had explained this to himself four hundred times. The number was not approxim
 
 The scar on Rue's left forearm ran from wrist to elbow, a raised ridge of tissue the color of dark plum, darker than the skin on either side of it. She had received it at fourteen, not from punishment but from labor — a kettle of boiling water for the wash, tipped by a gust of wind or by her own fatigue or by the intervention of a God she had since stopped crediting with interest in her body's welfare. The water had sheeted down her arm and the pain had been so absolute that she remembered it not as a sensation but as a sound, a high white ringing that replaced every other perception for what felt like minutes but was probably seconds.
 
-The overseer's wife had dressed the wound with lard and a strip of torn petticoat. The lard was rancid and the petticoat was not clean, and the burn had healed badly, scarring thick and ropy, and the scar had become, in the years since, the most distinctive thing about her body — more notable than her face, which was ordinary, or her height, which was average, or her hands, which were the hands of any woman who washed things for other people. The scar was what the warrant described. The scar was what the marshals would look for. The scar was the signature her body had written without her permission, and she could not revise it, and she wore long sleeves in every season, and the long sleeves were themselves a kind of signature, because who wears long sleeves in an Ohio July except a woman hiding a scar that describes her to the law.
+The overseer's wife had dressed the wound with lard and a strip of torn petticoat. The lard was rancid and the petticoat was not clean, and the burn had healed badly, scarring thick and ropy, and the scar had become, in the years since, the most distinctive thing about her body — more notable than her face, which was ordinary, or her height, which was average, or her hands, which were the hands of any woman who washed things for other people. The scar was what the warrant described. The scar was what the marshals would look for. The scar was the signature her body had written without her permission, and she could not revise it, and she wore long sleeves in every season, and the long sleeves were their own signature, because who wears long sleeves in an Ohio July except a woman hiding a scar that describes her to the law.
 
 She had thought, in the early months in Oberlin, about cutting the scar. Reopening the wound and letting it heal differently, flatter, less distinctive. She had held the knife. She had pressed the blade against the ridge of tissue and felt the steel's coldness and the scar's numbness — the burned skin had no feeling, as if the nerve endings beneath it had decided that they had felt enough and would feel no more. She had not cut. Not because of courage or cowardice but because the scar was the record of a thing that had happened to her body, and to erase the record felt like agreeing with the warrant that her body was not hers, that it could be revised to serve someone else's purpose, that the history written in her skin was subject to editorial correction.
 
@@ -199,7 +199,7 @@ At ten o'clock he walked back a third time. Ames's lamp was still burning. But t
 
 Ames nodded without looking up from his newspaper.
 
-Elias sat at the relay desk. His gloves were in his coat pocket where they had been all evening. He placed his fingers on the key. The brass was warm from the lamp heat. He thought about Josiah's hands on the same key. He thought about the tuning fork that vibrates without being touched. He thought: I am not a conduit.
+Elias sat at the relay desk. His gloves were in his coat pocket where they had been all evening. He placed his fingers on the key. The brass was warm from the lamp heat. He thought about Josiah's hands on the same key. He thought about the tuning fork that vibrates without being touched.
 
 ---
 
@@ -263,7 +263,7 @@ Monday. Elias sat at the relay desk and transcribed cotton prices from New Orlea
 
 He had sent the warning four days ago. He did not know whether it had arrived. He did not know whether the Oberlin contact was active. He did not know the name of the woman in the warrant — the warrant had given only the name of the man who claimed to own her, and Elias had not retained it, or had refused to retain it, which was different.
 
-The sounder clicked and he transcribed. Wheat prices. A shipping manifest from Buffalo. A personal message from a woman in Columbus to her sister in Sandusky: MOTHER WORSE STOP COME IF YOU CAN STOP. He relayed each one. The wire carried grief and grain in the same current at the same speed, and his hands moved, and the messages passed through him the way light passes through glass, and he was transparent, and transparency was his profession, and he practiced it.
+The sounder clicked and he transcribed. Wheat prices. A shipping manifest from Buffalo. A personal message from a woman in Columbus to her sister in Sandusky: MOTHER WORSE STOP COME IF YOU CAN STOP. He relayed each one. The wire carried grief and grain in the same current at the same speed, and his hands moved, and the messages passed through him, and he practiced this.
 
 ---
 
@@ -283,7 +283,7 @@ Rue looked at the woman's hands, which were rough and reddened and held nothing.
 
 "Midnight," the woman said. "The Platt farm. Don't bring more than you can carry at a run."
 
-She left. Rue stood in the doorway and listened to the woman's footsteps on the stairs and the front door and the silence that followed and she thought: the chain. A chain of people she had never met, extending from this door through the dark to some origin she would never know, each link knowing only the link before and the link after, the message degrading as it traveled the way sound degrades crossing water, arriving changed but recognizable. Someone, somewhere, had sent a signal. The signal had reached her. She did not know who or why or through what medium, and the not-knowing was the architecture of the thing — the safety was in the gaps, the freedom was in the ignorance, and she was alive because strangers had decided to vibrate at a frequency she could hear.
+She left. Rue stood in the doorway and listened to the woman's footsteps on the stairs and the front door and the silence that followed and she thought: the chain. A chain of people she had never met, extending from this door through the dark to some origin she would never know, each link knowing only the link before and the link after. Someone, somewhere, had sent a signal. The signal had reached her. She did not know who or why or through what medium, and the not-knowing was the architecture of the thing — the safety was in the gaps, the freedom was in the ignorance, and she stood in the doorway and the cold air from the stairwell touched her face and she closed the door.
 
 ---
 
@@ -299,11 +299,9 @@ Bess. Three years old when Rue crossed the river. The child had been asleep. Rue
 
 She had told herself: I will come back. When I am settled. When I have money. When the route is safer. She had told herself this for twenty-three months. She had not gone back. She would not have gone back. The route was not safer. She did not have money. And Bess was five now, or would be in April, and five is old enough to remember a mother's face and old enough to stop expecting it.
 
-North was logical. North was survival. North was the direction every piece of advice she had ever received pointed, the direction the stars were arranged to indicate, the direction of freedom in the grammar of every runaway she had known.
+North was logical. North was survival. North was the direction every piece of advice she had ever received pointed, the direction of freedom in the grammar of every runaway she had known.
 
-She put on her shoes.
-
-South was her daughter.
+She put on her shoes. The left one first, the one with the blister worn into the heel lining. She tied the laces and stood and the floorboards were cold through her stockings and she picked up the shawl and wrapped it and did not look at the room again.
 
 ---
 
@@ -325,7 +323,7 @@ She had not named the child. The owner named children. He named them from a list
 
 She was walking south now. She had left the Platt farm road three miles back and cut through a maple wood where the trees were old enough that their roots broke the ground in ridges she had to step over in the dark. She walked by feel. The stars were visible through the canopy gaps but she was not navigating by stars — she was navigating by slope, by the downhill tendency that meant water, that meant a creek or a river, that meant south, because in Ohio the water flows south to the river and the river flows west to the Mississippi and the Mississippi flows south to the gulf and everything, if you follow the water, leads back to the country from which she had escaped.
 
-The night smelled of thaw. The ground was soft under last year's leaves, the frost loosening its grip on the topsoil, releasing the trapped scent of earth and mold and the faint sweetness of something beginning to rot beneath the leaf litter — mushrooms, maybe, or a fallen branch breaking down into the dark chemistry that produced, in certain conditions, in certain woods, in certain temperatures, the glow she had once watched for nine nights as a child. She did not expect to see it tonight. She did not expect anything tonight except the next step, and the step after that, and the continuation of a movement that had no endpoint she could name, only a direction and a face she was walking toward that she could no longer picture clearly, because twenty-three months is enough time for a child's face to change beyond a mother's memory, and the face she carried was a three-year-old's face on a body that was now five, and the mismatch between image and fact was one more thing she would have to reconcile if she arrived, and if she did not arrive the mismatch would not matter, and this was the kind of arithmetic that sustained her: the subtraction of worry by the possibility of failure.
+The night smelled of thaw. The ground was soft under last year's leaves, the frost loosening its grip on the topsoil, releasing the trapped scent of earth and mold and the faint sweetness of something beginning to rot beneath the leaf litter. She did not expect anything tonight except the next step, and the step after that, and the continuation of a movement that had no endpoint she could name, only a direction and a face she was walking toward that she could no longer picture clearly, because twenty-three months is enough time for a child's face to change beyond a mother's memory, and the face she carried was a three-year-old's face on a body that was now five, and the mismatch between image and fact was one more thing she would have to reconcile if she arrived, and if she did not arrive the mismatch would not matter, and this was the kind of arithmetic that sustained her: the subtraction of worry by the possibility of failure.
 
 ---
 
@@ -339,7 +337,7 @@ Twelve miles to the river, if she was where she thought she was. Five hours of w
 
 Her calves burned. Her left shoe had rubbed a blister on her heel in the first mile and now the blister had opened and the sock was wet with something that was probably blood and the pain was a metronome, steady, one pulse per step, and she let it count for her so she did not have to count herself.
 
-She thought about the woman who had come to her door. The gap between her teeth. The coat too thin for March. That woman had walked through the cold to deliver twelve words to a stranger and then walked home and would forget Rue's face, as she had promised, and Rue would forget hers, and the forgetting was the mechanism, the safety protocol, the way the system erased its own trail the way water erases footprints in sand. Every link in the chain forgot the link before it. The message survived; the messenger dissolved. It was the opposite of how Rue had lived in Oberlin — holding still, becoming permanent, building a life from the accumulation of small fixed things: the room, the parallelogram, the creek, the Griffiths' shirts. The chain was motion. The chain was impermanence. The chain was what she had tried to stop being, and here she was, in the dark, in the woods, a link again, moving.
+She thought about the woman who had come to her door. The gap between her teeth. The coat too thin for March. That woman had walked through the cold to deliver twelve words to a stranger and then walked home and would forget Rue's face, as she had promised, and Rue would forget hers, and the forgetting was how it worked — every link in the chain forgetting the link before it. The message survived; the messenger dissolved. It was the opposite of how Rue had lived in Oberlin — holding still, building a life from the accumulation of small fixed things: the room, the parallelogram, the creek, the Griffiths' shirts. And here she was, in the dark, in the woods, a link again, moving.
 
 ---
 
@@ -361,13 +359,13 @@ He turned on his side. Through the wall he could hear his neighbor coughing — 
 
 ## Tuesday
 
-On Tuesday morning Elias arrived at the relay desk at 5:30 and the first message was a property dispute from Cleveland. A man named Hiram Shedd claimed title to a lot on Superior Street that a man named Thomas Fogg had fenced without permission. Elias transcribed the details with the same care he gave every message — the lot dimensions, the date of the original deed, the name of the surveyor — and his hands were steady, and the message passed through him, and the galena sat on his desk reflecting nothing.
+On Tuesday morning Elias arrived at the relay desk at 5:30 and the first message was a property dispute from Cleveland. A man named Hiram Shedd claimed title to a lot on Superior Street that a man named Thomas Fogg had fenced without permission. Elias transcribed the details with the same care he gave every message — the lot dimensions, the date of the original deed, the name of the surveyor — and his hands were steady, and the message passed through him, and the galena sat on the edge of his desk where it always sat.
 
 He did not know whether the woman in the warrant was alive. He did not know whether the woman in the warrant had received a warning. He did not know whether the warning had traveled the chain from Cleveland to Oberlin to a door he had never seen, to a woman whose name he had never learned, whose scar he had transcribed as part of a description that was also an instrument of capture, whose body existed in his professional memory as a series of Morse characters: five feet four, scar left forearm, dark complexion.
 
 The sounder clicked. He transcribed. A weather report from Erie: clear skies, northwest wind, the lake calm. A commercial circular from Pittsburgh: iron prices holding steady at twenty-six dollars per ton. The wire carried its ordinary freight and Elias carried the wire's cargo to paper and the paper accumulated on the desk in a small pile of messages that meant nothing to him and everything to someone and he was the instrument through which the meaning passed, untouched by the passing, unaltered, the galena that converts the invisible to the audible without itself making a sound.
 
-His hands did not shake. He noticed this. He could not tell whether the stillness meant he had done the right thing or whether it meant he had simply done a thing, and the body, relieved of indecision, does not distinguish between right and done. The stillness might be peace. The stillness might be the beginning of the particular numbness that allows a man to transmit a warrant and a warning on the same instrument without feeling the contradiction, because the instrument does not feel, and he was becoming the instrument, and this was either his salvation or his damnation, and the wire would not tell him which, and the morning was ordinary, and he worked.
+His hands did not shake. He noticed this. He could not tell whether the stillness meant he had done the right thing or whether it meant he had simply done a thing, and the body, relieved of indecision, does not distinguish between right and done. The stillness might be peace. The stillness might be the numbness that allows a man to transmit a warrant and a warning on the same instrument without feeling the contradiction, because the instrument does not feel, and he was becoming the instrument, and this was either his salvation or his damnation, and the wire would not tell him which, and the morning was ordinary, and he worked.
 
 ---
 
@@ -375,17 +373,17 @@ His hands did not shake. He noticed this. He could not tell whether the stillnes
 
 The woods thickened south of Pittsfield and the ground dropped and the air grew damp in the way that meant water close. Rue walked with one hand on the trunks of trees, feeling the bark under her fingers — the shaggy strips of hickory, the shallow grooves of ash, the smooth gray plates of beech that felt, in the dark, like the skin of something alive and cold-blooded. She was listening for water. She was listening for horses. She was listening for dogs, though she had not heard dogs and the absence of dogs was either luck or a fact about the marshals' methods that she did not have enough information to interpret.
 
-Her breathing had steadied into the rhythm of distance. In and step and out and step. The air was sharp in her nostrils and carried the mineral smell of creek water and the animal smell of wet fur — a fox or a raccoon somewhere in the undergrowth, invisible, aware of her passing the way she was aware of the telegraph wires strung above the roads she had crossed earlier that night, humming with messages she could not hear, carrying information about her body from one city to another at a speed her body could never match. She had seen the wires and felt nothing about them. They were part of the landscape the way fences were part of the landscape: structures built by people who believed in the permanence of their claims. The wires would outlast her. The wires were already outlasting her, carrying the description of her arm and her height and her darkness to men who would read the description and convert it from language into pursuit. She did not think about the wires. She thought about the next step. She did not think about what was ahead. She did not think about the river. She did not think about what lay on the other side of the river, which was Kentucky, which was the state that had made her property and from which she had escaped, into which she was now returning of her own will for the first time in her life, and the phrase "of her own will" was so unfamiliar in her mouth that she almost said it aloud, just to hear whether the words sounded like a language she spoke.
+Her breathing had steadied into the rhythm of distance. In and step and out and step. The air was sharp in her nostrils and carried the mineral smell of creek water and the animal smell of wet fur — a fox or a raccoon somewhere in the undergrowth, invisible, aware of her passing the way she was aware of the telegraph wires strung above the roads she had crossed earlier that night, humming with messages she could not hear. She did not think about the wires. She thought about the next step. She did not think about the river. She did not think about what lay on the other side of the river, which was Kentucky, which was the state that had made her property and from which she had escaped, into which she was now returning of her own will for the first time in her life, and the phrase "of her own will" was so unfamiliar in her mouth that she almost said it aloud, just to hear whether the words sounded like a language she spoke.
 
 She came over a low ridge and down through a stand of birch, white trunks catching what little light the sky offered, and at the bottom of the ridge, beside a creek she could hear but not yet see, a stump.
 
 The stump was glowing.
 
-Blue-green. The color of the memory she carried from the woods behind the tobacco barn when she was twelve and her name was Prudence and the world was a place where rotting wood could produce its own cold light. Foxfire. The fungi in the dead wood feeding on the decay and producing, as a byproduct of their feeding, this glow — not warm, not a fire at all, but a luminescence, a light made by consumption, by the slow dissolution of what had once been solid and vertical and alive.
+Blue-green. Foxfire. The fungi in the dead wood feeding on the decay and producing, as a byproduct of their feeding, this glow — not warm, not a fire at all, but a luminescence, a light made by consumption, by the slow dissolution of what had once been solid and vertical and alive.
 
 She stopped. She had been walking for four hours without stopping and she stopped. The glow was steady and faint, barely enough to see by, but enough to see — the texture of the bark peeling away from the stump, the shelf mushrooms growing in tiers along the cut face, the moss at the base dark and wet and glittering in the foxfire's light as if strewn with small cold gems. The creek beyond it caught the glow and carried it, a blue-green thread in the black water, moving south.
 
-She did not kneel. She did not touch it. She was not twelve, and the beauty did not belong to her in the way it had belonged to the girl who knelt in the woods and felt the cold light on her fingertip and sat for an hour in wonder. That girl had nowhere to go. Rue had somewhere to go. The beauty was real and the urgency was real and they occupied the same moment the way the glow occupied the rot — inseparable, the one feeding on the other, the light impossible without the death of the wood.
+She did not kneel. She did not touch it. She was not twelve. The beauty was real and the urgency was real and she did not have the hour that the girl in the woods had given to it, and the glow did not care.
 
 She looked at it for the length of one breath. The blue-green on the stump and the shelf mushrooms and the water. The cold of it. The silence of a light that makes no sound.
 
