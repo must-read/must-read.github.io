@@ -7,8 +7,8 @@ authorA: "Olga Tokarczuk"
 authorB: "Franz Kafka"
 workX: "The Crying of Lot 49"
 workY: "Waiting for Godot"
-wordCount: 5866
-readingTimeMinutes: 23
+wordCount: 5934
+readingTimeMinutes: 24
 tags:
   - absurdism
   - bureaucracy
@@ -54,19 +54,19 @@ combination:
 
 ## I.
 
-The train from Prague to Stuttgart takes seven hours if you change at Nuremberg, or nine if you go through Pilsen and catch the regional connector at Schwandorf, which is what Dorota Nemcova did because the Schwandorf platform gave her fourteen minutes to check the station's postal annex — or the place where the postal annex had been, before it was converted into a coffee stand in 2011. She had photographed the coffee stand on two previous visits. In the photographs, you could still see the outline of the old sorting window beneath the menu board. She noted this in Notebook 37 with a mechanical pencil that she kept sharpened to a specific grade of point because imprecision in the margins made cross-referencing difficult later.
+The train from Prague to Stuttgart takes seven hours if you change at Nuremberg, or nine if you go through Pilsen and catch the regional connector at Schwandorf, which is what Dorota Nemcova did because the Schwandorf platform gave her fourteen minutes to check the station's postal annex — or the place where the postal annex had been, before it was converted into a coffee stand in 2011. She had photographed the coffee stand on two previous visits. In the photographs, you could still see the outline of the old sorting window beneath the menu board. She noted this in Notebook 37 with a mechanical pencil she kept sharpened to 0.3mm because imprecision in the margins made cross-referencing difficult later.
 
-A man in the seat across from her — sixties, reading glasses on a cord, the particular posture of a retired engineer — leaned forward during the second leg and said, "Excuse me, are you a professor?"
+A man in the seat across from her — sixties, reading glasses on a cord, shoulders set at the angle of someone who had spent decades checking levels — leaned forward during the second leg and said, "Excuse me, are you a professor?"
 
 "No," Dorota said. "I am an independent researcher."
 
 "Ah," the man said, and returned to his newspaper.
 
-Independent was the correct word. She had not been affiliated with any institution for three years, since the Klementinum had declined to renew her contract. The head of cataloguing had been apologetic in a way that suggested rehearsal. "Your work has become — peripheral," he said, searching for the word while looking at a spot above her left ear. What he meant was that she had been caught using the library's digitized cadastral maps to cross-reference postal codes with property boundaries dating to the Habsburg-era postal reform of 1837, and that this was not, in any interpretation that could survive a performance review, part of her duties as a cataloguing archivist.
+Independent was the correct word. She had not been affiliated with any institution for three years, since the Klementinum had declined to renew her contract. The head of cataloguing had been apologetic in a rehearsed way. "Your work has become — peripheral," he said, looking at a spot above her left ear. What he meant was that she had been caught using the library's digitized cadastral maps to cross-reference postal codes with property boundaries dating to the Habsburg-era postal reform of 1837, and that this was not, in any interpretation that could survive a performance review, part of her duties as a cataloguing archivist.
 
 She had not argued. Argument would have required explaining the network, and the network required more preamble than a human resources meeting permitted.
 
-The network: a system of dead-letter offices, rerouted mail, and coded addressing conventions that Dorota had been documenting for eleven years across thirty-seven notebooks. She believed — the word is precise, she *believed*, in the way that is load-bearing — that a communication infrastructure had persisted across Central Europe long after the institutions it served had dissolved, that mail was still being routed through nodes that appeared on no official register, and that the patterns she had identified in postal codes, forwarding records, and address anomalies constituted evidence of an ongoing, organized, and intentionally hidden correspondence channel.
+The network: a system of dead-letter offices, rerouted mail, and coded addressing conventions that Dorota had been documenting for eleven years across thirty-seven notebooks. She believed — the word is precise, she *believed*, the way a joist is load-bearing — that a communication infrastructure had persisted across Central Europe long after the institutions it served had dissolved, that mail was still being routed through nodes that appeared on no official register, and that the patterns she had identified in postal codes, forwarding records, and address anomalies constituted evidence of an ongoing, organized, and intentionally hidden correspondence channel.
 
 The evidence filled two walls of her rented room in Vinohrady. From the doorway, it looked like scholarship. From inside, it smelled like scholarship — old paper, pencil shavings, the mineral scent of archival dust that never entirely leaves your clothes. The notebooks were numbered and indexed. The cross-references were meticulous. One of her sources was a bus timetable she had found in a train station bathroom in Brno.
 
@@ -104,11 +104,11 @@ It did not occur to her — and this is not a failure of intelligence but of arc
 
 ## IV.
 
-Stuttgart was overcast and twelve degrees. Dorota checked into a pension near the Hauptbahnhof and spent the first afternoon on foot, walking the route from the station to Killesbergstrasse with Notebook 37 open in the crook of her left arm. Her right hand held the pencil. She walked the way some people pray — not for the destination but for the practice, the way the act organizes the body and makes the mind subordinate to the motion.
+Stuttgart was overcast and twelve degrees. Dorota checked into a pension near the Hauptbahnhof and spent the first afternoon on foot, walking the route from the station to Killesbergstrasse with Notebook 37 open in the crook of her left arm. Her right hand held the pencil. She walked the way some people pray — not for arrival but for the practice of it, the act organizing the body, the mind made subordinate to motion.
 
-The address from the letter — Killesbergstrasse 11 — was a dentist's office. DR. MED. DENT. R. FISCHBACH, the brass plate read. Dorota stood across the street and photographed the building's facade, paying particular attention to the arrangement of windows. The building was post-war reconstruction, four stories, the kind of functional architecture that replaced what the bombs had eaten and that now, seventy years later, had acquired the specific ugliness of a practical decision made under duress. She wrote: "The address is occupied by a dental practice, which, if the node is or was operational, would serve as adequate cover — a business with a high volume of short appointments, frequent foot traffic, and no expectation that visitors would linger or be known to one another."
+The address from the letter — Killesbergstrasse 11 — was a dentist's office. DR. MED. DENT. R. FISCHBACH, the brass plate read. Dorota stood across the street and photographed the building's facade, concentrating on the arrangement of windows. The building was post-war reconstruction, four stories, the functional architecture that replaced what the bombs had eaten and that now, seventy years later, had acquired the ugliness of a practical decision made under duress and never revisited. She wrote: "The address is occupied by a dental practice, which, if the node is or was operational, would serve as adequate cover — a business with a high volume of short appointments, frequent foot traffic, and no expectation that visitors would linger or be known to one another."
 
-Through the ground-floor window, she could see a receptionist at a desk. The receptionist noticed Dorota — it would be difficult not to notice a woman standing across the street photographing your workplace — and waved. A small gesture, reflexive, the kind of wave that means "I see you, you are a person, this is what people do."
+Through the ground-floor window, she could see a receptionist at a desk. The receptionist noticed Dorota — it would be difficult not to notice a woman standing across the street photographing your workplace — and waved. Reflexive, meaningless, the wave you give a stranger to acknowledge shared existence.
 
 Dorota wrote: "Contact acknowledged. Gestural. Ambiguous but consistent with low-level signal protocol."
 
@@ -132,11 +132,11 @@ Dorota wrote this down too.
 
 ## VI.
 
-In the Stuttgart Stadtbibliothek, in the local history section on the fourth floor, Dorota requested materials on the city's postal infrastructure during the occupation period. The librarian — a young woman with the specific patience of someone who has been trained to treat all requests as equally valid — brought her three folders and a bound volume of municipal administrative records from 1945-1952.
+In the Stuttgart Stadtbibliothek, fourth floor, local history, Dorota requested materials on the city's postal infrastructure during the occupation period. The librarian brought her three folders and a bound volume of municipal administrative records from 1945-1952 with the neutral efficiency of someone trained to treat all requests as equally valid, which, in a public library, they are.
 
-Within twenty minutes, Dorota had found what she was looking for. During the French occupation of Stuttgart (1945-1952), the city's postal routing had been reorganized to accommodate French military communications, creating a parallel system that operated alongside the civilian post. Mail addressed to certain buildings was routed through a separate sorting facility. The records were incomplete — "deliberately," Dorota noted, though the more likely explanation was that the French military had not considered municipal librarians a priority audience for its internal logistics.
+Within twenty minutes, Dorota had found what she was looking for. She always found what she was looking for. During the French occupation of Stuttgart (1945-1952), the city's postal routing had been reorganized to accommodate French military communications, creating a parallel system that operated alongside the civilian post. Mail addressed to certain buildings was routed through a separate sorting facility. The records were incomplete — "deliberately," Dorota noted, though the more likely explanation was that the French military had not considered municipal librarians a priority audience for its internal logistics.
 
-She spent three hours in the library. She filled eleven pages of Notebook 37 with references, cross-references, and annotations that connected the occupation-era postal anomaly to her larger reconstruction. The connections were elegant. They were precise. They had the internal consistency of a completed jigsaw puzzle — every piece fitting, the picture coherent, the only problem being that the picture on the box was not the same as the picture on the table, and Dorota had thrown away the box years ago.
+She spent three hours in the library. She filled eleven pages of Notebook 37 with references, cross-references, and annotations that connected the occupation-era postal anomaly to her larger reconstruction. The connections were elegant. They had the internal consistency of a completed jigsaw puzzle — every piece fitting, the picture coherent, the only problem being that the picture on the box was not the same as the picture on the table, and Dorota had thrown away the box years ago.
 
 ---
 
@@ -160,7 +160,7 @@ A pause. "Stuttgart."
 
 "Dorota. It was Pavla's birthday on Monday."
 
-The sentence arrived and sat in the conversation like a piece of furniture that had been delivered to the wrong apartment. Dorota knew this. She had known it on Monday, and she had known it on Tuesday when she boarded the train, and she knew it now, and the knowing had not been sufficient to produce a phone call because the letter from K. had arrived on Tuesday morning and the train to Stuttgart left at 11:14 and the window between the letter and the train had been filled with packing and route-planning and the specific administrative excitement of a lead that might be real.
+The sentence arrived and sat in the conversation like a piece of furniture that had been delivered to the wrong apartment. Dorota knew this. She had known it on Monday, and she had known it on Tuesday when she boarded the train, and she knew it now, and the knowing had not been sufficient to produce a phone call because the letter from K. had arrived on Tuesday morning and the train to Stuttgart left at 11:14 and the window between the letter and the train had been filled with packing and route-planning and the administrative excitement of a lead that might be real.
 
 "I'll call her when I get back," Dorota said.
 
@@ -168,9 +168,9 @@ The sentence arrived and sat in the conversation like a piece of furniture that 
 
 "Then I'll write to her."
 
-Tomas said nothing. The silence lasted four seconds — Dorota counted, because she counted everything — and in those four seconds the line between Stuttgart and Brno held open a channel through which something might have traveled, some acknowledgment of what the eleven years and the thirty-seven notebooks had cost the people who were not Dorota but who were adjacent to Dorota and who had watched the notebooks multiply and the room shrink and the conversations narrow until every subject became the network and every silence became an opportunity to explain the network.
+Tomas said nothing. The silence lasted four seconds — Dorota counted, because she counted everything — and in those four seconds neither of them said anything about the eleven years or the thirty-seven notebooks or the way the conversations had narrowed until every subject became the network and every silence became an opportunity to explain the network. Tomas did not say these things because he had learned that saying them changed nothing. Dorota did not say them because she did not know they were there to be said.
 
-"I found something extraordinary in the Stuttgart library today," Dorota said. "During the French occupation, the postal routing was reorganized in a way that created a parallel system — exactly the kind of infrastructure that could have persisted after the occupation ended, if someone had wanted it to. The records are incomplete, which is itself —"
+"I found something in the Stuttgart library today," Dorota said. "During the French occupation, the postal routing was reorganized in a way that created a parallel system — exactly the kind of infrastructure that could have persisted after the occupation ended, if someone had wanted it to. The records are incomplete, which is itself —"
 
 "Dorota."
 
@@ -198,7 +198,7 @@ He hung up. Dorota wrote in Notebook 37: "Call from T. Brief. Family matters. Re
 
 Thursday. The bench near the Killesberg Turm was wooden, green-painted, and positioned at a curve in the path that gave a view of the miniature railway's departure platform. Dorota arrived at 13:40. She sat. She placed Notebook 37 on her lap, open to the page where she had transcribed the letter from K. She placed Notebook 36 beside her on the bench — backup, context, the accumulated evidence of the previous eighteen months.
 
-The day was warmer than Wednesday. Thirteen degrees, partial cloud cover, the specific quality of late-February light in southwestern Germany that makes stone buildings look provisional, as though they might not be there in an hour. The park was not crowded. A woman with a stroller passed. Two joggers, running in the same direction at different speeds, producing the optical effect of one person gradually becoming two.
+The day was warmer than Wednesday. Thirteen degrees, partial cloud cover, late-February light in southwestern Germany — the kind that makes stone buildings look provisional, as though they might not be there in an hour. The park was not crowded. A woman with a stroller passed. Two joggers, running in the same direction at different speeds, producing the optical effect of one person gradually becoming two.
 
 At 13:55, the miniature railway's steam locomotive — the smaller of the two, black with red trim — let out a whistle. Dorota noted the time. The train departed with six passengers, all of them children except for a man at the back who appeared to be supervising and who held a camera with the self-conscious grip of someone documenting an outing for an absent spouse.
 
@@ -244,11 +244,11 @@ She sat on the bench with both notebooks open and she wrote a summary of the day
 
 Entry seven stopped her. She underlined it twice. She turned to Notebook 12 and found the page where she had written about the Premyslid dukes and the day-of-the-week theory. Kresomysl was Thursday. Thursday was today. But if Thursday was not a day but a position in a sequence — the fifth of seven — then the meeting was scheduled not for a date but for a place, the fifth location in a series she had not yet decoded.
 
-The thought had the particular electricity of a connection forming, the spark that jumps the gap between two pieces of evidence that had previously been separate. Dorota felt it in her hands first, the pencil pressing harder, and then in her chest, the expansion of a lung filling with air that feels like it contains more oxygen than usual, and she was writing fast now, filling the margin with arrows and numbers, and the park was nearly empty and the light was going and she did not notice either of these things because she was inside the pattern and the pattern was growing.
+Dorota felt it in her hands first, the pencil pressing harder, and then in her chest, and she was writing fast now, filling the margin with arrows and numbers, and the park was nearly empty and the light was going and she did not notice either of these things because she was inside the pattern and the pattern was growing.
 
 She would come back tomorrow.
 
-The decision was not dramatic. It did not feel like a turning point. It felt like the only reasonable response to an incomplete data set — you do not abandon a research site because one session was unproductive. You adjust your parameters. You return. Eleven years of notebooks had taught her this: the network revealed itself on its own schedule, and the researcher's job was to be present when it did.
+The decision did not feel like a decision. It felt like the only reasonable response to an incomplete data set — you do not abandon a research site because one session was unproductive. You adjust your parameters. You return.
 
 She closed the notebooks. She stood. Her knees ached — she had been sitting for two hours and twenty minutes, and her body had been recording what her mind had not, the accumulating minutes registered as stiffness in the joints, a crick in the neck from looking down at the page, the faint nausea of skipping lunch. She walked to the park gate. The gate was closing — a man in a green jacket was pulling one side shut, and he nodded at her, the nod of a municipal employee who has seen many people leave parks at closing time and does not wonder why any of them were there.
 
@@ -272,13 +272,13 @@ Dorota ate the sandwich at 9:20. She was writing in Notebook 37, developing the 
 
 At 10:30, the miniature railway started. She heard the whistle first, then the mechanical sounds of a small locomotive building steam, and then the train appeared from behind the maintenance shed and began its loop. Three passengers this time: a woman, a toddler, and a man who might have been the woman's husband or father or a stranger who had boarded the same train the way strangers board the same elevator, through coincidence and proximity. The train passed Dorota's bench. The toddler waved. Dorota did not wave back, but she watched the train round the curve and disappear behind the lindens, and she listened to it come around again, and she listened to it come around again, and the repetition was not monotonous but structural, the way a heartbeat is structural, evidence of a system persisting.
 
-She wrote. She waited. The train looped. A dog investigated the base of her bench and moved on. Clouds passed over the Killesberg Turm in a way that altered the light every few minutes, so that the park kept revising itself — brighter, darker, brighter — as though it could not decide on a final draft.
+She wrote. She waited. The train looped. A dog investigated the base of her bench and moved on. Clouds passed over the Killesberg Turm and altered the light every few minutes, so that the park kept revising itself — brighter, darker, brighter — as though it could not decide on a final draft.
 
 At 11:45, she realized she had not specified, in any of her seven interpretations of K.'s absence, the possibility that K. did not exist.
 
-The thought arrived the way a draft arrives through a crack in a window — not through the door, not invited, but through a structural imperfection in the room that becomes apparent only when the wind shifts. She held the thought for approximately four seconds. Then she wrote in the margin: "Addressed in interpretation #3: 'The letter is a provocation by a third party seeking to discredit the research.' The non-existence of K. as an individual does not negate the existence of the letter as an artifact. The letter exists. Its postal history is documentable. The question is not whether K. exists but whether K.'s knowledge is genuine."
+She held the thought for approximately four seconds. Then she wrote in the margin: "Addressed in interpretation #3: 'The letter is a provocation by a third party seeking to discredit the research.' The non-existence of K. as an individual does not negate the existence of the letter as an artifact. The letter exists. Its postal history is documentable. The question is not whether K. exists but whether K.'s knowledge is genuine."
 
-The four seconds closed. The draft was sealed. The thought did not return, because the room — the room being her method, her architecture, the thing she had built over eleven years from thirty-seven notebooks and thousands of cross-references and the specific, practiced motion of a mechanical pencil across unlined paper — the room did not have space for it. The room was full.
+The four seconds closed. The thought did not return, because the room — the room being her method, her architecture, the thing she had built over eleven years from thirty-seven notebooks and thousands of cross-references and the practiced motion of a mechanical pencil across unlined paper — the room did not have space for it. The room was full.
 
 ---
 
@@ -302,9 +302,9 @@ At noon, a second phone call. Not Tomas this time. Pavla.
 
 "It is true."
 
-"It's always true. Everything you say is always true and none of it is about anything real."
+"It's always true. It always sounds true. And then you've been talking for forty minutes and I realize you haven't asked me a single question."
 
-The sentence landed and Dorota did not write it down. This was unusual. She wrote everything down.
+Dorota opened her mouth and closed it. She did not write this down.
 
 "The meeting is today," Dorota said. "Or it was yesterday and it will be rescheduled. I'm waiting."
 
@@ -316,9 +316,9 @@ The sentence landed and Dorota did not write it down. This was unusual. She wrot
 
 "The confirmation is coming, Pavla. This letter — the letter I received — this is different from the other leads. Someone reached out. Someone in the network made contact."
 
-There was a sound on the line that might have been a laugh or might have been the exhalation that replaces a laugh when the thing that is funny has been funny for too long. "Goodbye, Dorota," Pavla said. "I hope they come."
+"Goodbye, Dorota," Pavla said. The line went dead before Dorota could determine whether the sound at the end was a laugh or a breath or the phone being put down on a table.
 
-She hung up. Dorota sat with the phone in her hand for a moment, looking at the screen. Then she placed it in her coat pocket and opened Notebook 37 and wrote: "12:04. Call from P. Personal. Expressed skepticism re: investigation. Emotional subtext. Resume observation."
+Dorota sat with the phone in her hand for a moment, looking at the screen. Then she placed it in her coat pocket and opened Notebook 37 and wrote: "12:04. Call from P. Personal. Expressed skepticism re: investigation. Emotional subtext. Resume observation."
 
 ---
 
@@ -334,15 +334,13 @@ At 15:30, the model-airplane boy from yesterday appeared again. Same jacket. Sam
 
 She did not write about him this time. This, too, was unusual.
 
-At 16:00, she closed the notebooks. The miniature train was still running — she could hear its whistle from the far side of the loop, a sound made small by distance and by the fact of its smallness to begin with, a whistle designed for a locomotive two feet tall, a sound that could not carry authority but carried instead a kind of insistence, the insistence of a system that runs whether or not anyone needs to go anywhere.
+At 16:00, she closed the notebooks. The miniature train was still running — she could hear its whistle from the far side of the loop, a sound made small by distance and by the fact of its smallness to begin with, a whistle designed for a locomotive two feet tall, a sound that could not carry authority but insisted anyway, the way any system insists that runs whether or not anyone needs to go anywhere.
 
 She would come back tomorrow. And on Monday, if tomorrow was insufficient. The pension was paid through Sunday, but she could extend. Stuttgart was not expensive. She had savings — not large savings, but the savings of a person whose only significant expenditure for eleven years had been notebooks and train tickets, which is to say the savings of a person who has replaced living with documenting.
 
-The thought formed and dissolved, the way thoughts do when they are true and the person having them is not ready.
+She walked to the park gate. The same man in the green jacket was there, pulling the gate shut. He nodded at her again. She nodded back. Two nods on consecutive days from a man whose job was to close gates. A signal repeated at intervals. A pattern.
 
-She walked to the park gate. The same man in the green jacket was there, pulling the gate shut. He nodded at her again. She nodded back. Two nods on consecutive days from a man whose job was to close gates, which was, if you thought about it, a kind of correspondence — a signal repeated at intervals, a pattern, a confirmation that the system was still operating, that the gate still closed at the same time, that the man was still there to close it.
-
-Dorota did not think about it. She walked to the pension. She ate dinner at a Turkish restaurant on Friedrichstrasse — lentil soup, bread, tea — and she returned to her room and opened Notebook 37 and continued building the positional theory, Kresomysl as Thursday as fifth as the location she had not yet identified, and the writing was lucid and careful and wrong in the way a cathedral is wrong when it is built on sand: the error is in the foundation, and the spires do not know.
+Dorota did not think about it. But she would have, if she had not been tired. She would have found the correspondence. She walked to the pension. She ate dinner at a Turkish restaurant on Friedrichstrasse — lentil soup, bread, tea — and she returned to her room and opened Notebook 37 and continued building the positional theory, Kresomysl as Thursday as fifth as the location she had not yet identified, and the writing was lucid and careful and wrong in the way a cathedral is wrong when it is built on sand: the error is in the foundation, and the spires do not know.
 
 ---
 
@@ -350,9 +348,9 @@ Dorota did not think about it. She walked to the pension. She ate dinner at a Tu
 
 *From Notebook 37, page 94:*
 
-> Every queue has a window. This is the premise — not the hope, the premise. You stand in the queue because the window exists; the window exists because people stand in the queue. The system is its own evidence. Remove the queue, and the window is just a hole in the wall. Remove the window, and the queue is just people standing. But together they constitute an institution, a place where waiting is transformed into participation, where the empty time between arrival and service is not wasted but is, in fact, the substance of the interaction. You are not waiting for the window. You are the queue. The queue is the thing.
+> Every queue has a window. This is the premise — not the hope, the premise. You stand in the queue because the window exists; the window exists because people stand in the queue. Remove the queue, and the window is just a hole in the wall. Remove the window, and the queue is just people standing. But together they constitute an institution, a place where waiting is transformed into participation, where the empty time between arrival and service is not wasted but is, in fact, the substance of the
 
-> I have been the queue for eleven years. The window will open.
+The entry ends there. The bottom of the page. Dorota continued on page 95, which was torn out. The torn edge is clean — a deliberate removal, not an accident. She does not mention the missing page anywhere in the notebook's index.
 
 ---
 
@@ -360,10 +358,14 @@ Dorota did not think about it. She walked to the pension. She ate dinner at a Tu
 
 Saturday. Dorota at the bench by 8:45. She had brought both notebooks and a thermos of tea and a hard-boiled egg in a paper bag. The egg was an optimization — protein, portable, no utensils required. She peeled it over the paper bag and ate it in four bites, looking at the empty track where the miniature train would begin its loops in an hour and forty-five minutes.
 
-She was not unhappy. This is important to state clearly, because it would be easy — and incorrect — to describe what was happening as suffering. Dorota was not suffering. She was working. The work had a rhythm: observation, notation, cross-reference, theory. The rhythm was as regular as the miniature train's loop and as self-sustaining. It required no input from outside. It generated its own energy — each new page of the notebook produced questions that required another page, and the pages accumulated, and the accumulation was progress, and progress was evidence, and evidence was the work, and the work was the rhythm, and the rhythm continued.
+She was not unhappy. This is important to state clearly, because it would be easy — and incorrect — to describe what was happening as suffering. Dorota was not suffering. She was working. The work had a rhythm: observation, notation, cross-reference, theory. The rhythm required no input from outside. It generated its own energy — each new page of the notebook produced questions that required another page, and the pages accumulated, and the accumulation felt like progress, and she did not interrogate the feeling.
 
-The train started at 10:30. The whistle sounded. Dorota looked up, noted the time, and returned to her notebook. She was writing about Esslingen — the town where K.'s letter had been postmarked — and its relationship to the Stuttgart postal district, and the relationship of both to the Thurn und Taxis postal routes that had crisscrossed Swabia in the eighteenth century, and the survival of those routes as administrative ghosts in the modern postal code system, and she was writing well, the sentences coming cleanly, each one bearing its weight and handing off to the next, and the morning passed, and the train looped, and the children waved, and the parents waved back, and Dorota wrote, and the pattern grew, and the window did not open, and she did not expect it to open today, not anymore, not specifically, but she expected it to open, which was different and which was everything, which was the whole eleven years and the thirty-seven notebooks and the room in Vinohrady with its two walls of evidence and its one window that looked out onto a courtyard where, every morning, a woman hung laundry on a line, which was its own system, its own repetition, its own evidence that things continued.
+The train started at 10:30. The whistle sounded. Dorota looked up, noted the time, and returned to her notebook. She was writing about Esslingen — the town where K.'s letter had been postmarked — and its relationship to the Stuttgart postal district, and the relationship of both to the Thurn und Taxis postal routes that had crisscrossed Swabia in the eighteenth century, and she was writing well, the sentences coming cleanly, each one bearing its weight and handing off to the next, and the morning passed, and the train looped, and the children waved, and the parents waved back, and Dorota wrote.
+
+At 12:30, a woman sat on the bench across the path — the bench that had been empty for two days. She was perhaps sixty. She had a thermos and a paperback and the posture of someone who sat on this bench often. She read. She did not look at Dorota. After forty minutes, she closed her book, screwed the cap onto her thermos, and left.
+
+Dorota had watched her from the margins of her writing. She did not record the woman in Notebook 37. She did not record her because the woman was not evidence of anything, was not a signal or a contact or a node, was simply a person who had come to a bench in a park because it was Saturday and the bench was there.
 
 The miniature train passed. A child waved.
 
-Dorota did not wave back. She was writing.
+Dorota turned the page and kept writing.
