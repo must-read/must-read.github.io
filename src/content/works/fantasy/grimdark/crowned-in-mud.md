@@ -7,8 +7,8 @@ authorA: Joe Abercrombie
 authorB: Patrick Rothfuss
 workX: "Rashomon (Akutagawa/Kurosawa)"
 workY: "Macbeth (Shakespeare)"
-wordCount: 6100
-readingTimeMinutes: 25
+wordCount: 5980
+readingTimeMinutes: 24
 tags: [grimdark, multiple-perspectives, prophecy, ambition, tribunal, unreliable-narrators]
 rating: 0
 ratingCount: 0
@@ -61,13 +61,13 @@ He began.
 
 There are three things I would have the tribunal understand about the lord Aldric before I speak of his death.
 
-First: he was a man of uncommon discipline. In twenty-two years of campaigning beside him — from the first skirmishes along the Rill to the consolidation of the Harrowfells under a single banner — I never once saw him act from impulse. Every decision, every advance, every withdrawal bore the marks of careful thought. He was not brilliant in the way that poets celebrate, the flash of sudden insight on the field. He was brilliant in the way that water is brilliant, finding the lowest ground by patient inevitability. His enemies did not fall. They eroded. I have watched three rival lords make the same mistake in three different years: they assumed Aldric's patience was hesitation. They rode out to meet a man who was not there, because he had already moved around them, quiet as a season changing.
+First: he was a man of uncommon discipline. In twenty-two years of campaigning beside him — from the first skirmishes along the Rill to the consolidation of the Harrowfells under a single banner — I never once saw him act from impulse. Every decision, every advance, every withdrawal bore the marks of careful thought. He was brilliant in the way that water is brilliant, finding the lowest ground by patient inevitability. His enemies did not fall. They eroded. Three rival lords made the same mistake in three different years: they assumed his patience was hesitation. They rode out to meet a man who was not there, because he had already moved around them.
 
-Second: the lord's enterprises beneath the hills were conducted with the same deliberation. I will not speak of their nature in detail, as matters of resource and revenue belong to the treasury, not to a tribunal of inquiry. But the wealth that sustained the Harrowfell campaigns did not appear by accident, and the lord managed it with a merchant's precision and a general's foresight. He understood — as few commanders do — that war is not won on the field. War is won in the months between fields, in the counting houses and the supply wagons and the careful management of what the land provides. Those who suggest the enterprises had faltered in recent months understand neither the pace of such work nor the patience it demands. A mine does not fail. It rests. It yields in cycles, as the earth itself does, and the man who mistakes a pause for an ending will make poor decisions based on that mistake.
+Second: the lord's enterprises beneath the hills were conducted with the same deliberation. I will not speak of their nature in detail, as matters of resource and revenue belong to the treasury, not to a tribunal of inquiry. But the wealth that sustained the Harrowfell campaigns did not appear by accident, and the lord managed it with a merchant's precision and a general's foresight. He understood — as few commanders do — that war is not won on the field. War is won in the months between fields, in the counting houses and the supply wagons and the careful management of what the land provides. Those who suggest the enterprises had faltered in recent months understand neither the pace of such work nor the patience it demands.
 
 Third, and most important: the lord Aldric was at prayer when he died.
 
-I know this because I was the last person to see him alive. He had left his tent perhaps an hour past midnight. This was not unusual. He often walked the camp's edge in the late hours, not from sleeplessness but from a kind of devotion — a habit of standing apart, in silence, in contemplation of what the following day would require of him. It was his way of honoring the lives he held in his keeping. And on that last night, the night of which you ask me, I saw him from a distance. Standing at the camp's perimeter, where the firelight gave way to the dark. His head was bowed. His hands were clasped before him, though whether around a weapon or simply together, I could not tell in the dimness.
+I know this because I was the last person to see him alive. He had left his tent perhaps an hour past midnight. This was not unusual. He often walked the camp's edge in the late hours, not from sleeplessness but from devotion — a habit of standing apart, in silence, working through what the following day would require of him. And on that last night, the night of which you ask me, I saw him from a distance. Standing at the camp's perimeter, where the firelight gave way to the dark. His head was bowed. His hands were clasped before him, though whether around a weapon or simply together, I could not tell in the dimness.
 
 I returned to my own quarters. I should not have.
 
@@ -77,9 +77,9 @@ He was lying face-up in the mud. That is the first detail the tribunal must have
 
 There was blood. The wound was in his side, below the ribs, a single entry. Whoever struck him had known where to place the blade. This was not a wild attack — not the work of a scout or a sentry surprised in the dark. This was precision. Someone who understood how a body comes apart. I have seen enough killing in my years to distinguish between the wound of a man who has trained and the wound of a man who has merely wanted. This was the former. A hand that did not tremble. A blade placed where it would do its work completely and without spectacle, the way a surgeon opens a vein — without malice, without passion, with only the quiet competence of someone performing a task they have performed before.
 
-I knelt beside him. The mud was cold and it soaked through to my knees but I did not feel it then. I lifted his head — gently, as one lifts something already broken, not to mend it but to hold the shape of what it was — and I spoke to him, though I do not remember what I said. Words one says. The words that are merely the sound of presence, the way one speaks to the dying not for their benefit but for one's own, because silence in the presence of death is a country no man wishes to inhabit alone. He did not answer. I believe he was already gone, though the warmth in him suggested otherwise, suggested the death was minutes old, not hours, and that whatever I had seen from a distance — the bowed head, the clasped hands — had been the last minutes of his life, and I had watched them from across the camp and done nothing.
+I knelt beside him. The mud was cold and it soaked through to my knees but I did not feel it then. I lifted his head — gently, as one lifts something already broken, not to mend it but to hold the shape of what it was — and I spoke to him, though I do not remember what I said. Words one says. The sounds a man makes because the alternative is silence, and silence beside a dying man is unbearable. He did not answer. I believe he was already gone, though the warmth in him suggested otherwise, suggested the death was minutes old, not hours, and that whatever I had seen from a distance — the bowed head, the clasped hands — had been the last minutes of his life, and I had watched them from across the camp and done nothing.
 
-I held him until others came. The torches arrived. Voices. The particular chaos of a camp waking to a thing it does not understand. I set his head down carefully, in the mud, and stood, and my knees were wet and dark, and I did not think about that then. I think about it now. The mud on my breeches. The warmth still in his neck when I first touched it. These details arrange themselves in the days after a death and become a kind of private liturgy, whether one wishes it or not.
+I held him until others came. The torches arrived. Voices. The chaos of a camp waking to something it does not understand. I set his head down carefully, in the mud, and stood, and my knees were wet and dark, and I did not think about that then. I think about it now. The mud on my breeches. The warmth still in his neck when I first touched it. These details arrange themselves in the days after a death and become a private liturgy, whether one wishes it or not.
 
 That is my testimony. I saw the lord at prayer. I found him dead. Between those two moments, someone came out of the darkness and killed him, and I did not see who.
 
@@ -211,11 +211,11 @@ Did I pitch my voice? Did I choose those words — "fall," "yield nothing more" 
 
 I'm a surveyor. I read the ground. I told the lord what was under it. The camp heard something else. And then the camp acted on what it heard.
 
-I will say this: I did not correct them. When the prophecy spread — when I heard it repeated back to me, distorted, "he will fall," as though the earth itself had spoken a judgment against the man who sat atop it — I did not stand up and say, "I was talking about quartz." I let it live. I let it walk through the camp and grow and change and become the thing it became. Maybe because it was useful. Maybe because part of me believed it was true in both readings. The ground does not lie. The ground said the vein would end. And Aldric was a vein. Aldric was a resource that men had been extracting for twenty years, and he was playing out, and anyone who read structures — anyone who understood how weight distributes through material, how pressure builds in sealed spaces, how a thing collapses when the supports are drawn — could see it.
+I will say this: I did not correct them. When the prophecy spread — when I heard it repeated back to me, distorted, "he will fall," as though the earth itself had spoken a judgment against the man who sat atop it — I did not stand up and say, "I was talking about quartz." I let it live. I let it walk through the camp and grow and change and become the thing it became. Maybe because it was useful. Maybe because part of me believed it was true in both readings. The ground does not lie. The ground said the vein would end. And Aldric was a vein. Aldric was a resource that men had been extracting for twenty years, and he was playing out, and anyone who read structures — anyone who understood load-bearing structures, how pressure builds in sealed spaces, how a thing collapses when the supports are drawn — could see it.
 
 About that night.
 
-I was in my tent. I was awake, because I had been awake every night that week, because you do not sleep well when you have spoken a sentence that you suspect might kill someone. I heard sounds from the camp's edge. Not shouting — that came later. Before the shouting, there was a scraping, and a heavy sound, and then quiet. The kind of quiet that is louder than noise because it means something has stopped that should not have stopped.
+I was in my tent. I was awake, because I had been awake every night that week, because you do not sleep well when you have spoken a sentence that you suspect might kill someone. I heard sounds from the camp's edge. Not shouting — that came later. Before the shouting, there was a scraping, and a heavy sound, and then nothing.
 
 I went out. The path to the latrines was mud — everything was mud, it had rained for three days — and I walked without a torch because my eyes were already adjusted and because a torch makes you visible and I did not want to be visible.
 
@@ -263,14 +263,20 @@ Torvald shook his head. Bram did not react.
 
 The clerk wrote it down. The singing. Another fragment that fit no version, that served no narrator, that would sit in the record like a stone in a shoe.
 
-Orren set his pen down on his notes. He looked at the three of them for a long time, the kind of looking that is not examination but something closer to resignation. The expression of a man who has asked for the truth and received three versions of a lie and knows that somewhere in the space between them — in the contradictions, the impossible positions, the buckle and the boot and the singing — there is something actual. Something that happened in the mud, in the dark, that all three of them touched and none of them hold.
+Orren set his pen down on his notes. He looked at the three of them for a long time, the kind of looking that is not examination but exhaustion. He had asked for the truth and received three versions of a lie. Somewhere in the contradictions — the buckle and the boot and the singing — there was something actual. He could feel the shape of it. He could not pick it up.
 
 He did not speak his conclusions. There would be a report. The report would choose a version, because reports must, because tribunals exist to produce verdicts and verdicts require the illusion of certainty. One of the three would be named. The others would walk out into whatever remained of the Harrowfells with their versions intact, polished or ragged or fragmented, and the dead man would stay where he was: face-down, face-up, at prayer, mid-piss, reaching for something, reaching for nothing.
 
-The mud smelled like iron.
+"We are finished," Orren said.
 
-The clerk closed his inkwell. The candle on the magistrate's table guttered in a draft that came from nowhere, or from the high slit in the wall, or from the door that the guard had not quite closed. Ilva watched the flame lean sideways and steady itself. She thought of the sealed peak, the dark inside it, the quartz vein running through limestone two hundred and forty feet beneath men who would kill each other over what it held. The mountain did not care. The mountain held what it held, and said nothing, and would go on holding it after the tribunal and the verdict and the war that would or would not come.
+The clerk closed his inkwell. Torvald stood first, unhurried, adjusting his cloak with the practiced motion of a man who has left difficult rooms before. Ilva stood and did not adjust anything. She walked toward the door.
 
-She had told them where the gold was. She had told them when it would end.
+Bram did not stand. He was looking at his hands again — the same way he had been when they brought him in, reading whatever was written there. The guard waited. Orren waited. The candle on the magistrate's table guttered in a draft from the high slit in the wall.
 
-Whether she had told them anything more was a question the mountain would not answer, and she had stopped asking.
+"Commander," Orren said.
+
+Bram looked up. Not at the magistrate. At Ilva's back, already in the doorway. He opened his mouth and closed it. Then he said, to no one in particular: "Someone was singing."
+
+Ilva stopped. She did not turn around.
+
+The guard took Bram's arm and he went with it, and the room was empty except for Orren and the clerk and the smell of tallow and old stone and the notes on the table that would become a report that would become a verdict that would name someone, and the singing would not be in it.
