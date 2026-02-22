@@ -10,10 +10,10 @@ workY: "In a Lonely Place"
 wordCount: 5200
 readingTimeMinutes: 21
 tags: ["tartan-noir", "scotland", "migrant-workers", "institutional-corruption", "reverse-chronology", "class-violence", "peat-industry", "complicity"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Derek Raymond's unflinching, existentially bleak British noir fused with Chester Himes's ability to render institutional racism through crime narrative with coexisting rage and dark absurdist humor. Laidlaw provides the structural DNA of Scottish crime fiction; In a Lonely Place provides the thematic revelation that the investigator is implicated in what he investigates."
 synopsis: "A sergeant in a dying Scottish port town stands over a migrant worker's body in a peat cutting face. The story moves backward through the months of institutional indifference that made the death inevitable."
 combination:

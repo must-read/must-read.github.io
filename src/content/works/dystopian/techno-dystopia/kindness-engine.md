@@ -10,10 +10,10 @@ workY: "Brave New World"
 wordCount: 5036
 readingTimeMinutes: 20
 tags: ["techno-dystopia", "predictive-policing", "algorithmic-control", "wellness-as-coercion", "found-documents", "consent", "surveillance", "social-work"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Huxley's satirical precision about pleasure-as-control fused with Butler's visceral depiction of bodies under institutional power. Minority Report provides the architecture of a predictive system unraveling from within; Brave New World provides the thematic horror of a populace that has been made to love its own subjugation."
 synopsis: "Through intake forms, compliance reports, and appeal transcripts, a Community Wellness Liaison documents the human cost of a predictive kindness algorithm — until the system's gaze turns on her."
 combination:

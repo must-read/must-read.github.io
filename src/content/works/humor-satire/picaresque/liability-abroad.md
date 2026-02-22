@@ -10,10 +10,10 @@ workY: "The Importance of Being Earnest"
 wordCount: 3097
 readingTimeMinutes: 12
 tags: ["picaresque", "cultural-diplomacy", "literary-fraud", "identity", "farce", "eastern-europe", "performance", "comic-misadventure"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Wilde's epigrammatic wit and delight in performative identity fused with Sedaris's self-deprecating, confessional comic voice. A Confederacy of Dunces provides the structural engine of a deluded protagonist stumbling through escalating disasters; The Importance of Being Earnest provides the thematic architecture of identity as performance."
 synopsis: "A British cultural attache sent to honor a reclusive Eastern European novelist discovers the author is a village-wide fiction — and decides she can play the part better than anyone."
 combination:

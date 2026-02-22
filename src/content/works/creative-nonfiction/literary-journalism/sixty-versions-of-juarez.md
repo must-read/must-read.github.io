@@ -18,10 +18,10 @@ tags:
   - demolition
   - texas
   - self-reckoning
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: 2026-02-22
-status: "draft"
+status: "published"
 formulaSummary: >
   Talese's immersive, novelistic scene-building fused with Solnit's associative, digressive
   essayistic intelligence. In Cold Blood provides the structural blueprint of multiple perspectives

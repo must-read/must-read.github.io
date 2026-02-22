@@ -10,10 +10,10 @@ workY: "Annihilation"
 wordCount: 3341
 readingTimeMinutes: 13
 tags: ["body-horror", "corporate-horror", "organ-donation", "biological-transformation", "biotech", "consent", "identity", "mutation"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: "Machado's surreal, body-centered horror and fairy-tale undertow fused with Ligotti's nightmarish institutional pessimism. The Vegetarian provides the structural architecture of radical bodily transformation as refusal; Annihilation provides the thematic DNA of mutation without malice."
 synopsis: "A biotech employee's body transforms after joining her company's tissue-sharing program. The horror isn't the mutation — it's that her honest reaction is relief."
 combination:
