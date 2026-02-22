@@ -5,7 +5,7 @@ genre: "romance"
 subgenre: "romantasy"
 authorA: "Jane Austen"
 authorB: "Nora Roberts"
-workSlug: ""
+workSlug: "sympathetic-grounds"
 wordCount: 2658
 publishedDate: 2026-02-22
 ---
