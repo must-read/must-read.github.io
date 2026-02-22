@@ -7,8 +7,8 @@ authorA: "Jim Thompson"
 authorB: "Walter Mosley"
 workX: "The Maltese Falcon"
 workY: "The Long Goodbye"
-wordCount: 4074
-readingTimeMinutes: 16
+wordCount: 3702
+readingTimeMinutes: 15
 tags:
   - private-investigator
   - friendship
@@ -92,13 +92,13 @@ What I asked was: "You want me to find him?"
 
 "Why not the police?"
 
-Emmett looked at me the way you look at someone who's said something you both know the answer to but politeness requires you to say out loud. "Calvin's got a record. Receiving stolen property, 1949. The police hear a Black man with a record took fourteen thousand dollars, they'll put the file in a drawer and go to lunch."
+Emmett gave me a look that said I already knew the answer. "Calvin's got a record. Receiving stolen property, 1949. The police hear a Black man with a record took fourteen thousand dollars, they'll put the file in a drawer and go to lunch."
 
 He was right about that. Under Chief Parker, the LAPD had gotten efficient at two things: beating suspects and losing paperwork. I'd watched them do both during my time as a crime scene technician, and the beating they gave a man named Jerome Hollister behind the 77th Street station in 1953 — left him blind in one eye — was what finally made me quit. I filed two reports. Both disappeared. I took the hint.
 
 "I'll look into it," I said.
 
-Emmett put his hand on my shoulder. The weight of it was real — not a gesture, not a performance, just the hand of a man I'd known since his mother fed me dinner when my own mother was too sick to lift a pot. Winters in 1935, on 89th Street, Emmett's mother made rice and beans and set a plate for me like I was hers. I ate at that table more than I ate at my own. That was the debt. Not money. Not favors. The debt was a plate of food when you're twelve and hungry and nobody else is looking.
+Emmett put his hand on my shoulder. Not a gesture, not a performance, just the hand of a man I'd known since his mother fed me dinner when my own mother was too sick to lift a pot. Winters in 1935, on 89th Street, Emmett's mother made rice and beans and set a plate for me like I was hers. I ate at that table more than I ate at my own. That was the debt. Not money. Not favors. A plate of food when you're twelve and hungry and nobody else is looking.
 
 "Thank you," he said.
 
@@ -126,7 +126,7 @@ He let me in. The room had a cot, a hot plate, a cardboard box being used as a n
 
 "Emmett says you took fourteen thousand dollars," I said.
 
-Calvin laughed. It was the kind of laugh that comes out of you when something is so wrong that the machinery of your face doesn't know what else to do. He sat on the cot and picked up the rye and poured some into a coffee cup and drank it the way a man drinks medicine.
+Calvin laughed. It was the kind of laugh that comes out of you when something is so wrong that your face doesn't know what else to do. He sat on the cot and picked up the rye and poured some into a coffee cup and drank it like medicine.
 
 "Sit down," he said. "You might as well sit down."
 
@@ -136,7 +136,7 @@ I sat on the cardboard box. It held my weight, barely.
 
 "Unwinding what."
 
-Calvin looked at me. He looked at me the way you look at a man who doesn't know what you know but is about to, and you feel sorry for him the way you feel sorry for anyone about to learn that the ground they're standing on is rotten.
+Calvin looked at me with something close to pity.
 
 "Emmett's not helping anybody buy houses," Calvin said. "He's selling them on installment contracts. Inflated prices — thirty, forty percent above market. Balloon payments at eighteen months. When the family can't pay the balloon, and they can't, nobody can, he forecloses. Keeps the down payment. Keeps the house. Resells it to the next family. Same terms. Same result."
 
@@ -154,9 +154,9 @@ I looked at the contracts. I read the names. The Washingtons. The Presleys. The 
 
 Something happened to me in that room. For about five seconds I understood Emmett completely. Not forgave him. Understood him. The banks had redlined these neighborhoods for thirty years. The federal government drew maps in 1938 that colored Black neighborhoods red and told every lending institution in America: don't touch them. When the covenants fell and families surged into Compton, nobody would write them a mortgage. Emmett saw the gap. He stepped into it. He became the bank. And the bank, as banks do, ate people.
 
-For five seconds I felt a cold admiration for the economy of it — Emmett had looked at a system built to devour Black wealth and said: if someone's going to eat, it might as well be me. The logic of a man who'd decided the only choice was operator or meat.
+For five seconds I felt a cold admiration for the economy of it. Operator or meat — those were the options Emmett saw, and he'd chosen.
 
-Then the five seconds passed, and what replaced the admiration was worse. Not outrage. Familiarity. I'd used that logic myself — in the parking lot behind the 77th Street station, watching three officers beat Jerome Hollister, doing the arithmetic: if I step in, I lose my job, they beat me too, and Hollister still goes blind. If I stand still, at least I survive to file the report. Rational. Correct. The same math Emmett used when he looked at those families and saw inventory.
+Then the five seconds passed. What replaced the admiration was worse. Familiarity. I'd done the arithmetic myself — in the parking lot behind the 77th Street station, watching three officers beat Jerome Hollister: if I step in, I lose my job, they beat me too, and Hollister still goes blind. If I stand still, at least I survive to file the report. Rational. Correct. The same math Emmett used when he looked at those families and saw inventory.
 
 I picked up one of the contracts. The Tolliver family. A purchase price of $11,800 for a house worth $7,200. Eighteen-month balloon of $6,400. They'd paid $2,100 down.
 
@@ -196,7 +196,7 @@ Three more houses. The Washingtons on Spruce, four months before the balloon. Th
 
 ---
 
-I went to his house on a Thursday evening. Hobart Boulevard. A nice house — two stories, good furniture, paintings on the walls. Not prints. I sat in an armchair and Emmett sat on the sofa and we looked at each other the way two men look at each other when they both know the same thing and the question is who says it first.
+I went to his house on a Thursday evening. Hobart Boulevard. A nice house — two stories, good furniture, paintings on the walls. Not prints. I sat in an armchair and Emmett sat on the sofa and we looked at each other the way two men look at each other when the only question left is who speaks first.
 
 He said it first.
 
@@ -208,7 +208,7 @@ He said it first.
 
 "Yes."
 
-Emmett leaned back into his sofa. He was still a big man, still broad, but in that moment something shifted in the architecture of his body, a settling, like a house after the foundation cracks — everything still standing but nothing plumb anymore.
+Emmett leaned back into his sofa. He was still a big man, still broad, but in that moment something settled in him, the way a house settles after the foundation cracks — everything still standing but nothing plumb.
 
 "I suppose you want me to explain."
 
@@ -226,7 +226,7 @@ Emmett stood up and went to a sideboard and poured two glasses of something brow
 
 "I gave them a way. Yes, the terms are hard. The terms are always hard, Nate. You think the banks that redlined these people for thirty years would have given them better terms? I'm the only one who said yes."
 
-He was right. Not right in a way that made it acceptable, but right in a way that made it understandable, and understandable was worse than wrong. Wrong I could fight. But Emmett pointing at the machine that had chewed Black families for decades and saying *I'm just using the same teeth* — that was a man who'd looked at the world clearly and drawn a conclusion I couldn't refute without also refuting the world.
+He was right. Not right in a way that made it acceptable, but right in a way that made it understandable, and understandable was worse than wrong. Wrong I could fight. Emmett pointing at the machine and saying *I'm just using the same teeth* — I couldn't refute him without refuting the world that made him.
 
 "You beat Calvin," I said.
 
@@ -262,7 +262,7 @@ I finished my bourbon. I set the glass on the table. I stood up.
 
 I gave the contracts to a lawyer named Everett Sims on Western Avenue. Patient, thorough, uninterested in publicity. I told him about the families and the balloon payments. I did not tell him Emmett was my friend.
 
-Sims turned the pages slowly, the way a man reads a will.
+Sims turned the pages slowly. Reading them like a will.
 
 "Unconscionable terms," he said. "I can get injunctions. Probably restitution."
 
@@ -274,18 +274,16 @@ Sims turned the pages slowly, the way a man reads a will.
 
 Sims nodded. In 1957, a story about a white predatory lender was a business story. A story about a Black predatory lender was an indictment of a race.
 
-I didn't tell Emmett. That's the part I have to say clearly, because it's the part that matters, the part that reveals the thing about me that I've been narrating around since the beginning. I did the right thing — I gave the contracts to a lawyer, the families would get their money back, the scheme would collapse. But I did it through a back door. I let Emmett believe that Calvin went to the lawyer on his own, that Calvin found Sims without my help, that the unraveling of Emmett's empire was Calvin's doing, not mine.
+I didn't tell Emmett. I did the right thing — gave the contracts to a lawyer, the families would get their money back, the scheme would collapse — but I did it through a back door. I let Emmett believe that Calvin went to the lawyer on his own, that Calvin found Sims without my help.
 
-I could say I did it to protect the case. I could say I didn't want Emmett to have time to destroy evidence. Both of those things are true in the way that a pink swab is true — presumptive. The real reason, the reason under the reason, is that I couldn't stand to be the one. I couldn't be the friend who took twenty years of plates-on-the-table and repaid it by tearing down the house. I wanted the right thing to happen but I wanted my hands to be clean when it did, and wanting clean hands is its own kind of rot, because it means you value your comfort over your honesty, and that arithmetic — my comfort, my peace of mind, weighed against the truth of what I did — that arithmetic is Emmett's arithmetic. Balloon payments of the soul.
-
-I know this about myself. I have known it since the parking lot in 1953, since Jerome Hollister's eye, since every correct and rational decision I've made that was also the coward's decision. I am a man who does the right thing from a safe distance, and the distance is the ugliest part of me.
+I could say I did it to protect the case. That I didn't want Emmett to have time to destroy evidence. Both true in the way that a pink swab is true — presumptive. The real reason is that I couldn't be the friend who took twenty years of plates-on-the-table and repaid it by tearing down the house. I wanted the right thing to happen and I wanted my hands clean when it did. That kind of wanting has a name, but I won't use it here, because naming it would be another way of keeping my hands clean — confession as its own back door.
 
 ---
 
-I drove past the Watts Towers at dusk. The sun was going down over the basin and the sky was the color of a bruise healing — purple and yellow and a thin line of red along the horizon where the refineries were, and the towers stood there against it all, ninety-nine feet of salvage, thirty-three years of one man's wanting to do something big.
+I drove past the Watts Towers at dusk. The sun was going down over the basin and the sky was the color of a bruise healing — purple and yellow and a thin line of red along the horizon where the refineries were, and the towers stood there against it all, ninety-nine feet of salvage, thirty-three years of one man's work.
 
-Rodia was gone. He deeded the lot to a neighbor and drove north and never came back. People argued about whether that was strength or abandonment. The towers were already starting to decay — salt air, kids throwing rocks. The city talked about demolishing them. Nobody talked about asking Rodia what he thought.
+Rodia was gone. Deeded the lot to a neighbor and drove north and never came back. The towers were already starting to decay — salt air, kids throwing rocks. The city talked about demolishing them.
 
-I thought about Emmett. About the house on Hobart with its paintings that weren't prints. Whether the difference between his construction and Rodia's was that Rodia built with salvage and Emmett built with people. I thought about the Presleys' lemon tree and Mrs. Tolliver's pregnancy. I thought about the pink swab in the paper bag in my case, evidence of something I'd never present, the color of a question I'd answered without asking.
+I thought about the Presleys' lemon tree and Mrs. Tolliver's pregnancy. I thought about the pink swab in the paper bag in my case, evidence of something I'd never present.
 
-The steering wheel was still warm from the afternoon sun. I gripped it with both hands. The towers receded in my mirror. I drove home. I did not call Emmett. I did not call Calvin. I did not call anyone. The city moved around me — headlights, palm trees, the freeway construction that never ended, the petroleum smell, the February evening that felt like October anywhere else — and I drove through it the way you drive through a city that will eat you if you stop moving, which is to say: with my eyes open and my hands on the wheel and no particular belief that the road was taking me anywhere I wanted to go.
+The towers receded in my mirror. I did not call Emmett. I did not call Calvin. I did not call anyone. The city moved around me — headlights, palm trees, the freeway construction that never ended, the petroleum smell, the February evening that felt like October anywhere else — and I drove through it with my eyes open and my hands on the wheel and no particular belief that the road was taking me anywhere I wanted to go.
