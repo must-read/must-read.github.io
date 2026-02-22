@@ -1,216 +1,248 @@
 ---
 title: "Attending at Theal"
-slug: "attending-at-theal"
-genre: "horror"
-subgenre: "weird-fiction"
-authorA: "Robert Aickman"
-authorB: "Carmen Maria Machado"
-workX: "House of Leaves"
-workY: "The Lottery"
-wordCount: 4764
+slug: attending-at-theal
+genre: horror
+subgenre: weird-fiction
+authorA: Robert Aickman
+authorB: Carmen Maria Machado
+workX: "House of Leaves (Mark Z. Danielewski)"
+workY: "The Lottery (Shirley Jackson)"
+wordCount: 4856
 readingTimeMinutes: 19
-tags:
-  - weird-fiction
-  - communal-ritual
-  - contradicting-narrators
-  - body-horror
-  - queer
-  - thermal-springs
-  - nested-documents
-  - ambiguity
-  - english-coast
-  - formally-inventive
+tags: [weird-fiction, multiple-voices, communal-ritual, body-horror, nested-narratives, ambiguity]
+rating: 4.0
+ratingCount: 0
 publishedDate: 2026-02-22
-status: "published"
-rating: 3.8
-ratingCount: 9
-formulaSummary: >
-  Aickman's inexplicable dread and polite British unease merge with Machado's body-centered surrealism and fairy-tale interpolations. The nested-document architecture of House of Leaves — contradicting accounts, footnotes that undermine their own text, impossible measurements — structures a story steeped in The Lottery's horror of communal violence accepted as routine, ritual sustained by consensus rather than force.
-synopsis: >
-  Three documents attempt to describe the same ritual in a coastal English village: a former resident's testimony, a folklorist's investigation, and the community's own collective statement. None agree on what happened to the body in the pool.
+status: draft
+formulaSummary: "Aickman's inexplicable dread fused with Machado's queer-bodied surrealism, built on Danielewski's nested-document architecture and Jackson's horror of social consensus — a weird fiction told through contradicting voices about something a community refuses to name."
+synopsis: "Three documents describe the same night in a coastal English village: a woman's body-haunted testimony, a folklorist's impossible measurements, and a community's warm collective voice. None of them agree on what happened in the pool."
 combination:
   fromAuthorA:
-    - "Polite composure in the face of impossible events — the scholarly folklorist who measures the unmeasurable without panic"
-    - "Social obligation as horror mechanism — the community that welcomes you so completely you cannot leave"
-    - "Radical ambiguity: the story refuses to explain what happens in the pool, making the reader's uncertainty the substance of the horror"
+    - "Polite, measured response to the inexplicable — Dr. Sable documents impossible architecture without panic"
+    - "Social obligation as horror mechanism — the community's hospitality that cannot be refused"
+    - "Absolute refusal to explain; the ambiguity is structural, not decorative"
   fromAuthorB:
-    - "The body as document — Nessa's testimony renders flesh with erotic and surgical precision, blurring tenderness and violence"
-    - "Fairy-tale interpolations: stories-within-stories that Nessa has heard about Theal, each contradicting the last"
-    - "Queer desire as structural principle — the ritual operates through intimacy between women, desire that the community both requires and regulates"
+    - "The body as document — Nessa's surgical-erotic testimony of hands on skin in warm water"
+    - "Fairy-tale interpolations: stories-within-the-story that Nessa half-remembers hearing"
+    - "Queerness as structural principle — desire regulated by communal ritual"
   fromWorkX:
-    - "Triple-nested narrative architecture: personal testimony, academic investigation, and collective statement, each contradicting the others"
-    - "Impossible spatial measurements — the pool chamber is larger inside than the building that contains it"
-    - "Footnotes and documentary apparatus that undermine their own authority; the recovered-document framing of the final revelation"
+    - "Nested contradicting narratives: personal account, academic investigation, collective statement"
+    - "The pool chamber that measures larger inside than the building outside"
+    - "Footnotes that argue with and undermine the text they annotate"
+    - "Recovered document from a deleted file — the text as artifact"
   fromWorkY:
-    - "First-person plural community voice that describes the monstrous as beautiful and routine"
-    - "Identical phrasing across seven separate interviews — ritual language replacing individual speech"
-    - "The cycle that reproduces itself: a new arrival welcomed at the end, the lottery drawn again"
+    - "First-person plural voice with flat, warm, county-fair tone applied to the monstrous"
+    - "Identical interview language across seven residents — ritual speech replacing thought"
+    - "The cycle: a new arrival welcomed at the end, the lottery drawn again"
+    - "The victim who does not run, who stays because communal reality is more real than survival"
 ---
+
+## I. Statement of Community (Theal Parish Records, Undated)
 
 We attend.
 
-The springs have been here longer than we have, longer than the village, longer than the name Theal, which is old enough that nobody remembers where it came from. The water rises from limestone at a constant thirty-eight degrees. It smells of minerals and of something older than minerals. We built the pool chamber over the largest spring two hundred years ago, or three hundred, or longer — the records disagree, and we do not find this troubling. The water is good. It has always been good. Once a year we gather at the pool, and we attend. If you have not attended, we cannot describe it to you, because it is not the kind of thing that can be carried in words from one person to another. It must be received directly.
+The springs have been here longer than anyone. Longer than the village, longer than the name. The water comes up warm through the chalk, and where it collects in the old pool it stays warm all year, even in February when the sea throws itself at the shingle and the wind comes across the marshes with nothing kind in it. The pool is warm. The water is good.
+
+We have always attended. Our mothers attended, and theirs before them, back past the point where written records become parish legends become the shape of something no one needs to write down because everyone already knows. You don't write down breathing. You don't write down the tide.
+
+Every year the springs give us the Attending, and we gather at the pool, and what happens there is what has always happened. It is beautiful. It is ours. If you are new to Theal — and we welcome the new, we have always welcomed the new, that is part of what makes us what we are — then you will be told what you need to know, and shown what you need to see, and after that you will understand.
 
 There is nothing to explain.
 
 ---
 
-I am writing this from a rented flat in Norwich. The walls are magnolia. The carpet is the color of weak tea. I work from this flat as a medical transcriptionist, which means I sit at a desk wearing headphones and I listen to doctors describe what has gone wrong with human bodies, and I type what they say. I am good at this. I have a talent for converting the spoken into the written, the physical into text. Ruptured appendix. Hairline fracture of the fourth metatarsal. Prolapsed uterine wall. I give these phrases a home on the page and they sit there, stable, legible. I trust this conversion. I have always trusted it.
+## II. From the Testimony of Nessa Firth (Recovered Document, Last Modified 3:47 AM, 14 November)
 
-I am trying to describe what happened to Ros.
+I moved to Theal with Ros in the spring, seven years ago. We'd found the listing online — a flint cottage at the edge of a village I'd never heard of, though it was only forty minutes from Norwich. The photographs showed the back garden running down to scrubland that opened onto marsh, and beyond the marsh, the sea. Ros said the light in the photographs looked like something from a painting nobody had bothered to finish. I said it looked cold. She said cold was just a kind of honesty.
 
-We moved to Theal seven years ago. Ros found the listing online — a cottage near thermal springs, affordable because it was far from anything, situated on a stretch of the North Norfolk coast where the land flattens into salt marsh and the sky takes up most of the view. She liked that. She liked the idea of warm water rising from the ground, mineral-rich, alkaline. She liked the idea of a village small enough to know everyone. She said it would be good for her painting — the light, she said, the particular quality of light you get when the land is so flat that nothing interrupts it. She said it would be good for us.
+I am a medical transcriptionist. I convert speech into text. Doctors dictate their findings — the mass is three centimeters, the margins are irregular, the patient reports pain on palpation — and I type. I have typed the word *palpation* more times than I have touched another person's face. I am telling you this because I need you to understand that I am precise. My job is precision. When I describe what happened in the pool, I am describing what happened in the pool.
 
-The community welcomed us. I want to be precise about this: they did not welcome us despite our being two women together. They did not welcome us in spite of it, or around it, or through gritted teeth with progressive intentions. They welcomed us as if our bodies — the particular fact of our two bodies and what we did with them — were exactly what they had been waiting for. This should have been the first thing I questioned. I did not question it.
+We were welcomed. I need to be clear about that. No one was strange, no one was cold, no one watched us from behind curtains. The opposite. They brought us bread. They brought us jam in jars with handwritten labels. A woman named Ailsa came to the door and said, "You'll want to know about the springs," and took us to see them. The springs were warm. The water had a mineral smell — not sulfur, something flatter, like wet stone heated from below. And in the pool where the water collected there was a blue-green colour, bright in the shallows, darker where the water deepened. Ailsa said it was natural. It was always there. It was good for the skin.
 
-I once heard a story about a woman who came to Theal alone, in winter, when the springs steamed so thickly you could not see the person standing beside you. She entered the pool chamber and stayed for three days. When she came out, her hair had changed color. Not grey — not the way age changes hair. Green, the witnesses said. The blue-green of pond water. But I heard this story from Ros, who heard it from a woman named Enid, who heard it from someone whose name neither of them could remember, so I cannot tell you whether it happened.
+I once heard a story about a woman who moved to a village by the sea and was given a gift she couldn't refuse. In the version I remember, the gift was a dress. In the version Ros told me, the gift was a name. In neither version did the woman leave.
 
-I once heard a story about two brothers who attended together, year after year, and in the seventh year one of them entered the pool and the other attended and when the attended brother emerged he was no longer the other brother's brother. He was something closer than a brother and something farther than a stranger, and they lived together in the same cottage for another forty years and never spoke of it. But I heard this from the woman who runs the post office, who tells all stories in the same flat, warm voice, the voice of someone describing the weather or the news of what the tide has done to the breakwater. Stories in Theal have this quality. They accrete. Each telling deposits a mineral layer, and after enough layers you cannot tell where the stone begins and the story ends.
+The first Attending I witnessed was in September, five months after we arrived. They told us about it the way you'd tell someone about a harvest supper — dates, times, what to bring. Ros baked a tart. I brought wine. We walked to the pool house in the evening and found the community already there, forty or fifty people standing around the pool in the warm air. The room smelled of minerals and bodies. Someone had lit candles in glass jars along the pool's edge and the candlelight caught the blue-green of the water and made it move.
 
-The first Attending I witnessed was in our second year. Ros and I walked to the pool chamber with the others, after supper, in the long blue light of June. The community gathered around the pool. The water was warm — I could feel it from three feet away, the way you feel the heat from an oven when someone opens the door. The person in the pool was a woman named Sylvie. She was floating on her back, her arms loose, her face calm. The community reached their hands into the water. All of them. I watched thirty pairs of hands enter the warm water and touch Sylvie's body. I watched the hands move along her arms, her ribs, her thighs. The water moved with a sound like breathing. The blue-green colonies of what I later learned were *Aphanothece* — cyanobacteria that bloom in alkaline thermal water — drifted at the surface in mats several centimeters across, visible to the naked eye, like living doilies. They parted around the hands and reformed. I stood at the edge and watched and it was the most beautiful thing I had ever seen. I am sure of this. I am sure it was beautiful. The hands on Sylvie's body were tender and purposeful, like the hands of midwives, and Sylvie was smiling, and the water was warm, and the blue-green mats of bacteria drifted and reformed, and I wanted to be in the pool. I wanted thirty pairs of hands on my body. I wanted to be attended.
+A woman — I never learned her name — undressed and stepped into the pool. She walked in slowly, the way you enter a bath you've drawn too hot. The water came to her waist. She turned to face us. She was smiling.
 
-The second year, a man was in the pool. I do not remember his name. The hands reached in and I reached with them. The water was warmer than I expected, or warmer than the year before, or I had forgotten what thirty-eight degrees felt like against my wrists. My hands found his shoulder, the knob of his clavicle, and I pressed gently, the way you press dough to test whether it has risen. He was smiling. Everyone was smiling. My hands were doing something and I was smiling and I could not have told you, if you had asked me at that precise moment, what my hands were doing.
+Then the hands went in.
 
-The third year. A different body. I do not remember whose. The hands.
+I don't mean everyone at once. I mean that, one by one, people stepped to the edge of the pool and reached into the water and placed their hands on the woman's body. On her shoulders, her arms, her back, her ribs. Gently. The way you'd steady someone on ice. The way you'd hold a child who is learning to float. The woman in the pool closed her eyes and the hands moved on her body and the blue-green water lapped at the pool's edge and it was — I will say this and I know how it sounds — it was the most beautiful thing I had ever seen.
 
-The fourth. The hands. The water. The blue-green.
+I cried. Ros held my hand. I could feel the warmth of the pool on my face from five feet away.
 
-By the fifth year, the Attendings had begun to blur. Not blur — compress. Each one distinct in my memory but somehow occupying the same space, the way a palimpsest holds multiple texts on the same page. I could remember each body in the pool. I could remember the temperature of the water (always warmer, or my memory of warmth always deepening). I could remember the *Aphanothece* colonies growing larger each year, the individual mats now the size of dinner plates, drifting with a slow purposefulness that made them seem less like colonies and more like organs. But I could not remember what my hands had done. The specific motions. The difference between tending and — I am trying to find the right word. I am a transcriptionist. I have a talent for the right word. The difference between tending and
+The second Attending was the following March. A different body in the pool — a man, this time, older, with a broad back and heavy arms. The hands went in. The same gentleness. But this time I was closer, and I could see what the hands were doing, and I'm not sure the word is *holding*. The fingers were pressing into the skin in a way that left white marks. The man's face was not pained, exactly. Concentrated. Like someone listening to a sound just below the range of hearing. When it was over he climbed out and dressed and people spoke to him in low voices and he nodded, and nodded, and I saw that the white marks where the fingers had pressed were still there on his shoulders the next day, and the day after that, and I never saw them fade.
 
-The sixth year, Ros was in the pool.
+The third Attending. The fourth. Each one I describe differently in my memory, not because the ritual changed but because my eyes did. What I had seen as tenderness I now saw as — not violence, but something for which I didn't have a word. Something that occupied the same space as tenderness, wore its clothes, moved like it, but was not it. Like looking at a word you've read a thousand times until the letters stop making sense. The hands in the water. The body receiving them. The warm blue-green water and the candles and the smell.
+
+---
+
+## III. Excerpts from "Vernacular Healing Traditions of the Norfolk Coastal Margins" by Dr. Leah Sable, University of East Anglia (Unpublished Field Report, Redacted)
+
+Dr. Sable arrives in Theal on the 14th of August, three weeks before the community's annual festival. She carries a tape measure, a digital camera, a portable sound recorder, and a notebook bound in dark green leather that she purchased from a shop in Norwich that has since closed.¹ The community receives her with courtesy. She is offered tea. She is offered a tour.
+
+The pool house is a single-story structure of flint and chalk, situated at the northern end of the village where three thermal springs converge into a natural basin that was, at some point in the last two centuries, lined with stone. The building that encloses the pool was constructed, according to parish records, in 1884, though Dr. Sable notes architectural elements — a keystone above the entrance, the particular bonding pattern of the flint — that suggest an earlier structure was incorporated into the current one.
+
+She measures the pool house exterior. The building is forty-one feet, four inches at its widest point, east wall to west wall.
+
+She enters the pool house and measures the interior. The interior, east wall to west wall, is fifty-three feet, two inches.
+
+She measures again. Fifty-three feet, two inches.²
+
+The pool itself is roughly oval, approximately twenty-four feet long and fourteen feet wide, lined with stone that has been smoothed by mineral deposits. The water is warm — Dr. Sable records a temperature of 37.2°C, nearly identical to the human body — and cloudy with suspended particulate matter. Along the pool's edges, and in the shallows, colonies of cyanobacteria form mats of blue-green growth. Dr. Sable, who has consulted with colleagues in the biological sciences, identifies these as *Aphanothece* — a genus whose name derives from the Greek *aphanes*, meaning invisible, and *theke*, meaning box or sheath. The colonies are unusually large, several centimeters in diameter, visible to the naked eye, which is atypical for the genus.³
+
+She photographs the pool. The photographs show clear water, pale stone, an empty room. No blue-green growth is visible. The room in the photographs appears to be approximately forty feet wide.
+
+Dr. Sable interviews seven residents of Theal over the course of two days. She asks each to describe the Attending in their own words. Transcripts follow:
+
+**RESIDENT 1 (AILSA P., 67):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 2 (ROBERT K., 54):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 3 (JOAN D., 71):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 4 (DAVID W., 43):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 5 (PETRA S., 38):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 6 (NEIL G., 60):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."
+
+**RESIDENT 7 (HAZEL T., 49):** "The Attending is a gathering. We come to the pool. The water is warm. Someone is chosen, and we attend to them. It has always been this way."⁴
+
+Dr. Sable asks to attend the Attending. The community declines, gently. They say perhaps next year. They offer her more tea.
 
 ---
 
-**From the field notes of Dr. Leah Sable, Dept. of Folklore Studies, University of East Anglia**
+¹ The shop, called Colston's, occupied a narrow premises on Pottergate. It sold leather goods, stationery, and fountain pens. It closed in March 2024. No forwarding address was provided. There is no record of its business registration with Companies House.
 
-*Three days of fieldwork, Theal, North Norfolk coast, 14-16 June*
+² Dr. Sable's field notebook contains, at this point, a marginal note in a hand that appears to be her own but which she later stated she did not write: *It was always this size. You brought the wrong ruler.*
 
-The community of Theal comprises approximately forty-five permanent residents in a coastal settlement built around a cluster of thermal springs. The settlement does not appear on Ordnance Survey maps printed before 1987, though residents claim continuous habitation for "several centuries." I have been unable to locate parish records predating 1920.
+³ *Aphanothece* is typically microscopic. Colonies visible to the naked eye would suggest environmental conditions — mineral concentration, temperature, light availability — far outside the normal range for the genus. Dr. Sable submitted a sample for analysis; the laboratory reported that the sample jar contained only water.
 
-The thermal springs are alkaline, calcium-rich, and host robust colonies of *Aphanothece* — a genus of cyanobacteria named from the Greek *aphanes* (invisible) + *theke* (box, or sheath). The name is apt. The colonies are visible — some are five or six centimeters in diameter, unusually large for the genus — but what they enclose is not. Under magnification, each colony presents as a sheath of cells surrounding a hollow interior. The hollow is not empty. It contains water that is chemically distinct from the surrounding thermal water, though I lack the equipment to analyze the difference in the field. I have collected samples.[^1]
-
-[^1]: The samples, stored in sterile vials in my hotel room in Brancaster, were clear when collected. By the following morning, the water in each vial had developed a blue-green tint. By the second morning, the tint had deepened and the vials were warm to the touch. I discarded them.
-
-The pool chamber is a stone building, roughly rectangular, situated over the largest spring. Residents describe it as "old." The stonework is consistent with late eighteenth-century construction, though several courses appear to incorporate much older material — rubbed flint, possibly medieval. I measured the chamber's interior on the afternoon of 14 June: the long axis is seventeen meters (approximately fifty-six feet) and the short axis is nine meters (approximately thirty feet). These measurements were taken with a standard retractable tape and are reliable.[^2]
-
-[^2]: I measured the building's exterior on the morning of 15 June. The long axis of the exterior is twelve and a half meters (approximately forty-one feet). The short axis is seven meters (approximately twenty-three feet). I re-measured the interior that afternoon. Seventeen meters. I re-measured the exterior. Twelve and a half meters. I re-measured the interior. Seventeen meters. I have no explanation for this discrepancy. Wall thickness, even for eighteenth-century masonry, cannot account for a difference of four and a half meters on one axis and two meters on the other. I re-measured. The numbers held.
-
-I was not permitted to observe the Attending. The community was courteous in this refusal. I was told I was welcome to visit the pool chamber at any other time, to photograph, to measure, to collect water samples. I was told the Attending was "not for visitors." I was told this in a tone I would describe as warm.
-
-The village itself is unremarkable. Stone cottages, a post office that opens three mornings a week, a church that has been converted into a community hall. Gardens in good order. A breakwater in poor repair. No pub — the nearest is in Brancaster, seven miles east. Residents are friendly, articulate, and uniformly willing to discuss the Attending in general terms. They become uniformly unable to discuss it in specific ones.
-
-I interviewed seven residents, separately, on the topic of the Attending.[^3] I asked each the same five questions:
-
-1. What happens during the Attending?
-2. How is the person in the pool selected?
-3. How long has the Attending been practiced?
-4. What does the community believe the ritual achieves?
-5. Is the ritual voluntary?
-
-[^3]: The interview transcripts, when cross-referenced, contain no variation in phrasing whatsoever across seven separate subjects. Not approximate similarity. Not convergent language. The same words, in the same order, with the same pauses. I transcribed the recordings that evening and placed them side by side. Identical. In thirty years of fieldwork, I have never encountered this. I do not mean that the content was similar. I mean that seven people, interviewed separately over two days, produced the same transcript. A statistical impossibility in natural speech.
-
-Each resident answered, in identical phrasing: "We attend. The springs choose. We have always attended. The water is good. Yes."
-
-I photographed the pool chamber on the evening of 15 June, between the hours of ten and eleven PM. I used a flash unit. The photographs, when I reviewed them the following morning, show an empty stone room, roughly four meters by three, with a shallow pool in the center. The water in the photographs is clear. The room in the photographs is small. The room I stood in with my tape measure and my flash was seventeen meters long and the water was not clear — it was the opaque blue-green of the *Aphanothece* colonies, and the pool was deep enough that my torch could not find the bottom.
+⁴ The interview transcripts, when cross-referenced, contain no variation in phrasing whatsoever across seven separate subjects, despite being conducted on different days, in different locations, without the subjects having access to one another's responses. In natural speech, this level of uniformity has a probability that Dr. Sable's statistical consultant described, with evident discomfort, as "not meaningfully distinguishable from zero."
 
 ---
+
+## IV. We Attend (Continued)
 
 She misremembers.
 
-We say this with love. We know Nessa. We knew her when she arrived, and we knew her when she came to the pool for the first time, and we knew her hands when they entered the water. Her hands were careful. She has careful hands. But she misremembers.
+The woman who came here — Nessa — was welcome. Her partner was welcome. We opened our homes to them. We brought them bread and jam and showed them the springs. The water was warm and the light was good and they were happy. That is what happened.
 
-It is an honor to be in the pool. Ros knew this. Ros was glad. Ros had been attending for five years and each year she attended she grew closer to the water, and when the water chose her she wept, and the weeping was joy. We saw her face. We know what joy looks like. It looks like Ros's face in the pool, the warm water around her shoulders, the blue-green on her skin like a second skin, and all our hands reaching in, and the water good, the water always good.
+What she describes is not what happened. The hands in the pool are gentle. They have always been gentle. No one is held. Everyone is held. The body in the pool is the body of the community and the community's hands attend to what is theirs. This is love. This is what love looks like when it is not performed for two but practiced by all.
 
-Nessa says she does not remember what her hands did. We remember. Her hands were the same as ours. Her hands did what hands do in the pool, which is attend. There is no other word for it because the word is sufficient. We attend. The hands attend. The water attends. There is nothing to explain.
+She writes about the hands as though they were doing something to a body. The hands were not doing. The hands were attending. There is a difference. A mother's hands on a child's forehead — doing? No. Attending. A lover's hands on a lover's back — doing? No. Attending. The pool is warm because the springs are warm, and the hands are warm because the bodies are warm, and the bodies are warm because they are held, and the holding is the Attending.
 
----
+She writes that the water was the colour of something wrong. The water is the colour it has always been. The *Aphanothece* bloom when the springs are generous. They are beautiful. We have watched them for generations. They are ours the way the springs are ours, the way the pool is ours, the way the bodies in the pool are ours.
 
-The sixth year. Ros was in the pool.
+That is not what happened. What she describes — the pressure, the marks, the unwillingness — that is her own fear made visible. We have seen it before. Fear looks like violence to the frightened.
 
-I should describe this precisely. I am a transcriptionist. I have a talent for the precise.
+We do not understand why she left. We do not understand why anyone leaves.
 
-Ros was lying on her back in the warm water. Her eyes were open and she was looking at the ceiling, which was — the ceiling was farther away than it should have been, the stones of the vault receding into a darkness that my eyes could not resolve, as if the chamber were open to the sky except there were no stars, only the dark and the warm steam rising. The *Aphanothece* colonies were everywhere. They had spread across the surface of the pool in overlapping mats, blue-green and luminous — not reflecting light but producing it, a faint bioluminescence I had never seen in previous years, the wrong color, too vivid, almost fluorescent, the green of something that is not a plant. The colonies parted around Ros's body and reformed. They parted around my hands when I reached into the water.
-
-The water was forty degrees. Or forty-two. Warmer than every year I could remember, and I could remember every year distinctly, the way you remember the faces of lovers — each one sharpening rather than blurring the ones that came before.
-
-I put my hands on Ros's body. Her shoulders first. The architecture of her clavicle, which I knew better than I knew the layout of our cottage, which I had memorized with my mouth in the first months of our love. I pressed gently. The way you press to test whether bread has risen. Ros was smiling.
-
-My hands moved to her ribs. I could feel the bones clearly, more clearly than I should have been able to, as if the warm water had thinned her skin, or as if my fingers had grown more sensitive, and under the ribs I could feel something moving. Not her breathing. Not her heartbeat. Something slower, with a rhythm that did not match any rhythm I knew from my years of transcribing cardiac reports. I felt this rhythm in the water, too, in the subtle movement of the *Aphanothece* mats, and in the hands of the community around me, thirty pairs of hands in the warm water, all moving to the same rhythm, and I realized my hands were moving to it as well.
-
-Ros's body was changing under my hands.
-
-I want to be precise about this. I am trying to be precise. Her skin was the same skin I had touched ten thousand times but the thing underneath the skin — the architecture — was shifting. Too many ribs, or the ribs in the wrong places, or the spaces between the ribs opening into hollows that should not have been there. My fingers slid into one of these hollows and the warmth inside was different from the warmth of the water, warmer and wetter and with a texture like the inside of a mouth, and I should have pulled my hand away and I did not pull my hand away.
-
-I once heard a story about a woman in Theal who attended for nine consecutive years and in the ninth year her body was chosen and she entered the pool and the community's hands reached in and when she emerged she was someone else. Not a different person. The same person with a different body, or the same body with a different person inside it, or — the woman who told me this story paused at this point and said, with the patient tone people use for children, "You keep trying to say it as if there are two things. There aren't two things."
-
-My hands on Ros's body. The water the wrong color. The ceiling too far above. The hollow under Ros's ribs that my fingers were inside, warm, pulsing with the rhythm I could not name, and I looked at Ros's face and she was smiling and her eyes were open and she was looking at me, and her pupils were the same blue-green as the *Aphanothece*, and my hands were doing something — my hands were attending, and I knew what attending meant because my hands knew, and my hands would not open, and I did not want them to open, and the water was warm, and the blue-green light was coming from Ros or from the water or from the colonies or from my own skin, and
-
-I tried to pull Ros from the pool. I want to be precise about this: I tried. My hands were on her body and I tried to lift her out of the water and my hands would not open. Not would not — the distinction is important — my hands were open, my fingers were spread, and yet they would not release. As if the warmth between my skin and Ros's skin had become a third thing, a connective tissue, and to separate would require a cut.
-
-I did not cut. I attended.
+But we understand that some people need to leave in order to come back.
 
 ---
 
-**Field notes, addendum, 16 June, 2:40 AM**
+## V. Nessa Firth (Continued)
 
-I entered the pool chamber tonight. I should not have. The community did not give me permission and I do not believe they were aware of my presence, though in the morning when I left I found fresh-cut flowers outside my door, which may or may not be related.
+Ros was chosen for the seventh Attending — my last. I knew before they told us. I knew because for a week before the date, everyone we passed smiled at her in a particular way, a way that was too even, too held, the way you'd smile at someone to whom you were about to give a gift they couldn't refuse.
 
-The chamber was different. My torch illuminated walls I had not measured — stone corridors extending from the main room at angles that my compass could not resolve. I followed one corridor for approximately ninety seconds at a walking pace and it did not end. The walls were damp and warm. The air smelled of the springs, that mineral smell with the undertone of something older. I turned back and the main chamber was where I had left it, which should not have surprised me but did.
+I should tell you what I noticed about the others. The ones who'd been in the pool. The man with the white finger-marks on his shoulders — he never spoke about the Attending afterward. None of them did. But their bodies were different. I don't mean injured or changed in a way you could photograph. I mean they moved differently. They occupied space as though space had agreed to make room for them. Their skin had a quality — I'm a transcriptionist, I have to find the words — a quality of having been *read*. Like a page that someone has run their fingers across so many times the paper has gone soft.
 
-The pool was larger than it had been during the day. I measured: the pool alone was eleven meters across. The building exterior is twelve and a half meters wide. I have no framework for this.[^4]
+Ros was thirty-nine. She had a scar on her left knee from a cycling accident and a mole on her right shoulder blade that I used to press my thumb against when I couldn't sleep. She was solid. She was the most real person I knew. I am telling you this because I need you to understand what went into the pool.
 
-[^4]: I am aware that the preceding measurements are impossible. I am a folklorist, not a physicist, and I will note only that folklore is full of spaces that are larger on the inside — fairy mounds, whales' bellies, wardrobe doors that open onto countries. I have always studied these stories from outside. I do not know what to do with the fact that I have now measured one.
+The evening of the Attending. September again. We walked to the pool house. The community was already there. Candles in glass jars. The warm mineral smell. The blue-green of the *Aphanothece* brighter than I'd ever seen it, almost fluorescent, as though the colonies had been waiting.
 
-The water in the pool was dark. Not the blue-green of the afternoon, not the clear water of my photographs. Dark in the way that deep water is dark — not a color but an absence of bottom. I could hear the water. It had a sound, faint, rhythmic, like breathing but slower, and the sound came from below the surface. I knelt at the edge and reached my hand toward the surface and the water was warm from a foot away, the way Nessa — the way the interview subject in Document A describes the heat of the pool, like an oven door opening. I did not touch the water. I do not know why I did not. My hand was extended and the warmth was climbing my fingers and something in the dark water moved, slowly, close to the surface, a shape I could not resolve, and I withdrew my hand and stood and walked out of the chamber and closed the door and went to my room and wrote this paragraph.
+Ros undressed. She was calm. She walked into the pool the way the others had — slowly, steadily, the warm water rising to her waist. She turned to face us. She didn't smile. Her face had the concentrated look I'd seen on the man years before, the look of listening to a frequency just below hearing.
 
-My tape measure reads twenty-one meters for the interior long axis now. I have not re-measured the exterior. I do not think the exterior has changed. I think the exterior is a different question.
+The hands went in. One by one. Ailsa first, then Robert, then Joan. I watched their hands on Ros's shoulders, her arms, her ribs. The white pressure of fingertips on skin. Ros's eyes were closed. The water moved.
 
----
+I went in. I'm not sure I decided to. I went to the edge and reached into the warm water and put my hands on Ros's body — on her back, between her shoulder blades, where the mole was. The water was the temperature of blood. The blue-green of the algae was on my hands, on my wrists, and it didn't feel like water. It felt like the inside of a mouth.
 
-That is not what happened.
+My hands on Ros. I could feel, under my palms, the architecture of her — the ribs, the spine, the muscles of her back — and then I couldn't. What I felt under my hands was not Ros. It was larger than Ros. My palms were pressed against something that had more surface than a body should, as though her skin had unfolded, or as though the space inside her had expanded the way the pool room expanded beyond the building that held it. I was touching the inside of a room that was bigger than the person who contained it.
 
-We say this with the patience we have always had for those who leave and then try to carry Theal away with them in words. Words are not the right container. We have said this. We have said there is nothing to explain, and we mean this literally: there is nothing, no object, no event, no sequence, that can be extracted from the attending and explained. The attending is not a thing that happens. It is a way of being present. Nessa was present and then she was not, and the gap between those two states is where her confusion lives.
+Ros opened her eyes. They were not wrong, exactly. They were more than two.
 
-Ros is here. Ros has always been here. Ros is in the water and the water is good and Ros is good and the attending is good. There is nothing to explain. Nessa's hands did what hands do. The water was warm. The water is always warm. The springs have been here longer than any of us and they will be here after all of us and the water does not need to be understood. It needs to be attended.
+That isn't right. Let me try again. Her eyes were open and they were Ros's eyes and they looked at me and I felt seen by more than one person. Seen by many. Seen by the room.
 
-We attend.
+My hands were on her body and the body was warm and the water was warm and the hands of the community were on her body and on mine where mine touched hers, and I could feel the fingertips pressing into my wrists, gentle, firm, the same pressure I had seen leave white marks that did not fade, and I wanted to pull my hands away and I did not want to pull my hands away. My hands would not open. My fingers were pressed against Ros's back and her back had a texture like wet stone heated from below and the *Aphanothece* colonies were on my skin, in the creases of my knuckles, and they were warm and they pulsed — not like a heartbeat, slower, like breathing, like the breathing of something that did not have lungs.
 
----
+I heard music. Someone was playing something, or the building was resonating, or the water was carrying sound from somewhere underneath. It was an aria — a soprano line over a simple accompaniment, ornate and familiar in the way that a song you've never heard can remind you of every song you have. Later, much later, in Norwich, I would hear a recording on the radio and sit down on the kitchen floor because I recognized it. *Eduardo e Cristina*. Rossini. An opera assembled almost entirely from pieces of other operas — nineteen of twenty-six numbers borrowed from earlier works, stitched together into something new that audiences received as if it had always existed. A pastiche so thorough it became original.⁵
 
-Ros was in the pool and my hands were on her body and the water was the wrong color and the ceiling was gone and my hands would not release and I was attending, I was finally attending, and I understood — no. I did not understand. Understanding is the wrong word. Understanding implies that the thing revealed itself in terms I could carry away and set down on a page and make legible. What happened in the pool was not legible. My hands knew something my language cannot hold.
+My hands on Ros. The water. The blue-green colour that had spread beyond the pool now, onto the stone floor, onto the walls, as though the colonies were growing in real time, and the room was growing with them, the walls receding, the ceiling lifting, and the warmth —
 
-I left Theal the next morning. I packed a bag. I did not say goodbye. Ros was not in the cottage. Ros was not in the pool chamber. I went to the pool chamber to check and the room was small, three meters by four, the water clear, the *Aphanothece* colonies tiny, half a centimeter across, drifting in the ordinary way of organic matter in warm water. The chamber smelled of lime and damp stone. I measured it with my arms — four paces by three. The building made sense. The pool made sense. Everything made sense and I left because things that make sense in the morning after they have been impossible at night are more frightening than things that stay impossible. The readjustment is where the horror lives. The room fitting back inside its walls.
+I should tell you that Ros was willing. I should tell you that she was held. Both of these are true and they are not the same thing.
 
----
-
-I should mention Rossini. The community's festival calendar — the seasonal events of which the Attending is only one — bear the hallmarks of assemblage. The May bonfire borrows from both Saxon and Celtic traditions. The autumn market follows a format identical to livestock fairs in Suffolk. The winter procession closely resembles descriptions of pre-Reformation rogation rites from parish records in King's Lynn. Each element, taken individually, is unremarkable — ordinary English rural tradition. Assembled together, however, they produce something I cannot identify. I am reminded of Rossini's *Eduardo e Cristina* (1819), an opera composed in extreme haste by cannibalizing nineteen of twenty-six musical numbers from his own earlier works. The result was a critical and popular success. Nobody recognized the borrowed pieces. They had been so thoroughly recombined that they appeared original. Something new had been produced from parts that were not new, and the newness was genuine.[^5]
-
-[^5]: I am aware that the preceding paragraph is a digression. I include it because I have, since returning from Theal, developed a habit of digression. My students have noticed. My writing, too, has grown recursive. I circle back to things I have already said. I add footnotes to footnotes. I am told this is not how academic prose should work. I am told I should make my argument and move on. I do not move on. I measure the same room and get a different number and I measure it again.
+My hands on Ros's body. The community's hands on Ros's body. The thing that happened next I have been trying to describe for eighteen months and I cannot because the words I have are the words for bodies and what was in the pool was
 
 ---
 
-We attend. We have always attended.
+## VI. Dr. Sable (Continued)
 
-A woman has come to Theal. She arrived yesterday, alone, with one suitcase and a folder of correspondence — letters exchanged with our community over many months. She has been asking careful questions. She has a careful way about her. We showed her the springs, the pool chamber, the warm water rising from the limestone. We showed her the *Aphanothece* colonies drifting in their slow way. We told her about the Attending. She asked what it was and we said it was a way of being present and she nodded as if this were an answer, and perhaps it was.
+Dr. Sable returns to the pool house on her final evening in Theal. It is past midnight. The building is unlocked. She enters with a torch.
 
-She is settling into the cottage at the end of the lane. It has been empty for eighteen months. The garden has gone to seed but the structure is sound and the walls are the color they have always been, a warm magnolia that the afternoon light makes golden. She seemed to like it. She ran her hand along the doorframe in the way people do when they are deciding whether a place could be home. She said it would be good for her work.
+The room is different. She knows this immediately but takes a full three minutes to articulate, even to herself, what is wrong: the room is too large, and it has doors. When she visited during the day, the pool house contained one room and one entrance. Now she counts four doorways leading off the main chamber, none of which she has seen before. The corridors beyond them extend into darkness.
 
-The flowers are blooming. The water is warm. There is nothing to explain.
+The pool is larger. The water is warm. She can feel the heat from the doorway. The blue-green of the *Aphanothece* is vivid, almost luminous in the torchlight. The colonies have spread to the edges of the pool and onto the wet stone surrounding it.
+
+Dr. Sable measures the room. Sixty-eight feet. The building has not grown. She checked the exterior on her way in. Forty-one feet, four inches, as before.⁶
+
+She does not enter the water. She stands at the edge of the pool and looks down. The water is dark. Something moves beneath the surface — not a current exactly, but a shifting, the way light moves inside a gemstone when you turn it. She crouches. She can see her own reflection but it is wrong: the face in the water is hers but it is smiling and she is not smiling. She notes this in her field book. Her handwriting, at this point, has changed — the letters are rounder, the pressure heavier, as though she is writing with unfamiliar hands.
+
+She photographs the room, the corridors, the pool, the growth. She notes the temperature of the air: 32°C, ten degrees above the exterior temperature. She notes a smell she cannot identify — not mineral, not organic, something between the two. She notes that the four corridors leading off the main chamber each extend beyond the reach of her torch beam. She does not follow them. She records that she wanted to.
+
+She leaves Theal the following morning. The community sees her off with courtesy. Ailsa gives her a jar of jam. On the drive back to Norwich, Dr. Sable realizes she cannot remember which corridor she was facing when she put the camera away.
+
+The photographs, when she reviews them in her office at the university, show an empty room. The pool is still, the water clear. No corridors. No blue-green growth. The room appears to be approximately forty feet wide.
+
+Dr. Sable files her field report. She does not request a follow-up visit. She applies, the following year, for a position at a different university, in a different field.
 
 ---
 
-I have been trying, in this document, to describe the shape of what was in the pool. Or what the pool had become. Or what Ros's body — no. What my hands were doing when they attended. The warm water and the blue-green light and the rhythm my hands followed that was not Ros's heartbeat and not my heartbeat but a third thing, a shared thing, a thing that lived in the warm mineral water and in the *Aphanothece* colonies and in the hands of thirty people attending, and I am trying to write this down because if I can write it down it will sit on the page, stable, legible, and I can close the laptop and go to bed, and the warm feeling in my hands will stop, and I will stop dreaming of the pool, and I will stop hearing the water, and I will
+⁵ Dr. Sable's report contains no reference to this opera. Rossini's *Eduardo e Cristina* (1819) is notable primarily for its method of composition: assembled under extreme time pressure from the composer's existing works, its borrowed components were so seamlessly integrated that contemporary audiences perceived it as wholly new. The parallel to communal ritual traditions assembled from heterogeneous folk practices across centuries is, Dr. Sable might have noted, structurally precise.
 
-I have been writing this for seven months and the document is never finished because every time I approach the center of what happened my language
-
-My hands are warm. I have not been near warm water in eighteen months and my hands are warm. The warmth is climbing my wrists. The warmth is
+⁶ The building's exterior measurements remained constant across all three of Dr. Sable's surveys (14 August, 16 August, 18 August). The interior measurements were: 53 feet, 2 inches (14 August); 57 feet, 6 inches (16 August); 68 feet, 0 inches (18 August). Dr. Sable did not note this progression in her report. This footnote was added during document preparation by a third party whose identity has not been established.
 
 ---
 
-**Appendix: Recovery Note**
+## VII. We Attend (Concluded)
 
-*The preceding document was recovered from the hard drive of a laptop found in a rented flat in Norwich. The tenant, who had occupied the flat for approximately eighteen months, vacated without notice. Her lease had been paid through the end of the quarter. The document was recovered from the recycling bin using standard file-recovery software. It was last modified at 3:47 AM on the date the tenant departed. The flat was otherwise empty except for a pair of headphones, a transcription pedal, and a mug containing a liquid that had developed a blue-green residue consistent with cyanobacterial growth. The mug was warm to the touch.*
+This morning the springs are clear. The sun came up over the marshes at quarter to seven and the light is good. The pool is warm. The *Aphanothece* are blooming — they always bloom after an Attending, thick and blue-green, and the water has that mineral smell that visitors notice and we have long since stopped noticing because it smells like home.
 
-*Dr. L. Sable, University of East Anglia, has requested access to the recovered document for purposes of ongoing fieldwork. This request is under review.*[^6]
+Everyone is present. We stood at the pool this morning and felt the warmth come up through our feet from the stone floor and we were content. The flowers in the garden by the pool house are blooming — sea lavender and thrift — and someone has put fresh candles in the glass jars along the pool's edge, though the Attending is over and there will not be another until March.
 
-[^6]: It is not under review. I have been told I may not have it. I have been told, courteously, that the document is not for visitors.
+A new resident has arrived. A woman, alone, who has been writing to us for some months. She found us the way people find us — a mention somewhere, a name half-remembered, a road that seemed to lead somewhere else until it didn't. She is younger than most who come. She has a quality of attention we recognize.
+
+We showed her the springs. We showed her the pool. We told her the water was warm and the water was good and she knelt at the pool's edge and put her hand in and looked up at us and said nothing, and we recognized the expression on her face because it is the expression everyone wears, the first time. Surprise, and then something deeper than surprise.
+
+We brought her bread. We brought her jam.
+
+There is nothing to explain.
+
+---
+
+## VIII. Nessa Firth (Final Fragment)
+
+I left Theal eighteen months ago. I drove to Norwich in the dark. I left most of my things. I left Ros.
+
+That is not accurate. I did not leave Ros. Ros was in the pool, or Ros had been in the pool, or Ros was the pool — I am trying to be precise. After the Attending, after my hands came out of the water — and they did come out, eventually, though I cannot remember deciding to open them, I think the community opened them for me, gently, the way you'd open a child's fist to see what they've been holding — after that, Ros came home with me and lay in our bed and slept and in the morning she was Ros. She was exactly Ros. She had the scar on her left knee and the mole on her right shoulder blade and she smiled at me and made coffee and stood at the kitchen window looking at the marsh.
+
+But the space inside her was different. I could feel it when I held her. She was larger inside than she should have been. Her body was the same forty-one feet it had always been but the interior — and I know how this sounds, I know, I am a transcriptionist, I convert the physical into text, I am supposed to be able to — the interior went on. When I put my arms around her I could feel rooms I hadn't known were there. Corridors. Warmth.
+
+I once heard a story about a woman who loved someone so much she could hear the sea inside them. In the version I was told, it was a curse. In the version Ros would have told me, it was the point.
+
+She looked at me in the weeks after the Attending and I could feel the community behind her eyes. Not watching, exactly. Attending. Her hands on my waist when she passed me in the kitchen left faint white pressure marks that lasted hours. She did not seem to notice. She hummed sometimes — low, tuneless, except when it wasn't, when it resolved into a melody I almost recognized, ornate and borrowed and old.
+
+I left because I was afraid I would stop noticing. I left because Ailsa smiled at me one morning — that same even, held smile — and I realized they were going to choose me next and I was going to say yes. I was going to walk into that warm water and let the hands attend to me and I was going to become a building larger than my own walls and I wanted it. I wanted it the way you want to breathe. Not as desire but as necessity. And wanting it that badly, with that little resistance, was the thing that made me drive to Norwich in the dark.
+
+I have been trying to write this for eighteen months. I have been trying to describe the shape of what was in the pool — what Ros became, what the hands did, what the *Aphanothece* colonies looked like when they spread across her skin like a living map of something I almost recognized. I type medical reports all day. I convert bodies into language. But the body in the pool was a language I could not convert. It was a text that read me.
+
+I keep dreaming about the water. In the dream my hands are in the pool and the water is warm and the colour is that impossible blue-green and underneath my palms is a surface that goes on further than skin, further than muscle, further than bone, into a space that opens and opens and
+
+---
+
+**FOOTNOTE (Dr. Sable, appended to final draft):** The preceding account was recovered from the subject's laptop by forensic data specialists following a request from Norfolk Constabulary. The document had been deleted, but recovery software reconstructed it in full. The file was last modified at 3:47 AM on the 14th of November — the morning the subject vacated her flat in Norwich. The flat was found empty. Her lease had been paid through the end of the quarter. Her forwarding address, left with the landlord, was a postal code in the village of Theal.⁷
+
+---
+
+⁷ Dr. Sable added no commentary to this footnote. It is the final entry in her field report. She did not submit the report for publication.
