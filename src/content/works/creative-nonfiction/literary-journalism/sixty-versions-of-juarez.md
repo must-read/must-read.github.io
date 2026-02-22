@@ -1,0 +1,141 @@
+---
+title: "Sixty Versions of Juarez"
+slug: "sixty-versions-of-juarez"
+genre: "creative-nonfiction"
+subgenre: "literary-journalism"
+authorA: "Gay Talese"
+authorB: "Rebecca Solnit"
+workX: "In Cold Blood"
+workY: "The Journalist and the Murderer"
+wordCount: 3580
+readingTimeMinutes: 14
+tags:
+  - literary-journalism
+  - border-city
+  - newspapers
+  - memory
+  - journalism-ethics
+  - demolition
+  - texas
+  - self-reckoning
+rating: 0
+ratingCount: 0
+publishedDate: 2026-02-22
+status: "draft"
+formulaSummary: >
+  Talese's immersive, novelistic scene-building fused with Solnit's associative, digressive
+  essayistic intelligence. In Cold Blood provides the structural blueprint of multiple perspectives
+  converging on a single event; The Journalist and the Murderer provides the thematic DNA of
+  journalism's inherent moral compromise.
+synopsis: >
+  A journalist returns to the Texas border city where she made her name to cover the demolition
+  of its last independent newspaper building, only to find that every source remembers a
+  different city than the one she published.
+combination:
+  fromAuthorA:
+    - Novelistic scene-setting with immersive sensory detail
+    - The journalist invisible in the scene, objects doing the work of meaning
+    - Interview subjects revealed through observed physical detail
+  fromAuthorB:
+    - "Walking as method — digressive, associative movement through the city"
+    - "Place as palimpsest — layered versions of the same streets"
+    - Structural wandering that arrives somewhere unexpected
+  fromWorkX:
+    - Multiple perspectives converging on a single event with equal documentary weight
+    - A small place rendered with such density it becomes mythic
+    - No perspective privileged over another
+  fromWorkY:
+    - "The journalist as confidence artist — using and discarding sources"
+    - The essay performing the crime it names
+    - "Dolores's absence as the moral center — the person journalism left out"
+---
+
+I stood on South Stanton Street at two in the afternoon trying to remember which side the building was on. The sun was doing what the sun does in the El Paso corridor in February — sitting low and hard and white above the Franklin Mountains, casting everything in a brightness that felt borrowed from two countries at once, a light so flat it erased shadow and made the street look like a photograph of itself. I had walked this block hundreds of times. I had walked it in 1998 when I was twenty-four and filing copy at eleven at night with the loading dock lights buzzing behind me. I had walked it in heels and in sneakers and once, during a monsoon August, barefoot through three inches of standing water while the gutters backed up and the drainage system proved, as it proved every summer, that infrastructure planned for one city cannot serve the city that replaced it.
+
+Now I could not find the building.
+
+This is the problem with carrying a place in your head for twenty-six years. You carry the version you left, and the version you left was not the real city even then — it was the city as it appeared to a twenty-four-year-old reporter who was too busy being ambitious to pay attention to what was actually there. You carry an arrangement. You carry the arrangement that was useful.
+
+I had come back to write about the demolition of the *El Paso-Juarez Beacon* building. The paper folded in 2011. For a while the building held a storage company, then a church whose congregation lasted eight months, then nothing. Now a development group had bought the lot and planned to put in a mixed-use parking structure with ground-floor retail. The demolition was scheduled for the following Tuesday. I had pitched the piece to three editors as a story about the death of local journalism — the physical erasure of the last place where the border had its own paper, its own reporters, its own version of events not filtered through a bureau in Phoenix or a wire desk in New York. The pitch worked. Pitches about the death of local journalism always work. Editors in New York love to publish elegies for the newspapers they helped kill.
+
+I walked.
+
+The rental car was at the hotel on Mesa Street, a mile and a half north, and I had left it there deliberately. You do not learn a city from inside a car. You learn it from the sidewalk, where the scale is human and the pace is slow enough that your eyes can do what they are supposed to do: notice. I walked south on Stanton and turned east on Paisano and the city came at me in layers — a taqueria where the copy shop used to be, a Dollar General where Sal's bar used to be, a parking lot where a two-story apartment building had stood with a blue Virgin of Guadalupe painted on its eastern wall. The painting had been visible from the highway. I remembered it. The highway was still there. The wall was not. A bodega I did not recognize occupied a corner where I remembered nothing — no building, no business, only a gap in the streetscape that my memory had never bothered to fill. The bodega had a hand-painted sign and looked like it had been there for years. Someone's daily errand. Someone's livelihood. A place that existed without my permission to exist.
+
+The map I carried was twenty-six years out of date, and the gaps between that map and this street were not metaphorical. They were spatial. They were the actual measured distances between where I expected things to be and where things were. Each gap was a small betrayal — not of me by the city, but of the city by me, for having stopped paying attention, for having taken what I needed from this place and left without updating my records.
+
+I found the building on the north side of the street. I had been looking south. It was smaller than I remembered. A chain-link fence had been set around the perimeter, and a demolition notice was zip-tied to the fence with a date — next Tuesday — and a permit number and the name of the contractor. Through the fence I could see the loading dock where the newspaper trucks backed in at four in the morning. The concrete apron was cracked through and bunch grass had colonized the cracks, thick and green in the February cool. Above the loading dock, the second-floor windows were intact but blackened with interior grime. The sign — EL PASO-JUAREZ BEACON, white letters on a blue field — had been removed at some point after the paper folded. Its outline remained on the brick, a ghost in negative, the mortar lighter where the sign had blocked the sun.
+
+---
+
+Hector Gallegos poured coffee without looking at the cup. He set it in front of me on a kitchen table covered with a vinyl cloth printed in a pattern of sunflowers, then went back to the counter for his own. The kitchen was small and clean and the refrigerator was covered with magnets: pharmacies in Juarez, a dentist on Avenida Lerdo, a Virgin of Guadalupe that matched the one I had been looking for on the missing wall. An AM radio on the counter was tuned to a norteno station, brass and bajo sexto coming through tinny and low. Hector was seventy-one now, retired from U.S. Customs, and he moved through his kitchen with the careful economy of a man who had lived alone long enough that every object had a fixed position and every motion was routine.
+
+He remembered my story. He said it was basically accurate. "You got the structure right," he said. "The routes, the drop points. Most of that was correct." But he said I had missed the scale. What I had reported on, the cross-border goods operation that the *Beacon* story had characterized as a smuggling network, was a satellite. A small one. The hub was elsewhere and was, he implied without stating directly, known to people in his office who had reasons not to pursue it. He would not say more than that. He sipped his coffee and the norteno on the radio shifted to a ballad and he said, "You wrote the version you could prove. That's what reporters do. But the version you could prove was not the version that was true."
+
+Patricia Velarde did not offer coffee. She sat across from me in the front room of her notary and immigration services office on South El Paso Street, a room with two plastic chairs and a desk and a framed copy of her notary license and nothing else on the walls. She was fifty-eight now. In 1998 she had been one of twelve people I interviewed for the *Beacon* story. She remembered it as damaging — not to the people I had named, most of whom were never charged, but to the neighborhood.
+
+"After your story ran," she said, "the police presence doubled. For a year. Maybe longer. They set up a checkpoint on Paisano that was supposed to be temporary and lasted until 2004." She folded her hands on the desk. "You made us look like a crime zone. We were a neighborhood. People lived here. They walked to the grocery store. They took their kids to school. Your story turned that into something you had to drive through fast with your doors locked."
+
+She did not raise her voice. She did not need to. The room was very quiet. Through the window behind her I could see the street she was talking about, and on it, in February 2026, people were walking to the grocery store and taking their kids to school.
+
+Arturo Briseno was sixty-five and no longer on the city council. He sold commercial insurance now and wore a polo shirt with the company logo on the breast pocket. He met me at a coffee shop on North Mesa, neutral territory, and ordered an agua fresca that he did not drink. When I read him the quote I had attributed to him in 1998 — "It's time to clean up the border, and that means holding people accountable on both sides" — he winced. Not a small wince. A full physical flinch, as if the sentence had been a hand reaching across the table.
+
+"I said that?"
+
+I showed him the clipping. He read it. He set it down.
+
+"I was running for reelection," he said. "I would have said anything a reporter wanted to hear." He paused. "I don't blame you. You were doing your job. I was doing mine. We were both using each other." He picked up the clipping again and read the quote a second time and shook his head. "Clean up the border. Jesus. What does that even mean?"
+
+He did not blame me, which I had been prepared for. What I was not prepared for was the quality of his self-disgust — not performed, not offered as a gift to my essay, but genuine and private, surfacing against his will. I had come here to be the one reckoning. He was reckoning too, with his own complicity, and his reckoning had nothing to do with mine.
+
+Lydia Ornelas was forty-nine. In 1998 she had been twenty-three, a graduate student at UTEP whose uncle, Gabriel Ornelas, was named in my story as a participant in the smuggling network. Gabriel was investigated. He was not charged. It did not matter. The investigation was public and the damage was done. Lydia's mother sided with the investigators — believed the story, believed her brother was guilty — and the family split along that line and never healed.
+
+We met at a park on the east side. She had agreed to see me but had specified outdoors, public, no longer than twenty minutes. She sat on a bench and I sat on the other end and she said, without preamble: "You people always come back to write about what you did to us. You never come back to fix it."
+
+I did not have an answer. She did not wait for one. She told me what she remembered: the phone calls, the arguments, the Thanksgiving her mother refused to attend because Gabriel would be there, the years of silence that calcified into permanence. She told it factually, without self-pity, the way you tell a story you have told many times and no longer need to perform. When she was finished she stood up and said she did not want to be quoted, and I said I would not quote her, and she looked at me for a long moment with an expression I recognized — the expression of a person who knows exactly what is happening, who understands that the journalist sitting in front of her will go home and turn this conversation into material, and who has decided to participate anyway because refusing costs its own kind of energy.
+
+"You can write about me," she said. "I don't care anymore. Just don't pretend you're doing it for my benefit."
+
+---
+
+A contact at the development company let me into the building on a Saturday, four days before demolition. I had an hour. The front door opened onto a hallway that smelled of ink and mildew and concrete dust and something electrical — not active current but the residue of it, the mineral ghost of fluorescent ballasts that had hummed for forty years and then stopped. The hallway was narrow and the floor was poured concrete with a runner of industrial carpet that had worn through to its backing. On the left, the old circulation office: a counter with a hinged section that still swung open. On the right, a closet-sized room where the classified ads had been typeset, two desks crammed in with just enough space between them for a person to sit.
+
+Upstairs, the newsroom. It was the length of the building, maybe sixty feet, and it had been the newsroom for the *Beacon*'s entire run, 1974 to 2011. The desks were still there, six of them, bolted to the floor in two rows of three. Steel frame, fake wood laminate tops, each with a hole drilled for cable routing. The cables themselves trailed from the walls and pooled on the floor beneath the desks, coaxial and Ethernet, the tendons of a nervous system that had carried the AP wire, the Reuters feed, the phone-modem connection to the state capitol bureau in Austin. On the far wall, a corkboard. Pinned to it: an AP bulletin dated September 12, 2001, headlined ATTACKS ON AMERICA, the paper yellowed and curling at the corners, the thumbtack rusted into the cork.
+
+I stood in that room for ten minutes, not writing, not recording, just letting the space settle. This is a habit I have never been able to explain and have never tried to explain in print — the need to be in a place long enough that the place stops performing and begins simply to be what it is. The newsroom was cold. The heating system had been off for years and the February chill came through the windows, which were single-pane and drafty and faced south toward Juarez. I could see the border from the second floor. Not the river, which is too low and too far west, but the fence, and beyond it the density of Juarez rising up the hillside: white and beige and pastel, buildings crowding each other up the slope.
+
+In the basement I found the wire service terminal. It sat on a metal shelf near the furnace: a beige box the size of a bread loaf, serial port on the back, a manufacturer's plate that read BBN Communications — the company descended from Bolt Beranek and Newman, the firm that had built the first Interface Message Processors for the ARPANET in 1969. This was not one of those original machines. This was a later model, commercial grade, probably installed in the mid-1980s when the *Beacon* first got electronic wire feeds. But it was the same lineage. A device designed to receive a message from one network and translate it into a form another network could use. It did not generate content. It processed. It forwarded. It shaped how the message traveled without anyone noticing the shaping.
+
+I ran my hand across the top of it. The beige plastic was gritty with dust. The serial cable hung from the back port, cut clean, going nowhere.
+
+Somewhere in this building had been my desk. I tried to locate it. Second row, third position — that was my memory. But the desks were identical and my memory was twenty-six years old and the building would not confirm anything. It offered objects. It did not offer me.
+
+---
+
+Dolores Aguirre moved away in 2003. I learned this from her former landlord, a woman named Mrs. Garza, who managed the apartment building on South Campbell Street where Dolores had lived. Mrs. Garza was in her seventies and sat in a recliner in her ground-floor apartment with the door open to the hallway, which was how she supervised the building: by listening.
+
+I asked where Dolores went. Mrs. Garza said Denver. Then she corrected herself — Albuquerque. Then she said she was not sure, maybe back to Juarez, she had family there.
+
+"She was quiet," Mrs. Garza said. "Paid on time. Left the apartment clean."
+
+I asked if Dolores had ever mentioned working for a goods operation near the border crossing, or being interviewed by a reporter, or losing her job. Mrs. Garza shook her head. "She didn't talk about her work. She kept to herself."
+
+In the hallway behind Mrs. Garza's open door, a small painting hung on the wall in a wooden frame. A landscape: rolling green hills, a low sky, what might have been a northern European coast in the distance. It was not a print. It was an original, oil on board, maybe eight by ten inches, and it had the quality of a painting made quickly and confidently by someone who knew what light looked like on wet grass.
+
+I asked about it. Mrs. Garza said her sister had brought it from a trip to Denmark. "Some woman who spent her life keeping house for artists," she said. "My sister liked the hills."
+
+The painting hung in a hallway in a border-city apartment building, two thousand miles and a hundred years from wherever it had been made, and it meant nothing beyond what it was: a small record of green hills made by a woman whose name Mrs. Garza did not remember, carried here by accident, outlasting its context. Like everything else in this building. Like everything else in this city.
+
+I did not find Dolores. I had cut her from my story in 1998 because her account of the smuggling operation did not fit the narrative I was building. She had described it as economic survival — families moving goods across the border because the legitimate economy did not offer a viable alternative — and that framing would have complicated the clean investigative arc I needed: network, participants, evidence, accountability. So I used her information and removed her perspective. I filed the story. It ran. Other sources had named her. She was investigated. She lost her job at a bookkeeping firm on Alameda Avenue. I knew this and did not follow up.
+
+The essay I am writing now cannot find her either. The hole I cut in the original story persists. I am writing around it, as I wrote around her then, and the fact that I am acknowledging the hole does not fill it. Acknowledgment is not repair. It is another form of use.
+
+---
+
+On Tuesday morning I stood across the street and watched them take the building down. The contractor had brought in a long-reach excavator, a CAT 390F with a demolition attachment — a hydraulic jaw that opened and closed like an enormous pair of pliers. The operator started with the interior walls, punching through them from the second floor, and the building made sounds I had not expected: not just the crash of masonry but a tearing, fibrous sound, like the building had tendons, like the plaster and lath were resisting in a way that concrete block would not. Dust came up in plumes — white from the plaster, gray from the concrete, a finer brown from the decades of grime between the walls. The crew wore hard hats and reflective vests and stood at the perimeter with a calm I found difficult to share. One of them ate a breakfast burrito from a foil wrapper, watching the excavator work the way you watch a coworker perform a task you have seen a thousand times.
+
+The second floor dropped into the first with a sound like a dumpster being emptied from a great height. The facade held for a few seconds longer, the brick front standing by itself with nothing behind it, a stage flat, before the excavator reached over and pulled it down in two passes. By eleven the building was a pile of rubble roughly twelve feet high at the center, slopes of brick and concrete and broken plaster trailing to the edges of the lot. The AP bulletin from September 2001 was somewhere in that pile. The wire terminal was somewhere in it. My desk — if it had been my desk — was in it. The dust hung in the air for twenty minutes and then the wind off the desert, blowing east, carried it across the street and past me and into the parking lot behind me where it settled on windshields and hoods.
+
+A man walked past the rubble on the sidewalk without looking at it. He was carrying a plastic bag from the Dollar General and he walked with the unhurried stride of a person on the way home and the rubble was simply part of the sidewalk now, an obstruction to be walked around, no different from a dumpster or a parked truck.
+
+Across the street, on the south sidewalk, a woman was selling tamales from a steel cart with a hand-lettered sign: TAMALES DE POLLO, TAMALES DE RAJAS. She had been there when I arrived that morning. She had been there during the demolition. She had not stopped selling tamales when the building came down. Two customers stood at the cart now, and she was serving them with the steady, practiced motions of a person performing a task she had performed yesterday and would perform tomorrow and the day after that when the rubble was cleared and the foundation was poured and the parking structure went up and a new set of people who had no memory of the *Beacon* or of the story I wrote there in 1998 parked their cars and walked to lunch. The city did not need the building. The city did not need my essay. Hector's kitchen, Patricia's office, Arturo's wince, Lydia's refusal, Dolores's absence, Mrs. Garza's painting of green hills — I held all of them, and none of them matched, and none of them were the city, which was a thing no one had access to, which was a thing that was already becoming something else while I stood there writing it down.
