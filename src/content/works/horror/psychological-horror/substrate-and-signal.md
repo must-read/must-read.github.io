@@ -7,8 +7,8 @@ authorA: "Shirley Jackson"
 authorB: "Paul Tremblay"
 workX: "The Yellow Wallpaper"
 workY: "A Head Full of Ghosts"
-wordCount: 4398
-readingTimeMinutes: 18
+wordCount: 4356
+readingTimeMinutes: 17
 tags:
   - domestic horror
   - unreliable narrator
@@ -171,7 +171,7 @@ Gil watched her bag the soil samples from the kitchen window. Later he told her 
 
 "I'll go Thursday. I have data I want to show her."
 
-Gil looked at her. He did not say what he was thinking, which was the most Jackson thing about Gil — his silences were architectural. They had load-bearing walls. They had rooms you could not enter.
+Gil looked at her. He did not say what he was thinking, which was the most telling thing about Gil — his silences had load-bearing walls. They had rooms you could not enter.
 
 "Okay," he said.
 
@@ -233,7 +233,7 @@ Nora said nothing.
 
 "Did she see the stain before or after she drew the picture?"
 
-Nora could feel the question's architecture. It had a floor plan. It led somewhere specific. She could see the room Dr. Keane was building for her — a room with soft lighting and reasonable explanations, a room in which Nora had showed Willa the stain and Willa had processed it through drawing, as children do, and the sequence of events was mundane and explicable and did not require the word *independent*.
+Nora could feel the question's architecture. It led to a room with soft lighting and reasonable explanations, a room in which Nora had showed Willa the stain and Willa had processed it through drawing, as children do, and the sequence of events was mundane and explicable and did not require the word *independent*.
 
 "I don't remember," Nora said.
 
@@ -269,7 +269,7 @@ Willa stood in front of it. She held the moisture meter against its center and r
 
 "Eighty-nine," she said.
 
-Nora wrote it down. She looked at the stain over Willa's shoulder. In the bad basement light — a single bulb, sixty watts, on a pull chain — the stain had a quality that her instruments could not capture. It looked dense. Not like a stain on a surface but like something beneath the surface pressing against it. Like a shape under a sheet.
+Nora wrote it down. She looked at the stain over Willa's shoulder. In the bad basement light — a single bulb, sixty watts, on a pull chain — the stain had a quality that her instruments could not capture. It looked dense. Not like a discoloration on a surface but like something beneath the surface pressing outward, the way a fist looks through a rubber glove.
 
 "It's different today," Willa said.
 
@@ -281,9 +281,7 @@ Nora wrote it down. She looked at the stain over Willa's shoulder. In the bad ba
 
 "Than yesterday. Yesterday it was just dark. Today it's more like something."
 
-Nora did not ask what it was more like. She recognized the grammar of Willa's observation. It was the grammar of her own notebook: careful, circling, building toward a description that the vocabulary could not yet support. She felt something then — not fear, not exactly. A vibration. A recognition. The feeling of a tuning fork finding its frequency in another object.
-
-She wrote down Willa's observation, word for word, in the notebook.
+Nora did not ask what it was more like. She recognized the grammar of Willa's observation — careful, circling, reaching for a description the vocabulary could not yet support. She wrote down Willa's words, exactly as spoken, in the notebook.
 
 ---
 
@@ -305,11 +303,11 @@ Diane served Nora a square of casserole. "You know, when Gil was small, he used 
 
 "He grew out of it."
 
-"He grew out of it," Diane said again, as if repetition were a form of proof. She cut another square of casserole. Outside, the light was failing, and the kitchen window had begun to collect condensation along its lower edge. Nora noticed this. She noticed Diane not noticing it.
+"He grew out of it," Diane said again, not as correction but as emphasis, the way some people repeat prayers. She cut another square of casserole. Outside, the light was failing, and the kitchen window had begun to collect condensation along its lower edge. Nora noticed this. She noticed Diane not noticing it.
 
 The casserole was chicken and rice, well-seasoned, the kind of food that communicates competence and stability and is deployed in times of crisis by women who believe that a correctly assembled meal can hold a family together. Nora ate it. It was good. She hated that it was good.
 
-After dinner, Diane helped Willa with her bath while Gil washed the dishes and Nora nursed Oliver in the living room. The house was full of the sounds of a family functioning: water running, dishes clinking, Diane's voice reading to Willa from a book about horses. Nora sat in the rocker with Oliver latched on and listened to all of it and felt the specific loneliness of being surrounded by people who have agreed on a story about you.
+After dinner, Diane helped Willa with her bath while Gil washed the dishes and Nora nursed Oliver in the living room. The house was full of the sounds of a family functioning: water running, dishes clinking, Diane's voice reading to Willa from a book about horses. Nora sat in the rocker with Oliver latched on and listened to all of it and thought about how loneliness works differently when the house is full. She might have been wrong about this. She was not sure anymore which of her feelings were weather and which were climate.
 
 ---
 
@@ -317,20 +315,19 @@ The night it happened — the night Gil found them — Nora woke at 1:40 AM and 
 
 She went downstairs. She did not turn on the basement light. She stood at the bottom of the stairs and let her eyes adjust to the dark, and in the dark the stain was visible. She could see it. It was luminous — not glowing, exactly, not producing light, but reflecting light that Nora could not identify the source of. It had grown again. It covered most of the east wall now, floor to ceiling, and it was moving. Not quickly. The way condensation moves down a cold glass. The way a tide rises on a flat beach. A movement so slow that staring at it directly revealed nothing, but looking away and looking back showed progress.
 
-
 The concrete floor was cold against her bare feet. She had not put on shoes. She had not put on a robe. She had come down in her T-shirt and underwear, as if urgency did not permit preparation, though nothing about the house felt urgent. It felt patient. It felt like it had been waiting.
 
 She heard Willa on the stairs. Bare feet on wood, soft and deliberate. Willa came down and stood next to her. She did not speak. She reached for Nora's hand and held it, and they stood together in the dark, facing the wall, and watched.
 
-The stain breathed. That was the wrong word but also the right one. It expanded and contracted in a rhythm too slow for lungs but too regular for chance. Nora counted. Expand — eight seconds. Contract — eight seconds. She could hear it now, too. Not a sound the ears received but a pressure the body recognized, a subsonic pulse that she felt in her sternum and her wrists and the soles of her feet against the concrete floor.
+The stain breathed. That was the wrong word but also the right one. It expanded and contracted in a rhythm too slow for lungs but too regular for chance. Nora counted. Expand — eight seconds. Contract — eight seconds. She noticed her own breathing had fallen into the same interval. She could not determine which had synced to which.
 
 Willa squeezed her hand.
 
 "You feel it," Nora said.
 
-"I always feel it," Willa said. "It just got loud enough for you."
+"I always feel it," Willa said. "You just started paying attention." It was the kind of thing Willa might have heard an adult say. It was the kind of thing a child says when she has been listening to adults talk about her.
 
-They stood there. The wall breathed. The dark was total except for the stain, which had a quality of depth now, as though the concrete had become translucent and something behind it — something old and patient and immense — was pressing forward. Nora did not measure it. She did not reach for her notebook. She stood with her daughter and watched, and for the first time in months the noise in her head went quiet. Two people seeing the same thing. Confirmation. The most dangerous kind of relief.
+They stood there. The wall breathed, or Nora breathed, or the house settled in a rhythm that happened to match the rhythm of two people standing very still in the dark. The stain had a quality of depth now, as though the concrete had become translucent and something behind it was pressing forward. Two people seeing the same thing. Confirmation. Or two people in the same dark room, wanting.
 
 Gil found them at 2:15 AM. He turned on the light. The pull chain clattered against the bulb, and the sixty watts flooded the basement, and the stain was a stain. A water stain on a concrete wall in a damp basement in a house built on clay. Nora blinked. Willa did not let go of her hand.
 
