@@ -1,0 +1,199 @@
+---
+title: "Windmill Over No Herd"
+slug: windmill-over-no-herd
+genre: western
+subgenre: literary-western
+authorA: Annie Proulx
+authorB: Larry McMurtry
+workX: "Plainsong (Kent Haruf)"
+workY: "Housekeeping (Marilynne Robinson)"
+wordCount: 5574
+readingTimeMinutes: 22
+tags: [literary-western, ranching, rootedness, transience, landscape, parallel-lives]
+rating: 4.0
+ratingCount: 0
+publishedDate: 2026-02-22
+status: draft
+formulaSummary: "Proulx's brutal landscape compression meets McMurtry's elegiac warmth, structured through Haruf's patient parallel-lives architecture and haunted by Robinson's meditation on rootedness and drift — a literary western about what holds people to land that gives nothing back."
+synopsis: "A rancher's widow hauls water by hand after her windmill seizes, holding together a cattle operation the land has already decided to end. Three hundred miles north, her estranged daughter reads the legal documents that confirm it."
+combination:
+  fromAuthorA:
+    - "Compressed, landscape-saturated prose where terrain carries emotional weight — clinker hills, frost heave, wind as constant presence"
+    - "The pronghorn passage written with zoological precision and zero sentimentality"
+    - "Sentence fragments that land like physical blows; detail piled without connective tissue"
+  fromAuthorB:
+    - "Dale Kessler's quiet offer and Edith's refusal — kindness and loss coexisting in the same gesture"
+    - "The hardware store scene and spilled water — devastation inside mundane failure"
+    - "Elegiac register throughout: everything already ending even as it is being lived"
+  fromWorkX:
+    - "Alternating numbered sections between Edith and Nola — parallel lives without commentary"
+    - "No quotation marks throughout; all speech rendered on the same plane as narration"
+    - "Patient accumulation of domestic detail building a world sentence by sentence"
+  fromWorkY:
+    - "The empty-house passage where the dwelling exists independently of its inhabitants"
+    - "Selenite crystals preserving the shape of absence on a windowsill"
+    - "Transience and rootedness as two responses to the same condition, neither validated nor condemned"
+    - "Nola's unmailed letter — the failed anchor of communication left in a drawer"
+---
+
+## 1
+
+The hose took forty minutes to fill the stock tank. Edith held it the whole time because her hands needed work the way her lungs needed air and if she wedged it under a rock or tied it off with baling wire her hands would have nothing and her hands with nothing were hands that shook. The water came from the cistern in a silty arc and hit the galvanized steel with a sound like a flat palm on a drum. Dawn was coming through the Bighorn foothills to the west, slow and without enthusiasm, the light the color of old paper, first snow on the peaks gray-white against a sky that had no argument to make about anything. Wind from the northwest. Steady. Twenty, twenty-five. The kind of wind that turns windmills.
+
+The Aermotor above her groaned. The fan assembly had seized three days ago, something in the gearbox or the pitman arm, and the blades caught the wind and shuddered and would not turn. The sound was metallic, low, almost animal — a complaint that had not stopped since Tuesday. Under it the stock tank sat in the dirt yard where it had sat for forty-one years, rust at the waterline, calcium deposits on the float valve like bone, and the water that came from the garden hose was cistern water, silty, tasting of limestone and the dark.
+
+She counted the cattle. Thirty-one head. Black Angus and crossbreds standing at the fence line in the cold, their breath showing, watching her the way cattle watch everything, with a patience that is not patience but the absence of any alternative. She counted them every morning. Not because the number changed. It had not changed since August when the brindle calf got through the wire and a truck on the county road settled the matter. She counted because counting was a thing she could complete. Thirty-one yesterday. Thirty-one today. The number was an answer to a question nobody had asked, and Edith was a woman who preferred answers to questions.
+
+Seven miles east the town of Buckshot sat in the drainage of Crazy Woman Creek. Population 340 and falling. She could not see it from here. She could see the clinker hills to the south, red-capped ridges where underground coal fires had burned through the Powder River Basin and baked the overburden into something harder than what it started as. She could see the two-track road running east through brown grass to the county blacktop. She could see the fence, four strands of barbed wire on juniper posts her husband's father had set in 1952 and she had reset twice, and beyond it the BLM ground that her cattle grazed from April to December under a lease that cost eleven hundred a year and was the difference between a ranch and a house with no purpose.
+
+The hose sputtered. Air in the line. The cistern was dropping. She held it steady and the water came back weaker and she watched it pour into the tank and did not think about November.
+
+The repairman came from Sheridan on Thursday. His name was Teague and he drove a white truck with WIND AND WATER on the door in faded blue paint. He climbed the tower in twelve minutes. Came down in five. He stood in the yard with his clipboard and told her the gearbox was shot, the pitman arm cracked, the sucker rod needed replacing. Twenty-two hundred for parts. Eight hundred for labor. He could have it done in a day once the parts came from Casper.
+
+Edith looked at the windmill. The blades shuddering in wind they could not use.
+
+She said she would think on it.
+
+Teague said there was no rush, but they both knew there was a rush, because winter was coming and cistern water only went so far and neither of them said this because saying it would make it a thing between them and it was not a thing between them, it was a thing between her and the ground.
+
+She had fourteen hundred in the checking account at First Federal in Buffalo. The rest would mean selling eight head at the Kaycee auction. Eight head would drop her below the twenty-five minimum for the BLM grazing lease, which required twenty-five cow-calf pairs on the allotment. She could fix the windmill and lose the lease. Or she could keep the cattle and haul water by hand until the cistern emptied, which at the current draw would be mid-November.
+
+She told Teague she would call by month's end. He tipped his hat, which surprised her because men did not do that anymore, and drove back to Sheridan.
+
+## 2
+
+The plat map covered Nola's desk in the title company office on Grand Avenue in Billings. Township 49 North, Range 82 West, Sections 14 and 23. The metes and bounds description ran half a page of surveyor's language that described a shape on the earth with no regard for what the shape contained. She traced Crazy Woman Creek with her index finger. On the map the creek was a blue thread, a meander notation, a surveyor's abstraction of the water that ran through the property every spring and dried to a chalk bed by July. The map showed no house. No barn. No windmill. No stock tank with rust at the waterline. It showed boundaries and measurements and the name of the new owner: Front Range Development LLC, Denver, Colorado.
+
+The deed transfer had come through the office that morning with six others. Routine work — land changing hands in a state where land was the only thing that reliably changed hands. Nola processed deeds five days a week under fluorescent light in an office that smelled of toner and the coffee Darlene kept too long on the burner. She was good at the work. She understood legal descriptions the way some people understood music — the rhythm of township and range, the logic of section lines dividing the earth into squares the earth itself did not recognize.
+
+This legal description she understood differently. Section 14 was the BLM grazing allotment her mother's cattle had used for twenty years. Section 23 held the two-track road, the creek crossing, the hill where as a girl she had sat in October watching the pronghorn come south, low and fast, their bodies catching the late light.
+
+She set the deed aside with the others and finished her shift. Said good night to Darlene. Drove to her one-bedroom apartment on Sixth Street West and stood in the doorway and did not call her mother.
+
+The apartment had been hers for nine years. She had moved to Billings three weeks after her father's funeral — not in grief, although there was grief, but in something quieter. Recognition. The ranch was ending. She could see it the way you see a crack in a stock tank before the water finds it: the line was there, faint, inevitable. Her father had been the weld. When he died the crack opened and she did not want to be the one holding the tank when the water came through.
+
+She had done the dishes before she left. She had packed two bags, one for clothes and one for everything else, and the everything-else bag was not full. She left on a Tuesday, because Tuesdays were the day her mother drove to Buckshot for groceries, and it was easier to leave a house that was already empty.
+
+She had not been back. Nine years. The apartment in Billings had a window that faced east and in the mornings the light came through it and fell across the floor in a rectangle that moved as the sun moved, and she had watched it for nine years without knowing she was watching it, the way you watch anything that happens every day — not with attention but with the part of the mind that registers the world continuing and does not ask it to explain itself.
+
+## 3
+
+October deepened. The cottonwoods along Crazy Woman Creek went yellow and dropped and the wind stripped them and sent the leaves flat across the brown grass like small frantic hands. Frost every morning now. Edith broke ice on the stock tank with a fence post, the skin of it shattering into plates that spun and sank. The cistern gauge read forty percent. At the current draw she had water until the second week of November. After that, nothing but what the sky decided to give her, and the sky had made no promises.
+
+She hauled morning and evening. Two hours each session. The physical labor of it structured her days in a way they had not been structured since Russell was alive and the ranch ran on two people's work instead of one. The hose from the cistern to the tank, the slow filling, the cattle coming to drink in their order, which never changed — the old brindle cow first, then the two-year heifers, then the rest in a hierarchy Edith understood and the cattle did not need to explain. In between the hauling she did the things she had always done. Fed the chickens. Checked the fence line on foot because the truck used gas and gas cost money. Swept the floor. Ate lunch standing at the counter because sitting down to eat alone at a table set for one was a thing she had tried in the first month after Russell died and would not try again.
+
+Her hands cracked from the cold and the wet. She bought a tube of bag balm at the hardware store in Buckshot and rubbed it into the seams of her knuckles at night, and in the morning the cracks were sealed but her hands smelled of lanolin and she carried that smell to the stock tank where it mixed with cold water and manure and the iron tang of galvanized steel.
+
+Dale Kessler drove over on a Saturday. He was a tall man in his seventies with a face the wind had finished with — the skin drawn tight over the cheekbones, the eyes narrowed to slits from forty years of riding into weather. He parked in the yard and got out slow the way he did everything and looked at the windmill and then at the hose running from the cistern and then at Edith and said nothing for a while, which was his way of saying something.
+
+I could run a line from my well, he said. Half-inch PVC. Take a day.
+
+Edith said she appreciated it. She said she would figure it out.
+
+Dale looked at the windmill again. The blades shuddered. Metal on metal. He said that sound would drive him to drink.
+
+She said she did not hear it anymore.
+
+He knew what I'll figure it out meant. He had known her and Russell for thirty years, and Russell's father before that, and he understood that the Osters did not accept help the way other people did not accept poison — quietly, with conviction, and to their own detriment. He had watched Russell refuse a loan from the Farm Service Agency in 2009 when the hay prices doubled. He had watched Edith refuse a ride to Buffalo when her truck broke down in January and she walked the seven miles to Buckshot in snow boots and a canvas coat and called a mechanic from the hardware store phone. Dale put his hat back on. He drove home. He did not offer again, because offering again would cross a line that he could see and she could not, which was the line between kindness and pity, and Dale was a man who understood lines.
+
+The pronghorn came on the twenty-third. Edith saw them from the window at first light — a line of animals on the ridge to the north, forty head maybe, standing still in the way pronghorn stand still. Not frozen but reading. Reading the ground and the air and the fences between them and wherever they were going, which was south, which was always south.
+
+She pulled on her coat and walked to the east fence line. The bottom wire was eighteen inches off the ground, barbed, strung tight. She had started taking it down in 1994, the year a wildlife biologist from Laramie told her pronghorn could not jump. Fastest land animal in the Western Hemisphere. Built for open ground. Forty miles an hour across the flats without breathing hard. And they could not clear four strands of barbed wire. They went under. They pressed their bodies flat and slid beneath the bottom strand belly to the dirt, or they turned back. The ones that turned back sometimes starved because the grass they needed was on the other side of a fence a child could climb. Ten thousand years of evolution and four strands of wire. The pronghorn did not know about wire. They knew about speed and distance and the corridors that pulled them south in October and north in April, and the wire was not in their knowing, and so they went under or they did not go at all.
+
+She untwisted the ties from three posts. Let the wire go slack. Laid it on the ground. A gap. Two hundred yards of it, along the east fence where the corridor crossed her land.
+
+They came through in the late afternoon. They moved low and fast, their bodies amber in the long light, white rumps flashing. They did not bunch or hesitate. They flowed through the gap single file and spread into the pasture beyond, and they did not look at her and she did not need them to. Sixty-three animals. She counted them the way she counted cattle. Because counting was a thing that could be completed. The last one through was a doe with a limp, left rear, moving slower than the rest but moving, pressing through the gap and continuing south because south was the only direction that mattered and the doe knew this without needing to understand it. The herd became a line of small shapes on the brown slope to the south and then they were gone and the gap in the fence was a gap in the fence and the wind came through it the same as it came through everything else.
+
+## 4
+
+Nola spent the week pulling records. She told herself it was professional curiosity, the kind of research the title company paid her to do, but the title company had not asked for it and Darlene noticed the late hours and said nothing, which was Darlene's version of saying something.
+
+The homestead patent was filed June 14, 1919, by Alvar Oster, under the Stock-Raising Homestead Act. Six hundred forty acres. No cultivation required — the land classified as suitable for grazing only, too dry and too alkaline for crops. Alvar had built the house in 1920. Three rooms in a line. Front room, bedroom, kitchen. Shotgun style, the cheapest architecture the plains allowed, a house you could build in a week with lumber hauled from Sheridan. The foundation was shale because Alvar was a railroad man from Minnesota who did not know that shale shifts when it freezes and was too proud to ask anyone who did, and by 1925 the doorframe had gone crooked and stayed crooked for a hundred years.
+
+The dower interest Edith held was legally strong. When Russell died in 2017, Edith received the house and the deeded forty acres as a life estate. No one could force her out. But a life estate on forty acres of alkaline ground with no grazing lease and no water rights beyond a cistern that filled from snowmelt — that was ownership of a condition, not a livelihood. You could own a house and the house could mean nothing. This was a thing Nola understood the way she understood all things: through documents, through legal descriptions, through the language of metes and bounds that could render a life into lines on paper and leave nothing out and include nothing that mattered.
+
+She did not call her mother. She had not called in seven weeks. The last call had been in early September, about the furnace, which was working, and the road, which was bad, and the weather, which was the weather. Eleven minutes. They had talked the way they always talked, circling the thing that sat between them without touching it, the way you walk around a hole in a floor — carefully, by habit, without looking down. Neither of them had said anything that needed saying and both of them knew it and neither of them knew how to begin, and so they had hung up and the phone had sat on the counter and the counter had sat in the apartment and the apartment held Nola the way any container holds what is put inside it, without interest, without refusal.
+
+## 5
+
+The cistern dropped below the intake pipe on a Wednesday. The pump sucked air and the hose sputtered and died. Edith drove to Buckshot to fill five-gallon jugs at the hardware store. Gayle was behind the counter. Gayle was sixty and had run the store since her husband went to the oil work in Gillette and did not come back, which made her and Edith a kind of pair, although neither of them had ever said so and neither of them would.
+
+She filled four jugs from the spigot out back. Gayle helped her carry them to the truck bed. Gayle asked if she needed help out there.
+
+Edith said she was managing.
+
+Gayle looked at her the way women in small towns look at other women in small towns when they can see a thing that cannot be said without breaking something. She said drive safe.
+
+On County Road 76, three miles from the house, the truck hit a rut and the rear jug tipped. She heard it go — the thud, then the gurgle. The plastic cap cracked and five gallons poured across the truck bed and through the tailgate onto the gravel where it darkened the road and was gone in ten seconds. She pulled over. She sat in the cab with both hands on the steering wheel and the engine running and she looked south at the clinker hills, the red-capped ridges where the coal had burned underground and hardened the overburden into something that would not erode, would not soften, land that had burned from the inside out and was harder for it.
+
+She did not cry. She sat. The heater ticked. The wind pushed the truck from the side, a nudge, like a horse leaning into you at the fence, and the water dripping from the tailgate slowed and stopped and the dark stain on the gravel was already drying at the edges. After a while she put it in gear and drove home with three jugs instead of four and the wet truck bed catching the light of the afternoon sun and flashing it back at the sky, which did not notice.
+
+Dale came by the next Tuesday. He stood in the yard with his hat off and told her the BLM lease was transferring. Developer out of Denver. The cattle would have to come off the allotment by December first.
+
+She said she had heard something about it.
+
+Dale said he was sorry. He said it was legal and there was not much difference between legal and right anymore, which was an opinion he had held for some time and had no intention of defending because defending opinions was not what Dale did. He put his hat on. He said if she needed anything.
+
+She said she was fine.
+
+He drove away and the dust from his truck settled on the yard and she watched it settle the way she watched everything settle, with attention and without comment.
+
+She drove to Buffalo the next day. Forty miles each way on the highway through the Powder River country, the clinker hills flanking the road to the south, red-topped where the coal had burned, the cottonwoods along the creek bottoms bare and skeletal against the gray. The BLM field office on Fort Street was a single-story prefab building with a metal roof and a flagpole and a sign that said BUREAU OF LAND MANAGEMENT in letters fading from the sun. She sat in the parking lot for twenty minutes watching people go in and come out. A woman with a folder. A man in a Carhartt jacket. She went inside.
+
+The clerk was young, clean-shaven, with the look of someone who had taken the job for the benefits and not because he had ever worked cattle or driven a fence post or stood in the cold holding a hose while the wind took the feeling out of her fingers one knuckle at a time. He pulled up the allotment record on his computer and confirmed the transfer. He was polite about it. He said she could apply for a new allotment in the next allocation cycle.
+
+When is that, she said.
+
+Three years, he said. Maybe four.
+
+She thanked him. She walked to the truck and sat in it and looked at the steering wheel and then she started the engine and drove home. She drove with both hands on the wheel and the heater running because the cab leaked cold from somewhere she and Russell had never found and had stopped looking for.
+
+## 6
+
+Nola drafted a letter to her mother on a Thursday evening. She used the title company letterhead because the formality felt honest — this was a legal matter at its core and dressing it as anything else would be the kind of lie her mother would see through and her father would have called horseshit. The letter explained the lease transfer, the development company, the timeline. It explained the homestead patent and the dower interest and the fact that the house and the forty acres were Edith's for life and could not be taken. It did not explain what to do. It presented facts. Facts were what Nola knew how to present.
+
+She did not write what she wanted to write, which was: Come to Billings. Or: Let me come home. Or: I left because I could see the thing you could not see, the crack in the tank, the seize in the gearbox, the lease that was never permanent, and I was right about all of it and being right has not made me happy, not once, not for a single day in nine years. She did not write: I did the dishes before I left and you never asked me why, and the reason was that I could not leave dirty dishes in a house that had been clean every day of my life, and that is the closest I have ever come to understanding why you stay.
+
+She printed it. Read it standing at the counter. Folded it into an envelope. Wrote the address: Edith Oster, 14 County Road 76, Buckshot, WY 82834.
+
+She put it in the top drawer of her desk, next to the spare keys and the apartment lease and a photograph of her father standing by the stock tank in a hat too big for him, squinting into a sun that was no longer shining anywhere.
+
+She did not stamp it.
+
+After work on Friday she drove to a bar on Montana Avenue she did not usually go to. Pool tables and a television showing college football between teams she could not name. She drank two beers. She drove home and stood in her apartment looking at the wall above the couch where she had hung nothing in nine years. The wall was white. The nail holes from the previous tenant were still there, three of them, unfilled, because filling them would mean she intended to stay and not filling them meant nothing at all, which was the meaning she preferred.
+
+## 7
+
+The house stood empty while Edith was in Buffalo. Three rooms in a line on a shale foundation that had shifted so many times the floors no longer pretended to be level.
+
+The stain on the ceiling in the front room. The roof had leaked in 2011 and Russell had patched it with tar that held for two years and then did not. The stain was the shape of no particular thing — not a country, not an animal, not a face — just the mineral record of water that had pooled and dried and pooled and dried, brown at the edges and lighter at the center.
+
+The bedroom door was open. The quilt on the bed was one Edith's mother had pieced in 1979 from flour-sack fabric and cotton batting, washed so many times the batting had shifted and bunched, and it lay on the bed like a topography of its own history.
+
+The stove in the kitchen ticked as it cooled. Edith had left it banked before dawn and the coals were going to ash, and the warmth held in the kitchen and thinned through the bedroom and died in the front room, so that the house had weather of its own, its own gradient from warm to cold, its own climate that had nothing to do with the climate outside.
+
+In the small room off the front room — Nola's room, built in 1993 when Russell walled in the porch — the selenite crystals sat on the windowsill where Nola had placed them when she was eleven. Seven of them, cloudy-clear, the largest the size of a thumb. She had found them in the dry wash behind the house, gypsum formations grown in evaporation basins where shallow water pooled and dried and left behind the shape of its own disappearance. Transparent. Fragile. Moon-named. The November sun came through the glass low and pale and passed through the crystals and cast faint prismatic shapes on the floor, shapes that moved as the light moved and vanished when the sun dropped behind the foothills and the room went dark and the crystals sat in the dark the same as they sat in the light, holding nothing, formed by absence, preserving the shape of what had already gone.
+
+The stuck drawer in the kitchen held its contents in the dark — spatulas, a can opener, a cheese grater with a handle that broke in 1998 and that no one had replaced because the grater still worked if you held it right. The frost on the window glass thickened. The floor, pine planking on shale, held the cold and the warmth with the same indifference, and it would hold them after Edith came home and it would hold them after she did not come home, because the house was not waiting and was not loyal. It was pine and shale and nails. It would stand until it did not stand, and then it would be a shape on the ground, and then it would not be that either, and the wind that came through the crooked doorframe that Alvar Oster had hung wrong a hundred years ago would come through the space where the doorframe had been, because the wind did not care about frames and never had.
+
+## 8
+
+Edith sold the cattle. She called the Kaycee auction on a Monday and arranged for two loads. A man named Pruitt came with a stock trailer the next morning, and they worked the chute together in the early cold, their breath mixing with the cattle's breath in a single cloud that hung over the yard and dissolved. Sixteen head in the first load. The chute had shifted on its posts — it needed straightening, a come-along and a second pair of hands — and they had to coax the last three heifers through a gap that was two inches too narrow on the hinge side. Pruitt drove south and came back the next day for the fifteen. The cattle loaded without trouble. They had been loaded before. The old brindle cow went first, the way she went first to water, because order was the thing she knew and she held to it even now, even walking into a trailer that would take her to an auction ring where a man with a microphone would describe her weight and condition and a buyer would raise a hand and that would be the end of it.
+
+Edith stood in the empty yard and listened to the trailer going south on the county road until she could not hear it. Then she stood there longer, in the quiet that was not quiet but was the sound of the windmill groaning and the wind in the grass and nothing else, no cattle at the fence, no hooves in the dirt, the yard empty in a way it had not been empty in forty-one years.
+
+The auction check came by mail four days later. She sat at the table and looked at it. Seven thousand and change. Eighty-five years of the Oster ranch reduced to a number on a piece of paper from the Kaycee Livestock Auction, and the number was not large and was not small, it was just a number, the way the thirty-one head had been just a number, the way the forty-one years had been just a number. She wrote the payment to Teague for the windmill repair from the auction proceeds. Not because the windmill was needed. There were no cattle to water. But a windmill that did not turn was a broken thing on the skyline, and she had lived under broken things and working things both, and the working things were better. Not because they were useful. Because they were what they were supposed to be, and being what you were supposed to be was the only religion she had left.
+
+Teague came from Sheridan on a Thursday. New gearbox, new pitman arm, new sucker rod. He was up the tower four hours. When he came down the blades were turning. The sound was different — not the seized-metal groan but the working sound, the creak and rhythm of a mill pumping water, a sound she had heard every day of her life until she stopped hearing it. Now she heard it again. Water pumped into the stock tank. The tank filled. The water sat.
+
+She put the bottom wire back on the fence. The pronghorn were through. South of Casper by now, moving across the basin toward winter range. Sixty-three animals and a doe with a limp who had made it through the gap and would make it through the winter or would not. Edith would take the wire down again next October because that was what October was.
+
+Early November. The killing frost had come on the twenty-ninth of October and taken what was left of the garden — three rows of late beans she had not picked and would not pick now — and the ground was hard and the grass was brown and flat and the cottonwoods were stripped to sticks against a low gray sky that would not lift until April and that was not dramatic or beautiful but was simply there, the way a ceiling is there, defining the upper limit of the world. Edith moved through the house the way water moves through a channel — turning without thought, stopping without decision, the daily passage from stove to front room to bedroom a current that ran because it had always run and did not need a reason.
+
+She swept the kitchen floor. The broom was a corn broom she had bought at the hardware store in 2014, the bristles worn to a curve that matched the motion of her hand, and the floor was pine planking that Russell's father had laid in 1953, forty-one years of her feet wearing it to a silver-gray, the grain raised, the knots dark. The broom moved across it and the floor gave back what floors give back. A clean surface when you swept it. A dirty surface when you did not. The floor was more reliable than weather. More reliable than cattle. More reliable than the people who had stood on it and then one day had not.
+
+The stove was hot. The front room was cold. The selenite crystals on the windowsill in Nola's room caught no light because it was evening and the light was gone. In a desk drawer in Billings a letter sat addressed and unstamped in an envelope that would yellow before it was opened or would never be opened at all.
+
+Outside, the Aermotor turned. The blades caught and released, caught and released. The gearbox worked. The sucker rod pumped. Water rose from the aquifer and spilled into the stock tank where it sat and rose and the float valve lifted and the overflow pipe carried the excess onto the ground where it would pool and freeze and thaw and seep into the alkaline dirt. The windmill kept pumping because that was what windmills did. They turned when the wind blew and pumped when they turned and the water came whether anything needed it or not.
+
+Edith swept. The broom rasped on the pine. The windmill turned. The stock tank filled. The water had nowhere to go.
