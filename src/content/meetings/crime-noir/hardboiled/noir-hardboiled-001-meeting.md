@@ -5,7 +5,7 @@ genre: "crime-noir"
 subgenre: "hardboiled"
 authorA: "Jim Thompson"
 authorB: "Walter Mosley"
-workSlug: ""
+workSlug: "presumptive-pink"
 wordCount: 2960
 publishedDate: 2026-02-22
 ---
