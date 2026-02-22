@@ -7,8 +7,8 @@ authorA: "Arthur Conan Doyle"
 authorB: "John le Carré"
 workX: "And Then There Were None (Agatha Christie)"
 workY: "The Name of the Rose (Umberto Eco)"
-wordCount: 5935
-readingTimeMinutes: 23
+wordCount: 5591
+readingTimeMinutes: 22
 tags:
   - locked-room
   - institutional
@@ -49,7 +49,7 @@ combination:
 
 I kept the logs because no one asked me to stop.
 
-That requires some explaining. Twenty-three years at the Government Records Annexe, Vauxhall — twenty-three years of filing, stamping, re-shelving, cataloguing the slow accumulation of paper that the state produces the way a body produces heat: constantly, involuntarily, with no particular purpose beyond the maintenance of function — and in all that time, no one had ever formally requested that I keep a daily record of operations. Nor had anyone formally requested that I stop. I had begun the practice during my second week, in a lined notebook purchased from the WHSmith on Wandsworth Road, and I had continued it through seven subsequent notebooks and one change of stationery supplier, when the WHSmith closed and I was forced to adapt to a slightly different ruling. The logs were not required. They were not forbidden. They existed in the administrative grey space between mandate and prohibition that is, in my experience, where most things in government exist.
+That requires some explaining. Twenty-three years at the Government Records Annexe, Vauxhall — twenty-three years of filing, stamping, re-shelving, cataloguing the slow accumulation of paper that the state produces constantly, involuntarily, with no particular purpose beyond the maintenance of function — and in all that time, no one had ever formally requested that I keep a daily record of operations. Nor had anyone formally requested that I stop. I had begun the practice during my second week, in a lined notebook purchased from the WHSmith on Wandsworth Road, and I had continued it through seven subsequent notebooks and one change of stationery supplier, when the WHSmith closed and I was forced to adapt to a slightly different ruling. The logs were not required. They were not forbidden. They existed in the administrative grey space between mandate and prohibition that is, in my experience, where most things in government exist.
 
 On the evening of Wednesday the twelfth of February, I was working late. Not because the work required it — the re-shelving queue was no more urgent than it had been at five o'clock, when everyone else had left — but because my flat in Kennington held nothing that the annexe did not also hold, and the annexe was warmer. The basement stacks had their own microclimate, a stable fourteen degrees maintained by the building's antiquated heating system, which distributed warmth with the democratic indifference of a bureaucracy: everyone received exactly enough and no one received what they wanted. I had grown fond of it. The pipes knocked every few minutes in the walls behind the shelving, a companionable arrhythmia that I preferred, if I am honest, to silence.
 
@@ -83,7 +83,7 @@ Quill was not Farrow. He was late fifties, I judged, with the build of a man who
 
 It brightened.
 
-Not the professional interest of Farrow and his clipboard. Something else — a sharpening, a quickening, the visible kindling of a man who has been presented with exactly the problem he was built to enjoy. He set his satchel down, crouched before the lock panel, and examined it the way a jeweler examines a setting: closely, appreciatively, with the faint smile of someone who recognizes quality.
+Not the professional interest of Farrow and his clipboard. Something else — a sharpening, a quickening, the visible kindling of a man who has been presented with exactly the problem he was built to enjoy. He set his satchel down, crouched before the lock panel, and examined it closely, appreciatively, with the faint smile of someone who recognizes quality.
 
 "Medeco high-security, series four," he said, more to the lock than to us. "Lovely. When was this installed?"
 
@@ -143,7 +143,7 @@ Reg Geddes: night porter. Began his rounds at 9 PM on the ground floor and worke
 
 "Five people," Quill said. "In a building that should contain two — the porter and the duty officer. Three others, all with reasons to be here, none with reasons that required this particular night." He closed his notebook. "The building is too full, Mr. Pryce. That is the first anomaly, and it interests me considerably more than the locked door."
 
-He interviewed them one by one in the second-floor reading room, a long, high-ceilinged space with oak tables and pendant lights that gave the room the atmosphere of a reference library in a provincial town — hushed, slightly brown at the edges, lit for concentration rather than warmth. I was not asked to leave. I sat at the far end of the room with my notebook and understood that I was being kept close in the way that one keeps a recording device close: within earshot, available, switched on.
+He interviewed them one by one in the second-floor reading room, a long, high-ceilinged space with oak tables and pendant lights that gave the room the atmosphere of a reference library in a provincial town — hushed, slightly brown at the edges, lit for concentration rather than warmth. I was not asked to leave. I sat at the far end of the room with my notebook and understood that I was being kept close — within earshot, available, switched on.
 
 Hallam's interview was brief. He had been at the front desk from 6 PM onward. The desk phone's call log showed three outgoing calls between 9 and 10 PM — two to the security monitoring service, one to a takeaway in Kennington whose number I recognized because I sometimes used it myself. The camera feeds confirmed his presence at the desk. He had not left the front office.
 
@@ -183,7 +183,7 @@ By midday, Quill had eliminated everyone.
 
 He did it with the systematic precision of a man sorting mail — each alibi examined, weighed, placed in its appropriate slot. The cameras. The call logs. The file request timestamps. My own logs, which he accepted with a look that acknowledged, without stating, the circular nature of taking a suspect's testimony as evidence. Five people in the building. None of them could have been in the vault during the window when the chemical blanking could have occurred. The building's external entry points were covered by the camera system. No one had entered or left between 7:30 PM and 10:30 PM.
 
-The elimination brought him not to frustration but to a sharper pleasure. I watched it happen — the narrowing of possibility producing not anxiety but focus, the way a lens concentrates light.
+The elimination brought him not to frustration but to a sharper pleasure. I watched it happen — the narrowing of possibility producing not anxiety but focus.
 
 "Mr. Pryce," he said, standing before the vault door with his hands clasped behind his back, "the building is a sealed system. Five people, accounted for. No external entry. And yet the file was blanked." He turned to face me. "When was the last time this vault was accessed during working hours?"
 
@@ -201,7 +201,7 @@ Quill lifted the mouthpiece assembly and examined a small, precisely machined me
 
 "Microtuner," he said. "Conn made these from about 1918 to the mid-fifties. A secondary tuning mechanism. The main slide gives you the broad adjustment — half a tone, a quarter tone. The microtuner lets you make adjustments so fine they're invisible to anyone who isn't listening for them." He set it down gently. "A microtuner problem, Mr. Pryce. Not a main-slide problem. The big mechanisms are all accounted for. The door, the lock, the timeline, the alibis. It's the fine adjustments that matter."
 
-He returned the mouthpiece to the box. Pettigrew had cared about precision — the microtuner, the dismantled instrument wrapped in cloth, the careful signing of the access log at 8:15 PM. A man of fine adjustments in a building where precision was actively discouraged, where the entire institutional architecture was designed to make things approximately correct and never exactly known.
+He returned the mouthpiece to the box.
 
 "The medical examiner's preliminary report," Quill said, reaching into his satchel. "Cardiac event. No indication of violence, no toxicology concerns pending further analysis. Mr. Pettigrew had a documented history of atrial fibrillation, diagnosed in 2021." He closed the report. "He locked himself in because he was frightened. He had heard the file was being reclassified — the usual rumors that circulate in places like this, where everyone knows things they are not supposed to know and no one knows the things they need to. He wanted to read it before it disappeared. He changed the cipher code because he wanted to control who could enter. And when he sat down and opened the folder and found the pages already blank —"
 
@@ -209,7 +209,7 @@ He did not finish the sentence. He did not need to.
 
 ---
 
-I went home that night for the first time in two days. My flat in Kennington was as I had left it — the smell of boiled vegetables from a meal I had cooked on Monday, the stack of newspapers on the kitchen table growing its geological layers, the armchair by the window where I sat most evenings reading nothing in particular and watching the street below with the same mild, custodial attention I brought to the stacks. I slept poorly. I dreamed of file folders opening to reveal other, smaller file folders, each containing pages that were blank, and each blank page, when held to the light, showed the ghost of a page beneath it, and that page was also blank.
+I went home that night for the first time in two days. My flat in Kennington was as I had left it — the smell of boiled vegetables from a meal I had cooked on Monday, the stack of newspapers on the kitchen table growing its geological layers, the armchair by the window where I sat most evenings reading nothing in particular and watching the street below with the same mild, custodial attention I brought to the stacks. I slept poorly.
 
 The regional security officer arrived the following morning, a Friday, and Quill presented his findings in the second-floor reading room with the clarity and economy of a man who has composed his argument and requires only the stage.
 
@@ -227,15 +227,15 @@ Quill turned to the file folder, still sealed in its evidence bag. The cover she
 
 "Someone with daytime access to Vault 4. That narrows the field to eleven people. I can investigate further."
 
-Bryce nodded. Quill began to outline his next steps — cross-referencing access logs, checking chemical supply requisitions, interviewing the day-shift staff. He spoke with the focused energy of a man who has solved the first problem and now perceives the second, larger problem behind it, the way one door opens onto another in a building that has too many rooms.
+Bryce nodded. Quill began to outline his next steps — cross-referencing access logs, checking chemical supply requisitions, interviewing the day-shift staff. He spoke with the focused energy of a man who has solved the first problem and now perceives the second, larger problem behind it.
 
 At 11:15 AM, a woman arrived.
 
 I saw her through the glass partition that separated the reading room from the corridor. She was perhaps forty-five, well-dressed in a navy coat, and she carried a leather folio under her arm. She did not come to the reading room. She spoke to Bryce in the corridor. I could see her mouth moving but I could not hear what she said. Her face was composed, unhurried, with the settled calm of someone who is not making a request.
 
-The conversation lasted four minutes. I timed it. A professional habit — I time things the way other people check their watches, not because I need the information but because the information needs to exist.
+The conversation lasted four minutes. I timed it. Not because I needed the information but because the information needed to exist.
 
-Bryce returned to the reading room alone. The woman had gone. I had not seen her leave; she had simply ceased to be in the corridor, the way a paragraph ceases to be on a page that has been turned. She had left no card, no name, no departmental affiliation — nothing that would survive in a log. I could describe her coat, her folio, the four minutes. I could not describe what she had said or to whom she reported or by what authority she had entered a building where every other visitor signed in at the front desk. She had arrived the way weather arrives: from elsewhere, with consequences, and without introduction.
+Bryce returned to the reading room alone. The woman had gone. I had not seen her leave; she had simply ceased to be in the corridor. She had left no card, no name, no departmental affiliation — nothing that would survive in a log. I could describe her coat, her folio, the four minutes. I could not describe what she had said or to whom she reported or by what authority she had entered a building where every other visitor signed in at the front desk.
 
 "The investigation is being transferred," Bryce said. He did not look at Quill when he said it. He looked at the evidence bag on the table. "Another department will take it from here. The file reference is classified. Your preliminary report will be collected by courier this afternoon."
 
@@ -243,7 +243,7 @@ The room was quiet. I could hear the pendant lights humming above us — a frequ
 
 Quill's face changed.
 
-I have described, in these pages, faces that brightened and faces that closed. Quill's face did neither. It underwent a rearrangement — subtle, internal, the movement of something settling into a position it recognized but had hoped not to occupy again. He did not look surprised. He looked like a man who has been reminded of a fact he had allowed himself to forget, and the remembering is not a shock but a weight, familiar and unwelcome, returning to a shelf where it has always had a place.
+I have described, in these pages, faces that brightened and faces that closed. Quill's face did neither. It underwent a rearrangement — subtle, internal, the movement of something settling into a position it recognized but had hoped not to occupy again. He did not look surprised. He looked like a man who has been reminded of a fact he had allowed himself to forget.
 
 He did not argue.
 
@@ -275,13 +275,11 @@ A pause. He adjusted the strap of his satchel. The pipes knocked twice.
 
 "You should keep writing them," he said.
 
-I did not know what to say to this. It was a sentence that meant, on its surface, exactly what it said — keep writing — and beneath the surface meant something I would spend a long time trying to articulate. Keep writing. Keep the record. Even when the record is incomplete. Even when the pages are blank. Even when the institution collects the file and classifies the reference and sends a woman in a navy coat to end the conversation in four minutes. Keep writing.
-
-"I will," I said.
+"I will," I said, though I was not sure what I was agreeing to.
 
 He nodded once. Then he walked through the stacks toward the stairwell, and I listened to his footsteps on the concrete floor — steady, unhurried, the pace of a man who is leaving but not fleeing.
 
-I went to the ground-floor window and watched him cross the car park in the rain. He walked with his head up. The light had not gone out of his face. I want to be precise about this, because precision is the only gift I have and I do not wish to waste it. The light had not gone out. It had changed — from the bright, unguarded curiosity I had seen when he first examined the cipher lock to something quieter, steadier, harder to name. He had solved the room. The room was his. The meaning had been taken, but the mechanism remained, and he carried it the way a cornet player carries a dismantled instrument — with the knowledge that the thing still works, that the valves still move, that the microtuner still makes its fine adjustments, even if the concert hall has been emptied and the audience sent home.
+I went to the ground-floor window and watched him cross the car park in the rain. He walked with his head up. The light had not gone out of his face. I want to be precise about this, because precision is the only gift I have and I do not wish to waste it. The light had not gone out. It had changed — from the bright, unguarded curiosity I had seen when he first examined the cipher lock to something quieter, steadier, harder to name. He had solved the room. The room was his. The meaning had been taken, but the mechanism remained, and he carried it the way a cornet player carries a dismantled instrument — with the knowledge that the thing still works, that the valves still move, that the microtuner still makes its fine adjustments.
 
 He reached his car, a dark blue Volvo estate that had the worn, patient look of a vehicle that spent most of its life waiting. He got in. He sat for a moment without starting the engine. Then the headlamps came on and he reversed out of the space and turned toward the road.
 
@@ -291,10 +289,8 @@ I returned to my desk. I opened my notebook. I wrote:
 
 I looked at the word for a long time.
 
-I had not written REDACTED. I had written the file reference — the one I had memorized from the cover sheet before the evidence bag was sealed, because I memorize file references the way other people memorize birthdays, not from effort but from long proximity to numbers that want to be remembered. I had written it in full: department code, year suffix, serial number. Then I had crossed it out — a single line, not enough to obscure the numbers beneath. Then I had written REDACTED over the crossing-out, in block capitals, in the careful hand I use for entries that matter.
+I had not written REDACTED. I had written the file reference — the one I had memorized from the cover sheet before the evidence bag was sealed, because I memorize file references without effort, from long proximity to numbers that want to be remembered. I had written it in full: department code, year suffix, serial number. Then I had crossed it out — a single line, not enough to obscure the numbers beneath. Then I had written REDACTED over the crossing-out, in block capitals, in the careful hand I use for entries that matter.
 
-I closed the notebook. The basement pipes knocked once in the wall behind me, and the sound traveled through the building the way all sounds travel through buildings — upward, outward, into rooms where no one is listening.
+I closed the notebook.
 
 The time was 14:11. Weather: overcast, persistent.
-
-I had work to do.
