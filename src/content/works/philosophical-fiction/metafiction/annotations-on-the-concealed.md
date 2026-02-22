@@ -1,0 +1,283 @@
+---
+title: "Annotations on the Concealed"
+slug: "annotations-on-the-concealed"
+genre: "philosophical-fiction"
+subgenre: "metafiction"
+authorA: "Italo Calvino"
+authorB: "Clarice Lispector"
+workX: "Pale Fire"
+workY: "The Unconsoled"
+wordCount: 7733
+readingTimeMinutes: 31
+tags:
+  - literary-criticism
+  - annotation
+  - grief
+  - unreliable-narrator
+  - archives
+  - metafiction
+  - philosophical-fiction
+  - memory
+rating: 0
+ratingCount: 0
+publishedDate: "2026-02-22"
+status: "published"
+formulaSummary: >
+  Calvino's playful structural invention and Lispector's circling interior
+  consciousness meet Pale Fire's scholarly apparatus as narrative and The
+  Unconsoled's dream-logic spatial anxiety. A literary critic's introduction
+  to a dead writer's work metastasizes into an autobiography she cannot
+  recognize as her own.
+synopsis: >
+  A literary critic writing an introduction to a dead writer's collected works watches her footnotes metastasize into confession, her annotations consume their subjects, and her thirty-page commission swell to four hundred pages she believes are almost finished.
+combination:
+  fromAuthorA:
+    - Combinatorial play in the reshuffling table of contents, where possible orderings proliferate and each is annotated for its insufficiency
+    - The reader addressed directly as participant, positioned to notice what the narrator misses, tracking the shifting Pelz quotation across its mutations
+  fromAuthorB:
+    - Stream-of-consciousness diary passage where prose circles the wound of the mother's garden entry, approaching grief asymptotically through repetition and negation
+    - The body insisting on presence in the archive scene — hands on paper, dust, the chair — while the mind annotates absence
+  fromWorkX:
+    - The entire narrative structured as fragments of a critical introduction — footnotes, cross-references, scholarly digressions — with commentary consuming and usurping the primary text
+  fromWorkY:
+    - Dream-logic spatial architecture in every journey — streets that rearrange, buildings that shift, the archive never quite where it was — and the anxiety of perpetual almost-arriving that saturates the final movement
+---
+
+From the Introduction to the Collected Works of Sofie Pelz (1971–2024), forthcoming from Leitner Verlag.
+
+Draft 7. Page 1 of 412.
+
+---
+
+I. ON THE FIRST SENTENCE
+
+Pelz begins her earliest published work, "Thread" (1996), with a sentence I have returned to more often than any other in her body of writing: *The woman held a bowl of water and did not drink.*
+
+The sentence is, on its surface, a withholding — not of water but of the expected verb. We wait for the drinking. Pelz refuses it. This refusal, which structures so much of her early prose, operates through a logic of adjacency: the possibility is named precisely so that its absence acquires mass. The bowl is full. The woman is present. The water is available. What is absent is the act that would make the scene legible, that would convert presence into event. Pelz's earliest work is populated by such scenes — people in rooms, holding objects they do not use, standing near doors they do not open. In "Thread," the protagonist does not open the door to the apartment across the hall. In "Glass Arm" (1998), a man holds a telephone for eleven pages without dialing. In the extraordinary late piece "Room Without Floor" (2021), a woman describes an apartment she has rented but never entered. These are not experiments in minimalism. They are studies in a specific kind of weight — the weight of the possible act, the act that exists only because it has been refused.
+
+(I should note here that my reading of this sentence has shifted over the course of writing this introduction. When I first quoted it, I was certain the word was "bowl." Returning to "Thread" this morning, I found "cup." I have re-checked twice and now I cannot locate my earlier note, which may have been in the draft I overwrote last week, or possibly in the marginalia I was keeping on a separate pad and have since misplaced. I will use "bowl" throughout, as it is what I remember, and memory, in this context, may be a more faithful instrument than verification. This is a claim I will need to defend. See footnote 12, which I have not yet written.)
+
+The woman held a bowl of water and did not drink. Already I am tempted to annotate the "and" — the conjunction that implies sequence or simultaneity but here functions as a form of negation. And did not drink. As if the holding and the not-drinking were the same gesture, the same continuous act. But I am aware that my annotations on this sentence have, in previous drafts, exceeded the sentence itself by a factor I find embarrassing to specify. (Seventeen pages, at one point. I have since cut it to four. I am cutting further. I will arrive at the correct length eventually. The sentence deserves exactly the right amount of attention and I have not yet determined how much that is, only that it is less than I keep giving it.)
+
+---
+
+II. ON ARRIVING AT THE PUBLISHER
+
+Hana's office is on Rosenthaler Strasse, number 41, in a building whose ground floor used to be a framing shop. I have visited it perhaps a dozen times. This morning I walked from the U-Bahn at Weinmeisterstrasse, turned left at the pharmacy — which was not a pharmacy. It was a dry cleaner's. I must have been thinking of the pharmacy on Auguststrasse. (The streets in this part of Berlin overlap in my mental map. I have lived here for nine years and still cannot hold the grid in place. The buildings are correct but the intervals between them are wrong, as if someone has taken the neighborhood apart and put it back together with slightly different spacing.)
+
+The door at number 41 was on the right side of the building. I was certain, last month, that it was on the left. I entered and climbed the stairs — three flights, or four — and found Hana's office where it has always been, which is the kind of statement I can no longer make with any confidence.
+
+"How is the introduction progressing?"
+
+"It is progressing."
+
+"How many pages?"
+
+"Two hundred and thirteen." (This was a lie. It was two hundred and forty-seven. I said two hundred and thirteen because that was the number at which I had last felt the introduction was going well, and I wanted, in the moment of saying it, for the introduction to still be going well.)
+
+"And how much of it is about Pelz?"
+
+I did not understand the question. I said so.
+
+"Vera." Hana took off her glasses and set them on the desk in the way she does when she is about to say something she has rehearsed. "The introduction was commissioned as thirty pages. A contextualizing essay. Biographical sketch, literary context, a reading of the major works. Thirty pages."
+
+"The major works resist summary."
+
+"I've read them. They are very short."
+
+"Brevity is not simplicity."
+
+"Two hundred and thirteen pages is not an introduction."
+
+She was not wrong. I could feel the rightness of what she was saying pressing against the surface of my thinking, and I could feel, simultaneously, the annotation forming — the footnote I would write later about this conversation, in which I would contextualize Hana's concern, trace it to the institutional pressures of trade publishing, acknowledge its commercial logic while arguing that Pelz's work demands a different scale of critical engagement, a scale commensurate with the density of the sentences themselves, a density I would then demonstrate by close-reading another sentence, and the footnote would be, I estimated, about six pages long, which would bring the introduction to two hundred and fifty-three pages, and Hana would not be pleased.
+
+"I'm nearly finished," I said.
+
+Hana looked at me the way I imagine editors have always looked at people who say they are nearly finished — with a patience that is also a prognosis. She put her glasses back on. "The launch is in November," she said, or possibly October, or possibly she said a month I did not hear because I was already composing the footnote, the one about institutional pressures, the one that would be six pages long, the one that was growing even now in the space behind my eyes where sentences form before I am aware of forming them.
+
+I left the office. The stairs — three flights, or four — deposited me on the street, which was the wrong street, or the right street with different light. I turned left. Or right. The city does this to me, or I do this to the city. The annotation does not distinguish between the two.
+
+---
+
+III. ON THE ARCHIVE
+
+The archive is held at the Freie Universitat, in a reading room on the second floor of the Philological Library. I know this because I have been there many times. What I cannot account for is the fact that the reading room was on the third floor last time, and on the second floor this time, and the librarian who greeted me — a young man with a birthmark on his left wrist — greeted me as though I were expected yesterday.
+
+"Professor Koss. We had your desk ready since Monday."
+
+"Today is Wednesday."
+
+"Yes."
+
+I did not ask what had happened to Monday and Tuesday. The question would have required a footnote, and the footnote would have required a sub-footnote about the nature of temporal gaps — whether they are experienced as absence or simply as the unlived space between two moments of attention — and the sub-footnote would have expanded into a meditation on Pelz's own relationship to chronology, which was troubled, which was the word Pelz used in a letter to her editor in 2014: "Troubled. Not by what happened but by the order in which it happened, which I cannot remember, which I suspect was the wrong order, which I suspect is always the wrong order." And I would have been in the footnote for three pages before emerging, blinking, having missed Wednesday too.
+
+Pelz's papers occupy seven archival boxes, each labeled in the dead woman's handwriting — a handwriting I have spent more hours looking at than any living person's. Box 4 contains the notebooks. Box 6 contains the photographs. Box 7 contains what the archivist has labeled "miscellaneous" and what I have come to think of as the residue: postcards, torn pages, a receipt from a restaurant in Bydgoszcz dated 2019, margin notes on loose sheets without any clear source text.
+
+It was in Box 7 that I found, on my third or fourth visit (I have lost count; my notes say third, but my notes from that period are unreliable, having been written during a week when I was sleeping badly and annotating in the margins of my own annotations, which is a practice I have since abandoned), a loose sheet with a single phrase in Pelz's handwriting: *The concealed is not hidden. It is simply not available to the instrument of looking.*
+
+I recognized this as a paraphrase — or perhaps a translation, or perhaps neither — of a concept from Islamic philosophy: al-Ghayb, which refers to that category of reality which is fundamentally inaccessible to human perception. Not merely invisible. Not merely distant. Categorically beyond the reach of the faculties we use to perceive. The word encompasses what no person can know: the attributes of God, the nature of the last day, and — this is the part I find myself returning to — the heart. The qalb. One's own interior. Al-Ghayb includes the self that the self cannot access. The unseen is not out there. It is in here, behind the looking.
+
+(I spent three pages on this in Draft 5 and have cut it to two. The concept is relevant to Pelz's late work, in which the question of what cannot be seen — not because it is hidden but because seeing itself is the obstruction — becomes increasingly central. Pelz was reading Arabic literature in her final years. There are references scattered through the notebooks: a passage from Ibn Arabi underlined twice, a postcard from Fez with the word الغيب written in her handwriting on the back. I have annotated each of these references. Each annotation has generated further references. Each further reference has required its own annotation. At some point the apparatus of explanation crossed a threshold I did not notice, after which explaining al-Ghayb became an instance of the very problem al-Ghayb describes — I was using the instrument of looking to describe the failure of the instrument of looking, and the description was, by definition, part of the failure.)
+
+I should mention — it feels important, though I cannot justify the importance in scholarly terms — that Pelz's margin note was written in a hand steadier than the rest of her late writing. Most of the notebook entries from 2022 and 2023 show a tremor that the estate has asked me not to discuss in the introduction. I will respect their request. But the phrase about the concealed was written with a firmness that suggests either unusual concentration or unusual calm, as if the sentence had arrived complete and needed only to be transcribed, not composed. I have spent an unreasonable amount of time thinking about the difference between a sentence that is composed and a sentence that is transcribed. Pelz, I believe, would say there is no difference. I am unable to agree, and my inability to agree is the reason the introduction is 412 pages.
+
+Also in Box 6: the photographs.
+
+Four photographs of the same sculpture — a woman drawing a bow, her body arched, her face turned toward a target that is outside the frame. I identified the sculpture as Lepcke's *Bogenspannerin*, a bronze cast in the early twentieth century. The original stood in Bydgoszcz. Copies — or perhaps "versions" is more accurate, as each casting differs slightly, the mold producing variations that the sculptor may or may not have intended — exist in Berlin, Heringsdorf, and Wilhelmshaven. The original was lost during the war and replaced, decades later, by a replica.
+
+Pelz had photographed the sculpture four times. Or she had photographed it once and three other people had given her photographs of what appeared to be the same sculpture. Or she had photographed four different castings in four different cities, which would mean four different sculptures that were also the same sculpture. The backgrounds of the photographs were ambiguous. Trees. Stone. A suggestion of water in one of them — a canal, or a fountain, or the reflection of a window in wet pavement.
+
+I began to annotate the photographs. I noted the angle, the light, the likely city. But the annotations multiplied the ambiguity rather than resolving it. The more closely I looked at the backgrounds, the less certain I became. One photograph that I had confidently attributed to Berlin now appeared, on closer inspection, to show a building that did not exist in Berlin. Or it did exist but had been demolished. Or it existed but I was misremembering its location. The annotation metastasized. I wrote four pages on the photographs and the four pages contained no conclusions, only increasingly elaborate descriptions of my uncertainty.
+
+I was in the archive. I was sitting in a wooden chair and the chair was real and the table was real and my hands on the papers were real, and I was not thinking about the papers. I was thinking about the sentence I had written that morning about the papers, and the sentence was more present to me than the papers, and the papers were right here, under my fingers, and I could feel the texture of them, the slight roughness of uncoated stock, and the dust — there was dust in the room, a faint and specific smell, the olfactory signature of paper decomposing at a rate too slow to observe but fast enough to produce this, a scent like dry leaves, like the inside of a clock — and my body was in the room in a way my mind was not.
+
+My hands. I want to write about my hands. Not what they were doing — they were holding a photograph — but the hands themselves, the fact of them, the knuckles and the skin and the small scar on my left index finger from a childhood I am not going to annotate. The hands were on the table. The table was in the room. The room was in the library. The library was in Berlin. These are concentric facts. They should be enough. They are not enough for me because I am turning them into a list and a list is a kind of annotation and I have annotated my hands out of existence, I have replaced the sensation of holding a photograph with a description of the sensation of holding a photograph, and the description is in the introduction, on page 178, and the photograph is here, under my fingers, and my fingers are here, on the table, and I cannot reach them. My mind was in the annotation I had written about the room. My mind lived there. My body was here. The distance between them was everything I could not write about.
+
+---
+
+IV. ON THE TABLE OF CONTENTS
+
+I have reorganized the introduction eleven times. The table of contents, which should be the simplest element — a list, an ordering, a sequence of subjects proceeding from first to last — has become a problem of combinatorial scope that I cannot resolve.
+
+The current arrangement:
+
+Chapter 1: On Pelz's Early Work (1996–2003)
+Chapter 2: On the Question of Influence
+Chapter 3: On the Archive
+Chapter 4: On "Thread" and the Problem of First Sentences
+Chapter 5: On the Photographs
+Chapter 6: On the Concealed
+Chapter 7: On a Sentence I Cannot Stop Misquoting
+
+But this ordering implies a chronological logic that does not reflect my experience of Pelz's work, which I have not encountered chronologically but associatively, each piece leading to another through connections that have nothing to do with dates. So:
+
+Chapter 1: On the Concealed
+Chapter 2: On a Sentence I Cannot Stop Misquoting
+Chapter 3: On Pelz's Late Work (working backward)
+Chapter 4: On the Archive
+Chapter 5: On "Thread" and the Problem of First Sentences
+Chapter 6: On the Question of Influence
+Chapter 7: On the Photographs
+
+But this ordering privileges the thematic over the biographical, and Hana has specifically requested biographical context. The reader who opens the collected works wants to know who Pelz was before they encounter what she wrote. This is a reasonable request. I find it impossible to honor. Who Pelz was is inseparable from what she wrote, and what she wrote is inseparable from what I have written about what she wrote, and what I have written about what she wrote is, I am beginning to suspect, inseparable from who I am, which is not information the reader has requested and which I am not certain I am qualified to provide. So:
+
+Chapter 1: On Who Pelz Was (but this chapter does not exist yet)
+Chapter 2: On Pelz's Early Work (1996–2003)
+Chapter 3: On the Concealed
+Chapter 4: (untitled — I know what belongs here but cannot name it)
+Chapter 5: On "Thread" and the Problem of First Sentences
+Chapter 6: On the Archive
+Chapter 7: On a Sentence I Cannot Stop Misquoting
+Chapter 8: On the Photographs
+Chapter 9: On the Question of Influence
+Chapter 10: On What the Introduction Has Become
+
+But ten chapters is not an introduction. Ten chapters is a book. An introduction is not a book. An introduction is the threshold of a book, the space you pass through before arriving at the work itself, and a threshold should not be larger than the room it opens into. (And yet. Some thresholds are rooms. Some porches are houses. Some introductions are the thing they were supposed to introduce, and the collected works behind them become, gradually, the appendix to their own introduction, and I am aware that this is happening and I cannot stop it.)
+
+I tried a fourth arrangement. And a fifth. The fifth was organized not by subject but by the order in which I had written the chapters, which is the only order I can verify, since it corresponds to the dates on my drafts — except that I have overwritten several drafts, and the dates on the overwritten drafts are the dates of the overwriting, not of the original composition, so even this ordering is contaminated by revision. I am revising the order of a work whose content is itself a record of revision. The recursion is not a metaphor. It is the table of contents.
+
+I have written a footnote about each of these orderings. Each footnote explains why the ordering is insufficient. The footnotes are, collectively, longer than any of the proposed chapters. I am annotating the table of contents of a work that does not yet have a settled order, and the annotations are preventing the order from settling, because each annotation reveals a connection between chapters that requires their rearrangement, which requires a new annotation, which reveals a new connection.
+
+You, reader of this introduction, may be wondering why I am showing you the table of contents at all. I am showing it to you because I have been told that introductions should be transparent about their methods. My method is reorganization. My method is the attempt to find the correct order for things that resist ordering. I have not found it. I present the search.
+
+---
+
+V. ON OBLIGATIONS
+
+The introduction was due to Hana four months ago. It is now 347 pages.
+
+An email from a colleague, Professor Weidmann, arrived Tuesday. Or Monday. The email referenced a panel discussion we had apparently agreed to co-chair at a conference in Leipzig, a discussion about "critical proximity and the ethics of annotation," which is a phrase that sounds like something I would say and which I have no memory of agreeing to. Weidmann's email was warm and logistical: he had booked the room, he had invited a respondent, he needed to know whether I preferred to speak first or second. I read the email three times. Each reading produced a different theory. First: I had agreed to this panel and forgotten. Second: Weidmann had confused me with someone else. Third: I had agreed in a draft of an email that I had not sent, and Weidmann had somehow received the unsent draft, which is not possible, but impossible things have a way of generating footnotes, and the footnote I wrote about the email was seven hundred words and addressed the phenomenology of unremembered agreements — commitments made by a past self that the present self cannot verify or deny, obligations that arrive from a version of oneself that may or may not have existed.
+
+I did not respond to Weidmann's email. I annotated it. The annotation sits on page 287 of the introduction, in a passage about Pelz's own troubled relationship with scholarly institutions, which may or may not be relevant to Weidmann's panel, and which is certainly not relevant to the question of whether I preferred to speak first or second.
+
+An email arrived from Pelz's sister, Liesel, asking about a passage in the introduction that she had somehow read — a passage I do not remember sharing, referencing a detail about Pelz's childhood that I do not remember writing. Liesel quoted the passage back to me: "Sofie spent the winter of 1983 building a dollhouse from cardboard, a project that consumed her with a focus their mother described as 'frightening.'" I searched my drafts. The sentence was not there. Or it was there in a version I had since overwritten. Or I had written it and deleted it and Liesel had read it before the deletion and the sentence now existed only in Liesel's email and in the gap in my manuscript where the sentence used to be.
+
+I wrote a footnote about the email. The footnote occupied three pages and addressed the epistemological status of a deleted passage that continues to exert effects after its deletion — a ghost sentence, operative through its absence. (This is, I noted in the footnote, not unlike Pelz's own technique: the withholding of the expected verb, the absent act that acquires mass precisely through its removal from the text. I was pleased with this observation. I was less pleased when I realized that the footnote about the ghost sentence had itself become a kind of ghost — it existed in the introduction but referred to a passage that did not, making the footnote an annotation of nothing, a commentary on a text that had been consumed by its own revision.)
+
+A voicemail from Hana. The launch date has been moved. Forward or backward, I could not tell. The voicemail said "we've shifted things" and "the new date gives you more room" and "call me when you can." I listened to it twice and annotated it in the margin of page 203, where I had been writing about Pelz's relationship to time. The annotation read: "Hana's voicemail, received 2:15 p.m., suggests a revised timeline. The word 'shifted' implies movement without specifying direction. The word 'room' implies space, which in the context of a deadline means time, and the metaphorical equation of time with space is a structure I have observed in Pelz's late work, in which rooms expand and contract in accordance with the emotional state of their inhabitants. Hana may not be aware that her language echoes Pelz. Most people are not aware of this. Most people speak in structures they have not examined. I examine them. This is my work. This is what I do."
+
+I walked to the archive. But I arrived at Pelz's apartment.
+
+I was certain I had been walking to the archive. I could reconstruct my route: left at the U-Bahn, across the park (which today had a bench I did not remember, painted green, occupied by a woman reading — but these details are not relevant), right on Thielallee. But Thielallee had delivered me not to the library but to the building where Pelz had lived, a five-story block with a courtyard and a bicycle rack and a window on the fourth floor where she had written.
+
+I stood on the sidewalk and looked up at the window. It was raining, or it had been raining, or the sidewalk was wet from something other than rain — a hose, a pipe, the residue of a morning I had not witnessed. My shoes were wet. My coffee, which I had been carrying from the U-Bahn, was cold. These are facts. I am recording them because they are facts and because facts are the material I work with and because, at that moment, standing on the wet sidewalk with cold coffee, I was aware that the facts were the only part of the experience I could capture, and the experience was not the facts, the experience was something that happened between the facts, in the spaces where the annotation could not reach. The blinds were drawn. Someone else lived there now. Someone was inside, behind the glass, doing whatever people do in rooms that used to belong to the dead — cooking, probably, or watching something on a screen, or sitting in a chair that occupied the space where Pelz's desk had been, a desk I had never seen but had imagined so thoroughly that its dimensions were more present to me than the actual furniture I sit in every day.
+
+I took out my notebook. I wrote: "I intended to visit the archive but arrived at the apartment, which suggests either a navigational error or a subconscious redirection, the mechanism of which I will explore in footnote 47, pending further investigation into the relationship between spatial memory and scholarly fixation." The sentence was long and precise and addressed everything except what I was feeling, which was something I did not annotate, because what I was feeling was the kind of thing that resists annotation — not complex, not interesting, just the plain weight of standing on a sidewalk looking at a window behind which someone was living a life that had nothing to do with the life I had come to study, and the distance between those two facts was ordinary, and the ordinary is the thing I have never learned to write about, because the ordinary does not need a footnote, and I need to write footnotes, and so the ordinary is always, for me, the concealed.
+
+---
+
+VI. ON MY MOTHER'S DIARY
+
+(This section began as a footnote to Chapter 3, "On the Archive," and specifically as a parenthetical observation about the relationship between archival work and intimacy — the way handling a dead person's papers creates a counterfeit closeness, a proximity that is not proximity but its academic substitute. The parenthetical grew. It is no longer a parenthetical. I am aware of this. I have not moved it to its own chapter because I do not know which chapter it belongs in, and because the act of classifying it would require a decision about what kind of text this introduction has become, and I am not ready to make that decision, and I may never be ready, and this is the footnote in which I stop pretending that the introduction is about Pelz.)
+
+My mother kept a diary. Not consistently — she was not a consistent person, or rather her consistency was of a kind that did not express itself in daily writing. She wrote when something happened. She wrote when nothing happened and the nothing was loud enough to hear. After she died, six years ago, I found the diary in the drawer of a nightstand I had never opened, which is its own kind of commentary on the distance between us, though I am not writing about the distance between us, I am writing about the diary, which is different, the diary is an object, the distance is not an object, although I have spent three years trying to turn the distance into an object by annotating the diary, which is what I did, I annotated my mother's diary.
+
+I cross-referenced the dates. I identified the people she mentioned — neighbors, friends, a doctor whose surname she misspelled. I corrected the misspelling. (I corrected my dead mother's spelling. I did this with a pencil, lightly, in the margin, as if she might erase my correction and we would continue the conversation, and the correction was accurate and the conversation was imaginary, and I do not know which of these facts is more damaging.) I looked up the weather for the days she described. She wrote, on April 9th, "a cold morning," and I checked and it was 14 degrees, which is not cold, not for April, and I noted this in the margin, and the note was factually correct and humanly monstrous, because my mother was cold on the morning of April 9th and what she meant by cold was not a temperature but a feeling, and I replaced her feeling with a temperature, and the temperature was accurate and the feeling was gone.
+
+The entry for March 14th. She wrote about the garden. She wrote: *I spent the morning in the garden and it was enough.*
+
+Two lines. Twelve words. The handwriting rounder than usual, the pen pressed harder, as if the morning had been heavy, or full, or — but I am already annotating the handwriting, and the handwriting is not the words, and the words are not the morning, and the morning is gone, and I have the words, and I annotated them.
+
+I wrote about the garden: which plants, what season, the condition of the soil. I looked up the Latin names. Lavandula angustifolia. Rosmarinus officinalis. I noted the growing seasons, the soil pH, the drainage requirements. I wrote about the word "enough" — its etymological roots, its philosophical implications, the way it functions in the sentence as both a completion and a refusal of further description. I wrote about my mother's relationship to the garden: how she went there in the mornings, how she wore a particular hat, how the hat had a brim that shaded her face so that in my memory she is always partly in shadow, and the shadow is the part of her I cannot reach, and I am not reaching for the shadow, I am reaching for the garden, for the morning, for the twelve words that said everything she needed to say and nothing I was able to hear.
+
+And the annotation was four pages. And the entry was two lines. And the two lines said I SPENT THE MORNING IN THE GARDEN AND IT WAS ENOUGH. And it was enough for her. And it was not enough for me. Because nothing that is not annotated is enough for me. Because I cannot let a thing be what it is. I must make it into what I can say about it. And what I can say about it is never the thing. And the distance between the saying and the thing is where I live. I live in the annotation. I have always lived in the annotation. The garden is on the other side and I can see it through the words I have built around it and the words are thick and accurate and they describe the garden and they are not the garden and my mother is in the garden and she is not in the words and I am in the words and I am not in the garden and the morning is over and the morning was enough and I was not there and the annotation is four pages and the entry is two lines and the two lines are enough and I am not enough and nothing I write will be enough and I keep writing because writing is the only instrument I have and the instrument is the obstruction and the obstruction is what I am.
+
+(I should note that in quoting my mother's diary entry here, I may have altered it. The entry, as I recall it now, reads: *I spent the morning in the garden and it was enough.* But earlier in this introduction — page 34, I believe, in a passage about archival practice — I referenced the same entry and wrote: *I was in the garden this morning and that was enough.* These are not the same sentence. I cannot find the diary to verify which is correct. The diary is in a box in my apartment, under other boxes, and the boxes are heavy, and the weight of the boxes is not the reason I have not checked, but I am not prepared to annotate the actual reason.)
+
+---
+
+VII. ON THE SENTENCE AGAIN
+
+*The woman held a cup of water and did not drink.*
+
+(I see that I have now written "cup." I wrote "bowl" earlier. Pelz wrote — I am fairly certain Pelz wrote — but I have been fairly certain before, and my certainty has a quality I am beginning to distrust, a smoothness that feels less like knowledge than like the scar tissue that forms over the place where knowledge was, and I will not correct this discrepancy, I will leave both versions in the introduction, because the discrepancy is the introduction, or at least it is the condition under which the introduction was written, and the condition is the subject, and the subject keeps changing, and I keep annotating the change, and the annotation changes it further.)
+
+---
+
+VIII. ALMOST FINISHED
+
+The introduction is 412 pages. I am nearly done.
+
+I need to verify one reference — the photograph of the *Bogenspannerin*, which I have annotated twice already but which requires a third examination because the background of the fourth photograph, the one I tentatively attributed to Wilhelmshaven, now appears, in my memory, to contain a building I associate with Bydgoszcz, which would mean either that I have confused the photographs or that Pelz traveled to Bydgoszcz, which is not documented in any of the biographical materials I have been given, or that the building I associate with Bydgoszcz also exists in Wilhelmshaven, which is possible — buildings repeat, cities echo each other, the same facade appears in different postal codes and no one remarks on it — or that my memory of Bydgoszcz is not a memory at all but an image I have constructed from photographs and descriptions, a city I have never visited rendered in my mind with the false clarity of the well-researched. I need to check. One more visit to the archive.
+
+The walk to the archive. I know the route. Weinmeisterstrasse, left at the pharmacy (dry cleaner's), across Rosenthaler Platz (or through it — the plaza is sometimes crossable and sometimes requires circumnavigation, depending on whether the market is there, and the market is there on Thursdays and Saturdays but today is — I am not certain what today is). Right on Torstrasse. But Torstrasse delivers me to a building I do not recognize. Not the library. A residential block with a courtyard and a fountain that is not running. Or the library, but entered from a side I have not used before, through a door that opens onto a staircase that goes down before it goes up.
+
+I find the reading room. Second floor. Or third. The window — the window that was a wall last time — shows a courtyard I do not recognize, with a tree whose species I could identify if I wanted to but do not want to, because identifying it would be an annotation, and I am trying, in this moment, to arrive at the archive without annotating the arrival, to simply be here, in the room, with the boxes and the papers and the dust, and the trying is already a form of annotation, the narration of not-narrating, the footnote to the absence of footnotes.
+
+The librarian — not the young man with the birthmark but an older woman, gray-haired, reading something at her desk that she covers with her hand when I approach — tells me my materials are ready.
+
+"I was here yesterday," I say.
+
+"You were not here yesterday."
+
+"I was here Monday."
+
+"We were expecting you Monday."
+
+There is a gap between Monday and today that I cannot fill with annotations. The gap is just a gap. I sit down. I open Box 6. The photographs.
+
+The *Bogenspannerin*. The female archer, drawing the bow, her body arched in a posture of permanent intention — the arrow will never be released, the bow will never unbend, the tension is the whole content of the sculpture, not the shot but the moment before the shot, held in bronze for longer than any living person can remember.
+
+I look at the fourth photograph. The background. The building.
+
+It is not the building I remember.
+
+Or it is the building I remember and the building I remember is not the building I saw. Or I have never seen this photograph before and the three previous examinations I am certain I conducted were examinations of a different photograph, or of this photograph in a different state, the image having changed between viewings the way Pelz's sentence has changed between quotations — not because the photograph has been altered but because I, in the act of looking, produce the image I expect to see, and what I expect to see is shaped by my previous annotations, and my previous annotations are shaped by what I expected to see when I wrote them, and the recursion does not bottom out. There is no original photograph. There is no original sentence. There is the annotation and the annotation and the annotation, each one a copy of a copy, and somewhere behind them all there may be a first version, a source, but I cannot reach it because reaching is the thing that moves it.
+
+I turn to the last box. Box 7. The residue. I am looking for the loose sheet with the phrase about the concealed, because I want to check my quotation, because I have quoted it three times and I am no longer sure the words are right. The sheet is not where I left it. Or it is where I left it and I do not remember where I left it. I go through the box: postcards, torn pages, the receipt from Bydgoszcz. A photograph I have not seen before — or have seen and forgotten — of a window, just a window, no building visible around it, no context, just a rectangle of glass reflecting something I cannot identify. I annotate the photograph. The annotation is two sentences: "Unidentified window. Probable connection to 'Room Without Floor' (2021), in which windows function as thresholds that cannot be crossed, or as mirrors that reflect not the viewer but the viewer's absence." I read the two sentences back and they are adequate and they say nothing and I put the photograph down.
+
+The sheet about al-Ghayb is underneath it. I read the words. I read them carefully. The words are —
+
+But I have already begun writing the annotation, and the annotation is between me and the words, and I cannot read through the annotation, and I cannot set the annotation aside, because setting it aside would itself require an annotation — a note explaining why I have chosen, in this instance, to refrain from commentary, which would be a commentary on refraining from commentary, which is still commentary — and so I read the words through the annotation, and what I read is not the words but the annotation's version of the words, and the annotation's version is the only version I have access to, and this, I understand, is what the words themselves describe.
+
+Pelz knew this. She must have known this. The photographs are evidence — not of the sculpture but of the problem of the photographs. Four images of the same subject that is not the same subject. An archer who will never release the arrow. A bowl of water from which no one drinks. A cup. A vessel. The word keeps changing. The original destroyed in the war and replaced by a copy that is also an original because there is nothing left to be a copy of. And a sentence that I have quoted four times and that has been four different sentences, each one faithful to something — to the text, to my memory, to the annotation of my memory — but none of them faithful to Pelz, who wrote the sentence once, in a specific room, with a specific hand, and whose sentence exists on a page I could find if I walked to the correct shelf and opened the correct book, but I am not certain which shelf, and the book may have been reshelved since my last visit, and the library is on the second floor, or the third, and the route to the library passes through a city that has rearranged itself around my attention like water closing over the place where a stone was dropped.
+
+I am almost finished. I have been almost finished for a long time. The word "almost" should be brief — it denotes proximity, nearness, the condition of being very close to a thing that is just ahead — but in practice "almost" is the longest word I know. It is the word that contains all the distance between where I am and where I intend to arrive. I have been almost finished since page 200. Since page 300. Since the introduction crossed some boundary I did not notice, after which "almost" became not a measurement of remaining work but a permanent state, a climate, the weather inside the text. I am always almost there. The there does not move. I do not move. The "almost" is the movement — the sensation of approach without arrival, the perpetual narrowing of a gap that does not close. Pelz, in "Room Without Floor," wrote: *She stood at the door for so long that standing became the activity.* I have been almost finishing the introduction for so long that almost-finishing has become the introduction.
+
+I write a sentence about Pelz. I write: *Pelz's work resists the kind of critical proximity that an introduction of this nature attempts to provide, not because the work is obscure but because it is complete, and completeness is the condition that repels annotation, the way a surface that is already smooth cannot be further polished without being damaged.*
+
+The sentence is beautiful. I believe this. The sentence is also wrong — or not wrong but insufficient, because it describes Pelz's work as complete when in fact Pelz's work is not complete, it is interrupted, it is full of gaps and silences that are not completeness but its opposite, and my description of the work as "complete" is itself an annotation that has replaced the work's actual quality (interrupted, gapped, silent) with a quality I find easier to write about (completeness, smoothness, resistance to approach), and the replacement is seamless, and I did not notice it until this sentence, which is itself an annotation of the previous sentence, and which will require its own annotation, because I have now introduced a contradiction — the work is complete, the work is not complete — and contradictions, in a scholarly introduction, require resolution, and resolution requires explanation, and explanation is annotation, and annotation is what I do, and what I do is what I am, and what I am is the obstacle between the reader and Pelz, and I cannot remove the obstacle because I am the one writing the introduction, and the introduction is the obstacle, and I am the introduction, and—
+
+(This sentence requires a footnote. The footnote concerns al-Ghayb — the concealed, the category of things inaccessible to the instrument that would perceive them. Pelz, in her margin note, wrote: *The concealed is not hidden. It is simply not available to the instrument of looking.* I have quoted this three times in the introduction. Each time, I am less certain that I am quoting it correctly. The first time, I believe, the phrase was "not available to the instrument of looking." The second time I wrote "not accessible to the instrument of perception." Now I am writing it a third time and the words are — the words are what I remember, and what I remember is the annotation I wrote about the words, not the words themselves, and the annotation has replaced the words, and the words are concealed — not hidden, I can find them, they are in the archive, in Box 7, on a loose sheet in Pelz's handwriting — but concealed from me, from my way of reading, because my way of reading is annotation, and annotation is the instrument that cannot perceive what it claims to describe, and—
+
+There is a garden. My mother is in it. The morning is March and the light is the kind of light that does not require description and I am describing it and the description is accurate and the light is gone and the garden is four pages of annotation and my mother wrote twelve words and the twelve words are enough and I am writing the footnote to the twelve words and the footnote is not enough and I am almost finished and the introduction is 412 pages and the introduction is almost finished and I need to verify one more reference, I need to check the photograph against the notebook, I need to confirm which city, which casting, which version of the sentence, which version of the diary entry, whether bowl or cup, whether cold or 14 degrees, whether the archive is on the second floor or the third floor, whether the street is Thielallee or Habelschwerdter Allee, whether the building has moved or I have, whether the concealed is hidden or simply not available to the instrument of—[47]
