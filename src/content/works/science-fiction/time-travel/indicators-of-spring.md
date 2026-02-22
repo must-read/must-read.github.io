@@ -7,7 +7,7 @@ authorA: "Ted Chiang"
 authorB: "Ray Bradbury"
 workX: "Slaughterhouse-Five (Kurt Vonnegut)"
 workY: "The Time Traveler's Wife (Audrey Niffenegger)"
-wordCount: 3687
+wordCount: 3714
 readingTimeMinutes: 15
 tags:
   - time-travel
@@ -186,7 +186,7 @@ She opened the notebook. *Day 108. Sister called. She asked a question I could n
 
 The clock held.
 
-January. Wren woke to frost flowers on the kitchen window — dendritic crystal structures branching across the glass in patterns that resembled Lichtenberg figures, river deltas, lightning frozen in the instant of discharge. Each crystal unique and all of them obeying the same physics, branching and branching again, the way a life branches when you follow it backward from any single moment to the thousand moments that produced it.
+January. Wren woke to frost flowers on the kitchen window — dendritic crystal structures branching across the glass in patterns that resembled Lichtenberg figures, river deltas, lightning frozen in the instant of discharge. Each crystal unique and all of them obeying the same physics, branching and branching again.
 
 She turned from the window and the chronostasis resolved and Eliot was sitting at the table. But this was not her Eliot. This Eliot was old. His hair had gone entirely white, not gray but white, the way dogwood bracts are white, all the color leached into light. He held himself carefully. His hands on the table — the same gesture, palms down, confirming the surface — but the hands were different. Thinner. The veins raised. The knuckles swollen in a way that made her think of Dasha's brass gears, components worn by decades of the same motion.
 
@@ -202,15 +202,13 @@ He said, Far enough to know I should have said this sooner. Stop keeping the rec
 
 She pulled the notebook toward her. She opened it. She showed him the pages — years of entries, the correlations marked in red ink, dogwood bloom and first katydid and frost on birdbath, the phenological calendar overlaid on his displacements. It was consistent. It was real.
 
-He said, I know it is consistent. I know it is real. The pattern is real and it does not matter. You think you are tracking my arrivals. But you are training yourself to see the intervals instead of me. Every time I am here you are writing. Every time I leave you are measuring the gap. You are becoming a clock, Wren. And clocks do not miss anyone.
+He said, I know it is consistent. I know it is real. The pattern is real and it does not matter. You think you are tracking my arrivals. But you are training yourself to see the intervals instead of me. Every time I am here you are writing. Every time I leave you are measuring the gap.
 
 She said, This is how I keep you.
 
-He took her hand. He closed the notebook with their joined hands.
+He said, I know.
 
-He said, That is not the same as it being the thing that matters.
-
-The frost flowers on the window were melting in the heat from the furnace. She watched them lose definition, the branching structures collapsing into ordinary water, the crystals becoming droplets becoming nothing. She held his old hand and thought about the escapement and the pallet fork and the spring that wants to uncoil all at once.
+The frost flowers on the window were melting in the heat from the furnace. She watched them lose definition, the branching structures collapsing into ordinary water, the crystals becoming droplets becoming nothing. She held his old hand and the hand was warm, which surprised her, because she had assumed that a person who had traveled that far forward would arrive cold.
 
 She said, If I stop recording, how will I know when you are coming.
 
@@ -218,7 +216,7 @@ He said, You will not.
 
 She said, How is that better.
 
-He looked at the melting frost. He said, Because then when I arrive you will be here. Not at the notebook. Here.
+He did not answer. He was looking at the melting frost and she understood that he had already seen it. That he had seen this conversation too, from her side, years ago.
 
 ---
 
@@ -226,7 +224,7 @@ He looked at the melting frost. He said, Because then when I arrive you will be 
 
 This was a Tuesday. She remembered it as a Tuesday because she had office hours and a student had come to argue about the classification of lichen and she had explained, for the third time, that lichen is not a plant but a composite organism, a fungus and an alga in stable symbiosis, each insufficient alone, and the student had said, So it is two things pretending to be one thing, and Wren had said, No, it is one thing that requires two organisms to exist, there is a difference.
 
-She drove home. A robin sat on the telephone wire at the end of the driveway. First robin. She reached for the notebook on the passenger seat and then did not open it. She sat in the car with the engine running and looked at the robin and the robin looked at the road and neither of them recorded anything about the other.
+She drove home. A robin sat on the telephone wire at the end of the driveway. First robin. She reached for the notebook on the passenger seat and then did not open it. She sat in the car with the engine running and looked at the robin and the robin looked at the road. After a minute she opened the notebook anyway and wrote the date and *Turdus migratorius, first sighting* and closed it again. She could not tell whether the recording had diminished the robin or preserved it.
 
 ---
 
@@ -238,9 +236,7 @@ She wrote in the notebook: *Ice-out on the pond. Estimated 60% surface coverage 
 
 She stood with the pen in her hand and the cold coming up through her boots and she thought about what old Eliot had said. She looked at the notebook. Twenty-five years. Forty-seven dogwood blossoms. One hundred and twelve days. The data was clean and complete and it told her everything about when and nothing about why and she had confused the two for so long that the confusion had become structural, load-bearing, something she could not remove without bringing the rest of it down.
 
-She crossed out *Estimated 60% surface coverage remaining* and wrote: *The ice sounds like something letting go.*
-
-It was not science. Her grandmother would not have approved. She wrote it anyway.
+She crossed out *Estimated 60% surface coverage remaining* and wrote: *The ice sounds like something letting go.* Then she wrote the percentage back in, smaller, in the margin. She could not bring herself to lose the number entirely.
 
 ---
 
@@ -262,7 +258,7 @@ A warm night in late March, the spring peepers in the pond calling so loudly the
 
 The peepers called. A car passed on the county road, its headlights sweeping the tree line. The air smelled like thaw — that Hudson Valley smell of earth releasing what it held all winter, cold and organic and faintly sweet, like opening a cellar that has been closed since November.
 
-Eliot was beside her. She did not look at him immediately. She stayed in the held moment and listened to the peepers and felt the cold glass in her hand and the rough wood of the porch rail under her arm and she was aware of him the way you are aware of a room going warm before you see that someone has lit a fire.
+Eliot was beside her. She did not look at him immediately. She stayed in the held moment and listened to the peepers and felt the cold glass in her hand and the rough wood of the porch rail under her arm and she was aware of him before she saw him — a shift in the air, a room going warm.
 
 She looked. He was her Eliot. Her age. Her time. The watch on his wrist fit correctly.
 
@@ -274,7 +270,7 @@ He said, I thought it was longer.
 
 She said, No.
 
-He sat beside her. The peepers surged. She did not open the notebook. She did not record the barometric pressure or the phase of the moon or the duration of his absence in the hand-ruled column. She sat with him and listened to the frogs and the absence of the absence filled the porch like heat from a fire neither of them had built.
+He sat beside her. The peepers surged. The notebook was on her knee and she did not open it. She sat with him and listened to the frogs and after a while she realized she had not counted the days. She knew the number — fifty-three — because she had said it. But she had not counted. The number had just been there, like the temperature, like the date, a fact and not a wound.
 
 ---
 
@@ -292,8 +288,12 @@ The clock held.
 
 The ant on the crocus shoot. The beetle on the soil. The cloud over the sun. All of it frozen in that two-hundred-millisecond window where her brain was stitching the gap between one saccade and the next, filling the interval with a static frame. Chronostasis. The most reliable indicator in her record — the one she had not written down because it only existed inside her own perception, the stopped clock that was not a clock but a synapse, not broken but held.
 
-Eliot was behind her. She knew this the way she knew the hermit thrush pauses between phrases. Not because she could see him but because the quality of the air had changed, the way a garden changes when it holds two people instead of one.
+Eliot was behind her. She knew this the way she knew the hermit thrush pauses between phrases — not from sight but from a change in the quality of the air, the garden holding two people instead of one.
 
-She closed the notebook. She turned around. She did not check which version of him this was. She did not look at his wrists to assess the fit of the watch or his temples for the white hair or his eyes for the knowledge that older versions carried.
+She closed the notebook. She turned around. She looked at his wrists — the watch fit correctly, her Eliot, her time — and then she looked at his face and wished she had not checked. Twenty-five years of checking. She did not know how to stop being the instrument.
 
 She said, The crocuses are early.
+
+He said, You always say that.
+
+She opened her mouth and closed it. She looked at the crocuses. She looked at the notebook in her hand. She put it in her jacket pocket, where it pressed against her hip, present and heavy and hers.
