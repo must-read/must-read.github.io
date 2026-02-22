@@ -1,6 +1,6 @@
 ---
 title: "Digging Down to Where It Started"
-slug: "tbd-peat-testimony-meeting"
+slug: "peat-and-testimony-meeting"
 genre: "crime-noir"
 subgenre: "tartan-noir"
 authorA: "Derek Raymond"

@@ -1,6 +1,6 @@
 ---
 title: "Inventing a Genius in a Rented Function Room"
-slug: "tbd-liability-abroad-meeting"
+slug: "liability-abroad-meeting"
 genre: "humor-satire"
 subgenre: "picaresque"
 authorA: "Oscar Wilde"

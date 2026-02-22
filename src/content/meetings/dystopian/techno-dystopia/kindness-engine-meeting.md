@@ -1,6 +1,6 @@
 ---
 title: "The Therapeutic Use of Paperwork"
-slug: "tbd-kindness-engine-meeting"
+slug: "kindness-engine-meeting"
 genre: "dystopian"
 subgenre: "techno-dystopia"
 authorA: "Aldous Huxley"

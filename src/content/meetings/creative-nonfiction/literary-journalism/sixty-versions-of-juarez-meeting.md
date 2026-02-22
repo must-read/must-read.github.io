@@ -1,6 +1,6 @@
 ---
 title: "Every Person I Interviewed Remembers a Different City"
-slug: "tbd-sixty-versions-meeting"
+slug: "sixty-versions-of-juarez-meeting"
 genre: "creative-nonfiction"
 subgenre: "literary-journalism"
 authorA: "Gay Talese"
