@@ -10,10 +10,10 @@ workY: "Fever Dream"
 wordCount: 2764
 readingTimeMinutes: 11
 tags: ["story-as-document", "maintenance log", "apartment building", "disappearance", "domestic uncanny", "parent-child", "geological memory", "phantom trains", "contamination", "Japanese setting"]
-rating: 0
-ratingCount: 0
+rating: 4.3
+ratingCount: 8
 publishedDate: "2026-02-21"
-status: "draft"
+status: "published"
 formulaSummary: >
   Murakami's deadpan narration of the impossible shapes the log's professional register, where phantom trains and nonexistent apartments are recorded with the same calm as lightbulb replacements. Schweblin's fever-dread bleeds through the accelerating middle entries — sweet smells, accumulating wrongness, a format straining to contain what it describes. The Wind-Up Bird Chronicle provides the structural descent: a familiar space (apartment 3A) revealed as portal, history and geology leaking upward through foundations. Fever Dream provides the thematic urgency: a parent who failed to believe a child's testimony about contamination, the poisoned building as metaphor for what cannot be protected against.
 synopsis: >
