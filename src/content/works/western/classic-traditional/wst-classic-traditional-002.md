@@ -7,8 +7,8 @@ authorA: "Charles Portis"
 authorB: "Louis L'Amour"
 workX: "Lonesome Dove"
 workY: "The Virginian"
-wordCount: 7534
-readingTimeMinutes: 30
+wordCount: 7207
+readingTimeMinutes: 29
 tags:
   - cattle-drive
   - aging-cowboys
@@ -67,7 +67,7 @@ I met Boyd Sill in the spring of 1862 on a ranch outside of Fort Griffin where w
 
 The trouble with the cow started on the first morning and it was the kind of trouble that does not belong in a written account but I will include it because it shows you something about the two of us.
 
-We had made camp the night before on a flat stretch of caliche south of the Canadian River breaks, and the herd had settled in the way cattle settle — not happily, not unhappily, just standing there with the infinite patience of animals that have no appointments to keep. There were eighty-seven of them. I know this because I counted them four times and got eighty-seven each time except the second, when I got eighty-eight, and Boyd pointed out that I had counted a cedar stump.
+We had made camp the night before on a flat stretch of caliche south of the Canadian River breaks, and the herd had settled in the way cattle settle — not happily, not unhappily, just standing there with the patience of animals that have no appointments to keep. There were eighty-seven of them. I know this because I counted them four times and got eighty-seven each time except the second, when I got eighty-eight, and Boyd pointed out that I had counted a cedar stump.
 
 At dawn I rode out to push the leaders toward a dry creek bed that cut across our path. It was not much of a creek bed — three feet deep, ten feet wide, the banks crumbled to a sandy slope a child could walk down. The lead cow did not agree. She was a brindle heifer with a white blaze on her face and the temperament of a woman who has been told she is wrong and knows she is not. She stopped at the edge of the creek bed and looked down into it and decided that she would not go.
 
@@ -102,8 +102,6 @@ The joke sat between us like a fence post driven into the wrong place. It was in
 "All right," I said.
 
 Boyd finished cinching his saddle and mounted and rode out to the herd without another word and I stood there by the fire with a cup of coffee going cold in my hand and I thought about a man named Petrie who had drowned in the Canadian River in the spring of 1862, my first year working cattle. Petrie had gone into the water on a crossing and his horse had gone sideways and Petrie had come out of the saddle and the current had him. I was forty feet upstream. I had a rope on my saddle. I sat there and I calculated — the angle, the current, the distance, the odds that the rope would reach, the odds that it would not. I sat there and I calculated and by the time I was finished Petrie was gone, and the river closed over the place where he had been, and I had not thrown the rope.
-
-I have been talking ever since. That is the truth of it. A man who fails to act when action is called for will spend the rest of his life narrating. The words come in where the rope should have gone. They fill the same space. They do not save anyone.
 
 I poured my coffee on the fire and packed the camp and rode after Boyd and the herd.
 
@@ -201,7 +199,7 @@ I watched this from the herd, where I was doing the work of two men because Boyd
 
 By the end of the second day the steer was walking with the herd. Not happily. Not willingly. But walking. Boyd rode behind it and said nothing and the steer went where the herd went and I do not know what passed between them but something had been settled.
 
-I had been narrating Boyd's contest with the steer in my head for two days, finding the jokes in it, shaping the observations, and somewhere on the second afternoon the jokes stopped. I was watching Boyd ride behind that steer in the late light, the dust coming up gold around them, his shoulders set and his bad arm held close to his body, and I was not finding anything funny. I was watching a man do what he was made to do, and I was watching it for the last time, and the words I had for it — all the words, the Pennsylvania vocabulary and the thirty-seven years of cowboy grammar — were not equal to the thing. I shut up. I rode beside the herd and I shut up and I let the silence carry what the words could not.
+I had been narrating Boyd's contest with the steer in my head for two days, finding the jokes in it, shaping the observations, and somewhere on the second afternoon the jokes stopped. I was watching Boyd ride behind that steer in the late light, the dust coming up gold around them, his shoulders set and his bad arm held close to his body, and I was not finding anything funny. I was watching a man do what he was made to do, and I was watching it for the last time, and I shut up. I rode beside the herd and I shut up and I let the silence be what it was.
 
 ---
 
@@ -229,7 +227,7 @@ The automobile sat in its shed and it was the sorriest thing I had seen since a 
 
 "Very much," I said.
 
-He went to the front of the machine and took hold of a crank and turned it. Nothing happened. He turned it again. The engine made a sound like a horse coughing. He turned it a third time. The engine caught, ran for approximately four seconds, produced a quantity of blue smoke and a smell that I can only describe as mechanical death, and stopped. Fossett stood up and wiped his hands on his trousers and looked at the automobile with the expression of a man who loves a thing that does not love him back.
+He went to the front of the machine and took hold of a crank and turned it. Nothing happened. He turned it again. The engine made a sound like a horse coughing. He turned it a third time. The engine caught, ran for approximately four seconds, produced a quantity of blue smoke and a smell that I can only describe as the future arriving badly, and stopped. Fossett stood up and wiped his hands on his trousers and looked at the automobile with the expression of a man who loves a thing that does not love him back.
 
 "She was running better yesterday," he said.
 
@@ -239,13 +237,11 @@ The cattle pens were gone. Fossett had torn them down in September and used the 
 
 He told me the number. I stood in his yard and looked at the automobile that would not run and the wheat field that had been pasture and the shed built from the lumber of cattle pens, and I opened my mouth to say something — a joke, an observation, a calculation of the precise ratio of absurdity to loss — and nothing came out.
 
-I had nothing to say. The words that had been my profession for thirty-seven years, the words I used to manage reality by describing it, the words I threw in place of rope — they were gone. I was standing in the future and the future did not need me to describe it. It was just there, chewing up grass and putting down wheat and buying machines that did not work from companies that no longer existed, and it did not require my commentary.
+I had nothing to say. The words that had been my stock in trade for thirty-seven years were gone. I was standing in the future and the future did not need me to describe it. It was just there, chewing up grass and putting down wheat and buying machines that did not work from companies that no longer existed, and it did not require my commentary.
 
 Boyd dismounted. He walked past me and stood in front of Fossett and he said the number he would accept for eighty-seven head of mixed cattle delivered to Hardesty, Oklahoma, on the sixth of November 1893. The number was higher than Fossett's number and lower than what the cattle were worth, and Fossett looked at Boyd and Boyd looked at Fossett, and Boyd did not say anything else, because Boyd had said what there was to say and further words would only subtract from it.
 
-Fossett met him halfway. It was done. I watched this and I understood something I had known for thirty-one years without ever putting words to it, which was that Boyd's silence was not a limitation. It was a discipline. Boyd did not waste words because Boyd understood — had always understood, from the first day I met him at Fort Griffin when he was twenty-three and I was twenty-five and we were both too young to know anything except how to do the work — that words are like rope, and you do not throw rope unless it can reach something, and most of the time it cannot, and the throwing is just movement that makes the thrower feel better about standing still.
-
-I had been throwing rope into the current for thirty-one years. Boyd had been holding his.
+Fossett met him halfway. It was done. I watched this and I understood something I had known for thirty-one years without putting words to it, which was that Boyd's silence was not a limitation. It was a discipline. Boyd did not waste words because Boyd understood — had always understood, from the first day I met him at Fort Griffin when he was twenty-three and I was twenty-five and we were both too young to know anything except how to do the work — that most of the time words could not reach the thing they were aimed at, and the saying was just movement that made the sayer feel better about standing still.
 
 ---
 
@@ -261,17 +257,15 @@ Lyle Dunaway shook our hands. He had a handshake that was firmer than it needed 
 
 He walked toward Hardesty with his canvas bag over his shoulder and his blistered feet and his letter of introduction to a man whose name he could not pronounce. He did not look back. He was nineteen years old and he was walking into a town that had stopped being what he had come to find, and he did not know that yet, and I did not tell him, because the country would tell him soon enough and the country was better at that kind of telling than I was.
 
-I do not know what happened to Lyle Dunaway. He walked into Hardesty and I did not see him again. He may have found work. He may have gone back east. He may have learned the wheat business and made a fortune and bought an automobile that actually ran. I do not know. He was the future, or he was nothing, and the story does not tell you which, because the story does not know.
+I do not know what happened to Lyle Dunaway. He walked into Hardesty and I did not see him again. He may have found work. He may have gone back east. He may have learned the wheat business and made a fortune and bought an automobile that actually ran. He was the future, or he was nothing, and the story does not tell you which, because the story does not know.
 
 ---
 
 We made camp a mile west of town, on a flat stretch of grass beside a cottonwood creek. Neither of us said we should make camp there. Neither of us said we were not ready to stop. Boyd built a fire and I made coffee and we sat on our saddles and drank it and did not talk, which was not unusual for Boyd and was very unusual for me.
 
-The night was clear after the week of weather. Stars out, the kind of stars you get in November on the plains when the air has been washed clean and the sky is so deep you can feel the weight of it. Coyotes on the south ridge, calling to each other or to nothing. The horses cropped grass. The fire cracked and settled. I could smell cedar smoke and cold dirt and the ghost of cattle that were a mile away but had been with us for six days and had left their smell on everything we owned.
+The night was clear after the week of weather. Stars out, the kind of stars you get in November on the plains when the air has been washed clean and the sky goes so deep you can feel it pressing down. Coyotes on the south ridge, calling to each other or to nothing. The horses cropped grass. The fire cracked and settled. I could smell cedar smoke and cold dirt and the ghost of cattle that were a mile away but had been with us for six days and had left their smell on everything we owned.
 
-I should have said something. This was the time to say something. Boyd was leaving in the morning — catching the train in Hardesty, riding to Wichita, sitting on his sister's porch for the rest of his life. Thirty-one years of riding together and this was the night to say the thing that thirty-one years had built up behind my teeth like water behind a dam, and I knew it, and I opened my mouth, and I told him about the farmer's wheat field and how it had looked like a scalped head and wasn't that something, and Boyd almost smiled, and the moment passed.
-
-That is what I do. That is what I have always done. I tell a joke. The joke is good — my jokes are good, I have spent a lifetime making them good — and the joke fills the space where the real thing should go, and the space is filled, and the real thing stays where it was, unsaid, and the moment passes. I watched Petrie drown because I was calculating. I let Boyd leave because I was joking. The mechanism is different. The result is the same.
+I should have said something. This was the time to say something. Boyd was leaving in the morning — catching the train in Hardesty, riding to Wichita, sitting on his sister's porch for the rest of his life. Thirty-one years of riding together and this was the night to say it, and I knew it, and I opened my mouth, and I told him about the farmer's wheat field and how it had looked like a scalped head and wasn't that something, and Boyd almost smiled, and the moment passed. That is what I do. The joke is good — my jokes are good, I have spent a lifetime making them good — and the joke fills the space where the real thing should go, and the real thing stays where it was, unsaid.
 
 At some point past midnight I heard something at the edge of the firelight. I looked up. The brindled steer was there.
 
@@ -279,7 +273,7 @@ He had broken out of Fossett's makeshift pen — which I could have predicted, a
 
 Boyd got up. He walked to the steer. He put his hand on the broken horn — the smooth dark stump where the horn had been — and he stood there. The steer did not move. Boyd did not move. The fire popped. A coyote called from the ridge and another answered from somewhere south.
 
-I did not say anything. The narrator shut up. I sat on my saddle with my cold coffee and I watched Boyd stand with his hand on that steer's broken horn in the dark, and I did not describe it, and I did not make a joke about it, and I did not calculate the odds of a steer walking a mile to find a man who had spent two days bending it to his will, and I did not think about what it meant, because what it meant was not something words could carry, and for once in my life I let the silence do the work.
+I did not say anything. I sat on my saddle with my cold coffee and I watched Boyd stand with his hand on that steer's broken horn in the dark, and I did not describe it, and I did not make a joke about it, and I did not calculate the odds of a steer walking a mile to find a man who had spent two days bending it to his will, and for once I did not think about what it meant.
 
 They stood there for a long time. Then Boyd patted the horn twice — two soft pats, the way you would pat a dog — and walked back to the fire and sat down and pulled his blanket up and went to sleep. The steer stayed where it was. I could see its shape at the edge of the firelight for an hour, maybe two. At some point I fell asleep, and when I woke up it was gone.
 
@@ -319,18 +313,16 @@ He saddled his horse. He mounted. He sat there for a moment, looking east toward
 
 He almost smiled. The skin around his eyes moved. That was all. He turned his horse and rode east toward Hardesty at a walk, not hurrying, because Boyd never hurried, because hurrying implied that where you were going was more important than where you were, and Boyd did not believe that, and neither did I, though I had never been able to stop myself from acting as though I did.
 
-I watched him go. He got smaller. The dust came up behind his horse and hung in the gold light and settled. He did not look back. I had not expected him to look back. Boyd did not look back at things. He looked at them while he was with them and then he left and did not look back, and the looking he had done while he was there was the looking, and it was enough, and it had to be enough, because it was all there was.
+I watched him go. He got smaller. The dust came up behind his horse and hung in the gold light and settled. He did not look back. Boyd did not look back at things. He looked at them while he was with them and then he left and did not look back, and the looking he had done while he was there was the looking, and it was enough, and it had to be enough, because it was all there was.
 
-He reached the road. He turned north toward town. He was a shape on the road, then a shape against the light, then a thing I might have been imagining, then nothing.
+He reached the road. He turned north toward town. The road was empty in both directions. He was a shape on the road, then a shape against the light, then a thing I might have been imagining, then nothing.
 
 ---
 
-I stayed at that camp for two more days. I told myself it was because the horse needed rest. The horse did not need rest. The horse was twelve years old and sound and could have carried me to Borger and back without complaint. The horse did not need rest and I knew it and I stayed anyway.
+I stayed at that camp for two more days. I told myself it was because the horse needed rest. The horse did not need rest. The horse was twelve years old and sound and could have carried me to Borger and back without complaint. The horse did not need rest and I knew it and I stayed anyway, because there was nobody at Borger waiting for me and nobody anywhere waiting for me and the fire was warm and the creek made a sound at night that was better than conversation.
 
-I sat by the fire and I drank coffee and I watched the plains do nothing, which is what the plains do best. The grass moved. The sky was large. A hawk circled over the creek and dove and came up with something small and brown in its talons and carried it away, and I watched it go, and I thought about Petrie, and I thought about Boyd, and I thought about Lyle Dunaway walking into Hardesty with his blistered feet, and I thought about Fossett's automobile sitting in its shed like a dead horse on its feet, and I thought about the farmer who was afraid of cows, and I thought about the brindled steer standing in the dark with Boyd's hand on its broken horn, and I did not make a joke about any of it.
+I sat by the fire and I drank coffee that was too strong because I had made it for two and there was only one of me, and I watched the plains do nothing, which is what the plains do best. The grass moved. The sky was large. A hawk circled over the creek, patient as Boyd, and dove and came up with something small and brown in its talons and carried it west, and I watched it go, and I thought about Petrie, and I thought about Boyd, and I thought about Lyle Dunaway walking into Hardesty with his blistered feet, and I thought about Fossett's automobile sitting in its shed like a dead horse on its feet, and I thought about the farmer who was afraid of cows, and I thought about the brindled steer standing in the dark with Boyd's hand on its broken horn, and I did not make a joke about any of it.
 
 On the second morning I packed my camp and saddled my horse and rode south toward Borger. The sun was up. The light was gold and flat and it went on forever and the plains went on forever and the sky went on forever and I was the only thing in any of it that had somewhere to be, and I was in no hurry to get there.
 
-I have set this down as well as I can. It is not a good account. A good account would tell you what Boyd meant to me and I cannot do that because I do not have the words and I am a man who has words for everything. I have words for the color of November light on the Texas Panhandle and words for the sound a cow makes when it is afraid and words for the specific quality of patience required to ride behind a brindled steer for two days without losing your temper. I do not have words for Boyd. I have thirty-one years of riding beside him and I have the memory of his hand on that steer's broken horn and I have the joke about the eggs, which was the last thing I said to him that mattered, and it did not matter at all, and it was all I had.
-
-If you want to know what Boyd Sill was like, I cannot tell you. But I will tell you that the coffee that morning was good, and the light was gold, and he said I did all right, and he rode east, and I did not throw the rope.
+I have set this down as well as I can. It is not a good account. The joke about the eggs was the last thing I said to Boyd that mattered. It did not matter at all.
