@@ -10,8 +10,8 @@ workY: "Sanctuary"
 wordCount: 3251
 readingTimeMinutes: 13
 tags: ["church", "confession", "louisiana", "congregation", "southern gothic", "roadside", "storm", "transcriptionist"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Poe's obsessive confession meets Enriquez's social-supernatural horror, structured through O'Connor's road-to-grace and Faulkner's corrupted sanctuary"

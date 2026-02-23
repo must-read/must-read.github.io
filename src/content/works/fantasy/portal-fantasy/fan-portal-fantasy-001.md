@@ -10,8 +10,8 @@ workY: "Lincoln in the Bardo"
 wordCount: 5631
 readingTimeMinutes: 23
 tags: ["waiting room", "afterlife", "grief", "portal", "dead letter office", "bureaucracy", "multiple voices", "daughter"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Gaiman's matter-of-fact dark fantasy meets Saunders's bureaucratic empathy, structured through Coraline's portal-trap and Lincoln in the Bardo's chorus of the dead"

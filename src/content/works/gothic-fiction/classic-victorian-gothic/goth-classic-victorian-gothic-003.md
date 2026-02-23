@@ -10,8 +10,8 @@ workY: "Rebecca"
 wordCount: 3632
 readingTimeMinutes: 15
 tags: ["cellar", "inheritance", "inventory", "sealed chamber", "housekeeper", "wine", "karst", "found document"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 8
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Poe's confessional descent into entombment meets du Maurier's haunted inheritance, structured as a Cask of Amontillado-style sealed chamber with Rebecca's dominating predecessor and faithful servant"

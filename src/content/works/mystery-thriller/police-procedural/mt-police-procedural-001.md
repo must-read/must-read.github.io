@@ -10,8 +10,8 @@ workY: "Zodiac"
 wordCount: 5418
 readingTimeMinutes: 22
 tags: ["procedural", "institutional betrayal", "trafficking", "palm beach", "grand jury", "obsession"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Lehane's working-class moral devastation meets French's atmospheric psychological depth, structured through L.A. Confidential's documentary procedural technique and Zodiac's obsessive case preservation"

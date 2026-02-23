@@ -10,8 +10,8 @@ workY: "I Feel Bad About My Neck"
 wordCount: 2281
 readingTimeMinutes: 9
 tags: ["wellness", "aging", "app", "satire", "optimization", "body", "metrics", "subscription"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Ephron's brand-name body comedy meets Swift's sustained ironic persona, structured as a Modest Proposal for quantifying aging with I Feel Bad About My Neck's rueful self-knowledge underneath"
