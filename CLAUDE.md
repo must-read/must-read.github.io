@@ -167,6 +167,39 @@ Individual reviews are written to `review-{persona-number}-{name}.json` then ass
 
 **Phase 3 (Scale)**: 5 concurrent worktrees, 20-40 works/day, continuous deployment, target 500 works/month
 
+## Pitch-Based Story Pipeline (TEMPORARY)
+
+Story ideas can also originate from external source material (the user's own published works). These are stored as pitch files in `pitches/<source-name>/` with one `.md` file per story idea.
+
+### Pitch file format
+```yaml
+---
+source: "<url>"
+sourceType: "web-essay"
+status: "pitch" | "selected" | "in-progress" | "completed"
+priority: 1-5  # 1=highest, assigned during prioritization
+authorA: "<real author name>"
+authorB: "<real author name>"
+workX: "<real published work>"
+workY: "<real published work>"
+suggestedGenre: "<genre>"
+suggestedSubgenre: "<subgenre>"
+---
+## Premise
+## Source Inspiration
+## Why These Formula Elements
+## Notes
+```
+
+### Batch composition rule
+**1 pitched story for every 3 non-pitched stories.** In a typical 5-work batch, 1 work comes from the pitch pool and 4 from the normal combination-matrix process. The pitched story goes through the FULL pipeline (author meeting → planner → writer → editor → blind reviewers → assembler) with no shortcuts. The pitch provides inspiration and formula elements, not a finished plan.
+
+### Prioritization
+Pitches are ranked by priority (1-5). When selecting the next pitched story for a batch, pick the highest-priority unselected pitch, respecting genre round-robin balance.
+
+### Cleanup
+After all selected pitches are completed, archive the `pitches/` directory and remove this section from CLAUDE.md.
+
 ## Open Questions (Resolve Before Building)
 
 See SPEC.md Section 17. Key decisions needed: cover images, reading lists (localStorage), content license, custom domain, analytics, RSS feeds, combination formula visibility, persona profile pages, build-time scaling strategy.
