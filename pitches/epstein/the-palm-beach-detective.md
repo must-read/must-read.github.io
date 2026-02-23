@@ -7,7 +7,7 @@ authorB: "Tana French"
 workX: "L.A. Confidential"
 workY: "Zodiac"
 source: "https://bedwards.github.io/epstein/"
-status: "pitch"
+status: "in-progress"
 priority: 1
 ---
 
