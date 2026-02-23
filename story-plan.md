@@ -1,298 +1,206 @@
-# Story Plan: Residue
+# Story Plan: hf-historical-romance-001
 
-**Genre**: Dystopian
-**Subgenre**: Bureaucratic-Dystopia (NEW -- first work in this subgenre)
-**Target Word Count**: 4,500 words (acceptable range: 4,200-4,800)
-**Reading Time**: 18 minutes
+**Genre**: historical-fiction / historical-romance (NEW subgenre)
+**Combination ID**: hf-historical-romance-001
+**Target Word Count**: 5,400 words (range: 5,100-5,700)
+**Risk Card**: WITHHELD INFORMATION -- the protagonist never names her desire
 
 ---
 
 ## Research Summary
 
-### Writing Samples Collected
+### Prose Sources Collected
 
-**Source 1: Franz Kafka -- The Trial (Gutenberg Project, David Wyllie translation)**
+**Sarah Waters (Tipping the Velvet)**: Nancy's confession to Alice -- "When I see her, it's like -- I don't know what it's like. It's like I never saw anything at all before. It's like I am filling up, like a wine-glass when it's filled with wine. I watch the acts before her and they are like nothing -- they're like dust. Then she walks on the stage and -- she is so pretty; and her suit is so nice; and her voice is so sweet... She makes me want to smile and weep, at once. She makes me sore, here." Waters builds desire through accumulation of sensory detail, physical specificity, and the body's knowledge outpacing the mind's vocabulary. Her music hall is "the scent of wood and grease-paint and spilling beer, of gas and of tobacco and of hair-oil" -- the smell of applause, later known as the odour of grief. Kinetic prose that moves with the character's body through physical space.
 
-The Trial's opening: "Someone must have been telling lies about Josef K., he knew he had done nothing wrong but, one morning, he was arrested." What follows is K.'s encounter with guards who cannot tell him what he is charged with, supervisors who advise him to focus inward rather than seek external answers, and a system that simply processes him while refusing to explain itself. The bureaucratic apparatus exists in domestic spaces -- Miss Burstner's bedroom becomes a courtroom, an attic becomes the court offices. The system is everywhere and nowhere. K. cooperates throughout -- he dresses in his best suit for his own arrest, he goes to the bank afterward. The prose is flat, precise, matter-of-fact. The absurdity is never acknowledged by the narrative voice.
+**Sarah Waters (The Night Watch)**: Kay dressing carefully in tailored slacks and men's shoes, walking through "well-swept, devastated streets" with nowhere to go. The isolated queer body moving through a world that sees the surface and not the person. "Sometimes she walked restlessly about, just as lunatics were said to" and other times remained "stiller than a shadow."
 
-The guard explains to K.: "Our superiors don't search for guilt -- it's the guilt that draws them out." This circular logic -- the system that finds guilt because it has already assumed guilt -- is the operating principle of the Contentment Assessment system in this story. The CAI does not measure happiness. It measures compliance with the metrics that define happiness.
+**Madeline Miller (Circe)**: "In a solitary life, there are rare moments when another soul dips near yours, as stars once a year brush the earth." Classical syntax, elevated register that gives emotional experience the weight of myth. First-person narration that circles around feeling without declaring it. "When we are young, we think ourselves the first to have each feeling in the world." "All those years I had spent with them were like a stone tossed in a pool. Already, the ripples were gone." Transformation as both power and exile.
 
-**Representative technique**: Kafka renders the protagonist's compliance as the most natural thing in the world. K. does not resist. He negotiates within the system's terms. The prose never signals that anything unusual is happening -- the reader must supply the horror.
+**Sappho, Fragment 31**: "That man seems like the gods to me -- the one who sits facing you and nearby listens as you sweetly speak -- and he hears your lovely laugh -- this then makes the heart in my breast stutter, when I glance even briefly, it is no longer possible for me to speak -- but my tongue sticks in silence and immediately a slender flame runs under my skin. I cannot see with my eyes, I hear a rush in my ears -- a cold sweat breaks over me and a tremble takes hold of me. Then I am paler than grass, I think that I have died just a little." The foundational text for this story's architecture: desire constructed entirely from its physical symptoms, the emotional center being the thing the poem never names.
 
-**Source 2: Yoko Ogawa -- The Memory Police (Booker Prize excerpt, Goodreads quotes, Literary Hub excerpt)**
+### Wikipedia Concept Mining (2 selected from 20 surveyed)
 
-Key passages: The rose disappearance scene -- "Already on the second day, people who had raised roses in their gardens came to the river to lay their petals to rest. They carefully dismantled the flowers, petal by petal, and slipped them quietly into the stream." Also: "But as things got thinner, more full of holes, our hearts got thinner, too." And: "I have to make do with a hollow heart full of holes."
+**1. Phantom Limb** (Silas Weir Mitchell, coined 1871): The vivid sensation of a missing body part still being present. Civil War amputees described feeling pain in arms and legs that had been removed. The body remembers what the mind knows is gone. Mitchell published the concept first as fiction ("The Case of George Dedlow," 1866) before presenting it as medical fact -- truth needed the disguise of story before it could be spoken. **Integration**: The protagonist experiences her desire as a phantom limb -- a sensation in a place that, for a woman like her in 1890s London, does not officially exist. She feels the ache of something she has no body part for. The concept also works structurally: the reader feels the missing declaration of desire the way an amputee feels a missing hand. Mitchell's phantom-limb research was active London medical discourse in the 1890s, making it period-appropriate -- the older woman references the phenomenon in conversation, and neither woman says what the protagonist recognizes in it.
 
-The narrator's father studies birds at an observatory: "the shape of a beak, the color of the feathers around the eyes." When birds disappear from the island, the Memory Police arrive and systematically destroy all documents, photographs, and materials -- removing ten large bags. The narrator observes their efficient, emotionless methods with helplessness. Horror registered through precise observation and emotional muteness.
-
-**Representative technique**: Ogawa registers erasure through precise sensory observation. She does not protest the disappearances. She catalogs them -- the exact color, the exact gesture, the exact moment the memory detaches. Horror arrives not through dramatic confrontation but through the accumulation of small, carefully noted absences. The narrator watches herself forget, and describes it as one might describe weather.
-
-**Source 3: George Orwell -- 1984, Part III Section 2 (Telelib)**
-
-O'Brien's interrogation speeches: "The command of the old despotisms was 'Thou shalt not'. The command of the totalitarians was 'Thou shalt'. Our command is 'Thou art'." Also: "We shall squeeze you empty, and then we shall fill you with ourselves... Never again will you be capable of love, or friendship, or joy of living... You will be hollow." And: "When finally you surrender to us, it must be of your own free will." Also: "Reality exists in the human mind, and nowhere else... Whatever the Party holds to be the truth, is truth." The Party does not merely destroy its enemies -- "we change them."
-
-**Representative technique**: 1984's power is that the state demands not compliance but belief. Thoughtcrime is not about what you do but what you feel. The system requires genuine internal transformation -- you must love Big Brother, not merely say you do. The violence is psychic: being required to feel what you are told to feel, to believe what contradicts your senses.
-
-**Source 4: Kafka -- In the Penal Colony (public domain, multiple translations)**
-
-The officer explains the apparatus with loving precision: an execution machine that inscribes the prisoner's sentence onto his body over twelve hours. "It is a very special machine." The condemned man doesn't know his sentence or his charges. "Guilt is always certain." The officer's reverence for the old Commandant who designed the system makes him both the machine's operator and its devotee. The apparatus is justice made physical, and the officer so identifies with it that he ultimately feeds himself to it.
-
-**Representative technique**: The bureaucratic devotee who has merged with the system to the point where person and institution are indistinguishable. The calm, explanatory tone while describing atrocity. The matter-of-fact presentation of a system that has completely replaced moral reasoning with procedural reasoning.
+**2. Palimpsest** (from Latin palimpsestus, "scraped again"): A manuscript page that has been scraped clean and overwritten, but where the original text still shows through underneath. Medieval scribes reused expensive vellum by scraping off prior text, but the original ink leaves traces that can be read by later scholars with the right light. **Integration**: The protagonist's narration is a palimpsest -- her surface text describes the sensory world (the music hall, the dressing room, the older woman's drawing room) while the scraped-away text of desire bleeds through in the rhythms, the attention, the things she lingers on. The reader reads both layers simultaneously. The concept provides a concrete scene: the older woman shows the protagonist a real palimpsest from her collection, and the protagonist recognizes something in the double text without being able to say what.
 
 ---
 
-### Wikipedia Random Concept Mining
+## Title
 
-**20 articles retrieved via Wikipedia API:**
+**Palimpsest with Limelight**
 
-1. Eunidia partenigroantennalis -- a species of beetle in the family Cerambycidae
-2. John G. Adams -- U.S. Army counsel during McCarthy hearings
-3. Molly Barker -- founder of Girls on the Run youth program
-4. Kalvebod Faelled -- reclaimed seabed near Copenhagen; drained in 1943, birds immediately colonized the drained land
-5. Maryland Route 667 -- a state highway in Maryland
-6. Wallace B. Douglas -- American football player
-7. Rio Hondo, Mayaguez, Puerto Rico -- a barrio in southwestern Puerto Rico
-8. Bob Baker Marionette Theater -- America's longest-running puppet theater (est. 1963), hand-crafted marionettes in LA
-9. Tansa Wildlife Sanctuary -- wildlife sanctuary in Maharashtra, India
-10. Masum Reza -- Bangladeshi actor
-11. Pavel Curtis -- computer scientist who created LambdaMOO, a text-based virtual world; later founded PlaceWare (web conferencing, acquired by Microsoft)
-12. George William Patchett -- British arms designer
-13. G 1/83, G 5/83, G 6/83 -- decisions of the Enlarged Board of Appeal of the European Patent Office
-14. Nutaarmiut Island -- uninhabited island in northwestern Greenland, 377 km2
-15. Paper Tiger Television -- NYC grassroots media collective (est. 1981) using DIY aesthetics to critique corporate media
-16. List of symphonies in B-flat major -- catalog of orchestral works in a specific key
-17. Aufeminin -- French media company focused on women's content
-18. Missing (2016 film) -- South Korean mystery thriller
-19. Varignon frame -- a mechanical device of strings, weights, and a board used to find the optimal warehouse location; weights represent transport costs and the strings naturally settle at an equilibrium point that minimizes total weighted distance
-20. Pieter Fris -- 17th-century Dutch Golden Age painter; nicknamed "Welgemoed" (courage) when he joined the Bentvueghels artist fraternity in Rome at age 17
-
-**Two picks:**
-
-**Pick 1: Varignon frame (#19)**
-
-A mechanical optimization device where weighted strings pass through holes in a board and hang from attached weights. The strings naturally find an equilibrium point -- the location that minimizes the total weighted distance from all the weights. Used historically to determine optimal warehouse locations.
-
-*Why it sparks*: This is a perfect physical analog for how the Contentment Assessment system works. The form processes weighted inputs (responses, scores, metrics) to arrive at a balanced output (the contentment score), and the balance point has nothing to do with truth -- it minimizes system cost, not human suffering. The citizen is a weight. The system seeks equilibrium. The equilibrium is optimal for the system, not for any individual weight.
-
-*Integration*: Lev has a small framed diagram on his apartment wall, near the kitchen. It shows a geometric figure -- lines converging on a point, small weights drawn at the margins. It is from an old engineering textbook he found years ago at a flea market. He doesn't know what it is. Wren notices it. Neither of them discusses it. The reader, if they know what a Varignon frame is, recognizes the story's architecture: weighted strings finding a point that satisfies the system. If the reader doesn't know, it is just a diagram on a wall -- one more detail the form has no field for.
-
-**Pick 2: Kalvebod Faelled (#4)**
-
-A 20 km2 area on Amager island near Copenhagen. Until the 1940s it was seabed. In 1943 the Danes built a 14-km dyke and drained it. Within days, thousands of birds settled on the reclaimed land. The void was filled by something the engineers never planned for.
-
-*Why it sparks*: "When you drain a space, something unexpected fills it." The happiness metrics drained the concept of contentment into measurable units, and what filled the void -- the actual texture of people's inner lives -- is something the system cannot measure, capture, or process. The birds that colonized Kalvebod Faelled are like the residue that accumulates in Wren: all the things the form cannot hold.
-
-*Integration*: When Wren asks about the plant on Lev's windowsill -- a struggling Schlumbergera (Christmas cactus) -- he mentions, without emphasis, that his wife brought it back from a trip to Copenhagen before she died. From a nature preserve that used to be the sea floor. "They drained it and the birds came." He does not elaborate. Wren does not follow up. The detail sits in the story without explanation. It is residue.
+Avoids starting with "The." A compound form joining the period-accurate metaphor of the palimpsest with the specific physical detail of music-hall limelight. Suggests a surface lit from above that reveals what lies beneath -- the hidden text made visible under theatrical illumination. Does not duplicate any existing title on the platform.
 
 ---
 
-## Story Design
+## Premise
 
-### 1. Premise
-
-A government happiness auditor arrives at an apartment to assess a man who is three happiness units short for the quarter. The audit is routine. But the man's responses -- too ordinary to classify as defiance, too accurate to fit the form -- begin to expose a structural paradox: that the effort of maintaining mandated contentment is what produces the deficiency the system measures. The auditor, pursuing clerical precision rather than rebellion, writes a report that accidentally becomes testimony.
-
-### 2. Protagonist
-
-**Name**: Wren Igarashi
-**Age**: 34
-**Occupation**: Contentment Compliance Auditor, Grade 4, Western District
-**Situation**: Eight years into the job. Has conducted approximately 3,200 quarterly audits. Her efficiency rating is 98.6%. She has never filed an anomalous report. She lives alone in a studio apartment one district over from her assigned territory. She owns no plants.
-
-**WANT**: To complete this audit within the standard 45-minute window so she can submit the day's reports by 17:00 and maintain her filing record. Specifically: she wants the form to be filled out correctly. She wants the numbers to work.
-
-**NEED**: To acknowledge that the details she notices in every apartment -- the residue of lives the form cannot capture -- are accumulating inside her, and that her compulsive precision is not professionalism but a coping mechanism for the moral weight she refuses to name.
-
-**Flaw/Blind Spot**: Wren believes that accuracy and obedience are the same thing. She has confused being exact with being good. Her devotion to the form is genuine -- she is not cynical, not going through the motions. She cares about getting it right. But "right" for her means what the form says is right, and she has never examined whether the form deserves her devotion. Her precision is her prison -- and it is also, ultimately, what undoes her, because when she applies that same precision to what the man actually says (rather than to what the form asks him to say), the form breaks.
-
-**Specific wound**: Three years ago she audited an elderly woman, Apartment 7-03D, who scored 1.2 units below threshold. Standard protocol: flag for Wellness Intervention. Wren filed the flag. Six weeks later the woman's apartment was reassigned. Wren does not know what Wellness Intervention involves. She has never asked. The form does not have a field for what she felt when she saw the apartment number reassigned on her next quarterly circuit. She continued to the next door on her route.
-
-### 3. Structure (Five Beats)
-
-**Beat 1 -- ARRIVAL (approx. 700 words)**
-
-Wren arrives at Apartment 4-11F. She fills out the intake section in the elevator: date, subject ID, district, audit type (Quarterly Compliance, Subtype: Contentment Deficiency Review). She has a clipboard -- not a tablet, a physical clipboard, because the Contentment Bureau mandated physical forms after the data breach of Year 9. She has a pen she did not choose -- it was issued, but the grip has worn to the shape of her thumb over eight years. She rings the bell.
-
-A man opens the door. Lev Petrov, 51, data entry clerk (position discontinued -- the work was automated three years ago). He is wearing mismatched socks -- one brown, one dark gray. The apartment is clean but not tidy. There is a Schlumbergera on the windowsill, segments slightly wrinkled, one bud that could be about to open or about to drop. On the wall near the kitchen: a small framed diagram showing lines and weights converging on a geometric point.
-
-Wren notices all of this. None of it goes on the form.
-
-Lev offers her tea. She declines. Accepting refreshment from a subject is not prohibited, but it is noted. Something crosses her face during the declining -- something fast, something small, something Lev does not see. The reader barely sees it. The refrigerator cycles on.
-
-**Beat 2 -- THE AUDIT BEGINS (approx. 1,000 words)**
-
-Wren proceeds through the Contentment Assessment Inventory (CAI), a standardized sequence of 14 prompts. We see several in full:
-
-- "Describe your most recent experience of satisfaction." Lev: "I finished a crossword. It was a Tuesday."
-- "Rate your sense of purpose on a scale of one to seven." Lev: "Three. No -- four. What separates a three from a four?"
-- "Identify a moment in the past thirty days when you felt connected to your community." Lev: "I held the elevator for the woman in 4-08A. She nodded."
-
-His answers are not defiant. They are merely accurate. They are not even particularly sad. They are just insufficient -- slightly below the threshold that the algorithm requires for a passing score. The system needs him to feel more than he feels, or to describe what he feels in the language the form recognizes as feeling. He cannot do either.
-
-Wren begins to notice that her standard phrasings are not capturing what is happening. She makes small adjustments -- adding a subordinate clause here, replacing "subject expressed moderate dissatisfaction" with something longer, more specific, closer to what Lev actually said. The adjustments feel like professionalism. They are professionalism. That is the problem.
-
-Throughout this beat, fragments of Wren's report appear -- set apart typographically (italicized or indented) -- showing what she is writing versus what Lev is saying. The gap between the two is initially small. Standard bureaucratic compression: a lived experience rendered in assessment language. The reader registers the compression but does not yet feel it as violence.
-
-**Beat 3 -- THE PARADOX SURFACES (approx. 1,200 words)**
-
-The audit reaches Question 9: "Describe any barriers to achieving your contentment targets this quarter."
-
-Lev pauses. He looks at the Schlumbergera. Then he says something the form cannot accommodate.
-
-He explains -- not angrily, not eloquently, in the tired, precise language of a man who has arrived at a conclusion through repetition rather than insight -- that the quarterly visits themselves are the barrier. That knowing he will be assessed makes him anxious about his happiness. That the anxiety depresses his metrics. That depressed metrics trigger another visit. That the visit produces more anxiety. A feedback loop. He does not use the phrase "feedback loop." He says: "You come every three months to check if I'm happy enough. That makes me unhappy. Then you come again."
-
-Wren looks at her four-line comments section. She understands, with the clarity of someone who has spent eight years doing arithmetic, that what he has described is a structural recursion the system has no mechanism to recognize. The form has no field for "the assessment itself causes the deficiency." The form has no field for paradox.
-
-She writes in the comments section: "Subject identifies assessment process as contributing factor to contentment shortfall. See expanded notes."
-
-There is no "expanded notes" section on the form. She has just invented one.
-
-This is the moment. Not rebellion -- precision. She is not defying the form. She is trying to fill it out correctly. The form asks her to document barriers. She is documenting the barrier. The fact that the barrier is the form itself is a problem for the form, not for her.
-
-The refrigerator cycles on. Lev waits. The silence in the room is the silence of two people who have said something true and now must continue with the procedure.
-
-During this beat, the report fragments become longer, more specific. The standard phrasings are gone. Wren is writing what happened. She does not notice that this is unusual.
-
-**Beat 4 -- THE REPORT SHIFTS (approx. 1,000 words)**
-
-Wren continues the remaining questions (10 through 14), but her language has changed. She no longer uses the standard phrasings. She describes what Lev actually says, in his actual words, in their actual context.
-
-She notes the Schlumbergera -- not by checking the box for "subject maintains living environment consistent with wellbeing indicators" but by describing a specific plant, a Schlumbergera truncata, segments wrinkled from inconsistent watering, one terminal bud ambiguous, brought from Copenhagen by a wife who died four years ago. The wife's name was Daria. The plant came from a nature preserve built on reclaimed seabed. "They drained it and the birds came," Lev says, and Wren writes it down, and the form has no field for it.
-
-She notes the mismatched socks -- not as evidence of self-neglect (there is a supplementary checklist for that: "Indicators of Diminished Self-Care, Appendix C") but as the fact that no one sees him. That the socks are mismatched because there is no one in the apartment to notice, and Lev does not look down.
-
-She notes the diagram on the wall -- lines and weights, a point of convergence -- that neither of them can identify. She describes it precisely: "Small framed print, approx. 15 x 20 cm, depicting a mechanical or mathematical diagram. Subject acquired at a flea market. Purpose of diagram unknown to subject or auditor." The form has no field for things whose purpose is unknown.
-
-She notes that he offered her tea and she declined and that the declining cost her something she did not expect.
-
-She notes the silence in the apartment -- no music, no television, just the building settling and the refrigerator and two people and a form with margins now full of writing.
-
-The report is no longer a compliance document. It has become a record of what it is like to sit across from a man who is three units short of happiness in a system that has budgeted for his failure. Wren does not know this has happened. She thinks she is being precise.
-
-Here the story briefly surfaces the wound: she does not think about Apartment 7-03D. But the reader sees her hand pause at the checkbox for Wellness Intervention, just for a moment, the pen held above the paper at a slight angle, and the pause is the old woman, and the pause is the reassigned apartment, and the pause is everything Wren has never asked.
-
-**Beat 5 -- DEPARTURE (approx. 600 words)**
-
-Wren completes the audit. She calculates his score using the standard algorithm, showing her arithmetic in the margin: the weighted responses, the seven-point subscales, the aggregate. 3.7 out of 7.0. The threshold is 4.0. She must recommend Wellness Intervention. There is a checkbox.
-
-She looks at the checkbox. She looks at Lev.
-
-She checks the box.
-
-She is not a rebel. She has never been a rebel. The system asks her to check the box and she checks it. This is what Kafka understood and what hero stories never do: the person inside the system does not refuse. Refusing would require believing that refusal changes something. Wren does not believe that. She believes in the form.
-
-But below the checkbox, in the four-line comments section that she has now expanded to fill the margins and the back of the page and a supplementary sheet she has pulled from her bag, she has written something that is not a compliance note and not a protest. It is a description. A very precise, very specific description of an apartment and a man and a plant and a silence that the system created and cannot hear.
-
-She thanks Lev. She stands. She picks up her clipboard. At the door she pauses -- not dramatically, not as a turning point, but in the way a person pauses when their hand is on a doorknob and they have noticed something and have not yet decided whether noticing it matters. She does not look back at the Schlumbergera. She does not look at Lev.
-
-She leaves. The door closes.
-
-The last paragraph is the apartment without her. The Schlumbergera on the windowsill. Its one bud, still ambiguous. The diagram on the wall with its converging lines and its unknown purpose. The chair where she sat, empty. The tea Lev offered, still unmade. The refrigerator cycling off.
-
-The story does not tell us what happens to the report. The reader knows. The reader has been inside the system for 4,500 words. The reader has learned how it works -- that anomalous reports have their own process, their own review, their own form with its own four lines. The reader can complete the pattern. The story trusts them to.
-
-### 4. Key Scenes (each does at least two things)
-
-- **The tea refusal** (Beat 1): Establishes the professional distance the system imposes AND reveals that Wren is a person, not just an auditor -- the refusal costs her something small, visible only to the reader. Sets up the Ogawa register: the detail the story does not insist upon.
-
-- **"What separates a three from a four?"** (Beat 2): Shows Lev's failure as an inability to subdivide his own feelings into the system's increments AND introduces the story's quiet critique -- the scale is a machine for converting feeling into arithmetic, and the arithmetic is always wrong.
-
-- **Question 9 -- the feedback loop** (Beat 3): The structural turn of the story. Lev articulates the system's paradox AND Wren invents the "expanded notes" section -- the first moment her precision exceeds what the form allows. Does two things: exposes the system's logical contradiction AND marks the invisible boundary Wren crosses. This is the scene where clerical conscience becomes dangerous.
-
-- **The Schlumbergera / Copenhagen detail** (Beat 4): Integrates the Kalvebod Faelled concept (drained seabed, birds filling the void) AND reveals Lev as a person with a history the form cannot capture. The detail about Daria is not sentimental -- it is mentioned the way Ogawa would mention it, as a fact alongside other facts. It also establishes the thematic undercurrent: when you drain a space, something unexpected fills it.
-
-- **The checkbox** (Beat 5): Wren checks the box for Wellness Intervention -- she does NOT rebel. This is crucial. She complies with the system's requirement AND simultaneously undermines it through the excess of her report. The checking of the box is what makes the story Kafkaesque rather than conventionally heroic. She cooperates with the process of someone else's processing, exactly as K. cooperates with his own.
-
-- **The departure** (Beat 5): The story ends mid-process. The report exists but we do not see it submitted, read, or flagged. The reader imagines the system's response because the story has taught them how the system works.
-
-### 5. Emotional Trajectory
-
-**Start**: Clinical detachment. The reader enters the auditor's procedural headspace -- forms, checkboxes, time management. The prose is flat and precise, like a well-organized filing cabinet. The reader might feel mildly curious, possibly even bored in the way that Wren is bored. The system feels banal, not threatening.
-
-**Early middle shift**: Slow constriction. As the audit progresses and Lev's answers accumulate -- not dramatic, not eloquent, just slightly insufficient -- the reader begins to feel the claustrophobia of the room. The system's demands become visible not through exposition but through the gap between what Lev says and what the form can record. Each question tightens the space. The reader starts to notice what Wren notices: the plant, the socks, the silence. Unease that cannot locate its source.
-
-**Crisis**: The feedback loop (Question 9). The reader feels the vertigo of a logical contradiction that has no exit. Not anger -- something worse: the recognition that the system is functioning correctly. Lev is a planned loss. The system has budgeted for his unhappiness. The horror is not that the system is broken. The horror is that it works.
-
-**Late middle**: The report fragments shift, and the reader realizes that Wren is recording things no auditor should record -- not because they are forbidden but because they are invisible to the form. The feeling is of watching someone walk toward a cliff edge while looking at a map. The reader can see the edge. Wren cannot. She is reading the map correctly. The map is wrong.
-
-**End**: A specific, physical discomfort -- like holding something you cannot put down. Wren checks the box. She writes the report. She leaves. Nothing changes. The reader knows the report will be flagged, that Wren will be reviewed, that the system will process her the way it processes everyone. But the story does not confirm this. It leaves the reader holding the pattern -- holding it the way Wren holds all the details the form does not ask for. The residue. The accumulation. The weight of things the system cannot receive.
-
-NOT: catharsis. NOT: hope. NOT: quiet devastation. The feeling is: you have seen how the machine works, and you cannot unsee it, and no one has asked you to do anything about it.
-
-### 6. Formula Integration
-
-**Franz Kafka (Author A) -- most visible in**: Beat 3, when Wren invents the "expanded notes" section. This is the quintessential Kafka move: the protagonist who does not rebel against the system but takes it at its word. Wren is not defying the form. She is filling it out *more correctly* than it was designed to be filled out. Exactness in a system of approximation is the most dangerous thing you can do -- this is Kafka's insight from The Trial, where K.'s attempts to understand and cooperate with the court are what destroy him. Wren's cooperation is her undoing. The prose style throughout should be Kafkaesque: precise, matter-of-fact, refusing to acknowledge its own absurdity. The narrative voice never signals that anything unusual is happening. The form has no field for the form's own failure.
-
-**Yoko Ogawa (Author B) -- most visible in**: Beat 4, the Schlumbergera passage and the accumulation of sensory details the form cannot capture. Ogawa's technique -- registering horror through precise, emotionally muted observation -- should govern how Wren notices things. The plant, the socks, the diagram, the silence: these are cataloged the way Ogawa's narrator catalogs the disappearance of roses, petal by petal, without protest. "She notices everything and reacts to nothing -- until she does." The moment Wren reacts is invisible to her and barely visible to the reader. It is the moment the report's language shifts, and it happens the way an Ogawa disappearance happens: something was there and now it is gone, and in its place is something the system never anticipated.
-
-**The Trial (Work X) -- most visible in**: The overall structure. The audit takes place in an apartment -- the court that exists inside domestic space. Wren is both the apparatus and (potentially) its future subject; the system is simultaneously everywhere (the form, the clipboard, the quarterly schedule) and nowhere (no one designed the feedback loop, no committee intended the paradox). Lev, like K., is guilty of something he cannot identify -- insufficient happiness, a deficit without a cause the form can name. The ending, where Wren checks the box and the reader completes the pattern, mirrors The Trial's structure: K. cooperates all the way to his own execution, and the reader watches him do it.
-
-**1984 (Work Y) -- most visible in**: The thematic substrate of Beats 2-3. The CAI does not merely ask Lev to report his contentment -- it requires him to *feel* it. The scale of one to seven demands not a description of behavior but an assessment of interior state. "Rate your sense of purpose." "Describe your most recent experience of satisfaction." These are not questions about what you did. They are questions about what you felt. The system's demand is Orwellian in the purest sense: it is not enough to comply. You must genuinely be happy. The psychic violence is administered through a clipboard and 14 questions, which makes it both softer than Room 101 and, in its domestic banality, more insidious. The command is not "Thou shalt" or "Thou shalt not." It is "Thou art content."
-
-### 7. Title
-
-**Residue**
-
-Does not start with "The." Distinct from all existing titles in the catalog. References the story's central image -- the things the form has no field for, the details that accumulate in the auditor like dust, the excess that the system cannot receive. Also carries a chemical/scientific connotation: the substance left over after a process is complete. Lev is the residue of his own audit. The report is the residue of what happened in the room. The story is the residue of a system that processes people and leaves behind everything that matters.
+In 1890s London, a chorus girl named Nell Arden performs nightly at the Canterbury Music Hall, invisible inside the troupe, until an older woman -- Judith Blackwell, a widowed collector of rare manuscripts -- begins attending every performance and watching not the show but her. Nell narrates their developing intimacy in extraordinary sensory detail, describing everything about Judith -- her voice, her rooms, her hands, the particular way she turns pages -- while never once naming what she wants from her. The story is organized around this absence: desire constructed from its outline, felt by the reader as a phantom sensation in a part of the narrative that does not exist.
 
 ---
 
-## Wikipedia Concept Integration Summary
+## Protagonist
 
-| # | Article | Sparked? | Notes |
-|---|---------|----------|-------|
-| 1 | Eunidia partenigroantennalis | No | Beetle taxonomy -- no resonance |
-| 2 | John G. Adams | No | McCarthy hearings -- too on-the-nose for a bureaucracy story |
-| 3 | Molly Barker | No | Youth running program -- no connection |
-| 4 | Kalvebod Faelled | **YES** | Reclaimed seabed that birds immediately colonized -- "when you drain a space, something unexpected fills it" -- integrated as Copenhagen detail in Lev's backstory via the Schlumbergera plant |
-| 5 | Maryland Route 667 | No | Highway -- no resonance |
-| 6 | Wallace B. Douglas | No | Football player -- no connection |
-| 7 | Rio Hondo, Mayaguez | No | Puerto Rican barrio -- no connection |
-| 8 | Bob Baker Marionette Theater | No | Puppets/marionettes -- tempting but too obvious for a "strings" metaphor in a control story |
-| 9 | Tansa Wildlife Sanctuary | No | Wildlife sanctuary -- no specific resonance |
-| 10 | Masum Reza | No | Actor -- no connection |
-| 11 | Pavel Curtis / LambdaMOO | No | Virtual worlds -- interesting but doesn't fit the claustrophobic apartment register |
-| 12 | George William Patchett | No | Arms designer -- no connection |
-| 13 | G 1/83, G 5/83, G 6/83 | No | Patent office appeal decisions -- tempting (bureaucracy!) but too meta |
-| 14 | Nutaarmiut Island | No | Uninhabited Greenland island -- no specific resonance |
-| 15 | Paper Tiger Television | No | Media activism -- doesn't fit the muted register |
-| 16 | List of symphonies in B-flat major | No | Music catalog -- no connection |
-| 17 | Aufeminin | No | French media company -- no connection |
-| 18 | Missing (2016 film) | No | Korean thriller -- no connection |
-| 19 | Varignon frame | **YES** | Optimization device where weighted strings find equilibrium -- perfect metaphor for bureaucratic optimization. Integrated as the unidentified diagram on Lev's wall |
-| 20 | Pieter Fris | No | Dutch painter nicknamed "Courage" -- interesting but no natural integration point |
+**Nell Arden**, 23, chorus girl at the Canterbury Music Hall in Lambeth. Originally from Margate, Kent (an oyster town, connecting to Waters' Whitstable). Daughter of a fishmonger who died when she was fifteen. She came to London at seventeen with a good singing voice and no connections, found chorus work through another Margate girl who had come before her.
+
+**WANT**: To be seen -- not as a performer but as herself. To exist in someone's vision as a complete person rather than a body in a line of bodies.
+
+**NEED**: To develop a language for her own desire -- not necessarily to speak it aloud, but to possess it internally, to know what it is she feels rather than only experiencing its symptoms.
+
+**FLAW**: Nell substitutes description for understanding. She is brilliant at observing and cataloguing the external world -- she can describe the exact shade of gaslight on a woman's collarbone -- but she uses this descriptive precision as a way to avoid confronting what lies beneath the surface. She describes around things rather than describing them directly. This makes her narration beautiful and evasive, and it means she is always slightly outside her own experience, watching herself feel things rather than feeling them.
+
+**Specific detail**: Nell has a habit of counting. She counts the seats in the house, the buttons on a costume, the steps from the stage door to her lodging. It is a way of ordering the world, of making the chaotic sensory flood of the music hall manageable. When she is with Judith, she counts too -- the books on a shelf, the rings on Judith's fingers, the seconds between when Judith speaks and when she answers. The counting is a form of attention that looks like precision but is actually a way of not looking at the thing directly.
+
+---
+
+## Structure (5 Beats)
+
+### Beat 1: THE CHORUS LINE (Opening -- ~800 words)
+
+Nell narrates a performance night at the Canterbury. The prose is dense with physical detail -- the gas footlights, the smell of beer and powder, the specific choreography of fourteen girls moving in unison. She describes the audience as a mass, a weather system, a sound. She notices a woman in the third row, left side, who is not watching the act. The woman is watching her. Nell does not say this disturbs her, or excites her, or makes her afraid. She says the footlights were very hot that night, and her costume itched, and she miscounted the steps in the second number.
+
+**Withheld information active**: The reader sees Nell's body react (she miscounts, she feels heat, she notices the woman's exact position) but Nell frames these as neutral observations about the evening. The desire is there in the precision of her noticing -- you do not memorize someone's seat number unless they matter -- but she never acknowledges it.
+
+### Beat 2: THE INVITATION (~1,200 words)
+
+Over several weeks, the woman -- Judith Blackwell -- attends repeatedly. Nell learns her name from the stage manager, who knows her as a patron. Judith sends a card backstage: an invitation to tea. Nell describes the card in meticulous detail (the weight of the paper, the handwriting, the particular shade of ink) but does not describe her reaction to receiving it. She goes. Judith's house in Bloomsbury is filled with old manuscripts, fragments of text, damaged books. Judith is a collector of things that have been partially erased -- palimpsests, damaged scrolls, texts with lacunae. She shows Nell a page of medieval vellum where two layers of writing overlap, the original bleeding through the replacement. "You can read both if you hold it to the light at the right angle," Judith says. Nell holds it to the lamp and sees both texts at once and feels something she describes as vertigo but which the reader understands as recognition.
+
+**Key scene**: The palimpsest scene. Nell holds the vellum and the prose shifts register -- the sentence structure elongates, the rhythm becomes more incantatory (Miller's classical elevation). She is experiencing a metaphor for her own condition without knowing it: the surface text of her life (chorus girl, lodger, ordinary woman) and the hidden text underneath that shows through when the light is right.
+
+### Beat 3: THE PRIVATE PERFORMANCE (~1,500 words)
+
+The relationship deepens through a series of encounters -- always at Judith's house, never in public. Nell describes these evenings with devastating specificity: what Judith wore, how the fire sounded, the particular way Judith turned pages while reading aloud (she wet her thumb, always the left thumb, and the sound it made against the paper was like a small animal breathing). Judith reads to her -- poetry, fragments, old letters. They drink wine. They sit closer on the settee than strictness requires.
+
+Judith asks Nell to sing for her, alone, in her drawing room. Not a music-hall number but something else -- "Whatever you would sing if no one were listening." Nell sings an old Margate song her father used to sing while shucking oysters, something she has not sung since she was a girl. Her voice in the small room is different from her voice on stage. Judith listens with her eyes closed.
+
+Nell describes all of this. She describes the feeling of singing in a private room as distinct from singing on stage -- more exposed, more dangerous, a different kind of nakedness. She describes Judith's face while listening. She describes the silence after the song ended, and how the fire popped once, and how the clock in the hallway struck nine, and how the sound of the street outside was very far away. She does not describe wanting Judith. The wanting is everywhere in the description and nowhere in the text.
+
+**Phantom-limb integration**: Judith mentions, in passing, a medical lecture she attended -- a Dr. Mitchell's work on soldiers who feel pain in limbs they have lost. "The body remembers what is no longer there," she says. "It creates sensation in empty space." Nell finds this interesting but does not say why. The reader understands: Nell's entire narration is a phantom limb. She is creating sensation around an absence.
+
+### Beat 4: THE CRISIS (~1,200 words)
+
+Something shifts. Judith touches Nell's hand while passing her a glass of wine, and the touch is deliberate -- not accidental, not ambiguous. Nell describes the physical sensation with the precision of Sappho's Fragment 31: her skin goes hot, her hearing dims, her vision narrows to the point of contact. She describes these symptoms as if reporting on a medical condition. She does not name the condition.
+
+The next time Nell goes to Judith's house, another woman is there -- younger than Judith, older than Nell, a painter who lives in Chelsea. The painter is comfortable in Judith's house in a way that implies long acquaintance. Nell watches them together and describes the painter's ease: how she knows which chair is hers, how she pours her own wine without asking, how she calls Judith by a nickname Nell has never heard. Nell does not describe jealousy. She describes the room as colder than usual, and the fire as lower, and the walk home as longer, and her lodging-house bed as narrower than she remembered.
+
+The painter is never explained. Who is she to Judith? A former lover? A current one? A friend? A rival? The story does not say. **This is the withheld information operating at the plot level** -- not just the protagonist's desire but a material fact about the situation that is never confirmed or denied. The reader, like Nell, must construct meaning from the outline of what is not said.
+
+### Beat 5: THE ENDING (~700 words)
+
+Nell returns to the Canterbury. She performs. The prose returns to the opening's register -- the physical world of the music hall, the chorus line, the gas and greasepaint. But the description has changed. Where the opening catalogued the music hall as a world of surfaces, the closing finds depth everywhere: in the grain of the stage boards, in the layers of paint on the proscenium, in the audience's faces which are no longer a mass but individual, each one a text with visible and hidden layers.
+
+Judith is in the audience. Third row, left side. Nell sees her and the prose does exactly what it has done all story -- describes the seeing in exquisite physical detail without naming what the seeing means. But now the reader feels the weight of five thousand words of accumulated, unnamed desire pressing against the surface of every sentence. The prose is a palimpsest and the reader can see both texts.
+
+Nell finishes the number. She walks offstage. She does not tell us whether she goes to Judith's house that night, or any night after. She tells us that the stage door opened onto the alley, and the air was cold, and it smelled of river and smoke, and the cobblestones were wet, and her boots made a particular sound on them that she had never noticed before.
+
+**Open thread**: The fate of the relationship. The reader is denied resolution -- not as a trick, but because Nell cannot narrate an outcome for a feeling she has never named. You cannot resolve what you have not articulated. The ending is the protagonist standing in a doorway between two worlds (the stage and the street, the performance and the private), and the story stopping there, leaving the reader to feel the wanting that Nell will not say.
+
+---
+
+## Key Scenes
+
+1. **The Palimpsest Scene** (Beat 2): Nell holds the medieval vellum to the lamp and sees two texts at once. The prose shifts register. She experiences recognition without understanding -- the central metaphor of the story made literal as a physical object she can hold.
+
+2. **The Private Song** (Beat 3): Nell sings alone for Judith in the drawing room. The most intimate scene in the story, more exposed than any physical act. Voice without the protection of the chorus, the audience, the stage. The silence afterward is where the unnamed desire is loudest.
+
+3. **The Phantom-Limb Conversation** (Beat 3): Judith describes Mitchell's research on soldiers feeling pain in missing limbs. Nell listens. Neither of them says what the reader understands: that Nell has been describing sensation in a part of herself that, for a woman in her position, does not officially exist.
+
+4. **The Painter in the Chair** (Beat 4): The unnamed painter who knows Judith's house too well. Nell describes physical details (the chair, the wine, the nickname) that construct jealousy without the word. The painter is the story's material withheld information -- a fact that is never resolved, forcing the reader into the same interpretive uncertainty Nell inhabits.
+
+5. **The Final Performance** (Beat 5): The same music hall, the same chorus line, but the prose sees differently now. Surfaces have become palimpsests. The audience has become individual faces. Judith is in her seat. Nell performs and does not tell us what happens after.
+
+---
+
+## Emotional Trajectory
+
+```
+Opening:    Numbness dressed as precision. Nell catalogs the world to hold it at arm's length.
+                |
+Disruption: Being seen. Judith's gaze creates a disturbance Nell can only describe as heat,
+            as itching, as miscounting.
+                |
+Deepening:  Intimacy through shared objects (the palimpsest, the song, the wine). Each
+            encounter adds weight to the unnamed thing. The prose grows more beautiful
+            and more evasive simultaneously.
+                |
+Crisis:     The painter. A rival or a ghost or a warning. Nell's descriptive precision
+            becomes a weapon she turns on herself -- cataloguing the signs of displacement
+            with the same care she used for the signs of desire.
+                |
+Ending:     Return to the stage, but changed. The world has depth now. The unnamed thing
+            has not been resolved or released or spoken. It sits inside every sentence like
+            the original text on a scraped page. The reader feels it. Nell feels it. Neither
+            of them has a name for it. The story stops.
+```
+
+The trajectory is NOT arrival-at-understanding. Nell does not achieve an epiphany. She does not learn to name her desire. She learns to describe the world with a depth that contains the desire without naming it -- which is a different kind of knowledge, and possibly a richer one, but the story does not endorse it as victory. It is simply where she is when the narrative stops.
+
+---
+
+## Formula Integration Plan
+
+### From Author A -- Sarah Waters (style):
+**Queer desire rendered with longing and specificity; identity transformation through love; Victorian London as labyrinth of class, gender, and performance.**
+- **Scene**: Every scene with Judith. The Waters influence lives in the physical specificity -- the carbolic soap, the eel pies, the corset sweat, the gas footlights. Waters' prose moves with the character's body through space, and Nell's narration does the same: we feel the cobblestones under her boots, the weight of her stage costume, the temperature of Judith's drawing room. The class differential (chorus girl / wealthy collector) is pure Waters territory -- each lover is a different world, and Judith's world (Bloomsbury, rare manuscripts, wine) transforms Nell not by elevation but by showing her that the world has more rooms than she knew existed.
+
+### From Author B -- Madeline Miller (style):
+**Classical prose elevation giving weight to emotional experience; transformation as liberation and exile; power through solitude.**
+- **Scene**: The palimpsest scene (Beat 2) and the ending (Beat 5). When Nell holds the vellum to the lamp, the prose shifts into Miller's register -- longer sentences, more incantatory rhythm, a sense that this particular moment connects to something ancient and recurring. Miller's influence also shapes the ending: the protagonist alone, transformed, possessing a self that was forged in the presence of the beloved but must now be carried alone. The solitude is not romanticized (per Waters' insistence in the meeting) but it is given mythic weight -- Nell on a stage in Lambeth rhymes, distantly, with Circe on her island.
+
+### From Work X -- Tipping the Velvet (structure):
+**The music hall as queer space; protagonist reinventing herself through love; class mobility through desire.**
+- **Scene**: The Canterbury Music Hall frames the story. The opening and closing are set there. The music hall is the space of public performance where private desire can hide in plain sight. The structural inheritance from Tipping the Velvet is the idea that the protagonist's identity is formed through her relationship with another woman -- Nell is one person in the chorus line and begins to become another person in Judith's drawing room. Unlike Nan in Tipping the Velvet, Nell does not have three lovers (the 5,400-word count demands compression), but the single relationship carries the weight of transformation that Waters distributes across three.
+
+### From Work Y -- Circe (themes):
+**Exile/solitude as crucible; tension between mortal love and immortal power; choosing between connection and autonomy.**
+- **Scene**: The ending and the phantom-limb conversation. Circe's thematic DNA is in the question of what solitude makes of you. When the painter appears and the relationship's future becomes uncertain, Nell faces the same choice Circe faces: the love that transforms you vs. the self you build alone. The phantom-limb conversation makes the Circe connection explicit without being obvious -- the body that remembers what is no longer there is Circe's condition (immortal, remembering mortal lovers) translated into 1890s medical discourse. The story does not resolve the tension between connection and autonomy. It holds both as live wires.
+
+---
+
+## Risk Card Implementation: WITHHELD INFORMATION
+
+The withheld information operates on three levels simultaneously:
+
+1. **Emotional (primary)**: Nell never names her desire. The words "I wanted her," "I loved her," or any direct declaration of romantic/erotic feeling for Judith never appear in the text. The desire is constructed entirely from its symptoms, its context, its physical manifestations -- like Sappho's Fragment 31, which describes what happens to the body without ever naming the feeling.
+
+2. **Plot (secondary)**: The painter in Judith's house is never explained. The reader never learns whether she is a current lover, a former one, a platonic friend, or something else entirely. This ambiguity mirrors Nell's own inability to categorize her feelings -- she cannot parse the painter's role because she lacks the framework to parse her own.
+
+3. **Narrative (tertiary)**: The ending withholds the fate of the relationship. We do not learn whether Nell goes to Judith's house, whether they continue, whether they part. This is not a cliffhanger (which promises resolution). It is a genuine absence -- the story lacks the information because the protagonist cannot narrate an outcome for something she has never articulated. You cannot end a sentence you never started.
+
+All three levels reinforce each other. The story is organized around absence the way a temple is organized around the space where the god stands (Miller's image from the meeting). The columns lean inward. The light falls toward the center. Everything points to the place where something should be.
+
+---
+
+## Prose Style Notes for the Writer
+
+- **First person, past tense.** Nell narrating from some unspecified later point. She is looking back, which means the descriptive precision is both memory and evasion -- she remembers everything except what it meant.
+- **Two registers**: Waters' kinetic, embodied, physical prose (the music hall, the streets, the body in space) and Miller's elevated, classical, incantatory prose (the palimpsest, the song, moments of recognition). The shift between registers should not be signposted. It should happen in the prose rhythm, the sentence length, the reach of metaphor.
+- **Counting as tic**: Nell counts things. Buttons, steps, seconds. It is attention disguised as arithmetic. It should appear naturally throughout, more frequently in moments of emotional intensity (when she counts more, the reader should understand she is feeling more).
+- **No direct declaration of desire**: This is the absolute constraint. The words "want," "desire," "love," "need" (in relation to Judith) must not appear as Nell's own statements. She may describe physical sensations, she may describe the world around Judith with unbearable attention, she may describe what her body does in Judith's presence. She may not name the feeling. The reader must supply the name.
+- **Period accuracy**: Canterbury Music Hall (real venue, Lambeth, operational in 1890s -- though transitioning to variety format by this period; use the transitional moment). Gas footlights were being replaced by electric in the 1890s (use both -- the transition itself is a detail). Lodging houses in Bermondsey/Lambeth. The specific material culture of a chorus girl's life: shared beds, carbolic soap, eel pies, omnibus rides.
+- **Avoid**: Tidy epiphanies, announced themes, symmetrical bookends (the opening and closing are both in the music hall but the prose register should be noticeably different), resolution of any kind. The story stops. It does not conclude.
 
 ---
 
 ## Synopsis (max 300 chars)
 
-A happiness auditor visits a man three units short on his quarterly contentment metrics. His answers are too honest for the form. Her report, pursuing precision over protocol, becomes something the system was never designed to receive.
-
----
-
-## Tone and Prose Directives for the Writer
-
-- **Voice**: Third-person limited, locked to Wren. Clinical, precise, Kafkaesque flat affect. The prose never signals that anything is absurd or wrong. It describes the audit the way one would describe an office procedure -- because that is what it is.
-- **Ogawa register**: Sensory details accumulate without commentary. The plant, the socks, the diagram, the sound of the refrigerator, the quality of the light. These are noted and left alone. They are not symbols. They are residue.
-- **Dialogue**: Spare. Lev speaks in short, tired, accurate sentences. Wren asks questions from the form. There are silences the story does not fill.
-- **The report fragments**: Interspersed through the text -- italicized or set apart -- as we see what Wren is actually writing on the form. These begin in standard bureaucratic language ("Subject presents with below-threshold contentment indicators consistent with routine deficiency") and gradually shift, almost imperceptibly, toward something rawer, more specific, more dangerously precise. The shift should be invisible on first read -- you notice it the way you notice the light has changed.
-- **Pacing**: Real-time. The audit takes approximately 45 minutes. The story covers that window. No flashbacks except the brief surfacing of Apartment 7-03D in Beat 4, which is handled as a pause, not a scene. No scenes outside the apartment.
-- **Ending**: No resolution. No epiphany. No tidy realization. Wren leaves. The plant is ambiguous. The reader completes the pattern. The last paragraph should feel like the moment after a door closes -- the specific quality of silence that follows.
-- **Avoid**: Sentimentality about Lev. Heroism from Wren. Any indication that Wren understands what she has done. Any scene outside the apartment. Any character other than Wren and Lev. Musical metaphors, weaving metaphors, or any other metaphor that announces itself. The words: delve, tapestry, testament, ineffable, profound, myriad.
+A chorus girl at a London music hall describes her growing intimacy with a wealthy woman patron in exquisite sensory detail, narrating everything about their encounters except the one thing she cannot name.
 
 ---
 
 ## Metadata
 
-- **Title**: Residue
-- **Slug**: the-happiness-audit
-- **Genre**: dystopian
-- **Subgenre**: bureaucratic-dystopia
-- **AuthorA**: Franz Kafka
-- **AuthorB**: Yoko Ogawa
-- **WorkX**: The Trial
-- **WorkY**: 1984
-- **Target Word Count**: 4,500 (range 4,200-4,800)
-- **Reading Time**: 18 minutes
-- **Tags**: [bureaucracy, compliance, happiness-metrics, auditing, feedback-loop, institutional-violence, clerical-conscience, contentment]
-- **Risk Card**: None
+- **Title**: Palimpsest with Limelight
+- **Slug**: hf-historical-romance-001
+- **Genre**: historical-fiction
+- **Subgenre**: historical-romance
+- **AuthorA**: Sarah Waters
+- **AuthorB**: Madeline Miller
+- **WorkX**: Tipping the Velvet
+- **WorkY**: Circe
+- **Target Word Count**: 5,400 (range 5,100-5,700)
+- **Reading Time**: 22 minutes
+- **Tags**: [queer-desire, 1890s-london, music-hall, withheld-information, palimpsest, phantom-limb, victorian, class, performance, solitude]
+- **Risk Card**: WITHHELD INFORMATION
