@@ -7,7 +7,7 @@ authorA: "Neil Gaiman"
 authorB: "George Saunders"
 workX: "Coraline"
 workY: "Lincoln in the Bardo"
-wordCount: 5736
+wordCount: 5631
 readingTimeMinutes: 23
 tags: ["waiting room", "afterlife", "grief", "portal", "dead letter office", "bureaucracy", "multiple voices", "daughter"]
 rating: 0
@@ -31,9 +31,9 @@ She counted them because counting was what she did. Fourteen years on the same m
 
 Fluorescent. Paneled. Two of the tubes flickering in a rhythm that was almost a pattern but never quite completed.
 
-The chairs were green. Molded plastic. Institutional in the way that speaks of a budget approved during a different administration. They were arranged in rows facing a counter, like a DMV or a social services office, and most of them were occupied. Forty-three chairs and maybe thirty-five people, and the people were doing what people do in waiting rooms: sitting, reading, staring at nothing, holding Styrofoam cups.
+The chairs were green. Molded plastic. Budget from a different administration. They were arranged in rows facing a counter, like a DMV, and most of them were occupied. Forty-three chairs and maybe thirty-five people, and the people were doing what people do in waiting rooms: sitting, reading, staring at nothing, holding Styrofoam cups.
 
-They looked up when she appeared. Some smiled. One man in the second row nodded the way men nod at each other across parking lots, which is to say: minimal, committed to nothing, acknowledging existence without encouraging conversation. A woman near the window waved.
+They looked up when she appeared. Some smiled. One man in the second row nodded the way men nod at each other across parking lots — minimal, committed to nothing. A woman near the window waved.
 
 The vending machine against the far wall offered sandwiches. Ham. Egg salad. Tuna. The prices were in a currency she didn't recognize. The expiration dates on the sandwiches all read the same thing: FRESH.
 
@@ -45,7 +45,7 @@ The girl said, "Mom, you're here."
 
 Nadia said, "Yes."
 
-She said it the way she said it when someone on the route asked if it was cold out and the answer was nineteen degrees and obvious. Yes. The composure that is not strength but the absence of a viable alternative.
+She said it the way she said it when someone on the route asked if it was cold out and the answer was nineteen degrees and obvious.
 
 The girl crossed the room and put her arms around Nadia and the arms were warm and the height was right and the smell was nearly right — the shampoo Nadia used to buy, the green apple one, discontinued two years ago — and somewhere in the architecture of the hug there was a gap she couldn't name, like a word on the tip of a tongue that won't arrive.
 
@@ -95,7 +95,7 @@ The Attendant notes that the new arrival (Kowalczyk, Nadia, 41, letter carrier, 
 
 The Attendant has prepared a mug.
 
-The mugs are not retrieved from storage. The Attendant wishes to be clear on this point. Each mug is specific to its recipient. Each mug has always existed in the cabinet, waiting for the person whose name it bears, in the manner that a seat at a table exists before the guest arrives. This is not magic. This is administration. The distinction matters to the Attendant, though the Attendant concedes that from the outside, administration and magic may be difficult to distinguish.
+The mugs are not retrieved from storage. The Attendant wishes to be clear on this point. Each mug is specific to its recipient. Each mug has always existed in the cabinet, waiting for the person whose name it bears, in the manner that a seat at a table exists before the guest arrives. This is not magic. This is administration.
 
 The Office has served four hundred and eleven thousand, six hundred and nine residents since the Attendant was first appointed. The Attendant does not recall the date of appointment. The Attendant recalls the feeling: the sense of a door closing behind, of a uniform settling onto shoulders, of a name being replaced by a title, the way a key is replaced by a lock.
 
@@ -143,13 +143,13 @@ The Attendant appeared at intervals. Not walking. Present, then absent, then pre
 
 "The feeling that familiar things are not quite familiar. It passes. The room calibrates."
 
-The Attendant said the word "calibrates" with the tenderness other people reserve for the word "heals."
+The Attendant said "calibrates" the way Nadia's supervisor said "bereavement leave." Gently. As if the word itself might bruise.
 
 ---
 
 ## The Attendant
 
-The Attendant observes that the new arrival is displaying Phase One behavior consistent with the 73rd percentile of intake profiles: physical stillness, ocular scanning, somatic rigidity in the hands and jaw. These are indicators of pattern recognition, which the Attendant considers a positive sign. The residents who notice the room's features are the residents who come to appreciate the room's features. Appreciation follows observation. This is axiomatic.
+The Attendant observes that the new arrival is displaying Phase One behavior consistent with the 73rd percentile of intake profiles: physical stillness, ocular scanning, somatic rigidity in the hands and jaw. These are indicators of pattern recognition, which the Attendant considers a positive sign. The residents who notice the room's features are the residents who come to appreciate the room's features.
 
 The Attendant notes that the girl (designation: 27-A, companion unit, configured to arrival specifications, active since initial intake request was — )
 
@@ -217,7 +217,7 @@ The girl said, "What's wrong, Mom?"
 
 Nadia said, "Nothing."
 
-The clock on the wall had hands that moved. She had been watching it. The second hand swept around and the minute hand crept forward and the numbers it pointed to were in the correct order. But the time it showed now was the same time it had shown when she arrived. The mechanism was running. The clock was not advancing. It was counting without accumulating, the way a person can breathe without living.
+The clock on the wall had hands that moved. She had been watching it. The second hand swept around and the minute hand crept forward and the numbers it pointed to were in the correct order. But the time it showed now was the same time it had shown when she arrived. The mechanism was running. The clock was not advancing. It was counting without accumulating.
 
 ---
 
@@ -273,7 +273,7 @@ And Nadia puts her hand on the push bar and the metal is cold. Actually cold. No
 
 The Attendant observes that the new arrival has reached the door.
 
-The door is always available. The door is not locked. The Attendant does not restrict access to the door, as restriction would be contrary to the Office's operating principles. The Office operates on the principle of voluntary residence. All residents are free to leave. The door exists as proof of this freedom. The Attendant has observed that the existence of the door is, for most residents, sufficient. The knowledge that departure is possible renders departure unnecessary. This is the door's primary function: not as an exit, but as evidence that an exit exists.
+The door is always available. The door is not locked. The Office operates on the principle of voluntary residence. All residents are free to leave. The door exists as proof of this freedom. The Attendant has observed that the existence of the door is, for most residents, sufficient. The knowledge that departure is possible renders departure unnecessary. This is the door's primary function: not as an exit, but as evidence that an exit exists.
 
 The Attendant does not recommend the door.
 
@@ -291,33 +291,31 @@ The Attendant has prepared refreshments for those who wish to remain. The coffee
 
 The girl did not flinch. She stood with the rolled magazine in her hand and her face was still and patient in the way that Zosia's face was never still and never patient because Zosia was a child who vibrated with the want of the next thing, who leaned forward in chairs, who ran when walking was available.
 
-"I know," the girl said.
-
-Nadia waited.
-
-"Stay anyway," the girl said. "It's warm. The room is warm. And I know the song. The one about the cat on the moon. And I know about Bernard. And I know Mrs. Hernandez has a dog. I know everything she knew. I have all the pieces."
+"That's a strange thing to say," the girl said. She smiled. The smile was correct.
 
 "The scar," Nadia said.
 
-"What?"
+"What scar?"
 
 "She had a scar on her left knee. From a bicycle on Kedzie Avenue. Seven stitches. She watched them go in."
 
-The girl looked down at her knees. Smooth. Unbroken. She looked back up.
+The girl looked down at her knees. Smooth. Unbroken. When she looked back up the smile was still there, unchanged, which was wrong because a real face would have shifted.
 
-"I could have a scar," the girl said. "The room could — it adjusts. The Attendant said. It calibrates."
+"The room adjusts," the girl said. "The Attendant said. It calibrates."
 
 "The gold fleck is in the wrong eye."
 
-"That can —"
+"Mom —"
 
 "Her laugh had a catch in it. From the breathing tube. After the second round of chemo her laugh had a hitch at the top, like a hiccup, and she hated it and then she didn't hate it and then it was just how she laughed. Yours doesn't catch."
 
-The girl was quiet.
+The girl was quiet. Then she said: "Stay anyway. I know the song. I know about Bernard. I know Mrs. Hernandez has a dog. I have all the pieces. Isn't that enough?"
+
+The smile was gone. What replaced it was not grief — the girl was not built for grief. What replaced it was effort. The visible work of a thing trying to be what it was made to resemble.
 
 Nadia touched the girl's hair. The braid was tight, the way she used to do it. The hair was soft. It was room temperature.
 
-She said something. It was quiet enough that from across the room, from the vantage point of a man in the fourth chair from the left in the second row, it would have been inaudible. It might have been a name. It might have been goodbye. It might have been the first line of the song about the cat on the moon. It started in one register and ended somewhere else entirely, and the girl did not respond because the girl was looking at her knees, at the place where a scar should have been, with an expression that was not grief — the girl did not grieve, the girl was not configured for grief — but was something adjacent, something that occupied the same neighborhood as grief without having grief's address.
+She said something. It was quiet enough that from across the room, from the vantage point of a man in the fourth chair from the left in the second row, it would have been inaudible. It might have been a name. It might have been goodbye. It might have been the first line of the song about the cat on the moon. It started in one register and ended somewhere else entirely, and the girl did not respond because the girl was looking at her knees, at the place where a scar should have been.
 
 Nadia pushed the bar.
 
@@ -325,7 +323,7 @@ The door opened.
 
 The hallway was cold and smelled like February and somewhere very far away, or very close, a siren was making the sound that sirens make when they are coming for someone and Nadia stepped through and did not look back. Not because she was brave. Because looking back would end her.
 
-The door closed. The pneumatic hinge sighed the way institutional doors sigh, a slow mechanical exhalation, and then the seal met the frame and the hallway smell was gone.
+The door closed. The pneumatic hinge gave its slow exhale, the seal met the frame, and the hallway smell was gone.
 
 ---
 
@@ -341,7 +339,7 @@ Mrs. Takahashi's chair is empty. It's been empty since 2003. Nobody sits in it. 
 
 I hope she found something. Nadia. Through the door. I hope the hallway leads somewhere and the somewhere is cold and smells like diesel and has weather and has endings and has the kind of mornings where your breath comes out in shapes. I hope it's February and the mail is heavy and the route is long and none of it is fine. I hope none of it is fine. Because fine is —
 
-The sandwich situation, I should note, remains unchanged. The ham is reliable. The egg salad is inadvisable. The tuna is
+The ham is reliable. The egg salad is inadvisable. The tuna is
 
 The tuna is fine.
 
