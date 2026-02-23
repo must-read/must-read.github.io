@@ -7,8 +7,8 @@ authorA: "Stanislaw Lem"
 authorB: "Becky Chambers"
 workX: "Solaris"
 workY: "The Long Way to a Small, Angry Planet"
-wordCount: 7467
-readingTimeMinutes: 30
+wordCount: 7280
+readingTimeMinutes: 29
 tags:
   - "first-contact"
   - "xenolinguistics"
@@ -137,7 +137,7 @@ Ewa did not ask what she was doing it for. The answer was sitting in the questio
 
 By month nineteen, the cribbage board sat in Ewa's quarters with the last game still pegged. She had been winning -- forty points ahead, well past the front peg's position on the outer track. She had walked away mid-hand. Something on her screen had caught her attention, some shift in the emissions that seemed urgent at the time and that she could no longer distinguish from the twelve hundred other shifts she had catalogued since. She had said "hold on" and gone to her terminal and not come back.
 
-That was seven months ago. The bone pegs sat in their holes like small monuments to something that used to happen every evening and now did not. Dariusz had not asked her to play in four months. He had stopped dealing solo hands in the galley. He had stopped pretending it did not bother him, which was worse, because the pretending had been a kind of communication and its absence was a kind of silence.
+That was seven months ago. The bone pegs sat in their holes like small monuments to something that used to happen every evening and now did not. Dariusz had not asked her to play in four months. He had stopped dealing solo hands in the galley. He had stopped pretending it did not bother him, which was worse, because the pretending had been its own kind of signal and its absence was its own kind of data.
 
 ---
 
@@ -171,13 +171,11 @@ She pulled up her graduate research on quorum sensing. The papers were eight yea
 
 In quorum sensing, individual bacteria release autoinducer molecules as a metabolic byproduct -- not as messages, not as communication, but as chemical exhaust, the molecular equivalent of breathing. Each bacterium produces a tiny concentration of autoinducer. The molecules accumulate in the environment. When the local population density crosses a threshold -- when enough bacteria are exhaling enough autoinducer into a small enough space -- the accumulated concentration triggers a coordinated behavior change. The colony forms a biofilm. Or it begins to produce light. Or it becomes virulent. The individual bacterium did not decide to communicate. The collective response is real. The colony transforms. But no individual sender sent a message to any individual receiver.
 
-Communication without a communicator. Signal without sender. Response without intention.
-
 She wrote in her journal:
 
 *What if the anomaly functions like a quorum-sensing system? What if our transmissions are not being received and answered but are instead adding to an accumulated input density that triggers a phase change in the anomaly's behavior? The transformed signal is not a reply. It is the anomaly crossing a threshold, the way a colony of bacteria crosses a threshold and begins to glow. Not because any individual signal told it to glow. Because the accumulated density of input reached a tipping point in a system that was already structured to respond to density.*
 
-*Not communication. Not not-communication. Something for which we don't have a word because we have never needed one.*
+*Not communication. Not not-communication.*
 
 She sat with this idea the way she had once sat with her best cribbage hands -- turning it over, counting the combinations, looking for the fifteens that scored and the fifteens that didn't. The framework explained everything. The framework resolved nothing. It meant that her nineteen months of "dialogue" might have been a monologue spoken at a system that transformed input the way a riverbed transforms water -- by existing in the path of flow. The water does not communicate with the riverbed. The riverbed does not respond to the water. But the water is shaped by the passage, and the shape is real.
 
@@ -197,7 +195,7 @@ He set down the soldering iron and looked at her. His face was tired in the spec
 
 Tomasz did not sleep for three nights. He appeared in the equipment bay at his usual 0300, but this time he did not leave at 0600. He replaced the entire secondary feed assembly, rerouted the gain staging through a bypass architecture of his own design, and recalibrated the array's pointing accuracy from 0.8 arcseconds to 0.3. When Ewa asked him why, he said the resolution improvement would let her distinguish between structural transformation and signal processing artifacts in the 40-gigahertz band. He said this in the flat, specific language of someone who understood antennas the way Priya understood lentils -- as a material to be worked, not a problem to be solved.
 
-He showed her the modification log. Forty-seven entries over seventy-two hours, each one a component replacement or recalibration or rerouting, each one documented in Tomasz's handwriting, which was cramped and precise and looked the way his soldering looked -- no waste, no ornament, every line carrying load. The log was not addressed to Ewa. It was addressed to the array. It read the way a conversation between two engineers reads when neither of them needs the other to be impressed.
+He showed her the modification log. Forty-seven entries over seventy-two hours, each one a component replacement or recalibration or rerouting, each one documented in Tomasz's handwriting, which was cramped and precise and looked the way his soldering looked -- no waste, no ornament, every line carrying load. The log was not addressed to Ewa. It was addressed to the array. It read like a conversation between two engineers when neither of them needs the other to be impressed.
 
 Lise plotted a closer approach. The numbers were tight -- the fuel budget was already strained, and a closer orbit would commit them to a trajectory that narrowed their options for the return leg. She showed Ewa the calculations on her screen, the margins highlighted in yellow where they had been green, and explained that the approach would give them nine days at close range before they had to break off or risk missing their resupply window.
 
@@ -221,7 +219,7 @@ Each new data point opened new interpretive possibilities without closing old on
 
 On the third day of the close approach, she caught herself humming. She did not know what she was humming or when she had started. The sound was tuneless, rhythmic, keyed to the cadence of the emission clusters on her screen -- the nine-to-fourteen-second intervals rendered as a vocalization that she was producing without deciding to produce it. She stopped. Listened to the recyclers. Started humming again without noticing she had started. Her body was doing what bodies do when they sit in the presence of a rhythm for too long: synchronizing. Entraining. The same involuntary alignment that makes two pendulum clocks on the same wall gradually match their swings. She was not responding to the anomaly. She was responding to the data representation of the anomaly, which was three abstractions removed from whatever the anomaly actually was. She wrote this in her journal and underlined it, as though the underlining could prevent her from forgetting the distance between the thing and the screen and the eyes and the mind.
 
-She had not slept in thirty-one hours. She had lost weight -- her trousers sat differently, her wrist bones were more prominent, and these were facts she noticed the way she noticed the scuff on the wall, without acting on them. Priya's soup arrived outside the lab door in a covered bowl that kept it warm for approximately forty minutes before the ship's ambient temperature won. Ewa sometimes drank it warm. Sometimes she found it cold. Sometimes she found it gone, collected by Priya during one of the cook's circuits through the ship, which happened at intervals Ewa no longer tracked.
+She had not slept in thirty-one hours. She had lost weight -- her trousers sat differently, her wrist bones were more prominent, and these were facts she noticed without acting on them. Priya's soup arrived outside the lab door in a covered bowl that kept it warm for approximately forty minutes before the ship's ambient temperature won. Ewa sometimes drank it warm. Sometimes she found it cold. Sometimes she found it gone, collected by Priya during one of the cook's circuits through the ship, which happened at intervals Ewa no longer tracked.
 
 ---
 
@@ -253,19 +251,19 @@ She wanted to say that the anomaly was important. That the work was important. T
 
 "You were forty points ahead. You were going to win. You walked away from winning."
 
-There was a silence that was not silence -- the recyclers hummed, the hull vibrated, the water system flushed somewhere behind the walls -- but that functioned as silence in the way that mattered, which was that neither of them was speaking and both of them were listening to the absence of speech.
+There was a silence that was not silence -- the recyclers hummed, the hull vibrated, the water system flushed somewhere behind the walls -- but that stood in for it.
 
 "I should get back," Ewa said.
 
 Dariusz looked at her. His anger was specific and unglamorous and completely undressed. He was not angry about the mission or her professional priorities or the philosophical implications of first contact. He was angry about the card games. He missed the card games. He missed sitting across from her at the galley table and arguing about whether a double run counted for eight and drinking the tea that Priya left out and pegging bone pegs into holes in a piece of linden wood. He missed his friend. The rest of it -- the anomaly, the signals, the question of whether humanity was alone in the universe -- was too large for his anger, which was small and personal and about pegs.
 
-He stepped aside. She walked past him. The corridor was quiet except for the hum of recycled air that sounded, if you had been listening to signals for too long, a little like a frequency.
+He stepped aside. She walked past him. The corridor was quiet except for the hum of recycled air.
 
 ---
 
 On the eighth day of the close approach, the anomaly's emissions contained something Ewa could not categorize.
 
-Not the transformed signal -- she had logged forty-three more instances of structural transformation since the first, each preserving mathematical relationships through unfamiliar functions, each consistent with both intentional communication and natural signal processing, each adding to the pile of evidence that pointed in every direction simultaneously. The transformations were remarkable. The transformations were insufficient. They told her something was happening. They did not tell her what.
+Not the transformed signal -- she had logged forty-three more instances of structural transformation since the first, each preserving mathematical relationships through unfamiliar functions, each consistent with both intentional communication and natural signal processing, each adding to the pile of evidence that pointed in every direction simultaneously. The transformations were insufficient. They told her something was happening. They did not tell her what.
 
 This was different. A pattern in the emissions that corresponded to nothing she had sent, that mapped onto no known mathematical structure, that was too ordered to be noise and too alien to be language. It sat on her screen like a sentence in an alphabet she had never seen -- recognizable as writing, unreadable as text. She ran it through every analytical framework she had built over nineteen months. None of them found purchase. The pattern existed outside her categories the way the anomaly itself existed outside her categories -- not hostile, not friendly, not indifferent, but something for which "attitude toward us" was not a meaningful axis.
 
@@ -277,15 +275,13 @@ She closed the journal. Opened it. The cursor blinked.
 
 She wrote: *I don't know what this is.*
 
-She waited for the hypothesis to follow. It had always followed. In nineteen months of not-knowing, her mind had always produced the next guess, the next framework, the next model that might accommodate the data. The hypotheses were wrong -- they were always wrong, or right in ways she could not confirm, which was functionally identical -- but they were there. They filled the space between observation and understanding with something that felt like progress even when it was not progress but only motion.
+She waited for the hypothesis to follow. It had always followed. In nineteen months of not-knowing, her mind had always produced the next guess, the next framework, the next model that might accommodate the data. The hypotheses were wrong -- they were always wrong, or right in ways she could not confirm, which was functionally identical -- but they were there. They filled the space between observation and understanding with something that felt like progress even when it was only motion.
 
 The hypothesis did not come.
 
 She stared at the five words on the screen. They sat there without company. No "but perhaps." No "consistent with." No "one possible interpretation." Just the admission, naked and unqualified, of not knowing.
 
-She saved the journal entry and sat in her chair and listened to the recyclers and the hull and the distant, arrhythmic hum of Tomasz working on something in the equipment bay, and she did not know what the anomaly was, and for the first time in nineteen months the not-knowing did not immediately transform itself into a question that demanded an answer.
-
-It remained a not-knowing. It sat there. She sat with it.
+She saved the journal entry and sat in her chair and listened to the recyclers and the hull and the distant, arrhythmic hum of Tomasz working on something in the equipment bay. She did not know what the anomaly was. The not-knowing did not transform itself into a question. It sat there. She sat with it. Whether this was exhaustion or the beginning of something she could not say, and she did not try to say it.
 
 Priya came to the lab at 2130. She brought soup -- the thin version, the one made from the last of the good lentils stretched with stock and whatever Priya was using to approximate the texture she wanted, which was not quite the texture she achieved but was close enough that only Priya could tell the difference. She sat on the stool by the door and ate her own bowl and did not ask about the data on the screens. She did not ask about anything. She ate soup and was present in the room the way the stool was present in the room -- solidly, without requiring attention.
 
@@ -305,7 +301,7 @@ Dariusz had reset the pegs.
 
 He had taken the board from her quarters. He had pulled the bone pegs from their holes -- her peg at a hundred and eight, his at sixty-two, the positions where they had sat for seven months, recording a score from a game that was never finished. He had set them back to zero. Both pegs at the start.
 
-Either he was inviting a new game or he was erasing the evidence that the old one had mattered. Either the zeroed pegs meant "begin again" or they meant "this is what you left: nothing." And Ewa, who had spent nineteen months trying to determine whether the anomaly's signals meant something or nothing, could not determine which meaning the pegs carried, because the pegs -- like the signals, like the transformations, like the emissions, like everything she had observed and catalogued and failed to understand -- supported both readings with equal conviction and refused to collapse into one.
+Either he was inviting a new game or he was erasing the evidence that the old one had mattered. Either the zeroed pegs meant "begin again" or they meant "this is what you left: nothing." And Ewa, who had spent nineteen months trying to determine whether the anomaly's signals meant something or nothing, could not determine which meaning the pegs carried, because the pegs -- like the signals, like the transformations, like the emissions -- supported both readings and refused to collapse into one.
 
 ---
 
@@ -321,44 +317,40 @@ She noted the shift. She logged the parameters. She saved the file.
 
 She did not interpret it.
 
-She sat with the shift the way she sat with the soup -- taking it in, letting it be what it was, not asking it to resolve into something that would tell her whether she had spent nineteen months in conversation or in monologue. The shift existed. It had happened. Whether it was for her was a question she could not answer, and for the first time the inability to answer felt less like a failure of her training and more like a quality of the thing she was observing -- a quality that might be irreducible, that might not be a gap in her understanding but a feature of the phenomenon itself.
-
-Or it might be a failure. She might be wrong. She might be projecting patience onto exhaustion, acceptance onto defeat, meaning onto the absence of meaning. She could not tell. The not-knowing was the same not-knowing it had been for nineteen months, but it sat differently in her body now, the way a word you have said a thousand times occasionally sounds unfamiliar -- not because it has changed but because you have heard it enough to hear it fresh.
-
 She turned off the terminal. The screens went dark. The lab was quiet except for the recyclers and the faint tick of the hull contracting in some temperature gradient she had never bothered to ask Tomasz about.
 
 She walked to the galley.
 
-The light in the corridor was the same flat white it always was. The scuff on the galley wall was where it always was. The pot on the stove had its dent. The ship smelled like cumin and recycled air and the faintly metallic nothing of filtered water. Everything was where it had been for nineteen months, and everything was exactly the same, and she was walking toward the galley at 2300 ship time with nothing in her hands and nothing resolved and nothing answered.
+The scuff on the wall was where it always was. The pot on the stove had its dent. The ship smelled like cumin and recycled air and the faintly metallic nothing of filtered water.
 
-Dariusz was sitting at the table. The cribbage board was in front of him -- the linden wood, the sanded track, the holes drilled in rows. The bone pegs were set at zero. Both of them. Start positions. A deck of cards sat beside the board, squared and shuffled, waiting to be cut.
+Dariusz was sitting at the table. The cribbage board was in front of him -- the linden wood, the sanded track, the holes drilled in rows. The bone pegs were set at zero. A deck of cards sat beside the board, squared and shuffled, waiting to be cut.
 
 He looked up when she came in. He did not say anything. His face was the face of a person who was not going to make this easy by speaking first, because he had spoken first in the corridor six days ago and that was his turn and now it was hers.
 
-Ewa stood in the doorway. Behind her, down the corridor, through two bulkheads and the sealed lab door, the anomaly continued its emissions -- the 38-to-44-gigahertz clusters, the quasi-periodic structures, the patterns that were or were not patterns. It would be there tomorrow. It would be there during the forty-one remaining hours of close approach and after the pullback and after the resupply and after whatever came next. It did not need her to watch it. It did not need her at all. Or it did need her, in the way a quorum-sensing system needs accumulated input to cross its threshold, and her absence would be a subtraction from a density that might or might not matter in a calculus she could not access.
+Ewa stood in the doorway. Behind her, down the corridor, through two bulkheads and the sealed lab door, the anomaly continued its emissions -- the 38-to-44-gigahertz clusters, the quasi-periodic structures, the patterns that were or were not patterns. It would be there tomorrow. It would be there during the forty-one remaining hours of close approach and after the pullback and after the resupply and after whatever came next. It did not need her to watch it tonight. Or it did, and her absence would be a subtraction from a density that might or might not matter.
 
 She looked at the board. The zeroed pegs. The fresh deck.
 
-She pulled out the chair across from him. The legs scraped against the floor. She sat down. The chair was the same chair she had sat in for ten months of evening games, and it fit her the same way, and the table was the same height, and Dariusz's face across from her was the same face, a little older, a little angrier, a little more worn in the way that faces wear when they have been waiting for something and have not received it.
+She pulled out the chair across from him. The legs scraped against the floor. She sat down.
 
 He cut the deck. She cut below him -- a four to his nine. His deal.
 
-He dealt six cards each, the way you do in cribbage, with the quick practiced motion of someone who has dealt thousands of hands and does not think about it. The cards fell in front of her in a row. She picked them up.
+He dealt six cards each with the quick practiced motion of someone who has dealt thousands of hands and does not think about it. The cards fell in front of her in a row. She picked them up.
 
-Six cards. She looked at them. A seven, a five, a jack, a three, a nine, a six. She needed to keep four and discard two to the crib, which was Dariusz's this hand. The seven and the five made twelve, and the three made fifteen. Two points. The five and the jack -- the jack with the five gave her nobs if the starter was the same suit, but that was a gamble. The six and the nine made fifteen. Another two points.
+Six cards. A seven, a five, a jack, a three, a nine, a six. She needed to keep four and discard two to the crib, which was Dariusz's this hand. The seven and the five made twelve, and the three made fifteen. Two points. The five and the jack -- the jack with the five gave her nobs if the starter was the same suit, but that was a gamble. The six and the nine made fifteen. Another two points.
 
-She started counting. The combinations assembled themselves the way they always did -- some cards counting, some not, the scoring patterns emerging from the same hand that also contained non-scoring patterns, and the rules that determined which combinations counted were the rules of cribbage, which were conventions, not laws, which were the agreed-upon framework two people used to assign meaning to an arrangement of cards that had no meaning outside the agreement.
+She started counting. The combinations assembled themselves the way they always did -- some cards counting, some not, the scoring patterns emerging from the same hand that also contained non-scoring patterns, and the rules that determined which combinations counted were conventions, not laws, agreed upon so that the cards meant anything at all.
 
-She discarded the nine and the three to Dariusz's crib. He gathered them without looking, the way he always did, because looking at the crib before the play was cheating and Dariusz did not cheat. He turned the starter card from the top of the deck: a five.
+She discarded the nine and the three to Dariusz's crib. He gathered them without looking, because looking at the crib before the play was cheating and Dariusz did not cheat. He turned the starter card from the top of the deck: a five.
 
 "Fifteen for two," Ewa said, and led with the jack.
 
 Dariusz played a four from his hand. "Nineteen."
 
-Nineteen. The impossible score. In cribbage, no combination of cards can total exactly nineteen points, so "nineteen" is what you say when your count is zero. A number that sounds like something but means nothing. Or a number that means exactly what it says and what it says is: this is a hand that does not score, and I am telling you so honestly, with a word that contains the knowledge of its own emptiness.
+No combination of cards in cribbage can total exactly nineteen points, so "nineteen" is what you say when your count is zero. A number that means nothing. Or a number that means exactly what it says.
 
-Ewa looked at Dariusz across the table. He looked back at her. The pegs were at zero. The soup was on the stove. Somewhere behind the walls, the water recycler hummed. Somewhere beyond the hull, the anomaly continued to emit -- patterns that might be signals, signals that might be patterns, a phenomenon that would not confirm or deny, that simply was, that simply continued, the way the ship continued and the soup continued and the card game continued.
+Ewa looked at Dariusz across the table. He looked back at her. The pegs were at zero. Somewhere behind the walls, the water recycler hummed. Somewhere beyond the hull, the anomaly continued to emit.
 
 She played her five. "Twenty-four."
 
-The game went on.
+Outside, the anomaly shifted again. Nobody was watching.
