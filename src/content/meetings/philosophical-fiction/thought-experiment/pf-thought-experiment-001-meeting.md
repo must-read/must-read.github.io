@@ -5,7 +5,7 @@ genre: "philosophical-fiction"
 subgenre: "thought-experiment"
 authorA: "Ted Chiang"
 authorB: "Jorge Luis Borges"
-workSlug: "pf-thought-experiment-001"
+workSlug: "layers-approaching-rest"
 wordCount: 3267
 publishedDate: "2026-02-23"
 ---
