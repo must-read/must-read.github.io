@@ -18,8 +18,8 @@ tags:
   - bullshit-jobs
   - ethical-capitalism
   - measurement-culture
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: 2026-02-23
 status: "published"
 formulaSummary: >
@@ -49,7 +49,7 @@ combination:
     - The Dead Letter Office as structural echo — messages that never reach their intended recipients, conference sessions that address harms without touching them
   fromWorkY:
     - The entire conference as a box-ticking convention — an industry that exists to produce the appearance of accountability, where the appearance is the product
-    - Graeber's taxonomy made flesh: flunkies, goons, duct tapers, box tickers, and taskmasters all present in the speaker bios and sponsor acknowledgments
+    - "Graeber's taxonomy made flesh: flunkies, goons, duct tapers, box tickers, and taskmasters all present in the speaker bios and sponsor acknowledgments"
     - The load-bearing nothing — ethical AI consulting as the thing that allows everyone to behave as though something is being done, so the not-doing can continue at scale
 ---
 

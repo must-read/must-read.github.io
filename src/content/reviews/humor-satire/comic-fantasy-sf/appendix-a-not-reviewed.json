@@ -3,8 +3,8 @@
   "reviews": [
     {
       "personaId": "hum-001-felicity",
-      "rating": 5,
-      "text": "The structural conceit here is flawless: a bureaucratic form that, through its own perfectly reasonable internal logic, erases a sentient civilization. Every checkbox is defensible. Every auto-calculation is correct. And the result is monstrous. What elevates this beyond clever premise is Okonkwo's voice \u2014 the footnotes carry all the weight the form strips out. \"I am aware of what I have done here\" is devastating precisely because it's buried in a footnote about carbon classification. The comedy never undermines the horror, and the horror never drowns the comedy. That balance is extraordinarily difficult to maintain, and this piece never wobbles.",
+      "rating": 4,
+      "text": "The structural conceit is strong: a bureaucratic form that, through its own perfectly reasonable internal logic, erases a sentient civilization. Every checkbox is defensible. Every auto-calculation is correct. And the result is monstrous. Okonkwo's footnotes carry real weight, and \"I am aware of what I have done here\" buried in a carbon classification note is a genuine gut-punch. Where it loses me slightly is the middle third \u2014 the repetition of the truncation gag starts to feel mechanical, and the piece occasionally reaches for pathos it hasn't fully earned through the formal constraint alone. A very clever piece that doesn't quite achieve the emotional depth its ambition demands.",
       "date": "2025-12-14",
       "helpfulCount": 48
     },
@@ -17,15 +17,15 @@
     },
     {
       "personaId": "hum-003-nadia",
-      "rating": 5,
-      "text": "This is institutional violence rendered as comedy, and it works because the satire is structurally precise rather than merely angry. The Sentience Composite Index is the centrepiece: a scoring system that awards zero for \"Other\" because nobody added a corresponding value in nine revisions. That detail alone is worth the piece \u2014 it captures exactly how institutional harm operates, not through malice but through categories that were never designed for what they encounter. Okonkwo's compliance is the most uncomfortable element. He checks the boxes because the alternative is losing his flat and his fern, and the story refuses to judge him for it while also refusing to let him off the hook. The fern line \u2014 \"The fern is not the point. But the fern is also not not the point\" \u2014 is doing real philosophical work about complicity and scale.",
+      "rating": 4,
+      "text": "This is institutional violence rendered as comedy, and it works because the satire is structurally precise rather than merely angry. The Sentience Composite Index is the centrepiece: a scoring system that awards zero for \"Other\" because nobody added a corresponding value in nine revisions. That detail alone captures how institutional harm operates \u2014 not through malice but through categories that were never designed for what they encounter. Okonkwo's compliance is the most uncomfortable element. He checks the boxes because the alternative is losing his flat and his fern. My reservation is that the piece is ultimately more clever than moving. The formal constraint is brilliantly executed, but it keeps the reader at analytical distance \u2014 admiring the mechanism rather than feeling the loss. The Appendix breaks this distance, but by then the tonal shift feels earned only partially.",
       "date": "2026-01-22",
       "helpfulCount": 62
     },
     {
       "personaId": "hum-004-roger",
-      "rating": 5,
-      "text": "Forty years in the civil service and I have never seen anyone get the machinery of institutional failure quite this right. The form revisions alone \u2014 12.1 allowed supplementary observations, 12.2 introduced auto-population, 12.3 made it mandatory, each one \"more efficient\" and each one less capable of describing reality \u2014 that is exactly how it works. Not conspiracy, not incompetence, just iteration toward blindness. The supervisor's margin notes are perfect. Hallam isn't evil; Hallam is doing his job, which is the whole point. I'd have this on every induction reading list if I still had any say in the matter.",
+      "rating": 4,
+      "text": "Forty years in the civil service and I recognise the machinery here. The form revisions alone \u2014 12.1 allowed supplementary observations, 12.2 introduced auto-population, 12.3 made it mandatory, each one \"more efficient\" and each one less capable of describing reality \u2014 that is close to how it actually works. Not conspiracy, not incompetence, just iteration toward blindness. Hallam isn't evil; Hallam is doing his job. Where it falls short of a perfect mark is the narrowness of the audience. This is satire aimed at people who have sat in those meetings and filled in those forms. For anyone outside that world, some of the formal jokes may land as tedium rather than recognition. Effective but specialised.",
       "date": "2025-09-18",
       "helpfulCount": 71
     },
@@ -34,7 +34,7 @@
       "rating": 3,
       "text": "Smart, well-built, but I wanted more laughs. The \"probably argon, but sad\" line is gold, and the footnote about the jurisdictional dispute that can't be acknowledged because acknowledging it requires the form that requires agreement on the thing they're disputing \u2014 that's a perfect comic mechanism. But large stretches of the middle read more like a thought experiment than a comedy. The Appendix at the end is beautiful writing, sure, but it's not funny. It's moving. And I came here to laugh.",
       "date": "2026-02-08",
-      "helpfulCount": 6
+      "helpfulCount": 24
     },
     {
       "personaId": "hum-006-oliver",

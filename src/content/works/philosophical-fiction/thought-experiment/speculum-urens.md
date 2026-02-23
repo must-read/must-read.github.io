@@ -24,8 +24,8 @@ tags:
   - thought-experiment
 publishedDate: 2026-02-23
 status: "published"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 formulaSummary: >
   Eco's encyclopedic medieval erudition and Latin-saturated intellectual register
   meet Chiang's crystalline precision at the moment abstract knowledge becomes

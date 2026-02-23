@@ -19,7 +19,7 @@ tags:
   - first contact
   - cosmic absurdism
   - institutional violence
-rating: 4.5
+rating: 3.9
 ratingCount: 8
 publishedDate: 2026-02-22
 status: "published"

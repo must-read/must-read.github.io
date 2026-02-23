@@ -20,8 +20,8 @@ tags:
   - absorption
   - tent-camp
   - oak-galls
-rating: 3.5
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 publishedDate: 2026-02-23
 status: "published"
 formulaSummary: >

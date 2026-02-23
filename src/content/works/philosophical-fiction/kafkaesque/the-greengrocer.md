@@ -20,8 +20,8 @@ tags:
   - lightness-and-weight
 publishedDate: 2026-02-23
 status: "published"
-rating: 3.0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 formulaSummary: >
   Kafka's matter-of-fact surrealism and bureaucratic architecture fused with Orwell's transparent political prose. The Trial provides the structure of circular institutional referrals — four offices, each deferring to the next, each individually reasonable and collectively inaccessible. The Unbearable Lightness of Being provides the thematic inversion: eleven years of meaningless routine carry no weight, but a single morning's absence becomes unbearably heavy. The combination produces a story where the horror is not confusion but comprehension — the reader always knows exactly what is happening, and what is happening is that form has entirely consumed content.
 synopsis: >

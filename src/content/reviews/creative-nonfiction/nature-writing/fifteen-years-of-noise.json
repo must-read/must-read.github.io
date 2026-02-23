@@ -1,0 +1,61 @@
+{
+  "workSlug": "fifteen-years-of-noise",
+  "reviews": [
+    {
+      "personaId": "cnf-001-miriam",
+      "rating": 3,
+      "text": "The sentence-level craft here is real. \"She did not detect it. She stopped being unable to detect it\" is the kind of line that earns its place on the page. But the essay has a moral vacancy at its center that I can't get past. Ruth gives up her marriage, her friendships, her entire social existence for this work, and the essay treats that sacrifice with the same flat affect Ruth herself brings to her data. That's either a brave formal choice or an evasion, and I keep landing on evasion. The dog does heavy lifting that the essay's emotional architecture should be doing on its own. Where is the reckoning? She chose a monastery, fine \u2014 but monastics interrogate their renunciation. Ruth just files it.",
+      "date": "2025-12-14",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "cnf-002-patrick",
+      "rating": 4,
+      "text": "The prose is very good and mostly knows when to stop. The institutional inventory \u2014 beige fans, government chairs rated for 250 pounds, carpet \"the gray-green of something that was once a color\" \u2014 is precise without being showy. But it's about five hundred words too long. The chronological rundown from 2009 to 2020 sags in the middle, and some of the science exposition could be cut by a third. The ending is nearly perfect: the faucet, the tightened handle, the silence. That restraint is harder to pull off than it looks.",
+      "date": "2025-09-22",
+      "helpfulCount": 16
+    },
+    {
+      "personaId": "cnf-003-yeon",
+      "rating": 4,
+      "text": "What interests me most is the sense of place \u2014 not Green Bank as scenery but as a condition of perception. The Quiet Zone as a space where \"the air has a quality she has never been able to name\" works because the essay refuses to name it, either. The Norfolk windmill passage is a fine structural counterweight, anchoring an American landscape essay to a European image without forcing a parallel. The restraint is admirable. But I notice the essay leans on the first person less than it appears to \u2014 Ruth is rendered in tight third, almost clinical \u2014 and this creates a curious distance. We orbit her the way she orbits her data. Whether that distance is the essay's subject or its limitation, I am not entirely sure.",
+      "date": "2026-01-08",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "cnf-004-ruth",
+      "rating": 5,
+      "text": "I haven't been able to stop thinking about this. The moment when Paul says \"that's what I mean\" and she files it like a timing residual \u2014 I had to put it down and just sit with that. And then the dog, Keppler, pressing his nose into her knee at the end, after the biggest discovery of her career, and she says nothing because nothing would be more accurate than the scratch behind the ears. I actually teared up. The whole essay is about waiting for something enormous and discovering that the enormous thing feels like almost nothing, and that paradox just broke me open. This is going on the shelf at the store, face out.",
+      "date": "2026-02-11",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "cnf-005-diego",
+      "rating": 3,
+      "text": "A well-executed portrait of scientific obsession in a deliberately isolated American landscape. The Quiet Zone as regulatory regime is interesting \u2014 thirteen thousand square miles of mandated electromagnetic silence enforced by federal law since 1958. There is a political essay lurking here about who gets to impose silence on a region, what happened to the communities that existed before the telescope, how the economics of Pocahontas County relate to the federal installation. That essay is not written. Instead we get a solitary white woman's interior life and an aging dog. The prose is careful. The scope is narrow in ways that feel like a choice, and also like a missed opportunity.",
+      "date": "2025-10-30",
+      "helpfulCount": 20
+    },
+    {
+      "personaId": "cnf-006-sam",
+      "rating": 3,
+      "text": "The section breaks are doing real work here, and I appreciate how the white space functions as silence \u2014 the essay's form mirrors the Quiet Zone. But formally this is still quite traditional. Linear chronology, a single protagonist, a narrative arc that peaks at the detection and then resolves in domestic quietude. The year-by-year catalog (2009, 2011, 2012, 2015...) reads like a timeline, not a structure. The windmill digression is the most formally interesting move \u2014 an image dropped in from another country, another century \u2014 but the essay doesn't trust it enough to let it do more. I wanted the fragmentary impulses to push harder against the conventional throughline.",
+      "date": "2025-11-17",
+      "helpfulCount": 18
+    },
+    {
+      "personaId": "cnf-007-frank",
+      "rating": 4,
+      "text": "Look, I don't understand pulsars and I still couldn't put this down. The woman sits in a chair for fifteen years waiting for a wobble in spacetime, and when it finally shows up she goes to the vending machine and gets a coffee she doesn't drink. That's real. That's how big moments actually feel. The part about the husband leaving \u2014 \"she experienced the departure six weeks after the fact, standing in the shower\" \u2014 hit me like a punch. And the dog. The dog who circles three times, always three, never two. This writer knows what loneliness looks like when the person living it doesn't call it loneliness.",
+      "date": "2026-02-01",
+      "helpfulCount": 37
+    },
+    {
+      "personaId": "cnf-008-priyanka",
+      "rating": 3,
+      "text": "Technically accomplished nature writing that nonetheless enacts a familiar American posture: the solitary genius in self-chosen wilderness, whose isolation is framed as spiritual discipline rather than privilege. Ruth \"chose it the way you choose a monastery\" \u2014 but monasticism is available only to those whose material conditions permit it, and the essay elides this entirely. The Quiet Zone is presented as a landscape of contemplation, not as an Appalachian community with its own economic realities. The Arecibo collapse is treated as a data loss, not as the destruction of a facility that mattered enormously to Puerto Rican science and identity. These are not flaws of craft \u2014 the prose is controlled and often beautiful \u2014 but of vision. The essay sees what its protagonist sees, and no further.",
+      "date": "2025-08-19",
+      "helpfulCount": 33
+    }
+  ]
+}

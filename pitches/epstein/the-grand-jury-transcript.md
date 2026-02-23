@@ -7,7 +7,7 @@ authorB: "Megan Abbott"
 workX: "An American Tragedy"
 workY: "A Time to Kill"
 source: "https://bedwards.github.io/epstein/"
-status: "pitch"
+status: "completed"
 priority: 1
 ---
 
