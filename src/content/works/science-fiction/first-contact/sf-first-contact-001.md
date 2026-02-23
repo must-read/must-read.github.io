@@ -20,8 +20,8 @@ tags:
   - "quorum-sensing"
   - "isolation"
   - "obsession"
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 11
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Lem's cerebral interrogation of incomprehensible aliens meets Chambers' warm found-family dynamics, through Solaris's contact-as-mirror structure and Long Way's crew-as-microcosm themes"

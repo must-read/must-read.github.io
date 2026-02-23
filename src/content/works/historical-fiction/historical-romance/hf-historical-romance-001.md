@@ -20,8 +20,8 @@ tags:
   - class
   - performance
   - solitude
-rating: 3.8
-ratingCount: 9
+rating: 3.6
+ratingCount: 8
 publishedDate: 2026-02-23
 status: "published"
 formulaSummary: >

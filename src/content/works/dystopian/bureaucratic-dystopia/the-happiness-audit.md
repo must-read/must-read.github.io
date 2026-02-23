@@ -10,8 +10,8 @@ workY: "1984"
 wordCount: 4180
 readingTimeMinutes: 17
 tags: ["bureaucracy", "compliance", "happiness-metrics", "auditing", "feedback-loop", "institutional-violence", "clerical-conscience", "contentment"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Kafka's matter-of-fact bureaucratic prose and cooperative protagonist meet Ogawa's emotionally muted sensory precision, applied to an Orwellian state that audits citizens' interior happiness using the domestic-space tribunal structure of The Trial."

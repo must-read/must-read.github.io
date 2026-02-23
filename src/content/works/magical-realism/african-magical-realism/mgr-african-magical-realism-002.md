@@ -20,8 +20,8 @@ tags:
   - phantom-limb
   - proverbs
   - ceremony
-rating: 3.8
-ratingCount: 9
+rating: 3.9
+ratingCount: 10
 publishedDate: 2026-02-23
 status: "published"
 formulaSummary: >
