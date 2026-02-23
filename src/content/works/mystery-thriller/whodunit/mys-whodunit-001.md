@@ -10,8 +10,8 @@ workY: "The Secret History by Donna Tartt"
 wordCount: 6110
 readingTimeMinutes: 24
 tags: ["cold case", "academic setting", "guilt", "class divide", "moral blindness", "whodunit", "detective fiction", "institutional decay"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Christie's meticulous puzzle construction and hidden-in-plain-sight clues meet Lehane's working-class emotional weight in a whodunit structured around Tana French's detective-unraveling-detective framework, infused with Donna Tartt's vision of guilt as corrosive force among the intellectually privileged."

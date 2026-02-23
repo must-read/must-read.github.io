@@ -10,8 +10,8 @@ workY: "Don Quixote by Miguel de Cervantes"
 wordCount: 3907
 readingTimeMinutes: 16
 tags: ["parody", "scholarly satire", "unreliable narrator", "footnotes", "academic comedy", "phantom islands", "obsession", "literary criticism"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Wodehousian comic voice and baroque similes fuel the early charm; Swiftian deadpan escalation drives the late horror; Pale Fire's text-and-commentary structure is the formal vehicle; a Don Quixote figure mistakes a mediocre poem for a masterpiece and tilts at every windmill the footnotes can find."

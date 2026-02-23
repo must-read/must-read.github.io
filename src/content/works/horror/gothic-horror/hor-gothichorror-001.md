@@ -10,8 +10,8 @@ workY: "Mexican Gothic by Silvia Moreno-Garcia"
 wordCount: 3622
 readingTimeMinutes: 14
 tags: ["gothic horror", "haunted house", "dual timeline", "colonial violence", "unreliable narrator", "Yucatan", "hacienda", "deposition", "frame narrative", "rising damp"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Poe's fevered unreliable narration and architecture-as-psyche fused with Enriquez's flat documentary horror of colonial violence, structured through James's frame narrative ambiguity and Moreno-Garcia's house-as-consuming-organism, split across dual timelines that speak through echo and inheritance."

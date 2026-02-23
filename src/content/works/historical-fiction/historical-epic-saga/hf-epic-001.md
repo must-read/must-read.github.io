@@ -10,8 +10,8 @@ workY: "Beloved by Toni Morrison"
 wordCount: 7502
 readingTimeMinutes: 30
 tags: ["multi-generational", "confession", "Lowcountry", "phosphate mining", "Reconstruction", "Great Migration", "land ownership", "haunting", "family saga", "Black American history"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "A four-generation confession in which a Lowcountry Black family's relationship to their land—built on ancient phosphate bone deposits—is told through shifting registers from myth to documentary to evasion, combining Whitehead's speculative-historical lens and Follett's material architecture with the confession form of The Sympathizer and the unresolvable haunting of Beloved."

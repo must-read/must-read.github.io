@@ -10,8 +10,8 @@ workY: "Piranesi by Susanna Clarke"
 wordCount: 5505
 readingTimeMinutes: 22
 tags: ["acoustic anomaly", "hidden rooms", "urban fantasy", "obsessive observation", "lost time", "apartment living", "building inspection", "notebooks", "domestic uncanny", "isolation"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: "Sanderson's systematic precision and Gaiman's matter-of-fact strangeness meet in a story that borrows its dual-register structure from Bulgakov's bureaucracy-meets-devil and its unreliable architecture of self from Clarke's Piranesi."
