@@ -1,5 +1,5 @@
 ---
-title: "Desire Path"
+title: "Palimpsest and Vinegar"
 slug: "mys-whodunit-001"
 genre: "mystery-thriller"
 subgenre: "whodunit"
