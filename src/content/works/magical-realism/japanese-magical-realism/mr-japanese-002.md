@@ -20,8 +20,8 @@ tags:
   - "semantic satiation"
   - "food memory"
   - "quiet compliance"
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: "2026-02-22"
 status: "published"
 formulaSummary: >

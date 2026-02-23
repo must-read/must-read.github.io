@@ -20,8 +20,8 @@ tags:
   - "whistleblower"
 publishedDate: 2026-02-22
 status: "published"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 formulaSummary: >
   Ellroy's telegraphic institutional voice and Abbott's body-aware noir sensibility collide in a story about a female prosecutor reconstructing how her boss sabotaged her trafficking case. The crushing predetermined machinery of Dreiser's trial structure meets Grisham's courtroom-as-moral-arena to expose the gap between law and justice in a system designed to protect power.
 synopsis: >

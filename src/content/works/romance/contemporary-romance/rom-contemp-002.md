@@ -19,7 +19,7 @@ tags:
   - years-of-circling
   - urban-planning
 rating: 3.8
-ratingCount: 0
+ratingCount: 9
 publishedDate: 2026-02-22
 status: "published"
 formulaSummary: >
