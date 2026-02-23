@@ -7,8 +7,8 @@ authorA: "Agatha Christie"
 authorB: "Dennis Lehane"
 workX: "In the Woods by Tana French"
 workY: "The Secret History by Donna Tartt"
-wordCount: 6160
-readingTimeMinutes: 25
+wordCount: 6110
+readingTimeMinutes: 24
 tags: ["cold case", "academic setting", "guilt", "class divide", "moral blindness", "whodunit", "detective fiction", "institutional decay"]
 rating: 0
 ratingCount: 0
@@ -39,15 +39,15 @@ She straightened and took the room in pieces.
 
 Two glasses on the desk. One with a residue ring — used. The other clean, turned upside down on a cloth napkin the way a person might set the table for a guest who hadn't arrived yet, or who had arrived and poured without being invited to drink. The used glass was at Calloway's left hand. Left-handed, she'd confirm later, but the positioning was wrong for someone pouring for himself. The bottle had been opened from the right side of the desk. Someone had sat across from him, opened his wine, poured him a glass, and either declined or brought their own and took it with them.
 
-She made a note. Looked at the bottle again. Barolo, 2018. Not cheap. The kind of bottle a man might keep in his desk for occasions, might mention to colleagues the way some people mentioned their children's schools — casually, with precision.
+She made a note. Looked at the bottle again. Barolo, 2018. Not cheap. The bottle a man might keep in his desk for occasions, might mention to colleagues the way some people mentioned their children's schools — casually, with precision.
 
-The desk blotter drew her attention. It was old, leather-cornered, the kind of thing that accumulated in offices where nobody ever renovated. Its surface was a compressed history of Calloway's tenure — two decades of handwriting pressed into the soft material, layer upon layer, the most recent notes legible, the older ones ghosting through in fragments. Phone numbers without names. Dates. Half-sentences in what looked like Latin. The blotter was a palimpsest, each year's business overwriting the last, none of it fully erased. Calloway's blood had seeped into one corner, a bright interruption in the muted record.
+The desk blotter drew her attention. It was old, leather-cornered, the sort of thing that accumulated in offices where nobody ever renovated. Its surface was a compressed history of Calloway's tenure — two decades of handwriting pressed into the soft material, layer upon layer, the most recent notes legible, the older ones ghosting through in fragments. Phone numbers without names. Dates. Half-sentences in what looked like Latin. The blotter was a palimpsest, each year's business overwriting the last, none of it fully erased. Calloway's blood had seeped into one corner, a bright interruption in the muted record.
 
 Nora photographed the blotter from four angles. She had learned early in her career that the things people wrote without thinking were more useful than the things they said on purpose.
 
 The office itself: floor-to-ceiling bookshelves, oak, probably original to the building. First editions behind glass — she counted six visible spines, all Greek and Latin titles she couldn't read. A framed letter on the wall beside the diploma, handwritten, the signature large enough to read from where she stood. A senator. The thank-you note was for a donation, or for facilitating one. Beside it, a small piece of Tuscan pottery, the kind you bought on a faculty sabbatical and placed where visitors could see it and ask about Florence. The oriental rug was worn but genuine. Nora knew the difference because her mother had spent thirty years looking at them in catalogs and never buying one.
 
-She stepped to the window. The November campus lay below — bare elms, stone buildings gone the color of ash in the early dark, the quad crisscrossed by paved walkways and, running alongside them like shadows, a network of unpaved tracks worn into the grass. Desire paths, she'd heard them called. The places where people actually walked instead of where the architects wanted them to walk. The groundskeeper, she would learn the next morning, had stopped replanting them a decade ago. The students just kept cutting the corners.
+She stepped to the window. The November campus lay below — bare elms, stone buildings gone the color of ash in the early dark, the quad crisscrossed by paved walkways and, running alongside them like shadows, a network of unpaved tracks worn into the grass. Desire paths. The places where people actually walked instead of where the architects wanted them to walk. The groundskeeper, she would learn the next morning, had stopped replanting them a decade ago.
 
 One of the desire paths ran behind the Classics building, close enough to the ground-floor window that someone walking it at night would pass within fifteen feet of where Calloway now sat with his face on his blotter and his wine turned to vinegar.
 
@@ -57,7 +57,7 @@ Nora made a note of that too.
 
 She interviewed them the next day, one by one, in a borrowed conference room in the administration building that smelled of industrial carpet and old coffee. The college had offered her Calloway's office and she had declined without explaining why. You don't interview suspects in the victim's space. The guilt clings to the furniture and you can't tell what you're reading.
 
-Adele Ramsay arrived first, at precisely the scheduled time. English Literature. Fifty-eight, silver-haired, wearing a scarf that Nora recognized as Hermès because her college roommate had owned a knockoff. Ramsay sat with her hands folded, her posture that of a woman accustomed to being in rooms where she was the most composed person present.
+Adele Ramsay arrived first, at precisely the scheduled time. English Literature. Fifty-eight, silver-haired, wearing a scarf that Nora recognized as Hermes because her college roommate had owned a knockoff. Ramsay sat with her hands folded, her posture that of a woman accustomed to being the most composed person in any room.
 
 "Edwin and I were colleagues for twenty-six years," she said. "We came up together in the graduate program here. Different departments, of course, but Whitfield was small enough that the cohort was the cohort."
 
@@ -71,13 +71,13 @@ Adele Ramsay arrived first, at precisely the scheduled time. English Literature.
 
 She delivered this with the fluency of something rehearsed so often it had calcified. Nora wrote down the name and circled it. She asked about the evening of Calloway's death, about the department dinner, about who stayed late, about who left when. Ramsay answered with the same brittle precision she brought to everything, giving times to the quarter hour, as if imprecision were a moral failing. She did not cry. She did not look away. She looked at Nora the entire time with the attentive patience of someone waiting for a not-very-bright student to arrive at an obvious conclusion.
 
-Paul Voigt came second. Philosophy. Fifty-five, big through the shoulders in a way that had gone soft, hands that looked like they'd done work at some earlier point in their history. His grief was different from Ramsay's composure — it was present, visible, and wrong-shaped. He was mourning something, but the mourning didn't quite match the occasion. It was too old. Too worn. Like a coat that had been through too many seasons.
+Paul Voigt came second. Philosophy. Fifty-five, big through the shoulders in a way that had gone soft, hands that looked like they'd done work at some earlier point in their history. His grief was different from Ramsay's composure — it was present, visible, and wrong-shaped. He was mourning something, but the mourning didn't quite match the occasion. Too old. Too worn.
 
 "We were close," he said. "Ed and I. The whole group was. We went through the program together, we got hired together — Whitfield was desperate for young faculty in the nineties, they took all of us and never quite recovered financially." A flicker of something. Not humor. "We built this place. Or we thought we did."
 
 "Tell me about Daniel Moss."
 
-The flinch was uniform across all four of them — she would notice this by the end of the day — but on Voigt it landed differently. On the others it was the flinch of a word they'd trained themselves not to hear. On Voigt it was the flinch of recognition. He looked at her the way you look at someone who has just said your child's name in a context where they shouldn't know it.
+The flinch was uniform across all four of them — she would notice this by the end of the day — but on Voigt it landed differently. On the others it was the flinch of a word they'd trained themselves not to hear. On Voigt it was recognition. He looked at her the way you look at someone who has just said your child's name in a context where they shouldn't know it.
 
 "Danny was twenty-three," Voigt said. "He had bad knees from high school football. He called his mother every Sunday. We —" He stopped. Started again, from a different place. "It was ruled an accident. The quarry. Late night, November, a group of us had been drinking. He went into the water and didn't come out."
 
@@ -99,7 +99,7 @@ Justine Leroy arrived third. Art History. Fifty-seven, dressed in layers that su
 
 Leroy smiled. It was the smile of a woman who had just said more than she intended and was trying to walk it back by making it seem deliberate. "I meant proximity. Not motive."
 
-Theo Garrick came last, as though he'd calculated that the final position was the most advantageous. Classics. Fifty-six. Calloway's own department, his subordinate in title and his rival in everything else. He wore a tweed jacket that was either expensive or old enough that the distinction had ceased to matter, and he sat the way men sit when they want you to know they're not uncomfortable — one leg crossed over the other, arm draped over the back of the adjacent chair. His office, which Nora had glanced into on her way through the Classics building, had a framed Penguin Classics poster and a shelf of small bronze reproductions of Greek statuary. The kind of room that announced its occupant's seriousness without any of the warmth that seriousness sometimes produces.
+Theo Garrick came last, as though he'd calculated that the final position was the most advantageous. Classics. Fifty-six. Calloway's own department, his subordinate in title and his rival in everything else. He wore a tweed jacket that was either expensive or old enough that the distinction had ceased to matter, and he sat with one leg crossed over the other, arm draped over the back of the adjacent chair. His office, which Nora had glanced into on her way through the Classics building, had a framed Penguin Classics poster and a shelf of small bronze reproductions. The room announced its occupant's seriousness without any of the warmth that seriousness sometimes produces.
 
 Garrick answered every question with another question, and he watched Nora with the careful attention of someone tracking a predator through underbrush — every movement noted, every shift in weight interpreted.
 
@@ -135,7 +135,7 @@ She printed the obituary and put it in the case file. She did this because she f
 
 The lab results came back on the third day. The head wound was consistent with a fall — forehead striking the desk edge — but the toxicology showed flunitrazepam in the wine. Enough to render a man Calloway's size unconscious within twenty minutes. He hadn't fallen. He'd been put to sleep and arranged. The wine had been drugged, the glass placed at his left hand, the bottle tipped to suggest a solitary evening that turned into a medical event. If the responding officer had been less attentive — if the second glass hadn't been spotted, if the neat napkin beneath the unused glass hadn't seemed too careful for a man drinking alone — it might have passed as natural causes.
 
-Nora spread the evidence across her desk and looked at it the way she imagined someone might look at a crossword puzzle near completion: satisfaction not at the answer but at the mechanics of finding it. The flunitrazepam had been in the opened bottle. Someone had brought the drug, sat with Calloway, poured his wine, waited for him to drink, and then arranged the scene. The arrangement itself was notable in its gentleness — the head laid down rather than allowed to drop, the body positioned in the chair rather than slumped to the floor. Whoever did this had taken care with the body afterward. Had tucked Calloway into the tableau of a man who'd fallen asleep at his desk after one glass too many. It was murder staged as mercy, and Nora noted the staging without noting the mercy. She saw competence. Premeditation. Control.
+Nora spread the evidence across her desk. The flunitrazepam had been in the opened bottle. Someone had brought the drug, sat with Calloway, poured his wine, waited for him to drink, and then arranged the scene. The arrangement itself was notable in its gentleness — the head laid down rather than allowed to drop, the body positioned in the chair rather than slumped to the floor. Whoever did this had taken care with the body afterward. Had tucked Calloway into the tableau of a man who'd fallen asleep at his desk after one glass too many. It was murder staged as mercy, and Nora noted the staging without noting the mercy. She saw competence. Premeditation. Control.
 
 That someone knew which wine Calloway kept in his desk. Knew his habit of drinking alone in his office on evenings when the department dinner bored him enough to leave early. Knew he was left-handed. These were intimate details. This was someone from the cohort.
 
@@ -145,7 +145,7 @@ She returned to campus the next day to re-examine the office and the desk blotte
 
 The rest was illegible, buried under years of Calloway's own notes, committee meeting dates and budget figures and a phone number with a 413 area code written four times, each time a little differently, as though he kept forgetting he'd already recorded it.
 
-Nora photographed the fragment and sat with it. Someone — one of the cohort — had written Calloway a letter, or a note, or the beginning of a confession, and Calloway had kept it on his desk and written over it for years. Not hidden. Not destroyed. Absorbed. The note had become part of the blotter's geology, buried not by concealment but by accretion.
+Nora photographed the fragment and sat with it. Someone — one of the cohort — had written Calloway a note, or the beginning of a confession, and Calloway had kept it on his desk and written over it for years. Not hidden. Not destroyed. Absorbed. The note had become part of the blotter's geology, buried not by concealment but by accretion.
 
 She read it again: *cannot carry this any longer. D's death was not* — not what? Not an accident. Not what they told the police. Not something any of them could live with. The sentence was unfinished, or the rest had been obliterated.
 
@@ -171,7 +171,7 @@ Ramsay looked at her with something that Nora read as calculation but that might
 
 "No." She said it too quickly, and they both knew it, and neither of them mentioned it.
 
-Leroy was harder to read on the second pass. She had recalibrated since their first meeting, had stopped trying to manage and started trying to charm. She brought coffee. She asked about Nora's weekend. She talked about the weather, about the campus maintenance budget, about how the heating in the administration building was a disgrace. She was filling space, Nora knew, the way a magician fills patter — to keep the audience looking at the wrong hand.
+Leroy was harder to read on the second pass. She had recalibrated since their first meeting, had stopped trying to manage and started trying to charm. She brought coffee. She asked about Nora's weekend. She talked about the weather, about the campus maintenance budget, about how the heating in the administration building was a disgrace. She was filling space the way a magician fills patter — to keep the audience looking at the wrong hand.
 
 "Justine. Did anyone in the group ever try to come forward about what happened at the quarry?"
 
@@ -181,15 +181,13 @@ The coffee cup stopped halfway to Leroy's mouth. A pause that lasted a half-seco
 
 "About whatever it actually was."
 
-Leroy set the cup down. Her composure didn't crack, but it narrowed — her focus contracting to a point, the warmth leaving her eyes the way heat leaves a room when you open a window in November. "I think you should talk to a lawyer before you start suggesting things, Detective."
+Leroy set the cup down. Her composure didn't crack, but it narrowed — her focus contracting to a point, the warmth leaving her eyes like heat leaving a room when you open a window in November. "I think you should talk to a lawyer before you start suggesting things, Detective."
 
-Nora noted: not *I don't know what you mean.* Not *it was an accident.* Instead: *talk to a lawyer.* The response of someone who knows the difference between innocent and legally defensible and has decided to stand on the latter.
+Nora noted: not *I don't know what you mean.* Not *it was an accident.* Instead: *talk to a lawyer.* The response of someone who knows the difference between innocent and legally defensible and has chosen to stand on the latter.
 
 ---
 
-The timeline of the murder assembled itself with the orderly satisfaction Nora had come to expect from cases where the suspects were intelligent enough to plan and arrogant enough to believe their intelligence was sufficient protection. Intelligent criminals made clean plans with single points of failure, and the single point was always the same: they couldn't account for everything because accounting for everything required imagining someone as smart as themselves on the other side.
-
-The department dinner had ended at eight forty-five. Calloway left at eight-twenty, complaining of a headache — confirmed by the server and two other faculty members. The four cohort members had stayed until the check was paid. They left together. Their alibis for the period between nine-fifteen and ten o'clock — the window in which the flunitrazepam would have needed to be administered — were fragile in the specific ways that told Nora she was close.
+The department dinner had ended at eight forty-five. Calloway left at eight-twenty, complaining of a headache — confirmed by the server and two other faculty members. The four cohort members had stayed until the check was paid. They left together. Their alibis for the period between nine-fifteen and ten o'clock — the window in which the flunitrazepam would have needed to be administered — were fragile in specific, telling ways.
 
 Ramsay said she'd gone home and called her sister in Vermont. The sister confirmed the call. The call lasted seven minutes. It did not cover the full window.
 
@@ -201,7 +199,7 @@ Voigt said he'd gone to his office and sat there for a while and then gone home.
 
 Of the four, his alibi was the weakest and his delivery the least polished. The others had prepared narratives. Voigt offered facts without connective tissue, the way someone tells the truth about something they're not trying to hide because they're busy hiding something else.
 
-Nora walked the campus between interviews. She followed the paved paths because the paved paths went where she needed to go — from the administration building to the Classics department, from the Classics department to the library where she'd asked to see old yearbooks and departmental records. The desire paths ran alongside her route, curving where the paved walks cornered, passing close to buildings where the paved paths gave them wide berth. One desire path cut behind the Classics building so closely that she could see the window of Calloway's office from its track. At night, in November, someone on that path would be invisible from the main walkway. She walked it. The ground was soft, and her shoes left prints in the mud, but there had been rain since the night of the murder. Any tracks were gone.
+Nora walked the campus between interviews. She followed the paved paths and noted where the desire paths diverged — curving where the paved walks cornered, passing close to buildings where the paved paths gave them wide berth. One cut behind the Classics building so closely that she could see the window of Calloway's office from its track. At night, in November, someone on that path would be invisible from the main walkway. She walked it. The ground was soft, and her shoes left prints in the mud, but there had been rain since the night of the murder. Any tracks were gone.
 
 She stopped at the window. From this angle she could see the desk, the blotter, the stain that the forensic team had marked and sampled. She could also see something she hadn't noticed from inside: a memorial bench beneath a bare oak, positioned where the desire path forked. A brass plaque, green with weather. She walked to it.
 
@@ -223,9 +221,9 @@ She thought about Karen Voigt — a woman married to a man who couldn't sleep, w
 
 She requested a meeting with Voigt on the sixth day. Not at the campus. At the state police barracks in Northampton, in an interview room with a table bolted to the floor and no bookshelves and no first editions and no Tuscan pottery. She wanted him on her ground.
 
-He came without a lawyer. This surprised her and didn't surprise her. Guilty people who want to confess don't bring lawyers. They bring the weight of what they've carried and they set it down, and the table and the bolted chairs are part of that setting down — the room tells them this is the place where heavy things get put.
+He came without a lawyer. This surprised her and didn't surprise her. Guilty people who want to confess don't bring lawyers. They bring what they've carried and they set it down, and the bolted furniture is part of that setting down — the room tells them this is the place where heavy things get put.
 
-"I know you killed Edwin Calloway," Nora said. She placed the evidence in front of him in a specific order. The toxicology report. The second wine glass. The handwriting analysis. The timeline with his empty window circled in blue. Each piece found its position the way pieces of a clock settle into the mechanism — not because someone forces them but because they were made to fit.
+"I know you killed Edwin Calloway," Nora said. She placed the evidence in front of him in a specific order. The toxicology report. The second wine glass. The handwriting analysis. The timeline with his empty window circled in blue.
 
 Voigt looked at the documents without touching them. "You're good at this," he said.
 
@@ -245,7 +243,7 @@ He stopped. Started again from somewhere else.
 
 "So Danny jumped."
 
-"Danny jumped. And the water was too cold. And we stood there and we watched and we were too drunk to climb down, and by the time the—" His voice had gone flat, mechanical, the way people's voices go when they've told themselves a story so many times that the telling has become a physical act, like typing or driving. "By the time we got to the water it had been four minutes. Maybe five."
+"Danny jumped. And the water was too cold. And we stood there." His voice had gone flat, mechanical, the way people's voices go when they've told themselves a story so many times that the telling has worn grooves. "By the time we got to the water it had been four minutes. Maybe five."
 
 "And then?"
 
@@ -259,11 +257,11 @@ Voigt didn't answer immediately. He looked at the table, at his own hands restin
 
 Nora waited. She had learned that silence was more productive than questions when a suspect was moving toward something.
 
-"Ed didn't believe any of us were guilty. That was the thing. He genuinely didn't. He thought Danny's death was regrettable but ultimately Danny's fault — Danny chose to jump, Danny was drunk, Danny could have said no. Ed had this — this capacity to see the world as a system of choices that other people made and consequences that other people suffered. He was comfortable. Comfort like that, it's its own kind of violence."
+"Ed didn't believe any of us were guilty. That was the thing. He genuinely didn't. He thought Danny's death was regrettable but ultimately Danny's fault — Danny chose to jump, Danny was drunk, Danny could have said no. Ed had this capacity to see the world as a system of choices that other people made and consequences that other people suffered. He was comfortable. Comfort like that, it's its own kind of violence."
 
-She cataloged this: suspect's hostility toward the victim. But the way Voigt said it — not with anger but with the weariness of someone describing weather — she read as contempt. She did not consider that it might be something else. The frustration of a man trying to explain a color to someone who sees in black and white.
+She cataloged this: suspect's hostility toward the victim. She read it as contempt. She did not consider that it might also be the frustration of a man trying to describe a color to someone who can only see in black and white.
 
-"I killed Ed because he was the lock on the cage," Voigt said. "Not because I wanted to hide what we did. Because Ed used what we did. He kept us here. All four of us. Whenever someone got a job offer somewhere else, Ed would remind them — not directly, never directly, Ed was never direct — that we were bound together. That leaving was a kind of betrayal that he couldn't predict the consequences of. He cultivated donors with one hand and held us by the throat with the other, and the college praised him for his loyalty to the institution."
+"I killed Ed because he was the lock on the cage," Voigt said. "Not because I wanted to hide what we did. Because Ed used what we did. He kept us here. All four of us. Whenever someone got a job offer somewhere else, Ed would remind them — not directly, never directly, Ed was never direct — that we were bound together. That leaving was a kind of betrayal he couldn't predict the consequences of. He cultivated donors with one hand and held us by the throat with the other, and the college praised him for his loyalty to the institution."
 
 "So you killed him to set the others free."
 
@@ -271,7 +269,7 @@ She cataloged this: suspect's hostility toward the victim. But the way Voigt sai
 
 Nora heard this. She heard a confession, a motive, a man who had reached the end of a long deterioration and acted. She understood it the way she understood all cases — as a sequence of causes and effects that, properly arranged, produced a prosecutable result. Voigt had killed Calloway because twenty-two years of shared guilt had become unbearable and Calloway was the one who enforced the silence. That was motive. Combined with means and opportunity, it was sufficient.
 
-She did not hear what Voigt was also saying: that the letter on the blotter had not been a threat. It had been a plea. *Cannot carry this any longer.* Not *I will expose you.* Not *I demand you confess.* The sentence begged for release, not leverage. The distinction between a threat and a cry for help was sitting on her desk in ultraviolet, and she had read it as blackmail because blackmail was how motive worked in her system, and her system was the thing she trusted most in the world.
+*Cannot carry this any longer.* Not *I will expose you.* Not *I demand you confess.* The distinction sat on her desk in ultraviolet, and she had read it as blackmail because blackmail was how motive worked in her system, and her system was what she trusted most.
 
 "And the others?" she asked. "Ramsay, Leroy, Garrick. Did they know what you were planning?"
 
@@ -293,26 +291,22 @@ The consequences arrived at their own pace, indifferent to her timetable.
 
 The local paper ran the story. A reporter with more ambition than the story probably warranted dug into Daniel Moss's death, found the medical examiner's original report, talked to Moss's sister in Ohio. The sister had never believed it was an accident. She had said so at the time and been ignored. She said so again now and was not ignored.
 
-The DA opened a review of the original death. Adele Ramsay was placed on administrative leave pending investigation. Justine Leroy retained a criminal defense attorney and stopped answering calls from the college. Theo Garrick, whose interview techniques Nora had admired in a grudging, professional way, gave a statement to the Hampshire Gazette in which he said, "We were young and brilliant and we thought that meant we were exempt. We were wrong about what we were exempt from." It was the kind of sentence a classicist constructs when he knows he's being recorded for posterity, and Nora read it in the paper and thought it was self-serving, which it was, though it was also true, and the truth in it was not the part she noticed.
+The DA opened a review of the original death. Adele Ramsay was placed on administrative leave pending investigation. Justine Leroy retained a criminal defense attorney and stopped answering calls from the college. Theo Garrick gave a statement to the Hampshire Gazette in which he said, "We were young and brilliant and we thought that meant we were exempt. We were wrong about what we were exempt from." It was the sentence a classicist constructs when he knows he's being recorded for posterity, and Nora read it in the paper and thought it was self-serving, which it was, though it was also true, and the truth in it was not the part she noticed.
 
-The college issued statements. The donors Calloway had cultivated — the ones whose money kept the institution solvent, whose names were on the library wing and the scholarship fund and the endowed chair in Classics — began making calls. Not angry calls. Quiet ones. The kind of calls that precede the withdrawal of support the way a receding tide precedes the exposure of everything that was hidden beneath the waterline.
+The college issued statements. The donors Calloway had cultivated — the ones whose money kept the institution solvent, whose names were on the library wing and the scholarship fund and the endowed chair in Classics — began making calls. Not angry calls. Quiet ones. The kind that precede the withdrawal of support the way a receding tide precedes the exposure of what was underneath.
 
 Within three months, the Classics department would be dissolved. Within a year, Whitfield College would enter financial exigency — the academic term for a slow death with paperwork. None of this had to happen. The murder could have been investigated and prosecuted without the old drowning coming to light. The old drowning was not, strictly speaking, relevant to the murder charge. Nora had included it in her report because it was evidence, because it established motive, and because leaving it out would have been a failure of thoroughness that she could not have tolerated. She was right to include it. She was right about everything. Her rightness was immaculate, and it razed the ground.
 
 ---
 
-Nora went home on a Friday. Her apartment in Northampton was on the second floor of a converted Victorian — clean, spare, the books alphabetized not by author but by the date she'd acquired them, so that her shelves were a chronology of her reading life rather than a library. She hung her coat in the closet. She made coffee in a French press her mother had given her for Christmas, the kind of gift her mother gave because she'd seen it in a magazine and associated it with the life she imagined Nora living. Nora used it every day and had never corrected the association.
+Nora went home on a Friday. Her apartment in Northampton was on the second floor of a converted Victorian — clean, spare, the books arranged not by author but by the date she'd acquired them, so that her shelves were a chronology of her reading life rather than a library. She hung her coat in the closet. She made coffee in a French press her mother had given her for Christmas, the gift her mother gave because she'd seen it in a magazine and associated it with the life she imagined Nora living. Nora used it every day and had never corrected the association.
 
-She stood at the window with the coffee and looked out at the street. The streetlight made its circle on the wet pavement, a precise geometry of light that she found satisfying the way she found most precise things satisfying. Below her window, the apartment building's yard — shared, mostly ignored, mowed on a schedule by a service the landlord hired — had a desire path worn diagonally through the grass from the back door to the parking lot. The tenants cut the corner rather than follow the paved walk that went the long way around. The grass had given up on that strip. It was bare earth now, packed hard by foot traffic, the kind of path that forms when enough people decide that the designed route isn't the one they need.
+She stood at the window with the coffee and looked out at the street. The streetlight made its circle on the wet pavement. A couple walked past with a dog, hunched against the rain, and Nora watched them the way she watched everyone — noting gait, clothing, the direction they turned at the corner — and then they were gone and the street was empty and she was still at the window.
 
-Nora saw it. She had always been good at seeing things. She could inventory a room in the time it took most people to find a place to sit. She could read a suspect's body language with the precision of someone reading a gauge. She could hold a case's worth of evidence in her head and rotate it until the configuration that fit presented itself, and she was rarely wrong about the fit.
+She thought about calling her mother, decided against it. Her mother would ask about work and Nora would say it was fine and her mother would hear the flatness and try to fill it with talk about the neighbors, the garden, the nephew who had started at UMass. Her mother's conversations were generous in a way that Nora recognized and could not reciprocate, and this failure of reciprocity was something Nora filed under personality rather than examining further.
 
-She drank her coffee. It was good. The case was closed, the file was clean, and the system had worked the way the system was supposed to work. A man had been murdered by another man for reasons that, once uncovered, made a kind of terrible sense, and the uncovering was what she did, and she had done it well.
+She had another case starting Monday — a break-in at a storage facility in Greenfield, probably insurance fraud, the owner's story already showing the hairline cracks that meant it wouldn't hold.
 
-She did not think about Paul Voigt sitting in a cell in the Franklin County jail, having handed himself over to a process he considered irrelevant to the question of what he'd done and why. She did not think about Adele Ramsay in her house with the Hermès scarves, waiting for a phone call from a DA's office that would open the last twenty-two years of her life like a body on a table. She thought about these things the way she thought about the weather — as conditions that existed and could be observed and were not her responsibility to alter.
+She drank her coffee. It was good. The case was closed and the file was clean. She washed the mug and set it on the rack to dry.
 
-The desire path in the yard below was exactly the kind of detail she would have noted at a crime scene. Direct. Practical. Evidence of human behavior diverging from the intended route. She would have photographed it, measured it, entered it into the record.
-
-She finished her coffee and washed the mug and set it on the rack to dry. She had another case starting Monday — a break-in at a storage facility in Greenfield, probably insurance fraud, the owner's story already showing the hairline cracks that meant it wouldn't hold. She was looking forward to it. There was always another puzzle, and the puzzles were the thing she was for, and being for something was as close to peace as she had ever needed to get.
-
-Outside, the rain continued. The desire path darkened with it, the bare earth turning to mud that would hold footprints until morning. Nobody would read them. They were not evidence of anything a person trained to read evidence would think to look for.
+Outside, the rain continued.
