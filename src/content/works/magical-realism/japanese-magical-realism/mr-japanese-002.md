@@ -7,7 +7,7 @@ authorA: "Haruki Murakami"
 authorB: "Laura Esquivel"
 workX: "The Memory Police"
 workY: "Convenience Store Woman"
-wordCount: 3820
+wordCount: 3683
 readingTimeMinutes: 15
 tags:
   - "konbini"
@@ -134,13 +134,13 @@ My mother stood in the doorway. "She talked to it," she said. "Every morning. Sh
 
 "Once. When I was first married. I kept it for three months and then forgot to stir it for a week while your father and I were in Hokkaido and it went sour. I threw it out." She paused. "The pickles she made from this bed — your grandmother's pickles — they didn't taste like store pickles. They tasted like her hands." She caught herself, or amended herself: "No. They tasted like the house. Like the specific air and bacteria that lived in this kitchen, fed by her hands for forty years."
 
-I held a flake of the dead nuka between my thumb and forefinger. It weighed nothing. It told me nothing. I had no memory of what it once produced. I had eaten my grandmother's nukazuke as a child and the taste had fallen out of me entirely, and I was standing in the gap between what was lost and the knowledge that it was lost, and the gap was the exact width of a kitchen, an apartment, a life.
+I held a flake of the dead nuka between my thumb and forefinger. It weighed nothing. It told me nothing. I had no memory of what it once produced. I had eaten my grandmother's nukazuke as a child and the taste had fallen out of me entirely, like a word you use so often it stops meaning anything.
 
 That night I slept in the guest room of my mother's apartment, on a futon that smelled faintly of the closet where it spends most of its life. I opened my notebook and read the list of diminished flavors. The handwriting was mine — small, neat, the handwriting of a person who fills out delivery manifests and inventory sheets and maintenance requests — and the observations were precise and useless. I had been documenting a process I could not affect, in a format designed for problems that can be resolved. The list read like a maintenance log for a building that was sinking into the earth: accurate, filed, unaddressed.
 
 I closed the notebook. Through the wall I could hear my mother washing dishes, the careful sound of someone who lives alone and has arranged her kitchen so that every action produces the minimum disturbance. I understood that sound. I make the same sound in my own kitchen.
 
-I wrapped the crock in newspaper and carried it to the train. It was heavy enough that my arms ached by the time I reached Sendai Station, and on the Shinkansen back to Tokyo I held it on my lap, the ceramic warm against my thighs through the newspaper, and a woman across the aisle glanced at it and looked away and I did not explain what it was because I did not know what it was — whether it was a container or a grave or neither.
+I wrapped the crock in newspaper and carried it to the train. It was heavy enough that my arms ached by the time I reached Sendai Station, and on the Shinkansen back to Tokyo I held it on my lap, the ceramic warm against my thighs through the newspaper, and a woman across the aisle glanced at it and looked away and I did not explain what it was because there was nothing to explain.
 
 ---
 
@@ -156,7 +156,7 @@ I poured the bran into the old crock. The bran settled against the dead residue 
 
 I washed my hands. The bran had worked into the lines of my palms and under my fingernails, and I stood at the sink for a long time, scrubbing, watching the water run tan and then clear.
 
-I put on Bill Evans. *Waltz for Debby*, the live recording, June 25, 1961, at the Village Vanguard. You can hear the audience — murmuring, the clink of glasses, a woman laughing during "Milestones." Evans's left hand carries the harmony in clusters that shift like cloud formations, and Scott LaFaro's bass answers from somewhere beneath, and together they build a structure so delicate that the audience noises don't interrupt it but live inside it, the way weather lives inside architecture. LaFaro would be dead in eleven days, killed in a car accident on the way home from a gig. Evans would spend the next nineteen years trying to play with a bassist who wasn't there anymore.
+I put on Bill Evans. *Waltz for Debby*, the live recording, June 25, 1961, at the Village Vanguard. You can hear the audience — murmuring, the clink of glasses, a woman laughing during "Milestones." Evans's left hand carries the harmony in clusters that shift underneath the melody, and Scott LaFaro's bass answers from somewhere beneath, and together they build a structure so delicate that the audience noises don't interrupt it but live inside it. LaFaro would be dead in eleven days.
 
 I sat at the table with my hands in my lap. The crock sat on the counter. The bran inside it was not alive. It was ingredients. The alchemy had not started. I did not eat dinner.
 
@@ -180,8 +180,8 @@ I did not know if this was what her pickles tasted like. I suspected not. Her cu
 
 I also did not know if the flavors in the konbini had continued to diminish. I had stopped keeping the notebook. Not deliberately — the way you stop keeping a notebook, by not opening it one morning, and then another morning, and then the mornings accumulate and the notebook stays in the drawer and the drawer stays closed. I could have opened a soy sauce packet and tasted it and compared it to my notes and determined whether the trajectory continued. I chose not to. Or I failed to. The distinction between choosing and failing is not always as clear as the language suggests.
 
-The cucumber was half eaten. I put the rest back in the container and the container back in my bag. I washed my hands at the utility sink and dried them on my apron and went back to the register. The chime sounded. A man in a gray suit bought a canned coffee and a pack of Seven Stars and said nothing and left. I said the standard greeting as he entered and the standard farewell as he left, and the words came out of my mouth the way they always do, worn smooth by repetition, and I could not tell if they meant what they were supposed to mean, or if they had ever meant anything, or if meaning was something I had any authority to measure.
+The cucumber was half eaten. I put the rest back in the container and the container back in my bag. I washed my hands at the utility sink and dried them on my apron and went back to the register. The chime sounded. A man in a gray suit bought a canned coffee and a pack of Seven Stars and said nothing and left. I said the standard greeting as he entered and the standard farewell as he left, and the words came out of my mouth the way they always do, worn smooth by repetition, and I could not tell if they meant what they were supposed to mean or if they had ever meant anything.
 
-The nuka-doko at home is waiting to be stirred. I will stir it tonight, my hands plunging into the bran, turning the culture over, feeding it the warmth and the oils and the bacteria of my skin. I will stir it tomorrow. I will stir it the day after that. I do not know how long I will continue. The bran does not know either. It has no schedule, no manifest, no sell-by date. It has only the requirement of daily hands, and the possibility — not the guarantee — that what it produces will taste like something the world is still capable of recognizing.
+The nuka-doko at home is waiting to be stirred. I will stir it tonight, my hands plunging into the bran, turning the culture over, feeding it the warmth and the oils and the bacteria of my skin. I will stir it tomorrow. I will stir it the day after that. I do not know how long I will continue. The bran does not know either. It has no schedule, no manifest, no sell-by date. It has only the requirement of daily hands.
 
-The afternoon delivery is in forty minutes. The umeboshi onigiri needs to be rotated. There is a smudge on the glass door that I will wipe with the blue cloth. These are the things I do. I have been doing them for eleven years. Whether they amount to devotion or automation is a question the store does not ask, and I have never answered.
+The afternoon delivery is in forty minutes. The umeboshi onigiri needs to be rotated. There is a smudge on the glass door that I will wipe with the blue cloth.
