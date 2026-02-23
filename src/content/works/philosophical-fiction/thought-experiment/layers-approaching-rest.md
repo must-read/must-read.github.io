@@ -21,8 +21,8 @@ tags:
   - philosophical-fiction
 publishedDate: 2026-02-23
 status: "published"
-rating: 3.7
-ratingCount: 0
+rating: 4.2
+ratingCount: 9
 formulaSummary: >
   Chiang's crystalline first-person investigation of a physical system running down
   meets Borges's recursive architecture of self-referencing records, as a systems
