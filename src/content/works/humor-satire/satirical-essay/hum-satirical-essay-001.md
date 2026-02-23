@@ -7,7 +7,7 @@ authorA: "Nora Ephron"
 authorB: "Jonathan Swift"
 workX: "A Modest Proposal"
 workY: "I Feel Bad About My Neck"
-wordCount: 2223
+wordCount: 2281
 readingTimeMinutes: 9
 tags: ["wellness", "aging", "app", "satire", "optimization", "body", "metrics", "subscription"]
 rating: 0
@@ -27,7 +27,7 @@ I have spent, at a conservative estimate, eleven thousand dollars on my neck.
 
 Not surgery. I want to be clear about that, because there is a hierarchy of interventions and I remain, for now, on its respectable side. Retinol. Peptide serums. A jar of La Mer that cost more than my first car payment and contained, as far as I could determine, moisturizer. A Drunk Elephant exfoliant in a bottle the color of optimism. A NuFace microcurrent device that I used faithfully for six weeks and then stored in the bathroom drawer where good intentions go to calcify next to the water flosser. Three sessions of something called radiofrequency skin tightening, performed by a woman named Ilsa who told me the collagen would regenerate "naturally" and charged two hundred dollars to prove it. I did the math once. Eleven thousand dollars, roughly, over seven years, on the premise that the skin above my collarbone could be argued out of doing what skin above collarbones has done since skin and collarbones were invented.
 
-It did not work. I still have the neck. I still have the thing that happens when you catch your reflection at the wrong angle in a hotel bathroom where the lighting was designed by someone who has never liked women. I still can't read a restaurant menu without performing the quiet, humiliating arm extension that no one over forty-three discusses and everyone over forty-three recognizes. My knees now predict rain with greater accuracy than my phone, and I don't recall enrolling them in the meteorological profession.
+It did not work. I still have the neck. I still have the thing that happens when you catch your reflection at the wrong angle in a hotel bathroom — that lighting, those mirrors, the whole fluorescent conspiracy against anyone over forty. I still can't read a restaurant menu without performing the quiet, humiliating arm extension that no one over forty-three discusses and everyone over forty-three recognizes. My knees now predict rain with greater accuracy than my phone, and I don't recall enrolling them in the meteorological profession.
 
 This is not a complaint. This is a fact. This is the fact around which an industry valued at four point four trillion dollars has organized itself, which is: the body declines. It declines unevenly, without consultation, and with a particular genius for declining in the places you can't cover with a blazer. And until very recently, the only response available was the one I have described: product after product, ritual after ritual, each one purchased in the full knowledge that it will not work and in the undefeatable hope that it might.
 
@@ -35,7 +35,7 @@ I have a better idea.
 
 ---
 
-The app is called OptimAge. I should tell you what it does, because what it does is simple, and simplicity is what we have been missing. The wellness industry has given us fourteen thousand products and no information. OptimAge gives us one number.
+The app is called OptimAge. I should tell you what it does, because what it does is simple, and simplicity is what has been missing. The wellness industry has given us fourteen thousand products and no information. OptimAge gives us one number.
 
 Your Vitality Index.
 
@@ -43,7 +43,7 @@ The Index composites eleven biomarkers: skin elasticity, joint mobility, grip st
 
 From these inputs, OptimAge generates a single daily score on a scale of one to one hundred. Your Vitality Index. Updated every morning at six a.m. The number you are.
 
-I want to explain why this matters, and I want to begin with a fact about the body that most people find disturbing and I find clarifying. Your body is currently engaged in a process called apoptosis — from the Greek, meaning "falling away" — in which approximately ten billion of your cells destroy themselves each day. They do this on purpose. They do this so that new cells may take their place, so that the organism may continue, so that you may sit here reading this while inside you a slaughter of extraordinary precision is underway. Your body is, at this moment, consuming itself. It has always been consuming itself. The difference is that now we can see it.
+I want to explain why this matters, and I want to begin with a fact about the body that most people find disturbing and I find clarifying. Your body is currently engaged in a process called apoptosis — from the Greek, meaning "falling away" — in which approximately ten billion of your cells destroy themselves each day. They do this on purpose. They do this so that new cells may take their place, so that the organism may continue, so that you may sit here reading this while inside you a controlled demolition is underway. Your body is, at this moment, consuming itself. It has always been consuming itself. The difference is that now we can see it.
 
 OptimAge simply makes this visible.
 
@@ -53,13 +53,13 @@ The advantages of universal Vitality Index adoption are numerous, and I will enu
 
 First: transparency. The average American spends six thousand three hundred dollars annually on wellness products selected through a process no more rigorous than reading the label. Serums, supplements, infrared saunas, adaptogenic mushroom powders sold by a man with a podcast — the consumer has no way to know what works, because the consumer has no way to see her own biology. OptimAge provides that mirror. Not the mirror in the hotel bathroom. A real one. Data.
 
-Second: motivation. The Vitality Index is gamified, because we are, and it is time we stopped pretending otherwise. I own a Peloton. My username is something I created at two in the morning that I will not repeat here, and I have not missed a day on the leaderboard in nine months, because the leaderboard works. It works not through shame — Peloton would object to the word shame — but through *visibility*. You can see where you are relative to where you could be. OptimAge extends this logic to the only leaderboard that matters: the one tracking the rate at which you are becoming less yourself.
+Second: motivation. The Vitality Index is gamified, because we are, and it is time we stopped pretending otherwise. I own a Peloton. My username is something I created at two in the morning that I will not repeat here, and I have not missed a day on the leaderboard in nine months, because the leaderboard works. It works through visibility. You can see where you are relative to where you could be. OptimAge extends this logic to the only leaderboard that matters: the one tracking the rate at which you are becoming less yourself.
 
 Third: community. OptimAge Premium connects users in a social network organized not by what they say or share or perform, but by what they are. The leaderboard ranks users by biological age relative to chronological age. At the top are people — real people, verified by data — whose cells are, by every metric we track, eleven years younger than their birthdate suggests. They exist. They are among us. They are evidence that decline is optional, or at least negotiable, and their protocols are available on OptimAge Premium for nineteen ninety-nine a month.
 
 Fourth: market efficiency. The global wellness industry wastes four point four trillion dollars annually because it operates without feedback loops. A woman buys a sixty-dollar eye cream from Sephora. Does it work? She doesn't know. She looks in the mirror and thinks maybe? OptimAge closes the loop. Buy the cream. Check your Index. If the number moves, the cream works. If it doesn't, you have saved sixty dollars and the particular anguish of hope that refuses to be tested.
 
-Fifth: there is a principle in economics — attributed to Charles Goodhart, though economists prefer not to attribute principles to specific people, because they would rather they arrived from the ether, like weather — which states that when a measure becomes a target, it ceases to be a good measure. This is presented, typically, as a warning. OptimAge inverts it. We make the target the measure. Your Vitality Index is not a proxy for your vitality. Your Vitality Index IS your vitality. It is the number that describes how alive you are, and it is the number you are trying to improve, and these are the same project. We have eliminated the gap between the metric and the self. This is not a bug. This is, if I may say so, an innovation.
+Fifth: there is a principle in economics — Goodhart's Law — which states that when a measure becomes a target, it ceases to be a good measure. This is presented, typically, as a warning. OptimAge inverts it. We make the target the measure. Your Vitality Index is not a proxy for your vitality. Your Vitality Index IS your vitality. It is the number that describes how alive you are, and it is the number you are trying to improve, and these are the same project. We have eliminated the gap between the metric and the self. This is not a bug. This is an innovation.
 
 ---
 
@@ -67,7 +67,7 @@ A word about the leaderboard. Because this is where I anticipate the most resist
 
 OptimAge ranks its users. The top performers are celebrated. Their regimens are shared. Their data trails are, with consent, made available for research. And the users at the bottom of the leaderboard — the users whose biological age is tracking at or above their chronological age, whose cells are doing what cells do, which is to say: declining at the rate the species has always declined — these users receive notifications. Not warnings. Not reprimands. Gentle nudges. "Your Vitality Index has decreased 1.2 points over the past thirty days. Here are three adjustments you might consider." The app never says you are failing. The app says you have untapped potential. The app says your best days are ahead of you, and the app can say this forever, because potential is unmeasurable and therefore infinite.
 
-There is a platinum tier. I'll be honest about that. Twenty-nine ninety-nine a month. It includes a personalized AI-driven regimen, weekly biomarker analysis, and integration with your grocery delivery app so that the food you eat is optimized before you eat it. It costs more than your serum. Your serum doesn't know your telomere length.
+There is a platinum tier. I'll be honest about that. Twenty-nine ninety-nine a month. It includes a personalized AI-driven regimen, weekly biomarker analysis, integration with your grocery delivery app so that the food you eat is optimized before you eat it, and a sleep coach that monitors your overnight Index fluctuations and adjusts your morning recommendations by five a.m. It costs more than your serum. Your serum doesn't know your telomere length.
 
 ---
 
@@ -75,7 +75,7 @@ I should tell you something.
 
 Last Tuesday — no, Wednesday. Wednesday at two in the morning. I was lying in bed and I picked up my phone, which I keep on the nightstand, because everyone keeps their phone on the nightstand, because the nightstand is where we go to worship now, and I opened OptimAge and I looked at my Vitality Index and the number had dropped. Not dramatically. Zero point three points. Which is nothing. Which is statistical noise. Which is the kind of fluctuation that means you had a glass of wine or didn't sleep well or were, for one day, marginally more mortal than the day before.
 
-And I felt — I want to describe this accurately — I felt the way you feel when you step on a scale and the number is wrong, which is to say: higher. The lurch. The immediate negotiation with the number: it's water weight, it's the time of day, the scale is on carpet. Except this wasn't weight. This was my Vitality Index. This was the number that describes how alive I am. And it was down zero point three, and I lay there in the dark and felt afraid, which is not the feeling the app is designed to produce but is the feeling the app produces, which are different things, or maybe they aren't.
+And I felt — I want to describe this accurately — I felt the way you feel when you step on a scale and the number is wrong, which is to say: higher. The lurch. The immediate negotiation with the number: it's water weight, it's the time of day, the scale is on carpet. Except this wasn't weight. This was my Vitality Index. This was the number that describes how alive I am. And it was down zero point three, and I lay there in the dark and I was afraid.
 
 I closed the app. I opened it again. The number hadn't changed. I went back to sleep eventually, or I lay there with the phone face-down on the nightstand, which is the twenty-first century version of sleeping.
 
@@ -85,7 +85,7 @@ Anyway. The point is the app works. Even at two in the morning. Especially at tw
 
 Some people — reasonable people, people I respect, people who still write letters by hand and own landline telephones with the curly cords — suggest an alternative. The alternative is: don't track. Don't measure. Accept the body's changes the way one accepts weather, or seasons, or the gradual southward migration of everything above the collarbone. Grow old without a dashboard. Put the phone in a drawer.
 
-This is, of course, an option. One might also choose to navigate without a map, to fly without instruments, to invest without a portfolio. One might choose to walk into a hospital and tell the physician: please do not give me my blood pressure, my cholesterol, my white cell count, as I prefer to experience my body through intuition and the general sense that something is either fine or not fine, and when it is not fine I will know, the way one knows it is raining, by getting wet.
+This is, of course, an option. One might also choose to navigate without a map, to fly without instruments, to invest without a portfolio. One might choose to walk into a hospital and tell the physician: please do not give me my blood pressure, my cholesterol, my white cell count, as I prefer to experience my body through intuition and the general sense that something is either fine or not fine, and when it is not fine I will know, the way one knows it is raining, by getting wet. One might, for that matter, choose to raise a child without ever taking her temperature.
 
 These are available choices. I do not recommend them. I do not recommend them the way I do not recommend canceling your homeowner's insurance because you have a good feeling about the structural integrity of your foundation. Hope is not a strategy. Intuition is not a biomarker. And the people who suggest that we should simply *accept* the body's decline are, in my experience, people who have not yet declined in the specific ways that produce eleven thousand dollars' worth of receipts from Sephora.
 
