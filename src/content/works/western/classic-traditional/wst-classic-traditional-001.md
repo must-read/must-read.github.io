@@ -7,7 +7,7 @@ authorA: "Louis L'Amour"
 authorB: "Dorothy M. Johnson"
 workX: "Shane"
 workY: "True Grit"
-wordCount: 4313
+wordCount: 4312
 readingTimeMinutes: 17
 tags:
   - stranger
@@ -135,7 +135,7 @@ Cass came out. He stood on the boardwalk and looked at his left hand. Blood ran 
 
 Sweeney did not come out.
 
-I went to the saloon door. I should not have gone but I was eleven and eleven-year-old boys go where they should not go. Sweeney was on the floor between the bar and the first table. He was on his back. His hat was three feet from his head. His gun was in his hand but he had not fired it. The blood was spreading on the plank floor in a shape that had no name — not a circle, not a pool, just a shape that got larger while I watched. The barkeep was standing behind the bar with a rag in his hand and he had not moved and he did not move.
+I went to the saloon door. I should not have gone but I went. Sweeney was on the floor between the bar and the first table. He was on his back. His hat was three feet from his head. His gun was in his hand but he had not fired it. The blood was spreading on the plank floor in a shape that had no name — not a circle, not a pool, just a shape that got larger while I watched. The barkeep was standing behind the bar with a rag in his hand and he had not moved and he did not move.
 
 I looked at Sweeney's boots. The left boot had a hole in the sole, just behind the ball of the foot — a hole the size of a nickel, worn through the leather. I could see his sock, which was gray. I had not known that. I had not known that the man who killed my father walked around with a hole in his boot. It should not have mattered. It mattered.
 
@@ -147,11 +147,11 @@ The house was quiet. Frawley's cowhands did not come for supper. The freighter h
 
 I could not sleep. The house made its noises — the settling of old timber, the wind off the flats pressing against the windows, the creak of a floorboard upstairs where Cass walked or did not walk; I could not tell whether I was hearing him or the house remembering him. I went downstairs at midnight, or near it. The kitchen was dark except for a candle on the table, burned down to a stub. My mother was sitting at the table. She was not crying. She was not doing anything. She was looking at the table surface, which was scarred from fifteen years of knives and forks and hot pans and the grain of the wood showing through the varnish in places where the varnish had been worn away by use.
 
-I sat across from her. We did not speak. The silence was not peaceful and it was not tense. It was the silence that happens when something large has passed through a place and left the air heavier than it was before, the way the air feels after a thunderstorm when the rain has stopped but the clouds have not moved on.
+I sat across from her. We did not speak. It was not a comfortable silence but it was not the other kind either. It was just what was left.
 
 She said: "Your father is still dead."
 
-I did not know what to say to that. I still do not know. She was right, of course. My father was still dead. A man had killed the man who killed him and my father was exactly as dead as he had been that morning and the morning before and every morning since April, and the water still ran through Frawley's ditch and Frawley's cattle still drank from it and nothing had changed except there was one more dead man in the world.
+I did not know what to say to that. I still do not.
 
 I said: "Was he a good man?"
 
@@ -163,11 +163,11 @@ She blew out the candle and we sat in the dark for a while and then she went ups
 
 ---
 
-He left before dawn. I know because I was awake. I was at the upstairs window that looked out over the porch roof and the street. The sky was not yet light but it was no longer dark — that gray interval when the stars have faded but the sun has not committed itself, and the world looks like a photograph that has not finished developing.
+He left before dawn. I know because I was awake. I was at the upstairs window that looked out over the porch roof and the street. The sky was not yet light but it was no longer dark — that gray time when the stars have faded and the sun has not committed itself.
 
 Cass came out of the boarding house with his saddle over his left shoulder. His hand was wrapped in a clean bandanna — my mother's, white cotton, not the one he had used the day before. He crossed the street to the livery and I heard him talking to his horse, low and without words, the sounds a man makes to an animal he has relied on. Then the creak of leather as he cinched the saddle. The horse blew through its nostrils. Cass led it out into the street and mounted and turned north toward the Sheridan road.
 
-He did not look back at the boarding house. He did not wave. He had paid for a week and stayed four days and he did not ask for the difference. He rode north with the light behind him and his shadow stretching out ahead of him on the road, long and thin on the packed dirt. I watched until he was a mark on the road, and then a mark on the sage flat, and then a thing I might have been imagining, and then nothing. The road was empty the way it had been empty before he came, and the emptiness was the same emptiness but I was not the same boy looking at it.
+He did not look back at the boarding house. He did not wave. He had paid for a week and stayed four days and he did not ask for the difference. He rode north with the light behind him and his shadow stretching out ahead of him on the road, long and thin on the packed dirt. I watched until he was a mark on the road, and then a mark on the sage flat, and then a thing I might have been imagining, and then nothing.
 
 I went downstairs. My mother was already in the kitchen. The stove was hot and the coffee was on. She was cutting biscuit dough on the scarred table, pressing the tin circle down and twisting it and lifting each round onto the baking sheet. She did not mention Cass. She did not mention the night before. She said good morning and told me to bring in wood for the stove.
 
@@ -175,11 +175,11 @@ A freighting outfit came through that morning — two men hauling dry goods to t
 
 Outside, in the street, the dirt was fresh in front of the Occidental. Someone had shoveled it at dawn — the barkeep, probably, or one of Frawley's men, I never learned who. They had shoveled clean dirt over the blood and the dirt was darker where the blood was beneath it, but only if you knew to look. Children walked past on their way to the schoolhouse. They walked on the fresh dirt and did not know what was under it. A dog slept against the water trough. The Mexican woman hung washing on a line. Garnet, Wyoming, was a town and it went on being a town.
 
-By noon the cowhands were back. Two of Frawley's men rode in and tied up at the saloon and went inside and came out again and walked to the boarding house and asked my mother if she was serving dinner. She said she was. She served them pork and beans and biscuits and they ate without speaking and paid and left, and that was that. Frawley's men would go on eating at my mother's table. The world had not changed. It had only subtracted.
+By noon the cowhands were back. Two of Frawley's men rode in and tied up at the saloon and went inside and came out again and walked to the boarding house and asked my mother if she was serving dinner. She said she was. She served them pork and beans and biscuits and they ate without speaking and paid and left, and that was that. Frawley's men would go on eating at my mother's table.
 
-I walked past the Occidental that afternoon on my way to bring a pail of water from the well. The dirt in front of the door was smooth and brown. Underneath it was Sweeney's blood. Underneath that was the wood of the boardwalk, and underneath that was the dirt of the street, and underneath that was the earth that had been there before the town and would be there after. I walked on the fresh dirt and I knew what was under it and it did not feel different from any other dirt. I wanted it to feel different. It did not.
+I walked past the Occidental that afternoon on my way to bring a pail of water from the well. The dirt in front of the door was smooth and brown. Sweeney's blood was under it. I walked on the fresh dirt and it did not feel different from any other dirt. I wanted it to. It did not.
 
-The well water tasted of iron, the way it always did. I carried the pail back to the kitchen and my mother poured it into the reservoir on the stove and said nothing. She had work to do. The boarding house needed sweeping and the garden wanted water and there were linens to wash and a fence post leaning near the privy that would need resetting before winter. There was always work. That was the thing about continuing to live — it required the same effort as it had before, no more and no less, and the effort did not care what had happened or what had not happened or who was dead or who had ridden north.
+The well water tasted of iron, the way it always did. I carried the pail back to the kitchen and my mother poured it into the reservoir on the stove and said nothing. She had work to do. The boarding house needed sweeping and the garden wanted water and there were linens to wash and a fence post leaning near the privy that would need resetting before winter.
 
 ---
 
@@ -187,12 +187,12 @@ I have that tintype in my desk. I have looked at it a thousand times.
 
 The man in the image is sitting in a cane-backed chair on a porch. His hat is on his knee. His right hand rests on his thigh. His left hand is pressed flat against the arm of the chair, the fingers slightly spread. His face is lean, tired, the face of a man who has been in weather. His eyes look past the camera at something I cannot see.
 
-You cannot see the tremor in the hand. The image caught it at the moment of stillness — the palm flat, the wood taking the shake out of him the way the earth takes the shake out of a fence post when you tamp it down. You cannot see what happened the next day. You cannot see Sweeney on the floor of the Occidental with his hat three feet from his head and the hole in the sole of his boot. You cannot see the blood under the dirt in the street, or the children walking over it, or my mother cutting biscuit dough at six in the morning the way she cut biscuit dough every morning before and every morning after. You cannot see my mother at the kitchen table at midnight, saying the truest thing anyone said that year in Garnet, Wyoming, which was: your father is still dead.
-
-You see a man in a chair. That is all you see. It is what a man looks like when you flatten him into a single moment and fix him on a plate of iron and call it a likeness — a man in a chair who could be anyone, who could be good or not good, who did a thing or did not do a thing, whose left hand is still and whose name might be Cass.
+You cannot see the tremor. The image caught the hand at the moment of stillness — the palm flat, the wood taking the shake out of him the way the earth takes the shake out of a fence post when you tamp it down. You see a man in a chair. His left hand is still and his name might be Cass.
 
 I called it a daguerreotype for years before someone told me it was a tintype. I knew the word daguerreotype from a magazine and it sounded like what the image was — old, formal, a word from another time for a thing from another time. The correction did not take. I still call it what I called it when I was a boy, the same way I still call what happened at the Occidental a killing and not a gunfight, because a gunfight is what it looks like from outside and a killing is what it is.
 
 I am fifty-three years old. My mother died in 1904 in the same house, in the same bed where my father slept before Sweeney killed him. She never spoke of Cass again. She never spoke of what she allowed. She ran the boarding house until her hands would not let her and then I ran it for a while and then I sold it to a man from Omaha who turned it into a hotel, and it burned in 1911, and now there is nothing there but the foundation stones.
 
-Frawley died rich in 1898. The water still flows through his ditch, though it belongs to a company now, men in Denver who have never seen the ditch or the water or the dirt over Sweeney's blood or the sage flats where a man rode north and disappeared. Nobody was punished. Nobody was rewarded. A man was dead and then another man was dead and the water flowed the same direction it had always flowed, and the town went on, and my mother made coffee and set out plates and charged the full rate, and that is what happened, and I have carried it for forty-two years, and I take out the photograph sometimes and look at it, and I still do not know what I am looking at.
+Frawley died rich in 1898. The water still flows through his ditch, though it belongs to a company now. Nobody was punished. Nobody was rewarded. The water flowed the same direction it had always flowed.
+
+I take out the photograph sometimes. I still do not know what I am looking at.
