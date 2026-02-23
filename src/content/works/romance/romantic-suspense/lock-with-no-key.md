@@ -19,7 +19,7 @@ tags:
 rating: 4.2
 ratingCount: 8
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: >
   Cole's politically sharp romance and Lehane's working-class noir frame dual perspectives (Gone Girl) on a relationship haunted by a predecessor's fear-architecture (Rebecca)
 synopsis: >

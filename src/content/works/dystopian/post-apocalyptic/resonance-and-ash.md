@@ -19,7 +19,7 @@ tags:
 rating: 3.8
 ratingCount: 9
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: "Butler's unflinching survival instinct meets James's elegiac moral gravity, driven by McCarthy's stripped-bone journey structure and Mandel's insistence that art outlasts collapse — a post-apocalyptic story about what people carry when they can only carry one thing."
 synopsis: "A cellist walks north through the ruins of the Pacific Northwest, carrying a cracked instrument toward a settlement she may never reach, learning what it costs to keep beauty alive in a world that only rewards the practical."
 combination:

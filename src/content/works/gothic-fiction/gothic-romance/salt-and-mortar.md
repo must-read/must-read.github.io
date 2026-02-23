@@ -19,7 +19,7 @@ tags:
 rating: 4.0
 ratingCount: 9
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: >
   Du Maurier's atmospheric dread and Shelley's horror of creation shape an epistolary gothic (Wuthering Heights' layered narration) about a woman who stays in the dark house (Jane Eyre's moral trial inverted). Letters from an isolated estuary house reveal a narrator whose precision conceals what she will not see.
 synopsis: >

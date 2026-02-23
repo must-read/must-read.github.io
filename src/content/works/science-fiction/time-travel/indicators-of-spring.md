@@ -19,7 +19,7 @@ tags:
 rating: 4.0
 ratingCount: 9
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: >
   Chiang's crystalline thought-experiment precision meets Bradbury's nostalgic
   lyricism, structured through Vonnegut's shattered chronology and suffused

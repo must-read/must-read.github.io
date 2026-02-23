@@ -13,7 +13,7 @@ tags: [grimdark, multiple-perspectives, prophecy, ambition, tribunal, unreliable
 rating: 4.0
 ratingCount: 8
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: "Abercrombie's grimdark viscerality and Rothfuss's lyrical prose structure three unreliable testimonies (Rashomon) about a warlord's death foretold by prophecy (Macbeth)"
 synopsis: "Three witnesses testify before a tribunal about the death of warlord Aldric, found face-down in mud outside his camp. Each account reshapes the night into a different story. The truth lies in the gaps between them."
 combination:

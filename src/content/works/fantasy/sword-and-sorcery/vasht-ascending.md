@@ -13,7 +13,7 @@ tags: [sword-and-sorcery, reverse-chronology, sorcery, transformation, exile, gr
 rating: 3.9
 ratingCount: 8
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: "Abercrombie's cynical grimdark grit meets Miller's classical emotional elevation, built on Abercrombie's rotating-POV collision structure and Miller's themes of power earned through suffering — a sword-and-sorcery epic told in reverse, where every victory is recontextualized as loss."
 synopsis: "A sorceress stands over the body of the man who made her a weapon. Told in reverse across fifteen years, the legend of Vasht the Unmerciful unravels scene by scene — from goddess to exile to girl — and the reader carries the weight of everything she doesn't yet know."
 combination:

@@ -19,7 +19,7 @@ tags:
 rating: 3.7
 ratingCount: 9
 publishedDate: "2026-02-22"
-status: "draft"
+status: "published"
 formulaSummary: >
   Nabokov's ornate self-awareness and Cusk's austere observation create a
   split-register campus comedy (Lucky Jim) that doubles as an elegy for an

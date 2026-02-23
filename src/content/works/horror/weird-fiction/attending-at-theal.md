@@ -13,7 +13,7 @@ tags: [weird-fiction, multiple-voices, communal-ritual, body-horror, nested-narr
 rating: 4.2
 ratingCount: 10
 publishedDate: 2026-02-22
-status: draft
+status: published
 formulaSummary: "Aickman's inexplicable dread fused with Machado's queer-bodied surrealism, built on Danielewski's nested-document architecture and Jackson's horror of social consensus — a weird fiction told through contradicting voices about something a community refuses to name."
 synopsis: "Three documents describe the same night in a coastal English village: a woman's body-haunted testimony, a folklorist's impossible measurements, and a community's warm collective voice. None of them agree on what happened in the pool."
 combination:

@@ -19,7 +19,7 @@ tags:
 rating: 4.2
 ratingCount: 10
 publishedDate: 2026-02-22
-status: "draft"
+status: "published"
 formulaSummary: >
   Doyle's warm Watson narration and le Carré's institutional exhaustion frame
   a closed-circle mystery (Christie) where knowledge itself is the danger (Eco).
