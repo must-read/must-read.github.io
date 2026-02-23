@@ -7,8 +7,8 @@ authorA: "Robert Louis Stevenson"
 authorB: "Elmore Leonard"
 workX: "Topkapi"
 workY: "The Talented Mr. Ripley"
-wordCount: 4156
-readingTimeMinutes: 17
+wordCount: 3968
+readingTimeMinutes: 16
 tags:
   - "heist"
   - "identity"
@@ -121,7 +121,7 @@ Lena had no gaps.
 
 The plan was clean. Approach by night on La Colmena. I would board the platform via the maintenance ladder on the western face — unmanned, she said; the skeleton crew of two rotated off on Tuesday nights for resupply. Disconnect the array from its housing, rig it for lifting. Petros would operate the deck winch. Transfer to La Colmena. Motor to Kavala harbour. Offload to a truck. Drive to Thessaloniki. Ninety minutes on the platform.
 
-We took the ferry to Thasos the following afternoon, to observe the platform from the eastern shore. The crossing was forty minutes of grey water and diesel smoke, and I stood at the rail as the island resolved itself from haze — olive groves descending to a rocky coast, white houses scattered among them like dice thrown on a green cloth. The platform was visible to the north, a dark lattice against the horizon, small at that distance but unmistakable. I had seen it ten thousand times from ten thousand angles and had never thought of it as anything but my workplace, a structure of steel and purpose, but now, watching it from the ferry rail with the knowledge that I would board it uninvited, in darkness, to take something from it, the platform looked different to me. It looked like what it was: a man-made thing set down in deep water, far from help, far from law, and whatever happened there in the dark happened without witnesses save the sea.
+We took the ferry to Thasos the following afternoon, to observe the platform from the eastern shore. The crossing was forty minutes of grey water and diesel smoke, and I stood at the rail as the island resolved itself from haze — olive groves descending to a rocky coast, white houses scattered among them like dice thrown on a green cloth. The platform was visible to the north, a dark lattice against the horizon, small at that distance but unmistakable. I had seen it ten thousand times from ten thousand angles and had never thought of it as anything but my workplace. Now, watching it with the knowledge that I would board it uninvited, in darkness, to take something from it, the platform looked different. A man-made thing set down in deep water, far from help, far from law.
 
 Lena, beside me, studied it through a pair of compact binoculars and said nothing. She did not appear to see the thing I saw. She saw a schematic.
 
@@ -153,9 +153,9 @@ The plan was as follows.
 
 06:45 — Delivery to buyer at warehouse in Kalochori industrial district, west Thessaloniki.
 
-This was the plan. The plan was correct. Every element had been verified. The platform schedule, the crew rotation, the sea conditions, the route, the buyer's availability — each confirmed through channels I had spent six weeks establishing.
+This was the plan. Every element had been verified. The platform schedule, the crew rotation, the sea conditions, the route, the buyer's availability — each confirmed through channels I had spent six weeks establishing.
 
-The plan did not account for what it could not predict, but a plan that attempts to account for the unpredictable is not a plan. It is a fantasy.
+A plan that attempts to account for the unpredictable is not a plan. It is a fantasy.
 
 We departed at 21:08. Eight minutes late. Petros had trouble with the engine, which I had anticipated (La Colmena's engine trouble was not a variable but a constant), and I had built a thirty-minute buffer into the timeline.
 
@@ -167,7 +167,7 @@ Other things mattered.
 
 ## Nikos
 
-The platform, when we came upon it in the darkness, was not as I remembered it, and I cannot say whether the platform had changed or I had. It rose from the water like a geometry of black iron against the marginally less black sky, its legs barnacled to the waterline, its deck structures lightless save for the single red aviation warning lamp at the masthead, blinking its slow, solitary pulse like the heart of something that has forgotten it is alive.
+The platform, when we came upon it in the darkness, was not as I remembered it, and I cannot say whether the platform had changed or I had. It rose from the water like a geometry of black iron against the marginally less black sky, its legs barnacled to the waterline, its deck structures lightless save for the single red aviation warning lamp at the masthead, blinking its slow pulse.
 
 I went up the maintenance ladder. The rungs were familiar in dimension but strange in texture — corroded differently than I remembered, a new roughness under the gloves, as though the sea had been working at the metal with a different tool these past nine years. The wind came from the north-northeast at perhaps fifteen knots, steady, carrying the smell of open water and, faintly, something chemical — the residue of hydraulic fluid that has soaked into a platform's steel so deeply that no weather will ever fully drive it out.
 
@@ -181,7 +181,7 @@ I was cutting the sixth bolt when the light appeared.
 
 It came from the lower deck, through the grated floor, a white beam swinging in the methodical arc of a man who is checking his territory. Not a reflection. A torch. Someone was on the platform.
 
-He came up the companionway and found me kneeling beside the half-dismounted array with a grinder in one hand and a wrench in the other, and for a moment neither of us moved or spoke. He was young — twenty-five, perhaps — with the broad, sun-darkened face of the islands and the orange coveralls of a night watchman. His torch beam held on my face.
+He came up the companionway and found me kneeling beside the half-dismounted array with a grinder in one hand and a wrench in the other, and for a moment neither of us moved or spoke. He was young — twenty-five, maybe younger — with the broad, sun-darkened face of the islands and the orange coveralls of a night watchman. His torch beam held on my face.
 
 "Who are you?" he said. Not shouting. Confused.
 
@@ -201,13 +201,13 @@ He held the torch steady. I could see his other hand was empty. No radio, no wea
 
 "I know."
 
-We stood there. The wind moved between us. Below, the sea worked at the platform's legs with its eternal, indifferent patience.
+We stood there. The wind moved between us. Below, the sea worked at the platform's legs.
 
 "You worked here?" he said. "On these rigs?"
 
 "Eleven years. Prinos C-1 first, then this one."
 
-He lowered the torch slightly. Not pointing it away — just lowering it, so it caught my chest instead of my eyes, and in that small gesture I understood that he had already decided something, though neither of us could have said what.
+He lowered the torch slightly. Not pointing it away — just lowering it, so it caught my chest instead of my eyes.
 
 "The coupling on the auxiliary pump has been rattling for two weeks," he said. "I've reported it. They don't come."
 
@@ -217,9 +217,9 @@ He lowered the torch slightly. Not pointing it away — just lowering it, so it 
 
 "Check the shaft alignment. The mounting bolts on those Grundfos units work loose if the foundation plate isn't shimmed. Use a feeler gauge — you want less than five hundredths of a millimetre."
 
-He nodded. He was quiet for a moment.
+He nodded. He was quiet for a moment. Then he took his phone from his coverall pocket and looked at it, and I understood that the phone could do many things — call the coast guard, take a photograph of my face, record the serial number on the array housing — and that he was deciding which of these things, if any, he would do. He put the phone back.
 
-"Take what you came for," he said, and went back down the companionway, and the torch beam swung away through the grating and was gone, and I knelt again beside the array and finished my work in the dark with hands that were not entirely steady.
+"I'm going to check the lower deck," he said, which was not permission and not refusal, and he went back down the companionway, and the torch beam swung away through the grating, and I knelt again beside the array and finished my work in the dark with hands that were not entirely steady.
 
 ---
 
@@ -255,7 +255,7 @@ Nikos came down the ladder and dropped onto the deck. He looked tired. Not scare
 
 "No," he said. "No trouble."
 
-The thing about Nikos is he's a bad liar. Not because he gives tells — he doesn't fidget, doesn't look away. He's a bad liar because his face goes completely neutral, like he's concentrating on producing the correct expression, and that concentration is the tell.
+The thing about Nikos is he's a bad liar. His face goes completely neutral, like he's concentrating on producing the correct expression, and that concentration is the tell.
 
 I didn't push it. We had the array. The job was motor to Kavala, offload, collect our money. Whatever had happened on that platform was Nikos's business.
 
@@ -307,11 +307,11 @@ We arrived at Kavala harbour at 03:47. Thirteen minutes ahead of the revised sch
 
 The truck was where I had left it. We loaded the array in eleven minutes. Nikos and Petros lifted it together, and I directed the placement in the van's cargo area, and we secured it with ratchet straps and moving blankets.
 
-I paid them. Sixty thousand each, in banded stacks of five hundreds, drawn from three different accounts over a period of six weeks to avoid reporting thresholds. I had planned the payment structure in the same way I had planned every other element: completely.
+I paid them. Sixty thousand each, in banded stacks of five hundreds, drawn from three different accounts over a period of six weeks to avoid reporting thresholds.
 
 Nikos shook my hand. He held it. Not in the way of a man who is attracted, or a man who is making a point, but in the way of a man who has been permitted to be useful and wants the moment to last a few seconds longer than the transaction requires. I understood this. I let him hold my hand.
 
-Petros and I nodded. The nod was brief. It contained the transit clearance and my confirmation and his knowledge and my knowledge of his knowledge, and it contained also the fact that neither of us would do anything about any of this, because the job was done and the money was paid and pursuing the question of who I actually was would benefit no one.
+Petros and I nodded. The nod contained the transit clearance and my confirmation and his knowledge and my knowledge of his knowledge. Neither of us would do anything about any of it. The job was done and the money was paid.
 
 I drove east on the Egnatia Odos as the sky greyed over the Thracian coast. The highway was nearly empty at that hour — a few trucks, a bus, the occasional car moving fast between cities. I drove at the speed limit because Lena Andreopoulos drives at the speed limit. Lena Andreopoulos does not take unnecessary risks. Lena Andreopoulos is precise.
 
@@ -321,22 +321,22 @@ Somewhere past Xanthi the phrase came.
 
 What time is it. In Bulgarian. In the voice of my mother, who asked it every morning as I left for school in Plovdiv, not because she did not know the time but because asking was how she said be careful, the world is keeping score, don't be late.
 
-I had not thought in Bulgarian for eleven months. The language surfaces sometimes — in fatigue, in the minutes before sleep, in moments when the attention lapses and the older self slips through the crack. Elena Tosheva from Plovdiv. Who taught herself German from library books. Who became Lena Andreopoulos on a set of documents she purchased in Athens for twelve hundred euros and never took off.
+I had not thought in Bulgarian for eleven months. The language surfaces in fatigue, in the minutes before sleep, when the attention lapses and the older self slips through. Elena Tosheva from Plovdiv. Who taught herself German from library books. Who became Lena Andreopoulos on a set of documents she purchased in Athens for twelve hundred euros and never took off.
 
 Three years. Three years as Lena. Long enough that the performance was no longer effortful. Long enough that I caught myself thinking thoughts that only Lena would think — about tide tables, about maritime law, about the correct torque specifications for a Berchtesgaden housing mount. Elena did not know these things. Lena did. And the knowledge was real, even if the person who held it was not.
 
-The buyer's name was Grigorov. He operated out of a warehouse in Kalochori, on the western industrial fringe of Thessaloniki, among paint suppliers and truck depots. He met me at the loading dock. He inspected the array. He was satisfied. He called me Kyria Andreopoulos, and I responded to the name, and it was the correct name, because it was the name of the person who had organized this, who had planned it, who had executed it.
+The buyer's name was Grigorov. He operated out of a warehouse in Kalochori, on the western industrial fringe of Thessaloniki, among paint suppliers and truck depots. He met me at the loading dock. He inspected the array. He was satisfied. He called me Kyria Andreopoulos, and I responded to the name.
 
 He paid. I counted. The amount was correct.
 
 I walked out of the warehouse into mid-morning light. Thessaloniki was loud and indifferent — traffic, construction, a man selling roasted chestnuts from a cart that smelled of charcoal and burnt sugar.
 
-I stood on the sidewalk holding the envelope. I had no next job. There was nothing that required Lena Andreopoulos to exist. No plan to execute, no schedule to maintain, no performance to sustain. For three years there had always been a next thing — a contract, a contact, a problem that needed the particular shape of Lena's competence. The competence was the structure. Without it there was only the question of what remained.
+I stood on the sidewalk holding the envelope. I had no next job. For three years there had always been a next thing — a contract, a contact, a problem that needed the particular shape of Lena's competence. The competence was the structure.
 
 *Kolko e chasut?*
 
-I looked at my watch. It was 7:12. I did not know what to do next. Not in the ordinary sense — not the question of where to eat breakfast or whether to find a hotel. I did not know who would be doing these things. Which woman would walk down this street. Which name would be given at the hotel desk.
+I looked at my watch. It was 7:12. I did not know what to do next. Not in the ordinary sense — not the question of where to eat breakfast or whether to find a hotel. I did not know who would be doing these things.
 
 The chestnut seller called out his price. The traffic moved. A bus passed and its wake of warm air pushed against me and was gone.
 
-I stood there. I had the money. I had done everything correctly. The plan had worked. And the woman who had made the plan could not survive its completion, because the plan was the only thing keeping her real.
+I walked east. I did not know why east.
