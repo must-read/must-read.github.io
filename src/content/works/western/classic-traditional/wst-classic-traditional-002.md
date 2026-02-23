@@ -23,7 +23,7 @@ tags:
   - frontier-closing
   - autumn-1893
 rating: 3.5
-ratingCount: 0
+ratingCount: 8
 publishedDate: 2026-02-23
 status: "published"
 formulaSummary: >

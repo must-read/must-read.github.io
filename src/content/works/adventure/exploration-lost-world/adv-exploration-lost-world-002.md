@@ -10,8 +10,8 @@ workY: "Heart of Darkness"
 wordCount: 5103
 readingTimeMinutes: 20
 tags: ["caving", "expedition", "unreliable narrator", "karst geology", "grief", "scientific record", "Dinaric Alps", "underground lake", "speleogenesis", "mentor"]
-rating: 3.5
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: >

@@ -19,7 +19,7 @@ tags:
   - unreliable-narrator
   - risk-card-protagonist-is-wrong
 rating: 3.5
-ratingCount: 0
+ratingCount: 10
 publishedDate: 2026-02-23
 status: published
 formulaSummary: >

@@ -10,8 +10,8 @@ workY: "The Master and Margarita"
 wordCount: 3530
 readingTimeMinutes: 14
 tags: ["bureaucracy", "divinity", "worship", "loss", "belief", "identity", "pennsylvania"]
-rating: 3.5
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-23"
 status: "published"
 formulaSummary: "Gaiman's deadpan mythological mundanity and O'Connor's violent grace meet American Gods' diminished-deity road trip and Bulgakov's bureaucratized sacred"

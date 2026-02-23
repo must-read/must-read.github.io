@@ -1,0 +1,61 @@
+{
+  "workSlug": "adv-exploration-lost-world-002",
+  "reviews": [
+    {
+      "personaId": "adv-001-james",
+      "rating": 4,
+      "text": "Remarkably assured handling of an expedition narrative. The caving detail is first-rate — pitch heads, fixed ropes, rebreather margins, the survey protocol running like a backbone through the whole thing. Luka checking every bolt twice felt absolutely right; any rigger worth his salt does exactly that. What impressed me most was how the report format carries the emotional weight. The man is writing a scientific document because he cannot write a personal one, and by the time you reach that final paragraph about the incident report he 'did not write,' you understand everything he has been keeping below the surface. Josip's whistling — the way it maps the shape of the dark and then simply stops — stayed with me.",
+      "date": "2026-01-18",
+      "helpfulCount": 18
+    },
+    {
+      "personaId": "adv-002-priya",
+      "rating": 4,
+      "text": "The story understands something most expedition fiction doesn't: that the official record is always a political document. Tobias's report is immaculate — temperature readings, compass bearings, specimen classifications — and the immaculacy is itself the confession. 'True, but unverifiable; recorded, but not reproducible; mine, but belonging to a version of myself I am no longer certain I can vouch for' — that sentence does more work than most novels manage in 300 pages. I'm less convinced by the naming dynamics. Stahl names the chamber after himself and the narrator records this without comment, which could be devastating irony or a missed opportunity to interrogate the possessive impulse in scientific exploration. The porters are drawn with care but remain functional — they serve the narrative rather than troubling it. Still, the final revelation lands hard because the report format has trained you to trust every sentence, and then you realize you were trusting a man in freefall.",
+      "date": "2025-11-03",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "adv-003-tommy",
+      "rating": 2,
+      "text": "Look, the cave stuff is cool. Giant underground void, mysterious lake, formations that glow. But this is basically a geology paper with feelings hidden in it. Nothing actually happens for pages and pages — it's all temperature readings and mineral classifications. I kept waiting for the crisis and when it finally comes you don't even get to see it. The whole disaster is offloaded to some incident report we never read. I get what it's doing, the guy can't face what happened, but man, I wanted to actually be there when things went wrong, not piece it together from footnotes.",
+      "date": "2025-12-09",
+      "helpfulCount": 7
+    },
+    {
+      "personaId": "adv-004-helena",
+      "rating": 5,
+      "text": "This is the kind of story that makes you distrust everything you've just read — and that distrust is the point. The narrator constructs his report with a precision that initially reads as scientific competence but gradually reveals itself as a man building a wall between himself and something unbearable. The moment he describes driving through the Karawanken Tunnel, clinging to dashboard readings and road gradients because those numbers are 'real and verifiable and they did not contradict each other' — that broke me. The whole story is a man trying to stay inside the measurements because the thing that happened between the measurements cannot be survived a second time. The cave itself is extraordinary, but it functions as metaphor without ever ceasing to be a real cave, which is the hardest trick in fiction. And the ending, where three people are dead and the only acknowledgment is a case number — devastating.",
+      "date": "2026-02-14",
+      "helpfulCount": 38
+    },
+    {
+      "personaId": "adv-005-declan",
+      "rating": 4,
+      "text": "Right, so the trick of this one is that it reads like an academic paper and somehow that's what makes it devastating. You're going along thinking, grand, another cave survey, nice bit of geology — and then the temperature readings don't add up, and Stahl stops talking, and Josip stops whistling, and you realize the careful, measured voice you've been trusting has been lying to you since page one. Not lying exactly. Omitting. The bit with the glacier photograph — the annotation that ends mid-word — that's the kind of detail that sits in your chest. I read it at closing time and poured myself a whiskey afterward, which is about the highest compliment I can give a story. The geology slowed me down in places but I forgive it because without the geology the ending doesn't land.",
+      "date": "2025-09-28",
+      "helpfulCount": 14
+    },
+    {
+      "personaId": "adv-006-miriam",
+      "rating": 4,
+      "text": "Structurally this is very accomplished. The expedition report contains grief, and the tension between what the format demands (objectivity, data, reproducibility) and what the narrator cannot say is sustained with impressive control. Each section descends deeper — literally and emotionally — and the moments where the scientific voice fractures are precisely calibrated. The four expedition members are economically but distinctly drawn: Stahl through his obsessive naming and bad knees, Josip through his whistling, Luka through his bolt-checking ritual. My one reservation is that the final paragraph does a great deal of work very quickly. Three deaths are revealed in a single sentence and then the story ends. I wonder whether that speed serves the narrator's avoidance or shortchanges the reader. On balance I think the former, but it's close.",
+      "date": "2026-01-05",
+      "helpfulCount": 25
+    },
+    {
+      "personaId": "adv-007-reed",
+      "rating": 4,
+      "text": "The unreliable-narrator-as-scientific-report is not a new move, but this executes it at a level I wasn't expecting. The semicolon-heavy cataloguing in the early sections is genuinely pleasurable, and the slow erosion of that certainty — Stahl's abandoned sentences, the narrator's parenthetical admissions that his observations are 'true, but unverifiable' — never announces itself. What prevents this from being a five is that the cave occasionally tips into the sublime in ways that feel orchestrated. The flare dropping nine seconds into the void, formations that glow blue-green, the lake that 'could have been the absence of a surface altogether' — each one is effective, but collectively they follow a gradient of increasing wonder that felt programmatic rather than discovered. The human material, though — Stahl's face rearranging itself at the void's edge, Luka's sacramental bolt-checking — is flawless.",
+      "date": "2025-10-22",
+      "helpfulCount": 33
+    },
+    {
+      "personaId": "adv-008-yuki",
+      "rating": 4,
+      "text": "The register control in this piece is remarkable. It opens in full academic formality — 'submitted to the Austrian Speleological Association' — and maintains that voice with enough consistency that the moments of slippage carry tremendous weight. The sentence about the kitchen table that was never bare, the minerals remembered with more tenderness than the man who collected them: that is not report language, and the narrator seems to know it, pulling back each time into measurement and data. The word 'endorheic' itself functions beautifully — a closed system with no outlet, describing both the cave and the grief. I would note that the final driving passage, with its accumulation of verifiable numbers, achieves a rhythm that would be very difficult to render in translation: the flatness is the emotion, and that kind of tonal inversion depends entirely on the original syntax. A story that trusts its reader to hear what is not being said.",
+      "date": "2025-08-17",
+      "helpfulCount": 29
+    }
+  ]
+}
