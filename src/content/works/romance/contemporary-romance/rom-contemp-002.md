@@ -7,8 +7,8 @@ authorA: "Emily Henry"
 authorB: "Courtney Milan"
 workX: "Normal People"
 workY: "Pride and Prejudice"
-wordCount: 3395
-readingTimeMinutes: 14
+wordCount: 3891
+readingTimeMinutes: 16
 tags:
   - class-difference
   - slow-burn
@@ -81,7 +81,7 @@ We were polite. We were funny, even, in the way that two people who are both qui
 
 He moved to Providence. I stayed in New York. He designed affordable housing initiatives for the city. I built pricing models for a hedge fund that had, among its many interests, real estate development. We were on the same frequency and could not hear each other.
 
-Once — at a New Year's party, maybe year four — we ended up on the same fire escape. He was smoking a cigarette he'd bummed from someone, which surprised me because I didn't think he smoked, and he said he didn't, and I said then why, and he said because it was an excuse to stand outside, and I said I didn't need an excuse, and he said no, you wouldn't. We stood there for ten minutes. The party hummed behind us. Neither of us said anything important, and when he went back inside, my hands were shaking, and I blamed it on the cold, because I am a person who builds models and models require inputs and *I am afraid of this* is not a valid input.
+Once — at a New Year's party, maybe year four — we ended up on the same fire escape. He was smoking a cigarette he'd bummed from someone, which surprised me because I didn't think he smoked, and he said he didn't, and I said then why, and he said because it was an excuse to stand outside, and I said I didn't need an excuse, and he said no, you wouldn't. We stood there for ten minutes. The party hummed behind us. Neither of us said anything important, and when he went back inside, my hands were shaking, and I blamed it on the cold, which was a lie, but a useful one, because it kept the data clean.
 
 ---
 
@@ -137,7 +137,7 @@ That was the first lie. That word.
 
 The housing conference in Boston was in January. I went because Caleb was presenting, and I had stopped pretending I wasn't tracking his schedule, which was either progress or the opposite.
 
-His panel was on community-led alternatives to developer-driven redevelopment. He stood at a podium in a blazer that fit him now — he'd grown into his clothes the way some people grow into their convictions, slowly and then all at once — and he spoke about places like Mercer Falls without naming it. About the mathematics of decline: how you can model the point at which a community becomes more valuable as a parcel than as a place, and how that model is never wrong and is always a choice.
+His panel was on community-led alternatives to developer-driven redevelopment. He stood at a podium in a blazer that fit him now — he'd grown into his clothes the way some people grow into their convictions, without noticing until someone else pointed it out — and he spoke about places like Mercer Falls without naming it. About the mathematics of decline: how you can model the point at which a community becomes more valuable as a parcel than as a place, and how that model is never wrong and is always a choice.
 
 He was describing my spreadsheet. He didn't know it.
 
@@ -153,7 +153,7 @@ I almost told him. About the deal, about Lorraine, about the word I'd written in
 
 I swallowed it. I asked about Providence instead. He told me about a project — community land trust, resident ownership model, the kind of structure that makes developers nervous because it works. His eyes changed when he talked about it. Not softer. Brighter. The way a frequency clears when the interference drops.
 
-We stood in that lobby for ninety minutes. At one point a conference attendee came over to congratulate him on the panel and he introduced me as "my friend Noor," and the word *friend* sat between us like a placeholder in a formula — technically correct, structurally insufficient, waiting to be solved for.
+We stood in that lobby for ninety minutes. At one point a conference attendee came over to congratulate him on the panel and he introduced me as "my friend Noor," and the word *friend* sat between us like a placeholder in a formula — technically correct, solving for nothing.
 
 When I left, he touched my arm — just my arm, just briefly, the way you touch someone you're not sure you're allowed to touch — and I drove to my hotel and sat in the parking garage for twenty minutes with the engine running because the model had broken and I didn't know what to price anymore.
 
@@ -203,11 +203,11 @@ He spoke first.
 
 I started to say which part, but he kept talking, and his voice was different — stripped, no architecture, no conviction, just the raw feed.
 
-"Not the golden retriever thing. The other thing. You told Priya I was the kind of guy who'd be fine." He changed lanes. He was a careful driver. "And you were right. I have always been fine. I put myself through school and I got a scholarship and I built a career and I am fine. I am fine every single day, and being fine is the loneliest thing I know, because it means no one has ever looked at my life and thought it required their attention."
+"Not the golden retriever thing. The other thing. You told Priya I was the kind of guy who'd be fine." He changed lanes. He was a careful driver. "And you were right. I have been fine. Scholarships, career, all of it. Fine." He said the word like he was testing its load capacity. "Do you know what fine means? Fine means nobody ever — " He stopped. Changed lanes again, unnecessarily. "It means you can go years without anyone thinking your life requires their attention."
 
 The car was very quiet. The heater was making a sound like something small was trapped in it.
 
-"I've spent seven years angry at you for seeing me clearly," he said. "That's not your fault. That's mine. But it's also — you didn't see me clearly. You saw a version of me that was easy to dismiss, and you chose it because the other version would have cost you something."
+"Seven years," he said. "That's a long time to be angry at someone for — I don't even know what. For being right? You weren't even right. You saw the version that was easy to file away and you went with it because the other version would have been — inconvenient. For you."
 
 I was supposed to speak here. This was the moment — in every story I've told myself about myself — where I say something witty and precise and the conversation pivots and I maintain the structure.
 
@@ -234,8 +234,6 @@ He pulled over. Not dramatically — there was no screech, no sudden stop. He ju
 "At what?"
 
 "At letting someone see me before I've decided what they're going to see."
-
-Something in my chest shifted. Not broke. Shifted. Like a model recalibrating.
 
 "I'm not good at it either," I said. "I'm good at seeming good at it. Which is worse."
 
@@ -269,18 +267,12 @@ Caleb hung up and looked at the wall for a long time.
 
 "The model's never done."
 
-He looked at me then, and what I saw on his face was not resolution. Not the expression of a man who has figured it out, who has arrived at the answer, who has reconciled the interference between two frequencies that were never meant to align. What I saw was something smaller and more durable than that: the decision to keep working the problem. With me. In a room that smelled like floor wax. On a Tuesday.
+He looked at me then, and I didn't try to read his face. I was tired of reading faces. I was tired of building models of people who were sitting right in front of me.
 
-The volatility smile says: the closer you get to something real, the less your model can tell you what happens next. Every quant knows this. We price it, we hedge it, we build entire careers on the mathematics of not knowing.
+Caleb reached across the table and took the pen I'd been clicking. He didn't take my hand. He took the pen, because I'd been clicking it for twenty minutes and it was driving him crazy, and he said, "Stop that," and I said, "Make me," and neither of us moved and neither of us looked away and the model on my screen had a gap in it the size of a county.
 
-But the graph also says something else, if you look at it differently. It says: the model breaks because the stakes are real. And the stakes are real because you moved toward the edge. And you moved toward the edge because the center — the safe, at-the-money, no-one-gets-hurt middle — was never where anything worth pricing lived.
+Outside, it was still March. Lorraine's house was still the last occupied house on a street where eighteen families used to live, and the developer was still circling, and Caleb hadn't saved Mercer Falls, and I hadn't fixed anything by switching sides. The land trust model on my laptop was half-finished and might not work. Most of them don't.
 
-Caleb reached across the table and took the pen I'd been clicking. He didn't take my hand. He took the pen, because I'd been clicking it for twenty minutes and it was driving him crazy, and he said, "Stop that," and I said, "Make me," and the banter was back but different now — load-bearing, warm, built on something that could hold weight.
+He gave me back the pen. His fingers touched mine when he did it, and I thought about the volatility smile — how the graph spikes at the edges, how the model fails precisely where the stakes get real — and then I stopped thinking about the volatility smile, because I was tired of understanding my life through math, and because his hand was warm, and because some things do not need to be priced to be worth something.
 
-Outside, it was still March. The land trust model was still unfinished. Lorraine's house was still the last occupied house on a street where eighteen families used to live, and the developer was still circling, and Caleb hadn't saved Mercer Falls, and I hadn't fixed the systemic problem by switching sides.
-
-But he was sitting across from me, doing ordinary things, and the silence between us was ours, and it wasn't a performance. It was just a Tuesday. The kind of Tuesday that, if you are lucky and if you have stopped lying to yourself with mathematical precision, becomes the first Tuesday of many.
-
-My model had broken. I was not going to fix it.
-
-I was going to build a new one.
+He went back to his zoning document. I went back to my regression. The silence held.
