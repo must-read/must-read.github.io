@@ -7,8 +7,8 @@ authorA: "George Saunders"
 authorB: "Franz Kafka"
 workX: "Bartleby, the Scrivener"
 workY: "Bullshit Jobs"
-wordCount: 4636
-readingTimeMinutes: 19
+wordCount: 4522
+readingTimeMinutes: 18
 tags:
   - corporate-satire
   - ai-safety
@@ -226,7 +226,7 @@ Current conditions: PM2.5 at 68 µg/m³ (Moderate to Unhealthy for Sensitive Gro
 
 Guests with respiratory sensitivities are advised to limit extended outdoor activity. The conference center's HVAC system maintains interior air quality within ASHRAE-recommended parameters. Conference programming is unaffected.
 
-The inversion is expected to dissipate Thursday morning when a frontal system arrives from the northwest. Until then, the warm air above and the cold air below will remain in their current arrangement: the valley holding what rises, the sky clear and sunlit and unreachable.
+The inversion is expected to dissipate Thursday morning when a frontal system arrives from the northwest. Until then, the warm air above and the cold air below will remain in their current arrangement.
 
 We appreciate your understanding and wish you a pleasant stay.
 
@@ -256,8 +256,6 @@ Key topics include:
 - Audit fatigue and the diminishing signal-to-noise ratio in mature compliance environments, where the fourteenth audit in a cycle may be measuring the organization's proficiency at being audited rather than its actual safety posture
 - Reflexive measurement: the observer effect in algorithmic accountability, and the question of whether an observed system and an unobserved system are, for practical purposes, different systems
 - Case studies in what Llewellyn calls "the measurement gap" — the distance between a metric and the human outcome it purports to represent, illustrated through three examples from Aligned Futures' client portfolio (anonymized)
-
-Llewellyn argues that the field's next frontier is not more precise measurement but a rigorous accounting of what measurement cannot capture. "The challenge," he writes in a recent white paper for the ARGO Collaboration, "is not to measure better but to measure the gap between measurement and impact — and to resist the temptation to close that gap by redefining impact as measurement."
 
 The keynote will close with a preview of Aligned Futures' forthcoming Audit Impact Assessment (AIA) protocol, which attempts to track the real-world outcomes of audit recommendations over a twenty-four-month horizon. Preliminary results will be published in Q4.
 
@@ -374,7 +372,7 @@ Will do. Get the Cobalt renewal. We need it for Q2.
 *Audit Standards Harmonization: Toward a Unified Protocol*
 Facilitator: Prof. Joanna Kelleher (Georgetown AI Policy Lab)
 
-This working session builds on two years of cross-organizational dialogue to develop a harmonized audit protocol that can serve as the basis for mutual recognition among independent audit firms. The goal is not to mandate a single methodology but to establish interoperability — so that an audit conducted by one firm can be understood, evaluated, and accepted by another. Participants will review the draft Unified Audit Protocol (UAP) document, now in its seventh revision, and provide feedback on sections covering scope definition, stakeholder identification, data access requirements, and reporting formats. The UAP is a living document. It has always been a living document. It will continue to be a living document for as long as the conditions it describes continue to change, which is to say, indefinitely.
+This working session builds on two years of cross-organizational dialogue to develop a harmonized audit protocol that can serve as the basis for mutual recognition among independent audit firms. The goal is not to mandate a single methodology but to establish interoperability — so that an audit conducted by one firm can be understood, evaluated, and accepted by another. Participants will review the draft Unified Audit Protocol (UAP) document, now in its seventh revision, and provide feedback on sections covering scope definition, stakeholder identification, data access requirements, and reporting formats. The UAP is a living document. It will continue to be a living document for as long as the conditions it describes continue to change, which is to say, indefinitely.
 
 **Conference Room Wisdom**
 *Accountability Frameworks for a Changing Landscape*
@@ -462,7 +460,7 @@ _____________________________________________________________
 
 _____________________________________________________________
 
-*Thank you for your feedback. Please return completed forms to the registration desk or deposit them in the collection boxes located outside each conference room. Your responses directly shape next year's programming. The forms are read. The forms have always been read.*
+*Thank you for your feedback. Please return completed forms to the registration desk or deposit them in the collection boxes located outside each conference room. Your responses directly shape next year's programming. The forms are read.*
 
 ---
 
@@ -544,11 +542,9 @@ We are pleased to announce that **RAILS 2027** will be held **March 9-11, 2027**
 
 Early registration opens May 1. As a returning delegate, you will receive priority access and a 15% discount on registration fees. As a three-year returning speaker, you will also be invited to join the RAILS Programming Advisory Board, whose members help shape the agenda and review session proposals. The Board meets quarterly via videoconference. There is no additional compensation, but Board membership is listed in the conference program.
 
-We look forward to welcoming you back. The work continues.
+We look forward to welcoming you back.
 
 With gratitude,
 The RAILS 2026 Organizing Committee
 
 *This email was generated automatically. Badge scan data is collected in accordance with the RAILS Privacy and Data Use Policy (v3.2) and is retained for eighteen months. To opt out of future communications, reply UNSUBSCRIBE. To update your dietary restrictions for RAILS 2027, visit your delegate profile at railssummit.org/profile.*
-
-*P.S. — The thermal inversion over the Truckee basin dissipated Thursday morning, as forecast. We hope you enjoyed clear skies for your departure.*
