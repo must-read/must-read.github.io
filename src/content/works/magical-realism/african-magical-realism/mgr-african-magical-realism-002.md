@@ -7,8 +7,8 @@ authorA: "Ben Okri"
 authorB: "Salman Rushdie"
 workX: "Things Fall Apart"
 workY: "A Grain of Wheat"
-wordCount: 3688
-readingTimeMinutes: 15
+wordCount: 3503
+readingTimeMinutes: 14
 tags:
   - independence
   - spirits
@@ -61,11 +61,11 @@ Kamau wa Njoroge woke that morning with his hand aching. The left hand. Three fi
 
 Today the village of Kamathi would celebrate. The Union Jack would come down. The new flag would go up. Chief Karanja had been rehearsing his speech for three weeks, pacing under the acacia in his compound, and even the goats had stopped listening.
 
-Kamau stood in his doorway and watched the chief's son, Ngugi, practicing with the flag. The boy was seventeen, born the year the Emergency began, and he handled the fabric with the exaggerated care of someone who understands the symbol but not the cost. Red bunting hung between the schoolhouse and the chief's compound. Someone had painted UHURU on a bedsheet and strung it across the road that led to the lake. The letters were uneven, the H leaning into the U like a drunk leaning on a friend, and Kamau looked at it and felt the particular hunger of a man who has paid for something with his body and is about to see it given to someone who paid with a speech.
+Kamau stood in his doorway and watched the chief's son, Ngugi, practicing with the flag. The boy was seventeen, born the year the Emergency began, and he handled the fabric with the exaggerated care of someone who understands the symbol but not the cost. Red bunting hung between the schoolhouse and the chief's compound. Someone had painted UHURU on a bedsheet and strung it across the road that led to the lake. The letters were uneven, the H leaning into the U like a drunk leaning on a friend, and Kamau looked at it and felt the hunger of a man who has paid for something with his body and is about to see it given to someone who paid with a speech.
 
 The women were already at the lake. From Kamau's doorway he could see them, small against the flat alkaline water, their ankles white where the mineral bit. Among them, beneath them, around them — the dead. You could see them if you knew where to look. The white shapes under the surface. The sodium carbonate had done its work patiently, replacing flesh with mineral, smoothing the features into something between a face and a stone, preserving the bodies so completely that they looked less like corpses and more like men who had decided to lie down in shallow water and had simply stayed. Flamingos stepped between them on their backward knees, bending to feed, their reflections mingling with the calcified faces below.
 
-Kamau's brother Kariuki was the third figure from the eastern shore, arms at his sides, face upward, eyes replaced by smooth depressions that held rainwater and small insects. Kamau had not looked at him closely in years. You could not look closely at your brother's mineral face every day and continue to collect trona for your wife's cooking pot. So he looked and looked away, and the phantom fingers curled, and the morning was hot and still and smelled of soda and the particular sweetness of flamingo dung.
+Kamau's brother Kariuki was the third figure from the eastern shore, arms at his sides, face upward, eyes replaced by smooth depressions that held rainwater and small insects. Kamau had not looked at him closely in years. You could not look closely at your brother's mineral face every day and continue to collect trona for your wife's cooking pot. So he looked and looked away, and the phantom fingers curled, and the morning was hot and still and smelled of soda and flamingo dung.
 
 ---
 
@@ -85,13 +85,13 @@ They took their places. Each one stood behind a specific living person. The geom
 
 Kamau felt his brother's presence the way he felt his missing fingers. A weight where an absence should be. He did not turn around. He did not need to.
 
-Chief Karanja looked at the dead among his people and said: "When you follow the trail of the elephant, you do not get entangled in the bush." He meant: do not let this distract from the celebration. He meant: the big thing is independence, and the dead are the small thing, the bush around the elephant's legs. He was wrong. The dead were the elephant. The dead were the trail and the bush and the ground the elephant walked on. But the chief had a speech to give and a flag to raise, and a man with a speech will step over a body in the road if the podium is close enough.
+Chief Karanja looked at the dead among his people and said: "When you follow the trail of the elephant, you do not get entangled in the bush." He was wrong. The dead were the elephant. But the chief had a speech to give and a flag to raise, and a man with a speech will step over a body in the road if the podium is close enough.
 
 ---
 
 The preparations continued around the dead the way water continues around stones.
 
-The school choir rehearsed under the acacia. Odhiambo led them because Odhiambo was the schoolteacher, because Odhiambo had survived the Emergency by a method no one named, because Odhiambo now taught children the national anthem of a country that existed because men and women he had betrayed had died for it. He stood before the children with his pitch pipe and his neat trousers and his face that had the particular tightness of a man who has held a secret so long it has become a muscle — a permanent contraction behind the jaw, a clenching that others mistake for dignity.
+The school choir rehearsed under the acacia. Odhiambo led them because Odhiambo was the schoolteacher, because Odhiambo had survived the Emergency by a method no one named, because Odhiambo now taught children the national anthem of a country that existed because men and women he had betrayed had died for it. He stood before the children with his pitch pipe and his neat trousers and his face that had the tightness of a man who has held a secret so long it has become a muscle — a permanent contraction behind the jaw, a clenching that others mistake for dignity.
 
 Behind him, Muthoni. The woman he had sold to the British for the location of the forest camp. Her mineral face carried the smoothed impression of a mouth that had been open when she died — not screaming, the village decided long ago, but speaking, saying something the sodium carbonate had preserved in mineral and silence. She stood at his shoulder while he taught thirty children to sing about freedom. The children did not look at her. Children are better than adults at navigating around the immovable.
 
@@ -123,7 +123,7 @@ He spoke in Gikuyu. He spoke with the slow certainty of a man who has practiced 
 
 "My people. My people who are standing here. My people who are standing here and my people who are standing here." He did not gesture toward the dead. He did not need to. "The spear has been in the ground a long time. Today we pull it out. Today we say: this soil is what we have always said it was. Ours. Ours because we planted in it. Ours because we buried in it. Ours because we bled into it and the soil drank and did not refuse."
 
-Kamau listened. The speech was finding him. He did not want it to find him but the chief's voice had the particular frequency that bypasses the ear and enters through the sternum, and Kamau felt the words landing in his chest like stones dropped into the alkaline water — each one sending a ring outward, each ring touching the one before it, the patterns overlapping until the surface trembled with a coherence that was almost, almost, almost conviction.
+Kamau listened. The speech was finding him. He did not want it to find him but the chief's voice had a frequency that bypasses the ear and enters through the sternum, and Kamau felt the words landing in his chest like stones dropped into the alkaline water — each one sending a ring outward, each ring touching the one before it, the patterns overlapping until the surface trembled with something near conviction.
 
 "The forest fighters," the chief said, and his voice thickened. "The ones who went into the trees and became the trees. The ones who slept on the ground and became the ground. They purchased this day. They purchased it at a price we cannot calculate because the currency was themselves. We owe them a debt that no ceremony can pay, but we pay it anyway, because the debtor who does not come to the table is worse than the debtor who comes with too little."
 
@@ -151,7 +151,7 @@ His voice was the voice of a man putting down something he has carried too long.
 
 He said the names looking at the dead. Addressing the dead. As though the living were the audience and the dead were the judge and jury, which they were, which they had always been, which they had walked out of the lake to be.
 
-The village did not erupt. The village did not shout or surge or weep. The village went quiet with the particular quality of silence that is not absence of sound but presence of attention — the same quality the dead had carried out of the lake, as though the silence were a substance they had brought with them, alkaline and preserving, and now the living were standing in it, and it was changing them, and they could feel it on their skin the way the trona changed the women's heels: slowly, chemically, one layer at a time.
+The village did not erupt. The village did not shout or surge or weep. The village went quiet with a silence that was not absence of sound but presence of attention — the same quality the dead had carried out of the lake, as though the silence were a substance they had brought with them, alkaline and preserving, and now the living were standing in it, and it was changing them, and they could feel it on their skin the way the trona changed the women's heels: slowly, chemically, one layer at a time.
 
 Kamau's mouth was still open. His accusation — the word he had shaped with his tongue for eleven years, the name he had carried like a phantom limb of speech — had been spoken by someone else. Odhiambo had confessed before Kamau could accuse. His one act of justice, the single gesture that would have made the day mean what he needed it to mean, had been taken from him by the man who owed it.
 
@@ -161,8 +161,8 @@ The flag went up. Chief Karanja raised it because the flag does not wait for the
 
 The school choir, confused but trained, began to sing.
 
-The dead watched the flag. Kariuki's mineral face was turned upward, and on it was an expression that the Gikuyu language has a word for but English does not — something between watching and weighing, between witness and creditor, between a man who has been repaid and a man who has been shown the empty place where the payment should be. Kamau looked at his brother's face and then at his own hand — the two fingers, the three absences, the permanent phantom — and understood something he did not have words for. That independence was this. Not the flag. Not the speech. This: a phantom limb. You feel it where it should be. It aches in the shape of what was promised. You cannot close your hand around it.
+The dead watched the flag. Kariuki's mineral face was turned upward, and on it was an expression that the Gikuyu language has a word for but English does not — something between watching and weighing, between witness and creditor. Kamau looked at his brother's face and then at his own hand — the two fingers, the three absences — and closed his fist on nothing.
 
-On the table, the land deeds sat under the surveyor's chain. They had not been signed. They had not been torn up. The chain's weight pressed the names into the paper. Nobody reached for them. The dead stood nearby, their mineral attention steady, and the unsigned paper held its breath.
+On the table, the land deeds sat under the surveyor's chain. They had not been signed. They had not been torn up. The chain's weight pressed the names into the paper. Nobody reached for them.
 
-The women went back to the lake. The sun was still high and there was trona to collect and dinner to cook. They stepped around the wet footprints the dead had left on the volcanic shore — white prints already drying, already fading, already becoming the kind of mark you could mistake for mineral deposit or old waterline or nothing at all. The flamingos resettled on the shallow water, their pink bodies bright between the empty places where the dead had lain, and the chicks cried out from their mud nests, and the alkaline water held its heat, and the lake went on being what it had always been: the place where the dead were kept and the place where the living came to gather what they needed for the day.
+Odhiambo was still standing. Muthoni was still behind him. The children had stopped singing and were watching the adults the way children watch adults when they understand that something has broken and no one is going to explain it. Chief Karanja's hands were on the podium, gripping the mvule wood, and his dead wife stood on her mineral toes behind him, and the new flag snapped in the wind off the lake, and no one moved toward the table, and no one moved away from it.
