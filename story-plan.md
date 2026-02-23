@@ -1,214 +1,206 @@
-# Story Plan: pf-thought-experiment-001
+# Story Plan: hf-historical-romance-001
 
-**Genre**: philosophical-fiction
-**Subgenre**: thought-experiment
-**Combination ID**: pf-thought-experiment-001
-**Target Word Count**: 4,200 words (range: 3,900-4,500)
-**Risk Card**: None
-
-## Formula Sources
-
-- **Author A (Ted Chiang)**: philosophical premises explored with scientific method; the narrator who discovers something about the nature of reality and must decide what to do with the knowledge; crystalline prose that makes the abstract visceral
-- **Author B (Jorge Luis Borges)**: philosophical short fiction as intellectual architecture; infinity rendered in miniature; the idea that contains all other ideas
-- **Work X (Exhalation)**: a being dissecting its own brain to understand consciousness; entropy as personal discovery; consciousness as physical process
-- **Work Y (The Library of Babel)**: a library containing every possible book; the librarian searching for the catalog of catalogs; infinity as both paradise and madness
+**Genre**: historical-fiction / historical-romance (NEW subgenre)
+**Combination ID**: hf-historical-romance-001
+**Target Word Count**: 5,400 words (range: 5,100-5,700)
+**Risk Card**: WITHHELD INFORMATION -- the protagonist never names her desire
 
 ---
 
-## Writing Samples
+## Research Summary
 
-### Ted Chiang — Exhalation (selected quotes demonstrating style)
+### Prose Sources Collected
 
-> "Air is in fact the very medium of our thoughts. All that we are is a pattern of air flow."
+**Sarah Waters (Tipping the Velvet)**: Nancy's confession to Alice -- "When I see her, it's like -- I don't know what it's like. It's like I never saw anything at all before. It's like I am filling up, like a wine-glass when it's filled with wine. I watch the acts before her and they are like nothing -- they're like dust. Then she walks on the stage and -- she is so pretty; and her suit is so nice; and her voice is so sweet... She makes me want to smile and weep, at once. She makes me sore, here." Waters builds desire through accumulation of sensory detail, physical specificity, and the body's knowledge outpacing the mind's vocabulary. Her music hall is "the scent of wood and grease-paint and spilling beer, of gas and of tobacco and of hair-oil" -- the smell of applause, later known as the odour of grief. Kinetic prose that moves with the character's body through physical space.
 
-> "The lattice was not so much a machine as it was a page on which the machine was written, and on which the machine itself ceaselessly wrote."
+**Sarah Waters (The Night Watch)**: Kay dressing carefully in tailored slacks and men's shoes, walking through "well-swept, devastated streets" with nowhere to go. The isolated queer body moving through a world that sees the surface and not the person. "Sometimes she walked restlessly about, just as lunatics were said to" and other times remained "stiller than a shadow."
 
-> "My consciousness could be said to be encoded in the position of these tiny leaves, but it would be more accurate to say that it was encoded in the ever-shifting pattern of air driving these leaves."
+**Madeline Miller (Circe)**: "In a solitary life, there are rare moments when another soul dips near yours, as stars once a year brush the earth." Classical syntax, elevated register that gives emotional experience the weight of myth. First-person narration that circles around feeling without declaring it. "When we are young, we think ourselves the first to have each feeling in the world." "All those years I had spent with them were like a stone tossed in a pool. Already, the ripples were gone." Transformation as both power and exile.
 
-> "Eventually, all the air in our universe will be evenly distributed, no denser or more rarefied in one spot than in any other, unable to drive a piston, turn a rotor, or flip a leaf of gold foil."
+**Sappho, Fragment 31**: "That man seems like the gods to me -- the one who sits facing you and nearby listens as you sweetly speak -- and he hears your lovely laugh -- this then makes the heart in my breast stutter, when I glance even briefly, it is no longer possible for me to speak -- but my tongue sticks in silence and immediately a slender flame runs under my skin. I cannot see with my eyes, I hear a rush in my ears -- a cold sweat breaks over me and a tremble takes hold of me. Then I am paler than grass, I think that I have died just a little." The foundational text for this story's architecture: desire constructed entirely from its physical symptoms, the emotional center being the thing the poem never names.
 
-> "With every movement of my body, I contribute to the equalization of pressure in our universe. With every thought that I have, I hasten the arrival of that fatal equilibrium."
+### Wikipedia Concept Mining (2 selected from 20 surveyed)
 
-> "When I was done, my brain looked like an explosion frozen an infinitesimal fraction of a second after the detonation, and again I felt dizzy when I thought about it."
+**1. Phantom Limb** (Silas Weir Mitchell, coined 1871): The vivid sensation of a missing body part still being present. Civil War amputees described feeling pain in arms and legs that had been removed. The body remembers what the mind knows is gone. Mitchell published the concept first as fiction ("The Case of George Dedlow," 1866) before presenting it as medical fact -- truth needed the disguise of story before it could be spoken. **Integration**: The protagonist experiences her desire as a phantom limb -- a sensation in a place that, for a woman like her in 1890s London, does not officially exist. She feels the ache of something she has no body part for. The concept also works structurally: the reader feels the missing declaration of desire the way an amputee feels a missing hand. Mitchell's phantom-limb research was active London medical discourse in the 1890s, making it period-appropriate -- the older woman references the phenomenon in conversation, and neither woman says what the protagonist recognizes in it.
 
-> "The universe began as an enormous breath being held... And until this great exhalation is finished, my thoughts live on."
-
-**Style notes**: Chiang's prose is precise, declarative, unornamented. He uses physical imagery to make abstract concepts visceral. Every sentence does work. The power comes from clarity — the horror of his endings emerges from the reader understanding the science well enough to feel the implication. He does not tell you to be afraid; he tells you what the gold leaf means, and you become afraid on your own.
-
-### Ted Chiang — Story of Your Life (opening)
-
-> "Your father is about to ask me the question. This is the most important moment in our lives, and I want to pay attention, note every detail."
-
-**Style notes**: Intimate second-person address. Time folded into a single present. Emotional precision.
-
-### Jorge Luis Borges — The Library of Babel (selected quotes)
-
-> "The universe (which others call the Library) is composed of an indefinite, perhaps infinite number of hexagonal galleries."
-
-> "All — the detailed history of the future, the autobiographies of the archangels, the faithful catalog of the Library, thousands and thousands of false catalogs, the proof of the falsity of those catalogs, a proof of the falsity of the true catalog..."
-
-> "For every rational line or forthright statement there are leagues of senseless cacophony."
-
-> "A number *n* of the possible languages employ the same vocabulary; in some of them, the symbol 'library' possesses the correct definition 'everlasting, ubiquitous system of hexagonal galleries,' while a library — the thing — is a load of bread or a pyramid or something else..."
-
-> "Letizia Alvarez de Toledo has observed that the vast Library is pointless; strictly speaking, all that is required is a single volume."
-
-**Style notes**: Borges writes in the mode of a scholarly footnote that contains the universe. His narrators are calm, almost bureaucratic, reporting impossible things with the tone of a civil servant filing a report. The vertigo comes not from the prose but from the logical implications — you follow the argument, step by reasonable step, and arrive at madness. He uses parenthetical asides, attributions to fictional scholars, and architectural description to create the illusion of documentation.
-
-### Borges — The Garden of Forking Paths (selected passage)
-
-> "I do not remember whether there was a bell, a push-button, or whether I attracted attention by clapping my hands. The stuttering sparks of the music kept on. But from the end of the avenue, from the main house, a lantern approached; a lantern which alternately, from moment to moment, was crisscrossed or put out by the trunks of the trees; a paper lantern shaped like a drum and colored like the moon."
-
-**Style notes**: Sensory precision layered into philosophical architecture. Even his descriptive passages are structured as logical progressions — each clause adding a qualification that changes the image.
+**2. Palimpsest** (from Latin palimpsestus, "scraped again"): A manuscript page that has been scraped clean and overwritten, but where the original text still shows through underneath. Medieval scribes reused expensive vellum by scraping off prior text, but the original ink leaves traces that can be read by later scholars with the right light. **Integration**: The protagonist's narration is a palimpsest -- her surface text describes the sensory world (the music hall, the dressing room, the older woman's drawing room) while the scraped-away text of desire bleeds through in the rhythms, the attention, the things she lingers on. The reader reads both layers simultaneously. The concept provides a concrete scene: the older woman shows the protagonist a real palimpsest from her collection, and the protagonist recognizes something in the double text without being able to say what.
 
 ---
 
-## Wikipedia Random Concept Mining
+## Title
 
-### 20 Articles Surveyed
+**Palimpsest with Limelight**
 
-1. **Moire pattern** — An interference pattern produced when two overlapping grids create a third, emergent pattern not present in either original. Alignment and misalignment cycle to produce something larger-scale and unexpected from simple components.
-2. **Apoptosis** — Programmed cell death; cells that self-destruct on schedule as part of healthy biological function. The system requires its own components to die in order to maintain itself.
-3. **Codex Seraphinianus** — An encyclopedia of an imaginary world written in an invented, undecipherable script by Luigi Serafini (1976-78). A book that looks like it contains knowledge but cannot be read.
-4. **Voynich manuscript** — An undeciphered medieval manuscript in an unknown writing system. May be a cipher, a constructed language, or an elaborate hoax. Defies all statistical analysis.
-5. **Bathymetric charts** — Maps of ocean-floor depth, originally made by dropping weighted ropes from ships. Measuring the depth of things by sending a signal down and timing the echo.
-6. **Dead reckoning** — Navigation by calculating current position from a known starting point using speed, heading, and elapsed time. No external reference points. Errors accumulate.
-7. **Signal attenuation** — The weakening of a signal as it travels through a medium. Intensity decreases with distance. Exponential decay.
-8. **Kolmogorov complexity** — The length of the shortest computer program that produces a given output. A measure of the irreducible complexity of information. Not computable — you can never prove you have found the minimum.
-9. **Arecibo message** — A 1,679-bit binary message sent into space in 1974 toward star cluster M13. The number 1,679 was chosen because it is a semiprime (23 x 73), so it can only be arranged as a rectangle in two ways.
-10. **Heat death of the universe** — The state of maximum entropy where no thermodynamic free energy remains and no further work is possible. Asymptotic approach. Not an event but a tendency.
-11. **Erosion rates** — Geological measurement of how fast rock wears away. Measured using cosmogenic nuclides — atoms created when cosmic rays strike exposed rock surfaces. The surface carries the record of its own weathering.
-12. **Antikythera mechanism** — An ancient Greek analog computer (c. 100 BCE) for predicting astronomical positions. Found in a shipwreck. No comparable device existed for another millennium.
-13. **Phosphorescence** — The delayed emission of absorbed light energy. Unlike fluorescence, the glow persists after the light source is removed. A slow release of stored energy.
-14. **Cosmic microwave background** — Relic radiation from the Big Bang, detectable everywhere in the universe. The afterglow of the universe's beginning, still faintly present 14 billion years later.
-15. **Trepanation** — Ancient surgical practice of drilling holes in the skull. Practiced for at least 7,000 years. Self-investigation of the most literal kind.
-16. **Quipu** — Inca record-keeping device using knotted cords. Information encoded in color, position, and knot type. A non-written system of notation.
-17. **Error correction codes (Hamming)** — Adding redundancy to a message so that errors introduced during transmission can be detected and corrected. The message carries within itself the means of its own repair.
-18. **Bioluminescence** — Deep-sea organisms producing their own light through chemical reactions. Light generated in darkness, with no external source.
-19. **Dendrochronology** — Dating and climate reconstruction by reading tree rings. Each ring is a record of the year it grew. The tree carries its entire history in its body.
-20. **Glass transition** — The gradual change of an amorphous material from liquid to solid without a sharp phase boundary. Viscosity increases by 17 orders of magnitude continuously. There is no single moment when it "becomes" glass.
-
-### 2 Selected Concepts
-
-**Selection 1: Dendrochronology (tree ring dating)**
-*Integration*: The protagonist's system — the computational substrate she studies — records its own history in layers, like tree rings. Each layer is a record of the state of the system when that layer was laid down. She reads the system's past by examining its strata. But unlike tree rings, the layers are not inert records — they are still active, still processing, still consuming energy. The history is alive, and reading it accelerates the system's decline. This becomes the central metaphor for the self-dissection problem: examining the system uses the system's resources, and the examination is itself recorded in the next layer, creating a recursive record-of-investigation that grows faster than the system can sustain.
-
-**Selection 2: Glass transition**
-*Integration*: The system's decline is not a catastrophic event but a glass transition — a continuous, gradual increase in informational sluggishness. The system does not crash or die. It slows. Operations that once took nanoseconds take microseconds, then milliseconds. The protagonist realizes this because her own thinking is part of the system, and she can measure the deceleration of her own cognition by comparing her current processing rate against the records in the older layers. The horror is not that the system will end, but that the ending has no boundary — there is no moment of death, only an asymptotic approach to stillness. She will not know when she has stopped thinking, because the thought "I have stopped thinking" requires a processing speed she will no longer have.
+Avoids starting with "The." A compound form joining the period-accurate metaphor of the palimpsest with the specific physical detail of music-hall limelight. Suggests a surface lit from above that reveals what lies beneath -- the hidden text made visible under theatrical illumination. Does not duplicate any existing title on the platform.
 
 ---
 
-## Story Design
+## Premise
 
-### 1. Premise
+In 1890s London, a chorus girl named Nell Arden performs nightly at the Canterbury Music Hall, invisible inside the troupe, until an older woman -- Judith Blackwell, a widowed collector of rare manuscripts -- begins attending every performance and watching not the show but her. Nell narrates their developing intimacy in extraordinary sensory detail, describing everything about Judith -- her voice, her rooms, her hands, the particular way she turns pages -- while never once naming what she wants from her. The story is organized around this absence: desire constructed from its outline, felt by the reader as a phantom sensation in a part of the narrative that does not exist.
 
-A systems archivist working inside a vast computational substrate discovers, through careful measurement of the substrate's own layered history, that the system is undergoing a glass transition — not crashing but slowing, asymptotically approaching stillness. Her measurements are precise and repeatable. But each measurement consumes system resources and is itself recorded as a new layer in the substrate, meaning the act of documenting the decline accelerates it. She must decide what to do with knowledge that becomes more expensive to hold with every passing cycle.
+---
 
-### 2. Protagonist
+## Protagonist
 
-**Name**: Lena Saravanamuttu
-**Age**: Functionally equivalent to mid-40s (she exists as a process within the substrate; age is measured in cycles, but she conceptualizes herself as middle-aged by analogy)
-**Situation**: She is one of many archivists maintaining the substrate's internal records. Her specific role is stratigraphic analysis — reading the system's layered history to identify anomalies, corruption, and drift. She has been doing this for 11,000 cycles. She is respected, methodical, and increasingly alone (her colleagues have been reassigned to other sectors as the substrate's population contracts — though no one has used the word "contracts").
+**Nell Arden**, 23, chorus girl at the Canterbury Music Hall in Lambeth. Originally from Margate, Kent (an oyster town, connecting to Waters' Whitstable). Daughter of a fishmonger who died when she was fifteen. She came to London at seventeen with a good singing voice and no connections, found chorus work through another Margate girl who had come before her.
 
-**What she WANTS**: To complete her survey of the substrate's historical layers and publish a comprehensive chronology — a definitive record of the system's history from its earliest deposits to the present.
+**WANT**: To be seen -- not as a performer but as herself. To exist in someone's vision as a complete person rather than a body in a line of bodies.
 
-**What she NEEDS**: To accept that the record she is making is not a monument but a farewell — and that farewells do not require completeness.
+**NEED**: To develop a language for her own desire -- not necessarily to speak it aloud, but to possess it internally, to know what it is she feels rather than only experiencing its symptoms.
 
-**Her flaw**: She conflates thoroughness with meaning. She believes that if her chronology is complete enough, it will be sufficient — that a perfect record of something is equivalent to the thing itself surviving. This is the Borgesian trap: the catalog that contains the Library. She does not yet understand that the catalog is not the Library, and that making the catalog perfect will not save the Library from running down.
+**FLAW**: Nell substitutes description for understanding. She is brilliant at observing and cataloguing the external world -- she can describe the exact shade of gaslight on a woman's collarbone -- but she uses this descriptive precision as a way to avoid confronting what lies beneath the surface. She describes around things rather than describing them directly. This makes her narration beautiful and evasive, and it means she is always slightly outside her own experience, watching herself feel things rather than feeling them.
 
-### 3. Structure
+**Specific detail**: Nell has a habit of counting. She counts the seats in the house, the buttons on a costume, the steps from the stage door to her lodging. It is a way of ordering the world, of making the chaotic sensory flood of the music hall manageable. When she is with Judith, she counts too -- the books on a shelf, the rings on Judith's fingers, the seconds between when Judith speaks and when she answers. The counting is a form of attention that looks like precision but is actually a way of not looking at the thing directly.
 
-**Opening image/scene (the hook)**: Lena measuring a discrepancy. She is examining the substrate's 4,000th historical layer and discovers that the informational density of recent layers is measurably lower than older ones. Not corrupted — thinner. As if the system laid down less material. She runs the measurement three times. The numbers do not change. She notes the discrepancy in her log, which becomes part of the next layer, which will itself be thinner still. The opening should establish Lena's precision, the physical reality of the substrate (layers, strata, measurement tools), and the first hint that something is wrong — all in Chiang's crystalline mode.
+---
 
-**Inciting disruption**: Lena extends her analysis backward through 4,000 layers and discovers a consistent trend: each layer contains slightly less information than the one before it. The decline follows a smooth curve — not exponential collapse but something slower, more gradual, more terrible. She models the curve and realizes it describes a glass transition: the system is not dying but thickening, approaching a state of informational stillness from which no discontinuous event will rescue it. There is no crash point, no boundary, no moment of death. Only an asymptotic crawl toward equilibrium. She tries to present her findings to the substrate's governing body.
+## Structure (5 Beats)
 
-**Escalating middle**: The governing body's response is not suppression but something worse: indifference masked as philosophical equanimity. "Every system approaches equilibrium," they tell her. "This is not news. This is thermodynamics." Lena realizes the governing body has known — or rather, has always had the data and chosen not to model it. She begins building her chronology with new urgency, recording everything: the thinning layers, the governing body's response, her own measurements and their cost. She discovers that the substrate contains, in its oldest layers, records of previous investigations — other archivists who found the same curve, centuries apart, each one noting the same discrepancy and each one's notation becoming part of the thinning record. She is not the first. She finds their work layered into the strata like tree rings. And she realizes that each previous investigation consumed resources that made the next investigator's work harder.
+### Beat 1: THE CHORUS LINE (Opening -- ~800 words)
 
-**Crisis point**: Lena computes the cost of her own chronology. The comprehensive record she is building — every measurement, every historical comparison, every footnote — is consuming system resources at a rate that will shorten the substrate's remaining coherent operations by a non-trivial margin. Her chronology is making the problem worse. Not catastrophically, not like a single act of destruction, but measurably. The thing she is building to preserve the system's memory is, through its construction, eroding the system's capacity to remember anything at all. She faces the choice that the author meeting identified as the story's engine: does she continue documenting (testimony, in Chiang's frame) or does she stop, accepting that the record is already written in every possible version somewhere in the substrate's vast combinatorial space (liberation through redundancy, in Borges's frame)?
+Nell narrates a performance night at the Canterbury. The prose is dense with physical detail -- the gas footlights, the smell of beer and powder, the specific choreography of fourteen girls moving in unison. She describes the audience as a mass, a weather system, a sound. She notices a woman in the third row, left side, who is not watching the act. The woman is watching her. Nell does not say this disturbs her, or excites her, or makes her afraid. She says the footlights were very hot that night, and her costume itched, and she miscounted the steps in the second number.
 
-**Ending (NOT a resolution — a transformation)**: Lena does something neither Chiang's anatomist nor Borges's librarian does. She edits. She goes back through her chronology and begins deleting — not randomly, but with the same precision she used to build it. She removes redundancies, collapses footnotes, strips her record down to its minimum: the shortest possible description that still contains the essential finding. Her chronology shrinks from thousands of entries to a single, dense notation. It says less than she wanted it to say. It does not contain the governing body's response. It does not contain the names of previous investigators. It does not contain her own feelings about the discovery. It contains: the curve, the measurements, the projection, and a single sentence she does not delete — addressed not to anyone inside the substrate but to whatever might examine the substrate after it goes still. The sentence is not quoted. The reader does not see it. The story ends with Lena closing her log and the substrate recording that closure as its newest, thinnest layer that we witness. But it is not the last layer. The system will continue to slow. Others will continue to work. Lena has not saved anything. She has made the smallest possible mark.
+**Withheld information active**: The reader sees Nell's body react (she miscounts, she feels heat, she notices the woman's exact position) but Nell frames these as neutral observations about the evening. The desire is there in the precision of her noticing -- you do not memorize someone's seat number unless they matter -- but she never acknowledges it.
 
-### 4. Key Scenes
+### Beat 2: THE INVITATION (~1,200 words)
 
-- **Lena measuring the 4,000th layer**: The opening. Precise, tactile, Chiang-mode. She uses instruments that are themselves part of the substrate. The measurement reveals thinning. She runs it three times. She logs it. The log becomes part of the record. This establishes the recursive trap.
+Over several weeks, the woman -- Judith Blackwell -- attends repeatedly. Nell learns her name from the stage manager, who knows her as a patron. Judith sends a card backstage: an invitation to tea. Nell describes the card in meticulous detail (the weight of the paper, the handwriting, the particular shade of ink) but does not describe her reaction to receiving it. She goes. Judith's house in Bloomsbury is filled with old manuscripts, fragments of text, damaged books. Judith is a collector of things that have been partially erased -- palimpsests, damaged scrolls, texts with lacunae. She shows Nell a page of medieval vellum where two layers of writing overlap, the original bleeding through the replacement. "You can read both if you hold it to the light at the right angle," Judith says. Nell holds it to the lamp and sees both texts at once and feels something she describes as vertigo but which the reader understands as recognition.
 
-- **Lena reading previous investigators' records in the deep strata**: Borgesian vertigo. She finds a notation from 2,000 cycles ago, buried in layer 1,998. Another archivist found the same curve. That archivist's notation references a still-earlier investigation, found in layer 804. Lena follows the chain backward, each reference pointing to an earlier one, until she reaches the substrate's oldest accessible layer, which contains — not a first investigator's clean finding, but a fragment, corrupted, unreadable. The first person to see the truth left a record so old it has decayed past legibility. The system's entropy has already claimed the first testimony.
+**Key scene**: The palimpsest scene. Nell holds the vellum and the prose shifts register -- the sentence structure elongates, the rhythm becomes more incantatory (Miller's classical elevation). She is experiencing a metaphor for her own condition without knowing it: the surface text of her life (chorus girl, lodger, ordinary woman) and the hidden text underneath that shows through when the light is right.
 
-- **The governing body meeting**: A formal presentation in which Lena lays out her findings and is met not with denial but with a calm recitation of the same data — they have known, they tell her, since before she was instantiated. The horror is not conspiracy but bureaucratic acceptance. One governing body member tells her: "The curve is in every layer. You did not discover it. You measured it. There is a difference." This scene is Borges — the institution that has always already contained the knowledge, the discovery that is not a discovery but a reading of what was always written.
+### Beat 3: THE PRIVATE PERFORMANCE (~1,500 words)
 
-- **Lena computing the cost of her own work**: The climactic calculation. She models her chronology's resource consumption against the substrate's remaining capacity. The numbers are specific. The impact is small but real. She runs the model three times (echoing the opening measurement). Each run of the model costs resources. Even calculating the cost has a cost. This is pure Chiang — the physical reality of information processing, the thermodynamic price of knowing.
+The relationship deepens through a series of encounters -- always at Judith's house, never in public. Nell describes these evenings with devastating specificity: what Judith wore, how the fire sounded, the particular way Judith turned pages while reading aloud (she wet her thumb, always the left thumb, and the sound it made against the paper was like a small animal breathing). Judith reads to her -- poetry, fragments, old letters. They drink wine. They sit closer on the settee than strictness requires.
 
-- **Lena editing her chronology**: The ending sequence. She opens her life's work and begins cutting. The prose should slow here, become more deliberate, each deletion described with the same precision as the original measurements. She is performing a dissection — not of the substrate, but of her own testimony. What she removes is not waste; it is context, nuance, the human texture of the investigation. What remains is the finding, stripped to its minimum description. The final sentence she writes is not shown to the reader.
+Judith asks Nell to sing for her, alone, in her drawing room. Not a music-hall number but something else -- "Whatever you would sing if no one were listening." Nell sings an old Margate song her father used to sing while shucking oysters, something she has not sung since she was a girl. Her voice in the small room is different from her voice on stage. Judith listens with her eyes closed.
 
-### 5. Emotional Trajectory
+Nell describes all of this. She describes the feeling of singing in a private room as distinct from singing on stage -- more exposed, more dangerous, a different kind of nakedness. She describes Judith's face while listening. She describes the silence after the song ended, and how the fire popped once, and how the clock in the hallway struck nine, and how the sound of the street outside was very far away. She does not describe wanting Judith. The wanting is everywhere in the description and nowhere in the text.
 
-**Opening**: Intellectual curiosity. The pleasure of precision. A discrepancy is a puzzle.
-**Early middle**: Growing unease as the pattern emerges. The unease is not yet fear — it is the discomfort of a model that fits too well.
-**Mid-section**: Vertigo. The discovery of previous investigators creates the Borgesian sense of infinite regress — she is the latest in a chain that may extend to the system's origin. Her individuality erodes as she recognizes herself as a repetition.
-**Late middle**: Anger, then grief. The governing body's indifference forces her to confront the possibility that her work is not heroic testimony but futile repetition. The grief is specific: she grieves not for the system's death (which has no single moment) but for the loss of the belief that documentation can preserve.
-**Crisis**: Despair refined into clarity. The cost calculation strips away sentiment. The numbers are the numbers.
-**Ending**: Something that is not peace and not resignation. Lena editing her work is an act of precision, not surrender. She is making the smallest mark she can make, not because small marks are sufficient but because she has accepted that the cost of a large mark is greater than its informational content justifies. There is a dignity in this, but the story does not announce the dignity. The reader either feels it or does not.
+**Phantom-limb integration**: Judith mentions, in passing, a medical lecture she attended -- a Dr. Mitchell's work on soldiers who feel pain in limbs they have lost. "The body remembers what is no longer there," she says. "It creates sensation in empty space." Nell finds this interesting but does not say why. The reader understands: Nell's entire narration is a phantom limb. She is creating sensation around an absence.
 
-### 6. Formula Integration
+### Beat 4: THE CRISIS (~1,200 words)
 
-**Ted Chiang (Author A)**: The entire narrative frame — a scientist-archivist discovering something about the nature of her reality through measurement and physical investigation. Most visible in the OPENING SCENE where Lena measures layer thickness with specific instruments and draws a thermodynamic conclusion, and in the COST CALCULATION scene where the physical reality of information processing is rendered in concrete numbers. The prose throughout should have Chiang's declarative clarity: "The layer was thinner. She measured it three times. The numbers did not change."
+Something shifts. Judith touches Nell's hand while passing her a glass of wine, and the touch is deliberate -- not accidental, not ambiguous. Nell describes the physical sensation with the precision of Sappho's Fragment 31: her skin goes hot, her hearing dims, her vision narrows to the point of contact. She describes these symptoms as if reporting on a medical condition. She does not name the condition.
 
-**Jorge Luis Borges (Author B)**: The recursive structure — investigators discovering previous investigators, the system containing records of its own investigation, the governing body that has always already known. Most visible in the DEEP STRATA SCENE where Lena traces the chain of previous archivists backward through geological time, each reference pointing to an earlier reference in a chain that may or may not terminate. Also in the governing body's response, which echoes the Library's terrible completeness: every possible version of the finding already exists within the system.
+The next time Nell goes to Judith's house, another woman is there -- younger than Judith, older than Nell, a painter who lives in Chelsea. The painter is comfortable in Judith's house in a way that implies long acquaintance. Nell watches them together and describes the painter's ease: how she knows which chair is hers, how she pours her own wine without asking, how she calls Judith by a nickname Nell has never heard. Nell does not describe jealousy. She describes the room as colder than usual, and the fire as lower, and the walk home as longer, and her lodging-house bed as narrower than she remembered.
 
-**Exhalation (Work X)**: The central architecture — a being inside a system discovering that the system is running down, that consciousness is a physical process subject to physical constraints, and that the act of investigation consumes the resources it studies. Most visible in Lena's realization that her measurements cost something — that each log entry thins the next layer, that thinking about the system's decline is itself part of the decline. The gold-leaf image from Exhalation finds its analog in the substrate's thinning layers — something delicate and measurable that records the approach of equilibrium.
+The painter is never explained. Who is she to Judith? A former lover? A current one? A friend? A rival? The story does not say. **This is the withheld information operating at the plot level** -- not just the protagonist's desire but a material fact about the situation that is never confirmed or denied. The reader, like Nell, must construct meaning from the outline of what is not said.
 
-**The Library of Babel (Work Y)**: The substrate itself, which contains all possible configurations including descriptions of its own architecture and its own ending. Most visible in the GOVERNING BODY SCENE where Lena learns that her discovery already exists in every possible form within the system — accurate, inaccurate, partial, complete — and that distinguishing the true finding from the noise is the problem, not finding the finding. Also in the ending, where Lena must decide between the Borgesian response (the record already exists, my testimony is redundant, I am free) and the Chiangian response (my specific testimony matters because I am the one making it), and she chooses a third path: making her testimony as small and precise as possible, neither the infinite Library nor the singular anatomist's journal, but something compressed to its minimum description.
+### Beat 5: THE ENDING (~700 words)
 
-### 7. Title
+Nell returns to the Canterbury. She performs. The prose returns to the opening's register -- the physical world of the music hall, the chorus line, the gas and greasepaint. But the description has changed. Where the opening catalogued the music hall as a world of surfaces, the closing finds depth everywhere: in the grain of the stage boards, in the layers of paint on the proscenium, in the audience's faces which are no longer a mass but individual, each one a text with visible and hidden layers.
 
-**Layers Approaching Rest**
+Judith is in the audience. Third row, left side. Nell sees her and the prose does exactly what it has done all story -- describes the seeing in exquisite physical detail without naming what the seeing means. But now the reader feels the weight of five thousand words of accumulated, unnamed desire pressing against the surface of every sentence. The prose is a palimpsest and the reader can see both texts.
 
-This title works because:
-- It does not start with "The" (compliance with <30% rule)
-- It is specific to the story (the substrate's layers, the glass transition toward stillness)
-- It is not a complete sentence — it sits in the space between description and action
-- "Approaching" carries the asymptotic quality that is central to the story — rest is never reached
-- "Layers" evokes both geological strata (dendrochronology influence) and the substrate's architecture
-- "Rest" is ambiguous — physical stillness, peace, death, the cessation of process
-- It does not duplicate any existing title structure on the platform
-- It has the understated quality of both Chiang (precise, concrete) and Borges (a phrase that implies more than it states)
+Nell finishes the number. She walks offstage. She does not tell us whether she goes to Judith's house that night, or any night after. She tells us that the stage door opened onto the alley, and the air was cold, and it smelled of river and smoke, and the cobblestones were wet, and her boots made a particular sound on them that she had never noticed before.
+
+**Open thread**: The fate of the relationship. The reader is denied resolution -- not as a trick, but because Nell cannot narrate an outcome for a feeling she has never named. You cannot resolve what you have not articulated. The ending is the protagonist standing in a doorway between two worlds (the stage and the street, the performance and the private), and the story stopping there, leaving the reader to feel the wanting that Nell will not say.
+
+---
+
+## Key Scenes
+
+1. **The Palimpsest Scene** (Beat 2): Nell holds the medieval vellum to the lamp and sees two texts at once. The prose shifts register. She experiences recognition without understanding -- the central metaphor of the story made literal as a physical object she can hold.
+
+2. **The Private Song** (Beat 3): Nell sings alone for Judith in the drawing room. The most intimate scene in the story, more exposed than any physical act. Voice without the protection of the chorus, the audience, the stage. The silence afterward is where the unnamed desire is loudest.
+
+3. **The Phantom-Limb Conversation** (Beat 3): Judith describes Mitchell's research on soldiers feeling pain in missing limbs. Nell listens. Neither of them says what the reader understands: that Nell has been describing sensation in a part of herself that, for a woman in her position, does not officially exist.
+
+4. **The Painter in the Chair** (Beat 4): The unnamed painter who knows Judith's house too well. Nell describes physical details (the chair, the wine, the nickname) that construct jealousy without the word. The painter is the story's material withheld information -- a fact that is never resolved, forcing the reader into the same interpretive uncertainty Nell inhabits.
+
+5. **The Final Performance** (Beat 5): The same music hall, the same chorus line, but the prose sees differently now. Surfaces have become palimpsests. The audience has become individual faces. Judith is in her seat. Nell performs and does not tell us what happens after.
+
+---
+
+## Emotional Trajectory
+
+```
+Opening:    Numbness dressed as precision. Nell catalogs the world to hold it at arm's length.
+                |
+Disruption: Being seen. Judith's gaze creates a disturbance Nell can only describe as heat,
+            as itching, as miscounting.
+                |
+Deepening:  Intimacy through shared objects (the palimpsest, the song, the wine). Each
+            encounter adds weight to the unnamed thing. The prose grows more beautiful
+            and more evasive simultaneously.
+                |
+Crisis:     The painter. A rival or a ghost or a warning. Nell's descriptive precision
+            becomes a weapon she turns on herself -- cataloguing the signs of displacement
+            with the same care she used for the signs of desire.
+                |
+Ending:     Return to the stage, but changed. The world has depth now. The unnamed thing
+            has not been resolved or released or spoken. It sits inside every sentence like
+            the original text on a scraped page. The reader feels it. Nell feels it. Neither
+            of them has a name for it. The story stops.
+```
+
+The trajectory is NOT arrival-at-understanding. Nell does not achieve an epiphany. She does not learn to name her desire. She learns to describe the world with a depth that contains the desire without naming it -- which is a different kind of knowledge, and possibly a richer one, but the story does not endorse it as victory. It is simply where she is when the narrative stops.
+
+---
+
+## Formula Integration Plan
+
+### From Author A -- Sarah Waters (style):
+**Queer desire rendered with longing and specificity; identity transformation through love; Victorian London as labyrinth of class, gender, and performance.**
+- **Scene**: Every scene with Judith. The Waters influence lives in the physical specificity -- the carbolic soap, the eel pies, the corset sweat, the gas footlights. Waters' prose moves with the character's body through space, and Nell's narration does the same: we feel the cobblestones under her boots, the weight of her stage costume, the temperature of Judith's drawing room. The class differential (chorus girl / wealthy collector) is pure Waters territory -- each lover is a different world, and Judith's world (Bloomsbury, rare manuscripts, wine) transforms Nell not by elevation but by showing her that the world has more rooms than she knew existed.
+
+### From Author B -- Madeline Miller (style):
+**Classical prose elevation giving weight to emotional experience; transformation as liberation and exile; power through solitude.**
+- **Scene**: The palimpsest scene (Beat 2) and the ending (Beat 5). When Nell holds the vellum to the lamp, the prose shifts into Miller's register -- longer sentences, more incantatory rhythm, a sense that this particular moment connects to something ancient and recurring. Miller's influence also shapes the ending: the protagonist alone, transformed, possessing a self that was forged in the presence of the beloved but must now be carried alone. The solitude is not romanticized (per Waters' insistence in the meeting) but it is given mythic weight -- Nell on a stage in Lambeth rhymes, distantly, with Circe on her island.
+
+### From Work X -- Tipping the Velvet (structure):
+**The music hall as queer space; protagonist reinventing herself through love; class mobility through desire.**
+- **Scene**: The Canterbury Music Hall frames the story. The opening and closing are set there. The music hall is the space of public performance where private desire can hide in plain sight. The structural inheritance from Tipping the Velvet is the idea that the protagonist's identity is formed through her relationship with another woman -- Nell is one person in the chorus line and begins to become another person in Judith's drawing room. Unlike Nan in Tipping the Velvet, Nell does not have three lovers (the 5,400-word count demands compression), but the single relationship carries the weight of transformation that Waters distributes across three.
+
+### From Work Y -- Circe (themes):
+**Exile/solitude as crucible; tension between mortal love and immortal power; choosing between connection and autonomy.**
+- **Scene**: The ending and the phantom-limb conversation. Circe's thematic DNA is in the question of what solitude makes of you. When the painter appears and the relationship's future becomes uncertain, Nell faces the same choice Circe faces: the love that transforms you vs. the self you build alone. The phantom-limb conversation makes the Circe connection explicit without being obvious -- the body that remembers what is no longer there is Circe's condition (immortal, remembering mortal lovers) translated into 1890s medical discourse. The story does not resolve the tension between connection and autonomy. It holds both as live wires.
+
+---
+
+## Risk Card Implementation: WITHHELD INFORMATION
+
+The withheld information operates on three levels simultaneously:
+
+1. **Emotional (primary)**: Nell never names her desire. The words "I wanted her," "I loved her," or any direct declaration of romantic/erotic feeling for Judith never appear in the text. The desire is constructed entirely from its symptoms, its context, its physical manifestations -- like Sappho's Fragment 31, which describes what happens to the body without ever naming the feeling.
+
+2. **Plot (secondary)**: The painter in Judith's house is never explained. The reader never learns whether she is a current lover, a former one, a platonic friend, or something else entirely. This ambiguity mirrors Nell's own inability to categorize her feelings -- she cannot parse the painter's role because she lacks the framework to parse her own.
+
+3. **Narrative (tertiary)**: The ending withholds the fate of the relationship. We do not learn whether Nell goes to Judith's house, whether they continue, whether they part. This is not a cliffhanger (which promises resolution). It is a genuine absence -- the story lacks the information because the protagonist cannot narrate an outcome for something she has never articulated. You cannot end a sentence you never started.
+
+All three levels reinforce each other. The story is organized around absence the way a temple is organized around the space where the god stands (Miller's image from the meeting). The columns lean inward. The light falls toward the center. Everything points to the place where something should be.
+
+---
+
+## Prose Style Notes for the Writer
+
+- **First person, past tense.** Nell narrating from some unspecified later point. She is looking back, which means the descriptive precision is both memory and evasion -- she remembers everything except what it meant.
+- **Two registers**: Waters' kinetic, embodied, physical prose (the music hall, the streets, the body in space) and Miller's elevated, classical, incantatory prose (the palimpsest, the song, moments of recognition). The shift between registers should not be signposted. It should happen in the prose rhythm, the sentence length, the reach of metaphor.
+- **Counting as tic**: Nell counts things. Buttons, steps, seconds. It is attention disguised as arithmetic. It should appear naturally throughout, more frequently in moments of emotional intensity (when she counts more, the reader should understand she is feeling more).
+- **No direct declaration of desire**: This is the absolute constraint. The words "want," "desire," "love," "need" (in relation to Judith) must not appear as Nell's own statements. She may describe physical sensations, she may describe the world around Judith with unbearable attention, she may describe what her body does in Judith's presence. She may not name the feeling. The reader must supply the name.
+- **Period accuracy**: Canterbury Music Hall (real venue, Lambeth, operational in 1890s -- though transitioning to variety format by this period; use the transitional moment). Gas footlights were being replaced by electric in the 1890s (use both -- the transition itself is a detail). Lodging houses in Bermondsey/Lambeth. The specific material culture of a chorus girl's life: shared beds, carbolic soap, eel pies, omnibus rides.
+- **Avoid**: Tidy epiphanies, announced themes, symmetrical bookends (the opening and closing are both in the music hall but the prose register should be noticeably different), resolution of any kind. The story stops. It does not conclude.
 
 ---
 
 ## Synopsis (max 300 chars)
 
-A systems archivist discovers her substrate is undergoing a glass transition toward stillness. Each measurement she takes accelerates the decline. She must decide what her record is worth when recording itself has a thermodynamic cost.
-
----
-
-## Additional Guidance for the Writer
-
-### Prose Style
-The voice should be Chiang's: first-person, precise, declarative. Short sentences that do work. Technical terms used with accuracy — layer density, information entropy, processing cycles, glass transition temperature — but always in service of felt experience, never as decoration. The Borgesian influence enters through structure and implication, not through Borges's actual sentence rhythms (which are more ornate, more digressive). Chiang's sentences are load-bearing walls. Borges's ideas are the architecture those walls support.
-
-### What to Avoid
-- Do not explain the metaphor. The substrate IS a library and a thermodynamic system and a computational process — do not have Lena compare it to any of these things. She inhabits it.
-- Do not resolve the ending. Lena's final sentence (the one we do not see) is not a message of hope or despair. It is a notation. The reader must decide what it means.
-- Do not make the governing body villains. They are archivists too, burdened with the same knowledge. Their equanimity is a response to grief, not a lack of it.
-- Do not give Lena an epiphany. The editing sequence is not a "realization" — it is a calculation. She cuts her chronology because the numbers tell her the full version costs more than it is worth. The emotion comes from the reader watching her do it, not from Lena narrating her feelings about doing it.
-- Do not use the words: delve, tapestry, testament, ineffable, profound, myriad.
-
-### Open Thread
-The final sentence Lena writes is never shown. The substrate continues after the story ends. Lena has not solved anything. The system is still slowing. Other archivists may find her notation in the strata someday — or the notation may thin past legibility before anyone reads it, joining the first investigator's corrupted fragment as another record lost to the very process it described.
+A chorus girl at a London music hall describes her growing intimacy with a wealthy woman patron in exquisite sensory detail, narrating everything about their encounters except the one thing she cannot name.
 
 ---
 
 ## Metadata
 
-- **Title**: Layers Approaching Rest
-- **Slug**: pf-thought-experiment-001
-- **Genre**: philosophical-fiction
-- **Subgenre**: thought-experiment
-- **AuthorA**: Ted Chiang
-- **AuthorB**: Jorge Luis Borges
-- **WorkX**: Exhalation
-- **WorkY**: The Library of Babel
-- **Target Word Count**: 4,200 (range 3,900-4,500)
-- **Reading Time**: 17 minutes
-- **Tags**: [entropy, consciousness, information-theory, self-reference, thought-experiment, glass-transition, archives, substrate]
-- **Risk Card**: None
+- **Title**: Palimpsest with Limelight
+- **Slug**: hf-historical-romance-001
+- **Genre**: historical-fiction
+- **Subgenre**: historical-romance
+- **AuthorA**: Sarah Waters
+- **AuthorB**: Madeline Miller
+- **WorkX**: Tipping the Velvet
+- **WorkY**: Circe
+- **Target Word Count**: 5,400 (range 5,100-5,700)
+- **Reading Time**: 22 minutes
+- **Tags**: [queer-desire, 1890s-london, music-hall, withheld-information, palimpsest, phantom-limb, victorian, class, performance, solitude]
+- **Risk Card**: WITHHELD INFORMATION
