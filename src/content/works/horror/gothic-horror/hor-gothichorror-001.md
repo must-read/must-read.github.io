@@ -7,7 +7,7 @@ authorA: "Edgar Allan Poe"
 authorB: "Mariana Enriquez"
 workX: "The Turn of the Screw by Henry James"
 workY: "Mexican Gothic by Silvia Moreno-Garcia"
-wordCount: 3544
+wordCount: 3622
 readingTimeMinutes: 14
 tags: ["gothic horror", "haunted house", "dual timeline", "colonial violence", "unreliable narrator", "Yucatan", "hacienda", "deposition", "frame narrative", "rising damp"]
 rating: 0
@@ -83,7 +83,7 @@ On the evening of the Gallardos' arrival, the hacienda held its first party. Twe
 
 On the same evening, in the workers' quarters four hundred meters from the casa principal, a woman named Teodora Canul died giving birth. The midwife reported that the baby came out facing backward — looking at where it had been instead of where it was going. The baby survived. The sheets were burned in the courtyard behind the quarters. The ash carried east, toward the big house.
 
-Nobody at the party noticed. There was nothing to notice. These were simultaneous events on the same property, separated by four hundred meters and by everything else.
+Nobody at the party noticed. There was nothing to notice. These were simultaneous events on the same property, separated by four hundred meters.
 
 ---
 
@@ -141,23 +141,23 @@ There was one door on the left. There were no doors on the right. And the corrid
 
 I followed my measurements. I followed them with the exactness of a woman whose profession is exactness, whose training has taught her that the distance between two points does not change because you are frightened, that walls do not relocate themselves, that a corridor is a corridor is a corridor. I walked the distance my floor plan specified — eight meters — and at four meters I arrived at a wall and I could go no further.
 
-I stood there. I pressed both hands to the limestone. It was wet. Not damp. Wet. Warm. The humidity reading was 99%, which is the reading you get from a wall that is more water than stone, or from a wall that has not yet decided which it is.
+I pressed both hands to the limestone. It was wet. Not damp. Wet. Warm.
 
 I could hear my own breathing and it sounded like the house breathing and I could not tell where mine ended and where the other sound began, or if there was another sound, or if I was hearing the blood in my own ears and calling it architecture.
 
-From somewhere deeper — from behind the wall, or below it, or from inside the stone itself — I heard a rhythmic scraping. Regular. Deliberate. The sound of a chisel working limestone, the way limestone has been worked in the Yucatan for a thousand years. The way it was worked when this house was quarried from the earth and the earth did not consent.
+From somewhere deeper — from behind the wall, or below it, or from inside the stone itself — I heard a rhythmic scraping. Regular. Deliberate. The sound of a chisel working limestone, the way limestone has been worked in the Yucatan for a thousand years.
 
 I wrote in my notes: *Possible structural settling, east wing. Rhythmic auditory artifacts consistent with thermal expansion.*
 
-I wrote that. I did not believe it when I wrote it. I wrote it because the form required me to write something and the alternative — the alternative was to write what I heard, which was someone building a wall from the other side, adding stone to stone, sealing the corridor while I stood in it. I did not write that.
+I wrote that. I did not believe it when I wrote it. I wrote it because the form required me to write something and the alternative was to write what I heard, which was someone building a wall from the other side, adding stone to stone, sealing the corridor while I stood in it. I did not write that.
 
 ---
 
-In 1893, Beatriz Gallardo stopped leaving the house. She had been known in Merida for her attendance at every significant social function — the governor's reception, the feast of San Ildefonso, the Saturday promenade on Paseo Montejo. After six months at the hacienda she stopped accepting invitations. She stopped dressing for dinner. She sat in the library reading the same French novel, the one about the woman who wanted more than what she was given, the woman who swallowed arsenic because the world she inhabited was too small and too furnished and too complete.
+In 1893, Beatriz Gallardo stopped leaving the house. She had been known in Merida for her attendance at every significant social function — the governor's reception, the feast of San Ildefonso, the Saturday promenade on Paseo Montejo. After six months at the hacienda she stopped accepting invitations. She stopped dressing for dinner. She sat in the library reading the same French novel, the pages so often turned they had gone soft as cloth.
 
 A visiting priest named Father Buenaventura noted in a letter to the Bishop of Merida that Beatriz told him the house spoke to her at night. She said it spoke in a language she could not identify — not Spanish, not Maya, not French. She said the voice came from the walls. She said it was not frightening. She said it was the saddest thing she had ever heard.
 
-Father Buenaventura described Beatriz as impressionable. He recommended prayer and less time spent reading novels. He did not use the word haunted. He did not mention the walls. In the margin of his letter, in handwriting smaller than the body text, he wrote: *The senhora's complexion has taken on the color of the local stone.* He crossed this out. In the final version of the letter, sent to the Bishop and preserved in the diocesan archive, he did not mention Beatriz's complexion. The institutional framework did not permit it.
+Father Buenaventura described Beatriz as impressionable. He recommended prayer and less time spent reading novels. He did not use the word haunted. He did not mention the walls. In the margin of his letter, in handwriting smaller than the body text, he wrote: *La Señora's complexion has taken on the color of the local stone.* He crossed this out. In the final version of the letter, sent to the Bishop and preserved in the diocesan archive, he did not mention Beatriz's complexion. The institutional framework did not permit it.
 
 ---
 
@@ -179,9 +179,7 @@ Not the capillary patterns from the upper walls. These were pressed into the sto
 
 I counted. I stopped counting at eleven. There were more.
 
-I knelt down. I took out my measuring tape — the same tape I have used for six years, graduated in centimeters and inches, a tool I trust the way you trust your own hands — and I stretched it along one of the outlines. The tape read — this is what I need you to understand — the tape read the numbers out of sequence. Not damaged. Not faded. The numbers were clear and printed and in the wrong order. Seven, then two, then fifteen, then forty. As though the tape had been manufactured in a country where measurement worked differently, or as though the room did not permit itself to be measured.
-
-I know how that sounds. I said that to myself, kneeling there. I said it out loud. *I know how that sounds.*
+I knelt down. I took out my measuring tape — the same tape I have used for six years, graduated in centimeters and inches, a tool I trust the way you trust your own hands — and I stretched it along one of the outlines. The tape read the numbers out of sequence. Not damaged. Not faded. The numbers were clear and printed and in the wrong order. Seven, then two, then fifteen, then forty. As though measurement itself had failed in this room, as though the room did not permit itself to be recorded.
 
 I would like to request some water.
 
@@ -191,19 +189,13 @@ I would like to request some water.
 
 ---
 
-I left the hacienda on the morning of the third day. I drove back to Merida. I filed my condition report with the estate's attorney. I recommended against purchase. I cited extensive moisture damage, structural compromise in the east wing, and evidence of subsidence beneath the main structure.
+I left the hacienda on the morning of the third day. I drove back to Merida. I filed my condition report. I recommended against purchase. I cited extensive moisture damage, structural compromise in the east wing, and evidence of subsidence beneath the main structure.
 
-I did not mention the stains. I did not mention the room below. I did not mention the scraping sound or the photographs that would not develop or the corridor that changed its length overnight or the sensation — I have not told you this yet — the sensation that I had, on the morning of the third day, walking through the front hall toward the door, that the front hall was longer than it had been. That the door was farther. That each step I took the house added a step behind me, as though my walking was not reducing the distance to the exit but feeding it, and for a moment — for a long, still, airless moment — I was not certain the door was real, or that there was anything on the other side of it, or that I had ever been outside this house at all.
+I did not mention the stains. I did not mention the room below. I did not mention the scraping sound or the photographs that would not develop or the corridor that changed its length or the sensation — I have not told you this yet — the sensation that I had, on the morning of the third day, walking through the front hall toward the door, that the front hall was longer than it had been. That the door was farther. That each step I took the house added a step behind me, as though my walking was not reducing the distance to the exit but feeding it, and for a moment — for a long, still, airless moment — I was not certain the door was real, or that there was anything on the other side of it, or that I had ever been outside this house at all.
 
 I reached the door. The door opened. I walked through it and the sunlight hit me and I got in my car and drove forty-three kilometers to Merida with the windows down and the radio on and my hands shaking on the wheel and my left hand already swelling from what had happened in the room below.
 
-I filed my condition report with the estate's attorney. I recommended against purchase. I cited extensive moisture damage, structural compromise in the east wing, and evidence of subsidence beneath the main structure. These are not lies. These are not the whole truth. They are the truths the form permits.
-
-There is no field on the form for what I experienced. The form asks for moisture readings and structural grades and square footage and I gave it those things and the form accepted them the way this room is accepting my testimony — recording everything, believing nothing, filing it in a box on a shelf where it will sit until someone opens it or no one does.
-
-The condition report is a public document. You can read it. Everything in it is true.
-
-Everything I have told you today is also true. These are not the same kind of true.
+What I reported is not a lie. It is what the form permits. There is no field for what I experienced.
 
 ---
 
@@ -219,13 +211,13 @@ The house is presented as though it built itself.
 
 You asked about my hand.
 
-I injured it in the lower room. I fell — I was disoriented, the ceiling was low, the floor was wet — and I put my hand out to catch myself and my hand went into the stone. That is what I felt. Not onto the stone. Into it. The limestone closed around my fingers the way water closes around a thrown stone, and for a moment I was inside the wall and the wall was inside me and there was no measurement that could describe the distance between my skin and the rock because they were not two things, they were one thing, and the one thing was the house.
+I injured it in the lower room. I fell — I was disoriented, the ceiling was low, the floor was wet — and I put my hand out to catch myself and my hand went into the stone. Not onto the stone. Into it. The limestone closed around my fingers the way water closes around a thrown stone, and for a moment I was inside the wall and the wall was inside me and there was no measurement that could describe the distance between my skin and the rock because they were not two things.
 
 I pulled free. That is how I injured the hand. Pulling free.
 
-It is healing. The doctors at Hospital O'Horan say it will regain full function. I can still feel it — the hand — I can feel it even though the feeling is not limited to the hand anymore. The feeling extends. Into the walls of this room. Into the floor of this building. Into whatever is below us right now, whatever this structure was built on, whoever was here before the concrete was poured.
+The doctors at Hospital O'Horan say it will regain full function. They say the bones are intact and the swelling will subside and in six weeks I will be able to hold a Protimeter again.
 
-I can still feel it, the hand, I can feel it even though—
+I can still feel the limestone. Not on my hand. In it. In the walls of this room. In whatever is below us right now, whatever this building was poured over, whoever was here before the—
 
 ---
 
