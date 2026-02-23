@@ -7,8 +7,8 @@ authorA: "Franz Kafka"
 authorB: "George Orwell"
 workX: "The Trial"
 workY: "The Unbearable Lightness of Being"
-wordCount: 4098
-readingTimeMinutes: 17
+wordCount: 4028
+readingTimeMinutes: 16
 tags:
   - kafkaesque
   - bureaucracy
@@ -49,13 +49,13 @@ The sign fell on a Tuesday, which was the day Ivo Polak arranged his plums by co
 
 The sign had detached from the window. This was a matter of adhesive. He had fixed it to the glass eleven years ago with a clear mounting strip, the kind sold at the hardware store on Masarykova for purposes exactly like this, and the strip had held for eleven years, which was longer than most things held, and now it had stopped holding. That was what adhesive did, eventually. It was not a surprise. It was barely an event.
 
-He picked the sign up. It was heavier than he remembered, which meant either the sign had gained weight — unlikely, though he did not rule it out entirely — or he had lost the memory of its weight, which was more probable and also less interesting. The glass was cracked across its face, a single fracture line that bisected the foreign text diagonally, so that what had been one incomprehensible thing was now two incomprehensible things. The mkhedruli script, Georgian he had been told once or perhaps had guessed, was divided neatly by the crack: curling letters on one side, curling letters on the other, and between them a seam of white where the light came through.
+He picked the sign up. It was heavier than he remembered, which meant either the sign had gained weight — unlikely, though he did not rule it out entirely — or he had lost the memory of its weight, which was more probable and also less interesting. The glass was cracked across its face, a single fracture line that bisected the foreign text diagonally. The mkhedruli script, Georgian he had been told once, was divided by the crack: curling letters on one side, curling letters on the other, and between them a seam of white where the light came through.
 
-He could not read it. He had never been able to read it. He had not tried to have it translated, not because translation was impossible but because it had never occurred to him as necessary. The sign was not a message. It was a sign. It lived in the window. He put it there every morning at 6:50, after unlocking the shop and before arranging the vegetables, and he removed it every evening at 7:15, after sweeping and before turning the door sign from OPEN to CLOSED. These were facts about his life the way the location of his kidneys was a fact about his body — structural, unglamorous, not worth discussing.
+He could not read it. He had never been able to read it. He had not tried to have it translated, not because translation was impossible but because it had never occurred to him as necessary. He put it there every morning at 6:50, after unlocking the shop and before arranging the vegetables, and he removed it every evening at 7:15, after sweeping and before turning the door sign from OPEN to CLOSED. These were facts about his life the way the location of his kidneys was a fact about his body — structural, unglamorous, not worth discussing.
 
 He held the two halves of the sign and looked at the window. Without the sign, the window was just glass, and beyond the glass was Zeleznicni Street, and on Zeleznicni Street nothing was happening that required his attention. He set the broken pieces on the counter next to the cash register and went to get a broom, because there were small shards on the floor among the plums, and customers would be arriving in forty minutes, and glass in fruit was the kind of thing that ended a business.
 
-The sign had fallen before — once, three years ago, in January, when the cold contracted the mounting strip enough to release it. He had pressed it back. The adhesive held. It had been a simple repair, the kind of repair that confirms the fixability of things, and he had thought nothing more about it. But this time the glass was cracked. The crack ran through the text the way a river runs through a country — dividing it into two territories that had once been one. The sign could not be pressed back. It would need to be replaced. He knew there was a sign office because he had seen it listed on the municipal directory in the post office lobby, between "Sanitation Scheduling" and "Street Naming (Historical)." He had never thought about the sign office. He had never had a reason to think about it. Now he did.
+The sign had fallen before — once, three years ago, in January, when the cold contracted the mounting strip enough to release it. He had pressed it back. The adhesive held. But this time the glass was cracked. The sign could not be pressed back. It would need to be replaced. He knew there was a sign office because he had seen it listed on the municipal directory in the post office lobby, between "Sanitation Scheduling" and "Street Naming (Historical)." He had never thought about the sign office. Now he did.
 
 ---
 
@@ -87,7 +87,7 @@ She nodded, as though this distinction were academic. "The content is held in th
 
 "The content and the casing are administered by different departments. The lamination bureau handles the material encasement. We handle the authorization and content. The compliance office verifies the display status. The archives maintain the records."
 
-She said this as though describing the rotation of planets — a system so self-evident that questioning it would reveal only the questioner's ignorance. Ivo wrote down the address of the lamination bureau on the back of a receipt he found in his jacket pocket. The receipt was from the hardware store on Masarykova, dated eleven years ago, for one package of clear mounting strips. He did not notice the date.
+Ivo wrote down the address of the lamination bureau on the back of a receipt he found in his jacket pocket. The receipt was from the hardware store on Masarykova, dated eleven years ago, for one package of clear mounting strips. He did not notice the date.
 
 He thanked her and left. In the corridor, a man in a blue coat was sitting on a bench with a numbered ticket in his hand, waiting for something that had not yet been called. He looked at Ivo with the neutral recognition of one petitioner acknowledging another. Ivo nodded and kept walking. Outside, Komenskeho Square was bright and cold, and the tram that ran along its northern edge was discharging passengers who dispersed across the cobblestones with the purposeful scatter of people who knew exactly where they were going, which Ivo did not, or rather he knew the address but not the route, and he stood for a moment on the steps of the municipal building, orienting himself by the position of the church spire and the angle of the sun, which was the way his wife's father had navigated this city and which Ivo had adopted without deciding to, the way one adopts the gestures of the dead.
 
@@ -125,7 +125,7 @@ His name was called by a woman whose desk occupied the corner of a room larger t
 
 "Polak, Ivo. Zeleznicni 14." She read from her screen. "Sign registered at this address. Yes, I have it. Registered under — let me see — Category 7: Civic Participation (Voluntary)."
 
-Ivo heard the words and understood them individually. Category. Seven. Civic. Participation. Voluntary. Together they formed a phrase he had never encountered and which, he realized, described something he had been doing every morning for eleven years. He had not known it had a category. He had not known it was civic. He had not known it was participation.
+Ivo heard the words and understood them individually. Category. Seven. Civic. Participation. Voluntary. He had not known it had a category. He had not known it was civic. He had not known it was participation.
 
 "Voluntary," he said.
 
@@ -161,7 +161,7 @@ She turned to her screen and scrolled through what appeared to be a long list of
 
 "The content is held in the archives. We maintain the compliance data. That's the division. Content is archival. Compliance is operational. They're different functions."
 
-She said this without defensiveness. It was a statement of administrative fact, like saying that water flows downhill or that Tuesdays come after Mondays. The architecture was clear. The sign had a content, maintained by the archives, and a compliance status, maintained by this office, and these two facts about the sign existed in separate buildings, on separate floors, in separate databases, and the only thing that connected them was the sign itself, which was broken on a counter in a shop on Zeleznicni Street.
+She said this without defensiveness, the way one might say that water flows downhill.
 
 Ivo looked at the 14b form in his hand. He looked at the compliance officer, who was already turning back to her screen, her glasses returning to the bridge of her nose, her attention shifting to the next item with the fluid disengagement of someone whose workday contained hundreds of these encounters, each resolved and filed and replaced by the next. He thanked her. She nodded without looking up.
 
@@ -177,7 +177,7 @@ Below it, taped at a slight angle, a second note in different handwriting, black
 
 "For Tuesday inquiries, please visit Wednesday."
 
-Ivo read both notes. He read them again. The first was explanation. The second was instruction. Together they formed a complete communication: the archives acknowledged his existence, understood his need, and deferred it to a day that had not arrived. He stood in the corridor and looked at the closed door. He did not try the handle. He had no reason to believe the handle would not turn, but he also had no reason to believe it would, and in the absence of evidence he chose the interpretation that required him to do nothing, which was the easier interpretation and also, he suspected, the correct one.
+Ivo read both notes. He read them again. He stood in the corridor and looked at the closed door. He did not try the handle.
 
 He climbed back upstairs. The building was quieter now. It was past four. The sign office was still open — he could see the gray-haired woman through the doorway of Room 214, eating what appeared to be a second apple — but he did not stop. He walked through the lobby, out the front entrance, and into the late afternoon of a city that had continued to function normally while he spent six hours inside its administrative organs.
 
@@ -185,7 +185,7 @@ He climbed back upstairs. The building was quieter now. It was past four. The si
 
 The shop had been closed all day. This was the first time Ivo had closed on a Tuesday in eleven years, and the fact sat in his chest like a small stone — not painful, but present, an awareness of deviation that was indistinguishable from guilt. He unlocked the door and turned on the lights. The vegetables he had set out that morning were still there, undisturbed, slightly less fresh. The plums in the window display had softened in the sun. He would have to discount them tomorrow, or eat them himself.
 
-The window was empty. Not empty in the way a shelf is empty when you have sold everything on it — that emptiness is temporary, commercial, the productive kind. This emptiness was structural. The window held nothing because nothing had been placed there, and nothing had been placed there because the thing that was always placed there was in two pieces on the counter next to the cash register, and the system that might have produced a replacement had, over the course of six hours, demonstrated that it maintained every aspect of the sign except the one aspect Ivo needed: what it said.
+The window was empty. The system that might have produced a replacement had, over the course of six hours, demonstrated that it maintained every aspect of the sign except the one aspect Ivo needed: what it said.
 
 He stood behind the counter and looked at the window from the inside. From this angle, the window was a rectangle of darkening street — Zeleznicni folding into evening, the streetlights coming on in their usual sequence, left to right, which he had watched so many times that he could predict each one by the slight flicker before ignition. Across the street, the pharmacy's sign glowed green, and beside it the stationery shop's window held a display of notebooks arranged by color, and next to that the kebab place where Brada sometimes ate lunch had a menu board propped against the door frame. Signs everywhere. He had never read any of them, not really. They were fixtures, like drainpipes or mailboxes, part of the street's grammar rather than its content.
 
@@ -209,7 +209,7 @@ Brada grunted. He was not a man who required explanations of institutional failu
 
 "Will it?"
 
-"Maybe. But the engine's not meant for it. You build a thing to run inside certain limits, then you take the limits away — it doesn't become better. It just becomes unregulated. Runs too hot. Wears itself out. Horak doesn't care. He wants the twenty horsepower. He doesn't want to hear that the twenty horsepower is what the plate is protecting him from."
+"Maybe. Runs too hot after, though. Wears itself out. Horak doesn't care. He wants the twenty horsepower."
 
 Brada paid for his onions and left. Ivo watched him cross the street, a heavy man walking with the careful gait of someone whose knees had been reporting from the front lines for decades. The shop was quiet. The broken sign lay on the counter. The window was dark.
 
@@ -217,11 +217,9 @@ He picked up the sign and turned it over. On the back, in pencil, someone had wr
 
 The number told him nothing. Or it told him something he could not hear, in a language as foreign as the script on the front — the administrative language of categories and requisitions and retroactive status, which was, in its own way, as unreadable to him as Georgian.
 
-He set the broken pieces down. He stood in the dark shop for a long time. The window faced west, and the last light came through it at a low angle, casting a rectangle of pale orange on the floor where the vegetable bins normally stood but didn't today, because today was the day the shop had been closed, the bins unarranged, the window bare. The rectangle of light moved slowly across the floor, measuring time in the way that light does — without numbers, without categories, without forms.
+He set the broken pieces down. He stood in the dark shop for a long time. The window faced west, and the last light came through it at a low angle, casting a rectangle of pale orange on the floor where the vegetable bins normally stood but didn't today.
 
-He turned off the lights. He locked the door. He walked home through streets he had walked for eleven years, past buildings he had entered and not entered, beneath signs he had not read, and he carried with him the knowledge — if it could be called knowledge, if a fact so obvious it had never required articulation could be said to be known — that no one in the municipal apparatus, from the gray-haired woman eating apples in Room 214 to the bored clerk on the third floor of Palkova 18 to the competent officer in Room 311 to the closed door of the archives in the basement, no one in the entire chain of offices that maintained and regulated and classified and verified the sign in his window, knew what it said.
-
-The sign had been maintained for eleven years by a system that did not know its content. And he, Ivo Polak, greengrocer of Zeleznicni 14, had displayed it every morning for eleven years without knowing its content. The system and the man had been performing the same act — faithful maintenance of a form whose content had been lost, or had never been relevant, or had been relevant once and had faded like the ink on the archivist's note, until all that remained was the display itself, the daily fact of a sign in a window.
+He turned off the lights. He locked the door. He walked home through streets he had walked for eleven years, past buildings he had entered and not entered, beneath signs he had not read, and he carried with him the fact that no one in the municipal apparatus — not the gray-haired woman in Room 214, not the clerk on Palkova 18, not the officer in Room 311, not the closed door of the archives in the basement — no one in the entire chain of offices that maintained and regulated and classified and verified the sign in his window, knew what it said.
 
 He did not think about his wife. He thought about plums.
 
@@ -233,13 +231,13 @@ He unlocked the door. He turned on the lights. The fluorescent tube above the co
 
 He swept the entrance. A leaf had blown in under the door. It was dry and brown and from a tree he could not identify, though it grew across the street in front of the pharmacy and had been dropping leaves on his entrance for as long as he could remember. He swept it into the gutter.
 
-The vegetables. He began with the root section — carrots, beets, parsnips, the tapered radishes that Mrs. Hovorkova preferred and that no one else bought, which meant he stocked them for Mrs. Hovorkova specifically, a private subsidy he had never calculated and did not intend to. Then the greens. Then the tomatoes, which were greenhouse this time of year and tasted of very little but looked correct, which was what mattered in February. Then the peppers, which he arranged by color because customers expected it and because it pleased him, though he would not have used the word pleased — it was more that the sight of peppers arranged by color confirmed something about the order of the day, the way a clock confirming the time confirms not the hour but the fact that hours are passing.
+The vegetables. He began with the root section — carrots, beets, parsnips, the tapered radishes that Mrs. Hovorkova preferred and that no one else bought, which meant he stocked them for Mrs. Hovorkova specifically, a private subsidy he had never calculated and did not intend to. Then the greens. Then the tomatoes, which were greenhouse this time of year and tasted of very little but looked correct, which was what mattered in February. Then the peppers, which he arranged by color because customers expected it and because the sight of peppers arranged by color confirmed something about the order of the day that he would not have called pleasure but that functioned like it.
 
 He reached the window.
 
 On the ledge where the sign had stood for eleven years, between the display of plums (fresh ones now, replacing yesterday's softened casualties) and the parsley in its metal bucket, he placed a rectangle of white card stock. He had cut it the previous evening from a sheet he kept in the back room for pricing labels. The dimensions were the same as the sign's — he had measured the broken pieces — and he had inserted the card into the old frame, which he had cleaned with glass cleaner and re-glued with a new mounting strip from the hardware store on Masarykova. The frame was metal, silver-colored, and it held the white card firmly. The glass was new — a sheet from the picture-frame section of the same hardware store, cut to size by a teenager who had asked no questions.
 
-The card was blank. No text, no script, no Georgian characters, no language of any kind. White card, metal frame, new glass. From across the street, it would look like a sign. It had the shape of a sign, the placement of a sign, the frame of a sign. It occupied the space a sign occupies. Up close it was nothing. A white rectangle. A form without content. A display of the act of displaying.
+The card was blank. No text, no script, no Georgian characters, no language of any kind. White card, metal frame, new glass. From across the street, it would look like a sign. It had the shape of a sign, the placement of a sign, the frame of a sign. Up close it was nothing.
 
 He adjusted its angle. He stepped back. The morning light, entering through the east-facing window, hit the glass and for a moment the blank card became a mirror — reflecting the street, the pharmacy, the stationery shop, the kebab place, and across all of them the moving shapes of people who were going places and doing things and not looking at the greengrocer's window, which was exactly what they had done every morning for eleven years when the sign was there, in a language none of them could read either.
 
@@ -247,6 +245,6 @@ The door opened. His first customer — not Mrs. Hovorkova, who came at 8, but a
 
 She glanced at the window. She said nothing about it. She selected four tomatoes and a bunch of parsley and paid with exact change, which she counted from a coin purse with the deliberation of someone for whom the act of counting is its own small anchor in the morning.
 
-After she left, Ivo looked at the window again. The blank sign sat in its frame, white and mute and precisely positioned between the plums and the parsley. It was, he thought, a good sign. Not good in the sense of quality or content or civic participation, voluntary or otherwise. Good in the sense of sufficient. It filled the space. It performed the function. It was there, which was what signs were for — not to say things but to be there, to occupy windows, to give the passing eye something to pass over, a landmark of familiarity that confirmed: yes, this is the greengrocer's. Yes, the shop is open. Yes, everything is as it was yesterday and will be tomorrow, continuing and continuing, Tuesdays becoming Wednesdays becoming Thursdays, each one exactly as heavy as a single unrepeated day can be, which is to say not heavy at all.
+After she left, Ivo looked at the window again. The blank sign sat in its frame, white and mute and precisely positioned between the plums and the parsley. It was, he thought, a good sign. Not good in the sense of quality or content or civic participation, voluntary or otherwise. Good in the sense of sufficient.
 
-He turned back to the carrots. One of them had a crack running down its length, and he set it aside for the discount bin, because a cracked carrot was still a carrot, and someone would buy it, and the day would proceed.
+He turned back to the carrots. One of them had a crack running down its length, and he set it aside for the discount bin.
