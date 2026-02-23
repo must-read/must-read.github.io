@@ -7,8 +7,8 @@ authorA: Alyssa Cole
 authorB: Gillian Flynn
 workX: "When No One Is Watching (Alyssa Cole)"
 workY: "Gone Girl (Gillian Flynn)"
-wordCount: 4222
-readingTimeMinutes: 17
+wordCount: 3814
+readingTimeMinutes: 15
 tags:
   - romantic-suspense
   - gentrification
@@ -77,7 +77,7 @@ Darlene was kneeling by a box of kitchen things, wrapping a ceramic rooster in t
 
 "I know. That's what I'm saying."
 
-"No, you're hearing it wrong." She set the rooster in the box and looked at me then. Darlene is sixty-three, Trinidadian, with a face that tells you when the conversation is over the way a clock tells you when the hour's done. "Thirty-one years is a long time to live anywhere. My daughter got into Bronxville. You know what kind of schools they have in Bronxville?"
+"No, you're hearing it wrong." She set the rooster in the box and looked at me then. Darlene is sixty-three, Trinidadian, with a face that ends conversations the way a deadbolt ends an argument. "Thirty-one years is a long time to live anywhere. My daughter got into Bronxville. You know what kind of schools they have in Bronxville?"
 
 "I know, but if someone pressured you—"
 
@@ -125,7 +125,7 @@ I didn't deny it. I'm good at many things and denial isn't one of them. I have a
 
 He put on his boxers. He left the room. I lay in his bed with the rain on the fire escape and the taste of him still in my mouth and I thought: *I am conducting an investigation and this man is a source, and I didn't decide that, but it's true, and now he knows it's true, and what do you do with a source who knows they're a source?*
 
-In a Gillian Flynn novel, you double down. In a love story, you apologize. I am living in the space between those two genres and the rent is killing me.
+You double down. Or you apologize. I couldn't tell which I was doing on any given day.
 
 ---
 
@@ -135,13 +135,13 @@ A paper street. Platted, recorded, never constructed. It existed in the legal im
 
 I went to the physical location on a Tuesday after work. Took the C to Nostrand, walked the seven blocks, passing the Korean grocery that's now a cold-pressed juice bar with a chalkboard out front offering something called a Turmeric Awakening for eleven dollars. The woman who used to run the grocery, Mrs. Park, sold last year. I noted it in the spreadsheet. Column G: *business displacement, possible lease pressure.* Mrs. Park's daughter told Darlene she sold because her mother's arthritis made standing at the register impossible and the juice bar people offered to buy the fixtures. I noted that too, in a column I didn't label.
 
-I stood on the sidewalk on Halsey and looked at the east wall of Theo's building, the chain-link fence, a patch of broken concrete where someone had put out tomato plants in white five-gallon buckets. An old man I didn't recognize was watering them with a repurposed detergent jug, slow and careful, the water dark against the concrete. This was where Gresham Place would have been. This was where the street was supposed to run. I stood on a street that had never existed and I felt the particular electric certainty of a pattern clicking into place — the same feeling I'd had with the billing codes, the same feeling that had made me right before and was making me wrong now, though those two states felt identical from inside.
+I stood on the sidewalk on Halsey and looked at the east wall of Theo's building, the chain-link fence, a patch of broken concrete where someone had put out tomato plants in white five-gallon buckets. An old man I didn't recognize was watering them with a repurposed detergent jug, slow and careful, the water dark against the concrete. This was where Gresham Place would have been. I stood on a street that had never existed and I felt the certainty of a pattern clicking into place — the same feeling I'd had with the billing codes, the feeling that had made me right before and was making me wrong now, though those two states were identical from inside.
 
 I photographed the wall, the tomatoes, the chain link. I texted Theo a pin of the location. *This is where it starts.*
 
 He texted back: *That's the side of our building.*
 
-He was right. It was the side of the building. But I was already writing the next chapter of the story I'd been telling myself since I moved to Bed-Stuy eighteen months ago, the story in which Nadia Osei is the person who sees the pattern, who pulls the thread, who proves what everyone else is too comfortable or too complicit to say: that the disappearances are coordinated, that the LLCs are connected, that the neighborhood is being eaten from the inside by a machine, and that Gresham Place — a ghost street, a bureaucratic phantom, a road that existed only on paper — was the proof.
+He was right. It was the side of the building. But I was already writing the next chapter of the story I'd been telling myself since I moved to Bed-Stuy eighteen months ago, the story in which Nadia Osei is the person who sees the pattern, who pulls the thread, who proves what everyone else is too comfortable or too complicit to say: that the disappearances are coordinated, that the LLCs are connected, that the neighborhood is being eaten from the inside by a machine, and that Gresham Place — a ghost street, a bureaucratic phantom — was the proof.
 
 Gresham Holdings LLC. Gresham Place. The name couldn't be a coincidence.
 
@@ -163,13 +163,9 @@ I was right about the history. I was wrong about the present. And I couldn't fin
 
 The monk parakeets were out. You could hear them from Theo's stoop — a sound like a very small, very angry cocktail party, coming from the direction of Green-Wood Cemetery where they'd built their nests in the Gothic archway. I'd asked Theo about them the first week I started staying over. He'd told me the story: Argentine parakeets, blown loose from a shipping crate at JFK in the late sixties, establishing a colony in a Brooklyn cemetery and never leaving.
 
-"Invasive species," I'd said, because at the time I was building my framework and everything was material.
+"Invasive species," I'd said.
 
 "Not really." He'd been sitting on the stoop railing, the way he does, one foot on the step. "They didn't push anyone out. The other birds are still here. The parakeets just — adapted. Built their own thing in the cracks."
-
-"Sounds like gentrification with better PR."
-
-"Sounds like birds, Nadia."
 
 I remembered that conversation the evening I printed my evidence and spread it on Theo's kitchen table. I'd arranged it chronologically — the covenant, the deed transfers, the LLC filings, the Gresham Place plat, the departure timeline, the buyout figures. It covered the entire table. It looked professional. It looked like proof.
 
@@ -189,7 +185,7 @@ Theo came in with groceries. He set the bag on the counter and looked at the tab
 
 "Trusts can also just be trusts." He put the rest of the groceries away. Slowly, each item in its place, the way he does everything — patient, orderly, a man who believes that if you put things where they belong, they'll be where you need them. "I wasn't going to tell you this today."
 
-Something in the way he said *today*. A weight on the word, a reservation.
+Something in the way he said *today*. A reservation.
 
 "Tell me what."
 
@@ -211,7 +207,7 @@ The kitchen was very quiet. Outside, the parakeets were screaming at each other 
 
 "It did exist. Legally, it existed."
 
-"And now it's a wall with tomato plants. And you built a theory on it." He was quiet for a moment. Not gathering his thoughts — letting something settle. "When I told you I was thinking about leaving, three months ago, you said *they're getting to you*. You remember that? Like I was a witness being intimidated. Like I wasn't a person making a decision."
+"And now it's a wall with tomato plants. And you built a theory on it." He was quiet for a moment. "When I told you I was thinking about leaving, three months ago, you said *they're getting to you*. You remember that? Like I was a witness being intimidated. Like I wasn't a person making a decision."
 
 I didn't answer.
 
@@ -225,34 +221,30 @@ He went to the bedroom and closed the door. Not a slam. The quiet click of a lat
 
 I sat at the table, surrounded by my documents. The covenant. The filings. The timeline of departures. The plat of a street that never existed. It looked, from a certain angle, like the work of someone who was very smart and very thorough and had caught something that no one else could see.
 
-It looked, from another angle, like a diary. A document designed by its author to tell a specific story — one in which the author is righteous, the system is the villain, and every piece of evidence confirms what the author already believed. Not a conspiracy uncovered. A narrative constructed. Not Amy Dunne's diary — I'm not that far gone, not that deliberate — but the same architecture. A story built to serve the person who wrote it.
+It looked, from another angle, like a diary. A document designed by its author to tell a specific story — one in which the author is righteous, the system is the villain, and every piece of evidence confirms what the author already believed. A narrative constructed to serve the person who wrote it.
 
 I'd moved to Bed-Stuy eighteen months ago because my mother sold our apartment in Harlem. Sold it to a developer's representative for eighty thousand over asking, took the money, retired to North Carolina. She didn't tell me until it was done. She said: *I'm tired, baby. I've been tired a long time.* And I said: *They got to you.* And she said: *Nobody got to me. I got to me. I chose this.*
 
 And I built a spreadsheet to prove she was wrong. Not this spreadsheet — the first one, the one I started in Harlem, the one I never showed anyone. The one that proved the buyout was predatory, that the developer was connected to a larger entity, that my mother was a casualty. She wasn't. She was relieved. The buyout felt, to her, like permission to rest.
 
-I couldn't forgive her for that. I couldn't forgive the system for not being the villain I needed it to be. So I moved to Bed-Stuy and started looking for the pattern here, in a different building, on a different block, because the pattern had to exist somewhere, because if it didn't — if neighborhoods just changed, if people just left, if the great machinery of displacement was sometimes just weather — then my mother wasn't conquered. She just went home. And I was sitting in a kitchen in Brooklyn with a folder full of evidence that proved nothing except how badly I needed it to.
+I couldn't forgive her for that. So I moved to Bed-Stuy and started looking for the pattern here, in a different building, on a different block, because the pattern had to exist somewhere. If it didn't — if neighborhoods just changed, if people just left, if the machinery of displacement was sometimes just weather — then my mother wasn't conquered. She just went home. And I was sitting in a kitchen in Brooklyn with a folder full of evidence that proved nothing except how badly I needed it to.
 
 ---
 
 The stoop. Nine-thirty at night, the end of February, cold enough that sitting out here is a choice. My laptop is on my knees and the spreadsheet is open. Forty-seven rows. Names, dates, unit numbers, LLC connections I traced at two in the morning in the bed of a man who might not open the door if I knock.
 
-I look at the rows. I look at Darlene, who is in Bronxville with her daughter. At Mrs. Garfield, who is in Savannah with her sister. At the Ramirezes, who followed a job to Atlanta. At old Mr. Jeffers, who went to assisted living in Canarsie because his knees couldn't do the stairs anymore. At all of them, every name in my spreadsheet, and I try to see them the way Theo asked me to — as people who made choices. Not victims in my narrative. Not data points in my fraud case. People.
+I look at the rows. I look at Darlene, who is in Bronxville with her daughter. At Mrs. Garfield, who is in Savannah with her sister. At the Ramirezes, who followed a job to Atlanta. At old Mr. Jeffers, who went to assisted living in Canarsie because his knees couldn't do the stairs anymore. People who made choices. Not all free choices — I'm not naive enough to think that — but choices. Not data points in my fraud case.
 
-It's hard. It's hard because some of the choices were made inside a system that constrains choices, and the covenant is real, and the history is real, and I am not wrong about everything, just about the thing that matters most, which is whether any of it adds up to what I said it did.
+I close the laptop. I don't delete the spreadsheet. Deleting it would be its own kind of performance — the dramatic gesture, the proof of growth, the moment where the protagonist renounces her flaw and becomes better. I am not better. I am sitting on a stoop with a laptop full of wrong answers and a boyfriend on the other side of a closed door and no framework at all.
 
-I close the laptop. I don't delete the spreadsheet. Deleting it would be its own kind of performance — the dramatic gesture, the proof of growth, the moment in the third act where the protagonist renounces her flaw and becomes better. I am not better. I am sitting on a stoop with a laptop full of wrong answers and a boyfriend on the other side of a closed door and no framework at all, which is the most terrifying thing that has happened to me in my adult life, including the time my mother sold my childhood out from under me.
+I don't know if loving Theo was real or if it was part of the investigation — if I chose him or if I chose the version of him that fit my thesis: the rooted man, the longtime tenant, the monument to what the neighborhood was before people like me showed up with our spreadsheets and our outrage and our eight-dollar coffees. I think the answer is both. I think I loved him and I used him and the two things happened in the same body, in the same bed, and I don't know how to separate them because they were never separate.
 
-Down the block, toward Green-Wood, the parakeets are settling in. You can hear them even at this distance — that collective chatter, like an argument no one's winning. Feral things from Argentina, blown loose from a crate sixty years ago, living in a cemetery's Gothic arch. They didn't displace anyone. They didn't colonize anything. They built their nests in the cracks and the other birds stayed and the ecosystem absorbed them and moved on.
-
-I don't know what I am. I don't know if I'm the parakeet or the crate or the wind. I don't know if loving Theo was real or if it was part of the investigation — if I chose him or if I chose the version of him that fit my thesis: the rooted man, the longtime tenant, the monument to what the neighborhood was before people like me showed up with our spreadsheets and our outrage and our eight-dollar coffees. I think the answer is both. I think I loved him and I used him and the two things happened simultaneously, in the same body, in the same bed, and I don't know how to separate them because they were never separate.
+Down the block, the parakeets are settling in. That collective chatter, like an argument no one's winning.
 
 I take out my phone. The screen shows my last message to him, from two hours ago, the pin of Gresham Place with the caption *This is where it starts.* A street that doesn't exist. A beginning that was never built.
 
 I type: *Can we talk? Not about the building.*
 
-I send it. I sit on the stoop in the cold and I wait. Not for evidence. Not for confirmation. For a man to decide whether he wants to come downstairs to a woman who has spent six months studying him like a problem set.
+I send it. I sit on the stoop in the cold and I wait. For a man to decide whether he wants to come downstairs to a woman who has spent six months studying him like a problem set.
 
-The parakeets go quiet. The streetlight on the corner has that orange sodium buzz. Someone walks past with a dog and doesn't look at me. My phone is in my hand and the screen is dark and I am waiting, without a theory, without a framework, for something I can't predict, which is another word for the truth, which is another word for the thing I've been avoiding since my mother packed her bags and said she was tired and meant it.
-
-Theo doesn't answer. The screen stays dark. I sit on the stoop and I wait, and the waiting is new, and the waiting is the only honest thing I've done since I moved here, and I don't know how long it lasts because that's not how this ends. This ends with me sitting here. With the question open. With no data.
+Theo doesn't answer. The screen stays dark. I sit on the stoop and I wait, and I don't know how long it lasts because that's not how this ends. This ends with me sitting here. With the question open. With no data.
