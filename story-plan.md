@@ -1,210 +1,136 @@
-# Story Plan: fan-portal-fantasy-001
+# Story Plan: hor-southern-gothic-horror-002
 
 ## 1. Title
 
-**Jamais Vu at the Dead Letter Office**
+**Congregation of One**
 
-Rationale: Does not start with "The." Combines the two mined Wikipedia concepts -- jamais vu (the eerie sense of the familiar becoming unfamiliar) and the Dead Letter Office (mail stuck in institutional limbo, undeliverable and unreturnable). Together they name the story's central experience: a place of comfortable stasis where recognition keeps failing. The title signals both the bureaucratic-mundane setting and the psychological uncanny. It reads as strange enough to intrigue without revealing the premise.
+*(Not starting with "The." Echoes Poe's phrase from the author meeting — "the congregation of one" — the compulsive confessor as solitary worshipper. Also carries the double meaning: a congregation made up of a single person, OR the narrator becoming one with the congregation. Title structure: noun-phrase compound.)*
 
 ---
 
 ## 2. Premise
 
-Nadia Kowalczyk, a 41-year-old letter carrier (mail delivery worker), collapses during her route on a February morning and wakes in what appears to be a municipal waiting room: fluorescent lights, molded plastic chairs, a ticket-number dispenser, a vending machine offering sandwiches with expiration dates that never arrive. The room is full of people who are patient, friendly, and content. They have coffee mugs with their names on them. They have routines. They have been here a very long time.
+A woman named Lina Boatwright, driving south on I-49 through Louisiana in late August, takes shelter in a roadside church during a violent thunderstorm. The church is small, white-frame, hand-painted sign, gravel lot — one of those clearings-off-the-highway churches that proliferate in rural Louisiana. Inside, a Wednesday night service is already in progress. The congregation of eleven women and one pastor practice something that looks like Pentecostal worship but isn't: they confess, aloud, to things they did not do — other people's sins, absorbed and spoken as their own — and the act of collective confession produces a physical change in the room, a sound or vibration felt in the bones rather than heard through the ears.
 
-Among them is a girl who looks exactly like Nadia's daughter Zosia, who died of leukemia at age nine, three years ago. The girl is twelve now -- the age Zosia would have been -- and she is happy and healthy and she calls Nadia "Mom" and she doesn't remember being sick.
-
-The waiting room is a kind of cosmic dead letter office: a place for people whose grief was never resolved, whose goodbyes were never delivered, whose final words were addressed to someone who had already gone. The residents are dead. Most of them don't know it. Some of them figured it out and stayed anyway. The room provides comfort, routine, the gentle institutional warmth of a place that wants nothing from you except that you remain.
-
-Nadia is not dead. She is dying -- her heart stopped on the mail route, and she is in the space between cardiac arrest and resuscitation. She has minutes. The room feels like hours. She must decide whether to stay in the waiting room with a version of Zosia that is not quite Zosia (the recognition keeps slipping -- jamais vu -- the daughter's face is right but the laugh is wrong, the scar on the left knee is missing, small details that snag like threads) or return to a life in which Zosia is genuinely gone, the mail route continues, the mornings are cold, and everything that happens is real.
+Lina, who has been driving for two days to avoid returning to her apartment in Baton Rouge where her mother died three weeks ago, discovers that the church's practice answers something in her she didn't know was broken. The confession wasn't hers, but it fit. She leaves after the storm. She comes back the following Wednesday. And the Wednesday after that. And now she is telling us — the reader — about all of it, and her narration sounds like testimony, sounds like warning, but the rhythm is wrong. The precision of her recall. The way she describes the church with the faithfulness of a devotee memorizing liturgy. Her confession to us IS the church's practice, extended to an audience of one. The story we are reading is the service. We are the congregation now.
 
 ---
 
 ## 3. Protagonist
 
-**Nadia Kowalczyk**, 41. Letter carrier for the US Postal Service, 14 years on the same route. Polish-American, south side of a mid-sized Rust Belt city. Widowed in the sense that her marriage ended not with a death but with a departure -- her husband left six months after Zosia's death, unable to occupy the same house as the grief. Nadia stayed.
+**Lina Boatwright**, 34, a medical transcriptionist who has spent her career listening to other people's pain and converting it into clean, typed documents. She is good at her job because she can hear the thing beneath the thing — the hesitation before a diagnosis, the doctor clearing his throat before saying "inoperable." She transcribes without flinching.
 
-**Specific flaw:** Nadia is a hoarder of the familiar. She walks the same route, eats the same lunch, keeps Zosia's bedroom exactly as it was. She has turned her life into a waiting room of her own making -- a shrine to routine that keeps her from processing grief. Her flaw is not that she grieves too much but that she has turned grief into furniture. She has organized the sadness into drawers, labeled it, and come to work every morning. (This directly from the Saunders voice in the author meeting -- the administrator mother who "organized the grief.") Nadia's flaw is that she's already chosen the waiting room before she arrives at the literal one.
+**Specific flaw:** Lina cannot produce her own confession. She processes other people's suffering with clinical detachment, but her own grief — specifically, her complicated, guilty relief at her mother's death after years of caretaking — is locked behind her sternum like a stone she swallowed. She doesn't cry at the funeral. She doesn't call anyone. She gets in her car and drives south, not toward anything, just away from the silence of the apartment where her mother's oxygen machine used to run.
 
-**What she must learn (but may not):** That there is a difference between remembering a person and refusing to let them go. That the waiting room version of Zosia is made of Nadia's memory, not of Zosia herself. That leaving is not abandonment -- but the story will not let her state this cleanly.
-
----
-
-## 4. Three Narrators (MULTIPLE VOICES -- Risk Card)
-
-The story alternates between three formally distinct voices. Each narrator occupies a different relationship to the waiting room and to truth. Their accounts overlap, contradict, and illuminate. The reader must triangulate.
-
-### Voice 1: NADIA (the new arrival)
-
-**Register:** Gaiman-inflected. Short, observational sentences. Matter-of-fact prose amid the impossible. Clarity verging on flatness. She describes the fluorescent lights and the molded chairs and the girl who looks like her daughter with the same level, composed attention. No exclamation, no panic. The British-composure element rendered as Midwestern reserve -- a postal worker who has spent 14 years delivering other people's joys and catastrophes and has learned to carry them without opening the envelopes.
-
-**Syntax:** Simple declarative sentences. Short paragraphs. Present tense. Minimal interiority -- she observes, notes, catalogs. When she does reflect, it surfaces as a single flat sentence after a physical observation, like a stone dropped into still water.
-
-*Sample rhythm:*
-"The waiting room had forty-three chairs, all the same shade of green. The girl in the corner chair was reading a magazine about horses. She had Zosia's hands. She did not have Zosia's scar."
-
-**Focus:** What's wrong. Nadia notices the seams. The vending machine sandwiches that never expire. The clock on the wall that counts but doesn't advance. The girl who says "Mom" with the right mouth but the wrong emphasis.
+**How the flaw drives the story:** Lina's inability to confess her own feelings makes the church's practice irresistible. Here, you don't confess YOUR sins — you confess other people's. You absorb suffering that isn't yours and speak it aloud, and the room takes it from you. For a woman who has spent her career doing exactly this — absorbing and transcribing other people's pain — the church feels less like a discovery than like coming home. That's the horror: it IS coming home. The thing she does professionally, the skill she thought was neutral, is the same mechanism the church uses. She wasn't passing through. She was always on this road.
 
 ---
 
-### Voice 2: PELL (the long-term resident)
+## 4. Structure (5 Beats)
 
-**Full name:** Pell Durbin. Died in 1987 of an aortic dissection in the parking lot of a Sears in Akron, Ohio. He was 53. He has been in the waiting room for thirty-eight years and he is, by all accounts, fine with it.
+### Beat 1: The Storm and the Door (approx. 600 words)
+Lina drives south on I-49 in a storm that turns the road to grey static. Her narration is tight, controlled, precise — a medical transcriptionist's voice. She catalogs details: the windshield wipers' RPM, the exact mile marker where visibility drops below fifty feet, the amber glow of a church sign emerging from the rain like a word surfacing in murky water. She pulls into the gravel lot. The church door is open. Inside: metal folding chairs, a plywood lectern, fluorescent lights that hum at a frequency she can almost name, and eleven women mid-service. A water stain on the wall behind the lectern has been painted with a gold frame.
 
-**Register:** Saunders-inflected. First-person vernacular monologue. Bureaucratic self-justification shot through with involuntary tenderness. Long, discursive sentences with parenthetical qualifications that reveal more than the main clause. Corporate vocabulary applied to the afterlife. Humor that sounds like accommodation and is actually grief wearing a company polo.
+**Key detail:** She tells us she's telling us this as a warning. "I want you to understand what happened so you don't make the same mistake." This sounds reasonable. It sounds like testimony. But notice: she describes the church's interior with the specificity of someone who has been here many, many times, not someone recalling a single panicked visit during a storm.
 
-**Syntax:** Run-on sentences punctuated by sudden fragments. Parenthetical asides that swell into confessions. Second-person address to an implied audience (possibly the reader, possibly himself, possibly the intake form). Self-interrupting. Prone to cataloging the room's amenities with the enthusiasm of a customer satisfaction survey that has become sincere.
+**Formula integration:** Poe's obsessive first-person narration (rhythmic, precise, the narrator insisting on her own rationality). O'Connor's road-as-descent structure (the drive south, the family trip that goes wrong). The church as physical space — folding chairs, water stain, fluorescent hum.
 
-*Sample rhythm:*
-"The sandwich situation, and I will be the first to concede this point, could be improved, in the sense that the tuna option has been the same tuna option since (I want to say) the early Nineties, and the egg salad, while technically egg salad, has a relationship to eggs that I would characterize as aspirational rather than achieved, but the point is -- the point is -- there ARE sandwiches, and there is a room, and the room is warm, and I have a chair, and my chair is the fourth from the left in the second row, and if that isn't enough for a man then perhaps the problem is not the chair."
+### Beat 2: The Practice (approx. 800 words)
+The pastor — a woman named Sister Arden, late sixties, hands like knotted rope — leads the service. One by one, the women stand and confess. But the confessions are wrong. A young woman confesses to beating her child until the child stopped crying, except she has no children — Lina can tell by her hands, by the absence of certain kinds of wear. An older woman confesses to stealing from her employer, except she uses vocabulary that doesn't match — she says "embezzlement" and "fiduciary" like she's reading from a document she doesn't fully understand. The confessions aren't inventions. They're real sins — but they belong to other people.
 
-**Focus:** Why staying is reasonable. Pell is the voice that makes the waiting room sound not just tolerable but logical. He is the Greek chorus member who has been singing so long he no longer hears the song. His sections are funny in the break-room way -- the humor of a person who thinks this is just Tuesday.
+Sister Arden explains, after the service, while the rain hammers the tin roof: "We take what others can't carry." The church's practice is absorption. Confession in reverse. The congregants don't speak their own sins — they speak the sins of people in the community who can't or won't confess. Husbands, sons, employers, the woman at the gas station, the sheriff. The church takes the confession into itself. And something happens in the room when they do this — Lina feels it. A vibration in the folding chair's metal legs. A sound below hearing, like the building itself is digesting.
+
+**Key detail:** Lina's narration here becomes subtly more rhythmic. She starts repeating phrases. "I sat and I listened. I sat and I felt." The Poe cadence is entering her voice, but she doesn't acknowledge it.
+
+**Formula integration:** Enriquez's social realism — the congregants are real people with grocery lists and bad knees, not Gothic archetypes. The confessions reference specific community sins: domestic violence, wage theft, the sheriff looking the other way. Faulkner's Sanctuary — violence that has a social grammar, evil that has a chair at the table. O'Connor's grotesque characters who are simultaneously comic and terrifying — the woman confessing to embezzlement in words she doesn't understand.
+
+### Beat 3: The Return and the Recognition (approx. 800 words)
+Lina leaves after the storm. She drives to a motel in Natchitoches. She does not sleep. She transcribes medical records on her laptop. A cardiology report: patient presents with chest pain, etiology uncertain. She types the words and they feel different now. She has always processed other people's pain. She has always been a vessel for confession that wasn't hers.
+
+She goes back the following Wednesday. And the Wednesday after that. Each return she tells us about is compressed — she skips over the justifications, the self-talk, the way she told herself she was studying the phenomenon, understanding it, so she could warn others. She gives us the drives in fragments: the mile markers, the gravel crunch, the door that is always open.
+
+On her fourth visit, Sister Arden asks her to participate. "You've been listening. That's the first part. Now the room needs to hear your voice." Lina stands. She opens her mouth. And what comes out is not her mother's oxygen machine, not her own relief at its silence, not her guilt. What comes out is the sin of a man she has never met — a contractor who cut corners on a school foundation, three classrooms with hairline cracks in the load-bearing walls — and she knows it the way she knows a medical transcription: she heard it somewhere, processed it, filed it, and now the church is pulling it out of her.
+
+**Key detail:** The congregation responds. They lean in. The vibration in the room intensifies. Lina describes this with the language of a body responding — not metaphor, but the literal physical symptoms: her scalp tightens, her vision narrows, her hearing sharpens until she can hear the individual heartbeats of the women in the folding chairs. This is not religious ecstasy. It is the frontal lobes going quiet while consciousness persists — the neurology of glossolalia, of surrender.
+
+**Formula integration:** Poe's compulsive confession — Lina confesses not her own sin but someone else's, the same inversion the church practices. The rhythm of her narration accelerates. Enriquez's matter-of-fact supernatural — the vibration is described clinically, the way a medical transcriptionist would describe an anomalous finding. Not awe. Notation.
+
+### Beat 4: The Congregation Feeds (approx. 700 words)
+Lina has been attending for six weeks. She knows the women's names now. She knows their weekday lives — Dorothea works at the feed store, Rae has a daughter in Shreveport who won't return calls, Patrice walks with a limp from a fall the congregation doesn't talk about in detail. They are ordinary. They are her neighbors, if she lived here, which she increasingly does — she's stopped going back to the motel. She sleeps in her car in the church parking lot on Tuesday nights.
+
+The horror enters through a detail, not a revelation. Lina is transcribing records in her car when she hears the sound — the sub-audible vibration — coming from the church on a night when no service is scheduled. She goes inside. The building is empty. But the sound is there. The metal chairs vibrate faintly. The gold-framed water stain on the wall behind the lectern has changed shape, or she thinks it has — it's larger, or darker, or more detailed. It looks less like a stain and more like a map. She sits in her usual chair and the vibration enters her through the metal legs, through her spine, and she understands: the building doesn't need the congregation to generate the sound. The congregation needs the building to STOP the sound. The weekly confessions aren't feeding the church. They're feeding it enough to keep it quiet. The church is always hungry. The confessions are maintenance. And if the congregation stops — if they miss a week, if they leave — the church will feed itself.
+
+On what. On whom. Lina doesn't say. She tells us this with the calm of someone describing a chronic condition, a diagnosis she's learned to live with. The horror is not the revelation. The horror is the coping.
+
+**Formula integration:** Faulkner's Sanctuary — the place that should be safe is the most dangerous. The sanctuary as trap. The reversal: the congregation isn't the predator; the congregation is the containment system. Enriquez's social horror — the women aren't victims of superstition; they're performing a necessary civic function, like a volunteer fire department for spiritual contamination. O'Connor's moment of grotesque recognition — but Lina's recognition doesn't arrive through violence. It arrives through routine, through the medical transcriptionist's habit of processing horror as data.
+
+### Beat 5: The Invitation (approx. 500 words)
+The narration shifts. Not dramatically — Lina doesn't break the fourth wall or announce what she's doing. But the reader (if they've been paying attention) should notice that the cadence of her voice has changed. She's no longer telling us what happened. She's conducting a service. Her narration has become confessional — not confession OF sin, but the rhythmic, incantatory practice she learned in the church. She is speaking someone else's pain to us. She is giving us the church's burdens, packaged as a story, and our act of reading — our attention, our leaning-in — is the absorption.
+
+"I drove south because I needed somewhere to stop. I found a church with its lights on. I'm telling you this so you understand." But "understand" here doesn't mean comprehension. It means something closer to "take in." To absorb. To carry.
+
+The story ends mid-liturgy. Lina is describing her eighth or ninth visit — she's lost count, or claims to — and she's in the middle of a sentence about the sound, about what it feels like when the building digests a confession, when the narrative simply continues into something that isn't ending but isn't resolution either. She's still talking. She'll always be talking. The service doesn't end; the congregation disperses and reconvenes. You close the story the way you leave a church: by standing up and walking out while the pastor is still speaking, because the service was never going to end on its own.
+
+**What is NOT resolved:** Whether the church is genuinely supernatural or whether Lina has had a psychotic break. Whether Sister Arden is benevolent (maintaining the church's hunger so it doesn't feed on the community) or predatory (recruiting new congregants to sustain the cycle). Whether Lina's narration is a warning, a recruitment, or an involuntary repetition of a pattern she can't stop. Whether the reader, having "attended" this service by reading it, has absorbed anything.
+
+**Formula integration:** Poe's narrator who cannot stop confessing — the beating heart under the floorboards has become the vibration under the folding chairs. The reader as the police inspector: we're sitting above the buried thing and she can't stop telling us about it. O'Connor's moment of grace inverted — there is no gun, no violence, but there IS a moment where the mask falls and the face underneath is terrible: the moment we realize the narrator isn't saving us from the church. She IS the church, extended. Enriquez's ending style — matter-of-fact, no punctuation of horror, just the quiet continuation of something awful that has become routine.
 
 ---
 
-### Voice 3: THE ATTENDANT (the administrator)
+## 5. Key Scenes
 
-**No personal name given.** Referred to only as "the Attendant" in their own sections. Third-person self-reference throughout -- never "I," always "the Attendant." This voice is the other mother filtered through middle management: the figure who shapes the room and calls it care.
+### Scene A: The First Confession (Beat 2)
+The young woman with no children confesses to child abuse. Lina watches her hands. The details are medically precise — Lina's transcriptionist ear catches the clinical accuracy of the injuries described. This isn't invention. Someone reported this, or confessed this to the young woman, or the young woman absorbed it from proximity the way a sponge absorbs water from a countertop. The congregation responds with a collective exhalation — not absolution, not judgment. Processing.
 
-**Register:** Neither Gaiman nor Saunders but something that emerges from their collision. Formal, procedural, institutional -- like reading from a manual that has developed, over centuries, a kind of tenderness. The Attendant speaks about the residents with genuine warmth and about the room with genuine pride. The effect is simultaneously comforting and deeply wrong: a customer service voice that has become the only voice, a costume of personhood worn so long the zipper has fused.
+### Scene B: Lina's First Spoken Confession (Beat 3)
+Standing in the folding chair row, opening her mouth, expecting her own grief to emerge, and instead speaking a stranger's sin with professional clarity. The contractor. The school foundation. The hairline cracks. She speaks it as she would type it: accurately, without inflection, a faithful transcription. But the room responds to her differently than it responds to the other women. The vibration sharpens. Sister Arden's expression shifts from pastoral calm to something Lina can only describe as recognition — not "I see you" but "I knew you'd come."
 
-**Syntax:** Declarative and orderly. Numbered observations. Periodic sentences that build to conclusions that sound reasonable and are not. Third person maintained even in moments of apparent emotion. When the mask slips -- when something almost personal leaks through -- the Attendant corrects back to procedure immediately.
+### Scene C: The Empty Church (Beat 4)
+Tuesday night, no service. The sound persists. The building doesn't need the congregation. This scene is the horror pivot: everything before it could be explained as a weird local custom, an unorthodox therapeutic practice, a woman finding community after loss. After this scene, the story operates in territory where rational explanation is still possible but increasingly effortful. The water stain behind the lectern is the key image: it's either growing or Lina is deteriorating, and the narration doesn't let us decide.
 
-*Sample rhythm:*
-"The Attendant notes that the new arrival has been assigned Chair 27 (window-adjacent, good light, view of the corridor). The Attendant has placed a mug on the side table. The mug reads NADIA. The Attendant selected this mug with care, from the cabinet where all the mugs are kept, and the Attendant would like the new arrival to know that the mug was not retrieved from storage but made, specifically, in the manner that all mugs here are made, which is to say: it has always existed, waiting for the person whose name it bears."
-
-**Focus:** The room itself. The Attendant describes the room's features, its comforts, its policies. The Attendant never describes what is outside the room. When asked, the Attendant provides an answer that is technically responsive and substantively empty.
-
----
-
-## 5. Structure (5 Beats)
-
-### Beat 1: ARRIVAL (Nadia) -- ~800 words
-
-Nadia wakes in the waiting room. She does not know how she got here. The last thing she remembers is the cold on her mail route, the tightness in her chest, the letters scattering from her hand. The room is municipal-beige, fluorescent-lit, warmer than it should be. There are people in the chairs, maybe forty of them. They look up when she arrives. Some smile. Some nod. One woman waves.
-
-Then the girl stands up from the corner chair. She is twelve. She has brown hair in a braid. She has Zosia's face. She says, "Mom, you're here."
-
-Nadia says, "Yes." She says it the way she says it when someone on the route asks if it's cold out and the answer is obviously yes. Matter-of-fact. Composed. The composure that is not strength but the absence of a viable alternative.
-
-The Attendant appears -- no approach, no footsteps, simply present. Explains the room. A ticket, a mug, a chair. The policies are simple: you may stay as long as you like. Everyone does.
-
-**Purpose:** Establish the room, the stakes, the girl. Gaiman's tone: the impossible presented plainly.
-
-### Beat 2: ACCOMMODATION (Pell) -- ~1,200 words
-
-Pell's monologue. He welcomes Nadia to the room in the way a long-tenured employee welcomes a new hire: with enthusiasm that is either genuine or has been performed so long it has become indistinguishable from genuine. He explains the room's culture: the sandwich rankings (ham is first, egg salad is a war crime, tuna is "fine"), the unspoken seating chart, the holidays they celebrate (Pell has invented three), the small dramas and friendships.
-
-He tells her about himself -- carefully, with the parenthetical evasions that reveal everything. He was going to Sears to buy a socket wrench. He had a wife named Gail. He had a son named Tommy who was seven. He doesn't talk about Tommy much. (He talks about Tommy constantly, in the gaps between other sentences, in the parenthetical asides that bloom into five-line digressions and then snap shut.)
-
-He tells Nadia, gently, that the girl in the corner is lovely. That the girl has been waiting for her. That the room provides what you need, which is to say, the room provides what you lost. He does not use the word "dead." He uses the word "settled."
-
-He tells her about the Others -- people who left. Who walked through the door at the back of the room. He doesn't know what happened to them. Nobody does. The Attendant says the door leads to "processing," but Pell has been here thirty-eight years and processing, in his experience, is just a word people use when they don't want to say "we don't know."
-
-**Purpose:** Worldbuilding through voice. Saunders' register: the funny/devastating monologue. Establish the room's seductive normalcy. Plant the door.
-
-### Beat 3: RECOGNITION FAILURE (Nadia, with Attendant interludes) -- ~1,500 words
-
-Nadia spends time with the girl who is Zosia. They sit together. They talk. The girl knows things Zosia knew: the name of Nadia's route, the cat they had, the song Nadia sang at bedtime. But there are gaps. Jamais vu moments -- flickers of unfamiliarity that surface and vanish:
-
-- The scar is missing. Zosia had a scar on her left knee from a bicycle fall at age six. This girl's knees are perfect.
-- The laugh is wrong. Not wrong like a stranger's -- wrong like a photocopy of a photocopy. The shape is right. The sound is thin.
-- The girl says "Mom" and sometimes Nadia feels the word arrive correctly and sometimes it lands like a letter addressed to someone who has moved.
-
-Interspersed: the Attendant's sections. Clinical, caring, procedural. The Attendant explains that "adjustment periods are normal." The Attendant explains that "recognition variance decreases over time." The Attendant uses phrases like "integration process" and "comfort calibration." The Attendant is not lying. The Attendant believes every word.
-
-One Attendant section reveals, in a sentence the Attendant does not flag as important, that the room "has served four hundred and eleven thousand, six hundred and nine residents since the Attendant was first appointed." The number is monstrous. It sits in the middle of a procedural paragraph like a bone in a sandwich.
-
-**Purpose:** The Coraline element: noticing the wrongness. The jamais vu concept woven into the fabric. The love that is almost love. The portal trap that doesn't spring shut but slowly, gently, closes.
-
-### Beat 4: THE CRACK (Pell, Nadia, Attendant) -- ~1,300 words
-
-Two things happen that break the room's equilibrium:
-
-**First:** Nadia asks Pell about his son Tommy. Directly. Not a parenthetical mention -- a direct question. Pell tries to answer and cannot. He has forgotten Tommy's face. Not all at once -- he can still describe the hair, the freckles, the gap-toothed grin at seven. But the composition of the face, the way the features sit together, has dissolved. He has a list of features where a face used to be. And this -- this is the cost the room doesn't advertise. The room gives you the dead but it takes the living. The room gives you the copy but it dissolves the original. Pell's memory of Gail is gone. Tommy is going. The room is a dead letter office in the truest sense: it holds what was meant for the living, and in holding it, ensures it is never delivered.
-
-This is the crack in Pell's monologue. For the first time, his humor fails. A sentence starts funny and doesn't land. A parenthetical opens and doesn't close.
-
-**Second:** Nadia touches the girl's hand and the girl's hand is warm but the warmth is the wrong temperature. Not cold like a dead thing. Not warm like a living thing. Room temperature. The girl is the same temperature as the chairs.
-
-The Attendant section that follows is the first where the third-person mask slips. One sentence reads: "The Attendant remembers -- " and then corrects: "The Attendant notes that adjustment variance is normal and encouraged."
-
-**Purpose:** The hinge. Both the Saunders voice and the Gaiman voice arrive at the same realization through different paths -- the funny voice loses its humor, the composed voice loses its composure. The reader knows before the characters say it: the room is a trap, and the trap is kindness.
-
-### Beat 5: THE DOOR (All three voices, intercut) -- ~1,200 words
-
-Nadia goes to the door at the back of the room. The girl follows her. The girl says, "Don't."
-
-This section intercuts rapidly between all three voices:
-
-**Nadia** describes the door. It is an ordinary door. Institutional, metal, with a push bar. It has a small window of wired safety glass. Through the window she can see -- nothing specific. A hallway. Fluorescent light from a different source. The hallway smells, faintly, of February. Of diesel. Of cold asphalt. Of real things.
-
-**Pell** narrates from his chair, watching. His monologue is stripped -- shorter sentences, fewer parentheticals. He is terrified for her and also envious in a way he cannot name. He describes the Others who left: Mrs. Takahashi, who walked through the door in 2003 and never came back. Kip Landers, who ran through it in 1991 like he was late for something. Pell has never gone near the door. He tells himself this is because the room is fine, the sandwiches are adequate, the chair is comfortable. But here, finally, he admits: he is afraid the hallway leads to a place where Tommy's face is fully gone, where there is no copy and no original, where the only thing waiting is the end of waiting. And that is worse than any room.
-
-**The Attendant** describes the door's policies. The door is always available. The door is not locked. The door leads to "resolution of case." The Attendant does not recommend the door. The Attendant has never used the door. The Attendant notes that the door's existence is a comfort in itself: the knowledge that you could leave is sufficient; the leaving itself is unnecessary.
-
-Then a line -- one line -- that breaks the Attendant's third person: "She was not always the Attendant."
-
-And then immediately: "The Attendant has prepared refreshments for those who wish to remain."
-
-**Nadia's choice:** She looks at the girl who is Zosia and she sees the face and the face is right and the scar is missing and the laugh is thin and the hands are the right shape and the warmth is wrong. And Nadia says, "You're not my daughter." And the girl says, "I know." And the girl says, "Stay anyway."
-
-Nadia touches the girl's hair. She says something we don't fully hear -- a sentence that starts in one voice section and ends in another, fragmented across the intercut, reassembled by the reader. And then she pushes through the door.
-
-She does not look back. Not because she is brave. Because looking back would end her.
-
-**The room, after:** Pell's final section. He is still in his chair. The girl is still in the corner, reading the horse magazine. Pell says the room is fine. The sandwiches are adequate. He says this with fewer words than usual. He says, "I hope she found something." And then he says nothing. And the silence is the length of a parenthetical that never closes.
-
-**Purpose:** The choice. It is ugly and lacerating and it looks, from the room's perspective, like cruelty. Like abandonment. Nadia does not give a speech. She does not have an epiphany. She makes the choice because the scar is missing, and the missing scar is unbearable, and the real Zosia had a scar from a real bicycle on a real sidewalk and to accept a version without it is to lose the girl twice.
+### Scene D: The Desire Path (throughout, not a single scene)
+Woven through the narration: references to the physical path from the gravel lot to the church door. The first time, Lina walks through grass and weeds. By the fourth visit, she notices a faint trail — desire path created by her own repeated passage, where the grass is thinner, the weeds flattened. By the eighth visit, the path is bare dirt, hard-packed, as though dozens of people have walked it, though she has only ever seen the same eleven women. The path is deeper than she could have made alone. Someone else's footsteps are in it. Many someones. Many years of someones.
 
 ---
 
 ## 6. Emotional Trajectory
 
-**Beat 1:** Disorientation veiled as calm. Reader senses wrongness before Nadia does.
-**Beat 2:** Seduction. The room is funny and warm and Pell is charming. Reader wants to stay.
-**Beat 3:** Recognition failure builds. Small details accumulate. The jamais vu moments create dread through familiarity-gone-wrong, not through threat.
-**Beat 4:** The crack. Humor fails. Composure breaks. Genuine grief surfaces in both the funny voice and the flat voice simultaneously.
-**Beat 5:** Lacerating choice. Not heroic. Not clean. The protagonist leaves and the leaving looks like cruelty and the staying would have been worse and neither option is good and the reader knows both things.
+**Opening:** Clinical detachment. Lina is in professional mode — transcribing her own experience as she would transcribe a medical record. The reader trusts her because she sounds rational, organized, precise.
 
-**Final emotion:** Not catharsis. Not resolution. A leaving that costs everything. Pell's silence. The girl who is not Zosia, still reading a magazine about horses. The sense that the room goes on, that the sandwiches are adequate, that the clock counts but does not advance, and that Nadia is somewhere else now, in a hallway that smells like February, walking toward something that might be nothing, which is at least an honest nothing.
+**Middle movement:** Fascination replacing detachment. The rhythmic quality of Lina's narration increases. She begins to repeat phrases. Her descriptions of the church become more detailed — not because she's remembering more, but because she's encoding. She's no longer transcribing an experience; she's memorizing a liturgy.
 
-**Open thread:** Pell. We do not know if Pell will ever leave. The final parenthetical never closes. The reader carries it.
+**Pivot (Beat 4):** The empty church scene. The clinical detachment cracks but doesn't shatter. Lina describes something impossible (the building producing the sound without its congregation) with the same measured tone she uses for everything. The horror is that her coping mechanism — process it as data, type it clean — is EXACTLY what the church needs from her. Her defense is the church's recruitment tool.
+
+**Closing:** The reader realizes (gradually, never announced) that they are not reading testimony. They are attending a service. The emotional trajectory for the reader inverts: what felt like sympathy (poor woman, grief-stricken, finding solace in a strange community) becomes complicity (she's doing to me what the church did to her; my attention is the confession being absorbed). The story's final emotion should be the reader wanting to stop reading and not being sure if they can — not because the prose is gripping (though it should be), but because the act of stopping feels like leaving a woman mid-sentence, and that feels, somehow, like a sin.
 
 ---
 
 ## 7. Formula Integration Plan
 
-### From Author A (Neil Gaiman) -- Matter-of-fact prose amid the fantastical; dark whimsy; fairy-tale structures with teeth
+### From Author A — Edgar Allan Poe (Obsessive first-person narration, guilt as engine, claustrophobic interiority):
+- **Identifiable passages:** Lina's narration cadence throughout. Specific Poe markers: the insistence on her own sanity ("I am not a superstitious person"), the obsessive cataloging of sensory detail (the fluorescent hum's frequency, the exact number of folding chairs, the precise shape of the water stain), the rhythm building to confession. The whole story IS a Tell-Tale Heart structure: narrator confessing to the reader, convinced they're being rational, while the thing under the floorboards (the church's vibration) grows louder.
+- **Key passage:** Beat 3, Lina's first spoken confession. The clinical precision of speaking someone else's sin mirrors the Tell-Tale Heart narrator's precise account of dismembering the old man. Both are performing competence as a defense against the recognition that they've lost control.
 
-- **Nadia's voice** is the primary Gaiman channel. Short declarative sentences. The impossible observed with flat composure. "The waiting room had forty-three chairs." "The girl had Zosia's face." No exclamation marks. No awe. The BBC-news-bulletin-about-magic effect.
-- **The other mother structure** in the Attendant: the trap disguised as wish-fulfillment. The room as a version of the other world in Coraline -- better food, better attention, everything right except the buttons. Here: everything right except the scar, the laugh, the temperature.
-- **"Being frightened and doing the thing anyway"** -- Nadia's exit through the door. She is terrified. She goes anyway. But unlike Coraline, she can't fight a monster. She can only leave a room full of kind people who think she's making a mistake.
-- **Dark whimsy** in the Attendant's procedural language: the fairy-tale punishment dressed as customer service. Fairy-queen logic rendered as office policy.
+### From Author B — Mariana Enriquez (Social realism + supernatural, matter-of-fact grotesquerie, systemic violence):
+- **Identifiable passages:** The congregation's workaday lives — Dorothea at the feed store, Rae's estranged daughter, Patrice's limp. The confessions referencing specific community sins (domestic abuse, wage theft, the complicit sheriff). The supernatural element treated as civic infrastructure, not mysticism. The church as volunteer fire department for spiritual contamination.
+- **Key passage:** Beat 4, the revelation that the confessions are maintenance. Enriquez's signature move: the moment when supernatural horror is revealed to be a rational response to a worse, systemic horror. The women aren't crazy. They're managing something. The way Enriquez's characters in Buenos Aires manage living next to a slum where children disappear — not with heroism, but with routine.
 
-### From Author B (George Saunders) -- Absurdist corporate satire with radical empathy; vernacular voices in surreal situations; the afterlife as bureaucratic purgatory
+### From Work X — A Good Man Is Hard to Find (Road as descent, moment of grace through violence, grotesque comedy):
+- **Identifiable passage:** Beat 1, the drive south as structural descent. The road trip that goes wrong — not through an encounter with an escaped convict, but through an encounter with a church that was always on the route. O'Connor's grandmother who recognizes the Misfit inverted: Lina recognizes the church, but the recognition isn't grace. It's the opposite — or it's grace from a theology that doesn't care about your comfort.
+- **Grotesque comedy element:** The woman confessing to embezzlement using vocabulary she doesn't understand. The water stain promoted to sacred object with a gold frame. Sister Arden's pastoral calm in the face of impossible claims. The humor is O'Connor's humor: it's funny until it isn't, and the transition is instant.
 
-- **Pell's voice** is the primary Saunders channel. Vernacular monologue. Bureaucratic self-justification. The parenthetical confessions. The humor that is accommodation. The corporate vocabulary applied to death: "settled" instead of "dead," "processing" for what lies beyond the door.
-- **The afterlife as bureaucratic purgatory** -- the room itself. Fluorescent lights. Molded chairs. Ticket numbers. Vending machines. Sandwiches ranked like employee satisfaction metrics. Death administered like a waiting room at the DMV.
-- **Radical empathy** -- Pell is not a fool for staying. He is a person who has made the only decision he can bear. The story does not mock him. The story sits with him.
-- **The chorus of trapped souls** -- the other residents, glimpsed through Pell's monologue. Mrs. Takahashi. Kip Landers. The unnamed many. Each with coffee mugs bearing their names.
+### From Work Y — Sanctuary (Captivity horror, corruption of sanctuary, Southern social grammar of violence):
+- **Identifiable passage:** The entire setting operates as a Sanctuary inversion. Temple Drake trapped in a space controlled by violent men becomes Lina held in a space controlled by women who are themselves held by the building. The sanctuary that should be safe IS dangerous — but dangerous in the way a hospital is dangerous: the treatment is real, and it might also kill you. The "social grammar" of violence: the sheriff knows, the gas station attendant knows, the community knows the church does something unusual. Nobody interferes. It has manners.
+- **Key passage:** Beat 4, the revelation about the building's autonomy. This is the Sanctuary moment: the place that promised shelter becomes the prison. But Lina's prison is more insidious than Temple Drake's — Lina can leave. The door is open. She stays because the practice works, because it answers something in her, because the path from the parking lot to the door is now bare dirt and she wears it deeper every Wednesday.
 
-### From Work X (Coraline) -- Portal to a mirror world; the trap of wish-fulfillment; bravery as doing the thing while frightened
+### Fused Wikipedia Concepts:
+- **Glossolalia (neuroscience):** The frontal lobes going quiet while consciousness persists. Lina describes the physiological state during congregational confession in clinical terms — scalp tightening, vision narrowing, hearing sharpening. Not religious ecstasy. The language centers surrendering while the rest of the brain remains alert. The congregation's practice is glossolalia's inverse: instead of speaking in unknown tongues, they speak in known confessions that aren't theirs.
+- **Desire paths:** The trail from parking lot to church door deepening with each visit. Fifteen passages create a visible trail; the trail then attracts further use. The path as physical record of compulsion — and the unsettling detail that the path is deeper than one woman's footsteps could account for. Many years of someones. The desire path as the story's central metaphor: the route that people take regardless of where the road was built, worn into the landscape by repeated want.
 
-- **The portal structure:** Nadia passes from the real world (the mail route, the cold, the chest pain) to the waiting room. The room mirrors what she's lost -- gives her back a daughter, warmth, the absence of grief.
-- **The wrongness:** Like the other mother's world, the waiting room is almost right. The details snag. The scar is missing. The laugh is thin. The wrongness is not in any single detail but in "the grammar of the place."
-- **The bravery of leaving:** Nadia must leave something that looks like everything she wants. Like Coraline, she doesn't leave because she's courageous. She leaves because she notices the buttons. Here, she notices the missing scar.
-- **The escape costs:** Coraline bargains for her parents; Nadia bargains for nothing. She simply leaves. The cost is carried internally, not as a dramatic confrontation.
+---
 
-### From Work Y (Lincoln in the Bardo) -- Liminal space as setting; chorus of trapped souls who don't know they're dead; grief as binding force
+## Target Word Count
+3,400 words (range: 3,100-3,700). 14 minutes reading time.
 
-- **The liminal space IS the setting.** The waiting room is the bardo -- the space between death and whatever comes after. The story happens entirely inside this space.
-- **The chorus:** The residents are the Vollmans and Bevinses of this waiting room. Trapped, self-deluding, funny, heartbreaking. Pell is the primary chorus voice; the others are glimpsed through him.
-- **"They don't know they're dead"** -- most residents have accommodated their situation so thoroughly that the question of alive/dead is no longer operative. Pell knows, somewhere beneath the parentheticals, and stays anyway.
-- **Grief as gravity:** Nadia is held in the room not by chains but by grief. The room's power is not supernatural force but emotional force. Grief as the binding agent.
-- **Multi-voice technique:** The three narrators echo Lincoln in the Bardo's polyphonic structure, though simplified to three voices rather than dozens.
-
-### Wikipedia Concept Fusion
-
-- **Dead Letter Office:** The waiting room is the afterlife's dead letter office -- where the undeliverable go. Grief that was never expressed, goodbyes that were never said, love that was addressed to someone who had already gone. The room holds what the living world couldn't process. Nadia, as a literal letter carrier, is the living counterpart: she delivers other people's messages but has never delivered her own goodbye to Zosia. The metaphor is structural, not decorative.
-- **Jamais vu:** The uncanny recognition failures that reveal the room's lie. Nadia knows this is her daughter's face but the recognition keeps failing at the edges -- the familiar becoming suddenly, shockingly unfamiliar. This is the mechanism by which the portal trap reveals itself: not through a dramatic unmasking but through the accumulation of tiny failures of familiarity. The opposite of deja vu: she has seen this face a thousand times and it is becoming strange.
+## Tone
+Southern Gothic horror with clinical precision. The prose should feel like a medical transcription of the uncanny — every supernatural detail rendered in the flat, accurate language of someone who has spent her career converting screams into typed documents. The horror accumulates through rhythm, not revelation. By the time the reader understands what's happening, they've been sitting in the folding chair for pages.
