@@ -1,0 +1,287 @@
+---
+title: "Hickory, Not Oak"
+slug: "the-bones"
+genre: "gothic-fiction"
+subgenre: "southern-gothic"
+authorA: "Cormac McCarthy"
+authorB: "Flannery O'Connor"
+workX: "Suttree"
+workY: "A Good Man Is Hard to Find"
+wordCount: 6315
+readingTimeMinutes: 25
+tags:
+  - southern-gothic
+  - homelessness
+  - self-deception
+  - grace
+  - economic-violence
+  - memphis
+  - food-knowledge
+  - absorption
+  - tent-camp
+  - oak-galls
+rating: 3.5
+ratingCount: 0
+publishedDate: 2026-02-23
+status: "published"
+formulaSummary: >
+  McCarthy's forensic physical precision and biblical cadence in the
+  rendering of marginal life collide with O'Connor's darkly comic
+  exposure of self-deception. A former cook's expertise becomes both
+  armor and prison as a displaced grandmother arrives at his tent camp
+  insisting she is only staying one night.
+synopsis: >
+  Under a Memphis overpass, a former restaurant cook gnaws a rib bone
+  with professional contempt while a recently evicted grandmother
+  arrives with a suitcase and the absolute conviction that her
+  daughter-in-law will come for her tomorrow.
+combination:
+  fromAuthorA:
+    - Dialogue rendered without quotation marks, embedded in narrative prose
+    - Long sensory sentences with biblical cadence applied to mundane poverty
+    - Physical sensation rendered with forensic precision — bone, fat, coffee temperature, packed clay
+    - Sparse punctuation and polysyndeton connecting clauses with 'and'
+  fromAuthorB:
+    - A grandmother figure performing gentility against catastrophic evidence
+    - Darkly comic self-deception revealed through what characters refuse to see
+    - Violence as economic rather than physical — eviction as the mechanism that strips pretense
+    - A near-grace moment where practiced prayer meets open sky instead of a bedroom ceiling
+  fromWorkX:
+    - Episodic night structure organized as a sequence of self-contained encounters
+    - A protagonist who chose marginality over institutional submission
+    - The overpass replacing the river as the constant presence marking time by sound
+    - Relationships with the marginal rendered without sentimentality or degradation
+  fromWorkY:
+    - The collision between performed self-image and undeniable reality
+    - A transplanted grandmother figure clutching identity as the world dissolves it
+    - The refusal to resolve whether mercy or cruelty governs the final exchange
+    - An ending that refuses to decide what the characters have or have not learned
+---
+
+The bone had been smoked with hickory. Not oak. He could taste the difference in the first pull of meat, the sweetness that sat behind the char where oak would have left a cleaner bitterness, and he worked it between his back teeth with the slow deliberation of a man reading something in a language he once spoke fluently. The rub was wrong. Too much paprika, not enough brown sugar, and whoever had mixed it had used cayenne from a bulk jar rather than grinding dried chiles because the heat was flat and sat on the surface of the meat instead of building through it the way proper heat builds, the way it should rise in the back of the throat like a question the tongue was designed to answer. He pulled a string of collagen from the underside of the rib where the meat had separated from the bone in wet fibers rather than the clean sheets that come from pulling at the right moment and he chewed it until the connective tissue dissolved against his palate and he could taste the fat that had rendered too fast, the temperature too high so the fat went slick and oily instead of breaking down into that silky weight that good pork fat achieves at two hundred and twenty-five degrees held for six hours with the firebox damped to a whisper.
+
+Tolliver sat with his back against the concrete piling and his legs stretched before him in the packed clay and he held the bone in his right hand like a man holds a pen when the letter is not going well. Above him the overpass carried the evening traffic toward Whitehaven and beyond and the sound of it was the sound of water over a low dam, a continuous pour that changed pitch with the weight of the vehicles passing so that the buses were a lower note and the sedans higher and the trucks that came through in loose convoys shook the concrete and sent a vibration down through the piling that he could feel in his spine. Dusk lay across South Memphis like a stain spreading in cloth. The sky to the west had gone the color of an old bruise and the streetlights along Winchester had come on one by one in that order they always followed, east to west, as though each lamp had to see the previous one lit before it would commit.
+
+The camp held maybe twenty people on a given night. Fewer in summer when the ground under the overpass baked to a hardness that held the day's heat through the dark hours and more in winter when the concrete above kept the worst of the rain off and the pillings cut the wind that came up from the bottoms along the river. The tarps were blue and silver and one was green and they were strung between the pillings and the chain-link fence that bordered the drainage easement and the pallets beneath them were arranged with the care of people who had learned through error where the water ran when it rained. You could read the camp's history in its geometry. The tarps closest to the west pilling were the oldest residents. The gaps between them had closed over time like wounds healing from the edges inward.
+
+He had retrieved the bone from behind Neely's on Winchester at four that afternoon. Not from the dumpster. From the sheet pan they left on the concrete pad beside the back door where they stacked the pans to cool before scraping them. He knew the schedule because he had watched it for weeks. They pulled the racks at three-thirty and the pans went out by four and between four and four-fifteen, before the dishwasher came around, there were bones. Ribs that had been portioned wrong and trimmed, the trimmings still carrying enough meat to make a difference. The kitchen at Neely's was not a bad kitchen. It was a kitchen that had stopped paying attention, which was different and in some ways worse. A bad kitchen you could dismiss. A kitchen that had stopped paying attention was a kitchen that had once been good, and that knowledge — the ghost of its former care — was legible in every bone.
+
+He gnawed. The meat was nearly gone and what remained was the periosteum, that thin membrane where the smoke had penetrated deepest, and here was where the hickory asserted itself most clearly, sweet and dense and faintly resinous, and he scraped it with his lower teeth and thought of nothing at all for a moment which was the closest thing to peace the evening had offered.
+
+---
+
+She came up the slope from the street side carrying a hard-sided suitcase in one hand and a paper grocery bag in the other and she was wearing a blouse with a Peter Pan collar that had been ironed recently enough to still hold its shape. Her shoes were low-heeled and beige and wrong for the clay which was slick from two days of rain that had ended that morning and she stepped carefully, choosing her path the way someone crosses a parking lot to avoid puddles, as though what waited on the other side were a doorway and not a camp under a highway.
+
+She stopped ten feet from Tolliver and looked at him and then looked past him at the tarps and the pallets and the blue cooler that belonged to everyone and to no one and the milk crate where Deedee kept her charging cables coiled in a bread bag.
+
+I was told this was the place, she said.
+
+Tolliver looked at her. He had the bone in his hand and grease on his fingers and he did not wipe them.
+
+Which place.
+
+The place you can sleep if the shelter's full. A gentleman at the bus station said to come under the overpass on Winchester and someone would show me where.
+
+He looked at the suitcase. It was burgundy with brass clasps and the vinyl was cracked at the corners and it was the kind of suitcase a person buys once and keeps for thirty years because they do not travel enough to wear it out. The brass on the left clasp had worn through to the steel beneath and the handle had been wrapped in duct tape at some point and the tape had dried and cracked and curled at the edges.
+
+The ground's dry on the east side, he said. Stay right of the drainage line.
+
+She peered past him toward the east pilling where the newer tarps were.
+
+What happens if it rains.
+
+It rains sometimes.
+
+I mean what happens to the ground.
+
+It gets wet.
+
+She adjusted her grip on the suitcase and her posture adjusted with it, her back straightening as though someone were watching her posture, which no one was. I'm only here for the night, she said. My daughter-in-law is coming to get me tomorrow. I just need to know where to put my things.
+
+The word things landed in the air between them with a precision she did not intend. Things. As though the suitcase and the grocery bag were belongings being temporarily stored rather than everything she had carried away from wherever she had been.
+
+That east corner, Tolliver said, and pointed with the bone without thinking about the bone and then looked at it in his hand and set it on his knee. There's a pallet there. The woman who was using it went to her sister's in Covington last week.
+
+She nodded once and gathered herself. The gathering was visible — the chin lifting, the shoulders drawing back, the spine assembling itself into the posture of a woman who had merely taken a wrong turn and would be correcting it shortly. Thank you, she said, and she said it the way you say thank you to a bellhop, with the slight incline of the chin that acknowledges service rendered, and she walked past him toward the east corner with the suitcase held slightly off the ground so it wouldn't drag in the clay.
+
+Her name, she told him as she passed, was Earline. Earline Bascomb. She said both names as though the complete form mattered, as though somewhere there was a register being kept.
+
+---
+
+He did not want to talk to her. He wanted to finish the bone and then wipe his hands on the rag he kept in his back pocket and then sleep, and the fact that he could specify the order of these three actions and that the order mattered was something he'd stopped thinking about because thinking about it led to other thoughts that served no purpose. But she had set her suitcase on the pallet and arranged her grocery bag beside it and now she was standing there with her hands clasped in front of her, looking at the camp the way a woman looks at a room she has been told is hers but which clearly belongs to someone else.
+
+Deedee's tent is the blue one, he said, because she was looking at it. She has a generator. Charges phones for a dollar.
+
+I have a phone, Earline said. She said it with satisfaction, as evidence.
+
+She charges it too.
+
+My phone is charged.
+
+He looked at her. She was seventy or thereabouts and her hair was gray and set in a style that required rollers and she was wearing small gold earrings and her blouse, besides the Peter Pan collar, had a monogram on the breast pocket. The monogram was not her initials. It was from a uniform, he realized. She had dressed for this occasion in a blouse that had once been part of someone's work outfit and she had chosen it because it looked formal enough to assert that she was not the kind of person who ended up in places like this. She had dressed so that anyone who found her would know what she was.
+
+The church van comes Tuesday, he said. First Baptist. Decent sandwiches. No prayer requirement. Thursday is Living Word Fellowship. Better food but you sit through fifteen minutes of testimony first and the volunteers look at you like you're a dog they're thinking about adopting. They bring blankets sometimes. Wool ones. You can keep them.
+
+She took this in without expression. What day is it, she said.
+
+Wednesday.
+
+So I won't need either one. My daughter-in-law is coming tomorrow.
+
+All right.
+
+He did not say all right the way you say all right when you agree. He said it the way you close a door that doesn't have a lock — you pull it shut and you let it go and whether it stays shut is not up to you.
+
+The man in the green tarp, the one everyone called Bishop, coughed twice in the dark. Bishop had been a deacon at a church in Whitehaven before something happened that nobody asked about because asking about what happened before was a currency nobody in the camp could afford. You could ask where. You could ask how long. You could not ask why, because why implied that the answer was a story and that stories had ends and nobody here had come to the end of anything. Bishop kept a Bible under his pallet and read from it each morning with his lips moving and his finger tracking the lines and the pages had gone soft and brown at the edges from the damp and he turned them with a delicacy that suggested the words were more fragile than they used to be.
+
+Behind Deedee's tent the man called Tweedy was rolling a cigarette by the light of his phone screen. Tweedy had been in the camp since before Tolliver arrived and claimed to have been there since the overpass was resurfaced in 2019 and he marked time by the work they did to the overpass the way other people mark time by elections or births. They resealed the expansion joints last March, he would say, and you were supposed to understand that this meant something specific about the order of events. He rolled the cigarette with one hand, a trick he'd learned somewhere that he would show to anyone who watched, and the paper crinkled in the cold air and the tobacco smell drifted east on the wind that came up from the drainage.
+
+Tolliver knew all of them. He catalogued them the way he had once catalogued mise en place at the start of a shift — the parsley chopped, the shallots minced, the demi-glace reduced to the right consistency, everything in its place so that when the tickets started coming you didn't have to think. You just moved.
+
+---
+
+Later. Maybe ten o'clock, maybe later. The traffic had thinned enough that he could hear individual vehicles approaching from the east, the sound building and cresting and falling away like something breathing, and in the silences between them the camp made its own sounds — the pop and tick of tarps in the small wind that came up off the drainage easement, someone's radio playing gospel low, a dog barking three blocks south with the regularity of a metronome.
+
+Earline had opened her grocery bag. From it she produced a jar. She held it in the light that came from the streetlamp on Winchester, the amber cone of it reaching just to the edge of the camp's perimeter, and the jar was mason glass with a band lid and the contents were dark and dense.
+
+I made these, she said. Last September. These are muscadine preserves.
+
+She said muscadine the way some people say the name of a town they grew up in, with a proprietary tenderness, as though the word itself were a place she had lived.
+
+She unscrewed the lid and the smell came up from the jar and it was dark grape and sugar and the faint acid that comes from fruit that has been processed at just above the point where pectin begins to degrade. Tolliver smelled it from six feet away and his nostrils widened and the knowledge arrived unbidden the way it always arrived, a cascade of information he could not stop and did not want.
+
+Your sugar's high, he said.
+
+She looked at him.
+
+The ratio. You used the full measure. Muscadines are sweeter than Concords — the brix is higher by six, eight points depending on the season. You cut the sugar by a quarter or the pectin scorches. He could smell it, that faint caramel note that meant the temperature had spiked during processing, probably when she walked away from the pot for a minute, probably when she went to answer the phone or adjust the stove because the burner was uneven, the way cheap burners are uneven, hotter on one side so the sugar caramelizes against the wall of the pot before the center reaches temperature. You can taste the scorch in the finish, he said. It sits under the sweetness like a shadow.
+
+She stared at him. She was holding the jar in both hands and her face had the expression of a woman who has offered someone a gift and been handed back an autopsy report.
+
+You want some, she said. Her voice had gone flat. The offer was still there but the warmth behind it had retreated to somewhere behind her eyes where it was deciding whether to come back.
+
+He could have said no. He could have said yes and left it at that, taken a fingerful and eaten it and said nothing more about sugar ratios or processing temperatures. Instead he held out his hand and she tipped the jar and he scooped two fingers along the inside and brought the preserves to his mouth and he closed his eyes and the taste was everything he had already described and also something else, something the description couldn't hold, which was the taste of a kitchen and a September afternoon and a woman standing over a pot of muscadines that she had picked or that someone had picked for her and the house around her which no longer existed and the life inside the house which no longer existed and the confidence that next September there would be more muscadines, which also no longer existed. The sweetness was too much and the scorch was there at the finish exactly as he'd said it would be and none of that mattered because the preserves were not about the sugar or the pectin or the processing temperature. The preserves were about the kitchen. And he had autopsied the kitchen while she was still trying to carry it with her.
+
+He opened his eyes.
+
+What did you do before, she said.
+
+He wiped his fingers on his jeans. I cooked.
+
+Where.
+
+Place called Bardo's. On Cooper Avenue.
+
+She thought about this. I don't know it, she said.
+
+It closed.
+
+I'm sorry.
+
+He didn't say anything. It was not something you could be sorry about. Bardo's had been a midrange restaurant with ambitions it couldn't afford — a wine list that overreached, a menu that changed every season, a chef who came from New Orleans and left for Birmingham after eighteen months. Tolliver had stayed. He was the line cook who was always there, the one who opened the kitchen at six and calibrated the flattop by feel and prepped three stations before anyone else arrived. Eleven years. The owner sold the building in October and the new owner wanted to open a nail salon. The equipment went to auction. Tolliver watched them carry the flattop out on a dolly and he could feel in his hands the temperature gradient across its surface, the hot spot near the back left corner where the gas line ran close, the cool spot near the drain where you could rest a sauce while you worked. They put it on a truck and the truck drove away and that was that.
+
+He chose the camp over the shelter because the shelter had check-in times and lights-out and a man with a clipboard who called you by your first name with a gentleness that felt like a leash. The shelter had rules about food and about alcohol and about what time you could use the bathroom and the rules were posted on a laminated sheet by the entrance and the sheet was clean and the rules were reasonable and the reasonableness was the worst part because it meant someone had thought carefully about how to manage you and the thinking was kind and the kindness was unbearable. He had a first name. He did not give it to anyone in the camp. He was Tolliver. That was enough.
+
+Did you like it, Earline said. Cooking.
+
+I was good at it. That's not the same thing.
+
+---
+
+Near the east edge of the camp there was an oak tree. Not a live oak, which would have been unlikely this far north of the Gulf, but a water oak that had been growing there since before the overpass was built, its trunk thick enough that it took two arm spans to circle and its branches reaching out over several of the tarp setups so that in summer the leaves provided shade and in fall they fell and had to be swept from the pallets and in winter the bare branches made a lattice against the underside of the concrete that looked like the diagram of a river system viewed from above. The bark was dark and deeply furrowed and in the fissures small colonies of lichen grew in circles of pale green that glowed faintly in the light from the streetlamp.
+
+Tolliver pointed at the branches where they crossed overhead. In the light from Winchester he could see the galls, clustered where the smaller branches forked. They were round and knotted and brown and ranged in size from a marble to a golf ball and they grew directly from the wood as though the wood had developed tumors, which in a sense it had.
+
+You see those knots, he said.
+
+Earline looked up. She had been sitting on her pallet with the jar of preserves in her lap, the lid back on, and she followed where he pointed.
+
+Those are galls, he said. A wasp lays an egg inside the branch. Drills right into the wood. And the tree doesn't fight it. Doesn't reject it. The tree grows around it. Builds a whole structure to house the thing that invaded it. The gall is not the tree and not the wasp. It's a third thing. Something that wouldn't exist without both of them but doesn't belong to either one.
+
+That's awful, she said.
+
+It's not awful. It's just what happens. The tree doesn't decide anything. It doesn't fight and it doesn't welcome. It grows.
+
+She looked at the galls for a long time. One of them was directly above her pallet, close enough that if she stood on the pallet she could reach up and touch its rough surface. The wind moved the branch and the gall swayed and its shadow moved across the concrete overhead in a slow arc.
+
+How do you know about that, she said.
+
+He shrugged. He knew about it the same way he knew about the sugar ratio in muscadine preserves and the temperature gradient on a flattop grill and the difference between hickory smoke and oak smoke. He knew about things. It was the only thing he was good at besides cooking and it was possible that it was the same thing.
+
+Those trees, she said. Her voice was different now, quieter. In nineteen years she had never noticed the trees doing that.
+
+He looked at her. Nineteen years, he said.
+
+She caught herself. The nineteen years was not about the tree. The nineteen years was something else — the apartment, the address, the place she had been before she was here. It had leaked out, the way the real details always leaked out, not in confession but in the small errors of people trying to hold a story together.
+
+That's a long time, he said.
+
+She picked up the jar of preserves and set it down again and picked it up again and held it in both hands. I made these in my kitchen, she said. I had a four-burner stove. Gas. The oven ran hot by twenty-five degrees but I knew that. I adjusted. I knew every crack in the linoleum and which cabinet door stuck in summer when the humidity swelled the wood and I had curtains in the kitchen window that I made from a pattern I cut out of a magazine in 1994 and the pattern was wrong — the hems were uneven — but I kept them because they were mine and I had made them and the unevenness was part of knowing them.
+
+He said nothing. He could hear the curtains in the way she said them, the way a man who knows kitchens can hear another person's kitchen in the details they choose.
+
+My landlord sold the building. The new people raised the rent. Three hundred dollars more a month starting January and I was already month to month because the lease had lapsed and I didn't renew because the landlord and I had an understanding. Forty-six years between us — me and the landlord, not me and the building. The building was longer. He sold the building to people from Nashville.
+
+She said Nashville the way some people say the name of a disease. People from Nashville. She repeated it. As though the city were a country and its citizens a foreign army and the apartment building on Lamar had been annexed.
+
+My son's in Jackson. He has room. But his wife has opinions about space. She has opinions about most things. She expressed the opinion that a mother-in-law in a two-bedroom house was not compatible with the life she was building. She used the word boundaries. She said she had set boundaries. She said it the way you'd say you'd installed a lock.
+
+Tolliver had heard this story. Not this story but the shape of it. He had heard it from Bishop and from Tweedy and from the woman who had been in the green tent for three weeks in October before she disappeared one morning leaving only a sleeping bag and a milk crate full of canned goods that nobody touched for two days as though the canned goods were a grave marker and taking them would be desecration and then on the third day Tweedy opened a can of butter beans and after that the crate was empty by evening. The details changed. Someone had a son in Jackson and someone else had a sister in Tupelo and someone else had a friend who was going to come through with a deposit on a place in Olive Branch. The architecture was the same. Someone had something. The thing was taken or slipped or was sold to people from Nashville. The person was certain the situation was temporary. The temporariness extended. The person was still certain.
+
+He did not tell her any of this.
+
+She spent two weeks at a motel on Lamar, she said. The Super 8 with the sign that's missing the S so it just says uper 8 and she said this with the ghost of a laugh, the reflex of a woman who had once been funny and whose humor now sat in her mouth like a coin she couldn't spend. The money went. She called her son. He said they'd figure something out. That was four days ago.
+
+He'll call tomorrow, she said. Or his wife will. They're figuring it out.
+
+All right.
+
+---
+
+Past midnight and the camp had gone still except for the trucks that came in loose groups along the overpass, their weight shaking the concrete in long slow waves that traveled down through the pillings and into the ground. You could feel them in the clay if you put your hand flat against it. Tolliver had his hand flat against it now and the vibration traveled through his palm and up the bones of his forearm and he counted the trucks by feel the way a blind man counts the hours by what he hears through a wall.
+
+The temperature had dropped. Not cold enough for frost, not in Memphis in February, but cold enough that the air had a mineral quality and his breath was faintly visible in the light from Winchester. The drainage line had a thin film of ice on it, no thicker than a fingernail, and it would be gone by eight in the morning when the sun cleared the overpass and hit the clay. In the partial dark the camp had the look of something geological, the tarps and pallets and bundled forms like formations of sedimentary rock, layers of human settling compressed by the weight of the concrete above them.
+
+Bishop coughed again, the same two-beat cough, and then was silent. Deedee's generator hummed in its low continuous way. The radio had gone off. The dog had stopped barking. Somewhere east of the camp, down toward the river bottoms, a freight train moved through with a sound like a long slow exhalation and the crossing bells rang in their flat monotone and the bells and the train and the trucks overhead made a kind of music that was not music, a layered drone that the camp existed inside the way a reef exists inside a current.
+
+Earline was lying on the pallet. She had a blanket that Deedee had given her — Deedee who had not been asked and who had not offered but who had simply walked over with the blanket folded under her arm and set it on the pallet and walked away, the transaction wordless and complete — and she was lying on her back with the blanket pulled to her chin and her suitcase beside her like a bedside table. She had changed into a nightgown. She had actually brought a nightgown. She had changed behind a tarp that Tolliver had rigged between two pallets when he saw her open the suitcase and unfold the cotton garment with the lace collar and hold it against her chest as though measuring herself for something, and she had emerged in the nightgown and folded her blouse and placed it inside the suitcase and closed the clasps and she had done all of this with the composure of a woman preparing for bed in a room with walls and a door and a ceiling, and the gap between the composure and the circumstance was so complete that it passed through comedy and arrived at something else, something Tolliver did not have a word for but which sat in his chest like the scorch note under the muscadine preserves, present but unnameable.
+
+She folded her hands. He could see them in the partial light, her fingers laced across her sternum, and her lips moved. She was praying. The same prayer she prayed every night, he was certain of that — the words automatic, worn to smoothness by decades of repetition. The prayer of a woman who had prayed in a bedroom with a ceiling and a lamp on the nightstand and the sound of the refrigerator humming through the wall and the knowledge that the ceiling above her was hers, the room was hers, the prayer went up to a known height and was received or not received but at least it was contained. Prayer was a thing done inside. Inside a room, inside a building, inside the idea that the building would still be there in the morning. The building was the container and the prayer filled it and the container gave the prayer its shape the way a jar gives preserves their shape.
+
+The prayer went up. It went past where the ceiling would have been and it met the underside of the overpass, the concrete dark and stained with decades of exhaust and water damage, and a truck passed overhead and the prayer traveled through the vibration and past it and into the open sky above the overpass where the stars were invisible because of the light pollution from the car dealerships on Winchester and the prayer did not stop. It went up and up and the words were the same, the same consonants and vowels in the same order, and they meant what they had always meant but they arrived somewhere different, or they arrived nowhere, and the nowhere was vast in a way the ceiling had never been.
+
+Her lips kept moving. But her hands, which had been laced, unlaced. Her fingers separated and her palms turned upward on her chest.
+
+Tolliver heard her murmuring. He did not hear the words. He heard the sound of someone talking to a room that was not there. He knew that sound. He had made that sound himself in the first week, lying on his back in the dark, talking to the kitchen at Bardo's where he had stood for eleven years in front of a flattop grill whose temperature he could read by holding his hand six inches above the surface, the way some people can tell the weather by the ache in their knees. He had lain in the dark and his hands had moved in the air above his chest in the motions of plating — the wrist flick that sent sauce in an arc across the rim, the two-finger pinch that placed microgreens, the slide of a towel wiping the plate's edge clean. He had done this for three nights and on the fourth night his hands were still and after that he did not do it again.
+
+He did not think about this now. He lay on his side and looked at the drainage line with its thin edge of ice and he listened to her murmuring and he thought about nothing at all.
+
+---
+
+Morning came the way morning comes under an overpass: not as light but as the absence of a particular darkness. The concrete overhead went from black to the color of wet ash to the color of old paper, and the traffic resumed its daytime register, the individual vehicles merging back into the continuous pour of sound that was the overpass's permanent weather. A pigeon walked the edge of the concrete above them with the mechanical precision of a sentry on a parapet and its shadow moved across the clay in a thin bar that swept over Earline's pallet and over the suitcase and over the jar of preserves sitting between the two pallets.
+
+Someone had a radio going. Gospel. A woman's voice, rich and unsteady, singing about a river that would carry her home, and the melody was simple and the accompaniment was a single organ and the station would play gospel until seven and then switch to talk. Tolliver knew this. He had catalogued it along with everything else — the Tuesday church van, the Thursday church van, the ice on the drainage line, the temperature at which instant coffee stopped dissolving and started burning. One hundred and eighty-five degrees. He could feel the difference in the metal of the tin cup when the water crossed that threshold. Below one eighty-five the cup was merely hot. Above it the heat had a sharper quality, a sting, and the coffee changed color from brown to a thin amber that tasted of char. He knew this the way he knew hickory from oak, the way he knew rendered fat from burned fat, the way he knew every surface in the kitchen at Bardo's by the temperature it held and the sound it made when he set a pan on it. He knew everything. He named everything. The naming was what he did instead of the other thing.
+
+He heated water over the Sterno can and stirred the instant crystals with a plastic spoon and when the color was right he poured half into a second cup, the one he kept under his pallet and never used because there was only one cup's worth of coffee in a morning and splitting it meant both halves were insufficient. He looked at the cup in his hand and then at the second cup and he could not have said why he had poured the coffee into two cups instead of one. He had not made a decision. His hands had done it the way his hands had once plated food without his thinking about it.
+
+He carried the second cup to where Earline sat. She was sitting on the pallet with her suitcase beside her and her blanket folded at the foot. She had changed back into the blouse with the Peter Pan collar. She had combed her hair. Her posture was the same posture she had arrived with, upright, arranged, her shoulders set at the angle of a woman who was expected somewhere.
+
+But her hands. Her hands were in her lap, palms up, the fingers loosely curled. Not folded. Not clasped. Not holding anything. They were the hands of someone who had set something down and had not yet decided what to pick up next.
+
+She was looking at the oak tree. At the galls on its branches. The morning sun had come past the edge of the overpass and hit the canopy and the galls were lit from the side so that each one cast a small shadow on the branch that held it.
+
+He held out the cup. She took it with both hands. The warmth of it passed through the tin and into her palms and she closed her fingers around it. She was cold and the cup was warm and she held it.
+
+My daughter-in-law will call today, she said.
+
+All right, he said.
+
+He went back to his pallet and sat down and drank his half cup of coffee, which was insufficient, which was what there was. The bone from last night lay in the clay near the drainage line where he had set it down and forgotten it. It was clean now. Whatever meat had remained on it was gone, scraped away during the night by the efficiency of his back teeth and the forensic attention of his tongue, and it lay pale and dry in the morning light like something archaeological, like something you'd find in a stratum of earth and have to explain.
+
+The jar of muscadine preserves sat between their two pallets. It was empty. At some point in the night, he was not certain when, she had opened it again and they had eaten the rest of it between them, passing the jar back and forth without speaking, scooping the dark preserves with their fingers, and the sugar had been too high and the pectin had scorched but it was what there was and they ate it.
+
+The gospel on the radio gave way to a man's voice selling auto insurance and then to a woman's voice talking about the weather. Fifty-two degrees and rising. Clear skies through Thursday.
+
+Bishop coughed his two-beat cough. Deedee's generator started up with a pull-cord stutter and settled into its hum. A school bus crossed the overpass and the pitch of the traffic shifted and then shifted back.
+
+Earline held the cup. The steam rose from it and dissolved in the cold air. She set the cup on the pallet and opened her suitcase and took out a compact mirror and checked her hair and closed the mirror and closed the suitcase and latched the clasps, both of them, the brass one and the steel one, with the care of someone who would be leaving soon.
