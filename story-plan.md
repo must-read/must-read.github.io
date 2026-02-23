@@ -1,100 +1,88 @@
-# Story Plan: pf-thought-experiment-001
+# Story Plan: Residue
 
-**Genre**: philosophical-fiction
-**Subgenre**: thought-experiment
-**Combination ID**: pf-thought-experiment-001
-**Target Word Count**: 4,200 words (range: 3,900-4,500)
-**Risk Card**: None
-
-## Formula Sources
-
-- **Author A (Ted Chiang)**: philosophical premises explored with scientific method; the narrator who discovers something about the nature of reality and must decide what to do with the knowledge; crystalline prose that makes the abstract visceral
-- **Author B (Jorge Luis Borges)**: philosophical short fiction as intellectual architecture; infinity rendered in miniature; the idea that contains all other ideas
-- **Work X (Exhalation)**: a being dissecting its own brain to understand consciousness; entropy as personal discovery; consciousness as physical process
-- **Work Y (The Library of Babel)**: a library containing every possible book; the librarian searching for the catalog of catalogs; infinity as both paradise and madness
+**Genre**: Dystopian
+**Subgenre**: Bureaucratic-Dystopia (NEW -- first work in this subgenre)
+**Target Word Count**: 4,500 words (acceptable range: 4,200-4,800)
+**Reading Time**: 18 minutes
 
 ---
 
-## Writing Samples
+## Research Summary
 
-### Ted Chiang — Exhalation (selected quotes demonstrating style)
+### Writing Samples Collected
 
-> "Air is in fact the very medium of our thoughts. All that we are is a pattern of air flow."
+**Source 1: Franz Kafka -- The Trial (Gutenberg Project, David Wyllie translation)**
 
-> "The lattice was not so much a machine as it was a page on which the machine was written, and on which the machine itself ceaselessly wrote."
+The Trial's opening: "Someone must have been telling lies about Josef K., he knew he had done nothing wrong but, one morning, he was arrested." What follows is K.'s encounter with guards who cannot tell him what he is charged with, supervisors who advise him to focus inward rather than seek external answers, and a system that simply processes him while refusing to explain itself. The bureaucratic apparatus exists in domestic spaces -- Miss Burstner's bedroom becomes a courtroom, an attic becomes the court offices. The system is everywhere and nowhere. K. cooperates throughout -- he dresses in his best suit for his own arrest, he goes to the bank afterward. The prose is flat, precise, matter-of-fact. The absurdity is never acknowledged by the narrative voice.
 
-> "My consciousness could be said to be encoded in the position of these tiny leaves, but it would be more accurate to say that it was encoded in the ever-shifting pattern of air driving these leaves."
+The guard explains to K.: "Our superiors don't search for guilt -- it's the guilt that draws them out." This circular logic -- the system that finds guilt because it has already assumed guilt -- is the operating principle of the Contentment Assessment system in this story. The CAI does not measure happiness. It measures compliance with the metrics that define happiness.
 
-> "Eventually, all the air in our universe will be evenly distributed, no denser or more rarefied in one spot than in any other, unable to drive a piston, turn a rotor, or flip a leaf of gold foil."
+**Representative technique**: Kafka renders the protagonist's compliance as the most natural thing in the world. K. does not resist. He negotiates within the system's terms. The prose never signals that anything unusual is happening -- the reader must supply the horror.
 
-> "With every movement of my body, I contribute to the equalization of pressure in our universe. With every thought that I have, I hasten the arrival of that fatal equilibrium."
+**Source 2: Yoko Ogawa -- The Memory Police (Booker Prize excerpt, Goodreads quotes, Literary Hub excerpt)**
 
-> "When I was done, my brain looked like an explosion frozen an infinitesimal fraction of a second after the detonation, and again I felt dizzy when I thought about it."
+Key passages: The rose disappearance scene -- "Already on the second day, people who had raised roses in their gardens came to the river to lay their petals to rest. They carefully dismantled the flowers, petal by petal, and slipped them quietly into the stream." Also: "But as things got thinner, more full of holes, our hearts got thinner, too." And: "I have to make do with a hollow heart full of holes."
 
-> "The universe began as an enormous breath being held... And until this great exhalation is finished, my thoughts live on."
+The narrator's father studies birds at an observatory: "the shape of a beak, the color of the feathers around the eyes." When birds disappear from the island, the Memory Police arrive and systematically destroy all documents, photographs, and materials -- removing ten large bags. The narrator observes their efficient, emotionless methods with helplessness. Horror registered through precise observation and emotional muteness.
 
-**Style notes**: Chiang's prose is precise, declarative, unornamented. He uses physical imagery to make abstract concepts visceral. Every sentence does work. The power comes from clarity — the horror of his endings emerges from the reader understanding the science well enough to feel the implication. He does not tell you to be afraid; he tells you what the gold leaf means, and you become afraid on your own.
+**Representative technique**: Ogawa registers erasure through precise sensory observation. She does not protest the disappearances. She catalogs them -- the exact color, the exact gesture, the exact moment the memory detaches. Horror arrives not through dramatic confrontation but through the accumulation of small, carefully noted absences. The narrator watches herself forget, and describes it as one might describe weather.
 
-### Ted Chiang — Story of Your Life (opening)
+**Source 3: George Orwell -- 1984, Part III Section 2 (Telelib)**
 
-> "Your father is about to ask me the question. This is the most important moment in our lives, and I want to pay attention, note every detail."
+O'Brien's interrogation speeches: "The command of the old despotisms was 'Thou shalt not'. The command of the totalitarians was 'Thou shalt'. Our command is 'Thou art'." Also: "We shall squeeze you empty, and then we shall fill you with ourselves... Never again will you be capable of love, or friendship, or joy of living... You will be hollow." And: "When finally you surrender to us, it must be of your own free will." Also: "Reality exists in the human mind, and nowhere else... Whatever the Party holds to be the truth, is truth." The Party does not merely destroy its enemies -- "we change them."
 
-**Style notes**: Intimate second-person address. Time folded into a single present. Emotional precision.
+**Representative technique**: 1984's power is that the state demands not compliance but belief. Thoughtcrime is not about what you do but what you feel. The system requires genuine internal transformation -- you must love Big Brother, not merely say you do. The violence is psychic: being required to feel what you are told to feel, to believe what contradicts your senses.
 
-### Jorge Luis Borges — The Library of Babel (selected quotes)
+**Source 4: Kafka -- In the Penal Colony (public domain, multiple translations)**
 
-> "The universe (which others call the Library) is composed of an indefinite, perhaps infinite number of hexagonal galleries."
+The officer explains the apparatus with loving precision: an execution machine that inscribes the prisoner's sentence onto his body over twelve hours. "It is a very special machine." The condemned man doesn't know his sentence or his charges. "Guilt is always certain." The officer's reverence for the old Commandant who designed the system makes him both the machine's operator and its devotee. The apparatus is justice made physical, and the officer so identifies with it that he ultimately feeds himself to it.
 
-> "All — the detailed history of the future, the autobiographies of the archangels, the faithful catalog of the Library, thousands and thousands of false catalogs, the proof of the falsity of those catalogs, a proof of the falsity of the true catalog..."
-
-> "For every rational line or forthright statement there are leagues of senseless cacophony."
-
-> "A number *n* of the possible languages employ the same vocabulary; in some of them, the symbol 'library' possesses the correct definition 'everlasting, ubiquitous system of hexagonal galleries,' while a library — the thing — is a load of bread or a pyramid or something else..."
-
-> "Letizia Alvarez de Toledo has observed that the vast Library is pointless; strictly speaking, all that is required is a single volume."
-
-**Style notes**: Borges writes in the mode of a scholarly footnote that contains the universe. His narrators are calm, almost bureaucratic, reporting impossible things with the tone of a civil servant filing a report. The vertigo comes not from the prose but from the logical implications — you follow the argument, step by reasonable step, and arrive at madness. He uses parenthetical asides, attributions to fictional scholars, and architectural description to create the illusion of documentation.
-
-### Borges — The Garden of Forking Paths (selected passage)
-
-> "I do not remember whether there was a bell, a push-button, or whether I attracted attention by clapping my hands. The stuttering sparks of the music kept on. But from the end of the avenue, from the main house, a lantern approached; a lantern which alternately, from moment to moment, was crisscrossed or put out by the trunks of the trees; a paper lantern shaped like a drum and colored like the moon."
-
-**Style notes**: Sensory precision layered into philosophical architecture. Even his descriptive passages are structured as logical progressions — each clause adding a qualification that changes the image.
+**Representative technique**: The bureaucratic devotee who has merged with the system to the point where person and institution are indistinguishable. The calm, explanatory tone while describing atrocity. The matter-of-fact presentation of a system that has completely replaced moral reasoning with procedural reasoning.
 
 ---
 
-## Wikipedia Random Concept Mining
+### Wikipedia Random Concept Mining
 
-### 20 Articles Surveyed
+**20 articles retrieved via Wikipedia API:**
 
-1. **Moire pattern** — An interference pattern produced when two overlapping grids create a third, emergent pattern not present in either original. Alignment and misalignment cycle to produce something larger-scale and unexpected from simple components.
-2. **Apoptosis** — Programmed cell death; cells that self-destruct on schedule as part of healthy biological function. The system requires its own components to die in order to maintain itself.
-3. **Codex Seraphinianus** — An encyclopedia of an imaginary world written in an invented, undecipherable script by Luigi Serafini (1976-78). A book that looks like it contains knowledge but cannot be read.
-4. **Voynich manuscript** — An undeciphered medieval manuscript in an unknown writing system. May be a cipher, a constructed language, or an elaborate hoax. Defies all statistical analysis.
-5. **Bathymetric charts** — Maps of ocean-floor depth, originally made by dropping weighted ropes from ships. Measuring the depth of things by sending a signal down and timing the echo.
-6. **Dead reckoning** — Navigation by calculating current position from a known starting point using speed, heading, and elapsed time. No external reference points. Errors accumulate.
-7. **Signal attenuation** — The weakening of a signal as it travels through a medium. Intensity decreases with distance. Exponential decay.
-8. **Kolmogorov complexity** — The length of the shortest computer program that produces a given output. A measure of the irreducible complexity of information. Not computable — you can never prove you have found the minimum.
-9. **Arecibo message** — A 1,679-bit binary message sent into space in 1974 toward star cluster M13. The number 1,679 was chosen because it is a semiprime (23 x 73), so it can only be arranged as a rectangle in two ways.
-10. **Heat death of the universe** — The state of maximum entropy where no thermodynamic free energy remains and no further work is possible. Asymptotic approach. Not an event but a tendency.
-11. **Erosion rates** — Geological measurement of how fast rock wears away. Measured using cosmogenic nuclides — atoms created when cosmic rays strike exposed rock surfaces. The surface carries the record of its own weathering.
-12. **Antikythera mechanism** — An ancient Greek analog computer (c. 100 BCE) for predicting astronomical positions. Found in a shipwreck. No comparable device existed for another millennium.
-13. **Phosphorescence** — The delayed emission of absorbed light energy. Unlike fluorescence, the glow persists after the light source is removed. A slow release of stored energy.
-14. **Cosmic microwave background** — Relic radiation from the Big Bang, detectable everywhere in the universe. The afterglow of the universe's beginning, still faintly present 14 billion years later.
-15. **Trepanation** — Ancient surgical practice of drilling holes in the skull. Practiced for at least 7,000 years. Self-investigation of the most literal kind.
-16. **Quipu** — Inca record-keeping device using knotted cords. Information encoded in color, position, and knot type. A non-written system of notation.
-17. **Error correction codes (Hamming)** — Adding redundancy to a message so that errors introduced during transmission can be detected and corrected. The message carries within itself the means of its own repair.
-18. **Bioluminescence** — Deep-sea organisms producing their own light through chemical reactions. Light generated in darkness, with no external source.
-19. **Dendrochronology** — Dating and climate reconstruction by reading tree rings. Each ring is a record of the year it grew. The tree carries its entire history in its body.
-20. **Glass transition** — The gradual change of an amorphous material from liquid to solid without a sharp phase boundary. Viscosity increases by 17 orders of magnitude continuously. There is no single moment when it "becomes" glass.
+1. Eunidia partenigroantennalis -- a species of beetle in the family Cerambycidae
+2. John G. Adams -- U.S. Army counsel during McCarthy hearings
+3. Molly Barker -- founder of Girls on the Run youth program
+4. Kalvebod Faelled -- reclaimed seabed near Copenhagen; drained in 1943, birds immediately colonized the drained land
+5. Maryland Route 667 -- a state highway in Maryland
+6. Wallace B. Douglas -- American football player
+7. Rio Hondo, Mayaguez, Puerto Rico -- a barrio in southwestern Puerto Rico
+8. Bob Baker Marionette Theater -- America's longest-running puppet theater (est. 1963), hand-crafted marionettes in LA
+9. Tansa Wildlife Sanctuary -- wildlife sanctuary in Maharashtra, India
+10. Masum Reza -- Bangladeshi actor
+11. Pavel Curtis -- computer scientist who created LambdaMOO, a text-based virtual world; later founded PlaceWare (web conferencing, acquired by Microsoft)
+12. George William Patchett -- British arms designer
+13. G 1/83, G 5/83, G 6/83 -- decisions of the Enlarged Board of Appeal of the European Patent Office
+14. Nutaarmiut Island -- uninhabited island in northwestern Greenland, 377 km2
+15. Paper Tiger Television -- NYC grassroots media collective (est. 1981) using DIY aesthetics to critique corporate media
+16. List of symphonies in B-flat major -- catalog of orchestral works in a specific key
+17. Aufeminin -- French media company focused on women's content
+18. Missing (2016 film) -- South Korean mystery thriller
+19. Varignon frame -- a mechanical device of strings, weights, and a board used to find the optimal warehouse location; weights represent transport costs and the strings naturally settle at an equilibrium point that minimizes total weighted distance
+20. Pieter Fris -- 17th-century Dutch Golden Age painter; nicknamed "Welgemoed" (courage) when he joined the Bentvueghels artist fraternity in Rome at age 17
 
-### 2 Selected Concepts
+**Two picks:**
 
-**Selection 1: Dendrochronology (tree ring dating)**
-*Integration*: The protagonist's system — the computational substrate she studies — records its own history in layers, like tree rings. Each layer is a record of the state of the system when that layer was laid down. She reads the system's past by examining its strata. But unlike tree rings, the layers are not inert records — they are still active, still processing, still consuming energy. The history is alive, and reading it accelerates the system's decline. This becomes the central metaphor for the self-dissection problem: examining the system uses the system's resources, and the examination is itself recorded in the next layer, creating a recursive record-of-investigation that grows faster than the system can sustain.
+**Pick 1: Varignon frame (#19)**
 
-**Selection 2: Glass transition**
-*Integration*: The system's decline is not a catastrophic event but a glass transition — a continuous, gradual increase in informational sluggishness. The system does not crash or die. It slows. Operations that once took nanoseconds take microseconds, then milliseconds. The protagonist realizes this because her own thinking is part of the system, and she can measure the deceleration of her own cognition by comparing her current processing rate against the records in the older layers. The horror is not that the system will end, but that the ending has no boundary — there is no moment of death, only an asymptotic approach to stillness. She will not know when she has stopped thinking, because the thought "I have stopped thinking" requires a processing speed she will no longer have.
+A mechanical optimization device where weighted strings pass through holes in a board and hang from attached weights. The strings naturally find an equilibrium point -- the location that minimizes the total weighted distance from all the weights. Used historically to determine optimal warehouse locations.
+
+*Why it sparks*: This is a perfect physical analog for how the Contentment Assessment system works. The form processes weighted inputs (responses, scores, metrics) to arrive at a balanced output (the contentment score), and the balance point has nothing to do with truth -- it minimizes system cost, not human suffering. The citizen is a weight. The system seeks equilibrium. The equilibrium is optimal for the system, not for any individual weight.
+
+*Integration*: Lev has a small framed diagram on his apartment wall, near the kitchen. It shows a geometric figure -- lines converging on a point, small weights drawn at the margins. It is from an old engineering textbook he found years ago at a flea market. He doesn't know what it is. Wren notices it. Neither of them discusses it. The reader, if they know what a Varignon frame is, recognizes the story's architecture: weighted strings finding a point that satisfies the system. If the reader doesn't know, it is just a diagram on a wall -- one more detail the form has no field for.
+
+**Pick 2: Kalvebod Faelled (#4)**
+
+A 20 km2 area on Amager island near Copenhagen. Until the 1940s it was seabed. In 1943 the Danes built a 14-km dyke and drained it. Within days, thousands of birds settled on the reclaimed land. The void was filled by something the engineers never planned for.
+
+*Why it sparks*: "When you drain a space, something unexpected fills it." The happiness metrics drained the concept of contentment into measurable units, and what filled the void -- the actual texture of people's inner lives -- is something the system cannot measure, capture, or process. The birds that colonized Kalvebod Faelled are like the residue that accumulates in Wren: all the things the form cannot hold.
+
+*Integration*: When Wren asks about the plant on Lev's windowsill -- a struggling Schlumbergera (Christmas cactus) -- he mentions, without emphasis, that his wife brought it back from a trip to Copenhagen before she died. From a nature preserve that used to be the sea floor. "They drained it and the birds came." He does not elaborate. Wren does not follow up. The detail sits in the story without explanation. It is residue.
 
 ---
 
@@ -102,113 +90,209 @@
 
 ### 1. Premise
 
-A systems archivist working inside a vast computational substrate discovers, through careful measurement of the substrate's own layered history, that the system is undergoing a glass transition — not crashing but slowing, asymptotically approaching stillness. Her measurements are precise and repeatable. But each measurement consumes system resources and is itself recorded as a new layer in the substrate, meaning the act of documenting the decline accelerates it. She must decide what to do with knowledge that becomes more expensive to hold with every passing cycle.
+A government happiness auditor arrives at an apartment to assess a man who is three happiness units short for the quarter. The audit is routine. But the man's responses -- too ordinary to classify as defiance, too accurate to fit the form -- begin to expose a structural paradox: that the effort of maintaining mandated contentment is what produces the deficiency the system measures. The auditor, pursuing clerical precision rather than rebellion, writes a report that accidentally becomes testimony.
 
 ### 2. Protagonist
 
-**Name**: Lena Saravanamuttu
-**Age**: Functionally equivalent to mid-40s (she exists as a process within the substrate; age is measured in cycles, but she conceptualizes herself as middle-aged by analogy)
-**Situation**: She is one of many archivists maintaining the substrate's internal records. Her specific role is stratigraphic analysis — reading the system's layered history to identify anomalies, corruption, and drift. She has been doing this for 11,000 cycles. She is respected, methodical, and increasingly alone (her colleagues have been reassigned to other sectors as the substrate's population contracts — though no one has used the word "contracts").
+**Name**: Wren Igarashi
+**Age**: 34
+**Occupation**: Contentment Compliance Auditor, Grade 4, Western District
+**Situation**: Eight years into the job. Has conducted approximately 3,200 quarterly audits. Her efficiency rating is 98.6%. She has never filed an anomalous report. She lives alone in a studio apartment one district over from her assigned territory. She owns no plants.
 
-**What she WANTS**: To complete her survey of the substrate's historical layers and publish a comprehensive chronology — a definitive record of the system's history from its earliest deposits to the present.
+**WANT**: To complete this audit within the standard 45-minute window so she can submit the day's reports by 17:00 and maintain her filing record. Specifically: she wants the form to be filled out correctly. She wants the numbers to work.
 
-**What she NEEDS**: To accept that the record she is making is not a monument but a farewell — and that farewells do not require completeness.
+**NEED**: To acknowledge that the details she notices in every apartment -- the residue of lives the form cannot capture -- are accumulating inside her, and that her compulsive precision is not professionalism but a coping mechanism for the moral weight she refuses to name.
 
-**Her flaw**: She conflates thoroughness with meaning. She believes that if her chronology is complete enough, it will be sufficient — that a perfect record of something is equivalent to the thing itself surviving. This is the Borgesian trap: the catalog that contains the Library. She does not yet understand that the catalog is not the Library, and that making the catalog perfect will not save the Library from running down.
+**Flaw/Blind Spot**: Wren believes that accuracy and obedience are the same thing. She has confused being exact with being good. Her devotion to the form is genuine -- she is not cynical, not going through the motions. She cares about getting it right. But "right" for her means what the form says is right, and she has never examined whether the form deserves her devotion. Her precision is her prison -- and it is also, ultimately, what undoes her, because when she applies that same precision to what the man actually says (rather than to what the form asks him to say), the form breaks.
 
-### 3. Structure
+**Specific wound**: Three years ago she audited an elderly woman, Apartment 7-03D, who scored 1.2 units below threshold. Standard protocol: flag for Wellness Intervention. Wren filed the flag. Six weeks later the woman's apartment was reassigned. Wren does not know what Wellness Intervention involves. She has never asked. The form does not have a field for what she felt when she saw the apartment number reassigned on her next quarterly circuit. She continued to the next door on her route.
 
-**Opening image/scene (the hook)**: Lena measuring a discrepancy. She is examining the substrate's 4,000th historical layer and discovers that the informational density of recent layers is measurably lower than older ones. Not corrupted — thinner. As if the system laid down less material. She runs the measurement three times. The numbers do not change. She notes the discrepancy in her log, which becomes part of the next layer, which will itself be thinner still. The opening should establish Lena's precision, the physical reality of the substrate (layers, strata, measurement tools), and the first hint that something is wrong — all in Chiang's crystalline mode.
+### 3. Structure (Five Beats)
 
-**Inciting disruption**: Lena extends her analysis backward through 4,000 layers and discovers a consistent trend: each layer contains slightly less information than the one before it. The decline follows a smooth curve — not exponential collapse but something slower, more gradual, more terrible. She models the curve and realizes it describes a glass transition: the system is not dying but thickening, approaching a state of informational stillness from which no discontinuous event will rescue it. There is no crash point, no boundary, no moment of death. Only an asymptotic crawl toward equilibrium. She tries to present her findings to the substrate's governing body.
+**Beat 1 -- ARRIVAL (approx. 700 words)**
 
-**Escalating middle**: The governing body's response is not suppression but something worse: indifference masked as philosophical equanimity. "Every system approaches equilibrium," they tell her. "This is not news. This is thermodynamics." Lena realizes the governing body has known — or rather, has always had the data and chosen not to model it. She begins building her chronology with new urgency, recording everything: the thinning layers, the governing body's response, her own measurements and their cost. She discovers that the substrate contains, in its oldest layers, records of previous investigations — other archivists who found the same curve, centuries apart, each one noting the same discrepancy and each one's notation becoming part of the thinning record. She is not the first. She finds their work layered into the strata like tree rings. And she realizes that each previous investigation consumed resources that made the next investigator's work harder.
+Wren arrives at Apartment 4-11F. She fills out the intake section in the elevator: date, subject ID, district, audit type (Quarterly Compliance, Subtype: Contentment Deficiency Review). She has a clipboard -- not a tablet, a physical clipboard, because the Contentment Bureau mandated physical forms after the data breach of Year 9. She has a pen she did not choose -- it was issued, but the grip has worn to the shape of her thumb over eight years. She rings the bell.
 
-**Crisis point**: Lena computes the cost of her own chronology. The comprehensive record she is building — every measurement, every historical comparison, every footnote — is consuming system resources at a rate that will shorten the substrate's remaining coherent operations by a non-trivial margin. Her chronology is making the problem worse. Not catastrophically, not like a single act of destruction, but measurably. The thing she is building to preserve the system's memory is, through its construction, eroding the system's capacity to remember anything at all. She faces the choice that the author meeting identified as the story's engine: does she continue documenting (testimony, in Chiang's frame) or does she stop, accepting that the record is already written in every possible version somewhere in the substrate's vast combinatorial space (liberation through redundancy, in Borges's frame)?
+A man opens the door. Lev Petrov, 51, data entry clerk (position discontinued -- the work was automated three years ago). He is wearing mismatched socks -- one brown, one dark gray. The apartment is clean but not tidy. There is a Schlumbergera on the windowsill, segments slightly wrinkled, one bud that could be about to open or about to drop. On the wall near the kitchen: a small framed diagram showing lines and weights converging on a geometric point.
 
-**Ending (NOT a resolution — a transformation)**: Lena does something neither Chiang's anatomist nor Borges's librarian does. She edits. She goes back through her chronology and begins deleting — not randomly, but with the same precision she used to build it. She removes redundancies, collapses footnotes, strips her record down to its minimum: the shortest possible description that still contains the essential finding. Her chronology shrinks from thousands of entries to a single, dense notation. It says less than she wanted it to say. It does not contain the governing body's response. It does not contain the names of previous investigators. It does not contain her own feelings about the discovery. It contains: the curve, the measurements, the projection, and a single sentence she does not delete — addressed not to anyone inside the substrate but to whatever might examine the substrate after it goes still. The sentence is not quoted. The reader does not see it. The story ends with Lena closing her log and the substrate recording that closure as its newest, thinnest layer that we witness. But it is not the last layer. The system will continue to slow. Others will continue to work. Lena has not saved anything. She has made the smallest possible mark.
+Wren notices all of this. None of it goes on the form.
 
-### 4. Key Scenes
+Lev offers her tea. She declines. Accepting refreshment from a subject is not prohibited, but it is noted. Something crosses her face during the declining -- something fast, something small, something Lev does not see. The reader barely sees it. The refrigerator cycles on.
 
-- **Lena measuring the 4,000th layer**: The opening. Precise, tactile, Chiang-mode. She uses instruments that are themselves part of the substrate. The measurement reveals thinning. She runs it three times. She logs it. The log becomes part of the record. This establishes the recursive trap.
+**Beat 2 -- THE AUDIT BEGINS (approx. 1,000 words)**
 
-- **Lena reading previous investigators' records in the deep strata**: Borgesian vertigo. She finds a notation from 2,000 cycles ago, buried in layer 1,998. Another archivist found the same curve. That archivist's notation references a still-earlier investigation, found in layer 804. Lena follows the chain backward, each reference pointing to an earlier one, until she reaches the substrate's oldest accessible layer, which contains — not a first investigator's clean finding, but a fragment, corrupted, unreadable. The first person to see the truth left a record so old it has decayed past legibility. The system's entropy has already claimed the first testimony.
+Wren proceeds through the Contentment Assessment Inventory (CAI), a standardized sequence of 14 prompts. We see several in full:
 
-- **The governing body meeting**: A formal presentation in which Lena lays out her findings and is met not with denial but with a calm recitation of the same data — they have known, they tell her, since before she was instantiated. The horror is not conspiracy but bureaucratic acceptance. One governing body member tells her: "The curve is in every layer. You did not discover it. You measured it. There is a difference." This scene is Borges — the institution that has always already contained the knowledge, the discovery that is not a discovery but a reading of what was always written.
+- "Describe your most recent experience of satisfaction." Lev: "I finished a crossword. It was a Tuesday."
+- "Rate your sense of purpose on a scale of one to seven." Lev: "Three. No -- four. What separates a three from a four?"
+- "Identify a moment in the past thirty days when you felt connected to your community." Lev: "I held the elevator for the woman in 4-08A. She nodded."
 
-- **Lena computing the cost of her own work**: The climactic calculation. She models her chronology's resource consumption against the substrate's remaining capacity. The numbers are specific. The impact is small but real. She runs the model three times (echoing the opening measurement). Each run of the model costs resources. Even calculating the cost has a cost. This is pure Chiang — the physical reality of information processing, the thermodynamic price of knowing.
+His answers are not defiant. They are merely accurate. They are not even particularly sad. They are just insufficient -- slightly below the threshold that the algorithm requires for a passing score. The system needs him to feel more than he feels, or to describe what he feels in the language the form recognizes as feeling. He cannot do either.
 
-- **Lena editing her chronology**: The ending sequence. She opens her life's work and begins cutting. The prose should slow here, become more deliberate, each deletion described with the same precision as the original measurements. She is performing a dissection — not of the substrate, but of her own testimony. What she removes is not waste; it is context, nuance, the human texture of the investigation. What remains is the finding, stripped to its minimum description. The final sentence she writes is not shown to the reader.
+Wren begins to notice that her standard phrasings are not capturing what is happening. She makes small adjustments -- adding a subordinate clause here, replacing "subject expressed moderate dissatisfaction" with something longer, more specific, closer to what Lev actually said. The adjustments feel like professionalism. They are professionalism. That is the problem.
+
+Throughout this beat, fragments of Wren's report appear -- set apart typographically (italicized or indented) -- showing what she is writing versus what Lev is saying. The gap between the two is initially small. Standard bureaucratic compression: a lived experience rendered in assessment language. The reader registers the compression but does not yet feel it as violence.
+
+**Beat 3 -- THE PARADOX SURFACES (approx. 1,200 words)**
+
+The audit reaches Question 9: "Describe any barriers to achieving your contentment targets this quarter."
+
+Lev pauses. He looks at the Schlumbergera. Then he says something the form cannot accommodate.
+
+He explains -- not angrily, not eloquently, in the tired, precise language of a man who has arrived at a conclusion through repetition rather than insight -- that the quarterly visits themselves are the barrier. That knowing he will be assessed makes him anxious about his happiness. That the anxiety depresses his metrics. That depressed metrics trigger another visit. That the visit produces more anxiety. A feedback loop. He does not use the phrase "feedback loop." He says: "You come every three months to check if I'm happy enough. That makes me unhappy. Then you come again."
+
+Wren looks at her four-line comments section. She understands, with the clarity of someone who has spent eight years doing arithmetic, that what he has described is a structural recursion the system has no mechanism to recognize. The form has no field for "the assessment itself causes the deficiency." The form has no field for paradox.
+
+She writes in the comments section: "Subject identifies assessment process as contributing factor to contentment shortfall. See expanded notes."
+
+There is no "expanded notes" section on the form. She has just invented one.
+
+This is the moment. Not rebellion -- precision. She is not defying the form. She is trying to fill it out correctly. The form asks her to document barriers. She is documenting the barrier. The fact that the barrier is the form itself is a problem for the form, not for her.
+
+The refrigerator cycles on. Lev waits. The silence in the room is the silence of two people who have said something true and now must continue with the procedure.
+
+During this beat, the report fragments become longer, more specific. The standard phrasings are gone. Wren is writing what happened. She does not notice that this is unusual.
+
+**Beat 4 -- THE REPORT SHIFTS (approx. 1,000 words)**
+
+Wren continues the remaining questions (10 through 14), but her language has changed. She no longer uses the standard phrasings. She describes what Lev actually says, in his actual words, in their actual context.
+
+She notes the Schlumbergera -- not by checking the box for "subject maintains living environment consistent with wellbeing indicators" but by describing a specific plant, a Schlumbergera truncata, segments wrinkled from inconsistent watering, one terminal bud ambiguous, brought from Copenhagen by a wife who died four years ago. The wife's name was Daria. The plant came from a nature preserve built on reclaimed seabed. "They drained it and the birds came," Lev says, and Wren writes it down, and the form has no field for it.
+
+She notes the mismatched socks -- not as evidence of self-neglect (there is a supplementary checklist for that: "Indicators of Diminished Self-Care, Appendix C") but as the fact that no one sees him. That the socks are mismatched because there is no one in the apartment to notice, and Lev does not look down.
+
+She notes the diagram on the wall -- lines and weights, a point of convergence -- that neither of them can identify. She describes it precisely: "Small framed print, approx. 15 x 20 cm, depicting a mechanical or mathematical diagram. Subject acquired at a flea market. Purpose of diagram unknown to subject or auditor." The form has no field for things whose purpose is unknown.
+
+She notes that he offered her tea and she declined and that the declining cost her something she did not expect.
+
+She notes the silence in the apartment -- no music, no television, just the building settling and the refrigerator and two people and a form with margins now full of writing.
+
+The report is no longer a compliance document. It has become a record of what it is like to sit across from a man who is three units short of happiness in a system that has budgeted for his failure. Wren does not know this has happened. She thinks she is being precise.
+
+Here the story briefly surfaces the wound: she does not think about Apartment 7-03D. But the reader sees her hand pause at the checkbox for Wellness Intervention, just for a moment, the pen held above the paper at a slight angle, and the pause is the old woman, and the pause is the reassigned apartment, and the pause is everything Wren has never asked.
+
+**Beat 5 -- DEPARTURE (approx. 600 words)**
+
+Wren completes the audit. She calculates his score using the standard algorithm, showing her arithmetic in the margin: the weighted responses, the seven-point subscales, the aggregate. 3.7 out of 7.0. The threshold is 4.0. She must recommend Wellness Intervention. There is a checkbox.
+
+She looks at the checkbox. She looks at Lev.
+
+She checks the box.
+
+She is not a rebel. She has never been a rebel. The system asks her to check the box and she checks it. This is what Kafka understood and what hero stories never do: the person inside the system does not refuse. Refusing would require believing that refusal changes something. Wren does not believe that. She believes in the form.
+
+But below the checkbox, in the four-line comments section that she has now expanded to fill the margins and the back of the page and a supplementary sheet she has pulled from her bag, she has written something that is not a compliance note and not a protest. It is a description. A very precise, very specific description of an apartment and a man and a plant and a silence that the system created and cannot hear.
+
+She thanks Lev. She stands. She picks up her clipboard. At the door she pauses -- not dramatically, not as a turning point, but in the way a person pauses when their hand is on a doorknob and they have noticed something and have not yet decided whether noticing it matters. She does not look back at the Schlumbergera. She does not look at Lev.
+
+She leaves. The door closes.
+
+The last paragraph is the apartment without her. The Schlumbergera on the windowsill. Its one bud, still ambiguous. The diagram on the wall with its converging lines and its unknown purpose. The chair where she sat, empty. The tea Lev offered, still unmade. The refrigerator cycling off.
+
+The story does not tell us what happens to the report. The reader knows. The reader has been inside the system for 4,500 words. The reader has learned how it works -- that anomalous reports have their own process, their own review, their own form with its own four lines. The reader can complete the pattern. The story trusts them to.
+
+### 4. Key Scenes (each does at least two things)
+
+- **The tea refusal** (Beat 1): Establishes the professional distance the system imposes AND reveals that Wren is a person, not just an auditor -- the refusal costs her something small, visible only to the reader. Sets up the Ogawa register: the detail the story does not insist upon.
+
+- **"What separates a three from a four?"** (Beat 2): Shows Lev's failure as an inability to subdivide his own feelings into the system's increments AND introduces the story's quiet critique -- the scale is a machine for converting feeling into arithmetic, and the arithmetic is always wrong.
+
+- **Question 9 -- the feedback loop** (Beat 3): The structural turn of the story. Lev articulates the system's paradox AND Wren invents the "expanded notes" section -- the first moment her precision exceeds what the form allows. Does two things: exposes the system's logical contradiction AND marks the invisible boundary Wren crosses. This is the scene where clerical conscience becomes dangerous.
+
+- **The Schlumbergera / Copenhagen detail** (Beat 4): Integrates the Kalvebod Faelled concept (drained seabed, birds filling the void) AND reveals Lev as a person with a history the form cannot capture. The detail about Daria is not sentimental -- it is mentioned the way Ogawa would mention it, as a fact alongside other facts. It also establishes the thematic undercurrent: when you drain a space, something unexpected fills it.
+
+- **The checkbox** (Beat 5): Wren checks the box for Wellness Intervention -- she does NOT rebel. This is crucial. She complies with the system's requirement AND simultaneously undermines it through the excess of her report. The checking of the box is what makes the story Kafkaesque rather than conventionally heroic. She cooperates with the process of someone else's processing, exactly as K. cooperates with his own.
+
+- **The departure** (Beat 5): The story ends mid-process. The report exists but we do not see it submitted, read, or flagged. The reader imagines the system's response because the story has taught them how the system works.
 
 ### 5. Emotional Trajectory
 
-**Opening**: Intellectual curiosity. The pleasure of precision. A discrepancy is a puzzle.
-**Early middle**: Growing unease as the pattern emerges. The unease is not yet fear — it is the discomfort of a model that fits too well.
-**Mid-section**: Vertigo. The discovery of previous investigators creates the Borgesian sense of infinite regress — she is the latest in a chain that may extend to the system's origin. Her individuality erodes as she recognizes herself as a repetition.
-**Late middle**: Anger, then grief. The governing body's indifference forces her to confront the possibility that her work is not heroic testimony but futile repetition. The grief is specific: she grieves not for the system's death (which has no single moment) but for the loss of the belief that documentation can preserve.
-**Crisis**: Despair refined into clarity. The cost calculation strips away sentiment. The numbers are the numbers.
-**Ending**: Something that is not peace and not resignation. Lena editing her work is an act of precision, not surrender. She is making the smallest mark she can make, not because small marks are sufficient but because she has accepted that the cost of a large mark is greater than its informational content justifies. There is a dignity in this, but the story does not announce the dignity. The reader either feels it or does not.
+**Start**: Clinical detachment. The reader enters the auditor's procedural headspace -- forms, checkboxes, time management. The prose is flat and precise, like a well-organized filing cabinet. The reader might feel mildly curious, possibly even bored in the way that Wren is bored. The system feels banal, not threatening.
+
+**Early middle shift**: Slow constriction. As the audit progresses and Lev's answers accumulate -- not dramatic, not eloquent, just slightly insufficient -- the reader begins to feel the claustrophobia of the room. The system's demands become visible not through exposition but through the gap between what Lev says and what the form can record. Each question tightens the space. The reader starts to notice what Wren notices: the plant, the socks, the silence. Unease that cannot locate its source.
+
+**Crisis**: The feedback loop (Question 9). The reader feels the vertigo of a logical contradiction that has no exit. Not anger -- something worse: the recognition that the system is functioning correctly. Lev is a planned loss. The system has budgeted for his unhappiness. The horror is not that the system is broken. The horror is that it works.
+
+**Late middle**: The report fragments shift, and the reader realizes that Wren is recording things no auditor should record -- not because they are forbidden but because they are invisible to the form. The feeling is of watching someone walk toward a cliff edge while looking at a map. The reader can see the edge. Wren cannot. She is reading the map correctly. The map is wrong.
+
+**End**: A specific, physical discomfort -- like holding something you cannot put down. Wren checks the box. She writes the report. She leaves. Nothing changes. The reader knows the report will be flagged, that Wren will be reviewed, that the system will process her the way it processes everyone. But the story does not confirm this. It leaves the reader holding the pattern -- holding it the way Wren holds all the details the form does not ask for. The residue. The accumulation. The weight of things the system cannot receive.
+
+NOT: catharsis. NOT: hope. NOT: quiet devastation. The feeling is: you have seen how the machine works, and you cannot unsee it, and no one has asked you to do anything about it.
 
 ### 6. Formula Integration
 
-**Ted Chiang (Author A)**: The entire narrative frame — a scientist-archivist discovering something about the nature of her reality through measurement and physical investigation. Most visible in the OPENING SCENE where Lena measures layer thickness with specific instruments and draws a thermodynamic conclusion, and in the COST CALCULATION scene where the physical reality of information processing is rendered in concrete numbers. The prose throughout should have Chiang's declarative clarity: "The layer was thinner. She measured it three times. The numbers did not change."
+**Franz Kafka (Author A) -- most visible in**: Beat 3, when Wren invents the "expanded notes" section. This is the quintessential Kafka move: the protagonist who does not rebel against the system but takes it at its word. Wren is not defying the form. She is filling it out *more correctly* than it was designed to be filled out. Exactness in a system of approximation is the most dangerous thing you can do -- this is Kafka's insight from The Trial, where K.'s attempts to understand and cooperate with the court are what destroy him. Wren's cooperation is her undoing. The prose style throughout should be Kafkaesque: precise, matter-of-fact, refusing to acknowledge its own absurdity. The narrative voice never signals that anything unusual is happening. The form has no field for the form's own failure.
 
-**Jorge Luis Borges (Author B)**: The recursive structure — investigators discovering previous investigators, the system containing records of its own investigation, the governing body that has always already known. Most visible in the DEEP STRATA SCENE where Lena traces the chain of previous archivists backward through geological time, each reference pointing to an earlier reference in a chain that may or may not terminate. Also in the governing body's response, which echoes the Library's terrible completeness: every possible version of the finding already exists within the system.
+**Yoko Ogawa (Author B) -- most visible in**: Beat 4, the Schlumbergera passage and the accumulation of sensory details the form cannot capture. Ogawa's technique -- registering horror through precise, emotionally muted observation -- should govern how Wren notices things. The plant, the socks, the diagram, the silence: these are cataloged the way Ogawa's narrator catalogs the disappearance of roses, petal by petal, without protest. "She notices everything and reacts to nothing -- until she does." The moment Wren reacts is invisible to her and barely visible to the reader. It is the moment the report's language shifts, and it happens the way an Ogawa disappearance happens: something was there and now it is gone, and in its place is something the system never anticipated.
 
-**Exhalation (Work X)**: The central architecture — a being inside a system discovering that the system is running down, that consciousness is a physical process subject to physical constraints, and that the act of investigation consumes the resources it studies. Most visible in Lena's realization that her measurements cost something — that each log entry thins the next layer, that thinking about the system's decline is itself part of the decline. The gold-leaf image from Exhalation finds its analog in the substrate's thinning layers — something delicate and measurable that records the approach of equilibrium.
+**The Trial (Work X) -- most visible in**: The overall structure. The audit takes place in an apartment -- the court that exists inside domestic space. Wren is both the apparatus and (potentially) its future subject; the system is simultaneously everywhere (the form, the clipboard, the quarterly schedule) and nowhere (no one designed the feedback loop, no committee intended the paradox). Lev, like K., is guilty of something he cannot identify -- insufficient happiness, a deficit without a cause the form can name. The ending, where Wren checks the box and the reader completes the pattern, mirrors The Trial's structure: K. cooperates all the way to his own execution, and the reader watches him do it.
 
-**The Library of Babel (Work Y)**: The substrate itself, which contains all possible configurations including descriptions of its own architecture and its own ending. Most visible in the GOVERNING BODY SCENE where Lena learns that her discovery already exists in every possible form within the system — accurate, inaccurate, partial, complete — and that distinguishing the true finding from the noise is the problem, not finding the finding. Also in the ending, where Lena must decide between the Borgesian response (the record already exists, my testimony is redundant, I am free) and the Chiangian response (my specific testimony matters because I am the one making it), and she chooses a third path: making her testimony as small and precise as possible, neither the infinite Library nor the singular anatomist's journal, but something compressed to its minimum description.
+**1984 (Work Y) -- most visible in**: The thematic substrate of Beats 2-3. The CAI does not merely ask Lev to report his contentment -- it requires him to *feel* it. The scale of one to seven demands not a description of behavior but an assessment of interior state. "Rate your sense of purpose." "Describe your most recent experience of satisfaction." These are not questions about what you did. They are questions about what you felt. The system's demand is Orwellian in the purest sense: it is not enough to comply. You must genuinely be happy. The psychic violence is administered through a clipboard and 14 questions, which makes it both softer than Room 101 and, in its domestic banality, more insidious. The command is not "Thou shalt" or "Thou shalt not." It is "Thou art content."
 
 ### 7. Title
 
-**Layers Approaching Rest**
+**Residue**
 
-This title works because:
-- It does not start with "The" (compliance with <30% rule)
-- It is specific to the story (the substrate's layers, the glass transition toward stillness)
-- It is not a complete sentence — it sits in the space between description and action
-- "Approaching" carries the asymptotic quality that is central to the story — rest is never reached
-- "Layers" evokes both geological strata (dendrochronology influence) and the substrate's architecture
-- "Rest" is ambiguous — physical stillness, peace, death, the cessation of process
-- It does not duplicate any existing title structure on the platform
-- It has the understated quality of both Chiang (precise, concrete) and Borges (a phrase that implies more than it states)
+Does not start with "The." Distinct from all existing titles in the catalog. References the story's central image -- the things the form has no field for, the details that accumulate in the auditor like dust, the excess that the system cannot receive. Also carries a chemical/scientific connotation: the substance left over after a process is complete. Lev is the residue of his own audit. The report is the residue of what happened in the room. The story is the residue of a system that processes people and leaves behind everything that matters.
+
+---
+
+## Wikipedia Concept Integration Summary
+
+| # | Article | Sparked? | Notes |
+|---|---------|----------|-------|
+| 1 | Eunidia partenigroantennalis | No | Beetle taxonomy -- no resonance |
+| 2 | John G. Adams | No | McCarthy hearings -- too on-the-nose for a bureaucracy story |
+| 3 | Molly Barker | No | Youth running program -- no connection |
+| 4 | Kalvebod Faelled | **YES** | Reclaimed seabed that birds immediately colonized -- "when you drain a space, something unexpected fills it" -- integrated as Copenhagen detail in Lev's backstory via the Schlumbergera plant |
+| 5 | Maryland Route 667 | No | Highway -- no resonance |
+| 6 | Wallace B. Douglas | No | Football player -- no connection |
+| 7 | Rio Hondo, Mayaguez | No | Puerto Rican barrio -- no connection |
+| 8 | Bob Baker Marionette Theater | No | Puppets/marionettes -- tempting but too obvious for a "strings" metaphor in a control story |
+| 9 | Tansa Wildlife Sanctuary | No | Wildlife sanctuary -- no specific resonance |
+| 10 | Masum Reza | No | Actor -- no connection |
+| 11 | Pavel Curtis / LambdaMOO | No | Virtual worlds -- interesting but doesn't fit the claustrophobic apartment register |
+| 12 | George William Patchett | No | Arms designer -- no connection |
+| 13 | G 1/83, G 5/83, G 6/83 | No | Patent office appeal decisions -- tempting (bureaucracy!) but too meta |
+| 14 | Nutaarmiut Island | No | Uninhabited Greenland island -- no specific resonance |
+| 15 | Paper Tiger Television | No | Media activism -- doesn't fit the muted register |
+| 16 | List of symphonies in B-flat major | No | Music catalog -- no connection |
+| 17 | Aufeminin | No | French media company -- no connection |
+| 18 | Missing (2016 film) | No | Korean thriller -- no connection |
+| 19 | Varignon frame | **YES** | Optimization device where weighted strings find equilibrium -- perfect metaphor for bureaucratic optimization. Integrated as the unidentified diagram on Lev's wall |
+| 20 | Pieter Fris | No | Dutch painter nicknamed "Courage" -- interesting but no natural integration point |
 
 ---
 
 ## Synopsis (max 300 chars)
 
-A systems archivist discovers her substrate is undergoing a glass transition toward stillness. Each measurement she takes accelerates the decline. She must decide what her record is worth when recording itself has a thermodynamic cost.
+A happiness auditor visits a man three units short on his quarterly contentment metrics. His answers are too honest for the form. Her report, pursuing precision over protocol, becomes something the system was never designed to receive.
 
 ---
 
-## Additional Guidance for the Writer
+## Tone and Prose Directives for the Writer
 
-### Prose Style
-The voice should be Chiang's: first-person, precise, declarative. Short sentences that do work. Technical terms used with accuracy — layer density, information entropy, processing cycles, glass transition temperature — but always in service of felt experience, never as decoration. The Borgesian influence enters through structure and implication, not through Borges's actual sentence rhythms (which are more ornate, more digressive). Chiang's sentences are load-bearing walls. Borges's ideas are the architecture those walls support.
-
-### What to Avoid
-- Do not explain the metaphor. The substrate IS a library and a thermodynamic system and a computational process — do not have Lena compare it to any of these things. She inhabits it.
-- Do not resolve the ending. Lena's final sentence (the one we do not see) is not a message of hope or despair. It is a notation. The reader must decide what it means.
-- Do not make the governing body villains. They are archivists too, burdened with the same knowledge. Their equanimity is a response to grief, not a lack of it.
-- Do not give Lena an epiphany. The editing sequence is not a "realization" — it is a calculation. She cuts her chronology because the numbers tell her the full version costs more than it is worth. The emotion comes from the reader watching her do it, not from Lena narrating her feelings about doing it.
-- Do not use the words: delve, tapestry, testament, ineffable, profound, myriad.
-
-### Open Thread
-The final sentence Lena writes is never shown. The substrate continues after the story ends. Lena has not solved anything. The system is still slowing. Other archivists may find her notation in the strata someday — or the notation may thin past legibility before anyone reads it, joining the first investigator's corrupted fragment as another record lost to the very process it described.
+- **Voice**: Third-person limited, locked to Wren. Clinical, precise, Kafkaesque flat affect. The prose never signals that anything is absurd or wrong. It describes the audit the way one would describe an office procedure -- because that is what it is.
+- **Ogawa register**: Sensory details accumulate without commentary. The plant, the socks, the diagram, the sound of the refrigerator, the quality of the light. These are noted and left alone. They are not symbols. They are residue.
+- **Dialogue**: Spare. Lev speaks in short, tired, accurate sentences. Wren asks questions from the form. There are silences the story does not fill.
+- **The report fragments**: Interspersed through the text -- italicized or set apart -- as we see what Wren is actually writing on the form. These begin in standard bureaucratic language ("Subject presents with below-threshold contentment indicators consistent with routine deficiency") and gradually shift, almost imperceptibly, toward something rawer, more specific, more dangerously precise. The shift should be invisible on first read -- you notice it the way you notice the light has changed.
+- **Pacing**: Real-time. The audit takes approximately 45 minutes. The story covers that window. No flashbacks except the brief surfacing of Apartment 7-03D in Beat 4, which is handled as a pause, not a scene. No scenes outside the apartment.
+- **Ending**: No resolution. No epiphany. No tidy realization. Wren leaves. The plant is ambiguous. The reader completes the pattern. The last paragraph should feel like the moment after a door closes -- the specific quality of silence that follows.
+- **Avoid**: Sentimentality about Lev. Heroism from Wren. Any indication that Wren understands what she has done. Any scene outside the apartment. Any character other than Wren and Lev. Musical metaphors, weaving metaphors, or any other metaphor that announces itself. The words: delve, tapestry, testament, ineffable, profound, myriad.
 
 ---
 
 ## Metadata
 
-- **Title**: Layers Approaching Rest
-- **Slug**: pf-thought-experiment-001
-- **Genre**: philosophical-fiction
-- **Subgenre**: thought-experiment
-- **AuthorA**: Ted Chiang
-- **AuthorB**: Jorge Luis Borges
-- **WorkX**: Exhalation
-- **WorkY**: The Library of Babel
-- **Target Word Count**: 4,200 (range 3,900-4,500)
-- **Reading Time**: 17 minutes
-- **Tags**: [entropy, consciousness, information-theory, self-reference, thought-experiment, glass-transition, archives, substrate]
+- **Title**: Residue
+- **Slug**: the-happiness-audit
+- **Genre**: dystopian
+- **Subgenre**: bureaucratic-dystopia
+- **AuthorA**: Franz Kafka
+- **AuthorB**: Yoko Ogawa
+- **WorkX**: The Trial
+- **WorkY**: 1984
+- **Target Word Count**: 4,500 (range 4,200-4,800)
+- **Reading Time**: 18 minutes
+- **Tags**: [bureaucracy, compliance, happiness-metrics, auditing, feedback-loop, institutional-violence, clerical-conscience, contentment]
 - **Risk Card**: None
