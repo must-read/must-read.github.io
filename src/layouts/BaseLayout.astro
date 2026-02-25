@@ -35,9 +35,9 @@ const currentPath = Astro.url.pathname;
       </a>
       <div class="site-header__tagline" aria-hidden="true">
         <span class="site-header__diamond">&#9830;</span>
-        <span class="site-header__tagline-text"><em>artificium</em> — a thing made with skill, with craft</span>
-        <span class="site-header__diamond">&#9830;</span>
-        <span class="site-header__tagline-text"><em>inter + legere</em> — to read between, to choose among</span>
+        <span class="site-header__tagline-phrase"><em>artificium</em><span class="site-header__tagline-def"> — a thing made with skill, with craft</span></span>
+        <span class="site-header__diamond site-header__diamond--center">&#9830;</span>
+        <span class="site-header__tagline-phrase"><em>inter + legere</em><span class="site-header__tagline-def"> — to read between, to choose among</span></span>
       </div>
       <nav class="site-header__nav" aria-label="Main navigation">
         <span class="site-header__diamond site-header__nav-diamond" aria-hidden="true">&#9830;</span>
@@ -114,6 +114,7 @@ const currentPath = Astro.url.pathname;
     font-size: 0.8em;
   }
 
+  /* Tagline: hidden by default (mobile) */
   .site-header__tagline {
     display: none;
     align-items: baseline;
@@ -125,14 +126,12 @@ const currentPath = Astro.url.pathname;
     white-space: nowrap;
   }
 
-  @media (min-width: 1100px) {
-    .site-header__tagline {
-      display: flex;
-    }
+  .site-header__tagline-phrase em {
+    font-style: italic;
   }
 
-  .site-header__tagline-text em {
-    font-style: italic;
+  .site-header__tagline-def {
+    display: none;
   }
 
   .site-header__diamond {
@@ -140,18 +139,35 @@ const currentPath = Astro.url.pathname;
     font-size: 0.5em;
     opacity: 0.5;
     flex-shrink: 0;
-    vertical-align: middle;
     position: relative;
     top: -0.08em;
+  }
+
+  .site-header__diamond--center {
+    margin: 0 0.3rem;
   }
 
   .site-header__nav-diamond {
     display: none;
   }
 
-  @media (min-width: 1100px) {
+  /* Medium: show Latin terms only */
+  @media (min-width: 820px) {
+    .site-header__tagline {
+      display: flex;
+    }
     .site-header__nav-diamond {
       display: inline;
+    }
+  }
+
+  /* Full: show definitions too */
+  @media (min-width: 1100px) {
+    .site-header__tagline-def {
+      display: inline;
+    }
+    .site-header__diamond--center {
+      margin: 0 0.5rem;
     }
   }
 
