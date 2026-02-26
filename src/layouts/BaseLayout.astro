@@ -33,6 +33,7 @@ const currentPath = Astro.url.pathname;
         <span class="site-header__logo-icon" aria-hidden="true">&#9830;</span>
         Must Read
       </a>
+      <span class="site-header__creed" aria-hidden="true">Artificium Inter Legere</span>
       <nav class="site-header__nav" aria-label="Main navigation">
         <a href={`${import.meta.env.BASE_URL}browse/`} class:list={{ active: currentPath.startsWith('/browse') }}>Browse</a>
         <a href={`${import.meta.env.BASE_URL}about/`} class:list={{ active: currentPath.startsWith('/about') }}>About</a>
@@ -107,8 +108,25 @@ const currentPath = Astro.url.pathname;
     font-size: 0.8em;
   }
 
+  .site-header__creed {
+    display: none;
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--color-text-secondary);
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+  }
+
+  @media (min-width: 680px) {
+    .site-header__creed {
+      display: inline;
+    }
+  }
+
   .site-header__nav {
     display: flex;
+    align-items: center;
     gap: var(--space-md);
     margin-left: auto;
     margin-right: var(--space-sm);
