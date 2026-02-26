@@ -7,8 +7,8 @@ authorA: "Agatha Christie"
 authorB: "Daphne du Maurier"
 workX: "And Then There Were None (Agatha Christie)"
 workY: "Rebecca (Daphne du Maurier)"
-wordCount: 5653
-readingTimeMinutes: 23
+wordCount: 5328
+readingTimeMinutes: 21
 tags:
   - locked-room
   - gothic
@@ -48,7 +48,7 @@ combination:
     - An outsider heir discovering the house's truth through structural observation rather than inherited familiarity
 ---
 
-The house knew before I did. I will say that plainly, because I have no talent for saying things any other way. Trewarren had been unsettled for three days before the heirs arrived — doors sticking that had swung freely all summer, a damp patch appearing on the study ceiling that had been dry for eleven years, the particular moan the kitchen flue made when the wind came off the headland from the south-southwest. I have kept this house for thirty-one years. I know when it is trying to tell me something, even when I choose not to listen.
+The house knew before I did. I will say that plainly, because I have no talent for saying things any other way. Trewarren had been unsettled for three days before the heirs arrived — doors sticking that had swung freely all summer, a damp patch appearing on the study ceiling that had been dry for eleven years, the moan the kitchen flue made when the wind came off the headland from the south-southwest. I have kept this house for thirty-one years. I know when it is trying to tell me something, even when I choose not to listen.
 
 Mr. Edmund Pryor died on the fourteenth of October. Pneumonia was what the certificate said, though Dr. Trelawney's expression when he signed it suggested a longer and more qualified sentence. I washed the body. I dressed it in the grey suit Mr. Edmund wore to church on the occasions he believed God might be watching. I closed the bedroom door and I did not open it again until the funeral men came from Penzance. That is what you do. You close the door. You go downstairs. You lay the table for one fewer.
 
@@ -56,13 +56,13 @@ The solicitor, Mr. Goss, arrived on the seventh of November, a Thursday evening.
 
 The heirs came separately on Friday afternoon, each arriving an hour apart as Mr. Edmund had stipulated in his written instructions. He had managed them in death the way he managed them in life: by arrangement, at intervals he controlled.
 
-Laurence first, at noon, in a hired car that smelled of cigarettes and the particular sourness of a man who has been sweating in a suit he cannot afford to dry-clean. He was fifty-eight and looked it everywhere except the eyes, which still held the alert, slightly frantic optimism of someone waiting for circumstance to vindicate him. He ran a gallery in Bristol that had been failing for seven years. He stood in the entrance hall looking up at the staircase as though calculating what it might fetch, which was not an unreasonable instinct, given that he owed the estate nine thousand pounds — borrowed from Mr. Edmund in 2019 and never repaid. I took his coat. It was damp and too expensive for a man in his position, the kind of coat a person buys to feel like a different version of themselves.
+Laurence first, at noon, in a hired car that smelled of cigarettes and the sourness of a man who has been sweating in a suit he cannot afford to dry-clean. He was fifty-eight and looked it everywhere except the eyes, which still held the alert, slightly frantic optimism of someone waiting for circumstance to vindicate him. He ran a gallery in Bristol that had been failing for seven years. He stood in the entrance hall looking up at the staircase as though calculating what it might fetch, which was not an unreasonable instinct, given that he owed the estate nine thousand pounds — borrowed from Mr. Edmund in 2019 and never repaid. I took his coat. It was damp and too expensive for a man in his position, the kind of coat a person buys to feel like a different version of themselves.
 
-Sibyl Tremayne arrived at one, by taxi from Truro, wearing a coat too thin for November and a voice too bright for the occasion. She was forty-seven, divorced, and had been an estate agent before the firm dismissed her for reasons she called political and I suspected were mathematical. She walked through the entrance hall touching things — the newel post, the hallstand, the brass bowl on the side table where Mr. Edmund had kept his reading glasses for twenty years — with the unconscious valuation of someone who cannot look at an object without pricing it. She asked whether the drawing room curtains were original. I said they were. She pinched the velvet between finger and thumb and nodded, and I could see the figure assembling itself behind her eyes.
+Sibyl Tremayne arrived at one, by taxi from Truro, wearing a coat too thin for November and a voice too bright for the occasion. She was forty-seven, divorced, and had been an estate agent before the firm dismissed her for reasons she called political and I suspected were arithmetical. She walked through the entrance hall touching things — the newel post, the hallstand, the brass bowl on the side table where Mr. Edmund had kept his reading glasses for twenty years — with the unconscious valuation of someone who cannot look at an object without pricing it. She asked whether the drawing room curtains were original. I said they were. She pinched the velvet between finger and thumb and nodded, and I could see the figure assembling itself behind her eyes.
 
 Harriet arrived at two, on foot. She had walked two miles from the bus stop in rain that had turned the lane to a brown trough, and she arrived in ruined shoes and a waxed jacket that had survived worse. She was fifty-two, a retired district nurse from Truro, and she had nursed Mr. Edmund through his final four months with a competence I respected and a tenderness that was difficult for me to watch. She knew his body in ways I did not — which medications at what intervals, how his breathing changed in the small hours, the pattern his hands made on the bedsheet when the pain was worst. I resented this knowledge. I am not proud of the resentment, but I will not pretend it was absent. She hung her jacket on the hook by the kitchen door — the kitchen hook, my hook, not the guest hooks in the hall — and I moved it when she went upstairs, and neither of us acknowledged the transaction.
 
-Douglas came at three, in his own car, a dark blue saloon he parked with geometric precision between the gateposts. He was forty, the youngest of Mr. Edmund's brother's children, an actuary by profession and inclination. He had visited Trewarren six times in the final year — more than all the others combined. He said these visits were to help Mr. Edmund with his financial affairs, and perhaps they were. He entered the house without pausing at any threshold and went directly to his room — the small bedroom at the end of the east corridor, directly above the study, the room he always used — without asking me to show him the way. He knew the house. He knew it the way I knew it: not from growing up inside it, but from walking its rooms with attention and noting where the proportions agreed and where they did not.
+Douglas came at three, in his own car, a dark blue saloon he parked with geometric precision between the gateposts. He was forty, the youngest of Mr. Edmund's brother's children, an actuary by profession and inclination. He had visited Trewarren six times in the final year — more than all the others combined. He said these visits were to help Mr. Edmund with his financial affairs. He entered the house without pausing at any threshold and went directly to his room — the small bedroom at the end of the east corridor, directly above the study, the room he always used — without asking me to show him the way. He knew the house. He knew it the way I knew it: not from growing up inside it, but from walking its rooms with attention and noting where the proportions agreed and where they did not.
 
 Nessa Pryor arrived last, at half past three. Her train from Plymouth had been delayed by a signal failure outside Liskeard. She carried a canvas bag and wore a waterproof jacket with permanent tide marks at the cuffs — a jacket that had been worn in weather rather than purchased against the possibility of it. She was thirty-four, Mr. Edmund's niece by his younger brother, the estranged one, the one who went to sea and never came back in any way that counted. She had visited Trewarren once, as a child of six. She said she remembered the smell of the house: salt and stone and something sweet she could not place. Beeswax. I have used beeswax on the panelling since 1994.
 
@@ -108,7 +108,7 @@ Nessa said nothing. She was watching me with the kind of attention she would giv
 
 They went in to see the body. All five of them, filing down the corridor behind me like mourners at a funeral they had not planned to attend. I stood by the door while they entered the study and looked at Mr. Goss and at the room that had killed him, or that had at least cooperated in his dying.
 
-Laurence stood by the desk and stared at the dead man's hands — the flat, pressed-down position of them, as if the desk were trying to buck and Goss had been holding on. Sibyl went straight to the window and tested the bolt, tugging it with both hands, confirming for herself what I had already stated. It did not move. She stepped back and looked at the sill, the frame, the glass, finding no crack or imperfection that would admit a hand or a tool or anything else. Douglas stood in the centre of the room and turned a full, slow circle, examining every surface the way an insurance assessor examines a claim — systematically, impersonally, looking for the gap between what is reported and what is true. Harriet went to the body. She lifted Mr. Goss's right hand gently, turned it over, studied the fingernails, set it back down in exactly the position she had found it. She opened one of his eyelids with her thumb. She placed two fingers against the side of his throat and held them there for a count of ten, though the man was plainly dead and had been for hours. Force of habit. Routine. The body holds its professional shapes long after the profession has ended.
+Laurence stood by the desk and stared at the dead man's hands — the flat, pressed-down position of them, as if the desk were trying to buck and Goss had been holding on. Sibyl went straight to the window and tested the bolt, tugging it with both hands, confirming for herself what I had already stated. It did not move. She stepped back and looked at the sill, the frame, the glass, finding no crack or imperfection that would admit a hand or a tool or anything else. Douglas stood in the centre of the room and turned a full, slow circle, examining every surface the way an insurance assessor examines a claim — systematically, impersonally, looking for the gap between what is reported and what is true. Harriet went to the body. She lifted Mr. Goss's right hand gently, turned it over, studied the fingernails, set it back down in exactly the position she had found it. She opened one of his eyelids with her thumb. She placed two fingers against the side of his throat and held them there for a count of ten, though the man was plainly dead and had been for hours. Force of habit. The body holds its professional shapes long after the profession has ended.
 
 Nessa stood by the fireplace. She was not looking at the body or the desk or the window. She was looking at the wall — at the join where the mantelpiece met the east wall, at the stones of the surround, at the hearth and the grooves scored into the floor in front of it. She crouched and ran her finger along one of the grooves, feeling its depth, its direction. She did not say what she found. She stood up and looked at the ceiling, then at the floor, then at the wall again, and I saw her doing what she does professionally — reading the structure, looking for the place where the building's story diverges from what it is telling you.
 
@@ -136,13 +136,13 @@ Sibyl looked at him with her estate agent's face — professional sympathy maski
 
 "I don't," Laurence said. "It's the only guilt that fits."
 
-"Perhaps your guilt is more imaginative than you realise," Sibyl said, and then, because the room had gone quiet and because silence made her nervous, she offered her own. She had sold a cottage that belonged to Mr. Edmund — a property on the coast road near Mousehole — and had valued it at sixty thousand when the market would have paid closer to ninety. The difference went to Sibyl. Mr. Edmund discovered the discrepancy. He never mentioned it. Sibyl delivered this confession with the briskness of a woman admitting to a parking offence, but the colour climbing her neck said otherwise.
+"Your guilt might be more imaginative than you realise," Sibyl said, and then, because the room had gone quiet and because silence made her nervous, she offered her own. She had sold a cottage that belonged to Mr. Edmund — a property on the coast road near Mousehole — and had valued it at sixty thousand when the market would have paid closer to ninety. The difference went to Sibyl. Mr. Edmund discovered the discrepancy. He never mentioned it. Sibyl delivered this confession with the briskness of a woman admitting to a parking offence, but the colour climbing her neck said otherwise.
 
 Douglas listened to both confessions with the calm, methodical attention he gave to everything. He cut his chicken into pieces of uniform size and chewed each one the same number of times and said, when the confessions had played out, "I think we're all frightened and we're letting the letters do exactly what Edmund intended them to do. If we wait for the storm to pass and let the police handle this, we won't need to confess to things that have nothing to do with how Mr. Goss died."
 
 "How do you know they have nothing to do with it?" Harriet said.
 
-Everyone looked at her. She had been quiet all evening, eating little, watching the others with the clinical patience of a woman accustomed to monitoring vital signs in people who did not know they were being observed. She was watching Douglas. I noticed that. She had been watching him since the sherry, tracking the small involuntary movements — the pulse in his throat, the micro-hesitation before he spoke, the way his left hand stayed in his lap while the right managed the fork with mechanical precision.
+Everyone looked at her. She had been quiet all evening, eating little, watching the others with the clinical patience of a woman accustomed to monitoring vital signs in people who did not know they were being observed. She was watching Douglas. I noticed that. She had been watching him since the sherry, tracking the small involuntary movements — the pulse in his throat, the hesitation before he spoke, the way his left hand stayed in his lap while the right managed the fork with mechanical precision.
 
 "Mr. Goss died in a locked room," Douglas said. "The door was locked from inside. The window was bolted. No one entered or left that room. These are facts, not opinions. The simplest explanation is that he died of natural causes."
 
@@ -162,7 +162,7 @@ Douglas suggested Mr. Goss's briefcase might be in his bedroom. He was right. Ne
 
 Sibyl read the note aloud, then read it again, and said, "What other will?"
 
-The question had no answer that anyone in the room was prepared to give. It settled over the house the way damp settles into plaster — slowly, along the lines of least resistance, staining everything it touched.
+The question had no answer that anyone in the room was prepared to give.
 
 Laurence was the first to crack. He found Nessa in the morning room at a quarter to ten, where she was making notes in a small waterproof notebook she carried in her jacket, and he sat down across from her without being invited and said, in the tone of a man who has been carrying something too heavy for too long and no longer cares where he puts it down, "I need to tell someone about the money."
 
@@ -176,9 +176,9 @@ He told Nessa about the nine thousand pounds. He told her he had borrowed it to 
 
 Laurence looked at her as though she had slapped him, and then he laughed — a short, startled sound — and said, "You're right. That's worse."
 
-I withdrew from the corridor. I had heard enough. Or rather, I had heard the thing I needed to hear: that Laurence's guilt was real, specific, and unrelated to a dead solicitor in a locked room. His letter had worked exactly as Mr. Edmund designed it to work, finding the fracture that was already there and pressing on it until it opened.
+I withdrew from the corridor. I had heard enough. Laurence's guilt was real, specific, and unrelated to a dead solicitor in a locked room. His letter had worked exactly as Mr. Edmund designed it to work, finding the fracture that was already there and pressing on it until it opened.
 
-The others carried their letters differently. Sibyl became efficient and slightly manic, proposing plans — they should search the house systematically, room by room; they should inventory Mr. Edmund's papers; they should draft a joint statement for the police. She was a woman who managed fear by managing logistics, and the house gave her plenty to manage. Harriet went quiet. She spent the evening in the kitchen, sitting at the table with a cup of tea she did not drink, and when I came in to wash up she said, without looking at me, "Did Edmund suffer much at the end?"
+The others carried their letters differently. Sibyl became efficient and slightly manic, proposing plans — they should search the house systematically, room by room; they should inventory Mr. Edmund's papers; they should draft a joint statement for the police. She was a woman who managed fear by managing logistics. Harriet went quiet. She spent the evening in the kitchen, sitting at the table with a cup of tea she did not drink, and when I came in to wash up she said, without looking at me, "Did Edmund suffer much at the end?"
 
 I told her no. I told her Mr. Edmund had been comfortable.
 
@@ -188,7 +188,7 @@ I told her no. I told her Mr. Edmund had been comfortable.
 
 "Was it?" She looked at me then, and her eyes were the eyes of a woman who has been asking herself this question for three weeks and has not found an answer she can live with. "Or was it the other thing?"
 
-I did not answer her. I did not know the answer, and I am not the sort of person who offers comfort where certainty is absent. I wiped down the Aga and hung the cloth on the rail and left her sitting there with her cold tea and her question, and I thought about the letters and how cleverly Mr. Edmund had built them — five identical sentences aimed at five different wounds, each one finding its mark not through precision but through the guilty conscience of the reader.
+I did not answer her. I wiped down the Aga and hung the cloth on the rail and left her sitting there with her cold tea and her question.
 
 ---
 
@@ -226,7 +226,7 @@ I poured water into the teapot. The steam rose between us.
 
 "Mrs. Jory. Is there a passage in that wall?"
 
-I could have lied. Thirty-one years of service teaches you that truth is not always the most responsible building material. But Nessa had measured, and she was right, and the house had given her the answer before I decided whether to withhold it. The draft from the fireplace. The scratch marks on the floor. The wall that was eighteen inches too thick. Trewarren had been confessing since the moment Mr. Goss died. I was the only one still keeping its secret, and the house had grown tired of my loyalty.
+I could have lied. Thirty-one years of service teaches you that truth is not always the most responsible building material. But Nessa had measured, and she was right, and the house had given her the answer before I decided whether to withhold it. The draft from the fireplace. The scratch marks on the floor. The wall that was eighteen inches too thick. Trewarren had been confessing since the moment Mr. Goss died. I was the only one still keeping its secret.
 
 "Mr. Edmund showed me that passage thirty years ago. He made me promise never to tell anyone. I kept my promise."
 
@@ -248,11 +248,11 @@ The linen room smelled of lavender sachets and cotton stored too long in still a
 
 The hinges were silent.
 
-After thirty years without use they should have seized, should have screamed when the wood moved. They swung smoothly, freshly oiled. Someone had prepared this passage for use — recently, carefully, with the quiet foresight of a person who did not want the house to announce what was happening inside its walls.
+After thirty years without use they should have seized, should have screamed when the wood moved. They swung smoothly, freshly oiled. Someone had prepared this passage for use — recently, carefully, with the foresight of a person who did not want the house to announce what was happening inside its walls.
 
 The passage was narrow and cold, lined with Tudor brick that sweated in the November damp. Stone steps descended steeply through the interior of the east wall, turning once where the chimney breast forced a jog in the route. I went first. It was my house and my secret and my passage, and the violation of it was mine to witness before anyone else. The brick was close on both sides — you had to turn your shoulders to fit — and the air was centuries old, undisturbed, tasting of mineral and darkness. Nessa followed, one hand on the damp wall, her breathing controlled the way a diver's breathing is controlled, conscious and counted.
 
-At the bottom, the passage ended at a section of brick that hinged outward into the cavity behind the study fireplace. Through the gaps in the old mortar, you could see the study — Mr. Edmund's desk, the chair, the body of Mr. Goss still sitting in the posture we had found him in, hands flat, chin down. Patient. Waiting. As if he had known someone was on the other side of the wall.
+At the bottom, the passage ended at a section of brick that hinged outward into the cavity behind the study fireplace. Through the gaps in the old mortar, you could see the study — Mr. Edmund's desk, the chair, the body of Mr. Goss still sitting in the posture we had found him in, hands flat, chin down.
 
 Wedged behind a loose stone two feet inside the passage, at the point where the steps began to level, was a folded document. Cream paper, covered on both sides in Mr. Edmund's careful handwriting, dated the twenty-first of September — three weeks before his death.
 
@@ -260,7 +260,7 @@ A will. Holographic — entirely in his hand, unwitnessed, never filed with any 
 
 To me.
 
-Nessa read it aloud. Her voice was as level as a surveyor's line drawn across a damaged wall. I stood in the passage with the cold brick at my back and the dead air in my lungs and I heard the words come to me from very far away, as if the will were a sound the house had been making all along, beneath the sea and the wind and the thirty-one years of my own footsteps on its stone floors, and I had simply never been quiet enough to hear it.
+Nessa read it aloud. Her voice was as level as a surveyor's line drawn across a damaged wall. I stood in the passage with the cold brick at my back and the dead air in my lungs and I heard the words come to me from very far away, as if the will were a sound the house had been making all along, beneath the sea and the wind and thirty-one years of my own footsteps on its stone floors, and I had simply never been quiet enough to hear it.
 
 ---
 
@@ -272,13 +272,13 @@ The passage. The oiled hinges. The holographic will hidden in the wall. The note
 
 Six visits in the final year. A bedroom at the end of the east corridor, steps from the linen room. An actuary's professional instinct for numbers that do not agree — the same instinct that would notice an eighteen-inch discrepancy in wall depth. Access to Mr. Edmund's bedside table, where a draft of the holographic will had been kept. And motive: the holographic will disinherited every heir. If Mr. Goss — the only person besides Mr. Edmund who knew the second will existed — were eliminated, and the will hidden, the original five-way split would hold.
 
-Douglas sat in Mr. Edmund's chair by the window and did not interrupt. He listened to the evidence the way he did everything — with the careful attention of a man who is always computing, always adjusting the model, always running the numbers one more time to confirm what he already knows. He had entered through the linen room panel. He had descended the passage. He had reached the fireplace cavity while Mr. Goss sat at the desk on the other side of the stone wall, the study door locked from within by Mr. Goss's own habitual hand. The tray I had left outside the study door at four o'clock — left there when Mr. Goss did not answer my knock, left unattended while I walked to the drawing room to fetch Nessa — had been unguarded for four minutes. Douglas did not need four minutes. He needed half a minute and a quantity of potassium chloride — obtainable by a man whose actuarial work with agricultural estates gave him access to veterinary supplies, and which, in sufficient concentration, arrested a heart without leaving the residue a rural post-mortem would detect.
+Douglas sat in Mr. Edmund's chair by the window and did not interrupt. He listened to the evidence the way he did everything — with the careful attention of a man who is always computing, always adjusting the model. He had entered through the linen room panel. He had descended the passage. He had reached the fireplace cavity while Mr. Goss sat at the desk on the other side of the stone wall, the study door locked from within by Mr. Goss's own habitual hand. The tray I had left outside the study door at four o'clock — left there when Mr. Goss did not answer my knock, left unattended while I walked to the drawing room to fetch Nessa — had been unguarded for four minutes. Douglas did not need four minutes.
 
 The room was sealed because its occupant sealed it. The door was locked because Mr. Goss locked it. The window was bolted because Mr. Goss bolted it. The key was on the inside because that is where Mr. Goss placed it. There had been no impossible entry through any visible opening. There was only the passage, and the secret it carried, and the two people in the house who possessed that secret: Douglas, who had found it during his visits, and me, who had kept it for thirty years.
 
-Nessa finished speaking. The drawing room was quiet in the particular way a room goes quiet after a load-bearing wall is removed — the structure still standing but everyone suddenly conscious of the physics that have changed.
+Nessa finished speaking. The drawing room went quiet the way a room goes quiet after a load-bearing wall is removed — the structure still standing but everyone suddenly conscious of the physics.
 
-Douglas looked at me. Not at Nessa, not at Laurence or Sibyl or Harriet. At me. His face had the expression of a man who has watched a column of numbers fail to balance and knows that recalculating will not change the sum.
+Douglas looked at me. Not at Nessa, not at Laurence or Sibyl or Harriet. At me.
 
 "You knew," he said.
 
@@ -298,20 +298,14 @@ Laurence, very quietly: "He left everything to you?"
 
 "No."
 
-Sibyl stood up and sat down again, as if her body had tried to leave the room and her mind had countermanded the order. Harriet placed her hand on Sibyl's arm — the automatic gesture of a nurse, comfort dispensed before thought has time to intervene. Douglas had not moved from Mr. Edmund's chair. He was looking at the holographic will on the table, the cream paper, the upright handwriting that matched every letter and instruction Mr. Edmund had produced in sixty-eight years of careful, governed, deliberate life. He did not deny what Nessa had laid before him. He did not offer an alternative explanation or a defence or even the actuary's instinct for challenging assumptions. He sat in the chair and he looked at the will and he was silent, and his silence was the loudest thing I had heard in thirty-one years of listening to this house.
+Sibyl stood up and sat down again, as if her body had tried to leave the room and her mind had countermanded the order. Harriet placed her hand on Sibyl's arm — the automatic gesture of a nurse, comfort dispensed before thought has time to intervene. Douglas had not moved from Mr. Edmund's chair. He was looking at the holographic will on the table, the cream paper, the upright handwriting that matched every letter and instruction Mr. Edmund had produced in sixty-eight years of careful, governed, deliberate life. He did not deny what Nessa had laid before him. He did not offer an alternative explanation or a defence. He sat in the chair and he looked at the will and he was silent, and his silence was the loudest thing I had heard in thirty-one years of listening to this house.
 
 Nessa folded the will and placed it back on the table. "The police will need this," she said. "And the passage. And the room as it is. Nothing should be moved."
 
 "Nothing has been moved," I said. "Nothing in this house has been moved since Mr. Edmund died."
 
-I meant the furniture and the papers and the objects on the shelves, but I also meant something else, and Nessa heard it. She looked at me the way she had looked at the cracked lintel on the day she arrived — with the understanding that some damage is structural and cannot be repaired, only acknowledged.
-
 Was it love? He could have told me. He could have sat me down in this room and said, Alma, I am leaving you the house, and I would have argued, and he would have insisted, and we would have arrived at something that passed for understanding between two people who had shared a building for thirty years without once eating at the same table. Instead he hid the will in a wall. He told his solicitor. He wrote five letters designed to shake loose every guilt his heirs carried, the way you shake a winter coat to find what has settled in the pockets. He built an apparatus of concealment and accusation that guaranteed his death would function not as an ending but as a device — a last exercise of the intelligence that had governed his life and everyone who lived within the reach of it.
 
-Or it was the only honest thing he ever did. Perhaps in those last weeks, when the morphine softened everything and the sea outside his window sounded like something he could almost understand, he wrote down a simple truth he had spent sixty-eight years withholding: that the house belonged to the person who kept it.
-
-I did not say any of this. I told Laurence where the candles were, because the power was still out and the morning was dim. I told Harriet there were blankets in the airing cupboard. I told Sibyl that the causeway would be passable by afternoon and she could telephone the police from the village. I told Nessa the study door needed a new lock plate where the frame had split. She said she knew.
+I did not say any of this. I told Laurence where the candles were, because the power was still out and the morning was dim. I told Harriet there were blankets in the airing cupboard. I told Sibyl that the causeway would be passable by afternoon and she could telephone the police from the village.
 
 I closed the study door. I checked the window bolts. I walked down the corridor toward the kitchen, and the house settled around me the way it does when weather changes — the creak of roof timbers adjusting, the tick of stone releasing the night's cold, the draft from the east wall that I had spent thirty-one years calling the house breathing and that was, I understood now, the passage. Open. Exhaling four centuries of darkness into rooms I had kept clean and warm and ready for a man who was never coming back.
-
-The sea was loud against the headland. It is always loud at Trewarren. You stop hearing it after the first year, the way you stop hearing your own pulse. Then something changes — a death, a storm, a will pulled from a wall — and you hear it again. And you understand that the house was never quiet. You had only stopped listening.
