@@ -10,8 +10,8 @@ workY: "Amusing Ourselves to Death"
 wordCount: 5352
 readingTimeMinutes: 21
 tags: ["AI-content", "libraries", "reading-groups", "near-future", "genre-subversion", "loneliness", "cultural-shift"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: "Vonnegut's deadpan tenderness meets Didion's scalpel observation in a genre-subverting dystopia where the AI content is good, structured around Fahrenheit 451's reading-aloud warmth and Postman's argument that entertainment defeats truth"

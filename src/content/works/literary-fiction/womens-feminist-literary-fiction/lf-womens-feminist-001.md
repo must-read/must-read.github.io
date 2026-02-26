@@ -10,8 +10,8 @@ workY: "Americanah"
 wordCount: 6695
 readingTimeMinutes: 27
 tags: ["immigration", "identity", "domestic-life", "stream-of-consciousness", "cultural-negotiation", "hair-politics"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: "Woolf's stream-of-consciousness interiority meets Adichie's sharp cultural observation in a single-afternoon story structured like Mrs Dalloway, exploring the immigrant name and body politics of Americanah"

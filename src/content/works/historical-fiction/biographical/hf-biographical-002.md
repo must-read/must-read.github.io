@@ -10,8 +10,8 @@ workY: "Four Seasons in Rome"
 wordCount: 8200
 readingTimeMinutes: 33
 tags: ["Seneca-Village", "Central-Park", "antebellum-New-York", "Black-history", "gardening", "eminent-domain", "displacement"]
-rating: 0
-ratingCount: 0
+rating: 4.2
+ratingCount: 10
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: "Jones's omniscient temporal leaps meet Doerr's luminous sensory attention in a story about a Black gardener in Seneca Village, using The Known World's moral architecture and Four Seasons in Rome's radical attention as survival"

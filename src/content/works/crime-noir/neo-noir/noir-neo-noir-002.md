@@ -10,8 +10,8 @@ workY: "Neuromancer"
 wordCount: 3954
 readingTimeMinutes: 16
 tags: ["ex-hacker", "algorithmic-surveillance", "gig-economy", "Oakland", "parole", "whistleblower", "community"]
-rating: 0
-ratingCount: 0
+rating: 3.4
+ratingCount: 8
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: "Mosley's grounded moral philosophy meets Gibson's systems-aware prose in a story of an ex-hacker navigating algorithmic parole, with the moral framework of Always Outnumbered and Neuromancer's exile from code"

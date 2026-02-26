@@ -10,8 +10,8 @@ workY: "Gilead"
 wordCount: 4951
 readingTimeMinutes: 20
 tags: ["climate-change", "water-scarcity", "dual-timeline", "epistolary", "Great-Lakes", "mother-daughter", "environmental-science"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 8
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: "Bacigalupi's visceral environmental prose meets Robinson's luminous epistolary grace in a dual-timeline story structured like The Water Knife's water-rights world, with Gilead's letter-to-a-child form"
