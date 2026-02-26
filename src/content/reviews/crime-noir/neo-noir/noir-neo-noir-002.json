@@ -1,0 +1,61 @@
+{
+  "workSlug": "noir-neo-noir-002",
+  "reviews": [
+    {
+      "personaId": "noir-001-desiree",
+      "rating": 4,
+      "text": "Oh, this one got me. Everett eating cold chicken at Audrey's table while the app grades his social interactions? That's noir in 2026 right there. The voice carries it -- short declarative sentences, the physical details of the apartment, the radiator ticking its program. I could smell that hallway. And Audrey telling him to eat his food when he starts shaking over the napkin diagram -- that woman is doing the Lord's work and she doesn't even know it. The flash drive sitting in the coffee mug like a word you're trying not to say. Yes. That's the stuff.",
+      "date": "2026-01-18",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-002-takeshi",
+      "rating": 3,
+      "text": "An interesting formal exercise in sustained deferral -- the narrative withholds its crime entirely, offering instead a meditation on the aftermath of moral action within opaque systems. The story's strongest visual sequences occur in the 4 AM Oakland passages, particularly the delivery pods with 'the attention of animals drinking from a river,' which achieves genuine neo-noir framing. However, the piece is structurally inert. Nothing happens that redirects the protagonist's trajectory. The flash drive appears, and the story simply... ends around it. The Arp 187 passage overexplains a metaphor the title already carries. For a story about algorithmic illegibility, the prose is sometimes too legible about its own themes.",
+      "date": "2025-10-04",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-003-beth",
+      "rating": 3,
+      "text": "The surveillance technology felt researched rather than invented. ParolePath logging response times to the millisecond, the OBD port linked to driver verification, the compliance score adjusting by increments too small to display -- that's how these systems actually work. The Solan breach backstory is plausible: the leaked data causing more harm than the crime it exposed is exactly the kind of collateral damage I saw in my career. Where I stall out is the lack of forward motion. The flash drive arrives and then the story just sits with it. I kept waiting for Everett to do something -- anything -- and instead he draws boxes on a napkin. Fine character work, but as a crime story it never quite becomes one.",
+      "date": "2025-12-07",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-005-vince",
+      "rating": 4,
+      "text": "The sentence craft here is exceptional. 'He looked at himself in the mirror only long enough to confirm that his face was still his face.' That is a line doing three things at once -- establishing routine, suggesting dissociation, compressing years of incarceration into a glance -- and it does them without strain. The metaphors earn their weight: the management LLC as an absent god, the check-engine light from a previous administration, the flash drive exerting gravity from inside a coffee mug. A few passages overextend -- the Arp 187 digression is the weakest section, explanatory where the rest trusts implication. But the Audrey kitchen scenes are nearly flawless. 'Eat your food' lands harder than any gunshot in lesser noir.",
+      "date": "2026-02-11",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-006-janet",
+      "rating": 4,
+      "text": "Read this in one sitting and then sat with it for a while. It's slow -- almost nothing happens in terms of plot -- but the tension is in every detail. Everett recognizing the router's blink rate the way a musician recognizes a note? His hands starting to shake? I was holding my breath on that porch. The Audrey scenes are warm without being sentimental, which is hard to pull off. And the ending just leaving him there with the chili and the unanswered question of the flash drive -- no resolution, no neat decision -- felt honest. Not every noir needs a body.",
+      "date": "2025-09-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-007-graham",
+      "rating": 3,
+      "text": "A carefully rendered piece that trusts atmosphere over incident, which I respect even as I note the risk it takes. The Oakland setting is superbly built -- the taco truck generators running through the night, the autonomous pods in the bike lane, the Puerto Rican flag rained into a painting of itself. These details accumulate into genuine sense of place. The Audrey sequences provide the story's emotional anchor without tipping into warmth, and the napkin scene -- Everett drawing an object model of a world that no longer exists -- is quietly devastating. My reservation is that the story rather admires its own restraint. The non-ending is defensible but feels less like ambiguity than avoidance. One suspects the author couldn't decide what Everett would do and dressed the indecision in literary clothes.",
+      "date": "2026-02-01",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-008-carolina",
+      "rating": 3,
+      "text": "The story maps algorithmic surveillance onto the noir tradition's paranoid architecture with precision. ParolePath functions as the invisible antagonist -- omnipresent, scoring, grading even the act of eating with a neighbor. What interests me most is the power geometry: Everett occupies the position traditionally held by noir's femme fatale -- the one who knows the system's weakness but whose knowledge is itself a trap. Nailah, the absent betrayer, inverts the trope further. She turned state's evidence and disappeared into faculty life while he serves penance through compliance scores. My difficulty is that Audrey, the story's most vivid character, exists primarily as nurturer and witness. She cooks, she watches, she says 'eat your food.' She deserves more than the role of moral anchor in someone else's crisis.",
+      "date": "2025-11-15",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-009-dale",
+      "rating": 2,
+      "text": "Man drives somewhere, delivers a box, eats some chicken, draws on a napkin, eats some chili. That's it. That's the whole story. There's a flash drive that might mean something but we never find out what. Look, the writing's fine -- some of the descriptions are sharp and I liked the bit about the elevator repair 'still being calculated.' But I need something to actually happen. The backstory about the data breach is more interesting than anything in the present tense. I kept waiting for the other shoe to drop and instead he just sat there eating Audrey's chili. Not for me.",
+      "date": "2026-01-03",
+      "helpfulCount": 0
+    }
+  ]
+}
