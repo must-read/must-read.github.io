@@ -1,287 +1,222 @@
-# Story Plan: pf-existentialist-001
+# Story Plan: fan-grimdark-001
 
-**Genre**: philosophical-fiction
-**Subgenre**: existentialist
-**Combination ID**: pf-existentialist-001
-**Target Word Count**: 5,400 (range: 5,100–5,700)
-**Risk Card**: NON-LINEAR TIME (mandatory)
-
----
-
-## Writing Samples
-
-### Albert Camus — The Fall
-
-**Style keynotes**: Confessional monologue addressed to a silent interlocutor. Lucid, controlled, ironic. Sentences that perform their own self-awareness. The speaker seduces the listener into complicity before revealing the trap. The judge-penitent who accuses himself so precisely that no one else can.
-
-Key passages and quotes (The Fall, trans. Justin O'Brien):
-
-> "I shall tell you a great secret, my friend. Do not wait for the last judgment. It takes place every day."
-
-> "You know what charm is: a way of getting the answer 'yes' without having asked any clear question."
-
-> "Truth, like light, blinds. Falsehood, on the contrary, is a beautiful twilight that enhances every object."
-
-> "A single sentence will suffice for modern man: he fornicated and read the papers."
-
-> "God is not needed to create guilt or to punish. Our fellow men suffice, aided by ourselves."
-
-> "Too many people climb onto the cross merely to be seen from a greater distance."
-
-> "Thus I progressed on the surface of life, in the realm of words as it were, never in reality..."
-
-> "The more I accuse myself, the more I have a right to judge you. Even better, I provoke you into judging yourself, and this relieves me of that much of the burden."
-
-> "In order to cease being a doubtful case, one has to cease being, that's all."
-
-> "I was still listening as I stood motionless. Then, slowly, in the rain I went away. I told no one."
-
-> "An empty prophet for shabby times, Elijah without a messiah, stuffed with fever and alcohol, my back up against this mouldy door."
-
-Clamence's structural architecture: the Amsterdam bar as purgatory, the concentric canals as Dante's circles, the laughter that "burst out behind me" and "came from nowhere unless from the water." The pivotal bridge scene — walking along the Pont Royal, hearing a splash, not turning back, and spending the rest of his life confessing about the not-turning-back. The prose seduces: elegant, conspiratorial, drawing the listener close before springing the trap. Every paragraph implicates the reader.
-
-### Clarice Lispector — The Passion According to G.H.
-
-**Style keynotes**: Interior monologue straining toward what language cannot hold. Repetition as incantation. The sentence as spiritual practice. Radical attention to sensation. The body knowing what the mind refuses. Language pushed to its breaking point.
-
-Key passages and quotes (The Passion According to G.H., trans. Idra Novey / Ronald W. Sousa):
-
-> "I'm so frightened that I shall be able to accept the notion that I have lost myself only if I imagine that someone is holding my hand."
-
-> "The world's continual breathing is what we hear and call silence."
-
-> "And I want to be held down. I don't know what to do with the horrifying freedom that can destroy me."
-
-> "'I' is merely one of the world's instantaneous spasms."
-
-> "I don't want beauty, I want identity."
-
-> "The mystery of human destiny is that we are fated, but that we have the freedom to fulfill or not fulfill our fate."
-
-> "Each moment of finding is a getting lost."
-
-> "The explanation of an enigma is the repetition of the enigma."
-
-> "I too, who was slowly reducing myself to whatever in me was irreducible, I too had thousands of blinking cilia."
-
-> "I had reached the nothing, and the nothing was living and moist."
-
-> "Life precedes love, bodily matter precedes the body, and one day in its turn language shall have preceded possession of silence."
-
-> "I'd looked at the living roach and was discovering inside it the identity of my deepest life."
-
-> "What I have always found repulsive in cockroaches is that they were obsolete yet still here."
-
-> "Would its eyes be salty? If I touched them — since I was gradually getting more and more unclean — if I touched them with my mouth, would they taste salty?"
-
-> "If I confirm my self and consider myself truthful, I'll be lost because I won't know where to inlay my new way of being."
-
-G.H. encounters a cockroach crushed in a wardrobe door and descends through disgust into identification, through identification into dissolution. The self unmade by radical attention to the non-human. The prose enacts this: sentences repeat, fragment, reconstitute, dissolve again. Language pushed to its breaking point to gesture at what lies beyond it.
-
-### Clarice Lispector — Near to the Wild Heart (additional style reference)
-
-> "I feel myself to be dispersed in the atmosphere, thinking inside other creatures, living inside things beyond myself. When I haven't looked at myself for some time, I almost forget that I am human, I tend to forget my past, and I find myself with the same deliverance from purpose and conscience as something that is barely alive. I am also surprised to find as I gaze into the pale mirror with open eyes that there is so much in me beyond what is known, so much that remains ever silent."
+**Genre**: Fantasy
+**Subgenre**: Grimdark
+**Combination ID**: fan-grimdark-001
+**Target Word Count**: 6,800 words (range: 6,500-7,100)
+**Risk Card**: None
 
 ---
 
-## Wikipedia Random Concepts
+## Research Notes
 
-### All 20 Articles:
+### Writing Samples
 
-1. **1972 North Carolina gubernatorial election** — U.S. state election won by Jim Holshouser
-2. **Chrismukkah** — Portmanteau holiday blending Christmas and Hanukkah, popularized by TV show The O.C.
-3. **End of Love (album)** — Music album by Cass McCombs
-4. **Mohamed Ben Ghalbon** — Libyan-British writer and poet
-5. **Wargrave & Shiplake Regatta** — Second-largest Thames rowing regatta after Henley, founded 1867
-6. **North Pomfret, Vermont** — Small New England village in the town of Pomfret
-7. **Emergent materialism** — Philosophy of mind: mental properties emerge irreducibly from complex material systems; consciousness arises from matter but is not reducible to it
-8. **Reader's Digest Condensed Books** — 47-year series (1950–1997) that abridged novels into shorter, "essential" versions for mass distribution
-9. **Lashkari Raisani** — Pakistani political figure from Balochistan
-10. **National Capital Memorial Advisory Commission** — U.S. federal commission overseeing memorials in Washington, D.C.
-11. **1950 Macdonald Brier** — Canadian curling championship held in Vancouver
-12. **List of minor planets: 605001–606000** — Catalog of numbered asteroids in the solar system
-13. **Vaillant (surname)** — French surname meaning "brave" or "valiant"
-14. **Christopher Adolf** — German ice hockey player
-15. **Gamosa** — Traditional Assamese white cloth with red borders, presented in ceremonies; the name means "body-wipe"
-16. **Burn Collector** — DIY punk zine by Al Burian, mixing philosophical musings with personal anecdote
-17. **Ectolopha** — Genus of moths in the family Noctuidae
-18. **Taiawhio Tikawenga Te Tau** — Maori historical figure from Ngati Porou
-19. **Stone House (Diamond Hill)** — Grade III historic building in Kowloon, Hong Kong; sole remnant of demolished Tai Hom squatter village
-20. **Jose Molla** — Spanish painter from Javea, Alicante
+#### Sample 1 — Joe Abercrombie (Author A)
+**Source**: *The Blade Itself*, Glokta chapters and Logen Ninefingers opening
+**Why representative**: Demonstrates Abercrombie's two modes — Logen's terse, monosyllabic action prose and Glokta's sardonic, erudite internal monologue during violence.
 
-### Two Selections for Story Fusion:
+Abercrombie changes sentence structure per character. When writing barbarians, sentences are short, blunt, monosyllabic. When writing Glokta the torturer, sentences lengthen, sarcasm and erudition seep into every description. Key recurring phrases establish character psychology through repetition: Glokta's "Body found floating by the docks..." (a gallows litany), "Why do I do this?" (existential question rendered as dark comedy through repetition), and Logen's "Say one thing for Logen Ninefingers, say he's a survivor" (homespun self-narration that puts the barbaric in first person).
 
-**Selection 1: Reader's Digest Condensed Books (#8)**
+From the Goodreads quotes database:
+- "Once you've got a task to do, it's better to do it than live with the fear of it." — Logen Ninefingers
+- "You were a hero round these parts. That's what they call you when you kill so many people the word murderer falls short."
+- "Proof is boring. Proof is tiresome. Proof is an irrelevance. People would far rather be handed an easy lie than search for a difficult truth, especially if it suits their own purposes." — Glokta
 
-The concept of the condensed book — a novel abridged by editors into something shorter, more palatable, with the "unnecessary" parts removed. This becomes the central metaphor and the protagonist's occupational reality. Solene Dauer spent her career producing condensed editions of literary works for institutional distribution. Her professional life was one of strategic omission: cutting what she judged inessential. The confession is structured around the realization that she has been condensing her own life by the same method — removing the parts she judged unacceptable, presenting an abridged version of herself to the world. The "full text" of who she was is lost. There was no original underneath the abridgment. The condensation is the fall.
+**Note for writer**: Feld's voice in the first half should carry Glokta's register — sardonic internal commentary during scenes of professional violence. The humor is the proof of life. The specificity matters: blisters, bad boots, the technical vocabulary of siege engineering applied to human suffering. When Feld rates enemy fortifications the way a restaurant critic rates a meal, that is pure Abercrombie.
 
-This concept integrates deeply with The Fall's judge-penitent structure (confession as performance of editorial control) and The Passion According to G.H.'s dissolution of identity (the self as artifact that unravels when the substrate is examined). The act of condensing — choosing what to keep, what to discard — is the protagonist's specific, professional, habitual form of bad faith.
+#### Sample 2 — Cormac McCarthy (Author B)
+**Source**: *Blood Meridian, or The Evening Redness in the West* (1985)
+**Why representative**: Biblical, spare prose treating violence as liturgy. No quotation marks. Minimal punctuation. Landscape as moral void.
 
-**Selection 2: Emergent materialism (#7)**
+Opening: "See the child. He is pale and thin, he wears a thin and ragged linen shirt. He stokes the scullery fire. Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves. His folk are known for hewers of wood and drawers of water but in truth his father has been a schoolmaster. He lies in drink, he quotes from poets whose names are now lost. The boy crouches by the fire and watches him."
 
-The philosophical concept that mental properties emerge irreducibly from complex material systems — that consciousness arises from matter but cannot be reduced to it. This provides the intellectual substrate for the dissolution. As Solene's sense of self fractures, the story engages the question: if the self is an emergent property of the narratives she constructed about herself, what happens when those narratives break? Does the self that emerged from sentences dissolve when the sentences fragment? Not mysticism but materialist terror: the self as an artifact of its own narration, with no substrate underneath. If there is no Platonic "real Solene" behind the abridgments, if the abridgments are all there ever was, then dissolution is not a loss of something — it is the revelation that there was nothing to lose.
+Judge Holden's philosophy of war:
+- "War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner."
+- "It makes no difference what men think of war. War endures."
+- "Whatever in creation exists without my knowledge exists without my consent."
+- "War is the ultimate game because war is at last a forcing of the unity of existence. War is god."
+- "He never sleeps, the judge. He is dancing, dancing. He says that he will never die."
 
-This integrates with Lispector's epistemological nausea (the body knowing what the mind refuses to organize) and Camus's moral clarity (seeing oneself clearly and the clarity being unbearable).
+The closing sentence of Blood Meridian is a famous refrain rendered as incantation — the inhuman given liturgical permanence.
 
----
+**Note for writer**: After Devin's death, the prose should strip to McCarthy's register: simple declarative sentences, no interior monologue, landscape dominating, violence described with the same dispassion as weather. The cumulative rhythm — short sentences accruing biblical weight through repetition and polysyndeton. No quotation marks in the McCarthy-register sections.
 
-## 1. Premise
+#### Sample 3 — *The Blade Itself* (Work X)
+**Structural DNA**: Bayaz sends the protagonists on a classic fantasy quest that turns out to be political theater. The heroes are pawns. The quest narrative is the deception. Glokta is a torturer the reader roots for because his internal monologue makes complicity legible — even entertaining. The subversion of the quest: understanding the trap does not spring it.
 
-A woman who spent her career condensing other people's books — producing abridged editions for institutional libraries — sits across from a former colleague she wronged fifteen years ago and attempts to confess. The confession begins as a lucid, controlled monologue in the manner of a judge-penitent, but it loses its temporal coherence as the speaker discovers that the self doing the confessing is itself an abridgment — a condensed version that omitted everything essential, and the omitted passages cannot be recovered because they were never written.
+**Note for writer**: Feld discovers the campaign is political theater — the rebellion is pretext, the army exists to deliver a reliquary to a furnace for political-religious legitimization. This mirrors the Bayaz reveal. But crucially, knowing the machinery does not free Feld from it. Understanding is not power. It is not even comfort.
 
-The silence of the listener becomes a substance in the room. The narrator's language — once immaculate — fractures along with her grip on chronological sequence, until the pronouns themselves slide between addressee, self, and the absent original text of a life she can no longer reconstruct.
+#### Sample 4 — *Blood Meridian* (Work Y)
+**Thematic DNA**: Violence as cosmic principle rather than moral failure. The judge as embodiment of war's eternal nature — unhuman, unsleeping, dancing. The journey across the desert that strips the kid (and the reader) of every civilized pretension until what remains is bare process: men killing, landscape enduring, the universe indifferent.
+
+**Note for writer**: The furnace at Kelmath is the judge's philosophy made physical. War as appetite, self-justifying, requiring no purpose beyond its own continuation. The furnace was warm when they arrived. Someone has always been tending it. It predates every human structure around it.
 
 ---
 
-## 2. Protagonist
+### Wikipedia Concepts Selected for Fusion (2 of 20)
 
-**Name**: Solene Dauer
-**Age**: 52
-**Situation**: Recently retired from a career at a European cultural foundation that produced condensed translations of literary works for distribution to institutional libraries. She has requested this meeting — a dinner at a restaurant neither of them chose — with Yvette Laval, a former colleague and friend she betrayed professionally fifteen years ago by taking credit for a translation project and allowing Yvette to be dismissed.
+**1. Corpse Roads (Lych Ways)**
+Medieval paths designated for transporting the dead from remote settlements to parish churches with burial rights. Just wide enough for pallbearers to walk in pairs. Coffin stones placed at intervals for resting the body. Folklore held that carrying the dead over running water prevented ghosts from returning. "Corpse candles" — phantom lights seen traveling close to the ground along these paths. The dead were believed to travel in straight lines; any deviation risked the spirit escaping. The tight, enclosed nature of these paths was thought to prevent the deceased's spirit from wandering.
 
-**Want**: To confess the betrayal and be forgiven. To "complete" the account, the way one closes a file. To produce the definitive edition of what happened.
+**Integration**: The army marches along an ancient corpse road — a route designated for the dead, not the living. The coffin stones become waypoints in the narrative. The corpse candles become real phenomena in the world: faint lights that follow the column at dusk, marking the army's passage with the dead it accumulates. The road's folklore becomes literal — the army is carrying the dead (the reliquary of bones) along a prescribed path, and deviation is not permitted. The path is just wide enough for the column, which means the army cannot spread out, cannot maneuver, cannot be anything other than a procession.
 
-**Need**: To confront the fact that confession cannot restore what was lost, and that the self she is confessing from is itself incomplete — an abridged edition of a person who may never have existed in unabridged form.
+**2. Cupellation**
+Ancient metallurgical process for refining precious metals from base metals through extreme heat. Ore is heated in a porous bone-ash cup (the cupel) until impurities oxidize and are absorbed, leaving only the pure metal behind. Used since the Bronze Age to extract silver from lead. The process destroys everything that is not the thing you want. What remains is either precious or nothing.
 
-**Flaw**: Solene has spent her life editing. Other people's texts, her own biography, her memories. She cannot stop condensing. Even her confession is an act of editorial control: she selects which sins to present, in which order, shaped for maximum impact. She confesses the way she edits: by choosing what to cut. Her flaw is not dishonesty but curation — the belief that a well-edited version of the truth is still the truth, and that if she can just get the edits right, the text will hold.
-
----
-
-## 3. Structure
-
-The story is a monologue addressed to the silent Yvette. Non-linear time is not a device but a symptom: as Solene's editorial control degrades, her temporal sequencing degrades with it. The prose begins immaculate (Camus) and ends fractured (Lispector). The "you" of the address slides from stable to unstable as the self doing the addressing dissolves.
-
-### Beat 1 — OPENING: "The Abridged Version" (~1,000 words)
-
-Solene addresses Yvette directly in a restaurant. The prose is clean, controlled, lucid — almost too polished. She establishes the premise with Camus-like irony and self-awareness. She describes her career condensing books, frames it charmingly: the art of knowing what to keep. Time is linear. "You" is stable (clearly Yvette). She mentions the betrayal obliquely — "what happened in Lisbon" — but defers the full account, the way a skilled narrator withholds the climax.
-
-Embedded in the polish: hairline cracks. She corrects a date, then corrects the correction. She says "that winter" and then "or was it spring — no, winter, the radiator in the office was broken, I remember because you wore your coat at your desk." The corrections feel natural — conversational — but they are the first symptoms.
-
-### Beat 2 — INCITING DISRUPTION: "The Moth on the Page" (~1,200 words)
-
-Solene begins to describe the Lisbon incident — the translation project, the institutional politics, the credit she took. But as she narrates, a specific sensory memory intrudes: a moth that flew into the office lamp during the night she rewrote Yvette's work under her own name. She tried to push it away and it left a smear of powder on the manuscript page. Fine, dry, slightly oily — the residue of the wing on the typed text.
-
-This memory — tactile, involuntary, not relevant to the confession — disrupts the controlled narration. Time begins to slip. A sentence about the moth in Lisbon bleeds into a sentence about a different moth in her apartment last week, then back. The two moments overlap without transition. "You" begins to waver — is she talking to Yvette-in-the-restaurant or Yvette-in-the-Lisbon-office? The reader feels the first tremor of temporal instability.
-
-She attempts to return to the controlled confession. She partially succeeds. The cracks have been repaired but the reader knows they are there.
-
-### Beat 3 — ESCALATING MIDDLE: "Condensation as Method" (~1,600 words)
-
-Solene describes her editorial philosophy: the art of condensation. How she would take a 400-page novel and reduce it to 180 pages, deciding what was "essential." Her method: read it once as a reader, mark the passages that produced a physical response — tension in the shoulders, a held breath, the faint nausea of recognition — then build the abridgment from those marks alone. Everything between the marks was filler. The connecting tissue. Weather. Transit. The ordinary days.
-
-Mid-confession, she realizes she has been applying this method to her own past. She has kept the scenes that produced sensation and discarded the rest. There are passages of her life she condensed away: a week in her twenties she cannot account for. A friendship that ended without a sentence of dialogue she can retrieve. Her mother's death, which she narrates in six words and then attempts to expand and finds she cannot — the full passage has been cut, and the cut was so clean that the tissue on either side has healed together without a scar, and there is nothing to reopen.
-
-"I have kept the plot," she says to Yvette. "I have lost the weather."
-
-Non-linear time escalates. The confession now moves between: the restaurant tonight, Lisbon fifteen years ago, her early career at the foundation, her childhood, a morning three weeks ago when she woke and could not remember which city she was in. Paragraphs from different time periods interrupt each other mid-sentence. The reader can still track them, but the effort of tracking becomes part of the reading experience.
-
-The "you" fractures further. She addresses Yvette, catches herself addressing a version of herself at twenty-five, then seems to address the reader ("you understand, don't you — or am I flattering myself that someone is listening?").
-
-Yvette's silence thickens. Solene describes it: "You have not moved your hands. You have not lifted your glass. I am speaking into something that was a silence and is now — I don't have the word. Not a wall. Something softer. Something that absorbs what I say and gives nothing back, and I can feel the shape of what I have said inside it, the way you can feel the shape of a hand inside a glove after the hand has been withdrawn."
-
-### Beat 4 — CRISIS: "The Full Text Does Not Exist" (~1,000 words)
-
-Solene arrives at the core confession — not the Lisbon betrayal (that was the occasion, the presenting symptom) but something underneath it. The editorial method applied to herself has produced a person who is nothing but the abridgment. The "full text" — the unabridged Solene — does not exist. Was never written. She condensed herself before she was ever complete. Every version of herself she has offered to the world — to Yvette, to colleagues, to lovers, to the mirror — was an abridgment of an abridgment, and the original manuscript is not in a drawer somewhere, is not recoverable, was never drafted. The emergent self — the consciousness that arose from the pattern of her narration — has no substrate beneath it. It is an emergent property of sentences, and the sentences are failing.
-
-This realization produces something close to Lispector's nausea-as-epistemology: a bodily knowledge that the mind cannot organize. Solene describes the restaurant becoming too vivid — the grain of the tablecloth beneath her fingertips, the sound of ice shifting in a glass three tables away, the specific weight of the air between them, the moth-powder that she can still feel on the pad of her index finger though the moth was fifteen years ago and also last week. Radical attention to the material world as the constructed self dissolves.
-
-Time collapses fully. Past and present no longer alternate — they coexist in the same sentence. "You are sitting across from me and you are standing in the hallway in Lisbon and you are twenty-seven and you are the age you are now and the moth is on the page and the powder from its wing is on my finger and the waiter is asking if we want more water and I am saying yes to someone, I cannot determine which someone, and this is not a confession, this is what happens when you remove the editorial structure and the material underneath turns out to have no shape of its own."
-
-### Beat 5 — ENDING: "The Sentence That Does Not End" (~600 words)
-
-No resolution. No epiphany. The prose has degraded from Camus's lucidity into something approaching Lispector's late style: fractured, recursive, pushing at the edge of coherence without crossing into nonsense. Solene is still speaking. "You" is now truly unstable — it could be Yvette, Solene herself, the reader, or language itself addressing its own limits.
-
-The last paragraph is a single long sentence that does not complete. Not a fragment for stylistic effect — an actual sentence in progress, syntactically alive, grammatically committed to a destination it will not reach. The final word is followed by nothing. No period, no dash, no ellipsis. The text stops as though the page was torn, or as though the editor — the eternal editor — reached this point in the manuscript and the book ended mid-
-
-We never learn whether Yvette speaks. We never learn whether Yvette was there.
+**Integration**: The fortress at Kelmath was built around an ancient cupellation furnace. The furnace — and by extension the war campaign itself — is a refining process. The march strips away impurities: first the heroic narrative, then the political explanation, then humor, then identity, until what remains is either precious truth or nothing at all. The cupel (bone-ash cup) resonates with the reliquary of bones. The entire campaign is cupellation performed on men instead of metal.
 
 ---
 
-## 4. Key Scenes
+## Story Design
 
-- **The moth on the manuscript**: The involuntary sensory memory that first breaks the confession's controlled surface. Solene describing the powder from the moth's wing on Yvette's translation — the physical residue of one thing on another, of the non-human on the human text. The moth is not a symbol. It is a moth. Its wing-dust on typed pages is what the editorial method cannot assimilate — it has no meaning, it cannot be condensed, and it persists.
+### 1. Premise
 
-- **The condensation monologue**: Solene explains her professional method for deciding what is essential in a 400-page novel. She reads it once, marks the passages that produced a physical response, and builds the abridgment from those marks. Everything else is filler. The horror: she realizes she has applied this method to her own past. She has kept the plot and lost the weather — the connecting tissue between significant moments. Her life is a Reader's Digest Condensed Book and the unabridged edition was never published.
+A siege engineer named Feld marches with a punitive army along an ancient corpse road to deliver a sealed iron reliquary to a mountain fortress. The campaign's stated purpose is to crush a rebel lord who holds the northern passes. But the rebel lord is a fiction, the campaign is political theater, and the army — Feld included — is fuel for a refining process older than any of them understand. The march strips away first the heroic narrative, then the political explanation, then humor itself, until what remains of the protagonist is either something essential or nothing at all.
 
-- **The silence thickens**: Midway through, Solene stops confessing to describe Yvette's silence. Not as absence but as accumulation. Every sentence Solene speaks adds to the silence — fills it without breaking it. The silence has weight, texture, temperature. It absorbs. It is the non-human thing in the room that Solene's language cannot bend, the equivalent of G.H.'s cockroach: a mute substance that strips the human away by refusing to be human.
+### 2. Protagonist
 
-- **The temporal collapse**: The passage where past and present genuinely fuse. A sentence about tonight's restaurant, a clause about the Lisbon office, a subordinate phrase about Solene's childhood kitchen — all occupying the same grammatical space. Not flashback, not memory: contamination. The reader must hold multiple times simultaneously and feel the vertigo of the attempt. Non-linear time as symptom of pronoun fracture, exactly as the author meeting prescribed.
+**Name**: Feld Hauser
+**Age**: 41
+**Situation**: Master siege engineer in the army of the Compact — a loose federation of lowland city-states that pretends to be a republic. Feld builds trebuchets, siege towers, sapping tunnels, and occasionally the scaffolds used for public executions ("a structure's a structure"). He has survived four campaigns by being useful and staying behind the walls he's trying to knock down. His assistant is a young engineer named Devin who serves as the audience for his dark humor.
+**Want**: To complete this campaign, collect his contracted fee (already mentally spent on a brewery back in Cadmere), and retire from the business of making holes in other people's fortifications.
+**Need**: To acknowledge that his technical detachment — treating war as an engineering problem — is not neutrality but complicity, and that his humor about it is not distance but the noise a man makes so he doesn't hear what he's doing.
+**Flaw**: Feld believes he is not a participant in violence because he never holds a weapon during the killing. He builds the machine; other men operate it. This belief is not cynical — it is completely sincere, which makes it worse. He genuinely thinks of himself as a craftsman who happens to work in a violent industry, the way a carpenter might build gallows without feeling responsible for hangings.
 
-- **The sentence that does not end**: The final passage. A single sentence that continues past coherence, past grammatical stability, past the ability to determine who is speaking to whom about when — and stops without ending. Cut off. As though the page ran out. As though the condensing editor reached this sentence and the book ended mid-
+### 3. Structure
+
+**OPENING (~1,200 words)**
+
+The army has been on the corpse road for eleven days. Feld is examining a collapsed section of road where coffin stones have been upended and used as fortification rubble by some previous army. He's professionally interested — the stones are well-cut limestone, could be repurposed for counterweight cradles. His assistant Devin points out they're grave markers. Feld says something like "Dead men don't need good masonry. Living men do."
+
+We get Feld's internal voice at full strength: wry, technically precise, darkly amused by the gap between what things are supposed to mean and what they're actually useful for. He catalogs his physical complaints with the specificity of an inventory — a bad knee from the third campaign, a persistent cough from the lime dust he breathes mixing mortar, a blister on his left heel that's been with him so long he's named it (Bartholomew). He notes the sealed iron reliquary being carried at the center of the column by four soldiers who rotate every two hours and wonders, not for the first time, what's in it. The army's commander, a nobleman called Vassik, rides past without acknowledging the engineers. Feld makes a joke about it to Devin. Nobody laughs, but Devin almost smiles, which is enough.
+
+Introduce the corpse candles: faint lights that appear on the road behind the column at dusk. The soldiers are spooked. Feld says they're swamp gas. He doesn't believe this, but it's the kind of thing a rational man says when the alternative is admitting the road is haunted by the processions that came before.
+
+**INCITING DISRUPTION (~1,500 words)**
+
+The army reaches the first waypoint — a ruined chapel at a crossroads where the corpse road intersects a trade route. They've been told the rebel lord Braenich holds the passes ahead with three thousand men. Feld is ordered to assess the chapel's defensive potential and fortify it as a supply cache.
+
+While surveying, Feld finds that the chapel's foundations extend much deeper than they should — tunnels, old ones, following the line of the corpse road underground. In the tunnels he discovers that the road is far older than any map shows, and that the coffin stones mark something other than graves. The stones are scored with channels — drainage grooves of the kind used in metalworking. These are not burial markers. They are stations in an industrial process.
+
+He also overhears Vassik speaking with the army's political attaché, a woman named Sulette, about the reliquary. Their conversation makes clear that the campaign against Braenich is secondary — the real purpose is to deliver the reliquary to Kelmath, and the army exists to protect the delivery. The rebel lord is an excuse. Possibly an invention.
+
+Feld's reaction: "Of course the war's a pretext. Wars are always pretexts. The trick is not caring what for." He files the information with professional detachment and starts watching more carefully. His humor is intact — the knowledge feeds it, even. Knowing the machinery is comfortable. Machinery is what he understands.
+
+**ESCALATING MIDDLE (~2,500 words)**
+
+Three major beats across the campaign's middle stretch:
+
+**Beat 1 — The First Siege (~900 words)**: The army encounters a fortified bridge held by Braenich's outriders (or men wearing Braenich's colors — the distinction will not be made). Feld builds a ram and a covered approach. During the assault, he watches from the engineering position as his machines work exactly as designed. Men die inside the structures he built — crushed when a siege tower lists on soft ground, burned when defenders drop fire into a sap. Feld's internal monologue during this section is pure Abercrombie: sardonic, technically specific, cataloging the gap between the elegant geometry of siege engineering and the wet reality of impact. "A perfect arc. Textbook trajectory. Landed exactly where it should. The fact that there were six men standing where it should was not an engineering failure." He rates the enemy fortifications like a craftsman assessing another craftsman's work — grudging respect for their stonework, contempt for their drainage. He treats his complicity as a technical problem and the humor as proof he's still human. The corpse candles are brighter that night. More of them.
+
+**Beat 2 — The Stripped Section (~800 words)**: Three weeks deeper. Rations short. The corpse candles now appear not just behind but ahead of the column, as if the road itself is generating them. Desertions start. Feld's assistant Devin — who has been his audience, the person whose almost-smile validates the dark humor — takes an arrow through the throat during a skirmish that shouldn't have happened (a patrol stumbled into their own picket line in fog). This is not a dramatic death. It is described in two sentences. Feld finds Devin sitting against a tree with an arrow in him and Devin is already dead and the fog is the same fog that was there before and will be there after.
+
+This is where the prose register shifts. The Abercrombie voice — the sardonic internal monologue — goes quiet. Not immediately, but over the next few paragraphs it thins, attenuates, becomes less frequent. A joke starts forming and stops. An observation reaches for irony and doesn't find it. The landscape takes over. The road. The mud. The dead they pass and the dead they make. Short declarative sentences. No commentary. No interior distance. The reader should realize the humor has been gone for a full page before they notice it, the way you notice a sound stopping not when it stops but some time after.
+
+**Beat 3 — The Furnace Revealed (~800 words)**: Feld discovers what's in the reliquary. Not by opening it — Sulette tells him, because she needs his engineering expertise. It contains the bones of a saint — or what someone has decided to call a saint — and the fortress at Kelmath was built around a cupellation furnace, an ancient refinery. The bones are to be placed in the furnace. Sulette explains, in language that is either metaphorical or literal (she does not clarify and Feld does not ask), that the furnace "refines what is brought to it" and the bones will "purify the claim."
+
+Feld understands: this is political alchemy. The Compact needs a religious legitimization for its territorial expansion, and the march, the army, the dead — all of it is the cost of transporting a box of bones to a furnace so that someone in a capital city can call themselves sanctified. The machinery beneath the adventure. The political apparatus under the quest.
+
+Feld's reaction is not outrage. It is the absence of surprise. "Of course. What else." But the humor doesn't return. He reaches for the joke — the wry observation about the absurdity of men dying for a box of bones — and the joke isn't there. The landscape is there. The road is there. The dead are there. The joke is not.
+
+**CRISIS (~900 words)**
+
+The army reaches Kelmath. There is no siege. The fortress is abandoned. Braenich's forces never held it — the intelligence was always fiction. The fortress is empty except for the furnace, which is ancient, massive, built into the mountain's rock, and still warm. Someone has been tending it. The walls are stained with centuries of heat. The air inside tastes of calcium and char — bone ash, Feld realizes. The cupels lining the furnace chamber are enormous, room-sized, made from bone ash packed and fired until it became something between stone and calcium.
+
+Feld surveys the furnace with his engineer's eye and recognizes something that disturbs him past language: the furnace was not built to refine metal. The cupel's proportions are wrong for metalwork. It was built to refine something else. Or to refine on a scale that makes metallurgy a metaphor for what actually happens here.
+
+Vassik orders the reliquary opened and the bones placed in the furnace. Feld is ordered to make the structure operational — to do what he always does, make the machine work. And he does. Because that's what he does. He checks the draft channels, clears the flue, examines the loading mechanism, tests the bellows. He treats the furnace the same way he treats trebuchets and siege towers: as a structure with a function, where his job is to ensure the function operates. The nature of the function has never been his concern.
+
+This is the crisis: not a moment of refusal but a moment of continuation. He does not refuse. He does not rebel. He does not stand at a crossroads and choose. He does the job. And in doing the job he cannot pretend that the machine is separate from the machinist. There was never a gap between the builder and the building. He is, and has always been, part of the apparatus.
+
+**ENDING (~700 words)**
+
+The furnace is lit. What happens is described not in terms of magic or miracle but in terms of heat and light and the behavior of materials under stress — Feld's vocabulary, the engineer's language, applied to something that exceeds engineering. The bones do not burn. They change. The heat reaches a temperature Feld cannot estimate, and the cupel does what cupels do: it absorbs. Impurities oxidize. What remains is supposed to be the precious thing — the pure residue, the saint's essence, the sanctification the Compact paid an army's worth of dead for.
+
+But Feld, watching the furnace work, sees something else. The furnace does not distinguish between the bones placed in it and the men who placed them. The cupellation is not happening to the reliquary. It has been happening to the army. To Feld. The entire march — the corpse road, the dead, the campaign — was the furnace. Kelmath is just where you see the fire.
+
+The prose here is McCarthy: spare, declarative, liturgical. The fire in the furnace and the corpse candles on the road behind them and the dead in the ground beneath the coffin stones. All one fire. All one process. War was always here. Before the Compact was. Before Braenich was. Before the road was. The furnace waited.
+
+Feld walks out of Kelmath at dawn. The army is breaking camp. Men are already narrating the campaign as if it meant something — a victory over Braenich, a border secured, a threat neutralized. The official story is assembling itself. Feld could correct it. He doesn't. He checks the place on his heel where the blister was. It's healed. Smooth new skin. This small physical fact registers more clearly than anything else.
+
+He starts walking south. Not toward Cadmere. Not toward the brewery. Just south. He does not make a joke. He is not stripped bare — not transformed, not enlightened, not purified. He is what the furnace left. He is residue.
+
+**Open thread**: The furnace at Kelmath is still burning. No one ordered it put out. The corpse candles along the road have not dimmed. And the bones — whatever they became — are never mentioned again by anyone.
+
+### 4. Key Scenes
+
+- **Coffin stone assessment** (opening): Feld evaluating ancient grave markers for their engineering utility. Establishes his voice and his blindness — he sees everything in terms of structural function, never in terms of meaning. The limestone is good limestone. The dead don't need it. This scene should make the reader laugh and then remember, later, that they laughed.
+
+- **Devin's death** (middle): Two sentences. An arrow. Fog. The moment where the Abercrombie voice starts to drain from the narrative and the McCarthy register seeps in. This should not feel like a switch — it should feel like a slow pressure change, like ears popping on a descent. The reader should not realize what has changed until the change is already behind them.
+
+- **Sulette's revelation** (middle): The political machinery laid bare. Bones, furnace, legitimacy. The quest was never about the rebel lord. This is the *Blade Itself* structural beat — the adventure surface peeling back to show the real game. But unlike Abercrombie's version, understanding the game does not give the protagonist power or even the dark comedy of knowing. It gives him nothing useful.
+
+- **Feld works the furnace** (crisis): He is told to make the machine work. He makes the machine work. He has always made the machine work. The crisis is not a choice but the recognition that there was never a choice — that the choosing happened long ago, the first time he picked up engineering tools, and everything since has been continuation. He does not refuse the furnace because refusing would require being a different person, and he is this person, and this person builds.
+
+- **Walking south** (ending): Not toward anything. Not away from anything specific. The blister healed. The joke absent. The man not transformed. Residue. The word "south" is geographic, not symbolic. He is walking because walking is what a body does when it hasn't stopped yet.
+
+### 5. Emotional Trajectory
+
+The story's emotional arc is modeled on the cupellation process:
+
+**Phase 1 — Heat Applied (~2,700 words)**: Feld's dark humor is fully operational. He's entertaining, self-aware, professionally competent. The reader likes him the way readers like Glokta — because his internal monologue makes complicity legible and almost forgivable. The humor is the cushion McCarthy describes in the author meeting: it makes the violence comfortable. The reader is entertained by Feld's discomfort, which means the reader is comfortable with the violence, which is the point.
+
+**Phase 2 — Impurities Oxidize (~1,600 words)**: The humor starts to cost more. Devin dies, removing the audience. Feld keeps reaching for the wry observation and the observations get thinner, less funny, more reflexive — like a reflex that fires without producing the expected response. The landscape presses in. Short sentences. Fewer jokes. The reader notices something is different but cannot name it yet.
+
+**Phase 3 — Absorption (~1,500 words)**: The humor is gone. The reader should notice its absence the way you notice a sound stopping — not when it stops, but some time after. What remains is the landscape, the road, the march, the furnace. McCarthy's register: declarative, spare, liturgical. Violence not as something done but as something that is. The prose itself has been cupellated — everything that was entertaining, comfortable, companionable has been absorbed by the narrative cupel. What's left is either essential or empty.
+
+**Phase 4 — Residue (~1,000 words)**: What's left of Feld after the refining process. Not transformation — that would be redemption. Not destruction — he's still alive, still walking. Something in between: a man with the jokes removed and nothing underneath them except the fact of having been there, having done it, having made the machine work. The reader should finish the story feeling not devastated but unsettled. The question is not "what happens next" but "what was the joke protecting him from, and now that it's gone, what is he."
+
+### 6. Formula Integration
+
+**From Author A (Joe Abercrombie) — identifiable passage**: The first siege sequence (~900 words). Feld's internal monologue during the assault on the fortified bridge should read as sustained Abercrombie register: sardonic, technically precise, darkly comic. "A perfect arc. Textbook trajectory. Landed exactly where it should. The fact that there were six men standing where it should was not an engineering failure." The gap between the geometry and the gore. Feld catalogs his discomforts (the blister Bartholomew, the cough, the bad knee) with the same attention he gives to casualty reports. He rates the enemy fortifications the way a restaurant critic rates a meal — grudging respect for their stonework, contempt for their drainage. The reader should recognize the grimdark voice: the torturer's wit, the professional's detachment rendered as entertainment. This section must sustain 800-1,000 words of pure Abercrombie voice.
+
+**From Author B (Cormac McCarthy) — identifiable passage**: The section from Devin's death through the march to Kelmath and the furnace sequence (~1,500 words total). The prose strips to declarative, minimally punctuated sentences. No interior monologue. Landscape dominates. "They crossed a river that had no name on any map and the water was the color of old iron and on the far bank the dead of some prior crossing lay in the mud unburied. Feld stepped over them. The army stepped over them. The road continued." No quotation marks in this register. Simple declarative sentences accumulating biblical cadence through repetition and polysyndeton. The final furnace passage — fire, bone, the process that does not distinguish between sacrifice and fuel — should read as pure McCarthy liturgy.
+
+**From Work X (*The Blade Itself*) — identifiable structure**: The reveal that the campaign is political theater. Braenich is a pretext or invention. The army exists to deliver reliquary to furnace for territorial-religious legitimization. This mirrors the Bayaz reveal: the fantasy quest was always a power play, the heroes were always instruments. Feld's discovery parallels Jezal's and Logen's realization that they were pawns. The crucial structural element from Abercrombie: understanding the machinery does not free you from it. Knowing the quest is a trap does not spring the trap. Feld knows he's a cog and continues being a cog, because that's what cogs do.
+
+**From Work Y (*Blood Meridian*) — identifiable theme**: The furnace at Kelmath as the judge's philosophy made architectural. War as refining fire. Violence as cosmic principle — not moral failure but process, appetite, the game that is played because it is the game. The furnace was warm when they arrived. It was warm before the Compact existed. It will be warm after. "War was always here. Before man was, war waited for him." The cupellation is not a metaphor applied to war. War is cupellation. The furnace is where you see it, but the refining has been happening the entire march. The dead along the corpse road are the impurities, absorbed into the ground, and what walks out the other side is whatever the process decides to keep.
+
+### 7. Title
+
+**Cupel and Passage**
+
+"Cupel" — the bone-ash vessel that absorbs impurities during refinement, leaving only what is precious (or nothing). "Passage" — both the corpse road (the path of the dead) and the act of transit, of passing through, of being conveyed from one state to another. The title does not start with "The." It does not announce its themes. It presents two nouns joined by a conjunction and lets the reader discover their relationship across the narrative. The structure mirrors "Salt and Mortar" and "Nap and Ash" — existing titles in the catalog that use the same X-and-Y noun compound — while carrying specific weight from both Wikipedia concepts fused into the story.
 
 ---
 
-## 5. Emotional Trajectory
+## Technical / World-Building Notes for the Writer
 
-**Reader's journey**:
+### The Compact
+A loose federation of lowland city-states that maintains the fiction of republican governance. In practice, it is controlled by mercantile interests who use military campaigns to expand territorial claims. The Compact's legitimacy depends on religious sanction — campaigns must be blessed, and the sanctification of conquered territory requires ritual processing of holy relics. This is the political machinery beneath the quest.
 
-1. **Seduction** (Beat 1): The voice is charming, intelligent, self-aware. The reader enjoys being addressed by this mind. Trust builds. The confession feels civilized, almost pleasant. Camus territory — the speaker who makes guilt look elegant.
+### The Corpse Road
+An ancient route predating the Compact by centuries. Traditionally used for transporting the dead from remote highland settlements to consecrated ground. The road is narrow — wide enough for four abreast at most — lined with coffin stones at intervals of roughly a day's march. The stones are scored with grooves that appear to be drainage channels (Feld notices this; their actual purpose is ambiguous). The road runs straight, following ley-line logic rather than terrain logic, which means it crosses rivers, climbs ridges, and generally ignores the landscape's suggestions about easier routes. This is significant: the army cannot deviate.
 
-2. **Unease** (Beat 2): The first time-slip feels like a conversational mistake. The reader re-reads. Was that intentional? The moth disrupts the polished surface with something physical, grainy, involuntary. The ground shifts slightly.
+### Kelmath
+A fortress built into a mountain at the northern end of the corpse road. It controls the passes into the highland territories the Compact wants to claim. The fortress was not built as a military installation — it was built around the cupellation furnace, which is the oldest structure in the complex. The furnace chamber is carved from the mountain itself. The cupels lining it are made from bone ash — centuries of accumulated bone, packed and fired. The air inside tastes of calcium. The furnace was warm when the army arrived, which means someone has been tending it. Who? The story does not answer this.
 
-3. **Recognition** (Beat 3): The reader begins to see the architecture — this is not a glitch but a deterioration. The confession is unmaking the confessor. The condensation metaphor clicks and the reader understands they are watching a person discover she has edited herself out of existence. The "you" begins to include the reader, who now feels implicated.
+### Braenich
+The rebel lord. May or may not exist. His forces are never encountered directly — the army fights "Braenich's outriders" at the fortified bridge, but they could be anyone in the right colors. No prisoner is taken who confirms Braenich's identity or location. By the time the army reaches Kelmath, it's clear that the question of Braenich's existence is irrelevant. The campaign was never about him.
 
-4. **Vertigo** (Beat 4): Past and present fuse. The reader can no longer maintain stable temporal footing. The prose is still readable, still beautiful in a different way, but reading it requires effort, and the effort is the meaning. Per Lispector in the meeting: "the moment just before illegibility, where you can still read but you feel the effort of reading, and the effort is the story's meaning."
+### Corpse Candles
+Faint lights that appear along the road at dusk and dawn. They are real phenomena in the story's world — not illusion, not metaphor, not swamp gas. What they are is never explained. They multiply as the army accumulates dead. They appear ahead of the column as well as behind it, as if the road knows what's coming. Soldiers fear them. Feld dismisses them as natural phenomena early on, but by the end he has stopped dismissing them. He has stopped commenting on them at all.
 
-5. **Abandonment** (Beat 5): The text stops without stopping. The reader is left holding a sentence that was not completed, a confession that was not received, a self that was not recovered. No catharsis. The dissolution is ongoing. The reader puts down the story and the narrator is still speaking.
-
-**Protagonist's arc**: Not ignorance to knowledge. Solene knows what she did — the betrayal, the condensing, the editorial life. Her arc is from control to loss-of-control, from the belief that a curated confession can restore order to the discovery that the curation IS the disorder. She does not arrive at understanding. She arrives at the failure of understanding, and the failure does not redeem her.
-
----
-
-## 6. Formula Integration
-
-### From Author A (Albert Camus — style: lucid, ironic, confession-as-prosecution)
-
-**Identifiable passage**: The opening 1,000 words. Solene's voice in the first section is pure Camus-channel: the elegant, self-deprecating confession that seduces before it accuses. Specific Camus markers: the conspiratorial address to the listener ("you understand, of course — or perhaps you don't, and my vanity in assuming so is itself a confession"), the irony that doubles back on itself ("I am not asking for forgiveness — that would require me to believe forgiveness is something you possess, and I have never been that generous with other people's capacities"), the moral self-examination performed with Mediterranean clarity and faint contempt. The judge-penitent structure: Solene confesses so precisely that no one else can accuse her. She controls the narrative of her own guilt. This IS Clamence — a speaker who appears to strip herself bare while armoring herself with the performance of stripping bare. The prose should be quotable, polished, each sentence a small machine of self-awareness.
-
-### From Author B (Clarice Lispector — style: stream of consciousness straining toward the ineffable)
-
-**Identifiable passage**: The crisis section (Beat 4) and the ending (Beat 5). Once the editorial control breaks, the prose shifts into Lispector territory: sentences that repeat and modify themselves, radical attention to sensory detail (the grain of the tablecloth, the weight of air, the moth's wing-dust still present on the fingertip after fifteen years), the dissolution of the boundary between self and world. Specific Lispector markers: the body knowing what the mind refuses ("my hand is wet and I do not know if the glass is sweating or if I am"), the sentence as spiritual practice (long recursive sentences that circle a thought they cannot name), the attempt to speak what language cannot hold, and the nausea that is not disgust but recognition. The final unending sentence is Lispector's method taken to its formal extreme: prose that enacts the impossibility of its own completion.
-
-### From Work X (The Fall — structure: confession to a silent listener, the judge-penitent)
-
-**Identifiable passage**: The entire structural architecture. A woman confessing across a table to someone who does not speak. The silence of the listener as the condition that makes the confession possible (and impossible). The judge-penitent dynamic: Solene accuses herself so thoroughly that Yvette cannot accuse her — the confession preempts all other verdicts. The Fall's structure of progressive self-revelation, where each layer of honesty reveals another layer of performance beneath it. The Amsterdam bar becomes a restaurant; the unnamed stranger becomes Yvette; the Pont Royal bridge becomes the Lisbon office. The not-turning-back: Solene heard Yvette lose her job and did not speak, and the silence of that not-speaking is what the confession circles without ever touching. The mechanism is identical to Clamence's: a voice that falls by speaking.
-
-### From Work Y (The Passion According to G.H. — themes: dissolution through encounter with the non-human, nausea as epistemology)
-
-**Identifiable passage**: The moth scene and the silence-as-substance passages. G.H.'s cockroach becomes Solene's moth — a non-human intrusion that the narrator's language cannot assimilate. The moth on the manuscript is the thing that will not bend to the editorial method; it cannot be condensed or summarized or cut. It persists as residue. The Lispector-channel moment where the self dissolves through radical attention to a material thing. Yvette's silence, which evolves from social absence into physical substance into a kind of presence that is no longer human — this echoes G.H.'s encounter with the cockroach, where the non-human other strips the human away. Solene's nausea is not disgust at the moth but the bodily recognition that she has been an abridgment all along — the same nausea G.H. feels when she discovers "inside it the identity of my deepest life." The nothing that is living and moist.
+### Voice Guide
+- **Opening through first siege**: Full Abercrombie register. Sardonic internal monologue. Feld's voice is present, wry, specific. Dark humor applied to engineering violence. Think Glokta's erudite commentary transplanted into a field engineer's vocabulary.
+- **After Devin's death**: Gradual attenuation. The jokes thin out. Interior commentary becomes sparser. Sentences shorten. The transition should be imperceptible paragraph by paragraph — a slow drain, not a switch.
+- **Kelmath and furnace**: McCarthy register. No interior monologue. Declarative sentences. Landscape and process dominate. Polysyndeton. No quotation marks for any speech in this section. Fire, bone, ash, the behavior of materials under stress.
+- **Ending**: Somewhere between the two registers. Terse but not liturgical. Flat. A man walking. Physical details (the healed blister) rendered with more precision than anything around them. No jokes. No biblical cadence. Just prose that records what a body does when the voices — both the sardonic and the prophetic — have gone quiet.
 
 ---
 
-## 7. Title
-
-**Abridged Until Further**
-
-This title avoids starting with "The." It captures the central metaphor — abridgment/condensation as existential condition — while the dangling "further" performs the story's formal principle: the sentence does not end. It echoes bureaucratic language ("until further notice") but truncates it, enacting its own theme. The title is a fragment that asks the reader to complete a sentence the text refuses to complete. It is neither decorative nor explanatory. It works as an instruction, a condition, and a description of the protagonist's state: abridged, and the restoration is permanently deferred.
-
-**Alternates considered and rejected**:
-- "Condensed from the Original" — too literal, too close to a subtitle
-- "What Was Cut" — too neat, implies the cuts can be identified
-- "Full Text Not Available" — clever but gimmicky, sounds like a database error
-- "Wing-Dust" — too poetic, too decorative for the prose register
-- "Solene Addresses the Silence" — too explanatory
-
----
-
-## Technical Notes for the Writer
-
-1. **Prose gradient**: Begin with short, controlled, grammatically complete sentences (Camus). End with long, recursive, syntactically unstable sentences (Lispector). The transition must be gradual — the reader should feel the degradation accumulating across pages, not arriving as a switch. Map the gradient to the five beats: Beat 1 is 90% Camus, Beat 2 is 75/25 Camus/Lispector, Beat 3 is 50/50, Beat 4 is 25/75, Beat 5 is 90% Lispector.
-
-2. **Pronoun instability**: "You" begins as Yvette and ends as everyone/no one. Specific shift points: Yvette only (Beat 1) → Yvette with one flicker to past-Yvette (Beat 2) → Yvette/younger-Solene/ambiguous (Beat 3) → Yvette/Solene/reader (Beat 4) → indeterminate, possibly language addressing itself (Beat 5). Each shift should feel like a slip, not an announcement.
-
-3. **Temporal markers**: Use specific dates and places early on — Camus loves precision and the specificity builds trust. "October 2011." "The office on Rua Augusta." Let these become vague ("that October"), then contradictory ("October, or was it — no"), then coexistent ("the October that is also this moment, also the October before that one, all the Octobers stacked like pages of a manuscript no one numbered").
-
-4. **The moth**: Three appearances, no more. Beat 2 (the Lisbon memory), Beat 4 (the fusion of past and present moths), and the final paragraph (wing-dust on the fingertip as the last tactile image before the unending sentence). The moth is not a metaphor. It is residue. It is the thing that remains after the editorial process has removed everything it could.
-
-5. **Yvette's silence**: Describe it changing in texture three times. First: politeness, social silence, the silence of a person waiting for a dinner companion to finish a thought (Beat 1). Second: judgment, the silence that accumulates weight, that fills with everything the silent person is not saying (Beat 3). Third: something no longer recognizably human — a material presence in the room, a substance, the equivalent of the cockroach — the silence has become a thing, and Solene's language is pressing against it the way Lispector's prose presses against what it cannot name (Beat 4). We never learn what the silence actually is, because we only have Solene's narration.
-
-6. **No resolution**: The story must not arrive. Per Lispector in the author meeting: "If she arrives — if she reaches understanding, or peace, or even the recognition that she will never reach understanding — you have betrayed the premise. The dissolution must be ongoing when the text stops." Per Camus in the meeting: "I want a reader to feel seasick. Actually nauseated. The way you feel when you have told someone the truth and the truth has not saved you."
-
-7. **The final sentence**: Must be syntactically mid-clause. Not a fragment for effect but an actual sentence in progress that the text abandons. The reader should feel the absence of the period as a physical sensation — the mouth left open, the breath not released. Consider ending on a dependent clause, or a relative pronoun that never reaches its noun.
-
-8. **Word count discipline**: 5,100–5,700 words. This is not a short piece. Give the dissolution room to accumulate. Beat 3 (the escalating middle) is the longest at ~1,600 words and should feel spacious — the place where the reader settles in and then the ground starts moving beneath them.
-
-9. **Condensation as specificity**: When Solene describes her editorial method, use a specific example — name a real kind of passage she would cut (weather descriptions, transitional scenes, secondary characters' inner lives). Make the method concrete and professional before turning it inward. The horror is greater if the reader first understands the method as reasonable.
-
-10. **No AI-isms**: No tidy resolution, no announced themes, no symmetrical bookends. The opening's clean prose and the ending's fractured prose should not mirror each other neatly — the ending should feel like a deterioration, not a complement. Do not let Solene say anything that sounds like "I realize now that I have been editing my own life." Let the reader arrive at that conclusion through the accumulation of specific confessions, specific cuts, specific losses.
+## Constraints Checklist
+- [x] No "Marcus" or "Chen"
+- [x] Protagonist ACTS (Feld surveys, builds, makes the furnace operational, walks south)
+- [x] One thread left open (the furnace still burning, the bones never mentioned again, the corpse candles undiminished)
+- [x] No AI-isms (no tidy epiphany, no announced theme, no redemption arc, no symmetrical bookends)
+- [x] Title does not start with "The"
+- [x] Two Wikipedia concepts integrated (corpse roads as setting/structure, cupellation as central metaphor and literal plot element)
+- [x] Word count target: 6,800 (range 6,500-7,100)
+- [x] All four formula elements have specific, identifiable passages
+- [x] No risk card assigned
