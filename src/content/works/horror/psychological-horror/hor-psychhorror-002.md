@@ -7,8 +7,8 @@ authorA: "Shirley Jackson"
 authorB: "Carmen Maria Machado"
 workX: "The Lottery"
 workY: "Her Body and Other Parties"
-wordCount: 4733
-readingTimeMinutes: 19
+wordCount: 4310
+readingTimeMinutes: 17
 tags:
   - reverse chronology
   - data analysis
@@ -127,7 +127,7 @@ Her jaw was tight but not painful. Her palms were clear. She slept six hours mos
 
 ## Year Six. School Performance: 94th Percentile. State Average: 71st.
 
-The conference was in Portland, at a hotel on the river with windows that ran floor to ceiling and a registration desk staffed by women in matching blazers. Loreen presented her paper — "Sustained Positive Deviation: Twelve Indicators of Municipal Health in a Small Oregon Community" — to a room of thirty regional planners, city managers, and two graduate students taking notes.
+The conference was in Portland, at a hotel on the river with windows that ran floor to ceiling. Loreen presented her paper — "Sustained Positive Deviation: Twelve Indicators of Municipal Health in a Small Oregon Community" — to a room of thirty regional planners, city managers, and two graduate students taking notes.
 
 The data was clean. The story it told was simple: Garner Falls had improved across every measurable dimension, consistently, for six consecutive years. Crime, schools, property values, voter engagement, infrastructure maintenance, water quality, business permits, library circulation, park usage, fire response times, traffic incidents, volunteer hours. Twelve indicators, all positive, all trending in the same direction.
 
@@ -143,9 +143,7 @@ A man in the third row — wire glasses, county lanyard — raised his hand duri
 
 The man nodded. He did not press further. Someone asked about her methodology, and the conversation moved to sample sizes and confidence intervals, and the moment passed the way such moments always passed in Loreen's professional life — absorbed into procedure, translated into a question about method rather than meaning.
 
-After the panel, a woman from the Oregon Department of Land Conservation approached her in the hallway. She had a manila folder. Inside were printouts from three other Oregon towns — Pendleton, Astoria, Silverton — showing similar improvement trends. "Not as clean as yours," the woman said. "But the same direction." She asked if Loreen had been in contact with the analysts in those towns. She had not. The woman left her card. Loreen put it in her bag and did not call.
-
-That night in the hotel room she could not sleep, which was unusual, because this was her best year. She was settled, productive, confident. She cooked elaborate meals in her kitchen on Alderman Street. She ran three miles along the river trail every morning. By every metric she would use to evaluate the well-being of a person in a given municipal environment — access to services, safety, social engagement, physical health, financial stability — she was well.
+That night in the hotel room she could not sleep. She was settled, productive, confident. She cooked elaborate meals in her kitchen on Alderman Street. She ran three miles along the river trail every morning. By every metric she would use to evaluate the well-being of a person in a given municipal environment — access to services, safety, social engagement, physical health, financial stability — she was well.
 
 She opened her laptop at two in the morning and looked at the satellite image of Garner Falls. She had added four new desire paths since she started tracking. Eleven now. The new ones were faint, barely worn, but distinct from the satellite altitude. She zoomed in on the one behind the middle school. It curved in a way that did not follow the contour of the land. She moved to the one along the drainage ditch. Also curved. Not the curve a person takes when cutting through a yard — the body's efficient line between two points. A different curve. Deliberate, or else following some feature of the ground she couldn't see from sixty miles of altitude.
 
@@ -171,7 +169,7 @@ Bev thought. She broke a scone in half and considered the question with the seri
 
 "About the time we started measuring," Bev said, and laughed. She picked up the other half of her scone. "I don't mean it like that. I just mean it all seemed to happen at once. The school got better. The downtown filled up. People started volunteering. Like someone turned a dial."
 
-Loreen laughed too. The coincidence was just that — a coincidence, or else a natural consequence of attention. Towns that tracked their metrics tended to improve on those metrics. It was a well-documented phenomenon: the Hawthorne effect, the observer effect, the simple principle that what gets measured gets managed. There was nothing unusual about improvement following measurement. That was the point of measurement.
+Loreen laughed too. The coincidence was just that — a coincidence, or else a natural consequence of attention. Towns that tracked their metrics tended to improve on those metrics. The Hawthorne effect, the observer effect, the principle that what gets measured gets managed. There was nothing unusual about improvement following measurement. That was the point of measurement.
 
 She did not distinguish between these explanations. She did not need to. The data was the data. And Bev's scones were good, and the break room had been repainted last spring in a color the facilities manager called "warm cream," and the coffee was hot, and the morning light came through the window at an angle that made the linoleum floor look almost beautiful.
 
@@ -189,9 +187,9 @@ At her previous job she had processed crime data for a county of 600,000 people.
 
 She drove the streets at night that winter, for no reason she could have articulated in the language of her profession. Past the hardware store, dark and locked, its window display of snow shovels unchanged since November. Past the library with the copper roof, green now, a patina that took decades. Past the diner where the same waitress worked Thursday through Sunday and remembered what Loreen ordered. Past houses with porch lights on and living room windows throwing warm parallelograms onto lawns where children's bicycles lay on their sides, unchained, trusting the dark.
 
-She felt something she filed under "adjustment." The sensation of having arrived somewhere that was exactly what it claimed to be. Not the skepticism of a person finding something too good — more the vertigo of a person for whom "too good" was not a category. She had spent four years in Portland processing data that was, by every measure, bad. Rising assaults. Declining clearance rates. Response times stretching. She had come to Garner Falls because the job listing described a town that was getting better, and she wanted to be in a room where the news was good.
+She felt something she filed under "adjustment." The sensation of having arrived somewhere that was exactly what it claimed to be. She had spent four years in Portland processing data that was, by every measure, bad. Rising assaults. Declining clearance rates. Response times stretching. She had come to Garner Falls because the job listing described a town that was getting better, and she wanted to be in a room where the news was good.
 
-The news was good. The news was always good. And she could not say whether the feeling in her chest was gratitude or awe or the specific discomfort of having her deepest professional wish granted without conditions.
+The news was good. The news was always good. And she could not say whether the feeling in her chest was gratitude or the specific discomfort of having her deepest professional wish granted without conditions.
 
 That spring, she found her first desire path. A worn line through the grass behind the library, narrow, the dirt packed smooth, curving away from the parking lot and toward the river. She followed it thirty yards to where it entered a stand of willows, the branches dragging, the light going green and close. The path continued into the trees, visible as a gap in the undergrowth. She stopped. She listened to the river. A bird she couldn't identify called twice and didn't call again. The willows moved in a way that was just wind.
 
@@ -207,22 +205,14 @@ She drove into Garner Falls on a Thursday in late March, the mountains still car
 
 A hardware store with a hand-painted sign: KESSLER'S, since 1971. A diner called Rosie's with a specials board facing the street. The library, set back from Main behind a row of Douglas firs, its copper roof turned green, its front steps swept. A church with a white steeple. A bakery with the door propped open, the warm yeast smell reaching the sidewalk. The falls themselves — not large, not dramatic, just steady, the river dropping fifteen feet over a basalt shelf at the south end of town, the sound always present, a white noise the town lived inside of.
 
-She parked in front of the municipal building, a two-story brick structure with tall windows and a flagpole and a fire inspection certificate in a plastic sleeve taped to the glass door. The certificate was signed and dated. Current. Beside it, a flyer for a pancake breakfast to benefit the volunteer fire department, scheduled for the first Saturday in April. Below that, a water quality report from the Oregon Health Authority, printed on white paper and posted where anyone walking in could see it, every metric within the acceptable range, each number highlighted in green by someone who had apparently found this reassuring enough to color-code.
+She parked in front of the municipal building, a two-story brick structure with tall windows and a flagpole and a fire inspection certificate in a plastic sleeve taped to the glass door. The certificate was signed and dated. Current. Beside it, a flyer for a pancake breakfast to benefit the volunteer fire department, scheduled for the first Saturday in April. Below that, a water quality report from the Oregon Health Authority, printed on white paper and posted where anyone walking in could see it, every metric within the acceptable range, each number highlighted in green by someone who had found this reassuring enough to color-code.
 
 The air was cold and smelled like snowmelt and pine resin and, faintly, bread. She stood on the sidewalk and looked at the town in both directions. A woman came out of the bakery with a white paper bag and said good morning. A pickup truck with a Garner Falls Volunteer Fire Department sticker on the bumper pulled into a space in front of the hardware store. The specials board at Rosie's advertised meatloaf.
 
-She had left Portland on a Tuesday. Packed her apartment in nine boxes and a suitcase, terminated her lease, filed the change-of-address form, forwarded her mail. Four years of processing crime data for a county that was not getting better. Four years of spreadsheets that trended the wrong way, quarterly reports that said the same thing in different numbers, meetings where nobody clapped. She had seen the Garner Falls listing on a state employment board — Senior Data Analyst, Municipal Planning, population 8,400, competitive salary, benefits — and she had applied because the job description mentioned positive indicators. Because the phrase "sustained improvement" appeared in the second paragraph. Because she was tired of measuring decline and wanted to measure something that worked. The drive from Portland had taken three and a half hours. She had not stopped once.
+She had left Portland on a Tuesday. Packed her apartment in nine boxes and a suitcase, terminated her lease, filed the change-of-address form, forwarded her mail. Four years of processing crime data for a county that was not getting better. Four years of spreadsheets that trended the wrong way, quarterly reports that said the same thing in different numbers, meetings where nobody clapped. She had seen the Garner Falls listing on a state employment board — Senior Data Analyst, Municipal Planning, population 8,400, competitive salary, benefits — and she had applied because the job description mentioned positive indicators. Because the phrase "sustained improvement" appeared in the second paragraph. Because she was tired of measuring decline and wanted to measure something that worked.
 
 The building was warm inside. The hallway had linoleum floors and bulletin boards with notices for recycling schedules and park hours and a meeting of the town council on the second Thursday of the month. Her office was on the second floor, facing Main Street, with a window that opened and a desk and a filing cabinet and a computer that was already set up. Someone had left a card on the keyboard: WELCOME TO GARNER FALLS, LOREEN! — signed by eight people, names she did not yet know.
 
 She sat in the chair. It was a good chair — ergonomic, adjustable, newer than the desk it faced. She opened the computer. The desktop had a folder labeled ANNUAL REPORTS and she opened it and found twelve years of municipal data, neatly organized, each file named by year and category. She opened the most recent. Revenue. Expenditures. Permits. School enrollment. Crime. Water. Fire. Parks. Each metric graphed over time. Each graph rising, or falling in the ways that meant rising. The lines were clean. She scrolled through them slowly, the way a person reads a letter from someone they want to trust — looking for the catch, finding only good news, and the absence of a catch feeling, for the moment, like the best news of all.
 
-She would spend twelve years in this chair. She would watch every number improve. She would feel her jaw tighten, her palms burn, her sleep fracture, and she would not connect these to the spreadsheets because the spreadsheets contained no column for what the body knows. She would find the desire paths, one by one, worn into the earth by feet that walked outside the measured routes, and she would map them and count them and never walk their full length. She would run Benford's Law on the town's finances and find results too perfect to be natural and close the file. She would stand at a podium and present good news and the council would applaud and the audience would nod and the ritual would continue, each year, the same podium, the same slides, the numbers always in the green.
-
-But that was later. That was twelve years of later.
-
-Right now it was March, and the office was warm, and the welcome card had eight signatures, and the falls were audible through the open window, and every number in the file was highlighted in green, and Loreen Voss was thinking: *I could be happy here.*
-
-Outside, the snow was melting. The river was running. The desire paths did not exist yet — or they did, already worn into the earth, waiting for her to find them, to count them, to add them to the map that explained everything about Garner Falls except the thing that mattered. But Loreen did not know about the paths, and she did not know about the rash, and she did not know about the jaw, and the town was quiet and the data was clean and the air smelled like bread.
-
-She opened the next file. The numbers were good.
+Outside, the snow was melting. The river was running. The falls were audible through the open window. She opened the next file. The numbers were good.
