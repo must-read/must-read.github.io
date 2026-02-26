@@ -1,213 +1,184 @@
-# Story Plan: hor-psychhorror-002
+# Story Plan: mys-locked-room-001
 
-**Genre**: Horror
-**Subgenre**: Psychological Horror
-**Combination ID**: hor-psychhorror-002
-**Target Word Count**: 4,800 (range 4,500–5,100)
-**Risk Card**: REVERSE CHRONOLOGY (mandatory)
+**Genre**: mystery-thriller
+**Subgenre**: locked-room
+**Combination ID**: mys-locked-room-001
+**Target Word Count**: 5,800 (range: 5,500-6,100)
+**Risk Card**: None
 
----
+## Formula Sources
 
-## Writing Samples
+- **Author A — Agatha Christie**: Precision-engineered plot, closed-world mystery, deceptively simple prose concealing structural brilliance, every sentence is evidence
+- **Author B — Daphne du Maurier**: Gothic atmosphere, house as suspect, unnamed/partial narrators defined by spaces they inhabit, dread and romantic obsession fused
+- **Work X — And Then There Were None**: Escalating paranoia among finite suspects, everyone both potential victim and killer, the impossible crime
+- **Work Y — Rebecca**: Dead person's presence dominating the house, the housekeeper as guardian of secrets, loyalty to the dead as weapon against the living
 
-### Shirley Jackson — "The Lottery" (Author A / Work X)
+## Wikipedia Concept Fusions
 
-**Opening prose**: "The morning of June 27th was clear and sunny, with the fresh warmth of a full-summer day; the flowers were blossoming profusely and the grass was richly green."
+1. **Priest holes** — Secret hiding places built into English manor houses during the Catholic persecutions (1570s onward). Hidden compartments behind fireplaces, under staircases, within wall cavities. Designed by master builders to be undetectable. *Usage*: The coastal estate contains a priest hole — a hidden passage connecting two rooms that no one alive knows about except the housekeeper. This is the locked-room mechanism. The killer used the priest hole to enter and exit the sealed study.
 
-**Style hallmarks**: Detached, journalistic third person. The narrator reports on a scene as a neutral bystander. Early tone is light, peaceful, full of facts — the date, the number of participants, how long the event takes. The very neutral tone provides a contrast to the shocking event, heightening the reader's surprise and horror. Jackson's technique is accumulation of the ordinary until the ordinary becomes menacing. No single sentence is alarming. The alarm is structural.
-
-**Key technique for this story**: The matter-of-fact catalog of pleasant details. Every sentence reads as benign in isolation. Horror emerges only from the reader's growing recognition that the pleasantness is systematic. The narrator does not editorialize. The narrator does not foreshadow. The narrator reports, and the reporting is the horror.
-
-### Carmen Maria Machado — *Her Body and Other Parties* (Author B / Work Y)
-
-**Style hallmarks**: Moves from the surreal to the real and back with startling ease. Builds entire interior lives through sparse details — litanies of refrigerator contents, free-association on the coming of autumn. "Covered in sequins and scales, blazing with the influence of fabulists from Angela Carter to Kelly Link." The body is subject, culprit, and innocent simultaneously.
-
-**"Inventory" technique**: Chronicles experience through catalog — a life told through what was counted, with the horror residing in what wasn't. A deadly virus spreading in the background while the foreground meticulously logs intimate encounters. The form (inventory, list, data) is the meaning.
-
-**Key technique for this story**: The body as counter-narrative. Somatic symptoms as information the conscious mind refuses to process. Quantification as simultaneously a coping mechanism and a form of violence — the act of reducing experience to data points. Systems experienced through flesh rather than through abstraction.
+2. **Holographic wills** — Handwritten, unwitnessed legal testaments that are valid in certain jurisdictions without witnesses or formal attestation. Can be challenged easily; the testator's handwriting is the sole proof of authenticity. *Usage*: The missing will is a holographic will — handwritten by the deceased, never witnessed, never filed with any solicitor. Its legal standing is questionable. One heir knows it exists because they found a draft. The question of whether a holographic will supersedes the absence of a formal will becomes the motive for the murder.
 
 ---
 
-## Wikipedia Concepts
+## 1. Premise
 
-### Selected Concept 1: Benford's Law
+Five heirs gather at Trewarren, a grey stone estate on a Cornish headland, for the reading of their uncle Edmund Pryor's will. The solicitor, Mr. Goss, is found dead in Edmund's sealed study — door locked from within, single window bolted, the iron key still in the interior lock. The will is gone. Before anyone can call for help, a November storm cuts the headland off from the mainland: the causeway floods, the telephone line drops, the boat is useless. Each heir discovers a sealed letter from Uncle Edmund in their room, each letter containing the same sentence: *I believe you are responsible for what happened to me.* Five identical accusations from a dead man. Five private guilts.
 
-In naturally occurring numerical datasets, the leading digit "1" appears approximately 30% of the time, not the expected 11.1% of a uniform distribution. This logarithmic pattern holds for populations, financial data, street addresses, river lengths — any dataset that spans multiple orders of magnitude. Datasets that deviate from Benford's Law are flagged as potentially fraudulent. Forensic accountants, tax agencies, and election monitors use Benford analysis as a first-pass fraud detection tool.
+The housekeeper, Mrs. Jory, narrates. She has kept Trewarren for thirty-one years. She is truthful in everything she describes — but she does not describe everything. The rooms she does not enter, the conversations she does not report, the hallway she walks past without looking down: her omissions are the architecture of the solution.
 
-**Integration**: Loreen runs Benford's Law analysis on Garner Falls' financial data and gets results that are textbook perfect — not merely compliant, but exactly matching the expected distribution to an implausible number of decimal places. A data analyst would know that perfect Benford compliance in a small-town dataset is itself a statistical anomaly. Natural data is messy. Clean data is cleaned. She notes this, files it, and does not follow up. The Benford moment is the story's quiet scream — the one scene where Loreen has the tool to detect artificiality and the result tells her something is wrong, and she chooses the reasonable explanation over the alarming one.
+The locked-room mechanism is a priest hole — a hidden passage built into Trewarren's walls during the 1580s, connecting the study fireplace to a panel in the upstairs linen room. Mrs. Jory knows about the priest hole. She has always known. She does not mention it until forced.
 
-### Selected Concept 2: Desire Paths
+The will is a holographic will — handwritten by Edmund in the final weeks of his life, never witnessed, never given to Mr. Goss. One heir found the draft of the holographic will in Edmund's bedside table, realized Mr. Goss knew about it (Edmund had told him), and killed Goss to suppress it — because the holographic will disinherits them specifically. The formal will Mr. Goss was going to read would have split the estate five ways. The holographic will leaves everything to one person. By destroying Mr. Goss (who was the only other person who knew the holographic will existed) and the holographic will itself, the killer ensured the formal five-way split would stand, and they would get their share.
 
-Unofficial trails worn through grass, parks, and empty lots by human foot traffic — the routes people actually take rather than the ones planners built. Desire paths emerge as shortcuts where planned paths are too long or circuitous. They are the gap between designed intent and lived behavior, visible from above as lines of bare earth through green lawns. In Finland, planners document where people walk after the first snowfall, then pave those routes.
-
-**Integration**: Loreen discovers seven desire paths cutting through Garner Falls — worn trails through yards, across vacant lots, through the strip of woods behind the middle school. They don't connect to each other. They don't seem to lead anywhere useful. People walk them anyway. The desire paths are the physical inscription of everything her data doesn't capture: where bodies actually move versus where the town's infrastructure directs them. Loreen maps them from satellite imagery but never walks their full length. At her disappearance, her laptop is open to the satellite view with the paths marked in red. What they form, where they lead, who walks them at what hours — this thread remains open. The desire paths are the story's unresolved question, the data point that doesn't fit the model.
+The open thread: Was Edmund a good man? The letters suggest he manipulated his heirs throughout their lives. The holographic will may have been his final manipulation — or his only honest act. Mrs. Jory knows, and she does not say.
 
 ---
 
-## Story Design
+## 2. Characters
 
-### 1. Premise
+### Narrator: Mrs. Alma Jory, 64
 
-Loreen Voss, senior data analyst for Garner Falls, Oregon (pop. 8,400), has spent twelve years compiling the town's metrics. Every measurable indicator has improved year over year without exception. Crime down 34%. Test scores up 22%. Property values climbing at a steady 3.1% annually. Voter turnout above 70%. Water quality perfect. Fire inspections on time. The spreadsheets are flawless.
+Housekeeper of Trewarren for 31 years. Widow — her husband drowned off the headland in 1998. She stayed. Trewarren is her house in every sense except legal. She knows every draft, every sticking door, every stone that weeps in rain. She loved Edmund — not romantically, but with the fierce, possessive loyalty of someone who maintained the physical evidence of his life. She speaks in plain, declarative sentences. She does not explain her feelings. She describes rooms, weather, the position of objects, the precise angle at which someone holds a teacup. Her flaw: she believes her loyalty to the dead gives her the right to control the living. She withholds the priest hole, the holographic will's hiding place, and her knowledge of Edmund's character — not to protect the killer, but to protect Edmund's memory. She is Mrs. Danvers without malice: a guardian whose guardianship has become a kind of tyranny.
 
-The story opens in the aftermath of Loreen's disappearance. Not dramatic — she stopped coming to work one Tuesday in September. Her office is neat, her final quarterly report filed and accurate, her car parked in the lot. No note. No sign of distress. Her personal laptop is open to a satellite image of Garner Falls with a network of desire paths marked in red.
+**Want**: To keep Trewarren as it was. To preserve Edmund's house and Edmund's version of events.
+**Need**: To let go. To stop being the house's conscience and become her own.
+**Flaw**: Her loyalty to Edmund is indistinguishable from control. She decides what others deserve to know.
 
-The story moves backward through time in seven sections, each anchored to a year of Loreen's tenure. Each section is warmer, calmer, healthier than the last. Her body unwinds — jaw loosens, rash heals, sleep normalizes. The town grows more beautiful. The data grows more perfect. By the final section (Year One), Loreen is arriving in Garner Falls for the first time, full of hope, her body at ease, walking into a town that will be good to her — genuinely, measurably good — for twelve years.
+### Primary Heir / Investigator: Nessa Pryor, 34
 
-What is wrong with Garner Falls? The story never says. The most frightening possibility is the most mundane: the prosperity is real, the data is accurate, and no amount of accuracy told Loreen what she was inside of.
+Edmund's niece, daughter of his estranged younger brother. A marine surveyor who assesses structural damage to coastal properties. Practical, physically capable, uncomfortable in grand houses. She barely knew Edmund — visited Trewarren once as a child and remembers the smell of the sea inside the walls. She is the outsider among the heirs, the one with the least to gain and the clearest eyes. She finds Mr. Goss's body. She asks the questions. She does not trust Mrs. Jory, and she is right not to — but she is also drawn to the housekeeper, recognizing in her the same stubbornness she carries herself.
 
-### 2. Protagonist
+**Want**: To understand why Edmund summoned her when they barely had a relationship.
+**Need**: To stop treating every human connection as a structural survey — measuring load-bearing walls while ignoring what lives inside them.
+**Flaw**: She treats people like buildings. She can see the cracks but not the warmth.
 
-- **Name**: Loreen Voss
-- **Age**: 41 at disappearance (29 at arrival)
-- **Situation**: Senior Data Analyst for Garner Falls Municipal Planning. Hired from Portland, where she processed crime statistics for a county of 600,000. Moved to Garner Falls for quality of life and the chance to do work that felt like good news. Unmarried, owns a house on Alderman Street, runs the Saturday farmer's market analytics for the town website.
-- **Want**: To trust the data. To believe a good place can stay good and the numbers prove it.
-- **Need**: To account for what the data excludes — the unmeasured, the uncountable, the lived residue no metric captures.
-- **Flaw**: She conflates measurement with understanding. If she can quantify it, it's known; if she can't, it doesn't exist in her professional reality. This makes her extraordinarily competent and fatally incurious about anything outside her data model. She is the turkey who is also the turkey's best analyst — she can tell you exactly how well she's being fed.
+### The Other Four Heirs
 
-### 3. Structure (Reverse Chronology)
+- **Laurence Pryor, 58**: Edmund's eldest nephew. Ran a failing gallery in Bristol. Assumed he'd inherit. Drinks too much. The letter from Edmund lands on old guilt — he borrowed money from Edmund years ago and never repaid it. His fear is financial, his shame is personal. Red herring: his obvious motive (debt) makes him the loudest suspect while the quietest heir acts.
 
-Seven sections, each headed by its data point. The reader starts at the end (absence, dread) and moves backward into warmth. Each section is shorter than the one before it until the final one, which expands — the arrival getting the most space because it needs to be the most beautiful.
+- **Sibyl Tremayne (nee Pryor), 47**: Edmund's niece, divorced, two children she rarely sees. A former estate agent who sold houses she knew were damp. The letter hits her where she lives — she sold a cottage of Edmund's below value to pocket the difference. She thinks this is what Edmund means. It isn't.
 
-**SECTION 1 — YEAR TWELVE, SEPTEMBER: "Missing Person Report 24-0917. Status: Open."**
-(~800 words)
+- **Douglas Pryor, 40**: The youngest of Edmund's brother's children. An actuary. Precise, numerical, deeply private. He visited Edmund more than any other heir in the final year — ostensibly to help with finances. He found the draft of the holographic will in Edmund's bedside table. He discovered the priest hole during his visits (old house, wandering, noticed the wall discrepancy). He is the killer. His motive: the holographic will leaves everything to Mrs. Jory, cutting out all five heirs. Douglas — who arranged his life around the certainty of inheritance — killed Goss to suppress it.
 
-Loreen's office after her disappearance. Third-person, Jackson-flat. A police officer takes notes. A colleague says Loreen seemed fine — happy, even. Her final quarterly report is accurate. Her car is in the lot. The laptop shows the satellite image with desire paths marked in red. Someone mentions she'd been taking walks at odd hours, following the paths. The police officer notes this. The investigation will be thorough.
-
-The body: absent. Only traces. A coffee mug with a faint ring. Her colleague mentions Loreen stopped wearing her watch a week before. Small physical absences preceding the large one. The fluorescent lights buzz at a frequency no one noticed when Loreen was in the room.
-
-**SECTION 2 — YEAR TEN: "Annual Municipal Report: All Indicators Positive. 8th Consecutive Year."**
-(~700 words)
-
-Loreen presents her annual report to the town council. Every metric is up or stable. Applause. She feels satisfaction — and a tightness in her jaw that started six months ago, a rash on both palms that flares when she opens the spreadsheets.
-
-She runs Benford's Law analysis on the town's financial data. The leading-digit distribution is textbook perfect. Not just compliant — perfect. She has the training to recognize that textbook-perfect Benford compliance in a dataset this small is itself a statistical anomaly. She notes this. She files it. She closes the file. The click of closing is the loudest sound in the story.
-
-Driving home, she passes the park. A desire path cuts diagonally across the planned walking trail. She notices it the way she notices all patterns: automatically, categorically. She does not follow it.
-
-**SECTION 3 — YEAR EIGHT: "Property Values: +3.1% (8th Consecutive Year)."**
-(~700 words)
-
-Body healthier. Jaw tight but not painful. Palms clear. She sleeps six hours — not great, but functional. She's seeing a man named Paul who works at the county assessor's office. He mentions Garner Falls' property values are unusual — not high, but consistent. "Like someone ironing a shirt," he says. She laughs. He asks if she's noticed the town's fire inspector, Ed Kessler, shares a name with the man who owns the building where her office is. She has noticed. She looked into it once: they're cousins. She did not look further.
-
-She walks the desire paths one Saturday. Seven of them, cutting through yards, across vacant lots, through the strip of woods behind the middle school. They don't connect. They don't seem to go anywhere useful. People walk them anyway. She counts the footprints but doesn't ask who walks them or why.
-
-**SECTION 4 — YEAR SIX: "School Performance: 94th Percentile (State Average: 71st)."**
-(~600 words)
-
-Loreen's best year. Settled, confident. She publishes a case study in a regional planning journal: "Sustained Positive Deviation: Twelve Indicators of Municipal Health in a Small Oregon Community." Gives a talk at a conference. Someone in the audience asks what explains the sustained improvement. She says the data doesn't tell her why, only that. The questioner presses: doesn't the absence of explanation concern her? She says no. The data is the data.
-
-Body: jaw loose, palms smooth. Sleeps through the night. Cooks elaborate meals. By every metric she would use to measure well-being, she is well.
-
-At the conference hotel, 2 a.m. Staring at the satellite image. She's added four new desire paths since she started tracking. She counts them. She does not ask what they mean.
-
-**SECTION 5 — YEAR FOUR: "Voter Turnout: 74%. National Average: 42%."**
-(~600 words)
-
-Loreen makes her first real friend in town — Bev Alderman, who runs a bakery on Main Street. (Loreen lives on Alderman Street; Bev's family founded the town.) Bev brings scones to the municipal building every Tuesday. Loreen quantifies the gesture: 208 Tuesdays in four years, never missed. Bev mentions she remembers when the town wasn't like this — Main Street had vacancies, the school almost closed. "It just got better. Not all at once. Just every year, a little better." Loreen asks when. Bev thinks. "About the time we started measuring," she says, and laughs.
-
-Body: soft, rested, unguarded. Loreen does not yet know what a tight jaw feels like. The desire paths don't exist yet, or she hasn't found them. The town smells like pine and bread and cold water from the river.
-
-**SECTION 6 — YEAR TWO: "Crime Rate: -12% Year-Over-Year."**
-(~600 words)
-
-New enough to double-check her work. She runs the crime numbers three times — not impossibly low, just low in the way that makes you recount. The recount confirms. She drives the streets at night for no articulable reason, looking at houses with porch lights on. Looking for evidence of the data. Finding it everywhere. Safe streets. Lit porches. Kids' bicycles on lawns overnight, unchained. She feels something — not suspicion, not yet. A sensation closer to gratitude, or awe, or the specific vertigo of having arrived somewhere that is exactly what it claimed to be.
-
-She notices her first desire path: a worn line through the grass behind the library, cutting toward the river. She follows it thirty yards and stops. It continues into trees. She goes back to her car.
-
-Body: loose, new, unmarked. She sleeps nine hours. She has not yet begun to grind her teeth.
-
-**SECTION 7 — YEAR ONE, MARCH: "Position Accepted. Start Date: April 1."**
-(~800 words)
-
-Loreen arrives. The final section, which is the beginning. She drives into Garner Falls on a March afternoon, the mountains still snow-capped, the river running high. A hardware store, a diner, a library built in 1922 with a copper roof gone green. She parks in front of the municipal building. A fire inspection certificate in the window, dated and signed. A flyer for a pancake breakfast. A water quality report with every number highlighted in green.
-
-She will spend twelve years feeding these numbers into spreadsheets. She will watch every metric improve. She will feel the town tighten around her, or herself tighten inside the town, and she will not be able to determine which. The data will be perfect. The data will always be perfect.
-
-But right now it's March, and the air smells like snowmelt, and Loreen Voss is walking into a town that will be good to her — genuinely, measurably good — and she is thinking: *I could be happy here.*
-
-The reader, who started at her empty desk, knows she was.
-
-### 4. Key Scenes (in reading/reverse order)
-
-1. **The Empty Office** (Section 1): Police procedural as horror. Loreen's absence registered through objects — the filed report, the parked car, the coffee ring, the missing watch. The satellite image with red lines. The data shows no anomalies. That is the anomaly.
-
-2. **Benford's Law** (Section 2): Loreen runs the leading-digit analysis and gets results too perfect to be natural. She has the forensic training to know what this means. She files the observation and closes the file. The click of the laptop closing should feel like a door shutting from inside.
-
-3. **The Fire Inspector** (Section 3): Ed Kessler inspects the building his cousin owns. Loreen found the reasonable explanation and stopped looking. The reasonable explanation is always available. The reasonable explanation is the system's immune response. Also: the seven desire paths that go nowhere, that she counts but never questions.
-
-4. **"About the time we started measuring"** (Section 5): Bev's offhand comment. The town started improving when metrics began. Either coincidence, or evidence that measurement and improvement are the same process, or evidence that measurement is the feeding. Loreen registers the comment. She does not distinguish between these possibilities.
-
-5. **The Arrival** (Section 7): Loreen entering Garner Falls. March light. Snowmelt. The copper-roof library. The most beautiful section. The reader's nausea should be at its peak — not from horror on the page, but from the weight of twelve years the reader has already watched evaporate from the other end.
-
-### 5. Emotional Trajectory
-
-The reader's arc runs opposite to the chronological warmth:
-
-**Section 1 (Year 12)**: Cold dread. Clinical emptiness. Something happened and the data can't explain it.
-
-**Section 2 (Year 10)**: Creeping unease. The body symptoms. The too-perfect Benford results. The rash on her palms when she opens spreadsheets. The data is the problem, but it's all she has.
-
-**Section 3 (Year 8)**: Growing suspicion. The Kessler overlap. The desire paths to nowhere. Details individually benign, collectively wrong.
-
-**Section 4 (Year 6)**: Queasy recognition. Loreen at her confident peak, presenting perfect data, dismissing the one hard question. The reader sees the trap closing, but the trap is made of genuine good things.
-
-**Section 5 (Year 4)**: Sick certainty. Bev's comment lands differently for the reader than for Loreen. "About the time we started measuring." Measurement and improvement twinned. The town is the data and the data is the town and neither explains the other.
-
-**Section 6 (Year 2)**: Tender dread. Loreen is so new, so hopeful, so ready to be fed. Safe streets. Bicycles on lawns. She follows her first desire path thirty yards and turns back. The reader wants to warn her.
-
-**Section 7 (Year 1)**: Devastating beauty. Snowmelt, the copper-roof library, the fire certificate in the window. Everything the reader has already seen the end of. *I could be happy here.* She was. The door closes from outside.
-
-**Open thread**: The desire paths are never explained. Loreen mapped them, tracked them, was found studying them. What they form, where they lead, who walks them — unresolved. They may be significant. They may be nothing. The story refuses to decide.
-
-### 6. Formula Integration
-
-**Author A — Shirley Jackson** (visible throughout, concentrated in Sections 1 and 7):
-- The narrative voice is Jacksonian: flat, observational, matter-of-fact. The town described with the same detached specificity Jackson uses for the village in "The Lottery" — the hardware store, the pancake breakfast flyer, the metal folding chairs. Horror from the accumulation of ordinary detail, not any single extraordinary one.
-- The colleague who says Loreen "seemed fine." The police officer who takes notes. The council that applauds. Everyone behaving normally. The normalcy is the menace.
-- Jackson's community ritual: the annual report IS the lottery. Presented every year; everyone participates; no one examines what it produces or what it means.
-
-**Author B — Carmen Maria Machado** (visible throughout, concentrated in Sections 2-3 and the body tracking):
-- Loreen's body as counter-narrative. Moving backward, symptoms disappear: jaw loosens, palms clear, sleep normalizes. The unwinding reads as healing but IS the approach — the body recording the thousand days of feeding. The body knows what the spreadsheets don't.
-- The desire paths: landscape as body, foot traffic as the town's unconscious. Worn into earth by bodies moving outside planned routes — the unmeasured, the uncounted. "Everything she didn't count is the town."
-- Quantification as violence: Loreen's attempt to bring desire paths into her data model (mapping, counting footprints) mirrors Machado's theme of systems reducing experience to data points. The spreadsheet as digestive tract.
-
-**Work X — "The Lottery"** (structural):
-- The annual municipal report mirrors the annual lottery: a public ritual whose true function is unexamined. The council applauds. Numbers enter the record. No one asks what the ritual produces.
-- Slow revelation: the reader, moving backward, gradually understands that the measurement system everyone participates in may be the mechanism — not of harm exactly, but of something the story won't name.
-- The fire inspection certificate with the shared name echoes the lottery's unreplaced black box — a procedural artifact accepted because the form is filled out correctly.
-
-**Work Y — *Her Body and Other Parties*** (thematic):
-- Reducing a community to data points makes it legible to systems but illegible to itself. What happens between the numbers is where the town lives.
-- Loreen's rash, jaw tension, insomnia: the body registering systemic forces the data cannot capture. *Her Body* applied to civic life.
-- The section headings (each a data metric) mirror Machado's "Inventory" — a life told through what was counted, horror residing in what wasn't.
-
-**Benford's Law** (Wikipedia concept 1):
-- Grounds the data-horror in real mathematics. The reader who knows Benford's Law understands what "textbook perfect" means in a small dataset. The reader who doesn't still feels the wrongness of a test designed to catch fraud returning results too flawless to be natural.
-
-**Desire Paths** (Wikipedia concept 2):
-- The physical inscription of unmeasured behavior. Where bodies actually move versus where infrastructure directs them. The gap between planned and lived. That Loreen was studying them at the end suggests she was trying to read the version of the town her data couldn't capture — and whatever she found, or didn't find, preceded her disappearance.
-
-### 7. Title
-
-**Every Number in the Green**
-
-From the author meeting: the water quality report "with every metric in the acceptable range, each number highlighted in green by someone who'd apparently found this reassuring enough to color-code." The title reads as benign — a good report, a passing grade, every box checked. Only after the story does the green turn: green as pasture, as growth before harvest, as the color-coded comfort that substituted for understanding. Does not start with "The."
+- **Harriet Pryor, 52**: Edmund's second niece. A retired district nurse from Truro. Kind, efficient, capable of enormous quiet cruelty. She nursed Edmund through his final months. She believes the letter refers to a morphine dosage she increased without consulting the GP. She did it for mercy. She is not certain. Secondary red herring: her medical access and her proximity to Edmund's death make her a suspect, but her guilt is real and her crime (if it was one) is separate from the murder.
 
 ---
 
-## Additional Notes for the Writer
+## 3. Structure (5 Beats)
 
-**Voice calibration**: Jackson is the base register. Flat, precise, domestic. Machado enters through the body — the physical symptoms, the desire paths, the sensory details that resist quantification. Do not mix them into a third style. Let them coexist as two modes of attention: Jackson watching what Loreen does, Machado watching what her body does.
+### Beat 1: Arrival and Discovery (approx. 1,200 words)
 
-**The town must be real**: Garner Falls is not a metaphor. Not a stand-in for America or capitalism. A real Oregon town with a real hardware store and real February pipe-freezes. The Fourth of July parade. The volunteer fire department. The pancake breakfast. The more real the town is, the more the horror works, because the horror IS the reality — not a distortion of it.
+Mrs. Jory narrates the arrival of the five heirs in a November storm. Each comes alone. The house is described through her custodial eye — she notices what they touch, where they hesitate, which rooms they avoid. Mr. Goss arrived the previous evening and has been in the study since morning. When Mrs. Jory brings tea at 4 p.m., the study door is locked. She knocks. No answer. She fetches Nessa (the most practical person present). Nessa forces the door. Mr. Goss is slumped over Edmund's desk, dead. The window is bolted. The key is in the lock on the inside. The desk is bare — no will, no papers, nothing except the dead man's hands flat on the wood as if he'd been waiting.
 
-**What is wrong with Garner Falls**: Nothing. Or something. The story does not know and must not pretend to know. The most frightening reading: nothing is wrong, the data is accurate, and twelve years of genuine improvement told Loreen nothing about what she was inside of. The second-most frightening reading: something is engineering the outcomes, but it's so successful that even its analyst can't distinguish the engineering from nature. The story occupies the space between these readings and refuses to resolve.
+**Christie element**: The sealed room described with clinical precision. Every physical detail — the key, the bolt, the window latch — established as evidence. The reader gets a fair look at the crime scene.
 
-**Reverse chronology discipline**: Each section must be genuinely warmer than the last. Not ominous-warm. Not sinister-calm. Actually warm. A town where people bring food when someone's sick. A school board that listens. A property tax rate that makes sense. The reader must start wanting to live there. Then they must realize what that wanting means.
+**Du Maurier element**: The house presses in. The storm. Mrs. Jory's narration makes the room feel like it's watching. The dead man at the desk is an image of awful patience.
 
-**The desire paths**: Do not explain them. Do not hint at what they form. Let the reader bring their own pattern recognition. Some readers will see significance. Some won't. Both readings are valid. The paths are the story's ambiguity engine — the single element that resists the data model.
+### Beat 2: The Letters and Escalating Paranoia (approx. 1,400 words)
 
-**Pace**: 4,800 words across seven sections. Sections 1 and 7 get the most space (~800 each). Sections 2-6 run ~600-700 each. Every sentence must carry the weight of the chronological direction — each one should feel like the reader is sinking backward into something warm and closing.
+The storm severs contact with the mainland. The causeway floods. Five people trapped with a corpse and a missing will. Mrs. Jory distributes the letters — she found them in Edmund's desk weeks ago, with instructions to give one to each heir upon arrival. Each heir reads their letter privately. Each believes they are the only one accused. The paranoia begins.
 
-**The ending is the beginning**: The final paragraph — Loreen arriving, the snowmelt, the copper roof, *I could be happy here* — must be the most beautiful writing in the piece. Not beautiful-ominous. Beautiful. The reader supplies the ominous. Trust them.
+Over dinner (Mrs. Jory serves, watches, narrates), the heirs circle each other. Sibyl asks about the will. Laurence insists they search the study. Douglas says nothing important. Harriet watches Douglas. Nessa watches Mrs. Jory.
+
+Mrs. Jory narrates the conversations she overhears and the ones she doesn't. She describes walking past the upstairs linen room without going in. She mentions the draft that comes from the east wall of the study "when the wind is right." These are clues. She is planting them in plain sight by seeming not to notice them.
+
+**Work X (ATTWN) element**: The letters function like the gramophone recording in Christie — each accusation is a weapon, each heir turns inward, alliances fracture. The house becomes the island.
+
+**Work Y (Rebecca) element**: Edmund's presence grows. His chair, his books, the pencil marks on the study doorframe where he measured the children's heights decades ago. The dead man is more powerful than any living occupant.
+
+### Beat 3: Investigation and Red Herrings (approx. 1,500 words)
+
+Nessa investigates. She is not a detective, but she surveys structures for a living — she looks at the room like a building. She measures. She sketches. She finds: (a) a slight temperature differential near the study fireplace, (b) scratch marks on the study floor consistent with something heavy being moved, (c) the fact that Mr. Goss's briefcase is in his room, not the study, and it contains a handwritten note from Edmund mentioning "the other will."
+
+Meanwhile, Laurence confesses his debt to Nessa — breaks down, admits he owes Edmund's estate thousands. He is terrified the will reflects this. Sibyl overhears and accuses Laurence of killing Goss to destroy the will. Douglas intervenes — calm, actuarial, reasonable — and suggests they search the house systematically. Harriet retreats to her room.
+
+Mrs. Jory watches all of this. She narrates Nessa's investigation with careful, selective detail. She describes the temperature differential near the fireplace but attributes it to "the house breathing, as old houses do." She does not describe the fireplace mechanism. She notes that Douglas offered to search the east wing alone.
+
+**Clue structure (fair play)**: By this point, the reader has: (1) the draft near the fireplace, (2) the scratch marks on the floor, (3) the reference to "the other will," (4) Douglas's unusual knowledge of the house for someone who only visited in the final year, (5) Mrs. Jory's conspicuous avoidance of the linen room. All five clues are present. The solution is available.
+
+### Beat 4: Crisis — Mrs. Jory Confronted (approx. 900 words)
+
+Nessa confronts Mrs. Jory. Not about the murder — about the house. She has been surveying Trewarren in the margins of the investigation, and she's found the anomaly: the east wall of the study is eighteen inches thicker than the corresponding wall on the floor above. The linen room's east wall has a panel that doesn't match the surrounding wainscoting. The house has a passage.
+
+Mrs. Jory does not deny it. She doesn't confirm it either. She says: "Mr. Edmund showed me that passage thirty years ago. He made me promise never to tell anyone. I kept my promise."
+
+Nessa pushes: "Someone used it."
+
+Mrs. Jory: "I know."
+
+This is the crisis — not a violent confrontation but a psychological one. Mrs. Jory's loyalty to Edmund collides with the fact that someone used Edmund's own secret to commit murder. The house she's been protecting has become the murder weapon.
+
+### Beat 5: Resolution and the Open Thread (approx. 800 words)
+
+Nessa opens the priest hole. The passage is narrow, cold, lined with Tudor brick. Inside, wedged behind a loose stone, is the holographic will — handwritten by Edmund, dated three weeks before his death, leaving Trewarren and the entire estate to Mrs. Jory. Not to any heir. To the housekeeper.
+
+Douglas is revealed as the killer. He discovered the priest hole during his frequent visits — an actuary's eye for anomalies caught the same wall discrepancy Nessa found. He found the draft of the holographic will in Edmund's bedside table, realized Mr. Goss knew about it (Edmund had told him by telephone), and killed Goss to suppress it. His method: he entered through the linen room panel, passed through the priest hole, and poisoned the tea Mrs. Jory had left on the tray outside the study door while she went to answer the bell. Douglas intercepted the tray in the passage, added the poison through the fireplace opening, and returned upstairs. The key was never turned from inside by the killer — Goss locked the door himself, as he always did when reviewing sensitive documents. The room was genuinely sealed. The priest hole was the only breach, and no one alive knew about it except Douglas and Mrs. Jory.
+
+Mrs. Jory narrates the revelation in her flat, custodial voice. She does not describe her own reaction to the holographic will. She reports the facts: the will exists, it names her, Douglas killed to suppress it. She tells the other heirs where to find candles and blankets, because the power has gone out and the storm won't break until morning.
+
+**The open thread**: Was Edmund's holographic will an act of love — his genuine recognition that Mrs. Jory was the only person who cared for Trewarren? Or was it his final manipulation — a grenade thrown into the family from beyond the grave, designed to destroy his heirs' expectations and reward the one person whose loyalty he could still control? Mrs. Jory does not say what she thinks. She closes the study door. She checks the window bolts. She walks down the corridor toward the kitchen, and the story ends with her footsteps on the stone, and the sea, and the house settling around her like a coat she has worn for thirty-one years.
+
+---
+
+## 4. Key Scenes
+
+- **The forced door**: Nessa and Mrs. Jory break into the study. Goss at the desk, hands flat, the awful stillness. The room described with Christie's inventory precision but du Maurier's dread. The key in the lock. The bolted window. The bare desk. Mrs. Jory notes the cold draft from the fireplace but does not remark on it.
+
+- **Dinner with the accused**: Five heirs at Edmund's dining table, Mrs. Jory serving. Each carrying a letter they believe is uniquely theirs. The conversation that doesn't happen — what they don't say to each other is louder than what they do. Laurence drinks. Sibyl watches hands. Douglas does mental arithmetic. Harriet studies dosages in her memory. Nessa watches the housekeeper.
+
+- **Nessa measures the wall**: The surveyor's eye catches the structural lie. She measures with a length of curtain cord, marks the discrepancy, and sits with it overnight before confronting Mrs. Jory. This scene should feel like a puzzle being solved through competence, not intuition — Christie's mode. But the emotional weight is du Maurier: Nessa is discovering that the house itself has been hiding something, that the walls are not what they seem, that everything she's been told about Trewarren is true and also incomplete.
+
+- **Mrs. Jory's silence breaks**: The confrontation in the corridor. Not accusation but recognition — Nessa says "Someone used the passage" and Mrs. Jory says "I know" and the whole story pivots on those two words. Mrs. Jory doesn't explain herself. She doesn't justify her silence. She simply stops withholding, and the shape of her omissions becomes the shape of the solution.
+
+- **The will in the wall**: Nessa retrieves the holographic will from the priest hole. The physical act of reaching into Tudor brick and pulling out a handwritten document that changes everything. The will names Mrs. Jory. The room goes silent. Douglas's face. Mrs. Jory's face, which she does not describe.
+
+---
+
+## 5. Emotional Trajectory
+
+**Opening register**: Gothic domesticity. The house is warm and hostile simultaneously. Mrs. Jory's narration is controlled, custodial, affectionate toward Trewarren and cool toward the arriving heirs. The reader feels welcomed into a space that doesn't want them.
+
+**First descent**: The discovery of Goss's body shifts the register from gothic unease to genuine threat. The letters deepen it — now everyone is guilty of something, even if not murder. The emotional landscape is paranoia, shame, and the specific dread of being known by someone who is dead.
+
+**Middle register**: Suspicion and investigation. The emotional mode alternates between Christie's intellectual pleasure (the puzzle, the clues, Nessa's competent surveying) and du Maurier's suffocating dread (the storm, the house creaking, Edmund's presence in every object). These two modes should feel like breathing — in, out, in, out — never fully resolving into either.
+
+**Crisis register**: Mrs. Jory's confrontation strips the gothic atmosphere to its bones. This is two women in a corridor, one of whom has been lying by omission for thirty-one years. The emotion is not anger but grief — Mrs. Jory grieves the promise she kept and the house she can no longer protect.
+
+**Closing register**: Flat. Procedural. Mrs. Jory reports the facts, closes the doors, checks the windows. The emotional devastation is in what she doesn't narrate — her own response to inheriting everything, her recognition that Edmund's will was either a gift or a trap, her awareness that she will never know which. The story ends in motion, not stillness — footsteps, not a final image. The house goes on. Mrs. Jory goes on. The question of Edmund's character remains unanswered.
+
+---
+
+## 6. Formula Integration
+
+### From Agatha Christie (Author A):
+- **Fair-play clue structure**: Every clue needed to solve the locked room is present in the text: the draft from the fireplace, the scratch marks, the wall thickness discrepancy, Douglas's private access, Mrs. Jory's avoidance of the linen room. A careful reader can solve it before the reveal.
+- **Precision prose**: Mrs. Jory's narration has Christie's inventory quality — she catalogs rooms, objects, positions, the exact contents of a tray. Every sentence is evidence, even when it doesn't look like it.
+- **The closed circle**: Five suspects, one corpse, no escape. The storm functions as Christie's island — finite suspects, no outside help, escalating paranoia.
+- **The misdirection**: Laurence's financial guilt and Harriet's morphine guilt are red herrings generated by the letters — each heir supplies their own crime, distracting from the actual one. Douglas's calm reasonableness is the biggest misdirection of all.
+
+### From Daphne du Maurier (Author B):
+- **The house as character**: Trewarren is not a backdrop. It breathes, creaks, resists. Mrs. Jory describes it as a living thing she serves. The priest hole makes the house literally complicit in the murder — its own architecture was the weapon.
+- **The housekeeper-narrator**: Mrs. Jory is named but functionally du Maurier's narrator — defined entirely by the space she inhabits, her identity fused with the house. Her narration is close-third but reads like first-person because she cannot separate herself from Trewarren.
+- **Gothic dread and devotion fused**: Mrs. Jory's feeling for Edmund and Trewarren reads as both love and haunting. The dead man dominates every room through objects, habits, and the housekeeper who maintains them.
+- **Atmosphere as structure**: The storm, the sea, the stone walls — these are not decoration but emotional architecture. The dread is in the setting, not just the crime.
+
+### From And Then There Were None (Work X):
+- **The island/isolation structure**: Storm-cut headland = Soldier Island. No one leaves until the truth emerges.
+- **Escalating paranoia where everyone is suspect**: The letters ensure each heir suspects the others and themselves. Trust dissolves progressively over the course of the story.
+- **The impossible crime**: A dead man in a sealed room with no visible means of entry or exit. The impossibility is the engine that drives all investigation.
+- **The accusation device**: Instead of a gramophone recording, the letters serve as Edmund's accusation from beyond the grave — each one personalized, each one landing on a real (if unrelated) guilt.
+
+### From Rebecca (Work Y):
+- **The dead person dominating the house**: Edmund Pryor is Rebecca — felt in every room, every object, every decision Mrs. Jory makes. His will (both the legal document and his volition) controls the living from beyond the grave.
+- **The housekeeper as guardian of secrets**: Mrs. Jory is Mrs. Danvers restructured — not malicious but possessive, not mad but loyal past the point of ethics. Her guardianship of Trewarren's secrets is loyalty to the dead deployed as power over the living.
+- **The outsider discovering the haunted house**: Nessa fills the second Mrs. de Winter's role — the outsider heir discovering that her relationship to Trewarren reveals more truth than the other heirs' decades of proximity.
+- **"Was he a good man?"**: The final open question, directly from the author meeting. Edmund manipulated his heirs with the letters. He also left his house to the person who loved it most. Both things are true. Neither resolves.
+
+---
+
+## 7. Title
+
+**Five Letters from a Dead Man**
+
+Does not start with "The." Communicates the locked-room's central mechanism (the five identical accusation letters) and the gothic conceit (the dead man's persistent agency over the living). Has a Golden Age mystery quality that nods to Christie, while "from a Dead Man" carries du Maurier's sense of the dead as active presences rather than passive memory. Distinct from the existing locked-room title ("Dead Letter Room") in construction and meaning.
