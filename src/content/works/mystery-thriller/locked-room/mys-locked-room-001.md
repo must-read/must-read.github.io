@@ -17,8 +17,8 @@ tags:
   - sealed-room
   - inheritance
   - paranoia
-rating: 1
-ratingCount: 0
+rating: 4.1
+ratingCount: 8
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: >

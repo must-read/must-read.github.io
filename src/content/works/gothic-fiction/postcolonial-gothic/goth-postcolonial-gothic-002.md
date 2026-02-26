@@ -20,8 +20,8 @@ tags:
   - phantom-labor
   - biological-horror
   - gothic-fiction
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 10
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: >

@@ -22,8 +22,8 @@ tags:
   - quantification
   - ambiguous horror
   - Benford's Law
-rating: 1
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: 2026-02-25
 status: "published"
 formulaSummary: >

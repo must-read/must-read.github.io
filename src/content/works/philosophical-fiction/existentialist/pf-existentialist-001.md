@@ -21,8 +21,8 @@ tags:
   - philosophical-fiction
 publishedDate: 2026-02-25
 status: "published"
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 formulaSummary: >
   Camus's lucid, ironic confession prose and the judge-penitent structure of
   The Fall meet Lispector's language straining toward the ineffable and the

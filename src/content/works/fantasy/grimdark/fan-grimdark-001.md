@@ -10,8 +10,8 @@ workY: "Blood Meridian"
 wordCount: 5772
 readingTimeMinutes: 23
 tags: [grimdark, siege-warfare, corpse-road, cupellation, political-theater, dark-humor, stripped-prose]
-rating: 3.0
-ratingCount: 0
+rating: 3.3
+ratingCount: 8
 publishedDate: 2026-02-25
 status: published
 formulaSummary: "Abercrombie's sardonic internal monologue drains into McCarthy's spare liturgical prose as a siege engineer discovers his campaign is fuel for a refining process older than nations"
