@@ -7,8 +7,8 @@ authorA: "Walter Mosley"
 authorB: "William Gibson"
 workX: "Always Outnumbered, Always Outgunned"
 workY: "Neuromancer"
-wordCount: 4272
-readingTimeMinutes: 17
+wordCount: 3954
+readingTimeMinutes: 16
 tags: ["ex-hacker", "algorithmic-surveillance", "gig-economy", "Oakland", "parole", "whistleblower", "community"]
 rating: 0
 ratingCount: 0
@@ -73,7 +73,7 @@ He stood in the parking lot holding the box and reading the address for a second
 
 Nailah, who had recruited him. Nailah, who had found the vulnerability in Solan Industries' personnel database and brought it to him because he was the one who could walk through it. Nailah, who had turned state's evidence and walked, and who he had not spoken to since the morning in the federal courthouse when she'd looked at him from the witness chair with an expression that he still couldn't name because naming it would have required understanding it, and understanding it would have required forgiving it, and he was not done with the part that came before forgiving.
 
-The algorithm had given him this address at 4 AM. Either it was coincidence — the system was vast and he was a point of data within it, no more significant than the delivery pod humming along the bike lane — or someone had placed his name on this delivery. He didn't know which possibility was worse. Coincidence meant the universe was indifferent to a degree that made breathing feel optional. Intention meant someone was watching.
+The algorithm had given him this address at 4 AM. Either it was coincidence — the system was vast and he was a point of data within it, no more significant than the delivery pod humming along the bike lane — or someone had placed his name on this delivery. He didn't know which was worse.
 
 He got in the car. He drove to Rockridge.
 
@@ -115,7 +115,7 @@ He ate the food cold. The chicken had been seasoned with something he couldn't i
 
 Audrey was watching something on her tablet — a cooking show where people competed to make the best version of a dish they'd never eaten. She watched these with the intensity of a sports fan, muttering corrections to the contestants' technique. "You don't put cumin in that," she said. "Lord."
 
-Everett sat with her. ParolePath, he knew, was logging this. The app's "social engagement" algorithm categorized visits to other residents as pro-social behavior, which contributed to his compliance score, which influenced the frequency and timing of his gig assignments. The system was watching him eat chicken with his neighbor, and it was giving him a grade. He thought about this the way he thought about the atmosphere — true, always, and not worth the energy of outrage.
+Everett sat with her. ParolePath, he knew, was logging this. The app's "social engagement" algorithm categorized visits to other residents as pro-social behavior, which contributed to his compliance score, which influenced the frequency and timing of his gig assignments. The system was watching him eat chicken with his neighbor, and it was giving him a grade.
 
 "The water pressure's bad again," he said.
 
@@ -141,11 +141,11 @@ He was tired. He was tired in a way that sleeping didn't fix because it wasn't i
 
 The flash drive was under his door when he came back from Audrey's.
 
-A black rectangle the size of his thumbnail, no label, no case. He picked it up and held it between his thumb and forefinger and looked at it the way you look at a thing that could be anything, knowing that what it actually was depended on whether you opened it. Schrodinger's crime. The USB housing was Wayfield-branded — the same small W etched into the plastic that he'd seen on a thousand pieces of hardware back when hardware was his native language.
+A black rectangle the size of his thumbnail, no label, no case. He picked it up and held it between his thumb and forefinger. The USB housing was Wayfield-branded — the same small W etched into the plastic that he'd seen on a thousand pieces of hardware back when hardware was his native language.
 
 He went inside. He closed the door. He sat on his bed with the flash drive in his palm.
 
-He thought about Solan Industries. The breach had taken him four days — four days of careful, patient work, the kind of work that felt like breathing when you were good at it. The vulnerability was in the personnel database's authentication layer, a flaw so elementary it was almost charitable, as if the system had left a door open and hung a sign on it that said *someone should probably close this*. He'd gone in. He'd copied the files. Payroll records showing that Solan had been paying its warehouse workers below minimum wage for three years, routing the difference through a subsidiary in Delaware that existed only as a mailbox and a tax ID. Thirty-four hundred workers. Three years. The math was simple. The injustice was simple. The right thing to do was simple.
+He thought about Solan Industries. The breach had taken him four days — four days of careful, patient work, the kind of work that felt like breathing when you were good at it. The vulnerability was in the personnel database's authentication layer, a flaw so elementary it was almost charitable, as if the system had left a door open and hung a sign on it that said *someone should probably close this*. He'd gone in. He'd copied the files. Payroll records showing that Solan had been paying its warehouse workers below minimum wage for three years, routing the difference through a subsidiary in Delaware that existed only as a mailbox and a tax ID. Thirty-four hundred workers. Three years. The math was simple and the right thing to do looked simple.
 
 He'd released the files. An encrypted package to three journalists and a labor rights organization. And within seventy-two hours, the files were everywhere — not just the payroll records but everything in the database, including the Social Security numbers and home addresses and banking information of those same thirty-four hundred workers. Because the journalists had been careful but the labor organization's security had been a screen door, and someone had breached them, and the whole package had ended up on a darknet market, and the workers Everett had tried to protect woke up to credit card charges they hadn't made and letters from banks they'd never heard of.
 
@@ -165,7 +165,7 @@ Or the algorithm didn't want anything. The algorithm optimized for efficiency, a
 
 He didn't know. That was the thing. He couldn't read this system. The old internet — the one he'd grown up in, learned in, broken — had been legible. Object models, inheritance hierarchies, clean boundaries between components. You could diagram it on a napkin. Client, server, database, authentication layer. Discrete boxes with defined relationships, arrows showing the flow of data, each component knowable if you looked hard enough. The system that governed his life now was not like that. It was probabilistic, opaque, a weather system of neural nets and behavioral models that produced outputs without explanations. ParolePath didn't tell him why it scored him the way it scored it. Relay didn't tell him why it sent him to Lawton Avenue three times in a week. The algorithm had no obligation to be legible. It just ran.
 
-He thought, sometimes, about Arp 187. A galaxy in the constellation Eridanus — two galaxies, actually, that had collided and were now one thing. He'd read about it in an astronomy forum during his hacking years, one of the few interests that survived prison intact because the stars didn't update their protocols. The collision had produced what astronomers called narrow filaments — threads of matter connecting what used to be separate structures, bridges between cores that were no longer independent but weren't yet fused. A merger remnant. Two things becoming one thing so slowly they didn't know it was happening.
+He thought, sometimes, about Arp 187. A galaxy in the constellation Eridanus — two galaxies, actually, that had collided and were now one thing. He'd read about it in an astronomy forum during his hacking years, one of the few interests that survived prison intact because the stars didn't update their protocols. The collision had produced what astronomers called narrow filaments — threads of matter connecting what used to be separate structures, bridges between cores that were no longer independent but weren't yet fused.
 
 His block looked like that to him sometimes. The Eritrean restaurant next to the coworking space. The barbershop where old men still argued about the A's leaving, right across from the autonomous pod charging station. The church parking lot repurposed as a drone staging area on weekdays and a flea market on Saturdays and a church parking lot on Sundays. Narrow filaments. Two neighborhoods that had collided and were now one neighborhood that looked like neither, connected by the things that were too stubborn or too forgotten to move — the laundromat, the bus stop, the woman down the hall who still bought a paper.
 
@@ -199,7 +199,7 @@ Boxes. Small, clean rectangles. He drew a box and labeled it CLIENT. Drew anothe
 
 "They put me away for opening one."
 
-She watched him draw. He added more detail — an inheritance hierarchy, a subclass branching off the PERSONNEL object, attributes listed in small letters inside each box. The napkin was filling up. The diagram was beautiful, in the way that certain kinds of precision are beautiful — not decorative but functional, every line carrying information.
+She watched him draw. He added more detail — an inheritance hierarchy, a subclass branching off the PERSONNEL object, attributes listed in small letters inside each box. The napkin was filling up.
 
 "You're shaking," Audrey said.
 
@@ -207,20 +207,20 @@ He stopped drawing. She was right. His hand, which had been steady for the boxes
 
 He put the pen down.
 
-"That's an old way of doing things," he said. "Nobody does it like that anymore. The systems now, they don't have boxes. They don't have arrows. They're — " He stopped. He didn't have a word for what they were that wouldn't sound like an excuse or a complaint or a lecture, and he didn't want to give Audrey any of those things. She deserved better than a man explaining his grief to her.
+"That's an old way of doing things," he said. "Nobody does it like that anymore. The systems now, they don't have boxes. They don't have arrows. They're — " He stopped.
 
 "Eat your food," Audrey said.
 
-He looked at her. She was looking at him the way she looked at the cooking show contestants when they were overthinking — with a patience that contained, somewhere inside it, the knowledge that most problems were simpler than the people who had them. Not solved by eating. But held. Kept from getting worse for the duration of a meal.
+He looked at her. She was looking at him the way she looked at the cooking show contestants when they were overthinking.
 
 He ate his chili.
 
-The flash drive was still in the coffee mug. Relay pinged his phone, a new job, a pickup in San Leandro, and the notification sat on his lock screen the way a bill sits on a counter — present, patient, certain that it would eventually be dealt with. ParolePath noted the ping. ParolePath noted the non-response. Somewhere in a server rack in a building he would never see, his compliance score adjusted by an increment too small to display, and the system filed the non-response under a category it called *review*, which was not a judgment but also not nothing.
+The flash drive was still in the coffee mug. Relay pinged his phone, a new job, a pickup in San Leandro, and the notification sat on his lock screen the way a bill sits on a counter — present, patient, certain that it would eventually be dealt with. ParolePath noted the ping. ParolePath noted the non-response. Somewhere in a server rack in a building he would never see, his compliance score adjusted by an increment too small to display.
 
-Outside, the sky above the streetlight was the particular dark that East Oakland gets in the hours before dawn turns it gray — not black but a deep bruised blue, the color of systems at rest. Somewhere up there, past the fog and the flight paths and the orbital platforms that handled the mesh network's backbone traffic, the stars were doing what they did. Burning. Colliding. Merging so slowly that by the time the light arrived it was already old news, already a record of something that had finished before anyone looked up.
+Outside, the sky above the streetlight was the dark that East Oakland gets in the hours before dawn turns it gray — not black but a deep bruised blue. Somewhere up there, past the fog and the flight paths and the orbital platforms that handled the mesh network's backbone traffic, the stars were doing what they did.
 
 Everett ate Audrey's chili and did not look at his phone. He did not go home and take the flash drive out of the mug. He did not decide.
 
-The pen lay on the napkin. The boxes were still there. CLIENT. SERVER. DATABASE. Clean lines from a dead language, drawn by hands that remembered what the mind had tried to forget. The napkin would end up in the trash, or in his pocket, or on the table where Audrey would find it in the morning and look at the boxes and the arrows and see nothing she recognized and fold it neatly and set it by his door, because that's what you do with things that belong to the man across the hall.
+The pen lay on the napkin. The boxes were still there. CLIENT. SERVER. DATABASE. Clean lines from a dead language, drawn by hands that remembered what the mind had tried to forget.
 
 The chili was good. The radiator ticked. He didn't know what he would do tomorrow.
