@@ -1,133 +1,46 @@
-# Story Plan: goth-postcolonial-gothic-002
+# Story Plan: hor-psychhorror-002
 
-**Genre**: gothic-fiction
-**Subgenre**: postcolonial-gothic
-**Combination ID**: goth-postcolonial-gothic-002
-**Target Word Count**: 5,400 words (acceptable range: 5,100-5,700)
-**No Risk Card**
-
----
-
-## Formula Sources
-
-**Author A — Silvia Moreno-Garcia (Mexican Gothic)**: The colonial estate as organism — the hacienda that breathes, feeds, and digests. Her prose weaponizes architecture: "this house, with all its fabrics and rugs and tassels, could smother a whole army." The gloom — the house's fungal memory-repository — stores the dead inside the walls themselves: "What had once been Agnes had become the gloom [...] The creation of an afterlife, furnished with the marrow and the bones and the neurons of a woman, made of stems and spores." The mushrooms are real organisms doing real things, not mere metaphors. The biology IS the Gothic. Her protagonist Noemí is glamorous, active, refuses to be passive. Key technique to channel: the scientific and the horrific as one substance; the house/land as organism with biological processes; the outsider heroine who brings analytical intelligence to a system designed to consume her.
-
-**Author B — Tanarive Due (Ghost Summer)**: Black American hauntings where the ghost is history itself. In Ghost Summer, children visit Gracetown, Florida, where "there's bodies buried over on that land across the street [...] They found an old burial site, the bones of people who lived 'round here a hundred years ago. And not a cemetery neither." The horror is communal silence: everyone knows, nobody speaks. Children swim in the lake and learn through their bodies — the water is cold where it shouldn't be cold, the mud has a texture their feet interpret before their minds do. Due's ghosts ache for remembrance. Her monsters bloom from love, silence, and the stories communities can't stop telling even as they agree not to tell them. Key technique to channel: knowledge carried in the body, not in language; the community's organized silence as structural architecture; horror that is also mourning; the nod of recognition — a local acknowledging the supernatural not with surprise but with familiarity.
-
-**Work X — Mexican Gothic**: High Place as alien colonial imposition. The mushroom/fungal network connecting house, family, and soil in a closed biological system. The bride brought in for biological purpose disguised as marriage. The gloom preserving the patriarch's consciousness across generations. The organism that has been feeding so long it has become the landscape. Key structural elements: the outsider enters a closed system; the system has a biological mechanism that makes the metaphor literal; the colonial family has turned their extraction into an ecology.
-
-**Work Y — Ghost Summer**: The summer visit to the ancestral place. Children learn what the school system deleted. The body of water that holds what the town put there. The ghost story as history lesson. Adults who know but have agreed not to speak. The children who learn through the body — through cold water, wrong-textured mud, the physical reality of a place that remembers. Key structural elements: the outsider arrives at a place with layered knowledge; the locals have empirical knowledge expressed as folk wisdom; the body of land as repository; knowledge is physical, not intellectual.
+**Genre**: Horror
+**Subgenre**: Psychological Horror
+**Combination ID**: hor-psychhorror-002
+**Target Word Count**: 4,800 (range 4,500–5,100)
+**Risk Card**: REVERSE CHRONOLOGY (mandatory)
 
 ---
 
 ## Writing Samples
 
-### Sample 1: Silvia Moreno-Garcia — Prose Technique
+### Shirley Jackson — "The Lottery" (Author A / Work X)
 
-**Source**: Author A / Work X
-**Origin**: Silvia Moreno-Garcia, *Mexican Gothic* (2020), excerpts via Penguin Random House, LitCharts, and Gothic Nature Journal analysis
+**Opening prose**: "The morning of June 27th was clear and sunny, with the fresh warmth of a full-summer day; the flowers were blossoming profusely and the grass was richly green."
 
-Moreno-Garcia's opening establishes her protagonist through material specificity: "Noemí, like any good socialite, shopped at the Palacio de Hierro, painted her lips with Elizabeth Arden lipstick, owned a couple of very fine furs, spoke English with remarkable ease." The glamour is insistent — Noemí enters a horror story dressed for a party, and her refusal to become passive drives the plot.
+**Style hallmarks**: Detached, journalistic third person. The narrator reports on a scene as a neutral bystander. Early tone is light, peaceful, full of facts — the date, the number of participants, how long the event takes. The very neutral tone provides a contrast to the shocking event, heightening the reader's surprise and horror. Jackson's technique is accumulation of the ordinary until the ordinary becomes menacing. No single sentence is alarming. The alarm is structural.
 
-The house description weaponizes textiles and age: the rooms with "furniture covered in white sheets," the "dusty, gloomy rooms," the kitchen that is "ill lit" with "narrow windows and peeling paint on the walls." Two servants "sit on a long bench cleaning mushrooms." The mundane (mushroom cleaning) and the gothic (the gloom, the ill-lit rooms) exist in the same sentence without announcement.
+**Key technique for this story**: The matter-of-fact catalog of pleasant details. Every sentence reads as benign in isolation. Horror emerges only from the reader's growing recognition that the pleasantness is systematic. The narrator does not editorialize. The narrator does not foreshadow. The narrator reports, and the reporting is the horror.
 
-On the gloom as biological haunting: "What had once been Agnes had become the gloom [...] It was possession and not even that, but something she could not even begin to describe. The creation of an afterlife, furnished with the marrow and the bones and the neurons of a woman, made of stems and spores." The "made of stems and spores" is critical — the supernatural has a taxonomic classification. It is not ghostly but mycological. The Latin vocabulary of science is the vocabulary of horror.
+### Carmen Maria Machado — *Her Body and Other Parties* (Author B / Work Y)
 
-Moreno-Garcia's key move: the biology is literal, not metaphorical. As the Gothic Nature Journal analysis states, the fungal colonialism "makes the house seem like it is boundless, but also threatening." The mushrooms are real organisms that could be put under a microscope and classified — AND they are the mechanism of the haunting. This double status is the central technique the writer must channel.
+**Style hallmarks**: Moves from the surreal to the real and back with startling ease. Builds entire interior lives through sparse details — litanies of refrigerator contents, free-association on the coming of autumn. "Covered in sequins and scales, blazing with the influence of fabulists from Angela Carter to Kelly Link." The body is subject, culprit, and innocent simultaneously.
 
-**Why representative**: Shows the material-specificity style, the protagonist's active intelligence, the house-as-organism, and the biological-is-Gothic technique. The writer must give the sugar estate the same biological literalness that High Place's mushrooms have.
+**"Inventory" technique**: Chronicles experience through catalog — a life told through what was counted, with the horror residing in what wasn't. A deadly virus spreading in the background while the foreground meticulously logs intimate encounters. The form (inventory, list, data) is the meaning.
 
----
-
-### Sample 2: Tanarive Due — Prose Technique
-
-**Source**: Author B / Work Y
-**Origin**: Tanarive Due, *Ghost Summer* (2015), excerpts via SFFWorld, Reading Vicariously, Publishers Weekly, and author blog
-
-Due's opening gambit for the title novella: "No one warned her about summers in Gracetown..." — the ellipsis of what the warning would have contained doing more work than any description. The town's name is ironic in the way real town names are ironic: a place called Gracetown where grace is the one thing the community cannot extend to its history.
-
-The grandmother's revelation to the children: "I wasn't gonna say anything to you kids — but there's bodies buried over on that land across the street, out beyond Tobacco Road. McCormack's land. They found an old burial site, the bones of people who lived 'round here a hundred years ago. And not a cemetery neither — this has been McCormack land for generations." The narrator adds: "It was the coolest thing Grandma had ever said." The tonal shift — from horror to a child's excitement — is Due's signature: she lets the audience bring the weight the characters are too young to carry.
-
-Due's horror is communal rather than individual. As critics note: "The monsters in these stories bloom from love, silence, and the stories we can't stop telling." Her ghosts "ache for remembrance, and in listening to them, her characters and readers learn that survival sometimes means carrying the past forward, not burying it." The community's agreement not to speak is structural — remove it and something collapses.
-
-The body-knowledge technique: children swim in the lake and come out knowing something they didn't know before. "They can't articulate it, and the adults look at them and recognize the knowledge and still don't name it." The sensation is pre-verbal, absorbed through the body's contact with water that remembers what the community won't say aloud.
-
-From *My Soul to Keep*: "A low howl filled the two-story house, bleeding from the cracks in the knotty Dade County pinewood walls." Sensory precision — "knotty Dade County pinewood" — grounds the supernatural in geography and material.
-
-**Why representative**: Demonstrates the communal silence technique, the body-knowledge mechanism, the tonal complexity (horror + tenderness), and the material specificity. The writer must make the community around Domaine Cressé carry their silence with the same structural weight.
+**Key technique for this story**: The body as counter-narrative. Somatic symptoms as information the conscious mind refuses to process. Quantification as simultaneously a coping mechanism and a form of violence — the act of reducing experience to data points. Systems experienced through flesh rather than through abstraction.
 
 ---
 
-### Sample 3: Mexican Gothic — Structural Architecture
+## Wikipedia Concepts
 
-**Source**: Work X
-**Origin**: *Mexican Gothic* structural analysis via LitCharts, Wikipedia, SuperSummary, and Gothic Nature Journal
+### Selected Concept 1: Benford's Law
 
-The novel's structure follows a classic Gothic infiltration pattern: outsider arrives at a closed system, system attempts to incorporate outsider, outsider resists. But Moreno-Garcia complicates it: the system is not just a malevolent family but a biological ecology. The Doyle family is not separate from High Place — they are organs of the house-organism, maintained by the fungal network. The bride Catalina was not merely married into the family but biologically incorporated: "This house is sick with rot, stinks of decay, brims with every single evil and cruel sentiment."
+In naturally occurring numerical datasets, the leading digit "1" appears approximately 30% of the time, not the expected 11.1% of a uniform distribution. This logarithmic pattern holds for populations, financial data, street addresses, river lengths — any dataset that spans multiple orders of magnitude. Datasets that deviate from Benford's Law are flagged as potentially fraudulent. Forensic accountants, tax agencies, and election monitors use Benford analysis as a first-pass fraud detection tool.
 
-The buried infrastructure is critical: the crypt "so overrun with glowing mushrooms that its contents are visible," the "floor with the usual snake motif and a stone dais," "a yellow drape hanging from the wall." The horror is underground, in the foundation, in the walls — not decorating the house but constituting it. The mushrooms are the house's nervous system, and the family has been living with them so long they've stopped noticing.
+**Integration**: Loreen runs Benford's Law analysis on Garner Falls' financial data and gets results that are textbook perfect — not merely compliant, but exactly matching the expected distribution to an implausible number of decimal places. A data analyst would know that perfect Benford compliance in a small-town dataset is itself a statistical anomaly. Natural data is messy. Clean data is cleaned. She notes this, files it, and does not follow up. The Benford moment is the story's quiet scream — the one scene where Loreen has the tool to detect artificiality and the result tells her something is wrong, and she chooses the reasonable explanation over the alarming one.
 
-Noemí's resistance is active and physical. She burns the house. She destroys the organism. This is Moreno-Garcia's immune-response Gothic: infect, resist, destroy. Due's Gothic (per the author meeting) does not have this option — "there is no burning down the lake." This story must find the space between them: the protagonist who acts (Moreno-Garcia) but whose action cannot destroy the system (Due).
+### Selected Concept 2: Desire Paths
 
-**Why representative**: The writer must internalize the buried-infrastructure technique (original kettles beneath the spa, the processing apparatus sealed under renovation) and the organism-as-antagonist structure, while denying the protagonist the satisfaction of burning it down.
+Unofficial trails worn through grass, parks, and empty lots by human foot traffic — the routes people actually take rather than the ones planners built. Desire paths emerge as shortcuts where planned paths are too long or circuitous. They are the gap between designed intent and lived behavior, visible from above as lines of bare earth through green lawns. In Finland, planners document where people walk after the first snowfall, then pave those routes.
 
----
-
-### Sample 4: Ghost Summer — Thematic Architecture
-
-**Source**: Work Y
-**Origin**: *Ghost Summer* thematic analysis from multiple reviews and critical sources
-
-The novella's structure: children arrive at a small Florida town for a summer visit. They are told not to swim in the lake. They swim anyway. In the water they learn things — not through supernatural revelation but through bodily sensation. The mud at the bottom has a texture. The water is cold where it shouldn't be cold. They come out different.
-
-The community's architecture of silence: the adults know what happened (the disappearance of three young boys, a hundred years earlier, possibly murdered, possibly connected to the burial site). They don't speak of it. Their not-speaking is not denial — it is a structural decision that holds the town's daily life in place. The silence is load-bearing. When children arrive and begin asking questions, the structure creaks.
-
-The ghost story as deleted history lesson: the school curriculum doesn't cover what happened to those boys. The town's memory is the only archive. When the memory is organized around not-saying, the archive is both complete (everyone knows) and inaccessible (no one will tell you). The children have to learn through the body — through swimming, through touching the ground, through being in the place — because language has been sealed off as a transmission medium.
-
-The ending does not resolve. The children leave. The lake stays. The town stays. The agreement not to speak stays. "Nobody wins." This is the tonal register the writer must hit: knowledge gained, system unchanged, departure without victory.
-
-**Why representative**: The writer must replicate the body-knowledge mechanism (soil instead of water), the community's architectural silence, and the unresolved departure.
-
----
-
-## Wikipedia Fusion Concepts
-
-### Articles Surveyed (20 concepts from random exploration):
-
-1. Bagasse — the dry fibrous residue left after crushing sugarcane
-2. Brix scale — measurement of sugar content using refractometer
-3. Rhizosphere — the narrow zone of soil directly influenced by plant root secretions
-4. Soil horizon — layered structure of soil (A, B, C horizons)
-5. Mycorrhizal network — underground fungal networks connecting plants
-6. Bone char (carbo animalis) — charred animal bones used to decolorize sugar
-7. Phantom limb — persistent sensation of an amputated body part
-8. Monoculture — agricultural practice of growing single crop over wide area
-9. Sunn hemp — tropical legume cover crop for soil remediation
-10. Refractometer — optical instrument for measuring sugar concentration
-11. Gel electrophoresis — separation of biological molecules by size and charge
-12. Bagasse board — building material made from sugarcane waste
-13. Crotalaria juncea — nitrogen-fixing plant for soil reclamation
-14. Vernalization — cold requirement for plant flowering
-15. Cadastral survey — formal mapping of land boundaries
-16. Phenology — science of seasonal timing in organisms
-17. Root microbiome — community of microorganisms in root zone
-18. Calcium hydroxyapatite — primary mineral component of bone
-19. Adolf Ferdinand Wenceslaus Brix — 19th century inventor of the Brix sugar scale
-20. Cortical reorganization — brain remapping after limb loss
-
-### Selected Concepts (2):
-
-**1. Bone Char (carbo animalis)**
-
-Animal bones charred at 700°C, historically used to decolorize and whiten raw cane sugar. Bone char removes up to 80% of the color from sugar, producing the white refined product. Its composition is ~57-80% calcium hydroxyapatite (tricalcium phosphate), 6-10% calcium carbonate, and 7-10% carbon. Historically, the bones were sourced from cattle slaughterhouses. In the context of Caribbean sugar plantations, where enslaved workers were worked to death at rates where life expectancy could be as low as seven years, and where the dead were buried on the plantation land (or not buried — left), the chemical signature of bone char and the chemical signature of human remains composted into soil over centuries produce overlapping mineral profiles: calcium hydroxyapatite is the primary mineral component of both industrial bone char and human bone.
-
-**Integration**: The graduate student's soil analysis reveals anomalous calcium hydroxyapatite concentrations in the deep soil horizons of the cane fields — the chemical fingerprint of bone, but in distributions that don't match industrial bone char waste from sugar processing. The signatures are too deep, too evenly distributed through the soil matrix, taken up by the cane's root system through the rhizosphere. Her data cannot distinguish between industrial bone char (the processing byproduct) and human remains (what the plantation put into the ground). This analytical ambiguity IS the horror: the science works perfectly and still can't separate the product from the cost. The whitening of sugar through bones becomes a literal and figurative frame — the refinement process that strips the color (the visible history) from the product (the curated heritage).
-
-**2. Phantom Limb Syndrome**
-
-80-100% of amputees experience phantom limb sensations — the persistent feeling of a body part that has been removed. The neuromatrix theory (Ronald Melzack) proposes that the experience of the body is created by a wide network of interconnecting neural structures; the brain continues to model the missing limb because the neural architecture for it was never removed, only disconnected from input. Even people born without limbs can experience phantom sensation of limbs they never had — the neural template exists independent of the physical part.
-
-**Integration**: The plantation as a body whose original function — sugar extraction through forced labor — was "amputated" by emancipation but whose neural architecture was never dismantled. The cane fields, the processing infrastructure, the soil chemistry, the root systems — these are the neural pathways that still "feel" the operation. The sweet smell that everyone notices and nobody questions is the phantom sensation: the estate still performing sugar processing as a phantom operation, felt by everyone (guests love the smell), acknowledged by no one. Ayo's body begins to experience phantom labor — exhaustion, sore muscles, the sensation of cutting and carrying — absorbed through physical contact with soil that still carries the neural template of the operation. Her science confirms the phantom: the Brix readings are too high, the soil chemistry is still producing sweetness, the cane is still feeding and being fed. The plantation's labor force was removed but the land never stopped working.
+**Integration**: Loreen discovers seven desire paths cutting through Garner Falls — worn trails through yards, across vacant lots, through the strip of woods behind the middle school. They don't connect to each other. They don't seem to lead anywhere useful. People walk them anyway. The desire paths are the physical inscription of everything her data doesn't capture: where bodies actually move versus where the town's infrastructure directs them. Loreen maps them from satellite imagery but never walks their full length. At her disappearance, her laptop is open to the satellite view with the paths marked in red. What they form, where they lead, who walks them at what hours — this thread remains open. The desire paths are the story's unresolved question, the data point that doesn't fit the model.
 
 ---
 
@@ -135,140 +48,166 @@ Animal bones charred at 700°C, historically used to decolorize and whiten raw c
 
 ### 1. Premise
 
-A Ghanaian-British soil scientist arrives at a former Caribbean sugar plantation — now a heritage boutique hotel — to study the long-term chemical effects of monoculture sugarcane on tropical soil. Her analysis reveals anomalous calcium hydroxyapatite in the deep soil, the mineral signature of bone in concentrations her methodology cannot attribute to industrial processing alone. The community around the estate has always called certain fields "bone ground" — a term the hotel translates as quaint folk taxonomy and the graduate student initially files as ethnopedological data — until her own body begins to register what the soil and the locals have been saying in two languages she has been treating as one.
+Loreen Voss, senior data analyst for Garner Falls, Oregon (pop. 8,400), has spent twelve years compiling the town's metrics. Every measurable indicator has improved year over year without exception. Crime down 34%. Test scores up 22%. Property values climbing at a steady 3.1% annually. Voter turnout above 70%. Water quality perfect. Fire inspections on time. The spreadsheets are flawless.
+
+The story opens in the aftermath of Loreen's disappearance. Not dramatic — she stopped coming to work one Tuesday in September. Her office is neat, her final quarterly report filed and accurate, her car parked in the lot. No note. No sign of distress. Her personal laptop is open to a satellite image of Garner Falls with a network of desire paths marked in red.
+
+The story moves backward through time in seven sections, each anchored to a year of Loreen's tenure. Each section is warmer, calmer, healthier than the last. Her body unwinds — jaw loosens, rash heals, sleep normalizes. The town grows more beautiful. The data grows more perfect. By the final section (Year One), Loreen is arriving in Garner Falls for the first time, full of hope, her body at ease, walking into a town that will be good to her — genuinely, measurably good — for twelve years.
+
+What is wrong with Garner Falls? The story never says. The most frightening possibility is the most mundane: the prosperity is real, the data is accurate, and no amount of accuracy told Loreen what she was inside of.
 
 ### 2. Protagonist
 
-**Name**: Ayo Mensah
-**Age**: 28
-**Situation**: Ghanaian-British doctoral candidate in tropical soil science at the University of Edinburgh. Conducting fieldwork for her dissertation on pedological signatures of Caribbean sugar monoculture. Funded by a postcolonial agriculture research initiative. She is the first person in her family to pursue a PhD; her parents run a small import business in Brixton. She chose soil science because soil does not lie — it records everything in mineral ratios and organic traces that survive centuries. She is at Domaine Cressé on a six-week research fellowship arranged through the hotel's heritage partnership program, which welcomes academic visitors as part of its "commitment to historical understanding."
+- **Name**: Loreen Voss
+- **Age**: 41 at disappearance (29 at arrival)
+- **Situation**: Senior Data Analyst for Garner Falls Municipal Planning. Hired from Portland, where she processed crime statistics for a county of 600,000. Moved to Garner Falls for quality of life and the chance to do work that felt like good news. Unmarried, owns a house on Alderman Street, runs the Saturday farmer's market analytics for the town website.
+- **Want**: To trust the data. To believe a good place can stay good and the numbers prove it.
+- **Need**: To account for what the data excludes — the unmeasured, the uncountable, the lived residue no metric captures.
+- **Flaw**: She conflates measurement with understanding. If she can quantify it, it's known; if she can't, it doesn't exist in her professional reality. This makes her extraordinarily competent and fatally incurious about anything outside her data model. She is the turkey who is also the turkey's best analyst — she can tell you exactly how well she's being fed.
 
-**Want**: To complete rigorous, publishable science that quantifies the ecological damage of plantation monoculture — to make the land's history legible in the language of peer-reviewed journals.
+### 3. Structure (Reverse Chronology)
 
-**Need**: To understand that her scientific framework, however rigorous and well-intentioned, is performing the same operation as the hotel's heritage brochure — processing the land's testimony into a form that is presentable, citable, and ultimately absorbable by the same system that produced the damage. She needs to encounter the gap between data and knowledge, between measurement and reckoning.
+Seven sections, each headed by its data point. The reader starts at the end (absence, dread) and moves backward into warmth. Each section is shorter than the one before it until the final one, which expands — the arrival getting the most space because it needs to be the most beautiful.
 
-**Flaw**: Ayo treats all knowledge as convertible to data. She listens carefully to locals, records their observations, honors their terminology — and then files everything under "ethnopedological data" in her field notes. Her respect for local knowledge is genuine but instrumental. She cannot hear what the community is telling her because she is too busy cataloguing it. Her methodology is her version of the community's silence: a structure that keeps the unbearable at a manageable distance. Her charts and sample labels and footnotes do the same work as the town's agreement not to speak — they are ways of knowing without having to know.
+**SECTION 1 — YEAR TWELVE, SEPTEMBER: "Missing Person Report 24-0917. Status: Open."**
+(~800 words)
 
-### 3. Structure (5 Beats)
+Loreen's office after her disappearance. Third-person, Jackson-flat. A police officer takes notes. A colleague says Loreen seemed fine — happy, even. Her final quarterly report is accurate. Her car is in the lot. The laptop shows the satellite image with desire paths marked in red. Someone mentions she'd been taking walks at odd hours, following the paths. The police officer notes this. The investigation will be thorough.
 
-**Beat 1 — Opening: The Arrival and the Smell** (~900 words)
+The body: absent. Only traces. A coffee mug with a faint ring. Her colleague mentions Loreen stopped wearing her watch a week before. Small physical absences preceding the large one. The fluorescent lights buzz at a frequency no one noticed when Loreen was in the room.
 
-Ayo arrives at Domaine Cressé, a former sugar estate on a Francophone Caribbean island. The estate has been converted to a heritage boutique hotel: the boiling house is a spa, the overseer's cottage houses a gift shop, the cane fields have been replanted in heritage rows with interpretive signage ("Heritage Cane Walk, 45 minutes, moderate difficulty"). The hotel is tasteful — the owners are well-meaning Europeans who purchased the property, hired a heritage consultant, and preserved original structures out of genuine respect. Not villains. Believers in authenticity as a sellable quality.
+**SECTION 2 — YEAR TEN: "Annual Municipal Report: All Indicators Positive. 8th Consecutive Year."**
+(~700 words)
 
-Ayo notes the smell immediately: sweet, warm, pervasive. Guests in their online reviews describe it as "incredible botanical fragrance." She checks in, meets Lise (concierge, local woman in her 50s, who has worked this property since before the conversion), and sets up her field equipment in her ground-floor room — a converted storage room with original stone walls, much thicker than the renovated upper floors.
+Loreen presents her annual report to the town council. Every metric is up or stable. Applause. She feels satisfaction — and a tightness in her jaw that started six months ago, a rash on both palms that flares when she opens the spreadsheets.
 
-Establish: the curated estate, the smell, Ayo's scientific precision, Lise's measured politeness, the gap between the brochure and the ground beneath it.
+She runs Benford's Law analysis on the town's financial data. The leading-digit distribution is textbook perfect. Not just compliant — perfect. She has the training to recognize that textbook-perfect Benford compliance in a dataset this small is itself a statistical anomaly. She notes this. She files it. She closes the file. The click of closing is the loudest sound in the story.
 
-**Beat 2 — Inciting Disruption: The First Samples and "Bone Ground"** (~1,200 words)
+Driving home, she passes the park. A desire path cuts diagonally across the planned walking trail. She notices it the way she notices all patterns: automatically, categorically. She does not follow it.
 
-Ayo begins soil sampling in the heritage cane fields. Transects, depth profiles through the A, B, and C horizons, GPS coordinates, sealed containers. Her portable refractometer and initial chemical analysis return data. The A horizon (topsoil) is textbook: depleted nitrogen, elevated potassium — standard monoculture signatures after three centuries. But the B horizon samples from the north field show anomalous calcium hydroxyapatite concentrations. Bone char fingerprint. Not unusual in sugar regions historically — bone char was used in refining. But the concentrations are too high and the distribution is wrong. This is not industrial waste scattered from a processing facility. This is bone integrated into the soil matrix, distributed through the rhizosphere, taken up by the cane roots.
+**SECTION 3 — YEAR EIGHT: "Property Values: +3.1% (8th Consecutive Year)."**
+(~700 words)
 
-Ayo asks Lise about the north field. Lise says: "That's bone ground." Ayo asks what that means locally. Lise says: "It means the soil is tired." She changes the subject with a quality of deflection Ayo recognizes from other fieldwork — not a refusal to answer but a refusal to answer in the language the question was asked. Ayo writes in her field notes: "terre d'os — local term for depleted soil, possibly referencing historical bone char use."
+Body healthier. Jaw tight but not painful. Palms clear. She sleeps six hours — not great, but functional. She's seeing a man named Paul who works at the county assessor's office. He mentions Garner Falls' property values are unusual — not high, but consistent. "Like someone ironing a shirt," he says. She laughs. He asks if she's noticed the town's fire inspector, Ed Kessler, shares a name with the man who owns the building where her office is. She has noticed. She looked into it once: they're cousins. She did not look further.
 
-She speaks to Géraud, the older groundskeeper who maintains the heritage cane. He tells her which fields grow wrong. The north field cane is sweeter than it should be — the Brix readings are off, too high for heritage-variety cane in this soil. His grandmother wouldn't eat the north field cane. Ayo asks why. Géraud: "She said it had already been eaten."
+She walks the desire paths one Saturday. Seven of them, cutting through yards, across vacant lots, through the strip of woods behind the middle school. They don't connect. They don't seem to go anywhere useful. People walk them anyway. She counts the footprints but doesn't ask who walks them or why.
 
-**Beat 3 — Escalating Middle: Deeper Samples, Deeper Silence** (~1,800 words)
+**SECTION 4 — YEAR SIX: "School Performance: 94th Percentile (State Average: 71st)."**
+(~600 words)
 
-Ayo extends her sampling to depth. She digs test pits. At the C horizon — deep subsoil approaching bedrock — the calcium signatures intensify rather than diminish. This is backwards from surface contamination. Whatever is in this soil didn't come from the top. It was put there. Or it grew there. She sends samples to her supervisor in Edinburgh and keeps working.
+Loreen's best year. Settled, confident. She publishes a case study in a regional planning journal: "Sustained Positive Deviation: Twelve Indicators of Municipal Health in a Small Oregon Community." Gives a talk at a conference. Someone in the audience asks what explains the sustained improvement. She says the data doesn't tell her why, only that. The questioner presses: doesn't the absence of explanation concern her? She says no. The data is the data.
 
-Three weeks in. She notices patterns. Guests comment on the smell and love it. Staff never mention it. The heritage cane walk is popular; tourists photograph the rows and read placards that describe colonial agriculture in careful, complete, factual terms that somehow communicate nothing. The boiling house spa offers a "cane sugar body scrub." Everything about the estate is visible, curated, acknowledged. And the acknowledgment functions as a seal.
+Body: jaw loose, palms smooth. Sleeps through the night. Cooks elaborate meals. By every metric she would use to measure well-being, she is well.
 
-Ayo begins to experience the smell differently. Not flowers, not fresh cane — processed cane. The smell of sugar being boiled. She mentions this to Lise. Lise says: "You're adjusting. Newcomers always think it's the garden." No denial. No surprise. The nod.
+At the conference hotel, 2 a.m. Staring at the satellite image. She's added four new desire paths since she started tracking. She counts them. She does not ask what they mean.
 
-Ayo's body starts registering things her instruments confirm but cannot fully express. Her hands, after handling deep soil samples, feel wrong — not dirty but inhabited. She washes them; the sensation persists. The phantom-limb feeling: the soil touching her in a place her hands don't have. She sleeps badly. Dreams not of ghosts but of repetitive labor — cutting, carrying, feeding cane into machines. She wakes with sore muscles, exhausted, as if she has been working fields she has never worked.
+**SECTION 5 — YEAR FOUR: "Voter Turnout: 74%. National Average: 42%."**
+(~600 words)
 
-She discovers that the spa was built directly over the old boiling house's original iron kettles. Architectural drawings at the local records office confirm it. The kettles are still there beneath the treatment rooms — sealed under concrete and tile, never removed. The renovation built over the operation rather than dismantling it.
+Loreen makes her first real friend in town — Bev Alderman, who runs a bakery on Main Street. (Loreen lives on Alderman Street; Bev's family founded the town.) Bev brings scones to the municipal building every Tuesday. Loreen quantifies the gesture: 208 Tuesdays in four years, never missed. Bev mentions she remembers when the town wasn't like this — Main Street had vacancies, the school almost closed. "It just got better. Not all at once. Just every year, a little better." Loreen asks when. Bev thinks. "About the time we started measuring," she says, and laughs.
 
-She goes to Géraud again. She tells him about the deep soil readings. He listens without reading the numbers and says: "My grandmother said this ground doesn't sleep. Not the north field, not the east. She said you can hear it working at night if you're quiet enough." He pauses. "I'm quiet enough."
+Body: soft, rested, unguarded. Loreen does not yet know what a tight jaw feels like. The desire paths don't exist yet, or she hasn't found them. The town smells like pine and bread and cold water from the river.
 
-**Beat 4 — Crisis: What the Soil Says** (~900 words)
+**SECTION 6 — YEAR TWO: "Crime Rate: -12% Year-Over-Year."**
+(~600 words)
 
-Her Edinburgh supervisor calls. The lab results on the deep samples are back. The phosphorus ratios, nitrogen isotope profiles, and calcium distribution all point toward human remains composted into the soil over an extended period. Centuries. The degradation makes absolute identification impossible, but the mineral profile is consistent. The bone char signature isn't industrial processing waste. It's the bones themselves — slowly mineralizing in the tropical soil chemistry, becoming the medium through which the cane has been sweetened.
+New enough to double-check her work. She runs the crime numbers three times — not impossibly low, just low in the way that makes you recount. The recount confirms. She drives the streets at night for no articulable reason, looking at houses with porch lights on. Looking for evidence of the data. Finding it everywhere. Safe streets. Lit porches. Kids' bicycles on lawns overnight, unchained. She feels something — not suspicion, not yet. A sensation closer to gratitude, or awe, or the specific vertigo of having arrived somewhere that is exactly what it claimed to be.
 
-Ayo sits with the data in her ground-floor room and understands: the cane has been feeding on the dead. Not metaphorically. Chemically, in the soil matrix, in the root uptake, in the Brix readings. The sweet smell is the ongoing process — the land still refining, still extracting sweetness from what was put into it. The plantation was never decommissioned. Its labor force was removed, but the operation continues as phantom function — the neural pathways of the soil still performing what they were organized to do.
+She notices her first desire path: a worn line through the grass behind the library, cutting toward the river. She follows it thirty yards and stops. It continues into trees. She goes back to her car.
 
-She goes to Lise. She shows a simplified version of the findings. Lise asks her what she plans to do with the report. Ayo says she'll publish it. Lise: "And then what? Another plaque? A paragraph in the brochure? You think a number makes this different from what we already know?"
+Body: loose, new, unmarked. She sleeps nine hours. She has not yet begun to grind her teeth.
 
-Ayo has no answer. Lise goes back to work. Ayo stands in the lobby holding her report.
+**SECTION 7 — YEAR ONE, MARCH: "Position Accepted. Start Date: April 1."**
+(~800 words)
 
-**Beat 5 — Ending: The Report and the Residue** (~600 words)
+Loreen arrives. The final section, which is the beginning. She drives into Garner Falls on a March afternoon, the mountains still snow-capped, the river running high. A hardware store, a diner, a library built in 1922 with a copper roof gone green. She parks in front of the municipal building. A fire inspection certificate in the window, dated and signed. A flyer for a pancake breakfast. A water quality report with every number highlighted in green.
 
-Ayo writes the report. Thorough, rigorous, properly cited. She documents the anomalous calcium hydroxyapatite, the organic signatures consistent with human remains, the ongoing biological process by which the heritage cane feeds on what the plantation deposited. She formats it to university standards. She includes the Brix readings, the depth profiles, the isotope ratios.
+She will spend twelve years feeding these numbers into spreadsheets. She will watch every metric improve. She will feel the town tighten around her, or herself tighten inside the town, and she will not be able to determine which. The data will be perfect. The data will always be perfect.
 
-She also includes, in an appendix her supervisor will probably recommend cutting, the phrase "terre d'os" and Géraud's observation that his grandmother said the ground doesn't sleep. She labels the section "Ethnopedological Data" and knows, typing the heading, that the label is another form of the same refinement — processing local knowledge through an academic filter that strips it of something the way bone char strips sugar of color.
+But right now it's March, and the air smells like snowmelt, and Loreen Voss is walking into a town that will be good to her — genuinely, measurably good — and she is thinking: *I could be happy here.*
 
-On her last morning, she walks the north field alone at dawn. The heritage cane stands in neat rows. Interpretive signage catches early light. The smell is there — sweet, warm, inescapable. She puts her hand in the soil. Not to sample. To touch. The soil is warm. Not tropical-morning warm. Warm the way something that is processing is warm.
+The reader, who started at her empty desk, knows she was.
 
-She leaves. The hotel continues to operate. The cane continues to grow. The report, like everything else, will be absorbed into the estate's system — another layer of knowledge that Domaine Cressé can acknowledge without being changed by. Géraud tends the north field. Lise greets new guests. The smell persists.
+### 4. Key Scenes (in reading/reverse order)
 
-**Thread left open**: What happens to the report. Whether publication changes anything or becomes another plaque. Whether Ayo's science was testimony or refinement. The land continues its phantom operation regardless.
+1. **The Empty Office** (Section 1): Police procedural as horror. Loreen's absence registered through objects — the filed report, the parked car, the coffee ring, the missing watch. The satellite image with red lines. The data shows no anomalies. That is the anomaly.
 
-### 4. Key Scenes
+2. **Benford's Law** (Section 2): Loreen runs the leading-digit analysis and gets results too perfect to be natural. She has the forensic training to know what this means. She files the observation and closes the file. The click of the laptop closing should feel like a door shutting from inside.
 
-- **The refractometer scene**: Ayo testing cane juice Brix levels and getting readings impossibly high for heritage-variety cane. Géraud watching her discover what he already knows. The instrument confirms the folk knowledge but does not translate it — the number doesn't convey what "it had already been eaten" conveys. This scene is where Moreno-Garcia's biological literalism meets Due's community knowledge: two ways of knowing the same fact, neither containing the other.
+3. **The Fire Inspector** (Section 3): Ed Kessler inspects the building his cousin owns. Loreen found the reasonable explanation and stopped looking. The reasonable explanation is always available. The reasonable explanation is the system's immune response. Also: the seven desire paths that go nowhere, that she counts but never questions.
 
-- **The boiling-house spa discovery**: Ayo in the records office finding architectural drawings showing the original kettles sealed beneath the spa floor. Then visiting the spa itself, sitting in the waiting room above the buried apparatus, feeling the warmth from below — a residual heat from an operation that was never decommissioned, only redecorated. The renovation didn't dismantle the processing; it upholstered it.
+4. **"About the time we started measuring"** (Section 5): Bev's offhand comment. The town started improving when metrics began. Either coincidence, or evidence that measurement and improvement are the same process, or evidence that measurement is the feeding. Loreen registers the comment. She does not distinguish between these possibilities.
 
-- **The night of phantom labor**: Ayo wakes at 3 AM with muscles aching, hands raw, the smell of burned cane in her hair. She has been dreaming of cutting — not her own memory but body-memory absorbed through weeks of contact with soil that remembers. This is the phantom limb: the land's amputated labor force still felt in the neural pathways of the soil, now conducted into her body because she put her hands where the nerves are. The dream is not ghostly apparition — it is repetitive motion, exhaustion, the sensory reality of labor that the heritage walk's placards describe in the passive voice.
-
-- **Lise's question — "And then what?"**: Not a confrontation. A genuine question. Lise doesn't argue with the science. She asks whether documentation is different from the silence, or just the silence in a different register. This is the story's moral center. Ayo's report and the community's not-speaking and the hotel's heritage brochure are three versions of the same operation: processing the unbearable into a manageable form. Each one acknowledges the history. None of them reckon with it.
-
-- **The final touch**: Ayo's hand in the north field soil. Not sampling. Touching. The warm soil. The cane above her. The smell. She withdraws her hand and does not take notes. The first moment in the story where she is present in a place without mediating it through methodology — and therefore the first moment she is fully exposed to what the place is.
+5. **The Arrival** (Section 7): Loreen entering Garner Falls. March light. Snowmelt. The copper-roof library. The most beautiful section. The reader's nausea should be at its peak — not from horror on the page, but from the weight of twelve years the reader has already watched evaporate from the other end.
 
 ### 5. Emotional Trajectory
 
-**Opening**: Professional confidence, intellectual excitement. Ayo is good at her work and knows it matters. The hotel is pleasant, the landscape beautiful, the fellowship a career opportunity. The smell is nice.
+The reader's arc runs opposite to the chronological warmth:
 
-**Rising**: Curiosity shading into unease. The data is strange. The locals' deflections have a quality she can feel but not classify. The smell shifts from pleasant to familiar to wrong — not rotten, not dangerous, but wrong in the way that something still-functioning in a place that should be finished is wrong.
+**Section 1 (Year 12)**: Cold dread. Clinical emptiness. Something happened and the data can't explain it.
 
-**Middle**: Growing dislocation. Her body knows things her instruments confirm but cannot express. The phantom-labor dreams. The persistent sensation in her hands. She is competent and thorough and still not hearing what the land is saying. The gap between her data and Géraud's knowledge widens even as both point to the same fact.
+**Section 2 (Year 10)**: Creeping unease. The body symptoms. The too-perfect Benford results. The rash on her palms when she opens spreadsheets. The data is the problem, but it's all she has.
 
-**Crisis**: The lab results arrive and intellectual unease becomes moral crisis. The data works. The science is sound. And it doesn't matter — it is another form of processing, another way of extracting something from the soil and refining it into a presentable product. Lise's question punctures: the report is the report. What changes?
+**Section 3 (Year 8)**: Growing suspicion. The Kessler overlap. The desire paths to nowhere. Details individually benign, collectively wrong.
 
-**Ending**: Not despair. Not resolution. A kind of terrible clarity — seeing the system whole and understanding that seeing it is not dismantling it. Ayo finishes her work. She touches the soil without instruments. She leaves. The land's phantom operation continues.
+**Section 4 (Year 6)**: Queasy recognition. Loreen at her confident peak, presenting perfect data, dismissing the one hard question. The reader sees the trap closing, but the trap is made of genuine good things.
 
-**NOT**: No epiphany. No "she finally understood." No symmetrical bookend. No tidy resolution of Ayo's relationship to her methodology. The ending is asymmetrical — she leaves with a report that is accurate and insufficient, and a sensation in her hands she cannot footnote.
+**Section 5 (Year 4)**: Sick certainty. Bev's comment lands differently for the reader than for Loreen. "About the time we started measuring." Measurement and improvement twinned. The town is the data and the data is the town and neither explains the other.
+
+**Section 6 (Year 2)**: Tender dread. Loreen is so new, so hopeful, so ready to be fed. Safe streets. Bicycles on lawns. She follows her first desire path thirty yards and turns back. The reader wants to warn her.
+
+**Section 7 (Year 1)**: Devastating beauty. Snowmelt, the copper-roof library, the fire certificate in the window. Everything the reader has already seen the end of. *I could be happy here.* She was. The door closes from outside.
+
+**Open thread**: The desire paths are never explained. Loreen mapped them, tracked them, was found studying them. What they form, where they lead, who walks them — unresolved. They may be significant. They may be nothing. The story refuses to decide.
 
 ### 6. Formula Integration
 
-**From Author A (Moreno-Garcia)** — concentrated in: The estate as biological organism. Domaine Cressé is a living system — the cane feeds, the soil processes, the hotel metabolizes history into product. Ayo is the outsider heroine (not glamorous but analytical — the same archetype of the competent woman entering a system designed to absorb her). The biological mechanism is real: calcium hydroxyapatite, Brix readings, root uptake. The horror has a scientific basis; the science IS the horror. **Identifiable passages**: the soil analysis sequences, the refractometer scene, the boiling-house architectural revelation, the lab results call. Moreno-Garcia's technique of making the biology literal rather than metaphorical should permeate every scene where Ayo does science.
+**Author A — Shirley Jackson** (visible throughout, concentrated in Sections 1 and 7):
+- The narrative voice is Jacksonian: flat, observational, matter-of-fact. The town described with the same detached specificity Jackson uses for the village in "The Lottery" — the hardware store, the pancake breakfast flyer, the metal folding chairs. Horror from the accumulation of ordinary detail, not any single extraordinary one.
+- The colleague who says Loreen "seemed fine." The police officer who takes notes. The council that applauds. Everyone behaving normally. The normalcy is the menace.
+- Jackson's community ritual: the annual report IS the lottery. Presented every year; everyone participates; no one examines what it produces or what it means.
 
-**From Author B (Due)** — concentrated in: The community's organized silence. Lise's deflections, Géraud's folk knowledge, the structural agreement not to name what everyone carries. The body-knowledge: Ayo's hands, her dreams of phantom labor, the sensation that enters through skin contact with soil. The ghost that is history itself — no apparition, no spectral figure, just the ongoing operation of a system that was never stopped. The nod of recognition: Lise and Géraud don't fear what Ayo discovers; they recognize it. **Identifiable passages**: every conversation with Lise (the careful deflection, the "you're adjusting" line, the devastating "and then what?"), every conversation with Géraud (the folk wisdom that precedes and outlasts the science), the phantom-labor dream.
+**Author B — Carmen Maria Machado** (visible throughout, concentrated in Sections 2-3 and the body tracking):
+- Loreen's body as counter-narrative. Moving backward, symptoms disappear: jaw loosens, palms clear, sleep normalizes. The unwinding reads as healing but IS the approach — the body recording the thousand days of feeding. The body knows what the spreadsheets don't.
+- The desire paths: landscape as body, foot traffic as the town's unconscious. Worn into earth by bodies moving outside planned routes — the unmeasured, the uncounted. "Everything she didn't count is the town."
+- Quantification as violence: Loreen's attempt to bring desire paths into her data model (mapping, counting footprints) mirrors Machado's theme of systems reducing experience to data points. The spreadsheet as digestive tract.
 
-**From Work X (Mexican Gothic)** — concentrated in: The colonial estate as alien imposition. The buried infrastructure (the kettles beneath the spa, paralleling the mushrooms in High Place's walls). The bride brought in for biological purpose, inverted: Ayo is the researcher brought in whom the system begins to incorporate through her body. The organism that has fed so long it has become the landscape — the cane fields that are simultaneously heritage decoration and an active feeding system. **Identifiable passages**: the spa/boiling-house discovery, the description of the renovation as upholstery over a still-operating machine, the persistent warmth from below.
+**Work X — "The Lottery"** (structural):
+- The annual municipal report mirrors the annual lottery: a public ritual whose true function is unexamined. The council applauds. Numbers enter the record. No one asks what the ritual produces.
+- Slow revelation: the reader, moving backward, gradually understands that the measurement system everyone participates in may be the mechanism — not of harm exactly, but of something the story won't name.
+- The fire inspection certificate with the shared name echoes the lottery's unreplaced black box — a procedural artifact accepted because the form is filled out correctly.
 
-**From Work Y (Ghost Summer)** — concentrated in: The outsider arriving at a place whose community carries generational knowledge silently. Children's body-knowledge from swimming = Ayo's body-knowledge from touching soil. The body of water holding what the town put there = the soil holding what the plantation put there. The ghost story as deleted history = the soil report as history the brochure curated away. The unresolved departure: the protagonist leaves, the system persists, "nobody wins." **Identifiable passages**: the arrival and discovery of curated history, the phantom-labor dreams (learning through the body, not explanation), the open ending.
+**Work Y — *Her Body and Other Parties*** (thematic):
+- Reducing a community to data points makes it legible to systems but illegible to itself. What happens between the numbers is where the town lives.
+- Loreen's rash, jaw tension, insomnia: the body registering systemic forces the data cannot capture. *Her Body* applied to civic life.
+- The section headings (each a data metric) mirror Machado's "Inventory" — a life told through what was counted, horror residing in what wasn't.
 
-**Wikipedia fusions**:
-- *Bone char*: The historical process of whitening sugar through charred bones becomes the literal soil finding — calcium hydroxyapatite signatures from human remains slowly mineralized over centuries. The refinement metaphor extends to Ayo's own work: she refines local knowledge into data the way bone char refines raw sugar into white. The apparatus of refinement (whether chemical or academic) strips the visible — the color, the folk language, the body-knowledge — from the product.
-- *Phantom limb*: The plantation's continued operation as phantom sensation. The labor force was removed but the neural architecture persists — the root systems, the soil chemistry, the biological processes that organized themselves around extraction. The estate still "feels" its original function. Ayo's phantom-labor dreams. The sweet smell as phantom sensation experienced by everyone, named by no one.
+**Benford's Law** (Wikipedia concept 1):
+- Grounds the data-horror in real mathematics. The reader who knows Benford's Law understands what "textbook perfect" means in a small dataset. The reader who doesn't still feels the wrongness of a test designed to catch fraud returning results too flawless to be natural.
+
+**Desire Paths** (Wikipedia concept 2):
+- The physical inscription of unmeasured behavior. Where bodies actually move versus where infrastructure directs them. The gap between planned and lived. That Loreen was studying them at the end suggests she was trying to read the version of the town her data couldn't capture — and whatever she found, or didn't find, preceded her disappearance.
 
 ### 7. Title
 
-**Bad Ground**
+**Every Number in the Green**
 
-Does not start with "The." Two words. Direct, Caribbean-folk in register. References the empirical term that Géraud and Lise would use — the observation that predates and outlasts the scientific one. The ground is literally bad: chemically compromised, biologically active with human remains, producing cane that is sweeter than it should be. The ground is also figuratively bad: morally contaminated, historically saturated, performing an operation that was never decommissioned. The title refuses to refine the folk term into something academic or literary. It stays where the locals put it. Diverges from existing catalog titles — no compound structure, no possessives, no abstractions. Blunt where the hotel's brochure is elegant.
+From the author meeting: the water quality report "with every metric in the acceptable range, each number highlighted in green by someone who'd apparently found this reassuring enough to color-code." The title reads as benign — a good report, a passing grade, every box checked. Only after the story does the green turn: green as pasture, as growth before harvest, as the color-coded comfort that substituted for understanding. Does not start with "The."
 
 ---
 
-## Notes for the Writer
+## Additional Notes for the Writer
 
-1. **The smell is the through-line.** It opens the story, changes character through the middle, and closes the story. Don't over-describe it early — let it be pleasant at first, then slowly reveal what it is. The smell is the phantom sensation: the estate's continued processing, felt by everyone, identified by no one.
+**Voice calibration**: Jackson is the base register. Flat, precise, domestic. Machado enters through the body — the physical symptoms, the desire paths, the sensory details that resist quantification. Do not mix them into a third style. Let them coexist as two modes of attention: Jackson watching what Loreen does, Machado watching what her body does.
 
-2. **Ayo's science must be real.** Soil horizons (A, B, C), calcium hydroxyapatite as bone mineral, Brix refractometry for sugar content, rhizosphere as root-soil interface, nitrogen isotope profiling for organic matter identification. The writer does not need to make every detail technically perfect, but the scientific vocabulary should feel lived-in, not Googled. Ayo uses these terms the way a carpenter says "dado joint" — without explaining.
+**The town must be real**: Garner Falls is not a metaphor. Not a stand-in for America or capitalism. A real Oregon town with a real hardware store and real February pipe-freezes. The Fourth of July parade. The volunteer fire department. The pancake breakfast. The more real the town is, the more the horror works, because the horror IS the reality — not a distortion of it.
 
-3. **The community's silence is structural, not conspiratorial.** Lise and Géraud are not hiding a secret. They carry knowledge that has no outlet in the hotel's framework. They are not antagonists. They are not allies. They are people who have organized their daily lives around a fact that the heritage consultant didn't include in the brand guide. Their silence holds their working lives in place.
+**What is wrong with Garner Falls**: Nothing. Or something. The story does not know and must not pretend to know. The most frightening reading: nothing is wrong, the data is accurate, and twelve years of genuine improvement told Loreen nothing about what she was inside of. The second-most frightening reading: something is engineering the outcomes, but it's so successful that even its analyst can't distinguish the engineering from nature. The story occupies the space between these readings and refuses to resolve.
 
-4. **No apparitions.** This is not a ghost story with visible ghosts. The haunting is chemical, biological, sensory. The phantom labor dreams are the closest thing to a supernatural manifestation, and they should feel more like sleep-deprivation exhaustion than spectral visitation — sore muscles, raw palms, the smell of smoke. The horror is that the plantation is still operating. You don't need a ghost when the machine is still on.
+**Reverse chronology discipline**: Each section must be genuinely warmer than the last. Not ominous-warm. Not sinister-calm. Actually warm. A town where people bring food when someone's sick. A school board that listens. A property tax rate that makes sense. The reader must start wanting to live there. Then they must realize what that wanting means.
 
-5. **The boiling-house kettles beneath the spa.** This is the story's central image. The renovation sealed the original iron kettles under concrete and tile. Treatment rooms sit directly above. The spa is the processing operation redecorated. This detail must be discovered, not given — Ayo finds it in architectural drawings, then visits the spa and feels the warmth. Don't explain the symbolism. The image carries itself.
+**The desire paths**: Do not explain them. Do not hint at what they form. Let the reader bring their own pattern recognition. Some readers will see significance. Some won't. Both readings are valid. The paths are the story's ambiguity engine — the single element that resists the data model.
 
-6. **Lise's "And then what?" is the story's hinge.** It must not be a speech. It is a question — maybe three sentences total. Lise is not wise or oracular. She is tired. She has watched the property change hands and functions and names, and the ground stays the same. Her question is sincere: she genuinely wants to know if Ayo's report will produce something different from every other document the estate has generated about itself.
+**Pace**: 4,800 words across seven sections. Sections 1 and 7 get the most space (~800 each). Sections 2-6 run ~600-700 each. Every sentence must carry the weight of the chronological direction — each one should feel like the reader is sinking backward into something warm and closing.
 
-7. **The ending must NOT resolve.** Ayo does not have an epiphany. She does not reconcile her methodology with what she has experienced. She writes a good report. She touches the soil one last time. She leaves. The estate absorbs the report the way it absorbs everything. Géraud keeps tending the fields. The cane keeps growing. The smell persists. Do not provide the reckoning that the place refuses to perform.
-
-8. **Do not announce themes.** Never write a sentence where Ayo thinks "she realized that her science was just another form of the silence" or "the plantation had never really stopped." If the prose is doing its work, the reader arrives at these understandings without being told. The bone char detail, the phantom labor, the Brix readings, the buried kettles — these images carry the argument. Let them.
-
-9. **Pacing note: the middle is the longest section.** The escalation should feel like accumulation, not acceleration. Each new detail — the deeper soil samples, the architectural discovery, the phantom dreams, Géraud's stories — adds weight without drama. The horror builds through accrual, not revelation. By the time the lab results arrive, the reader should already know what they'll say. The crisis is not the data but Lise's question about what the data changes.
-
-10. **Word count discipline.** Target is 5,400 (range 5,100-5,700). This is a medium-length story. No room for extended backstory or subplot. The five beats are proportioned: ~900 + ~1,200 + ~1,800 + ~900 + ~600. The middle must earn its length through density, not expansion.
+**The ending is the beginning**: The final paragraph — Loreen arriving, the snowmelt, the copper roof, *I could be happy here* — must be the most beautiful writing in the piece. Not beautiful-ominous. Beautiful. The reader supplies the ominous. Trust them.
