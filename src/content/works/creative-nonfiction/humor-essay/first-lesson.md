@@ -13,7 +13,7 @@ tags: ["creative-nonfiction", "humor-essay", "music", "adulthood", "competence",
 rating: 0
 ratingCount: 0
 publishedDate: "2026-02-27"
-status: "published"
+status: "draft"
 formulaSummary: "Sedaris's comic timing and classroom humiliation engine meets Smith's self-aware essayistic thinking, structured around Me Talk Pretty One Day's adult-as-incompetent-student and Feel Free's joy-as-intellectual-position, in an essay about a forty-five-year-old who joins an adult recorder class and discovers that competence may have been a performance all along."
 synopsis: "A forty-five-year-old joins an adult recorder class on a whim, buys an $8.99 Yamaha, and discovers that failing at a children's instrument in front of strangers triggers something uncomfortably close to an identity crisis."
 combination:

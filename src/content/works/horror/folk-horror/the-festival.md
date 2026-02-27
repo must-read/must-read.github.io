@@ -13,7 +13,7 @@ tags: ["horror", "folk-horror", "argentina", "ritual", "hospitality", "food"]
 rating: 0
 ratingCount: 0
 publishedDate: "2026-02-27"
-status: "published"
+status: "draft"
 formulaSummary: "Aickman's oblique, understated narration of the uncanny meets Enriquez's materially grounded Argentine supernatural, structured around Midsommar's sunlit communal entrapment and The Lottery's bureaucratic violence."
 synopsis: "A British anthropologist attends a harvest festival in the Argentine northwest at her colleague's invitation. The hospitality is overwhelming, the committee meetings ordinary, and the bread keeps coming."
 combination:

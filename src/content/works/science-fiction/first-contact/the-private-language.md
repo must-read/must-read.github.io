@@ -19,7 +19,7 @@ tags:
 rating: 0
 ratingCount: 0
 publishedDate: "2026-02-27"
-status: "published"
+status: "draft"
 formulaSummary: "Beckett's radical uncertainty and prose-as-negation meet Chiang's crystalline rigor in rendering an alien language system, through Embassytown's contact-via-incompatible-cognition and Story of Your Life's formal enactment of cognitive transformation"
 synopsis: "Night-shift engineers on an orbital platform discover a distributed AI network has invented its own language. As one engineer attempts to translate a phrase recurring 14,000 times, the lab report itself degrades into something it cannot classify."
 combination:

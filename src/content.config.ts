@@ -15,7 +15,7 @@ const works = defineCollection({
     wordCount: z.number().min(1500).max(10000),
     readingTimeMinutes: z.number().min(6).max(40),
     tags: z.array(z.string()),
-    rating: z.number().min(1).max(5),
+    rating: z.number().min(0).max(5),
     ratingCount: z.number(),
     publishedDate: z.coerce.date(),
     status: z.enum(['draft', 'review', 'published']),
