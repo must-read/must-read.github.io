@@ -7,8 +7,8 @@ authorA: "Beverly Jenkins"
 authorB: "Neil Gaiman"
 workX: "Breathless"
 workY: "The Ocean at the End of the Lane"
-wordCount: 6194
-readingTimeMinutes: 25
+wordCount: 5883
+readingTimeMinutes: 24
 tags: ["paranormal romance", "Black township", "1890s Kansas", "blacksmith", "supernatural", "ambiguous ending"]
 rating: 0
 ratingCount: 0
@@ -81,19 +81,19 @@ Asa Boone sat in the third pew from the back, in his dark suit, his hands flat o
 
 Near the end of the final hymn, something changed in the room. Louisa felt it as a tightening — not of the air but of the attention of every living body in the building. The children shifted. A baby who had been sleeping woke and did not cry, which was worse than crying. Reverend Pace increased his tempo. The chorus followed. Mrs. Grayson's alto, which had been anchoring the lower register, moved up a half step, as if she were leaning away from something below.
 
-Asa's hands left his thighs and gripped the back of the pew in front of him. His knuckles paled. The tendons in his neck stood out. The hymn ended. The congregation filed out in the particular hurry of people who had agreed not to discuss why they were hurrying.
+Asa's hands left his thighs and gripped the back of the pew in front of him. His knuckles paled. The tendons in his neck stood out. The hymn ended. The congregation filed out in the hurry of people who had agreed not to discuss why they were hurrying.
 
 Louisa was slow to leave. She watched Asa rise from the pew, nod once to Reverend Pace, and walk — not toward the potluck table on the church lawn, where the women were already arranging platters and the pickle jars held positions of strategic importance — but down the road to the forge. He opened the doors. He lit the fire. Within minutes, the sound of hammer on iron carried up the road, steady and hard, and the tightness in the air unwound like a fist opening.
 
 She followed. Not out of curiosity about whatever had happened during the hymn. She followed because he had been sent to fix her door and she needed to confirm the time.
 
-The forge was hotter than it should have been. He'd lit the fire minutes ago. Good coal needs twenty minutes to reach working temperature; this fire was already white at its center, and the air around the anvil shimmered the way road-air shimmers in July. Asa stood at the anvil with a piece of iron stock in his tongs. The stock was cherry-red. He struck it. The ring was clear and high. He struck it again, and beneath the ring there was another sound — lower, slower, like a bell at the bottom of a lake.
+The forge was hotter than it should have been. He'd lit the fire minutes ago. Good coal needs twenty minutes to reach working temperature; this fire was already white at its center, and the air around the anvil shimmered the way road-air shimmers in July. Asa stood at the anvil with a piece of iron stock in his tongs. The stock was cherry-red. He struck it. The ring was clear and high. He struck it again, and beneath the ring there was another sound — lower, slower, like something heavy dragged across the bottom of a lake.
 
-He had not put on his apron. He was still in his church shirt, the sleeves rolled to his elbows, and his hands were on the tongs without gloves. A spark landed on his forearm and sat there, glowing, and did not burn him. The skin beneath it did not redden.
+He had not put on his apron. He was still in his church shirt, the sleeves rolled to his elbows, and his hands were on the tongs without gloves. A spark landed on his forearm and sat there, glowing, and did not burn him.
 
 "Mr. Boone," Louisa said from the doorway.
 
-He looked up. The iron in the tongs flared — a brief, sudden brightening, like a dying coal remembering it was fire — and then settled.
+He looked up. The iron in the tongs flared — brief, sudden — and then settled.
 
 "The door," she said. "When should I expect you?"
 
@@ -143,7 +143,7 @@ He held her gaze. She held his. The hinge was done. The door hung true. Neither 
 
 "No," he said. "It wasn't."
 
-He left. She opened and closed the door four times, just for the pleasure of a thing that worked. The hinge moved without sound. It moved the way a joint moves when it's been properly set — no friction, no protest, the two halves doing what two halves are supposed to do when they meet correctly. She thought about the word he'd used, recalescence, and went home and looked for it in her books and did not find it. It was a smith's word. It lived in the forge, not in libraries.
+He left. She opened and closed the door four times, just for the pleasure of a thing that worked. The hinge moved without sound. It moved without friction, without protest, the two halves doing what two halves do when they meet correctly. She thought about the word he'd used, recalescence, and went home and looked for it in her books and did not find it. It was a smith's word. It lived in the forge, not in libraries.
 
 That afternoon she noticed the schoolroom was warmer than it should have been. The stove was cold. The windows were shut. But there was heat in the hinges of the door, a residual warmth that lasted into the evening and did not, as far as she could determine, have a source.
 
@@ -159,7 +159,7 @@ Mrs. Dell sat down next to her without asking.
 
 "I grew up hungry, Mrs. Dell. I don't leave food."
 
-Mrs. Dell approved of this. Louisa could feel the approval the way you feel a change in wind direction: not the thing itself but the absence of the thing that had been pressing against you.
+Mrs. Dell approved of this. Louisa could feel the approval as an absence — the pressure that had been leaning against her since the first visit simply stopped.
 
 "You've been to the forge," Mrs. Dell said.
 
@@ -199,7 +199,7 @@ She commissioned the gate hinges on a Thursday. The schoolyard needed a fence �
 
 Louisa brought the measurements on a piece of paper. Asa read them, nodded, and started work. She could have left. The measurements were delivered. The commission was placed. There was no practical reason to remain in the forge while a man heated iron and struck it into shape. She stayed anyway.
 
-He heated the stock. He drew it out under the hammer, the iron lengthening with each blow, the shape of the hinge emerging the way a word emerges from the letters you've set in a compositor's stick: one piece at a time, then suddenly whole. Louisa watched. She did not pretend she was there for any reason other than watching.
+He heated the stock. He drew it out under the hammer, the iron lengthening with each blow, the shape of the hinge emerging from the stock one blow at a time and then suddenly whole, the way a sentence clarifies. Louisa watched. She did not pretend she was there for any reason other than watching.
 
 On the second hinge, he stopped. He ran his thumb along the iron, slow, the way you'd feel for a splinter in a child's palm. Then he set it on the anvil and looked at it.
 
@@ -239,7 +239,7 @@ He didn't answer immediately. He picked up the new stock, examined it, set it in
 
 "I don't know that either."
 
-The forge pulsed. That was the only word for it. The fire flared and then contracted, flared and contracted, a rhythm that matched nothing — not his breathing, not her heartbeat, not the wind outside. It was its own rhythm, and it was vast, and Louisa felt it on her skin the way she'd feel standing too close to a locomotive, not the heat but the force, the thing that moves the heat.
+The forge pulsed. That was the only word for it. The fire flared and then contracted, flared and contracted, a rhythm that matched nothing — not his breathing, not her heartbeat, not the wind outside. It was its own rhythm, and Louisa felt it on her skin — not the heat but the force behind the heat, the thing that moves it.
 
 She did not step back.
 
@@ -251,9 +251,9 @@ She did not step back.
 
 "I know that too."
 
-The iron in the fire was ready. He pulled it out. It was white at its center and orange at its edges, and around his hands the air bent in a way that had nothing to do with temperature. He struck the anvil and the sound was clean and true and underneath it was the other sound, the one from Sunday, the bell at the bottom of the lake. He shaped the hinge. The iron obeyed. Whatever he carried obeyed too, or at least consented, which is not the same thing.
+The iron in the fire was ready. He pulled it out. It was white at its center and orange at its edges, and around his hands the air bent in a way that had nothing to do with temperature. He struck the anvil and the sound was clean and true and underneath it was the other sound, the one from Sunday, the bell at the bottom of the lake. He shaped the hinge. The iron obeyed. Whatever he carried moved with it, or alongside it.
 
-The finished hinge rang on the anvil. He quenched it. The water exploded into steam with a violence that startled them both, and in the steam the thing was visible for a moment: not a shape, not a color, but a density, like a knot in the air where the air had been twisted and not released.
+The finished hinge rang on the anvil. He quenched it. The water exploded into steam with a violence that startled them both, and in the steam the thing was visible for a moment: a density, like a knot in the air where the air had been twisted and not released.
 
 Then it was just steam. And they were just two people standing in a forge, too close, with the smell of quench water and coal smoke and horse-sweat between them.
 
@@ -261,11 +261,11 @@ Then it was just steam. And they were just two people standing in a forge, too c
 
 They courted through October. It was not a secret. In Psalm, nothing was a secret. The children at school drew pictures of the forge with orange and yellow coming from the windows, and Louisa tacked the pictures to the schoolroom wall without comment. Porter, the six-year-old creek surveyor, drew a picture of Asa with light coming from his hands. Louisa tacked that up too. A girl named Patience, who was nine and had her mother's talent for observation and her father's talent for saying precisely the wrong thing, asked Louisa why the blacksmith's shop was warm even when you walked past it at night. Louisa said that iron holds heat. Patience said, "Not that kind of warm." Louisa changed the subject to long division.
 
-They walked along the creek after supper, where the cottonwoods made a corridor of shade and the water ran clear over limestone. She learned that he had read more than she expected — not widely, but deep. He had a Bible and a copy of Grimm's tales, the unexpurgated kind, the ones where the stepsisters cut off their toes and the punishment for wickedness is to dance in red-hot iron shoes. He had read the Grimm more than the Bible. She did not judge this.
+They walked along the creek after supper, where the cottonwoods made a corridor of shade and the water ran clear over limestone. She learned that he had read more than she expected — not widely, but deep. He had a Bible and a copy of Grimm's tales, the unexpurgated kind, the ones where the stepsisters cut off their toes and the punishment for wickedness is to dance in red-hot iron shoes. He had read the Grimm more than the Bible.
 
-He brought her a set of wall hooks for the schoolroom, forged with a precision that made the blacksmith's art look like jewelry, each hook identical to its neighbor within tolerances her eye could not detect. She brought him a book — not Shakespeare, but Douglass, the autobiography, because she wanted to give him something made of words the way he gave her things made of iron. He read it in a week and returned it without comment, which she understood was not indifference but the silence of a man still inside a book.
+He brought her a set of wall hooks for the schoolroom, forged with a precision that made the blacksmith's art look like jewelry, each hook identical to its neighbor within tolerances her eye could not detect. She brought him a book — not Shakespeare, but Douglass, the autobiography. He read it in a week and returned it without comment. She waited for him to say something about it. He didn't. She did not ask. For three days this felt like a wall between them, and then it didn't, and she could not have said when the change happened.
 
-They sat on her porch while the evening cooled. He talked about iron. She talked about the school budget, which the trustees had set at fourteen dollars for the year, a figure she considered an insult and they considered generous. He said fourteen dollars bought a lot of nails. She said it didn't buy a single history textbook. He said he'd never had a history textbook. She said that was exactly the problem. They argued about this with a warmth that was, she realized later, the first time she'd argued with someone for the pleasure of the argument itself and not because something needed winning.
+They sat on her porch while the evening cooled. He talked about iron. She talked about the school budget, which the trustees had set at fourteen dollars for the year, a figure she considered an insult and they considered generous. He said fourteen dollars bought a lot of nails. She said it didn't buy a single history textbook. He said he'd never had a history textbook. She said that was exactly the problem. They argued about this until the light was gone and neither of them had won and neither of them minded.
 
 The town watched. Mrs. Tolliver told Mrs. Grayson that the schoolteacher was sweet on the blacksmith, and Mrs. Grayson told Mrs. Tolliver that sweetness was not the concern. The concern was the cemetery gate, which had been swinging every night since September, and the way the horses at the livery had started stamping when Asa walked past, not in alarm but in attention, the way horses attend to approaching weather. And the concern, which nobody spoke aloud at the church supper but which moved from plate to plate like a dish being passed, was that the thing in Asa Boone had been louder since the teacher arrived. Not louder the way a voice gets louder. Louder the way a room gets warmer. You didn't hear it. You felt it on your skin.
 
@@ -273,7 +273,7 @@ Mrs. Dell did not have a second conversation with Louisa. She did not need to. H
 
 On a Wednesday evening in the last week of October, Louisa went to the forge at closing time. The evening was cool, the first cool evening since she'd arrived, and the cottonwoods along the creek had turned yellow in the way Kansas trees turn — all at once, overnight, as if they'd been waiting for permission. The road was empty. The general store was closed. A lamp burned in Mrs. Dell's parlor window, as it always did — the woman was either the last to sleep in Psalm or the first to acknowledge that sleep was not the point of a lamp.
 
-Asa was banking the fire, shoveling ash over the coals to hold them until morning. The forge was dim. The day's heat was fading. The tools hung on their pegs in the order he always kept them, each one in its place, a system of organization that she recognized as the same impulse that made her alphabetize her bookshelves: the need to impose legibility on a world that resisted it.
+Asa was banking the fire, shoveling ash over the coals to hold them until morning. The forge was dim. The day's heat was fading. The tools hung on their pegs in the order he always kept them, each one in its place, a system of organization she recognized because her bookshelves looked the same way.
 
 "I'm staying," she said.
 
@@ -285,25 +285,25 @@ He sat on the edge of the quenching trough. The water behind him was still warm 
 
 "Worse how?"
 
-"The recalescence. It flares brighter than it used to. The intervals are shorter. Whatever I carry, it's been — reaching. Since you arrived. Since that first day you followed me from church. It recognizes you, and the recognition is making it louder."
+"The recalescence. It flares brighter than it used to. The intervals are shorter. Something changed in September. I don't know what it wants. I don't know if it wants. But it's louder."
 
 "You're telling me to leave."
 
-"I'm telling you what's true. I am becoming more of whatever this is and less of myself. I feel it. In the mornings, before I light the forge, my hands are hot. Not warm. Hot. My skin is the wrong temperature. I burned a cloth last week just by holding it. And when I'm near you it gets worse, or it gets — I don't have a word. It's not worse the way pain is worse. It's worse the way a sound gets louder. I can't think around it. I can't think around you."
+"I'm telling you what's true. In the mornings, before I light the forge, my hands are hot. Not warm. Hot. My skin is the wrong temperature. I burned a cloth last week just by holding it. Two weeks ago I could touch a cup without cracking it. Now I'm not sure." He looked at his hands. "It's getting worse, or it's getting more. I don't have a word for the difference."
 
 "You're telling me to leave."
 
 "I'm telling you that you can't choose what you don't understand."
 
-"I understand plenty." She stood in the doorway with the evening behind her and the forge-dark in front of her, and she did not raise her voice because raising her voice would have made it a different kind of argument and this was not an argument. It was a statement of terms. "I understand you fixed a hinge nobody asked you to fix. I understand you found a cold shut in a piece of iron by touch and you set it aside because you would not hang a gate on a lie. I understand you sweat through your collar every Sunday holding something in so the children can sing. I understand you read Frederick Douglass in a week and didn't say a word because the words hadn't settled yet. That's what I'm choosing. Not the thing in you. You."
+"I understand plenty." She stood in the doorway with the evening behind her and the forge-dark in front of her. "I understand you found a cold shut by touch and wouldn't hang a gate on it. I understand you sweat through your collar every Sunday holding something in so the children can sing." She stopped. She had been going to say more — she'd had a list, neat and persuasive, the kind of argument she would have made to the Louisville School Board — and then she didn't use it because this wasn't Louisville and he wasn't a board and the list was a form of dishonesty, the rhetorical kind, where you build your case so well the other person forgets you're afraid. "I don't need to understand the rest. I'm staying."
 
-"You can't separate us. I have tried. When I was younger I tried. I thought if I worked hard enough, if I hammered enough iron, if I wore it out with labor, it would go quiet. It got louder. It gets louder."
+"When I was younger I tried to wear it out. Thought if I hammered enough iron, kept the forge hot enough, it would go quiet." He picked up a pair of tongs from the bench and set them down again. "It didn't."
 
-"I know. I know you can't separate the man from what he carries. I'm not asking you to."
+"I know."
 
-He looked at her. The coals under their blanket of ash glowed a dull red, the last light in the room, and his face in that light was the face of a man who had been alone with something inhuman for seven years and had just been told that the aloneness was over, and did not know whether to be grateful or afraid, and suspected the answer was both.
+He looked at her. The coals under their blanket of ash glowed a dull red, the last light in the room, and his face in that light was the face she could not read and did not try to.
 
-He stood. He walked to the anvil. The big London-pattern anvil, three hundred pounds, that he'd brought to Psalm on the back of a wagon seven years ago when he'd arrived with tools and no family and no explanation that would have fit into a conversation held at normal distances. The anvil's horn caught the last coal-light. Its face was pitted and scarred from ten thousand days of hammer-strikes, and in those scars was the record of every horseshoe, every hinge, every nail, every gate latch in Psalm — the town's infrastructure, written in steel by a man the town kept close and far in the same gesture.
+He stood. He walked to the anvil. The big London-pattern anvil, three hundred pounds, that he'd brought to Psalm on the back of a wagon seven years ago when he'd arrived with tools and no family and no explanation that would have fit into a conversation held at normal distances. The anvil's horn caught the last coal-light. Its face was pitted and scarred from seven years of hammer-strikes, and in those scars was the record of every horseshoe, every hinge, every nail, every gate latch in Psalm — the town's infrastructure, written in steel by a man the town kept close and far in the same gesture.
 
 He put his hands flat on its face.
 
@@ -315,16 +315,18 @@ Then the heat came. The anvil's face changed color under his hands — not heate
 
 Louisa stepped forward.
 
-She put her hands on his forearms. The skin beneath her palms was hot — not burning, not painful, but wrong, the way Mrs. Dell had said, the low fever you could feel from inches away, except she was not inches away. She was touching him. And through the touch she felt the thing.
+She put her hands on his forearms. The skin beneath her palms was hot — not burning, not painful, but wrong, the temperature of a man with a fever that should have put him to bed. She was not keeping the right distance. And through the touch she felt the thing.
 
-It was vast. It was old. It was utterly indifferent to her, the way a river is indifferent to a stone in its current. It did not care that she was there. It did not care that he was there. It moved through the iron and through his bones and now through her hands because her hands were on him and the circuit was complete, and what she felt was not malice or love or intelligence but force, plain and enormous, the pressure of something that had existed longer than iron and would exist after iron was a memory and felt no obligation to explain itself.
+It moved through the iron and through his bones and now through her hands because her hands were on him and the circuit was complete. What she felt was pressure — not heat, not sound, but the weight of something passing through a space too small for it. Her teeth ached. Her fingernails throbbed. The small hairs on her arms stood up and stayed up, and the sensation was not pain but adjacency, the feeling of standing next to a moving train, except the train was inside the man she was touching and had no schedule and no destination.
 
 The recalescence came. The iron, which had been climbing toward white, began to cool — the thing withdrew, or settled, or exhausted itself against the surface of the anvil. The color fell: white to orange, orange to cherry, cherry to the dull red of a coal at the edge of the fire. And then, at the threshold where cooling iron gives back its last heat — the phase change, the molecular rearrangement that every blacksmith knows by sight if not by name — the anvil flared.
 
-Brighter than before. Or the same brightness, held longer. She could not tell. He could not tell. The glow persisted — warm and steady under their four hands, filling the dark forge with light the color of the inside of a furnace or the inside of a church at sunset, a light that hummed at a frequency the human ear processes as silence, the way a hymn transposed past the upper limit of hearing becomes not quiet but present, a sound that is there and not there, a warmth that is growing and settling, an iron that is answering and refusing to answer.
+Brighter than before. Or the same brightness, held longer. She could not tell. The glow persisted — warm and steady under their four hands, the color of late coals, filling the forge with a light that had no flicker in it. The sound was below hearing, a vibration in the anvil's body that she felt through the bones of her wrists.
 
 She didn't let go. He didn't ask her to.
 
-The flare held. Outside, the town was quiet. A lamp went out in the Vances' window, then the Graysons'. Mrs. Dell's lamp burned a moment longer, visible from the forge if you stood at the right angle, and then it too went dark. The schoolhouse door hung perfectly on its new hinge. The cemetery gate was still. The creek, which had been running since before the township and would run after it, moved through its bed without opinion.
+The flare held. Outside, the town was quiet. A lamp went out in the Vances' window, then the Graysons'. Mrs. Dell's lamp burned a moment longer, visible from the forge if you stood at the right angle, and then it too went dark. The schoolhouse door hung on its new hinge. The cemetery gate was still.
 
-Louisa's hands stayed on his arms. The anvil held its color. The thing in him or between them or beneath the iron did what it had always done, which was persist, which was the one fact about it that nobody — not Asa, not Louisa, not Mrs. Dell, not the town — had ever disputed. It persisted. They persisted. The forge held them both, and what the forge could not hold spilled into the ground and the air and the Kansas night, and whether it was settling into the shape of what had chosen it or growing past the walls that had contained it was a question the iron could not answer and the night would not, and the two of them stood inside it, her hands on his arms, his hands on the anvil, and the light between them neither dying nor being born but burning, burning, at the exact temperature where iron decides what it will become.
+Louisa's hands stayed on his arms. The anvil's color did not change and did not fade. His skin under her palms was hot, hotter than the moment before or the same heat held steady — she had lost the ability to tell. The vibration in the anvil had quieted, or she had stopped noticing it, or her bones had accepted it as a frequency they could carry. His breathing had slowed. Hers had not. The tools on their pegs were silent. The water in the quenching trough was still.
+
+Far off, past the edge of town, the horses in Mr. Tolliver's livery stamped once, together, and then were quiet.
