@@ -10,8 +10,8 @@ workY: "The Spy Who Came in from the Cold"
 wordCount: 5047
 readingTimeMinutes: 20
 tags: ["totalitarian", "resistance", "corridor", "complicity", "near-future"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 9
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Butler's embodied prophetic dystopia meets le Carré's institutional cynicism — a resistance that has become indistinguishable from what it opposed"

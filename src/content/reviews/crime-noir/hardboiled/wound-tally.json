@@ -1,0 +1,61 @@
+{
+  "workSlug": "wound-tally",
+  "reviews": [
+    {
+      "personaId": "noir-001-desiree",
+      "rating": 4,
+      "text": "Oh, this one got me. Darnell Greer is exactly the kind of man I'd cross the street to avoid and then think about for the rest of the week. The voice is flawless — that line about laughter being \"a currency he had been spending since he came back from overseas, and it had not yet inflated\" is just chef's kiss. And Claudine sitting two steps below him on the stoop at the end, not saying a word about the money, just asking if he's eaten? That's the kind of tenderness noir almost never earns but this story absolutely does. The whole block feels alive. Tick, Odette's cat on the rope, the domino players — it's a neighborhood, not a set.",
+      "date": "2026-02-15",
+      "helpfulCount": 26
+    },
+    {
+      "personaId": "noir-002-takeshi",
+      "rating": 4,
+      "text": "Structurally, this functions as a slow disclosure narrative — the crime plot is scaffolding for a war-trauma reveal. The technique of layering the con's architectural language (\"load-bearing walls,\" \"structural integrity\") onto the protagonist's psychological fractures is precise and effective, recalling the visual double-exposures of classic noir cinematography. The diner scene where Darnell grips the table — \"the two places layered like negatives in a darkroom\" — is the structural hinge, and it's handled with admirable restraint. Where the piece falters slightly is in resolution: Claudine's transition from extortionist to compassionate witness happens offscreen, between the fifteen-percent negotiation and the stoop. That pivot needed one more beat. Still, the terse prose sustains real tension across a narrative that is, at bottom, a man failing to keep his hands still.",
+      "date": "2025-11-03",
+      "helpfulCount": 53
+    },
+    {
+      "personaId": "noir-003-beth",
+      "rating": 3,
+      "text": "The con itself is tissue-thin. Selling fake shares of a building you don't own to a church deacon — no paperwork mentioned, no shell company, no forged deed. In my experience, even a small-time property fraud needs documentation. Purnell Ames is walking around with four hundred dollars in a Bible and nobody's signed anything? The character work is strong, I'll grant that. The way Darnell's war memories leak through his sales pitch about foundations is well done. But if you're going to build a story around a con, the mechanics need to hold up, and these don't. Claudine figuring the whole scheme from one client's gossip is believable — that part I liked. The rest is more mood piece than crime fiction.",
+      "date": "2026-01-09",
+      "helpfulCount": 14
+    },
+    {
+      "personaId": "noir-004-rowan",
+      "rating": 4,
+      "text": "What interests me most here is how the story distributes subjecthood. Darnell is the nominal protagonist, but Claudine is the one with actual agency — she's done the arithmetic, she knows the block, she controls the outcome. Her stillness across the street is described as \"the loudest thing on the block,\" and that's not accidental. She doesn't need to perform competence the way Darnell does. The masculinity on display is explicitly constructed: the pressed trousers, the controlled hands, the rehearsed laugh. The keloid scar — \"heals more than it needs to\" — functions as a material metaphor for the whole performance of hardboiled manhood: overcompensation as wound response. The ending is genuinely surprising in its refusal to let Claudine become either romantic interest or antagonist. She just sits there. She asks if he's eaten. That's enough.",
+      "date": "2025-12-22",
+      "helpfulCount": 42
+    },
+    {
+      "personaId": "noir-005-vince",
+      "rating": 4,
+      "text": "The sentence work is very good. \"The crease cut through the heat like it had somewhere to be\" — that's a line that earns its place. The prose maintains a declarative rhythm throughout without tipping into monotony, which is harder than it looks; the variation comes from adjusting clause length within the constraints, not from abandoning them. I count maybe two moments where the register slips toward the literary-explanatory — \"the body producing twenty times the collagen needed, the scar growing past its own borders\" over-glosses what the image already carries. But the dialogue is sharp, particularly Tick's voice. \"Business. Your business been busy.\" That has real ear. And the structural conceit — a man whose con language keeps sliding into trauma language — is executed at the sentence level, not announced. The prose does the work.",
+      "date": "2026-02-01",
+      "helpfulCount": 38
+    },
+    {
+      "personaId": "noir-006-janet",
+      "rating": 3,
+      "text": "Beautifully written but I wanted more to happen. The con falls apart, fine, but it falls apart because Darnell basically talks himself out of it — there's no real external threat, no twist, no escalation. Claudine demanding her cut was the most exciting part and it's over in two pages. The PTSD angle is moving, especially the moment with the woman and the paper bag in the diner, but the story trades plot for atmosphere. If you're in it for the sentences, you'll love this. If you need the story to go somewhere, you might be checking how many pages are left.",
+      "date": "2025-10-17",
+      "helpfulCount": 5
+    },
+    {
+      "personaId": "noir-007-graham",
+      "rating": 3,
+      "text": "A competent character study that knows what it's doing with restraint, though it occasionally undermines itself by being too aware of its own technique. The parallel between the building's load-bearing walls and Darnell's psychological architecture is effective but the story leans on it more than once — by the third iteration of the metaphor, you feel the writer's hand rather than the character's mind. Tick is the best thing in it: a minor character rendered with such economy that he steals every scene. \"I hear the rats in the walls of that man's building from here\" is perfect peripheral menace. The ending earns its quietness. But at 3,000-odd words, this is slim for what it's attempting, and the con plot is more sketch than blueprint. A good story that nearly becomes a very good one.",
+      "date": "2026-01-28",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-008-carolina",
+      "rating": 4,
+      "text": "The text distributes power along two axes: economic (who owns, who cons, who extracts a cut) and epistemological (who knows, who watches, who is seen). Darnell's con depends on performed knowledge — he knows the building better than its owner, but knowledge without title is precisely what defines his dispossession. Claudine occupies the position of the femme fatale structurally but the story refuses to sexualize or punish her for it; her power is informational, rooted in the salon as site of communal intelligence. The most telling detail is that her stillness across the street \"changed the weight distribution\" — the narrative grants her a gravitational force usually reserved for male protagonists. The keloid scar as surplus healing — the body's overreaction to damage — works as a figure for the whole story's relationship to hardboiled convention: excessive response to the genre's wounds.",
+      "date": "2025-09-14",
+      "helpfulCount": 17
+    }
+  ]
+}

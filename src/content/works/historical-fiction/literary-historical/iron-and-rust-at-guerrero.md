@@ -22,8 +22,8 @@ tags:
   - scrap
   - improvisation
   - ejido
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: >
@@ -31,11 +31,7 @@ formulaSummary: >
   brothers build a combine harvester from scrap in a Mexican junkyard while
   the Rockefeller Foundation's agricultural program reduces their work to a
   single line in an English-language report.
-synopsis: >
-  Vicente and Jose Guerrero, brothers running a junkyard near Texcoco in 1944,
-  receive a photograph of an American combine harvester and a manual they cannot
-  read. Over six months they build the machine from scrap metal, truck parts,
-  and a shell casing. A visiting American writes one sentence about it.
+synopsis: "Vicente and Jose Guerrero, brothers running a junkyard near Texcoco in 1944, receive a photograph of a combine harvester and a manual they cannot read. Over six months they build the machine from scrap metal, truck parts, and a shell casing."
 combination:
   fromAuthorA:
     - "Mexico's margins as sites of genius — the junkyard as a place where intelligence operates without credentials, recognition, or institutional support"

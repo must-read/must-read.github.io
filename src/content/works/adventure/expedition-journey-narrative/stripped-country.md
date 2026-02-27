@@ -14,8 +14,8 @@ tags:
   - colonial-africa
   - aviation
   - landscape-memory
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Markham's luminous precision meets Conrad's moral complexity in an expedition narrative traversing colonial Kenya's ghost infrastructure"

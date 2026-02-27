@@ -1,0 +1,68 @@
+{
+  "workSlug": "dust-tape-and-signal",
+  "reviews": [
+    {
+      "personaId": "cnf-001-miriam",
+      "rating": 4,
+      "text": "The form does real work here. A lesser piece would have framed Otterbein as folk hero, but the bureaucratic documents refuse that sentimentality — each NAL notice, each handwritten reply on lined paper, earns the emotional weight through restraint rather than rhetoric. The sentence 'I underline them so I don't rush past. If you rush a name, it's like you don't mean it' lands precisely because no one in the text is trying to make it land. Agent Ware's final observation about resource allocation is devastating in its flatness. Where I hesitate: the list of names at the end reaches for elegy, and it almost overplays its hand. Almost.",
+      "date": "2026-02-15",
+      "helpfulCount": 34
+    },
+    {
+      "personaId": "cnf-002-patrick",
+      "rating": 4,
+      "text": "Impeccable ear for bureaucratic register. The FCC boilerplate never breaks character, yet the piece never feels airless — the humanity bleeds through the procedural seams. 'Check enclosed. I will be on air tomorrow at 6:45 as usual' is a perfect sentence: ten words, complete defiance, zero rhetoric. The technical detail is calibrated beautifully — karst topography, cold solder joints, the Busch Light heat sink shim. One quibble: the piece runs slightly long in the middle correspondence section, where two of the NAL responses could have been cut to one without loss.",
+      "date": "2025-12-08",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "cnf-003-yeon",
+      "rating": 3,
+      "text": "The document-as-narrative form is ambitious and mostly succeeds. The karst topography material — signal following creek bottoms, dead zones behind dolomite ridges — works as both technical specificity and landscape portrait. What I notice, reading from outside the American context, is how much the piece relies on a particular romantic tradition of rural American individualism. The escalating fines structure is emotionally effective but also quite neat. The skip zone detail is wonderful, genuinely unexpected: a pocket of silence shaped by geology that even devotion cannot reach.",
+      "date": "2026-01-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-004-ruth",
+      "rating": 5,
+      "text": "I had to put this down twice. The broadcast where Dale reads his wife's obituary — the eleven-second silence, and then just 'She was a good woman and I don't have more to say about it than that on the air' — I was done. The whole piece builds so carefully, through forms and field reports and legal language, and then these moments of human stubbornness punch right through. The list of names at the end is devastating. Mrs. Kessler calling every morning for eleven years to check the names. The truck driver raising his hand to the antenna. I will be recommending this to everyone.",
+      "date": "2026-02-24",
+      "helpfulCount": 73
+    },
+    {
+      "personaId": "cnf-005-diego",
+      "rating": 4,
+      "text": "An unusually precise piece about the collision between regulatory infrastructure and community need. The escalating forfeiture amounts ($2,400 to $7,500) function as a structural argument about the absurdity of enforcement without alternatives — the LPFM licensing requirements are detailed just enough to show why Otterbein cannot comply. What distinguishes this from sentimental Americana is the agents' own progressive discomfort. Toomey accepts coffee 'to maintain rapport'; Ware's final paragraph about resource allocation is barely concealed advocacy. The piece understands that institutions are not monoliths — they are staffed by people who can see what they are doing.",
+      "date": "2025-10-14",
+      "helpfulCount": 45
+    },
+    {
+      "personaId": "cnf-006-sam",
+      "rating": 3,
+      "text": "The form is the argument, which I respect — an FCC case file as elegy, bureaucratic language as container for grief. The silences in the broadcast transcripts (the pauses measured in seconds, the carrier-on/carrier-off timestamps) function like white space. But the piece is ultimately conventional in its emotional arc: escalating stakes, deepening sympathy, a devastating final image. The list of names at the end feels like it knows exactly what it's doing to you, and I'm not sure I trust that. The Darlene broadcast is the strongest section because the form genuinely cracks there.",
+      "date": "2026-01-05",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "cnf-007-frank",
+      "rating": 4,
+      "text": "This is the most honest thing I've read in a while. A guy with a microphone and a kitchen table reads names of dead people every morning because nobody else will. The government keeps fining him and he keeps paying and keeps broadcasting. That's the whole story and it doesn't need to be more. The part about selling the tractor to pay the $5,000 fine — that's real. The part about his son driving up from Joplin to cover for him when he had the flu and saying it was morbid — that's real too. Didn't need all the technical radio stuff but I get why it's there.",
+      "date": "2025-09-19",
+      "helpfulCount": 11
+    },
+    {
+      "personaId": "cnf-008-priyanka",
+      "rating": 3,
+      "text": "The piece is most interesting as a document about who gets to narrate and how institutional language shapes what can be said. Each successive field agent produces a subtly different report — Toomey's is procedural, Vidal's is observational, Ware's is almost literary — and this drift from enforcement distance toward something like witness is the real story. But I wonder whether the piece fully interrogates its own sympathies. Otterbein occupies unregulated spectrum because he can, in a country where broadcast access has always been organized around property and capital. The piece acknowledges the LPFM alternative but treats Otterbein's refusal of institutional process as heroic rather than examining what it means to simply take the airwaves.",
+      "date": "2025-11-30",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "cnf-009-helen",
+      "rating": 5,
+      "text": "What a quietly extraordinary piece. The entire story is told through documents that were never meant to tell a story, and yet the emotional architecture is flawless. Agent Ware arriving before the broadcast to listen — choosing to sit in his car for eighteen minutes rather than knock — is one of the finest moments of characterization I've encountered this year, all the more remarkable for being buried in a field inspection report. The Christmas Eve broadcast, with its scratchy 1940s quartets and the line 'If you're by yourself today you're not the only one,' is achingly well placed. The escalating fines and Otterbein's letters trace a complete moral argument without ever making one explicitly.",
+      "date": "2026-02-02",
+      "helpfulCount": 58
+    }
+  ]
+}

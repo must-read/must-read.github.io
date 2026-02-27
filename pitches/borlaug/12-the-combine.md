@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/borlaug/"
 sourceType: "web-novel"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Roberto Bolano"
 authorB: "Svetlana Alexievich"

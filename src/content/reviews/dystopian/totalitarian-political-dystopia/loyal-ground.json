@@ -1,0 +1,68 @@
+{
+  "workSlug": "loyal-ground",
+  "reviews": [
+    {
+      "personaId": "dys-001-natalie",
+      "rating": 4,
+      "text": "This story understands something most dystopian fiction gets wrong: the regime doesn't need to crush you if it can make you crush yourself efficiently. The revelation that Dara's smuggling was authorized cargo on an authorized route is devastating precisely because the story earns it through bureaucratic detail. The laminated card, the seven-digit ID, the transit manifest fanned between fingers. Every checkpoint interaction is a small masterclass in institutional choreography. I admire the restraint of the ending — Dara brings the undocumented woman through and we don't know if that act is defiance or another authorized exception. The corridor doesn't tell her. It doesn't tell us. The prose is disciplined — 'the body needs a number to hang pain on' earns its keep. My reservation is that the Adaeze backstory feels slightly over-determined as motivation, too legible compared to the ambiguity the rest of the story sustains.",
+      "date": "2026-02-25",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "dys-002-tomasz",
+      "rating": 4,
+      "text": "The structural conceit — numbered runs that function as both repetition and revelation — is well chosen. Each transit is formally identical (departure, corridor, checkpoint, arrival) yet the informational payload shifts with each iteration, so the reader experiences the corridor the way Dara does: as a system whose rules are stable but whose meaning keeps changing underfoot. The organizational chart scene is the hinge. Dara's name on a Bureau wall, in a Bureau building, with dust on the frame — the dust is doing real work there, establishing duration, proving that this was never a secret to anyone except her. Cold, precise, effective. What prevents a higher mark: the story occasionally tells us what it has already shown. 'She was reading two organizations into one man's hand' is an insight Dara arrives at, but the reader has been there for a page already. Trust the architecture more.",
+      "date": "2026-01-08",
+      "helpfulCount": 35
+    },
+    {
+      "personaId": "dys-003-amira",
+      "rating": 4,
+      "text": "What I want from dystopian fiction is complicity, not rebellion, and this story delivers. Dara is not a hero; she is a function. Her smuggling and her transit coordination were always the same labor — authorized, managed, instrumentalized — and the collapse of that distinction made me physically uncomfortable. The body is central and the writing knows it: the knee that 'starts announcing itself at mile two,' the skin 'tightening where the sun has worked it over.' Dara's body is the corridor's infrastructure as much as the concrete posts and floodlights. The scene with Kofi is quietly brutal — 'he lets her, the way you let weather happen to you' — showing how the corridor consumed the relationship it was meant to preserve. I wanted more from the unnamed woman at the end. She functions as a moral test rather than a person, the one place the story's rigorous attention to embodiment falters.",
+      "date": "2025-11-14",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "dys-004-derek",
+      "rating": 4,
+      "text": "This one stuck. The part where Dara sees her own name on the Bureau's organizational chart — hanging on the wall long enough to collect dust — hit me like a punch. She thought she was fighting the system and the system had her on a flowchart. The whole corridor setup feels real. The checkpoints, the cargo inspections, the guard she calls Pliers. You believe every mile of it. And that kid Kofi, growing out of his sleeves, not running to her anymore. That's not a dystopia detail, that's just life when people can't be where they need to be. Good story. Stayed with me.",
+      "date": "2026-02-01",
+      "helpfulCount": 12
+    },
+    {
+      "personaId": "dys-005-juno",
+      "rating": 5,
+      "text": "This is a quiet dystopia — the dangerous kind. No spectacle, no dramatic cruelty, just a corridor and a woman walking it with cargo she believes is contraband. The withholding is masterful. Each run peels back a layer without the story ever announcing what it's doing. The culvert exchange with Ifeoma — 'a coin she cannot spend' — carries so much weight it almost doesn't need the scene around it. And the final ambiguity at the checkpoint, whether Kehinde waves the woman through as individual conscience or bureaucratic pre-authorization, is the kind of question that makes me rearrange my dystopia shelf. The voice is exceptional: declarative, physical, inventory-like. 'The corridor is generous with nothing except distance.' Sentences that work like load-bearing walls. I keep returning to the moment Dara sees the Bureau truck delivering insulin through the front door and chooses not to ask. That silence is the whole story.",
+      "date": "2025-10-22",
+      "helpfulCount": 82
+    },
+    {
+      "personaId": "dys-006-raj",
+      "rating": 3,
+      "text": "Structurally sound. The five-run architecture gives the story a procedural rhythm that mirrors Dara's transit work, and the information is distributed well — each run adds a piece that recontextualizes the previous ones. The Bureau-Council merger reveal is the load-bearing element and it holds. Where I'm less convinced: the story runs on a single reversal. Everything before Run 4 is setup, and the payoff — her resistance was always sanctioned — is strong but singular. Once you have it, the story doesn't complicate it further. The woman and child at the end gesture toward a new question (can Dara act outside the system's script?) but the checkpoint scene refuses to answer it. Ambiguity is fine. But an ambiguity that follows a single clean reversal can feel like the story ran out of moves. Efficient prose, though. No waste.",
+      "date": "2025-12-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "dys-007-elena",
+      "rating": 4,
+      "text": "I have read enough fiction about totalitarian systems to know when a writer understands how they actually function. This one understands. The corridor doesn't terrorize Dara — it employs her. It doesn't suppress her resistance — it incorporates it. Alderman sitting at a Bureau desk with Bureau folders and a Bureau screensaver is not a betrayal; it's an organizational chart. That distinction matters. The story also gets the paperwork right. Forms as skeleton, lanyards as identity, the shift from handwritten ledger to printed Bureau form as a quiet signal of institutional absorption. These details are not decorative. They are the mechanism. The prose is appropriately dry — 'he does not greet; he processes' — and the body-level detail of Dara's knee functions as a counter-rhythm to the bureaucratic surface. I might have wished for one more complication in the final act. The woman without papers is effective but arrives late and serves a somewhat schematic purpose.",
+      "date": "2025-09-17",
+      "helpfulCount": 21
+    },
+    {
+      "personaId": "dys-008-felix",
+      "rating": 3,
+      "text": "Real craft here — the numbered-run structure, the declarative prose, the slow accumulation of detail that builds the corridor into a felt space before the revelation dismantles its meaning. The moment Dara sees the Bureau truck unloading insulin through the clinic's front door is genuinely disorienting, because the reader has spent the story inside the logic of smuggling. But I want to push back on the emotional architecture. The story reaches its devastating moment so cleanly that the devastation feels designed. The Adaeze backstory provides motivation with an efficiency that borders on the mechanical — a dead child as origin point is legible in a way that the best moments (Kofi not running to her, Ifeoma's name as 'a coin she cannot spend') deliberately resist. Formal control is impressive, but formal control in a story about institutional control risks becoming its own compliance.",
+      "date": "2026-02-18",
+      "helpfulCount": 16
+    },
+    {
+      "personaId": "dys-009-cora",
+      "rating": 3,
+      "text": "The knee. That's what I'll remember. Not the politics or the corridor or the big reveal, but Dara's left knee announcing itself at mile two, having opinions by mile four, becoming 'the loudest thing in her life' by mile five and a half. This story does bodies well — the skin tightening under sun, the ribs through Kofi's shirt, the child's face 'round and calm.' But some of the institutional machinery left me cold. The Run 4 flashback explains too much too neatly: Adaeze dies, Dara joins the Council, she starts smuggling. Real decisions are messier than that. And the ending, while I respect the ambiguity, left me wanting something more visceral. Dara walks. She has always walked. I get it. But after five thousand words of superb physical detail, I wanted the body to do something the corridor couldn't predict.",
+      "date": "2025-08-29",
+      "helpfulCount": 8
+    }
+  ]
+}

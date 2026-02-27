@@ -18,8 +18,8 @@ tags:
   - obituaries
   - enforcement
   - pirate-radio
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: >

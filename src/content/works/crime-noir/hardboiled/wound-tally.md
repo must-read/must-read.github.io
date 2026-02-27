@@ -10,8 +10,8 @@ workY: "The Sun Also Rises"
 wordCount: 3357
 readingTimeMinutes: 13
 tags: ["harlem", "korean-war", "con-artist", "veteran", "1950s"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Himes's explosive Harlem energy constrained by Hemingway's emotional omission — a veteran's performance of toughness cracks under a witness's gaze"
