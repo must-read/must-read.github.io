@@ -18,7 +18,7 @@ tags:
   - private-prisons
   - economic-absurdism
   - posthumous-collaboration
-rating: 3.8
+rating: 4.2
 ratingCount: 9
 publishedDate: 2026-02-27
 status: "published"
