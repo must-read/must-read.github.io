@@ -7,8 +7,8 @@ authorA: "Madeline Miller"
 authorB: "Courtney Milan"
 workX: "Circe"
 workY: "The Duchess War"
-wordCount: 6529
-readingTimeMinutes: 26
+wordCount: 6019
+readingTimeMinutes: 24
 tags: ["dual-timeline", "magic-system", "bureaucratic-fantasy", "slow-burn", "feminist-fantasy"]
 rating: 0
 ratingCount: 0
@@ -43,15 +43,15 @@ She was filing amendment 1,342 to the Ashward family's ward-binding compact — 
 
 Ilva's pen stopped moving but her hand did not tighten on it. She had trained herself out of involuntary grip responses years ago. "Which records?"
 
-"All of them. Two centuries' worth. They want the original compact pulled from deep archive." Oriel looked apologetic. He was a decent supervisor, which made him dangerous in the way that decent people in indecent systems always are. "The Ashward family is sending a representative to work alongside you. A ward-architect named Daire Ashward. He arrives this afternoon."
+"All of them. Two centuries' worth. They want the original compact pulled from deep archive." Oriel looked apologetic. He was a decent supervisor, which made him dangerous in the way decent people in indecent systems always are. "The Ashward family is sending a representative to work alongside you. A ward-architect named Daire Ashward. He arrives this afternoon."
 
 "I'll need the lower reading room."
 
 "Already booked."
 
-Ilva waited until Oriel retreated down the corridor before she set her pen in its groove and pressed her gloved palms flat against the desk. The wood was oak, old growth, cut sixty years ago for the Registrar's Office refurbishment. She knew this because wood spoke to her through the leather — not in words, but in a kind of pressure, a warmth that told her what it had been and what it wanted to become. She did not let herself listen. She had not let herself listen in twelve years. The discipline of it had become so automatic that sometimes she forgot it was discipline at all, the way a woman who holds her stomach in for long enough forgets that there is a stomach. But the desk remembered. Wood always remembered. She breathed, counted the heartbeats in her wrists, and when she was certain her hands would behave, she stood and went to pull the Ashward files.
+Ilva waited until Oriel retreated down the corridor before she set her pen in its groove and pressed her gloved palms flat against the desk. The wood was oak, old growth, cut sixty years ago for the Registrar's Office refurbishment. She knew this because wood spoke to her through the leather — not in words, but in a kind of pressure, a warmth that told her what it had been and what it wanted to become. She did not let herself listen. She had not let herself listen in twelve years. The discipline had become so automatic that sometimes she forgot it was discipline at all. But the desk remembered. Wood always remembered. She breathed, counted the heartbeats in her wrists, and when she was certain her hands would behave, she stood and went to pull the Ashward files.
 
-The herbs on her windowsill — rosemary, sage, a sprig of thyme she'd rooted from a cutting — were twisted again. The rosemary's stem had flattened and widened overnight, its needles crowding together in a dense, fanned crest that looked like a hand pressing open. Fasciation. She'd looked it up once, years ago, hoping it was ordinary. It was ordinary, in plants. Growth tip splits, meristem disrupts, the stem goes sideways. It happened in a hundred plant families.
+The herbs on her windowsill — rosemary, sage, a sprig of thyme she'd rooted from a cutting — were twisted again. The rosemary's stem had flattened and widened overnight, its needles crowding together in a dense, fanned crest like a hand pressing open. Fasciation. She'd looked it up once, years ago, hoping it was ordinary. Growth tip splits, meristem disrupts, the stem goes sideways. It happened in a hundred plant families.
 
 It happened in hers too.
 
@@ -61,13 +61,13 @@ She turned the pot so the fasciated growth faced the wall, and went to find the 
 
 ## II. Then
 
-The archive in the basement of the Registrar's Office smelled of iron and tannin. Not the pleasant tannin of tea but the acrid sourness of oak galls crushed and mixed with ferrous sulfate — the binding ink that had governed magical practice in the High Seat's territories for fourteen centuries. It was a smell that lived in the walls, had colonized the plaster and the floorboards and the wooden filing cabinets with their brass labels. Ilva breathed it every day of her apprenticeship and thought nothing of it, the way one thinks nothing of the air until it changes.
+The archive in the basement of the Registrar's Office smelled of iron and tannin. Not the pleasant tannin of tea but the acrid sourness of oak galls crushed and mixed with ferrous sulfate — the binding ink that had governed magical practice in the High Seat's territories for fourteen centuries. The smell lived in the walls, had colonized the plaster and the floorboards and the wooden filing cabinets with their brass labels. Ilva breathed it every day of her apprenticeship and thought nothing of it.
 
-The archive was three storeys below street level. The lamps were whale-oil, not the magicked lights used in the offices above — binding ink reacted unpredictably to ward-light, and the Seat preferred its documents inert. So the archive existed in a perpetual amber dimness, and the shadows in it were genuine shadows, cast by flame, and they moved the way fire moves: with the suggestion of something alive in the room.
+The archive was three storeys below street level. The lamps were whale-oil, not the magicked lights used in the offices above — binding ink reacted unpredictably to ward-light, and the Seat preferred its documents inert. So the archive existed in a perpetual amber dimness, and the shadows were genuine shadows, cast by flame, moving with the suggestion of something alive in the room.
 
-She was twenty-two and methodical. They had given her the damaged contracts because she was careful and because no one else wanted the work. The contracts from the previous century were corroding — the iron gall ink eating through the parchment from within, turning words into lacework, clauses into holes. The acid in the ink was patient. It took decades, sometimes a century, but it always won. What was written to bind eventually consumed what it was written on.
+She was twenty-two and methodical. They had given her the damaged contracts because she was careful and because no one else wanted the work. The contracts from the previous century were corroding — the iron gall ink eating through the parchment from within, turning words into lacework, clauses into holes. The acid in the ink was patient. It took decades, sometimes a century, but it always won.
 
-She catalogued them by family name, date, and degree of degradation. She wore cotton gloves — the standard archival kind, not the kid leather she would later require — and she handled the documents with the impersonal gentleness of someone sorting someone else's grief. She was good at this. She had always been good at careful work, the kind that required patience without curiosity, and she took a certain pride in her ability to process the failures of the past without being touched by them. This was before she understood that the documents were not the past. They were the mechanism by which the past continued to operate.
+She catalogued them by family name, date, and degree of degradation. She wore cotton gloves — the standard archival kind, not the kid leather she would later require — and she handled the documents with the impersonal gentleness of someone sorting someone else's grief. She was good at this. She had always been good at careful work, the kind that required patience without curiosity, and she took a certain pride in her ability to process the failures of the past without being touched by them.
 
 She found Fen Denn's cessation agreement on a Tuesday.
 
@@ -109,7 +109,7 @@ Daire Ashward arrived at fourteen minutes past two, which was either the punctua
 
 She opened the door.
 
-He was taller than she'd expected and quieter than the Ashward name implied. The family had a reputation for ceremonial confidence — their ward-magic was old and institutional, woven into the legal fabric of the Compact itself, and most Ashwards she'd encountered treated the Registrar's Office the way a duke treats the servants' entrance. Daire Ashward looked at her alcove the way a scholar looks at a library: with hunger, poorly hidden.
+He was taller than she'd expected and quieter than the Ashward name implied. The family had a reputation for ceremonial confidence — their ward-magic was old and institutional, woven into the legal fabric of the Compact itself, and most Ashwards she'd encountered treated the Registrar's Office like a servants' entrance. Daire Ashward looked at her alcove with hunger, poorly hidden.
 
 "Ilva Denn," she said. "Senior clerk."
 
@@ -133,7 +133,7 @@ He noticed. He picked up the first box, read the label, set it down, picked up t
 
 She watched him handle the founding compact — the original document, two centuries old, the iron gall ink already beginning its slow consumption. He held it the way she held damaged parchment: fingertips on the edges, weight distributed, respect without reverence. And then he did something she did not expect. He held his right hand, palm down, two inches above the surface, and closed his eyes.
 
-Reading the ward-structure. She knew the theory — ward-architects could perceive the magical architecture embedded in binding documents, the invisible framework of clauses and conditions that operated beneath the visible text. She had never seen it done. His face went still in a way that reminded her of the way her own face went still when she was suppressing the pressure in her hands.
+Reading the ward-structure. She knew the theory — ward-architects could perceive the magical architecture embedded in binding documents, the invisible framework of clauses and conditions that operated beneath the visible text. She had never seen it done. His face went still, and she recognized the stillness: it was her own, the expression she wore when suppressing the pressure in her hands.
 
 After a long moment he opened his eyes and looked at her.
 
@@ -179,7 +179,7 @@ Ilva kept her face very still.
 
 The review panel convened on a Thursday, six days after Hastra's report. They met in the Arbiter's Chamber on the fourth floor — a room Ilva had never entered, because apprentices did not enter the Arbiter's Chamber, because the chamber was for disputes and assessments and the kind of decisions that ended some lives and rerouted others.
 
-Three arbiters sat behind a curved bench of black walnut. Two men and a woman, all of them old enough that their authority had settled into their faces like water into stone. They were not cruel. This was worse than cruelty, because cruelty could be protested. They were procedural. They spoke in the language of clauses and subclauses, of terms and conditions, of the Compact's provisions as interpreted by the Seat's Office of Practitioner Conduct, and their words fell with the weight of things that had been said a thousand times before and would be said a thousand times after, words worn smooth by repetition until they meant nothing and governed everything.
+Three arbiters sat behind a curved bench of black walnut. Two men and a woman, all of them old enough that their authority had settled into their faces like water into stone. They were not cruel. This was worse than cruelty, because cruelty could be protested. They were procedural. They spoke in the language of clauses and subclauses, and their words fell with the weight of things that had been said a thousand times before, worn smooth by repetition until they meant nothing and governed everything.
 
 Ilva sat in a chair that was too large for her. Her hands were in her lap. They had not returned entirely to normal — the ridges were fading but visible, the skin still faintly translucent at the knuckles, the texture fibrous in a way that cotton gloves could not entirely conceal. She had wrapped them in a scarf on the way here and unwrapped them in the corridor, because arriving with wrapped hands would have looked like guilt, and she was not guilty. She had not chosen what her hands did. She had not even known they could do it.
 
@@ -191,9 +191,9 @@ Option two: voluntary cessation agreement. She would pledge never to use her abi
 
 Ilva looked at her hands. The ridges were almost gone. In another hour they would be invisible, and her hands would be the hands of a clerk again, ink-stained and ordinary, the hands of a woman whose most remarkable quality was her filing speed.
 
-She was grieving, though she would not have called it grief. She had known about the ability for six days. She had used it once, involuntarily, and the thing her power had done was not destruction but restoration — it had returned a broken contract to its original terms, the terms that should have protected her own family and had been allowed to rot. Her magic was not dangerous. Her magic was a correction. And the system that classified it as unbound practice was the same system that had broken the contract in the first place, and she understood this with the clarity of someone who can see the diagram but cannot reach the mechanism, and the understanding did not help.
+She had known about the ability for six days. She had used it once, involuntarily, and the thing her power had done was not destruction but restoration — it had returned a broken contract to its original terms, the terms that should have protected her own family and had been allowed to rot. The system that classified it as unbound practice was the same system that had broken the contract in the first place.
 
-She looked at the arbiters and tried to see them as individuals — a man with ink on his cuffs, a woman whose reading spectacles hung from a chain of beaten silver, another man who had not looked up from his papers since the hearing began. They were not villains. They were custodians of a process, and the process was the villain, and you cannot argue with a process, because a process does not have ears. It has terms.
+She looked at the arbiters and tried to see them as individuals — a man with ink on his cuffs, a woman whose reading spectacles hung from a chain of beaten silver, another man who had not looked up from his papers since the hearing began. They were custodians of a process. You cannot argue with a process. A process does not have ears. It has terms.
 
 She was twenty-two. She was alone. She was sitting in a chair that was too large for her in a room that smelled of walnut oil and iron gall ink, and the three figures behind the bench were waiting for her answer with the patience of stone.
 
@@ -205,7 +205,7 @@ She signed it with a pen they provided. The nib was steel, the ink standard regi
 
 Her hand did not change. Her hand was steady.
 
-Hastra was waiting for her in the corridor. Hastra had a cup of tea — real tea, not the bitter archive-dust that passed for refreshment in the basement — and she held it out to Ilva with both hands, a gesture of offering that was also a gesture of containment, because what else can you do with your hands when you have just ended someone's future and need them to stay somewhere harmless?
+Hastra was waiting for her in the corridor with a cup of tea — real tea, not the bitter archive-dust that passed for refreshment in the basement. She held it out with both hands.
 
 "It's for the best," Hastra said.
 
@@ -235,23 +235,23 @@ He looked at her. Not at her hands, not at her gloves — at her face. "You've k
 
 "Knowing and being able to act on knowing are different things."
 
-He accepted this. He didn't argue. She saw him file it away, the way she filed documents: carefully, in its proper place, to be retrieved when it would be useful. This was the thing about him that unbalanced her. He didn't press. He calculated.
+He accepted this. He didn't argue. He didn't press. The thing about him that unbalanced her was the calculating quality of his patience — not passivity, but the restraint of someone who knew that the next question would cost less if he waited.
 
 On the fourth afternoon he reached across the table for a contract she was holding — a routine gesture, professional, his hand extending palm-up to receive the document — and she flinched.
 
-Not a small flinch. Not a twitch. A full-body withdrawal, the kind that moves the chair backward, that pulls the arms inward, that makes the breath catch and the eyes go wide for one exposed second before the performance reasserts itself. She recovered. She always recovered. But the flinch was already in the room, filling it the way a dropped glass fills a room with the expectation of shards, and they both sat in the silence of what she had revealed.
+Not a small flinch. A full-body withdrawal — chair scraping backward, arms pulling inward, breath catching. One exposed second before the performance reasserted itself. She recovered. She always recovered. But the flinch was already in the room, and they both sat in the silence of what she had revealed.
 
-He set his hand down. Not dropped it — set it, with the deliberate placement of someone rearranging the pieces on a board. He leaned back in his chair.
+He set his hand down. Not dropped it — set it, with the deliberate placement of someone writing a clause he intended to enforce. He leaned back in his chair.
 
 "I am going to tell you something," he said, "and I would like you to hear it as information rather than as a threat."
 
 Her hands were shaking under the table. She pressed them against her thighs and waited.
 
-"I can read residue," he said. "Magical signatures embedded in documents — any ward-architect can, with training. Every contract you've filed in the last twelve years is clean. Your gloves are effective. You have been extremely careful." He paused. "But there is one document in the deep archive — a cessation agreement from two centuries ago, restored and rewritten in a hand that is not human — that carries a signature I have never encountered before."
+"I can read residue," he said. "Magical signatures embedded in documents — any ward-architect can, with training. Every contract you've filed in the last twelve years is clean. Your gloves are effective." He paused. "But there is one document in the deep archive — a cessation agreement from two centuries ago, restored in a hand that is not human — that carries a signature I have never encountered before."
 
 She did not speak.
 
-"The Seat doesn't know," he said. "I have not told them. I would not be telling you if I thought there was any chance the Seat already knew, because then this conversation would be a trap, and I am not interested in trapping you." He said this without emphasis, the way one states a condition in a contract: flatly, so the language does the work. "The signature is distinctive enough that I recognized it in two other places. One is in the binding structure of the filing system itself — you've touched the archive cabinets without gloves at least once, possibly more. The wood remembers." Another pause. "The other is on your windowsill."
+"The Seat doesn't know. I have not told them." He said this flatly, a condition stated so the language did the work. "The signature is distinctive enough that I recognized it in two other places. The binding structure of the filing cabinets — you've touched them without gloves at least once. The wood remembers." Another pause. "And your windowsill."
 
 The fasciated rosemary. The herbs she couldn't stop from twisting toward her. The meristematic disruption that followed her like a scent.
 
@@ -263,7 +263,7 @@ The fasciated rosemary. The herbs she couldn't stop from twisting toward her. Th
 
 "And I decided that if you've been hiding for — how long? More than a decade? — then you have reasons, and the reasons are probably documented somewhere in this office, and the fact that you're the one filing the documentation makes the entire situation recursive in a way I find genuinely difficult to look away from."
 
-She processed this. She did what she always did: she sorted the information, filed it, assessed the threat gradient. But the gradient was strange. It did not read as threat. It read as — she did not have a word for what it read as. Offer, maybe. The shape of a hand extended across a table, except the hand was made of information and the table was made of twelve years of silence, and she did not know how to take something that was offered in a language she had not been permitted to speak.
+She processed this. She did what she always did: sorted the information, filed it, assessed the threat gradient. But the gradient was wrong. He had just told her he possessed enough evidence to end her career and her freedom, and the telling had not felt like a weapon. It had felt like a door left open by someone who did not intend to follow her through it.
 
 ---
 
@@ -281,15 +281,15 @@ The restored contract — Fen Denn's cessation — was where she had left it, fi
 
 Fen Denn had signed this agreement in good faith, and the Seat had filed it in bad faith, and time and iron gall ink had done the rest. The acid in the binding ink ate through the promises on a schedule the Seat could predict, and when the promises were illegible, they were gone, and the restrictions — always written in a heavier hand, a thicker application of ink, the corrosion calculated to eat the commitments before it reached the conditions — survived.
 
-Ilva understood now what she had done. Not transformation for its own sake. Not random transmutation. Her hands returned things to what they were meant to be. She was a correction. She was the only mechanism the system could not account for, because the system was designed to corrode, and she reversed corrosion, and if anyone in the Seat understood what she could do, they would not offer her the choice between registration and cessation. They would bury her.
+Ilva understood now what she had done. Her hands returned things to what they were meant to be. She reversed corrosion. And if anyone in the Seat understood what that meant — not just a woman with unregistered magic, but a woman whose magic was a correction of the system itself — they would not offer her the choice between registration and cessation. They would bury her.
 
 She put her gloves on.
 
 There was a potted fern on the archive windowsill — half-dead from the basement's permanent dusk, its fronds curled inward like fists. As she passed it, she saw that the nearest frond had unfurled. Not all the way. Just the tip, reaching toward her hand. The stem below it had flattened and thickened, the cells splitting and spreading in a pattern she was beginning to recognize as her own signature. Fasciation. Her body's echo in the bodies of growing things.
 
-She did not touch the fern. She did not go back to the archive. She went home and sat in her small apartment with her gloved hands in her lap and understood that the choice she had made that afternoon was not between two cages but between visibility and survival, and she had chosen survival, and survival meant that the promises the Seat had broken would remain broken, and Fen Denn's descendants would remain flagged, and the Compact would continue to ratchet, and the ink would continue to eat, and she would file the amendments as they came across her desk, one after another, year after year, in gloves that were thin enough to feel the grain of the parchment but thick enough to keep her hands from fixing it.
+She did not touch the fern. She went home and sat in her small apartment with her gloved hands in her lap. Survival meant the promises the Seat had broken would remain broken. The Compact would continue to ratchet. The ink would continue to eat. She would file the amendments as they came across her desk, one after another, year after year, in gloves thin enough to feel the grain of parchment but thick enough to keep her hands from fixing it.
 
-Twenty-three more years until pension. She would endure.
+Twenty-three more years until pension.
 
 ---
 
@@ -299,7 +299,7 @@ Ilva sat across from Daire Ashward in the reading room, surrounded by two centur
 
 "That depends," he said, "on what you want to do with it."
 
-This was the question she had spent twelve years avoiding. Not what she could do. Not what the system deserved. What she wanted. It was such a Milan question — sharp, precise, forcing the other party to name their position before the negotiation could proceed. She almost smiled.
+This was the question she had spent twelve years avoiding. Not what she could do. Not what the system deserved. What she wanted. She almost smiled — he had the instincts of a contract drafter, forcing the other party to name their position before the negotiation could proceed.
 
 "You're an Ashward," she said. "Your family's authority comes from the Compact. The same Compact that suppressed my grandmother's line."
 
@@ -309,7 +309,21 @@ This was the question she had spent twelve years avoiding. Not what she could do
 
 "My interest in the audit is strategic. My interest in you—" He stopped. He looked at his own hands, folded on the table, and she watched him choose his next words with the care of someone drafting a contract. "My interest in you is more complicated, and I don't think I'm going to resolve it by pretending it's simpler than it is."
 
-She felt the blood in her face and did not hide it. Hiding was a habit, not a skill, and the distinction mattered now.
+"Let me be precise about what I heard," Ilva said. "Your family is losing authority. My ability restores original terms. If I touch the founding compact and give the Ashwards back their original practice rights, your family benefits enormously. And you want me to believe your interest is complicated."
+
+His jaw tightened. "That's fair."
+
+"I didn't say it was fair. I said it's what I heard."
+
+"The original compact also protects your family line. The hereditary flags, the cessation terms — they all derive from amendments that postdate the founding document. Restoring the original helps both of us."
+
+"It helps you more. The Ashwards get back geographical scope, category permissions, a shortened appeals process. My family gets the removal of a flag. One is power. The other is permission to exist."
+
+He was quiet. She watched him decide whether to argue, and she watched him decide not to, and the decision cost him something visible — a flicker behind the eyes, the compression of someone swallowing an objection he believed in.
+
+"You're right," he said. "It helps my family more. I won't pretend otherwise."
+
+She felt the blood in her face and did not hide it.
 
 "If we do this," she said. "If I touch the original compact and restore the original terms — the founding document, the one from which every amendment flows—"
 
@@ -321,13 +335,13 @@ She felt the blood in her face and did not hide it. Hiding was a habit, not a sk
 
 "For twelve years."
 
-The admission landed in the room with the weight of the contract she'd signed at twenty-two. Twelve years of filing the instruments of her own suppression. Twelve years of knowing what the ink was eating and letting it eat. Twelve years of gloves and fasciated herbs and the careful performance of a woman whose hands did nothing remarkable.
+The admission landed in the room with the weight of the contract she'd signed at twenty-two. Filing the instruments of her own suppression. Knowing what the ink was eating and letting it eat. The gloves, the fasciated herbs, the careful performance of a woman whose hands did nothing remarkable.
 
 "I need to know your terms," she said. "Before anything else. I need to know what you want from this, specifically, and I need you to be precise, because I have spent a long time in a system that promises things in general and breaks them in particular."
 
-He nodded. He did not look offended. He looked like a man who recognized the request for what it was: not suspicion, but the earned caution of someone who has read too many contracts to take anything on faith.
+He nodded. He did not look offended. He looked like someone who recognized the request for what it was.
 
-"I want the original compact restored," he said. "The version that was actually negotiated, not the version the Seat has been building through two centuries of selective corrosion. I want my family's practice rights as they were originally agreed — geographical scope, category permissions, the appeals process that used to take six months and now takes seven years. I want the hereditary flags removed from every family line that was penalized under corrupted terms." He held her gaze. "Yours included."
+"I want the original compact restored," he said. "Every clause. Including the ones that protect your family and the ones that protect mine. I won't rank them for you — you already know which ones matter more to whom."
 
 "That's what you want from the audit."
 
@@ -347,13 +361,13 @@ She stared at him. "You noticed that."
 
 "You were testing me. I thought the least I could do was pass."
 
-The pressure in her hands was building — not the pressure of suppression but something else, something she had not felt in twelve years, the upward push of her own capacity against the gloves that contained it. The rosemary on the windowsill was twisting visibly now, the stem widening, the needles fanning, the fasciation accelerating in response to whatever was happening in the room, and Daire glanced at it and then looked back at her and did not say a word.
+The pressure in her hands was building — not the pressure of suppression but something else, the upward push of her own capacity against the gloves that contained it. The rosemary on the windowsill was twisting visibly now, the stem widening, the needles fanning, the fasciation accelerating in response to whatever was happening in the room, and Daire glanced at it and then looked back at her and did not say a word.
 
 Ilva took off her gloves.
 
-She did it slowly. Left hand first — peeling the leather back from the wrist, easing each finger free, the way she'd put them on twelve years ago, the same gesture in the opposite direction. Then the right. She laid the gloves on the table beside the corroding contracts.
+She did it slowly. Left hand first — peeling the leather back from the wrist, easing each finger free. Then the right. She laid the gloves on the table beside the corroding contracts.
 
-Her hands were ordinary. Ink-stained. A callus on her right middle finger from twelve years of holding a pen. A faint ridge across the knuckles that could be arthritis or could be something else. They were the hands of a clerk, unremarkable, and she held them out, palms up, in the space between them.
+Her hands were ordinary. Ink-stained. A callus on her right middle finger from holding a pen. A faint ridge across the knuckles that could be arthritis or could be something else. They were the hands of a clerk, unremarkable, and she held them out, palms up, in the space between them.
 
 "These are my hands without gloves," she said. "They don't do anything unless I choose."
 
@@ -367,7 +381,7 @@ Her hands were ordinary. Ink-stained. A callus on her right middle finger from t
 
 He looked at her hands and then at her face and said: "I am aware of that. Can we talk about terms?"
 
-They talked. They sat in the reading room with the clock ticking in the corridor and the contracts degrading on the table between them and they negotiated what it would mean to work together — actually together, her restoration and his ward-reading applied to the same documents, her ability to recover original terms and his ability to perceive the magical architecture of a contract combined into a single practice that neither the Ashward family nor the High Seat had accounted for, because the two abilities had never been used in tandem, because the system that governed one had suppressed the other, and the suppression was the point.
+They talked. The clock ticked in the corridor and the contracts degraded on the table between them and they negotiated what it would mean to work together — her restoration and his ward-reading applied to the same documents, a combined practice that neither the Ashward family nor the High Seat had accounted for. The system that governed one had suppressed the other.
 
 They were specific. She required it.
 
@@ -375,24 +389,24 @@ If she touched the original compact and her hands fasciated, he would not report
 
 If his ward-reading revealed something in the original terms that disadvantaged her family, he would tell her before he told anyone else. Not as a courtesy. As a condition.
 
-If the collaboration produced something neither of them could control — if the restoration of the founding compact triggered a cascade through the amendment history, if the ink rewrote itself across two centuries of documents, if the Seat's entire contractual framework began to uncorrode — they would face it together. Not because together was safer. Because alone was what the system had designed for both of them, and they were done cooperating with that design.
+If the collaboration produced something neither of them could control — if the restoration of the founding compact triggered a cascade through the amendment history, if the ink rewrote itself across two centuries of documents — they would face it together. She did not say this made her feel safe. It did not.
 
 "One more thing," she said.
 
 He waited.
 
-"Don't promise to protect me. Promise to be present. Those are different things, and I need you to know the difference."
+"Don't promise to protect me."
 
-"I know the difference," he said.
+"I wasn't going to."
 
-"Then we have terms."
+"Good. Promise to be present instead. Those are different things."
 
-She looked at the founding compact on the table between them — the original document, the one from which all amendments flowed, the ink corroding it word by word into a version of itself that served the Seat and starved everyone else. She had not touched it. She had not touched any contract without gloves since she was twenty-two.
+He opened his mouth, and she could see he wanted to say *I know the difference*, wanted to give her the clean reassurance, the final clause that would close the negotiation. But he didn't. He looked at her bare hands on the table — the ink stains, the callus, the faint ridges across the knuckles — and he said, "I can promise to try."
 
-Her bare hands rested on the table. The rosemary on the sill was fasciated so far that the stem had split into a fan of fibrous growth, beautiful and wrong, a plant becoming something it had never been designed to be. Her hands were still ordinary. They would not stay ordinary. When she touched the compact, they would change, and he would see the change, and the change would be the beginning of something she could not file or amend or suppress.
+It was less than she wanted. It was more than anyone had offered.
 
-The compact waited. Her hands waited. The ink was eating.
+She looked at the founding compact between them. The original document, two centuries old, the ink corroding it word by word. She had not touched a contract without gloves since she was twenty-two. On the windowsill the rosemary had fasciated so far that the stem had split into a fibrous fan, its needles crowding outward in a crest that no longer resembled rosemary at all.
 
-They had not begun. The terms were named, the collaboration agreed, the contract between them still unwritten. The work — the actual work, the touching, the restoration, the undoing of two centuries of calculated corrosion — had not yet started.
+Her hands were still ordinary. They would not stay ordinary.
 
-But her gloves were off, and they were not going back on, and Daire Ashward sat across from her with the patience of a man who understood that some things could not be rushed and the attention of a man who did not want to miss what happened next, and Ilva Denn looked at her own bare hands on the table and felt, for the first time in twelve years, the specific, physical vertigo of being — not known, not yet, but knowable. The difference between those two words was the distance between the gloves and the compact, and she was going to cross it, and she was afraid, and she was not going to stop.
+The compact waited. The ink was eating. And she had not yet decided — not fully, not in the way that mattered, the way that involved reaching across a table and letting her skin touch parchment and letting someone watch — whether the terms they had named were enough to build on, or only enough to begin.
