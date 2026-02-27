@@ -7,7 +7,7 @@ authorA: "Hunter S. Thompson"
 authorB: "John McPhee"
 workX: "Hell's Angels"
 workY: "The Pine Barrens"
-wordCount: 7500
+wordCount: 7400
 readingTimeMinutes: 30
 tags:
   - radio
@@ -522,7 +522,7 @@ This is my first inspection of the Otterbein case. I reviewed the file in its en
 
 ### Approach and Pre-Contact Observation
 
-I arrived at the intersection of CR 242 and the subject's access drive at approximately 0628 CDT. The sky was overcast, temperature 38°F, light fog in the hollows along the creek bottoms — the mist sat in the low ground like something poured. I parked at the end of the access drive, approximately 50 meters from the residence, and tuned my monitoring receiver (AOR AR-5000) to 1240 kHz.
+I arrived at the intersection of CR 242 and the subject's access drive at approximately 0628 CDT. The sky was overcast, temperature 38°F, light fog in the hollows along the creek bottoms. I parked at the end of the access drive, approximately 50 meters from the residence, and tuned my monitoring receiver (AOR AR-5000) to 1240 kHz.
 
 At 0644:55 CDT, the carrier came on. A brief burst of hum (60 Hz, consistent with poor power supply filtering), then silence for approximately 10 seconds.
 
@@ -546,9 +546,9 @@ He then read a brief farm report from the MU Extension office regarding soil tem
 
 The broadcast concluded at 0703:22 CDT. Total duration: 18 min 27 sec, longer than the monitored average (11 min 30 sec per the monitoring division's calculation), likely because three obituaries is above the typical count of one to two.
 
-During the broadcast, at approximately 0655 CDT, a pickup truck (Ford Ranger, dark blue, late 1990s model) slowed on CR 242, approximately 80 meters from the end of the access drive. The driver, an older man in a cap, raised one hand from the steering wheel — not toward me, not toward the house, but toward the antenna on the chimney. The kind of wave you give someone you see every day. Then the truck continued south on 242.
+During the broadcast, at approximately 0655 CDT, a pickup truck (Ford Ranger, dark blue, late 1990s model) slowed on CR 242, approximately 80 meters from the end of the access drive. The driver, an older man in a cap, raised one hand from the steering wheel — not toward me, not toward the house, but toward the antenna on the chimney. Then the truck continued south on 242.
 
-I did not approach the residence until the broadcast concluded.
+I did not approach the residence until the broadcast concluded. I remained in the vehicle for the full duration of the broadcast in order to document carrier stability and modulation characteristics.
 
 ### Contact and Equipment Inspection
 
@@ -560,7 +560,7 @@ The transmitter itself:
 
 The Ramsey AM-1 board is now 19-20 years old. The PCB has darkened from oxidation. Several components show heat discoloration. The modification noted by Toomey — the replacement output transistor and additional amplifier stage — remains in place. I observed three cold solder joints on the amplifier board, one of which has been repaired with electrical tape and rosin-core solder (the same repair noted by Toomey in 2016 — eight years ago, and it is still holding). A fourth connection, on the modulation input, has been reinforced with a wrap of bare copper wire and a drop of solder that spread wider than intended, bridging almost to an adjacent trace. It has not shorted. Whether by skill or accident, the gap is maintained.
 
-The construction method is consistent with techniques documented in amateur and field-expedient radio construction literature, including wartime foxhole receiver designs adapted for transmission — the same improvisational tradition that produced functional radios from razor blades and safety pins in the Pacific theater, except that Otterbein's work is not desperate. It is patient. The heat sink on the output transistor has been shimmed with a folded piece of aluminum cut from a beverage can (Busch Light, based on the visible printing on the interior surface). It works.
+The construction method is consistent with techniques documented in amateur and field-expedient radio construction literature. The heat sink on the output transistor has been shimmed with a folded piece of aluminum cut from a beverage can (Busch Light, based on the visible printing on the interior surface). It works.
 
 I asked Mr. Otterbein about his listener base. He said he did not know how many people listened. "Mrs. Kessler calls every morning at eight to tell me if I got a name wrong," he said. "She's been calling for eleven years. I've never met her. She lives over past Conway somewhere. She's got a radio in her kitchen and she writes down the names and checks them against the paper when her daughter brings it in the afternoon."
 
@@ -605,13 +605,11 @@ Below this, in different ink, added later:
 
 I asked about this. Mr. Otterbein said his son Kevin had agreed to read the obituaries if Dale was unable. I asked if Kevin had done so. "Once," he said. "I had the flu in January. He drove up from Joplin and did it for three days. He didn't want to. He said it was morbid." Mr. Otterbein paused, then said: "He's not wrong. But somebody has to."
 
-### Signal Coverage and Community Impact Assessment
+### Signal Coverage Assessment
 
 The broadcast on 1240 kHz serves as the sole source of locally originated information for an estimated listener base of 40-120 individuals, predominantly elderly residents of the rural areas surrounding Lebanon, Missouri, many of whom lack broadband internet access and some of whom no longer subscribe to the *Lebanon Daily Record* due to cost or delivery cessation. The 2020 Census recorded 35,723 residents in Laclede County, a decline of 2.1% from 2010. Population decline is concentrated in unincorporated rural areas. The median age in the county is 40.7 years. The rural areas served by the broadcast skew significantly older.
 
-The broadcast provides three categories of information available from no other locally originated source within the estimated coverage area: spoken obituaries supplemented by the operator's personal knowledge of the deceased, localized weather observation augmenting NWS forecasts with ground-level detail, and agricultural information from the MU Extension office in plain language.
-
-This fact does not affect the enforcement recommendation but is noted for the record.
+No other locally originated source provides the same combination of spoken obituaries, localized weather observation, and agricultural information within the estimated coverage area.
 
 ### Recommendation
 
