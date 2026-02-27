@@ -10,8 +10,8 @@ workY: "The Duchess War"
 wordCount: 6019
 readingTimeMinutes: 24
 tags: ["dual-timeline", "magic-system", "bureaucratic-fantasy", "slow-burn", "feminist-fantasy"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Miller's mythic elevation meets Milan's sharp negotiation. A woman who transforms matter through touch must decide whether to reveal herself to the man auditing her office's secrets."

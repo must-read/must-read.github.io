@@ -10,8 +10,8 @@ workY: "Wolf Hall"
 wordCount: 7087
 readingTimeMinutes: 28
 tags: ["ancient-rome", "political-violence", "institutional-complicity", "roman-republic", "freedman"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Mantel's present-tense institutional intimacy meets Graves's sardonic insider voice. A freedman clerk records the day the Roman Republic fractured."

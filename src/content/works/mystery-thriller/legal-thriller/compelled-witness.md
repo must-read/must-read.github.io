@@ -10,8 +10,8 @@ workY: "Witness for the Prosecution"
 wordCount: 3994
 readingTimeMinutes: 16
 tags: ["courtroom-drama", "academic-thriller", "unreliable-narrator", "classical-education", "ritual"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Tartt's hypnotic campus confession meets Christie's courtroom machinery. A classics professor testifies at her former student's murder trial, and neither track of her narration can be trusted."
