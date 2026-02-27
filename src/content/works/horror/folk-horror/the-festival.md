@@ -7,8 +7,8 @@ authorA: "Robert Aickman"
 authorB: "Mariana Enriquez"
 workX: "Midsommar directed by Ari Aster"
 workY: "The Lottery by Shirley Jackson"
-wordCount: 3127
-readingTimeMinutes: 13
+wordCount: 2852
+readingTimeMinutes: 11
 tags: ["horror", "folk-horror", "argentina", "ritual", "hospitality", "food"]
 rating: 0
 ratingCount: 0
@@ -49,9 +49,9 @@ She underlined it with her pencil. She would ask Sofía.
 
 The hall smelled of floor wax and empanadas. At the far end, a man and a woman were arguing about whether sixty chairs would be enough or whether they should borrow from the church. The man said sixty was plenty. The woman said sixty was what they'd had last year and last year people had stood. The argument had the texture of repetition — the same disagreement produced annually, settled annually, reopened annually, serving less as a conflict than as a greeting. *Here we are again. Here is the chair problem. Here is the festival.*
 
-Bridget closed her notebook and put the agenda in the front pocket of her bag and sat in the plastic chair and felt, for a moment, the specific pleasure of being in a place she had studied but never visited. She had written about these festivals. She had read every published ethnography of the corpachada in the Argentine northwest. She had supervised a thesis on them — supervised and then lost the student, Lucía Robles, who had gone to Humahuaca for fieldwork and come back changed and then stopped coming back at all. Bridget had written her a letter about professional distance. Lucía had not replied.
+Bridget closed her notebook and put the agenda in the front pocket of her bag and sat in the plastic chair and felt, for a moment, the specific pleasure of being in a place she had studied but never visited. She had written about these festivals. She had read every published ethnography of the corpachada in the Argentine northwest. She had supervised a thesis on them — supervised and then lost the student, Lucía Robles, who had gone to Humahuaca for fieldwork and stopped answering emails. Bridget had written her a letter. Then another. Lucía's department said she had taken a leave of absence. The department did not say from what.
 
-That was three years ago. Bridget did not think about it often. She was thinking about it now only because the hall smelled like the empanadas Lucía used to bring to supervisions, warm in a paper bag, grease spotting the drafts of chapters that were never finished.
+The hall smelled like the empanadas Lucía used to bring to supervisions, warm in a paper bag, grease spotting the drafts of chapters that were never finished.
 
 ---
 
@@ -65,9 +65,9 @@ Then she saw Bridget and her face opened.
 
 "I invite you every year. You never come."
 
-This was true. Sofía had been asking for four years, and Bridget had always declined — gently, with excuses about term dates and other commitments, excuses that were true enough and that concealed the truer reason, which was that Bridget preferred to study the festival from a distance, through published accounts and Sofía's own descriptions. The festival on paper was legible. The festival in person would be something she would have to experience rather than interpret, and Bridget was not confident she knew the difference.
+This was true. Sofía had been asking for four years, and Bridget had always declined — gently, with excuses about term dates and other commitments, excuses that were true enough and that concealed the truer reason, which was that Bridget preferred to study the festival from a distance, through published accounts and Sofía's own descriptions. The festival on paper was legible. The festival in person would require something of her that she had not agreed to give.
 
-But this year the funding body had wanted evidence of community engagement, and the monograph needed a second edition, and Sofía's voice on the phone had carried something Bridget had not heard before — not urgency exactly but a kind of tenderness, almost maternal, that had unsettled her into saying yes.
+But this year the funding body had wanted evidence of community engagement, and the monograph needed a second edition, and Sofía's voice on the phone had carried something Bridget had not heard before — not urgency, something closer to relief, as though a problem had been solved that Bridget did not know was a problem. She had said yes before she understood she was going to.
 
 Sofía introduced her to the committee. They shook her hand and said they had heard so much about her. Don Aurelio, ninety-four, who had arrived while Bridget was reading the agenda and was sitting in a chair that was clearly his chair in a way that transcended any question of ownership — Don Aurelio told her he kept her monograph in his kitchen.
 
@@ -75,7 +75,7 @@ Sofía introduced her to the committee. They shook her hand and said they had he
 
 "Next to the radio. I read a page while the water boils."
 
-She was flattered in a way that embarrassed her. A monograph was not a novel. It was not meant to be read beside a radio. But Don Aurelio spoke about it as though it were a useful object, like a calendar or a list of saints' days, and his approval carried a weight she had not earned from any peer review.
+She was flattered in a way that embarrassed her. A monograph was not a novel. It was not meant to be read beside a radio. But Don Aurelio spoke about it as though it were a useful object, like a calendar or a list of saints' days, and she found she did not know how to receive this.
 
 Sofía touched her arm. "I am so glad you came," she said. "You have no idea how glad."
 
@@ -97,19 +97,19 @@ Afterward, walking back to Sofía's house through dust that clung to the cuffs o
 
 "Sofía, what is the portion? In the meeting, Carmen mentioned it."
 
-"The food allocation. How much meat, how much bread, who eats first. The older families eat first, then the guests. It is a question of respect." Sofía said this without looking at her, shading her eyes against the sun with her hand, watching two dogs trot purposefully down the road toward some business of their own.
+"The food allocation. How much meat, how much bread, who sits where. The older families eat first, then the guests." Sofía said this without looking at her, shading her eyes against the sun with her hand, watching two dogs trot down the road toward some business of their own.
 
 "That's all it is?"
 
 "What else would it be?"
 
-The answer was reasonable. Bridget did not believe it entirely, and she also did not press, because pressing would be — what? Colonial. The academic interrogating the native informant. She had written entire chapters against that posture. She had told Lucía Robles that the greatest sin of the anthropologist was to treat participation as data. And so she accepted Sofía's answer and wrote it in her field notebook and underlined *portion* and turned the page.
+The answer was reasonable. Bridget did not believe it entirely, and she also did not press. She wrote *food allocation — respect* in her field notebook and underlined *portion* and turned the page.
 
 The next morning, she watched the corpachada.
 
-It was behind the church, in a flat space of packed earth where nothing grew. Five women had gathered, including Carmen, and they were digging. Not with ceremony — with shovels. Short, efficient strokes. The hole they made was perhaps half a metre across and slightly less deep. They lined it with fabric — a printed cotton, not the alpaca wool of the older accounts, and Bridget noted the substitution with a small reflexive satisfaction, the ethnographer cataloguing adaptation, syncretism, the ongoing negotiation between tradition and availability. They placed offerings in the hole: a clay pot of locro, two ears of dried corn, a cigarette standing upright in the earth like a candle, a small bottle of cane spirit with its cap removed.
+It was behind the church, in a flat space of packed earth where nothing grew. Five women had gathered, including Carmen, and they were digging. Not with ceremony — with shovels. Short, efficient strokes. The hole they made was perhaps half a metre across and slightly less deep. They lined it with fabric — a printed cotton, not the alpaca wool of the older accounts, and Bridget noted the substitution with a small reflexive satisfaction — printed cotton, not alpaca wool, syncretism in real time. They placed offerings in the hole: a clay pot of locro, two ears of dried corn, a cigarette standing upright in the earth like a candle, a small bottle of cane spirit with its cap removed.
 
-Bridget photographed each stage. She was meticulous. She adjusted the angle to capture the way the cigarette smoke rose straight up in the windless air. She was doing her job. She was also, she realised, being watched — not with hostility, not with the guarded suspicion she had sometimes encountered at other sites, but with something closer to patience. The way you watch someone read a menu in a language they are still learning.
+Bridget photographed each stage. She adjusted the angle to capture the way the cigarette smoke rose straight up in the windless air. She was being watched — not with hostility but with something closer to patience. The way you watch someone read a menu in a language they are still learning.
 
 Carmen stood at the edge of the group with her arms folded across the apron. When Bridget lowered her camera, Carmen spoke. In English. The English was stiff, unpractised, a tool taken down from a shelf where it had sat for years.
 
@@ -131,30 +131,28 @@ The food came. Empanadas first, then bowls of locro — thick, heavy, the hominy
 
 "Patay," Sofía told her. "From the algarroba. The tree was here before any of us. Before the Diaguita. Before anyone. Taste it."
 
-It was dense and dark and sweet in a way that did not resemble sugar — a sweetness that tasted like the ground, if the ground could be eaten, which of course it could, which was the entire point, though Bridget did not think this clearly. She ate one piece and reached for another. The bread was heavy in her hand. She ate it. She reached for another. The basket was full. She did not remember it being refilled.
+It was dense and dark and sweet in a way that did not resemble sugar — a sweetness like earth, or what she imagined earth would taste like if you could eat it without choking. She ate one piece and reached for another. The bread was heavy in her hand. She ate it. She reached for another. The basket was full. She did not remember it being refilled.
 
 More dishes arrived. A stew of squash and dried meat. Something wrapped in corn husks that she could not identify and did not ask about. Bridget was full. She continued eating because everyone was eating and to stop would be to separate herself from the table, and the table was the festival, and the festival was why she had come, and she had been so thoroughly welcomed that the act of pushing her plate away would be a violence she could not commit against these people who had read her monograph and kept it in their kitchens.
 
 Down the row of faces. All eating. All happy. The light was fading but the string lights were enough — no shadows, no place where the table disappeared into darkness. She could see every face. Doña Carmen was eating slowly, steadily, with the unhurried patience of someone performing a task she had performed many times. Don Aurelio was telling the man beside him a story that involved hand gestures and laughter. Sofía was eating and watching Bridget eat and smiling.
 
-And Bridget understood.
+Something shifted. Not in the scene — in the frame through which she was watching it. The portion. The mouth. The seating. She thought of the agenda, the line she could not read, placed between the generator and the parking. She thought of sixty chairs and whether they were enough. She thought of Sofía saying *you should come* for four years, the way a committee returns to a problem annually, patiently, until the problem resolves.
 
-Not suddenly — it was not an epiphany, not a flash. It was more like focusing a lens that had been slightly wrong for days. The grammar clarified. Subject: the earth. Verb: eats. Object: what is given. The portion was not the food allocation. The portion was who was placed closest to the mouth. The portion was who the earth eats first. And the selection — buried in the committee minutes between the generator and the parking, spoken of in the same syntax as the folding chairs — the selection had been made. Had perhaps been made years ago. Had perhaps been made the first time Sofía said *you should come to the festival* and Bridget had said *perhaps next year*.
-
-She looked at Sofía. Sofía was smiling. It was the same smile she had worn since Bridget arrived — unguarded, warm, full of something that Bridget had been calling affection and that she now understood was also grief, or gratitude, or the particular expression of a woman who has given someone a gift that cost her something to give.
+She looked at Sofía. Sofía was smiling. It was the same smile she had worn since Bridget arrived. Bridget had been calling it affection. She did not know what else to call it. Sofía's eyes were wet, but the air was dry and people's eyes watered in the dust, and this did not need to mean anything.
 
 Bridget picked up another piece of patay. She ate it. It was delicious. The sweetness sat on her tongue and she swallowed and her hand was already reaching for the next piece before she had decided to reach.
 
 ---
 
-The meal continued. The sky was dark now but the string lights held everything in a warm, even glow — the kind of light that eliminates shadows, that makes the table and the faces and the hands all equally visible, that offers no place to retreat into. Don Aurelio was telling her about the festival when he was a boy. His grandmother had baked the patay in a clay oven behind the church — the same church, the same oven, he said, patting the table as though it were the oven itself. The algarroba trees had been thicker then. You could walk in their shade for a kilometre. His grandmother sang while she ground the flour. He did not say what she sang. He did not mention the mouth. He did not mention the portion. He told her about the bread.
+The meal continued. The sky was dark now but the string lights held everything in a warm, even glow — the kind of light that eliminates shadows, that makes the table and the faces and the hands all equally visible, that offers no place to retreat into. Don Aurelio was telling her about the festival when he was a boy. His grandmother had baked the patay in a clay oven behind the church — the same church, the same oven, he said, patting the table as though it were the oven itself. The algarroba trees had been thicker then. You could walk in their shade for a kilometre. His grandmother sang while she ground the flour. He did not say what she sang. He did not mention the mouth or the portion. He talked about bread for a long time, and Bridget listened, and the bread kept coming.
 
-Bridget's field notebook sat closed on the table beside her plate, its cover spotted with oil. She had not opened it for hours. There was nothing to record. Or there was everything to record, and the act of recording it — of translating this into field notes, into data, into the language of her discipline — was a separation she could no longer perform. She was not an observer. She was at the table.
+Bridget's field notebook sat closed on the table beside her plate, its cover spotted with oil. She had not opened it for hours. There was nothing to record. Or there was too much. She could not remember when she had stopped taking notes.
 
 She reached for another piece of patay. The basket was full. She was certain she had taken the last piece a moment ago but the basket was full, the bread piled in it the way bread is piled in a house where there is always enough, where the sufficiency of the bread is a fact like the colour of the earth or the hour of sunset. She ate. The bread was sweet and dense and it sat in her stomach with a weight that was not unpleasant.
 
-Sofía put a hand on her arm. Not restraining. Not urging. Just resting there, the way a friend's hand rests on your arm when you are sitting together and the evening is warm and there is nowhere else to be. The weight of Sofía's hand was the weight of a hand. It was also something else. But to name it would be to break something — the meal, the evening, the precise and terrible tenderness of being held at a table by people who love you for reasons you have not earned.
+Sofía put a hand on her arm. Not restraining. Not urging. Just resting there, the way a hand rests on someone's arm when the evening is warm and there is nowhere else either of you needs to be. Bridget did not move. She could feel Sofía's pulse through her fingertips, or thought she could. It was steady. It was not the pulse of someone who was afraid.
 
-Down the table, someone began to sing. A woman's voice, clear and unhurried. Others joined. The song was in a language Bridget did not recognise — not Spanish, not Quechua, not any of the indigenous languages she had studied. Something older, or something that had never been a language at all, just the sound a group of people makes when they are together and full and the earth has been fed and the table is long and the bread is good. The melody was simple. It repeated. It did not build toward anything.
+Down the table, someone began to sing. A woman's voice, clear and unhurried. Others joined. The song was in a language Bridget did not recognise — not Spanish, not Quechua. Something older. The melody was simple. It repeated. Sofía hummed it under her breath and her hand stayed on Bridget's arm and the bread basket was full.
 
-The song did not end. The food did not end. The bread basket was full. Bridget ate, and the bread was sweet, and Sofía's hand was warm on her arm, and the light held everything visible, and the singing went on, and the singing went on, and she did not get up from the table.
+Bridget ate. The bread was sweet. The singing went on.
