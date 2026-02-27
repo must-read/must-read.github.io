@@ -7,8 +7,8 @@ authorA: "Jonathan Swift"
 authorB: "Kurt Vonnegut"
 workX: "A Modest Proposal"
 workY: "Slaughterhouse-Five"
-wordCount: 6568
-readingTimeMinutes: 26
+wordCount: 5060
+readingTimeMinutes: 20
 tags:
   - gdp-satire
   - detention-economics
@@ -93,25 +93,7 @@ I anticipate the objection that this proposal is monstrous. I assure the reader 
 
 ---
 
-### Approach 2: "Galt's Gulch: A Travel Guide for the Discerning Objectivist"
-
-*Swift writes as a cheerful travel correspondent reviewing the amenities of an exclusive island retreat, where every euphemism barely conceals what's actually happening.*
-
----
-
-The brochure for Galt's Gulch Private Island describes it as "a sanctuary for the makers," and having spent a delightful weekend there at the invitation of Mr. ———, whose fortune derives from the incarceration of 47,000 souls across eleven states, I can report that this description is, if anything, modest.
-
-The island is situated in the Lesser Antilles, purchased from a government that no longer exists — or rather, that exists in precisely the form most convenient to the island's proprietors, which is to say, it exists on paper and nowhere else. The staff are numerous, young, and drawn from the surrounding islands by wages that are, I am assured, competitive by local standards, which is to say, by the standards of places where the alternative to service is the sea.
-
-"We call them kittens," said my host, gesturing to the young women who refreshed our drinks by the infinity pool overlooking the detention facility on the adjacent island — for Galt's Gulch is in fact two islands: one for the guests and one for the *product*. "Because they purr when you treat them right." He laughed. Several other men laughed. I noted this in my journal.
-
-The detention facility on the second island, visible from the terrace at sunset as a pleasing arrangement of grey rectangles against the tropical green, houses 3,200 detainees and generates approximately $168 million per year in federal contracts. "That's what pays for all this," said my host, sweeping his hand across the terrace, the pool, the kittens, the horizon. "Beautiful, isn't it? The free market at work."
-
-I agreed that it was beautiful. I did not specify what I found beautiful about it. This seemed wisest.
-
----
-
-### Approach 3: "A Dialogue Between a Citizen and an Economist, Concerning the Nature of Value"
+### Approach 2: "A Dialogue Between a Citizen and an Economist, Concerning the Nature of Value"
 
 *Swift uses the Socratic dialogue form to slowly, methodically trap the economist in the absurdity of his own logic.*
 
@@ -157,7 +139,7 @@ ECONOMIST: The detainees'. But they wouldn't notice. They are too busy being pro
 
 ---
 
-## Kurt Vonnegut — Three Approaches
+## Kurt Vonnegut — Two Approaches
 
 ### Approach 1: "The Gospel from Galt's Gulch — A Chapter from an Unfinished Novel"
 
@@ -209,47 +191,7 @@ So it goes.
 
 ---
 
-### Approach 2: "Abundance Vol. III — A Play in One Act"
-
-*Vonnegut structures it as a talk-show transcript, with his trademark stage directions and asides to the reader.*
-
----
-
-**SCENE:** A television studio. The set is designed to look expensive. It succeeds, because it is expensive. There are two chairs and a coffee table. On the coffee table is a book called ABUNDANCE. It is the third book called ABUNDANCE in recent years, which tells you something, though the people on the set would disagree about what.
-
-**HOST:** *(to camera)* The US economy is booming. GDP has never been higher. But recent polls show that the average citizen has no respect for this booming economy. They have been *handed* prosperity. *Gifted* it. By the fine people of Galt's Gulch. And they have the nerve to be ungrateful. Here to educate them are the authors of ABUNDANCE — coincidentally, the third book titled ABUNDANCE in recent years, which is in itself proof of the abundance they refuse to acknowledge.
-
-*(Two men walk on stage. They are wearing suits that cost more than a janitor earns in a month. They sit down. They are comfortable. They have always been comfortable.)*
-
-**AUTHOR 1:** Thank you for having us.
-
-**HOST:** The pleasure is mine.
-
-*(The pleasure is not his. He is paid to say this. He is worth $12 million per year. A janitor would need to work four hundred years to earn what he earns in one. But the host works very hard. He sits in a chair and talks. The janitor merely cleans an entire building. These are considered different levels of contribution.)*
-
-**AUTHOR 1:** You know, I was just down visiting the Galt's Gulch private Caribbean island, and I can tell you there was certainly an abundant supply of youthful kitties.
-
-*(He winks. The host laughs. Author 2 laughs. The studio audience laughs. A janitor somewhere in the building mops a hallway and does not laugh, because he cannot hear them, because the studio is soundproofed, because his existence is acoustically as well as economically invisible.)*
-
-**AUTHOR 2:** Abundance is certainly a word I would pin to my weekend at the Galt's Gulch famous New York City apartment!
-
-*(More laughter. Somewhere, a man in a concrete room generates $143 of GDP by continuing to breathe.)*
-
-**AUTHOR 1:** You know what I say? Let them eat youthful kitties!
-
-*(This gets the biggest laugh of all.)*
-
-*(The camera does not show the janitor. The camera never shows the janitor. The janitor is not part of the story. The janitor is not part of any story. The janitor cleans up after the story is over and everyone has gone home.)*
-
-*(The man in the concrete room is also not part of the story. But he is part of the quarterly earnings report, which is a better story, if you are a shareholder.)*
-
-**HOST:** We'll be right back.
-
-*(They will be right back. They are always right back. That is the nature of television. That is the nature of abundance. It never stops. It just keeps coming back, whether you want it to or not.)*
-
----
-
-### Approach 3: "An Index of Abundances"
+### Approach 2: "An Index of Abundances"
 
 *Vonnegut uses a numbered-list format — a catalogue of absurdities presented as flat facts.*
 
@@ -295,7 +237,7 @@ The floor would be clean, though.
 
 # PART TWO: THE COLLABORATION
 
-## In Which Two Dead Men Argue, Agree, and Write Something Together
+## In Which Two Dead Men Argue and Write Something Together
 
 ---
 
@@ -319,15 +261,9 @@ The quill began to move.
 
 **VONNEGUT:** On a piece about GDP and detention centers and rich men on islands with young women they call kittens.
 
-**SWIFT:** Yes. I wrote three versions. In one, I proposed a Bureau of Productive Containment. In another, I visited the island and described it as a travel correspondent. In the third, I used a Socratic dialogue to let an economist hang himself with his own logic.
+**SWIFT:** Yes. I wrote a proposal for a Bureau of Productive Containment. I used a Socratic dialogue to let an economist hang himself with his own logic.
 
-**VONNEGUT:** I wrote three too. One was a Kilgore Trout story about a planet called Economia-7. One was a TV show transcript. One was a numbered list. Lists are good. People think they're reading something organized. They're actually reading something that's falling apart.
-
-**SWIFT:** The numbered list was excellent.
-
-**VONNEGUT:** The Socratic dialogue was cruel. I mean that as a compliment.
-
-**SWIFT:** It was received as one.
+**VONNEGUT:** I wrote a Kilgore Trout story about a planet called Economia-7. And a numbered list. Lists are good. People think they're reading something organized. They're actually reading something that's falling apart.
 
 ---
 
@@ -353,57 +289,15 @@ The quill began to move.
 
 **VONNEGUT:** But I need your cruelty too. I need the *structure*. The deadpan gets people in the door. The logic keeps them in the room. Without your logic, my sadness is just sadness. Without my sadness, your logic is just a game.
 
-**SWIFT:** Then we combine them.
-
-**VONNEGUT:** We combine them.
-
----
-
-### The Resolution
-
-**SWIFT:** The frame must be the television program. Your talk-show format. It is the natural habitat of the modern huckster — the place where monstrous things are said with good lighting and commercial breaks.
+**SWIFT:** The frame must be the television program. Your talk-show format. It is the natural habitat of the modern huckster.
 
 **VONNEGUT:** Agreed. But we intercut it with the other perspectives. The janitor. The detainee. The numbered facts. Stage directions that say the quiet parts.
 
-**SWIFT:** I will write the dialogue of the authors and the host. The things they say to each other. The euphemisms. The winks. I know how powerful men speak when they believe they are among friends.
-
-**VONNEGUT:** I'll write the stage directions. The parenthetical asides. The parts where we pull the camera back and show what's actually in the room.
-
 **SWIFT:** And the ending?
 
-**VONNEGUT:** It's the thing we both keep circling. The janitor. The prisoner. The floor.
+**VONNEGUT:** The janitor. The floor. The sky.
 
-**SWIFT:** The clean floor that nobody sees.
-
-**VONNEGUT:** The clean floor that nobody pays for. Or rather — that everybody pays for, and nobody values.
-
-**SWIFT:** Yes. Let's begin.
-
----
-
-### The Outline
-
-They agreed upon the following structure:
-
-**I. COLD OPEN** — The host introduces the show. Swift writes the host's patter. Vonnegut writes what the host is actually saying beneath the words.
-
-**II. THE AUTHORS ARRIVE** — Two men promoting their book, *Abundance Vol. III*. They are charming. They are monsters. They do not know they are monsters, or they know and have decided it doesn't matter, which is worse.
-
-**III. THE ISLAND** — Author 1 describes his trip to Galt's Gulch. What he says. What he means. What the "kittens" think about it, though nobody asks them.
-
-**IV. THE APARTMENT** — Author 2 describes his weekend in New York. Same structure. The euphemisms get thinner. The laughter gets louder.
-
-**V. THE NUMBERS** — A brief interlude in which the actual economics are presented as flat facts. Vonnegut's numbered-list format. No commentary. The numbers are the commentary.
-
-**VI. LET THEM EAT KITTIES** — The mask slips entirely. The audience laughs. The janitor mops. The prisoner breathes. GDP goes up.
-
-**VII. THE FLOOR** — Ending.
-
----
-
-### The Execution
-
-They typed for three days. Swift wrote in long, coiling sentences that turned back on themselves like snakes eating their own tails. Vonnegut wrote in sentences so short they sounded like doors closing. They argued about commas. Swift wanted more. Vonnegut wanted none. They compromised: commas where cruelty required a pause, periods where cruelty required a door.
+**SWIFT:** Let's begin.
 
 ---
 
@@ -461,7 +355,7 @@ The janitor's name is Edgar. But we won't learn that for a while.
 
 **TAD:** Our book shows, empirically, with data, that abundance is everywhere. You just have to know where to look.
 
-*(You have to know where to look. This is true. The abundance is in the quarterly earnings reports of private equity firms. It is in the compensation packages of C-suite executives. It is in the real estate portfolios of family offices. It is on private islands. It is not in the grocery store. It is not in the janitor's apartment. But it is *somewhere*, and therefore it exists, and therefore the economy is booming. QED.)*
+*(You have to know where to look. The abundance is in the quarterly earnings reports of private equity firms. It is in the compensation packages of C-suite executives. It is in the real estate portfolios of family offices. It is on private islands. It is not in the grocery store. It is not in the janitor's apartment. But it is *somewhere*, and therefore it exists, and therefore the economy is booming. QED.)*
 
 ---
 
@@ -481,7 +375,7 @@ The janitor's name is Edgar. But we won't learn that for a while.
 
 *(Instead, here is an economic fact: the island employs 340 staff members. Their average wage is $6,200 per year. The island's annual operating budget is $41 million. The ratio of the operating budget to total staff compensation is approximately 19:1. The remaining 18 parts go to imported wine, helicopter maintenance, and things that are not listed in any budget because they are paid in cash to people who do not file taxes because they do not, in the legal sense, exist.)*
 
-*(Edgar the janitor is not on the island. Edgar the janitor is in the studio, replacing a trash bag. He is economically visible at a rate of $14.90 per hour. He has never been to the Caribbean. He has been to Coney Island twice.)*
+*(Edgar the janitor is not on the island. Edgar is in the studio, replacing a trash bag. He has never been to the Caribbean. He has been to Coney Island twice.)*
 
 ---
 
@@ -491,7 +385,7 @@ The janitor's name is Edgar. But we won't learn that for a while.
 
 *(The Galt's Gulch New York City apartment occupies the top two floors of a building on East 66th Street. It is technically owned by a holding company registered in Delaware, which is owned by a trust domiciled in South Dakota, which is administered by a law firm in Geneva, which represents a client whose name appears on no document that any journalist has ever obtained. The apartment has fourteen rooms, a private elevator, and a guest book that has been subpoenaed twice and produced never.)*
 
-*(What happens in the apartment is, legally speaking, a matter of conjecture. What is known: young women enter. Young women leave. Cars arrive at night. Cars depart before dawn. The doorman's salary was recently doubled, and a confidentiality clause was added to his employment contract. The flowers in the lobby are fresh. A janitor keeps the hallway clean. He is not Edgar. His name is Tomás, and he is economically visible at a rate of $16.25 per hour, and he has learned not to make eye contact with the men who arrive after 10 PM, because eye contact is a kind of witnessing, and witnessing is a kind of liability, and liability is expensive, and the whole point of abundance is that the expensive things are handled by someone else.)*
+*(What happens in the apartment is, legally speaking, a matter of conjecture. What is known: young women enter. Young women leave. Cars arrive at night. Cars depart before dawn. The doorman's salary was recently doubled, and a confidentiality clause was added to his employment contract. The flowers in the lobby are fresh. A janitor keeps the hallway clean. He is not Edgar. His name is Tomás, and he has learned not to make eye contact with the men who arrive after 10 PM, because eye contact is a kind of witnessing, and witnessing is a kind of liability, and liability is expensive, and the whole point of abundance is that the expensive things are handled by someone else.)*
 
 **PRESCOTT:** *(grinning)* Yeah. Let them eat youthful kitties!
 
@@ -581,7 +475,7 @@ The janitor's name is Edgar. But we won't learn that for a while.
 
 *(The wrong places: grocery stores, hospitals, schools, apartments, bus stops, pay stubs, bank statements, the inside of a detention cell.)*
 
-*(The right places: Bloomberg Terminals, stock tickers, private islands, the New York City apartment, earnings calls, the inside of a yacht, the back seat of a car that costs more than a house.)*
+*(The right places: Bloomberg Terminals, stock tickers, private islands, the New York City apartment, earnings calls, the inside of a yacht.)*
 
 **PRESCOTT:** The economy doesn't lie. GDP doesn't lie. The numbers are right there.
 
@@ -599,7 +493,7 @@ The janitor's name is Edgar. But we won't learn that for a while.
 
 **TAD:** *(laughing)* Thank you.
 
-*(They stand. They shake hands. They leave the stage. They will go to dinner at a restaurant where the cheapest entrée costs $62 and the waiter is a man named David who has a master's degree in English literature and who is economically visible at a rate of $2.13 per hour plus tips, which is less than the per-hour cost of detaining a human being but more than the per-hour wage of a kitten on the island, which positions David, economically speaking, somewhere between a prisoner and a kitten, which is where most people are, which is the one thing the book does not mention, which is abundance's best-kept secret: there is plenty for everyone, and almost no one gets any.)*
+*(They stand. They shake hands. They leave the stage. They will go to dinner at a restaurant where the cheapest entrée costs $62 and the waiter is a man named David who has a master's degree in English literature and who earns $2.13 per hour plus tips, which is less than the per-hour cost of detaining a human being but more than the per-hour wage of a kitten on the island, which positions David, economically speaking, somewhere between a prisoner and a kitten, which is where most people are, which is abundance's best-kept secret: there is plenty for everyone, and almost no one gets any.)*
 
 ---
 
@@ -654,17 +548,3 @@ This contributes nothing to GDP.
 ---
 
 **END**
-
----
-
-*"I wrote a satire once about eating babies. It was published in 1729. In 2026, the babies have merely been replaced by a different commodity, and the eating has been replaced by a different verb, and the proposer has been replaced by a man on a television set who says the quiet part loud because saying the quiet part loud is, itself, now a form of entertainment. The only thing that has not changed is the modest part. The proposals are always modest. The proposers are always reasonable. The arithmetic is always sound. And somewhere, always, there is a man with a mop who is not part of the conversation."*
-
-— Jonathan Swift (posthumous)
-
-*"I thought about ending this with 'so it goes.' But it doesn't go. It stays. It's still here. The floor is still dirty. The man is still in the cell. The kittens are still smiling. And somebody, somewhere, is writing another book called Abundance, and it will be the fourth one, and nobody will notice, because by then the word will have lost all meaning, which is what happens to words when you use them to describe the opposite of what they mean, over and over, until the word is empty and the island is full and the cell is full and the floor is dirty again."*
-
-*"Edgar will clean it."*
-
-*"So it goes."*
-
-— Kurt Vonnegut (posthumous)
