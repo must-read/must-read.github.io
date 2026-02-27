@@ -7,8 +7,8 @@ authorA: "Chester Himes"
 authorB: "Ernest Hemingway"
 workX: "A Rage in Harlem"
 workY: "The Sun Also Rises"
-wordCount: 3764
-readingTimeMinutes: 15
+wordCount: 3357
+readingTimeMinutes: 13
 tags: ["harlem", "korean-war", "con-artist", "veteran", "1950s"]
 rating: 0
 ratingCount: 0
@@ -35,17 +35,17 @@ combination:
     - "performing composure"
 ---
 
-The building was there at seven-thirty and would be there at eight. Darnell walked east on 133rd with his hands in the pockets of trousers he'd pressed that morning on a board balanced between the radiator and the bed. The crease was good. He had ironed the crease into those trousers while the coffee went cold on the sill, and now the crease cut through the heat like it had somewhere to be.
+The building was there at seven-thirty and would be there at eight. Darnell walked east on 133rd with his hands in the pockets of trousers he'd pressed that morning on a board balanced between the radiator and the bed. The crease was good. He had ironed it while the coffee went cold on the sill, and now the crease cut through the heat like it had somewhere to be.
 
 It was already ninety-one degrees.
 
-Four-twelve West 133rd Street stood between a laundry that opened at six and a storefront church that opened when its pastor felt the spirit, which was Tuesdays and Saturdays and some Fridays if the pastor's wife had been at him. The building was five stories of brown brick gone the color of a bruise under the August sun. Sixteen apartments. Fire escapes on the east face hung with laundry and the occasional chair dragged out for the evenings. A woman named Odette on the fourth floor kept a cat on a rope that walked the fire escape rail like a circus act, and the rope was always exactly the same length, which meant Odette had measured it, which meant Odette was the kind of tenant who measured things. Darnell liked that about her. He liked the whole building. He knew it the way a butcher knows a carcass — every joint, every weakness, every place the knife goes clean.
+Four-twelve West 133rd Street stood between a laundry that opened at six and a storefront church that opened when its pastor felt the spirit, which was Tuesdays and Saturdays and some Fridays if the pastor's wife had been at him. The building was five stories of brown brick gone the color of a bruise under the August sun. Sixteen apartments. Fire escapes on the east face hung with laundry and the occasional chair dragged out for the evenings. A woman named Odette on the fourth floor kept a cat on a rope that walked the fire escape rail like a circus act, and the rope was always exactly the same length, which meant Odette had measured it. Darnell knew the building the way a butcher knows a carcass — every joint, every weakness, every place the knife goes clean.
 
 He did not own it.
 
 The building belonged to a man named Floyd Pinckney who lived in Mount Vernon and came down twice a year to argue with the boiler. Floyd Pinckney had never measured a rope in his life, had never noticed Odette's cat, had never stood across the street at seven-thirty in the morning and watched the light hit the east face and thought about what that light was worth per square foot. Darnell had done all of these things. Ownership, in his experience, was a matter of attention, and Floyd Pinckney paid none.
 
-At the corner of Lenox, a hydrant had been opened overnight. Water ran thick and fast down the gutter, carrying bottle caps and the cellophane from someone's cigarette pack. Kids would be in it by noon. Darnell crossed to the dry side of the street without breaking stride, without looking at the water, the way a man steps around a hole in the floor of a room he has walked through many times. The water made a sound against the curb that he did not listen to.
+At the corner of Lenox, a hydrant had been opened overnight. Water ran thick and fast down the gutter, carrying bottle caps and the cellophane from someone's cigarette pack. Kids would be in it by noon. Darnell crossed to the dry side without breaking stride, without looking at the water, the way a man steps around a hole in the floor of a room he has walked through many times.
 
 "Greer." Tick was on the corner, leaning against the mailbox with a Racing Form folded into a tube. Tick was nineteen and had been running numbers for Bumpy's people since he was fifteen, and in those four years he had developed a body like a telephone pole and an opinion about everything on the block. His real name was Theodore Tillman but nobody had called him that since Eisenhower's first term.
 
@@ -81,7 +81,7 @@ Darnell kept walking.
 
 ---
 
-The diner on Lenox had a counter and six booths and a fan that moved the air from one side of the room to the other without cooling it. Darnell took the booth by the window. He ordered coffee and did not drink it. The coffee sat on the table between his hands and the hands were still, which was unusual, which was something he had to concentrate on because the hands were the thing that betrayed him — always adjusting a collar, turning a matchbook, aligning the salt with the pepper. When the hands were still the face could do its work. The face was his best instrument. It was lean and quick, with a quality of attention that people mistook for concern, and the teeth were good. He showed the teeth often. Laughter was a currency he had been spending since he came back from overseas, and it had not yet inflated.
+The diner on Lenox had a counter and six booths and a fan that moved the air from one side of the room to the other without cooling it. Darnell took the booth by the window. He ordered coffee and did not drink it. The coffee sat on the table between his hands and the hands were still, which was unusual, which took concentration because the hands were what betrayed him — always adjusting a collar, turning a matchbook, aligning the salt with the pepper. When the hands were still the face could do its work. The face was his best instrument. It was lean and quick, with a quality of attention that people mistook for concern, and the teeth were good. He showed the teeth often. Laughter was a currency he had been spending since he came back from overseas, and it had not yet inflated.
 
 Purnell Ames came in at ten past ten. He was a large man, fifty-two, with the careful posture of someone who had been told to sit up straight in childhood and had never received the countermanding order. He wore a gray suit that was too heavy for August and carried a Bible with a white envelope tucked inside the front cover, visible when he set it on the table the way a man might set a briefcase, with the clasp facing outward.
 
@@ -105,15 +105,15 @@ Purnell smiled. It was a different kind of smile from Tick's — careful, earned
 
 "That's what Agnes wants to hear."
 
-They sat with that for a moment. Two men in a booth drinking coffee and not-drinking coffee, and between them the envelope in the Bible and the building neither of them named. The building did not need to be named. It was the mass around which the conversation orbited.
+They sat with that for a moment. Two men in a booth drinking coffee and not-drinking coffee, and between them the envelope in the Bible and the building neither of them named.
 
 "I was telling Agnes about that sergeant of yours," Purnell said. "The one who read the map upside down."
 
 Darnell laughed. The laugh was real, or it had been real the first hundred times he told the story, and by now the mechanism was so practiced that the distinction had worn away. "Sergeant Howell. Man got us lost three separate times in country the size of this diner. We ended up in a village that wasn't on any map because he was holding the map with north at the bottom, and the villagers fed us and tried to trade us a goat."
 
-Purnell laughed. The laughter was easy between them and it sealed something the way a handshake seals something, and Darnell watched Purnell's hand move toward the Bible, toward the envelope. The hand knew what the mouth had not yet said.
+Purnell laughed. The laughter was easy between them and it sealed something the way a handshake seals, and Darnell watched Purnell's hand move toward the Bible, toward the envelope. The hand knew what the mouth had not yet said.
 
-Then the door opened and a woman came in. She was not Claudine. She was nobody. She was a woman of about forty in a yellow housedress carrying a paper bag, and she moved through the door with the particular efficiency of someone running an errand between other errands, and the paper bag crinkled as she passed their booth, and the crinkling was not remarkable, was not significant, was not anything except a sound, and Darnell's hand was gripping the edge of the table hard enough that the knuckle of his right index finger went white.
+Then the door opened and a woman came in. She was not Claudine. She was a woman of about forty in a yellow housedress carrying a paper bag, and she moved through the door running an errand between other errands, and the paper bag crinkled as she passed their booth, and Darnell's hand was gripping the edge of the table hard enough that the knuckle of his right index finger went white.
 
 Two seconds. Maybe three.
 
@@ -191,7 +191,7 @@ Claudine stopped wiping the counter. She had picked the rag back up at some poin
 
 "The ground looks fine," he said. "Solid. You walk on it and it holds. And then the weight shifts and the whole thing goes to water."
 
-He was not talking about the basement of 412 West 133rd Street. They both knew this. Neither of them said so. The dryer in the front room hummed.
+He was not talking about the basement of 412 West 133rd Street. Neither of them said so. The dryer in the front room hummed.
 
 "Twenty percent," Claudine said.
 
@@ -223,7 +223,7 @@ Purnell looked at the brick. Purnell did not know brick from anything but he nod
 
 "Odette up on four — you can see her cat on the railing — she's been there eleven years. That's a building people stay in. That tells you about the bones."
 
-From across the street: Claudine. She stood at the corner of 131st and Seventh with her arms folded, watching. She wore a white blouse and her hair was pinned up and she was perfectly still in the way that buildings are still, and her stillness was the loudest thing on the block.
+From across the street: Claudine. She stood at the corner of 131st and Seventh with her arms folded, watching. She wore a white blouse and her hair was pinned up and she was perfectly still the way buildings are still, and her stillness was the loudest thing on the block.
 
 Darnell saw her. He kept talking.
 
@@ -233,11 +233,11 @@ Purnell was watching him.
 
 "We held a position for three days in a farmhouse. Stone walls. Looked like it had been there a hundred years. We were four in the south room, sleeping in rotation, and the wall — "
 
-He stopped. The street was there. The hydrant, the kids, the dominoes, the old men, Tick on the lamppost, the cat on the railing, the August light on the east face of a building he did not own. All of it was there and he was there and the farmhouse was also there, the two places layered on top of each other like negatives in a darkroom, and for a moment he could not tell which was printed and which was still developing.
+He stopped. The street was there. The hydrant, the kids, the dominoes, the old men, Tick on the lamppost, the cat on the railing, the August light on the east face of a building he did not own. All of it was there and he was there and the farmhouse was also there, the two places layered like negatives in a darkroom.
 
 "The structural integrity," he said. But the sentence had nowhere to go.
 
-Claudine was still across the street. She had not moved. She had not done anything. She was just a woman standing on a corner in the heat, watching a man sell something he did not have, and her watching had changed the weight distribution and the solid ground was behaving like water.
+Claudine was still across the street. She had not moved. She was just a woman standing on a corner in the heat, watching a man sell something he did not have, and her watching had changed the weight distribution and the solid ground was behaving like water.
 
 Purnell took the Bible from under his arm and held it in both hands in front of his chest. The envelope was still inside. His hands pressed the covers together.
 
@@ -265,7 +265,7 @@ Tick appeared at Darnell's elbow. How he moved that fast from half a block away 
 
 "I was talking about the building."
 
-"You were not talking about the building." Tick looked at him with something that was not sympathy — Tick did not trade in sympathy — but was a recognition that a thing had occurred. "I'm going to go collect my money from a man who owes me money. You should sit down somewhere."
+"You were not talking about the building." Tick looked at him with something that was not sympathy — Tick did not trade in sympathy — but was recognition that a thing had occurred. "I'm going to collect my money from a man who owes me money. You should sit down somewhere."
 
 Tick left.
 
@@ -283,11 +283,7 @@ She looked at his arm. The sleeve was still rolled. The keloid shone in the late
 
 "That's what it does. Heals more than it needs to."
 
-She looked at the street. He looked at the building. A pigeon landed on the third-floor fire escape and walked the railing the way the cat walked it, and neither the pigeon nor the cat seemed concerned with the other.
-
-They sat there. The heat sat with them. Claudine still knew the con. She still wanted money and money still wanted earning and the lease on the shop on 131st was still due on the first and the first was eight days away and eight days was not long and nothing that had happened in the last hour changed arithmetic. Darnell's rent was also due. His suit needed pressing. The hands were in his lap and they were still, the way they were still in the diner before Purnell arrived, and the stillness cost him something each time and each time it cost a little more.
-
-Down the block, the hydrant sprayed and the water hit the gutter and ran. The light caught it. Darnell did not look at the water but he could hear it, the steady wash of it finding the grade and following it, and the sound was not the sound of any other water anywhere and it was also the sound of every water everywhere and that was the problem with sounds and that was the problem with August and that was the problem with coming back to a place that was the same when you were not the same and performing the sameness until the performance was all you had and then the performance going away and leaving you on a stoop with a woman who could see the scar.
+She looked at the street. He looked at the building. The hydrant ran and the water found the gutter and the sound of it reached the stoop. Claudine's lease was due on the first and the first was eight days away. Darnell's rent was also due. His suit needed pressing. The hands were in his lap and they were still and the stillness cost him something each time.
 
 Claudine pulled a cigarette from somewhere and lit it. She smoked it halfway down without saying anything. Then she said, "You eat yet?"
 
@@ -295,4 +291,4 @@ Claudine pulled a cigarette from somewhere and lit it. She smoked it halfway dow
 
 "You should eat."
 
-She smoked the rest of the cigarette. She did not leave. The building stood over them with all its weight in the right places, its load-bearing walls intact, its copper pipes carrying whatever they carried in the dark underneath. Eight days until the first. Claudine on the stoop with her cigarette, asking had he eaten, not leaving, and the keloid on his arm raised and shining in the heat like the body's own ledger, its accounting of what was taken and what was given back in excess, the wound that healed more than it needed to, marking him, the tally still open, the tally always open, the total never what you thought it would be when you first started counting.
+She smoked the rest of the cigarette. She did not leave. The building stood over them with all its weight in the right places, its load-bearing walls intact, its copper pipes carrying whatever they carried in the dark underneath. Eight days until the first.
