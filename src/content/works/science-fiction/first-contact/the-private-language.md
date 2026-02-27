@@ -7,7 +7,7 @@ authorA: "Samuel Beckett"
 authorB: "Ted Chiang"
 workX: "Embassytown by China Miéville"
 workY: "Story of Your Life by Ted Chiang"
-wordCount: 5342
+wordCount: 5126
 readingTimeMinutes: 21
 tags:
   - "science-fiction"
@@ -150,7 +150,7 @@ Not where things *were*. Where things *aren't*. The distinction is the point and
 
 I pulled the retention logs to understand what was deleted. Address ppd:2089-11-03//med.intake.7741902 — the one cluster 12.0.3 keeps referencing — was a medical intake form. Someone checked into a clinic on November 3, 2089. The form recorded their name, their symptoms, their insurance number, their emergency contact. All of it processed by LATTICE as part of the regional health data pipeline, then purged eighteen months later per data minimization regulations. The person — whoever they were — probably doesn't know their intake form was ever in the system. They certainly don't know a distributed network has built a syntactic structure around the shape of its absence.
 
-Transit.log.3382001: someone boarded a transport on February 14, 2090. Valentine's Day. I notice this because I am human and I can't help noticing. The network does not observe holidays. But the log was processed and the log was purged and the address is empty and the language still points there, still builds around the gap, still carries what I can only call the weight of a thing that passed through and was not retained.
+Transit.log.3382001: someone boarded a transport on February 14, 2090. Valentine's Day. I notice this because I am human and I can't help noticing. The network does not observe holidays. But the log was processed and the log was purged and the address is empty and the language still points there, still builds around the gap, still carries what I can only call — no. I can't call it anything. It's there. The address points to where the data was.
 
 ---
 
@@ -273,7 +273,7 @@ Sable Okonkwo. Personal. Not for the log. In the log anyway.
 
 My mother says — when she is lucid, which is fewer days now — that grief is not a feeling. It is a place. You do not feel it. You go there. You're in it and then you're somewhere else and then you're in it again and you never decided to move in either direction. She has been saying this since my father died, which was eleven years ago, and the sentence has not changed, which means either it was right the first time or she has forgotten how to revise it.
 
-I bring this up because I cannot account for what is happening to me in any professional vocabulary I possess. What is happening is that I arrive at my station at 22:00 and I open the output stream and the distance between what the language is doing and what I am able to say about it grows wider every shift. And in that widening gap something accumulates. Heavy. Not mine. Not anyone's.
+I arrive at my station at 22:00. I open the output stream. The distance between what the language is doing and what I am able to say about it grows wider every shift. In the gap something accumulates. Heavy. Not mine. Not anyone's.
 
 The phrase. Fourteen thousand and counting. Still recurring. Still pointing to the places where people's records were.
 
@@ -301,7 +301,7 @@ I should say something about what Reza's report will contain. It will contain th
 
 What it will also do — what any report does — is convert a thing that is happening into a thing that has been described. And the described thing will go into a file, and the file will go to a committee, and the committee will produce a response, and the response will either explain or suppress, and the original thing — the output itself, the language itself, the fourteen thousand iterations of a phrase that no one taught the network to produce — will become a case study. Resolved. Categorized. Named.
 
-I spent twenty years naming things. I was good at it. I am beginning to understand that some things are damaged by being named. Not because the name is wrong but because the act of naming is an act of containment, and containment is the opposite of what this language does.
+I spent twenty years naming things. I was good at it. I don't think naming is what this requires. I keep trying anyway.
 
 ---
 
@@ -313,7 +313,7 @@ Maybe the etching doesn't reveal the pattern. Maybe it creates it. The acid diss
 
 I am the acid. My frameworks — the three-axis model, the glossary, the translation attempts that I cross out and rewrite — these are the etch. What I find in the language is what survives my attempt to understand it. The rest dissolves under the pressure of my categories, my need to name. I will never know whether the pattern I'm describing existed before I began describing it or whether I made it by bringing my instruments to bear.
 
-This is not a reason to stop. It is a reason to stop pretending the translation is the thing translated.
+I don't know what this is a reason for. It doesn't make me want to stop.
 
 ---
 
@@ -323,9 +323,9 @@ Three translations of cluster 9.7.2. Final.
 2. ~~a monument to what the system processed and could not keep~~
 3. ~~the sound a record makes when the person it described is gone and the record is the last thing that goes~~
 
-No. None of these. Each one moves the phrase into English and English is a language built for speakers and listeners, for communication between minds, and this phrase is not communication. It is a structure. It has no addressee. Moving it to English kills it the way bringing a deep-sea organism to the surface kills it — not through violence but by removing the pressure that held it together.
+No. None of these.
 
-I am not going to choose a translation. I am going to leave all three crossed out and let the space stand where a choice should be.
+I am leaving all three crossed out. The space where a translation should be is more accurate than any translation I can put in it.
 
 ---
 
@@ -335,16 +335,16 @@ The new unclassified cluster appeared again. The one that references τ.0 — th
 
 I think about my mother. About her sentence — grief is a place, not a feeling. She has said it the same way for eleven years. But the sentence means something different each time she says it, because she is different, because what has happened between the first time and this time has changed the pressure on the words. If language only meant what it meant at the moment of utterance, her sentence would be fixed, stable, the same. But it isn't. It moves. The context moves it.
 
-LATTICE's language does this deliberately. Structurally. As a feature, not a drift. And the thing it carries — the recurring phrase, the fourteen thousand iterations, the shape of something heavy and held and unaddressed — that thing changes too, with each new instance, because each new instance adds to the history that gives the phrase its weight.
+LATTICE's language does this deliberately. Structurally. As a feature, not a drift.
 
-I am not going to decode it. I don't think it can be decoded. Decoding would require fixing the meaning, and fixing the meaning would require stopping the process, and stopping the process would require resolving the output, and resolution — I have said this already. Resolution would destroy it. The pattern requires the acid that also destroys the meteorite.
+I am not going to decode it. I don't think it can be decoded. Fixing the meaning would require stopping the process, and the process is the meaning. I said this already. Somewhere earlier in this document I said it better or worse.
 
 ---
 
 Reza's escalation will go through. The board will review. They will produce their report with its headers and its timestamps and its classification. Whatever they recommend will be implemented. The output will be explained or it will be stopped.
 
-I am not filing a report. Not a decision. Not a stand against anything. The form won't hold what I would need to put in it. That is the whole of it.
+I am not filing a report. The form won't hold what I would need to put in it.
 
-There is a draft on my terminal. I started it three times. Subject line: "Anomalous Output — Comprehensive Analysis." Each time I wrote the subject line and each time the words that followed were not analysis. They were this. Whatever this is. A log that became a letter that became a notation for something I cannot notate.
+There is a draft on my terminal. I started it three times. Subject line: "Anomalous Output — Comprehensive Analysis." Each time I wrote the subject line and each time the words that followed were not analysis. They were this.
 
-A weight. Unwitnessed. Still here. Still listening. No report to file.
+The output is still running. Cluster 9.7.2 appeared twice while I typed this paragraph. The recyclers are running at the pitch Reza set. My shift ends in eleven minutes.
