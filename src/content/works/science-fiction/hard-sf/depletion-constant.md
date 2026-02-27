@@ -10,8 +10,8 @@ workY: "The Last Question"
 wordCount: 4399
 readingTimeMinutes: 18
 tags: ["hard science fiction", "quantum computing", "entropy", "depletion", "thought experiment"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Chiang's crystalline precision meets Asimov's logical patience in a thought experiment about a quantum researcher who discovers computation has a cost denominated in reality itself"

@@ -10,8 +10,8 @@ workY: "The Ocean at the End of the Lane"
 wordCount: 5883
 readingTimeMinutes: 24
 tags: ["paranormal romance", "Black township", "1890s Kansas", "blacksmith", "supernatural", "ambiguous ending"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Jenkins's community-rooted warmth meets Gaiman's mythic matter-of-factness in an 1890s Black township where a schoolteacher falls for a blacksmith carrying something old and unnamed"

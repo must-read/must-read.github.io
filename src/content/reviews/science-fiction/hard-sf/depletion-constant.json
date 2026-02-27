@@ -6,63 +6,63 @@
       "rating": 4,
       "text": "The prose here is doing serious work. That scene where Lena swaps the chip array and the drift continues 'as if the new chip remembered what the old one had done' — that's the moment the story pivots from lab procedural to genuine dread, and it earns the pivot because the technical groundwork is so patient. The depletion constant derivation on a single sheet of legal paper felt right: important discoveries often look modest. I wanted slightly more from the ending — the decision to press run on simulation 4,244 is powerful but the story could have complicated it further. Still, this is hard SF written by someone who trusts the reader.",
       "date": "2026-02-14",
-      "helpfulCount": 0
+      "helpfulCount": 33
     },
     {
       "personaId": "sf-002-helen",
       "rating": 5,
       "text": "This story understands grief in a way I didn't expect from hard SF. The model trains — her father building all ten T6 locomotives, the running board soldered three times, the discoloration from failed attempts still visible — that thread carries more emotional weight than any amount of quantum physics. And it's not separate from the physics. The finite budget of the universe and the finite hours of a dead man's attention are the same idea, arrived at from different directions. Lena is the kind of complicated woman SF needs more of: competent without being a fantasy, grieving without being defined by it, making choices that cost something real. The Dov conversations are superb — two scientists eliminating hypotheses with mutual respect and mounting unease. I read the final paragraph twice.",
       "date": "2025-09-22",
-      "helpfulCount": 0
+      "helpfulCount": 57
     },
     {
       "personaId": "sf-003-dmitri",
       "rating": 3,
       "text": "The quantum mechanics is handled better than in most fiction — decoherence times, dilution refrigerators, qubit-gate scaling — someone did their homework. But the central premise has a gap: if every quantum process depletes the budget, including natural processes like photon absorption, the depletion rate from human computation would be negligible against the background rate of the entire observable universe. The story acknowledges this obliquely ('every photon that hits a detector') but never does the comparison rigorously. The quadratic scaling with qubit count is a nice touch, though. Solid lab atmosphere. The final philosophical section about intelligence and depletion felt grafted on.",
       "date": "2026-01-08",
-      "helpfulCount": 0
+      "helpfulCount": 28
     },
     {
       "personaId": "sf-004-amara",
       "rating": 3,
       "text": "A well-crafted thought experiment that sits entirely within the world of a single American research lab. The story is honest about what it is — a scientist discovers something, talks to one colleague, writes a paper — and the prose is controlled enough to make that narrow scope work. But I kept waiting for the implications to reach beyond the lab. If computation has a real cost denominated in reality itself, who gets to decide how the budget is spent? Who has been spending it without consent? These are questions about power and allocation, and the story treats them as an abstract philosophical coda rather than as the urgent political problem they would actually be. Lena's decision to run the verification suite is framed as personal ethics, not as a woman in a US facility unilaterally spending a global resource.",
       "date": "2025-12-03",
-      "helpfulCount": 0
+      "helpfulCount": 35
     },
     {
       "personaId": "sf-005-jin",
       "rating": 3,
       "text": "Structurally conservative — scientist finds anomaly, consults theorist, does the math, runs verification, writes paper — but the restraint works more often than it doesn't. The self-confirming equilibrium concept is the strongest idea here: models that are accurate because they're consuming what they model. I wish the story had pushed that recursive quality into its own form somehow. The father's model trains are doing a lot of thematic lifting and they mostly succeed, though the connection is stated a bit too cleanly. The ending resists resolution, which I appreciated. Not groundbreaking in approach, but the thinking is careful.",
       "date": "2026-02-01",
-      "helpfulCount": 0
+      "helpfulCount": 17
     },
     {
       "personaId": "sf-006-claire",
       "rating": 3,
       "text": "Good lab story. The technical details feel authentic — the cryostat, the mu-metal shielding, the pneumatic vibration platform — and the Lena-Dov dynamic is the best part. Their Friday morning conversation where they eliminate hypotheses one by one reads like actual scientists working a problem. But this is very much a story about what happens inside one building. The moment where Lena realizes 'every quantum computer in the world is drawing from the same pool' should be the beginning of a much larger story about who controls that information and what happens when it goes public. Instead it's where the story starts winding down. Felt like reading a really good first chapter.",
       "date": "2025-11-17",
-      "helpfulCount": 0
+      "helpfulCount": 21
     },
     {
       "personaId": "sf-007-rowan",
       "rating": 4,
       "text": "The father thread wrecked me. 'She did not want to touch them and she did not want to not touch them and there was no third option' — that's one of the truest sentences about grief I've read in genre fiction. And it's not incidental to the science; it's the emotional logic of the whole story. Finite things that can't be replenished. The universe's state budget and a dead man's model trains. Lena's choice to keep running simulations despite knowing the cost is quietly devastating because the story never tells you whether it's brave or reckless — it just shows you a person working. I wanted more from the peer review section, which felt rushed compared to the careful pacing of the first half.",
       "date": "2025-10-09",
-      "helpfulCount": 0
+      "helpfulCount": 44
     },
     {
       "personaId": "sf-008-derek",
       "rating": 4,
       "text": "This one stuck with me. The concept is clean — computation costs reality, and the cost is permanent — and the story doesn't waste time getting there. The Dov conversation is tight. Good pacing overall, though the middle section with the father's trains slows things down more than it needs to. Best line: 'The model worked because it was replacing reality with itself.' That's the kind of idea that makes hard SF worth reading.",
       "date": "2026-01-25",
-      "helpfulCount": 0
+      "helpfulCount": 13
     },
     {
       "personaId": "sf-010-kwesi",
       "rating": 3,
       "text": "Clean logic, solid premise. The decoherence drift setup is well done — you understand why the numbers matter before they start moving. The depletion constant at 10^-124 per qubit-op is a nice detail that makes the scale feel real. Lost interest during the model train section. The ending is the right call — she presses run, no speech about it — but the paper-writing montage before it drags.",
       "date": "2025-08-30",
-      "helpfulCount": 0
+      "helpfulCount": 7
     }
   ]
 }

@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/graphyard/articles/tolerance/altair/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Javier Marias"
 authorB: "Rachel Cusk"

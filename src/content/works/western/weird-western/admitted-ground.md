@@ -10,8 +10,8 @@ workY: "The Haunting of Hill House"
 wordCount: 5711
 readingTimeMinutes: 23
 tags: ["weird western", "unreliable narrator", "desert", "heliograph", "1880s New Mexico", "haunted landscape"]
-rating: 0
-ratingCount: 0
+rating: 3.5
+ratingCount: 8
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "McCarthy's biblical desert prose meets Jackson's psychological horror in a weird western where a tracker's meticulous narration is itself evidence of the landscape's consumption"

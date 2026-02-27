@@ -10,8 +10,8 @@ workY: "A Visit from the Goon Squad"
 wordCount: 5265
 readingTimeMinutes: 21
 tags: ["epistolary", "fragmented narrative", "Spanish Civil War", "family secrets", "documents", "Pacto del Olvido"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Marías's circling, digressive sentences meet Cusk's austere observation in a Sebaldian accumulation of documents that transform across Egan's temporal layers"

@@ -17,8 +17,8 @@ tags:
   - "inheritance"
   - "tanpura"
   - "clairvoyance"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-02-27"
 status: "published"
 formulaSummary: "Allende's sensuous family saga meets Murakami's deadpan surrealism in a South Asian story of three women whose inherited gifts migrate through demolished infrastructure"
