@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/turchin/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Hilary Mantel"
 authorB: "Robert Graves"
