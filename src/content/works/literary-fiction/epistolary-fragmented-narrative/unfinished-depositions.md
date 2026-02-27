@@ -7,8 +7,8 @@ authorA: "Javier Marías"
 authorB: "Rachel Cusk"
 workX: "Austerlitz"
 workY: "A Visit from the Goon Squad"
-wordCount: 5454
-readingTimeMinutes: 22
+wordCount: 5265
+readingTimeMinutes: 21
 tags: ["epistolary", "fragmented narrative", "Spanish Civil War", "family secrets", "documents", "Pacto del Olvido"]
 rating: 0
 ratingCount: 0
@@ -211,7 +211,7 @@ Paper: same stock as the 1943 order. The foxing pattern is heavier, concentrated
 
 *Sentencia de muerte, confirmada y ejecutada. Reo: Julio Gimeno Ortiz, natural de Used. Delito: adhesión a la rebelión.*
 
-The signature is unhurried. The same steady hand. The coffee ring lies outside the text block, as though the cup were placed carefully, away from the words. A small consideration. The kind of consideration a man might extend to a piece of paper without extending it to the name printed on that paper.
+The signature is unhurried. The same steady hand. The coffee ring lies outside the text block, as though the cup were placed carefully, away from the words. A small consideration.
 
 ---
 
@@ -293,7 +293,7 @@ I'm telling you now.
 
 *Audio recording, transcribed by Maribel Ruiz Cortés (home aide, employed by the family from 2016 to 2023). Transcription contains minor errors consistent with dictation to a non-professional transcriber. One word is marked as inaudible. The recording was made on Consuelo's mobile phone (a Samsung Galaxy J3, the only phone she would use because "the buttons are large enough for a human being") and saved in the voice memo application under no title.*
 
-Esteban signed them because they were put in front of him, and he did not sign them because he was cruel, and he did not sign them because he was a coward, and I cannot tell you why he signed them because in sixty years of marriage I never asked, and not asking was the thing that held every other thing in place, the way the keystone of an arch is not the strongest stone but the one whose removal would bring the [inaudible] down, and I kept the papers not to preserve them and not to punish him and not for the children because what could the children do with such a thing, but because destrying them seemed to me a second violence against the people whose names were on them, as though their deaths could be unsigned, as though erasing the order could erase the morning it was carried out, and so I kept them in the drawer and the drawer kept them and we all of us kept what we kept.
+Esteban signed them because they were put in front of him, and he did not sign them because he was cruel, and he did not sign them because he was a coward, and I cannot tell you why he signed them because in sixty years of marriage I never asked, and not asking was the thing that held every other thing in place, the way the keystone of an arch is not the strongest stone but the one whose removal would bring the [inaudible] down, and I kept the papers not to preserve them and not to punish him and not for the children because what could the children do with such a thing, but because destrying them seemed to me like doing it again, like the names would be gone twice, once when the order was carried out and once when the paper was burned, and so I kept them in the drawer and the drawer kept them and we all of us kept what we kept.
 
 *Transcriber's note: "destrying" is as spoken. Señora Arrieta paused for approximately fifteen seconds after "carried out" before continuing. The recording ends abruptly after "kept what we kept" — it is unclear whether she intended to continue.*
 
@@ -343,7 +343,7 @@ It's a description of a decision someone already made. Someone who knew more abo
 
 **Tomás** — 15:56
 
-She also started three memoirs and finished none of them. That's not a decision. That's paralysis.
+She also started three memoirs and finished none of them. That's not a decision. That's paralysis. I teach this period to sixteen-year-olds. I know what silence does.
 
 **Inés** — 15:59
 
@@ -375,7 +375,7 @@ I know.
 
 *iPhone, 15 March 2024, 22:47. Saved under "No title."*
 
-The apartment smells like her soap. Heno de Pravia. I found three bars of it in the bathroom cabinet, still wrapped. She must have bought them in bulk. The soap and the execution orders in the same apartment, in the same life, and I keep thinking that the soap is the more impossible object, because the soap assumes a future — you buy soap in bulk because you expect to need it — and the execution orders are the past refusing to become the past.
+The apartment smells like her soap. Heno de Pravia. I found three bars of it in the bathroom cabinet, still wrapped. She must have bought them in bulk. The soap and the execution orders in the same apartment, in the same life, and I keep thinking that the soap is the more impossible object, because the soap assumes a future — you buy soap in bulk because you expect to need it — and the execution orders don't assume anything. They just sit there.
 
 Lucía asked me on the phone tonight why I was at abuela's house and I said we were cleaning and she asked if we found anything good and I said we found some old papers and she said are they treasure and I said I don't know yet.
 
@@ -401,7 +401,7 @@ I want to be transparent about my position. I believe these documents belong in 
 
 I also want to be transparent about the fact that my siblings do not share this position, or do not share it yet, or share it in ways that do not lead them to the same conclusion. One of my siblings is a paper conservator and views the documents as objects to be preserved rather than stories to be told. The other has said very little, which is her way of saying a great deal, and I am not yet sure what she is saying.
 
-I recognize — and here I should be fully honest, because honesty is the least I owe to this situation, though it may not be the most — that there is something self-serving in this letter. I am the grandson who is choosing to act. I am constructing myself, in this very sentence, as the person who did the right thing. The narrative of the courageous descendant who broke the family silence — I can see it forming as I type, and I do not fully trust it, but I do not know how to want justice without also wanting to be seen wanting justice, and if you have a way to separate those two desires I would be grateful for the instruction.
+I should be honest: I know that writing to you is itself a kind of act — that I am placing myself on the side of disclosure rather than silence, and that there is a satisfaction in that placement which I have not fully examined. My sister Nuria would say I am performing a moral position. She might be right. But the documents exist regardless of my performance, and the names on them belong to people whose descendants are alive in Teruel and Zaragoza, and whatever my motives are, the documents don't care about my motives.
 
 What I can tell you is this: eleven documents. Eleven names. 1941 to 1951. A municipal judge in a small town in Teruel who signed what was put in front of him, if my grandmother's own account is to be believed, and who grew tomatoes and let his grandson flood the garden and died in 1987 without ever being asked why, because no one in the family had the language to ask or the stomach for the answer.
 
@@ -522,7 +522,7 @@ Why?
 
 **Nuria** — 07:23
 
-Because I needed to assess the condition of the documents before anything else happened to them. Because I needed to know what we had. And because I am forty-five years old and I have spent my entire career handling the evidence of what people did to each other and I have learned that the interval between discovering something and speaking about it is the only interval in which you can still decide what kind of person you are going to be.
+Because I needed to assess the condition of the documents before anything else happened to them. Because once you say a thing out loud in a family it becomes the thing you said and not the thing itself. And because I am forty-five years old and I have spent my career handling paper that outlasted the people who made it and I wanted a few days where the paper was just paper.
 
 **Inés** — 07:24
 
@@ -575,7 +575,7 @@ Finally, I would like to discuss digitization. High-resolution scanning at 600 d
 
 The collection is currently stored in acid-free tissue within a climate-controlled cabinet at my place of employment, pending your assessment. I can transport the materials to your facility at your convenience, in archival-grade enclosures.
 
-Please note that this is a private collection, not an institutional holding. The conservation assessment is requested and funded by the family. Questions regarding provenance, historical significance, or potential transfer to a public archive should be directed to me and not to other family members, as the family has not yet reached consensus on the disposition of the materials.
+Please note that this is a private collection, not an institutional holding. The conservation assessment is requested and funded by the family. Questions regarding provenance, historical significance, or potential transfer to a public archive should be directed to me.
 
 I look forward to your response.
 
@@ -591,4 +591,8 @@ Archivo Histórico Nacional
 
 **Inés** — 23:38 [DELETED 23:42]
 
-She taught their children. Every day. She stood in front of the classroom and Pilar Mateo Sancho sat in the second row and raised her hand to answer questions and the woman standing at the blackboard was married to the man who signed her mother's sentencing and the girl didn't know or maybe the girl knew and came anyway because there was only one school and you went to the school you were sent to and the teacher taught the students she was given and she called their names every morning from the register, the same register she kept, the same names she put between the pages of the memoir she tried to write thirty years later and couldn't, because what is the sentence for that, what is the construction that holds both the calling of the name and the signing of the order, I have been trying to build that sentence for three weeks now and it will not hold, it keeps collapsing at the point where the two facts touch, the way the ink is collapsing through the paper, and I think that is why she stopped writing — not three times but every day, every day she stopped writing the thing she could not write and instead she taught the children and called their names and the names were the only record she allowed herself to keep and she kept them in purple ink that was already fading when she made the copies, already disappearing, as though the keeping and the erasing were the same act, and I do not know what to do with any of this and I do not know what we owe and I do not know if preserving them is an act of justice or just another way of keeping the drawer closed while pretending it is open and she never—
+She taught their children. Every day. Pilar Mateo Sancho sat in the second row or the third row and raised her hand and the woman at the blackboard was married to the man who signed the paper. And the girl came to school because there was one school and you went to it.
+
+I keep trying to write something about this that holds together. The calling of the name from the register and the signing of the order. Both done by hand. Both written down. I've started four drafts and none of them work because the two facts won't sit next to each other in a sentence, they collapse the sentence.
+
+Tomás wants to act. Nuria wants to preserve. I don't know what I want. I keep looking at the attendance records and thinking about the purple ink, how it was already fading when she pulled the copies, twentieth-generation duplicates, barely legible. She made copies she knew would disappear. She put them between the pages of a memoir she couldn't finish. And I don't know if that was keeping or letting go or if those were different things for her or the same thing and I don't know what Lucía will ask when she's old enough to ask and I don't know what I'll
