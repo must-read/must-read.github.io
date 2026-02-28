@@ -10,10 +10,10 @@ workY: "Tenth of December by George Saunders"
 wordCount: 4560
 readingTimeMinutes: 18
 tags: ["elite overproduction", "law school", "class reunion", "multi-perspective", "institutional critique", "campus novel", "student debt", "suicide", "career divergence", "American promise"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: "Egan's time-jumping, multi-perspective Goon Squad architecture channels Saunders's empathic institutional satire through six law school graduates whose trajectories, fifteen years on, map the human cost of elite overproduction."
 synopsis: "Six graduates of an elite law school, fifteen years later. One is dead. The survivors' stories interlock in non-chronological fragments, revealing how identical starting conditions produce a senator's aide, a legal aid lawyer, a passed-over associate, a teacher, a podcaster, and a body."
 combination:

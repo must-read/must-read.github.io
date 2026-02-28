@@ -18,8 +18,10 @@ tags:
   - con-artist
   - family
   - conformity
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: >
   Thompson's cheerful first-person psychopathy fused with Jackson's domestic
   menace and social conformity as horror. The mother-son grifter competition

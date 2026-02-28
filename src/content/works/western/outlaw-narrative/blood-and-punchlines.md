@@ -10,10 +10,10 @@ workY: "No Country for Old Men by Cormac McCarthy"
 wordCount: 3473
 readingTimeMinutes: 14
 tags: ["outlaws", "partnership", "pursuit", "confined-space", "1890s", "humor", "fate"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: "Leonard's snappy outlaw dialogue meets McCarthy's implacable violence in a confined-space western where two partners and a stolen payroll are trapped in an adobe relay station with something patient and systematic closing in outside"
 synopsis: "Two career outlaws hole up in an abandoned relay station with a stolen mine payroll and an old station keeper who won't leave. The jokes keep coming. The thing outside keeps waiting."
 combination:

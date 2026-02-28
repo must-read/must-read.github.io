@@ -18,10 +18,10 @@ tags:
   - grace
   - moral-reckoning
   - American-culture
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: >
   Vonnegut's cheerful fatalism and bureaucratic absurdity meet O'Connor's
   violent grace in a near-future theme park that simulates moral reckoning

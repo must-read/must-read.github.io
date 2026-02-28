@@ -20,8 +20,8 @@ tags:
   - conviction
   - blake
   - chronicle
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-02-27"
 status: draft
 formulaSummary: "Tokarczuk's eccentric conviction meets Camus's absurdist chronicling in a parable of a retired engineer whose beautiful, wrong theory about poisoned air delays a town from discovering what is really killing them."
