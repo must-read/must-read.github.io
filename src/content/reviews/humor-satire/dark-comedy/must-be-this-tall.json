@@ -1,0 +1,68 @@
+{
+  "workSlug": "must-be-this-tall",
+  "reviews": [
+    {
+      "personaId": "hum-001-felicity",
+      "rating": 4,
+      "text": "The comic timing here is genuinely impressive. That line about Ray's conscience having \"a limited vocabulary\" — I had to set the thing down. And the bureaucratic language doing double duty throughout: \"FAMILY UNIT INCOMPLETE\" as both a checkbox and an existential diagnosis. The gift shop ending is where it really lands. Lorraine buys the cheapest magnet, reads it every morning, and it means $7.99 to her. That's a perfect dark-comedy beat: the moment of grace reduced to retail price. My only reservation is that the children's rides feel slightly undercooked — Kell's dead-dogs-of-the-future bit is funny but thin compared to what happens to Lorraine.",
+      "date": "2026-02-25",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-002-ted",
+      "rating": 3,
+      "text": "Funny in places but it's more of a slow burn than a laugh-out-loud thing. I liked the setup — theme park that judges you, forty bucks a head — and Ray refusing to ride was probably my favorite bit. \"Then I saved myself the experience.\" That's a good line. But by the time we get to Lorraine's big ride moment, it's more sad than funny, and the ending with the magnet is clever but quiet. I wanted one more big laugh somewhere in the back half.",
+      "date": "2026-01-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-003-nadia",
+      "rating": 4,
+      "text": "What interests me here is the satirical target. It's not the park — the park is the instrument. The target is the entire American self-improvement industry repackaged as governance: the Department of Interiority, the Moral Wellness Initiative, olfactometric baselines. The story understands that institutional self-knowledge is an oxymoron. Lorraine is the proof. She submits to the apparatus, receives genuine insight, and metabolises it into nothing within a week. The forty-percent opt-out rate for adult males is a particularly sharp detail — it indicts an entire demographic with a clipboard checkbox. My concern is that Janine's experience stays entirely opaque, which feels like a missed structural opportunity rather than deliberate restraint.",
+      "date": "2025-11-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-004-roger",
+      "rating": 5,
+      "text": "Absolutely first-rate. The public-private partnership joke in the opening paragraph — \"the government had paid for it and a corporation had named it\" — is the kind of line you read twice because it's too good to pass once. I spent decades watching exactly this sort of arrangement. And the facilitator named Todd in his bruise-coloured polo, checking boxes on a clipboard while families come apart — I've known a hundred Todds. The story treats the bureaucracy with affection rather than contempt, which is rarer than people think. Lorraine's ending is devastating without being sentimental. She decides it was indigestion. That's how most moral reckonings actually go.",
+      "date": "2026-02-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-005-jasmine",
+      "rating": 3,
+      "text": "The premise does the heavy lifting and it's a strong premise — moral theme park, smell-based calibration, rides named Prudence and Contrition. Good bones. But the comedy mechanics are mostly deadpan observations rather than actual jokes, and deadpan only works if the pacing stays tight. The middle section with the kids' rides drags. Britt's \"I'm not sorry about Hannah Lovett\" lands, but Kell's sequence is cute without being funny. The magnet ending is the best beat in the piece. I just wish there were three or four more beats at that level.",
+      "date": "2025-12-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-006-oliver",
+      "rating": 4,
+      "text": "There's a lovely tradition in dark comedy of the family outing that goes wrong, and this fits squarely in it while doing something I haven't quite seen before. The wrongness here isn't external — nobody crashes the car, nobody gets robbed. The wrongness is that the park works exactly as advertised and nobody is changed by it. Ray opts out cheerfully. The kids are too young for it to stick. Janine gets something real but won't share it. And Lorraine, who organised the whole trip, sees herself with perfect clarity and forgets within a week. The detail about the magazine filter making tears look like highlights is wonderful — it tells you everything about the world this family lives in. I'd have liked a bit more from Janine's experience, but the opacity might be the point. The snow globe with ash instead of snow is the kind of image that stays with you longer than it should.",
+      "date": "2025-09-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-007-diana",
+      "rating": 3,
+      "text": "Structurally efficient but perhaps too orderly. The piece moves through the family members in sequence — Ray refuses, Britt feels nothing, Kell feels nothing, Janine won't say, Lorraine sees everything — and the escalation is predictable after the second ride. The prose is controlled and the deadpan register is well-sustained, but the satirical method relies heavily on accumulation of absurd bureaucratic detail rather than any formal disruption. Compare this to satire that actually destabilises its own form. The ending saves it: Lorraine's self-knowledge dissolving into a memory about the cashier's nose ring is genuinely unsettling. But the architecture leading there is conventional.",
+      "date": "2026-02-15",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-008-pete",
+      "rating": 4,
+      "text": "Tight little piece. \"I saved myself the experience\" — that's a callback to the money line and it's better than the money line. Lorraine reading GRACE HAPPENS every morning and it meaning $7.99 is a perfect closer. The Edenvale Solutions / dental chairs throwaway got me. Economy is solid throughout.",
+      "date": "2026-01-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hum-009-amara",
+      "rating": 4,
+      "text": "The story understands something about how institutions interact with families: the institution functions correctly and the family absorbs the intervention without changing. The Department of Interiority is a sharp conceit — a government ministry for self-knowledge, created by an executive order nobody remembers signing. That's not just a joke; it's a diagnosis of how policy actually gets made. Lorraine is the heart of it. She believes humility is something she earned, which is a contradiction she can't see, and when the ride shows it to her — serving the smallest portion to Janine, the dark meat to Ray — she looks directly at it and then looks away. That final paragraph, where the whole experience shrinks to a girl with a nose ring, is quietly brutal.",
+      "date": "2025-10-22",
+      "helpfulCount": 0
+    }
+  ]
+}
