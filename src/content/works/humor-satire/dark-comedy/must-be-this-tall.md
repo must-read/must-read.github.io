@@ -7,7 +7,7 @@ authorA: "Kurt Vonnegut"
 authorB: "Flannery O'Connor"
 workX: "A Good Man Is Hard to Find by Flannery O'Connor"
 workY: "Welcome to the Monkey House by Kurt Vonnegut"
-wordCount: 2576
+wordCount: 2467
 readingTimeMinutes: 10
 tags:
   - dark-comedy
@@ -70,7 +70,7 @@ Her son Ray drove. His wife Janine sat in the passenger seat with her hands in h
 
 The parking lot was enormous and mostly empty. This was not unusual. Threshold Park had been open for two years and had never once operated at capacity. The brochure said the park could accommodate six hundred visitors per day. The average was eighty-three. The park's founder, Dr. Petra Salk — no relation to the polio doctor, though she did not correct people who assumed otherwise — had written in the annual report that low attendance was itself diagnostic. "The people who need Threshold most," she wrote, "are precisely the people who will not come."
 
-The Gaskins were met at the entrance by a facilitator named Todd. Todd wore a polo shirt the color of a bruise and a lanyard that said GUIDE in letters large enough to read from across a parking lot, as if the word might otherwise be mistaken for something threatening.
+The Gaskins were met at the entrance by a facilitator named Todd. Todd wore a polo shirt the color of a bruise and a lanyard that said GUIDE in letters large enough to read from across the parking lot.
 
 "Welcome to Threshold," Todd said. "Has anyone been with us before?"
 
@@ -92,7 +92,7 @@ Calibration took place in a room that smelled like a dentist's office — the sa
 
 "You have fingerprints," Lorraine said.
 
-They sat in the chairs. They breathed into the masks. The machine made sounds like a printer that had been asked to do something it found morally questionable. After four minutes each, a green light appeared on a small screen beside the chair, and that was that.
+They sat in the chairs. They breathed into the masks. The machine made sounds like a printer running out of something it needed. After four minutes each, a green light appeared on a small screen beside the chair, and that was that.
 
 Ray was the first to refuse.
 
@@ -100,13 +100,13 @@ Ray was the first to refuse.
 
 "Ray," Lorraine said.
 
-"Mama, I drove three hours. I sat in the chair. I breathed in the thing. I'm not getting on a ride that's going to tell me what's wrong with me. I know what's wrong with me." He smiled. It was a good smile. It was the smile of a man who had decided, long ago, that self-knowledge was a finished project, and he was the satisfactory result. "I drink too much and I don't listen. There. Saved myself forty dollars."
+"Mama, I drove three hours. I sat in the chair. I breathed in the thing. I'm not getting on a ride that's going to tell me what's wrong with me. I know what's wrong with me." He smiled. It was a good smile. It was the smile of a man who had decided, long ago, that self-knowledge was a finished project. "I drink too much and I don't listen. There. Saved myself forty dollars."
 
 "The experience is included with your admission," Todd said. "There's no additional charge for the rides."
 
 "Then I saved myself the experience," Ray said, as if this were even better.
 
-He walked back to the car. He walked the way he always walked — hands in his pockets, shoulders loose, a man with nothing on his conscience because his conscience had a limited vocabulary. Todd watched him go with an expression that was clearly practiced — sympathetic, unsurprised, a little sad. There was a form on his clipboard. He checked a box that said VOLUNTARY NON-PARTICIPATION and another that said FAMILY UNIT INCOMPLETE, which Lorraine saw and which seemed to her both clinically accurate and devastatingly personal, though Todd had clearly not meant it that way.
+He walked back to the car. He walked the way he always walked — hands in his pockets, shoulders loose, a man with nothing on his conscience because his conscience had a limited vocabulary. Todd watched him go. There was a form on his clipboard. He checked a box that said VOLUNTARY NON-PARTICIPATION and another that said FAMILY UNIT INCOMPLETE, which Lorraine saw and which seemed to her both clinically accurate and devastatingly personal, though Todd had clearly not meant it that way.
 
 "That happens," Todd said. "About forty percent of adult males opt out."
 
@@ -174,9 +174,9 @@ Lorraine chose Humility. Not because she thought she lacked it. Because she thou
 
 She walked into the building. It smelled like chalk dust and then it smelled like her mother's perfume and then it smelled like nothing — that dentist's-office absence again. The room was dark and then it wasn't. There was a screen, or a window, or a mirror. She couldn't tell.
 
-What she saw was a kitchen. Her kitchen. Thanksgiving. The table was set. Ray was pouring bourbon into a coffee mug, thinking nobody could see. Janine was sitting with her hands in her lap. Britt was watching Lorraine with those calculating eyes. Kell was talking to the dog. And Lorraine — the Lorraine in the mirror or window or screen — was standing at the head of the table, and she was smiling, and her smile was the same shape as Britt's assessment, the same temperature as Janine's silence. Her smile said: I know what you are. I have always known. And my knowing is the only thing keeping this family together, which means it is also the thing tearing it apart, and I will never stop because stopping would mean admitting that my love was the problem.
+What she saw was a kitchen. Her kitchen. Thanksgiving. The table was set. Ray was pouring bourbon into a coffee mug, thinking nobody could see. Janine was sitting with her hands in her lap. Britt was watching Lorraine with those calculating eyes. Kell was talking to the dog. And Lorraine — the Lorraine in the mirror or window or screen — was standing at the head of the table, and she was smiling, and her smile was the same shape as Britt's assessment, the same temperature as Janine's silence. Her smile said: I know what you are. I have always known. And I will never stop knowing. I will know and know and know, and none of them will ever be good enough, and that's fine, because they aren't.
 
-She watched herself carve the turkey. She watched herself serve each plate with a precision that was, she saw now, not generosity but control. The dark meat to Ray, because he didn't deserve the breast. The smallest portion to Janine, who never asked for more. Extra to the children, because they were the only ones she hadn't given up on yet. And then the scene shifted, or she shifted, and she was watching herself in the car on the drive down — just three hours ago, though it felt like a documentary about someone she used to know — and she heard herself say "They're therapeutic" in that settled-law voice, and she understood that the voice was the problem. Not what it said. The voice itself. The certainty. Thirty-two years of telling nine-year-olds where to sit and what to think and calling it education, and then coming home and doing the same thing to her family and calling it love.
+She watched herself carve the turkey. She watched herself serve each plate with a precision that was, she saw now, not generosity but control. The dark meat to Ray. The smallest portion to Janine. Extra to the children, because the children still had time. And then the scene shifted, or she shifted, and she was watching herself in the car on the drive down — just three hours ago, though it felt like a documentary about someone she used to know — and she heard herself say "They're therapeutic" in that settled-law voice, and she understood something about the voice that she could not have put into words, and would not have put into words even if she could, because it was the kind of understanding that only works as long as you don't look at it.
 
 The room smelled like gravy. Then it smelled like chalk dust. Then it smelled like the parking lot — hot asphalt and exhaust, the smell of leaving. The lights went off and a door opened and she walked through it.
 
@@ -188,9 +188,9 @@ Janine was standing in front of a rack of postcards, looking at them without pic
 
 Britt was trying on a T-shirt over her clothes. Kell was shaking a snow globe and watching the ash settle.
 
-Lorraine stood in the center of the gift shop. She could feel something in her chest, a pressure, a heat, like the early stages of a word she had not yet agreed to say. She walked past the mugs. She walked past the T-shirts. She walked past the snow globe display, where Kell was still shaking the same globe, watching ash settle on the tiny house over and over, performing a small apocalypse and reversing it with his wrist.
+Lorraine stood in the center of the gift shop. She could feel something in her chest that she did not like. She walked past the mugs. She walked past the T-shirts. She walked past the snow globe display, where Kell was still shaking the same globe, watching ash settle on the tiny house over and over.
 
-She picked up a magnet. GRACE HAPPENS. She held it in her hand. It weighed almost nothing. It was the cheapest thing in the store. It was the kind of thing she put on her refrigerator at home — magnets from every vacation, every landmark, every place the family had been together and survived.
+She picked up a magnet. GRACE HAPPENS. She held it in her hand. It weighed almost nothing. It was the cheapest thing in the store. It was the kind of thing she put on her refrigerator at home, where she kept magnets from every vacation, every landmark, every place the family had been.
 
 She bought it.
 
@@ -206,10 +206,6 @@ In the car, Ray had the radio on. He'd been listening to a game. The Braves were
 
 "Everything's supposed to be fun," Ray said. "That's why they charge admission."
 
-He pulled out of the parking lot. Kell fell asleep before they reached the highway. Britt put in earbuds and disappeared into whatever twelve-year-olds disappear into. Janine sat with her hands in her lap. Lorraine sat in the back seat with the magnet in her purse and something in her chest that she would later decide was indigestion, and then decide was nothing, and then not think about again until the following Thursday when she put the magnet on the refrigerator and read it every morning for the rest of her life without once remembering what the ride had shown her.
+He pulled out of the parking lot. Kell fell asleep before they reached the highway. Britt put in earbuds and disappeared into whatever twelve-year-olds disappear into. Janine looked out the window, which was new. Lorraine sat in the back seat with the magnet in her purse and something in her chest that she would later decide was indigestion, and then decide was nothing, and then not decide anything at all, because by the following Thursday the only thing she remembered about Threshold Park was that the girl at the register had a nose ring and had said "Have a blessed day" without irony, or possibly with irony — in that part of the country, it was impossible to tell.
 
-She remembered buying the magnet. She remembered that it cost $7.99. She remembered that the girl at the register had a nose ring and had said "Have a blessed day" without irony, or possibly with irony — in that part of the country, it was impossible to tell.
-
-She did not remember what she'd seen.
-
-So it goes.
+She put the magnet on the refrigerator. GRACE HAPPENS. She read it every morning. It meant nothing to her. It meant $7.99.
