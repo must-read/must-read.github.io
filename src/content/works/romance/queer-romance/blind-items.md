@@ -7,8 +7,8 @@ authorA: "Casey McQuiston"
 authorB: "Oscar Wilde"
 workX: "Red, White & Royal Blue"
 workY: "The Importance of Being Earnest"
-wordCount: 3474
-readingTimeMinutes: 14
+wordCount: 2765
+readingTimeMinutes: 11
 tags: ["queer romance", "vienna", "gossip column", "diplomacy", "identity", "wit", "public vs private", "performed sincerity"]
 rating: 0
 ratingCount: 0
@@ -47,7 +47,7 @@ He read it twice at a café near the Graben, sitting outside despite the cold be
 
 Someone had been watching him listen.
 
-He folded the magazine into his coat pocket and walked to work with the particular alertness of a person who has just learned they have an audience.
+He folded the magazine into his coat pocket and walked to work too fast.
 
 ---
 
@@ -59,7 +59,7 @@ Elliot owned one chartreuse tie. He had bought it at a Georgetown thrift store d
 
 Apparently: the columnist.
 
-He should have been annoyed. He was a Foreign Service officer. Being written about, even obliquely, was the kind of visibility that made the public affairs section nervous. But what he felt instead, reading the item over breakfast with his thumb leaving a crescent of jam on the page, was a sensation he could only describe as seen. Not surveilled. Seen. There was a difference, and the difference was tenderness. Whoever was writing these items was paying the kind of attention that was either professional or personal, and the specificity — *aggressive optimism* — suggested the latter.
+He should have been annoyed. He was a Foreign Service officer. Being written about, even obliquely, was the kind of visibility that made the public affairs section nervous. But what he felt instead, reading the item over breakfast with his thumb leaving a crescent of jam on the page, was something closer to tenderness. The specificity — *aggressive optimism* — was not the work of someone filing copy. It was the work of someone paying attention.
 
 By week three he had a theory. By week four he had a name.
 
@@ -81,15 +81,13 @@ Elliot wanted to argue, but he also wanted to keep listening to the way Seb's vo
 
 He didn't say anything. He ate his sorbet and listened to Seb dismantle Brahms with the focused pleasure of a man pulling the wings off an argument, and he thought: *You've been writing about me. You absolute disaster of a person. You've been writing about me and you're sitting here discussing string quartets like you haven't been composing love letters in newsprint.*
 
-The thing was — and Elliot recognized this with the particular clarity that arrives at the worst possible time — he didn't want Seb to stop.
+He didn't want Seb to stop. That was the problem.
 
 ---
 
-After that, the column and Elliot's behavior became a conversation. It was the kind of conversation that could only exist between two people determined not to admit they were having it.
+After that, the column and Elliot's behavior became a conversation neither of them would admit to having.
 
-Seb wrote: *The attaché's recent attendance at the Haus der Musik's lecture on the physics of resonance suggests either professional curiosity or a private conviction that love and standing waves share certain structural properties. One hopes he found what he was looking for. One rather suspects he did not, because the interesting things are never where we look for them.*
-
-Elliot went to the next event Seb's column mentioned — a gallery opening in the seventh district — and wore the chartreuse tie again. Not because it was strategic. Because it was the tie. It had become the tie. It had gone from an accident to a joke to a signal, and the signal was: *I know you're watching. Watch this.*
+Elliot went to a gallery opening in the seventh district — one Seb's column had mentioned — and wore the chartreuse tie again. Not because it was strategic. Because it was the tie. It had become the tie, gone from accident to joke to signal: *I know you're watching. Watch this.*
 
 Seb, at the gallery, not looking at the tie. Looking at everything except the tie with the intense nonchalance of someone who is thinking about the tie and nothing else. His column that week:
 
@@ -99,27 +97,27 @@ They kept meeting at parties. This was Vienna; you couldn't avoid anyone at part
 
 They argued about music. About the ambassador's new curtains, which Seb called "a crime against fenestration" and Elliot defended on the grounds that anyone brave enough to hang tangerine velvet in an embassy deserved solidarity. About whether Austrian wine was better than French wine (Elliot said yes; Seb said the question revealed a charmingly American faith in the possibility of objective measurement). They did not discuss the column.
 
-What Elliot wanted to say, standing in the embassy kitchen at two in the morning eating leftover Sachertorte from a trade function, was: *I think about your sentences the way other people think about bodies.* He typed this into an email draft on his phone, addressed to no one, and stared at it, and added: *I realize this is possibly the most unhinged thing I have ever committed to text. I also realize I don't care. You wrote that I listened to music like a person who believes beauty has an obligation to be witnessed, and I have read that sentence fourteen times, and every time I read it I feel like I'm being held by someone who hasn't touched me. Is that what you intended? Don't answer that. Obviously that's what you intended. You don't put anything in a sentence by accident. That's the whole problem. The whole extraordinary problem.*
+At two in the morning, standing in the embassy kitchen eating leftover Sachertorte from a trade function, Elliot typed into an email draft addressed to no one: *I think about your sentences the way other people think about bodies. I have read the one about beauty having an obligation to be witnessed fourteen times and every time I feel like I'm being held by someone who hasn't touched me. That's the whole problem.*
 
-He did not send the email. He ate the rest of the Sachertorte. He went to bed with chocolate on his fingers and the column's latest item memorized like a verse of something devotional.
+He did not send it. He ate the rest of the Sachertorte and went to bed with chocolate on his fingers.
 
 The next week, Seb's column contained this: *One notices that the attaché has begun arriving at events slightly before they begin rather than slightly after — a behavioral shift that suggests either improved scheduling or the discovery that punctuality, when one knows one is being observed, is a form of presentation. Of dressing, as it were. Of choosing what to show.*
 
-Which meant Seb had noticed that Elliot was showing up early. Which meant Seb was arriving even earlier. Which meant the man who wrote about observation as a pastime was himself being observed, and the whole thing had become a closed loop — a snake eating its own elegant, epigrammatic tail.
+Which meant Seb had noticed Elliot was showing up early. Which meant Seb was arriving even earlier.
 
-At a reception for a visiting Finnish delegation — Elliot was there because the consular section had been roped into something involving fishing rights near the Aleutian Islands, and the Finns had opinions — Seb appeared at his elbow and said, "You look like a man who has just spent forty minutes discussing maritime boundaries."
+At a reception for a visiting Finnish delegation — fishing rights near the Aleutians, the Finns had opinions — Seb appeared at his elbow and said, "You look like a man who has just spent forty minutes discussing maritime boundaries."
 
 "Thirty-eight."
 
 "A lateral solution to a vertical problem," Seb said, which was a phrase from a column three weeks prior, and which neither of them acknowledged as such.
 
-"The Fox Islands," Elliot said, because the briefing had included this detail and he was incapable of not sharing interesting facts when slightly nervous. "Named by Russian fur traders. The English is a translation of the Russian, which was probably a misunderstanding of the Unangan. A name that's a translation of a mistranslation of something that might not have been a name at all."
+"The Fox Islands," Elliot said, because he was nervous and nervous people share facts. "Named by Russian fur traders. The English is a translation of the Russian, which was probably a misunderstanding of the Unangan. A name that's a translation of a mistranslation of something that might not have been a name at all."
 
 Seb's eyes did the thing — the quick bright expansion that meant he'd found something he wanted to write about. "A series of impositions masquerading as a proper noun," he said. "Rather like a reputation."
 
 "Rather like a pseudonym," Elliot said, and did not look away.
 
-Seb's glass paused halfway to his mouth. For a fraction of a second, his composure cracked — not into distress but into something rawer and more dangerous, which was delight. Then the glass completed its journey, and his face rearranged itself into its usual architecture of polished amusement, and he said, "I don't know what you mean. I have only ever published under my own name. The name simply happens to be flexible."
+Seb's glass paused halfway to his mouth. His composure cracked — not into distress but into delight, which on him looked more dangerous. Then the glass completed its journey. "I don't know what you mean. I have only ever published under my own name. The name simply happens to be flexible."
 
 ---
 
@@ -129,7 +127,7 @@ Seb had replied: *It is about the culture of a city. That the city happens to co
 
 His editor had replied: *Seb, you're writing a love letter. Just so we're clear.*
 
-And Seb, Elliot would eventually learn, had not replied at all, because the accurate response would have been yes, and he was constitutionally incapable of saying yes to something that mattered without first wrapping it in three layers of irony and a subordinate clause.
+Seb, Elliot would eventually learn, had not replied at all.
 
 ---
 
@@ -145,13 +143,11 @@ Elliot was eating a Schnitzel at the embassy cafeteria, reading that week's colu
 
 "Elliot." Dana leaned forward. She was from Minnesota and had the particular bluntness of people who grew up in cold weather. "The man is writing you a courtship notice in a magazine. This is not subtle. This has never been subtle. The only people who think it's a secret are you and him."
 
-Something happened in Elliot's chest — a small detonation, contained, like a firework going off inside a jar. Not embarrassment. Recognition. The sickening, exhilarating recognition of a person who has just been told the obvious thing he already knew, spoken aloud by someone with no investment in the fiction, and who therefore couldn't be deflected with charm or irony or another argument about Schubert.
+Elliot put down his fork.
 
-Everyone could see.
+He'd known. Of course he'd known. He'd known since the Musikverein item, maybe since the second week, definitely since sitting next to Seb at the British ambassador's and cataloguing the architecture of his vowels. He'd known the way you know you're getting sick — the symptoms obvious to everyone, the diagnosis something you refuse to make because making it changes what you have to do next.
 
-The items were never blind.
-
-He put down his fork. The Schnitzel was getting cold. He thought about the unsent email on his phone — *I think about your sentences the way other people think about bodies* — and he thought about every Thursday morning for the past two months, the ritual of reading and being read, and he understood for the first time that the word "blind" in "blind item" had always referred to him and Seb. Not to the audience. Never to the audience. The audience had eyes. The audience had been watching this from the beginning, the way guests at a dinner party watch two people argue about Schubert and think, *ah, so that's what's happening.*
+The items were never blind. The audience had eyes. The audience had been watching the whole time.
 
 Dana was still looking at him. "Are you going to do something about it?"
 
@@ -161,15 +157,15 @@ Dana was still looking at him. "Are you going to do something about it?"
 
 ---
 
-Seb's flat was on the fourth floor of a building in the Josefstadt that had once been a salon and was now the kind of apartment that communicated, through its high ceilings and unreliable plumbing, a principled indifference to comfort. Elliot had never been there. He went there that evening. He pressed the buzzer and stood in the hall and listened to his own heartbeat and thought, absurdly, about the Fox Islands — about names that were translations of mistranslations — and about how every conversation he'd had with Seb had been a translation of a conversation they hadn't had yet.
+Seb's flat was on the fourth floor of a building in the Josefstadt, high ceilings and unreliable plumbing. Elliot had never been there. He went that evening. He pressed the buzzer and stood in the hall listening to his own heartbeat.
 
-Seb opened the door in a sweater that was slightly too big and glasses Elliot had never seen him wear in public, and for a moment the entire Wildean apparatus — the epigrams, the inversions, the elegant defenses — was just a man standing in a doorway, blinking. Without the public costume he looked younger. Softer. Like a rough draft of the person the column published every week.
+Seb opened the door in a sweater that was slightly too big and glasses Elliot had never seen him wear in public. Without the public costume he looked younger. Like a rough draft of the person the column published every week.
 
 "Elliot."
 
 "You know it's about me," Elliot said. "The column. I know you know I know. I think we're past the part where either of us pretends otherwise."
 
-Seb stepped back to let him in. The flat smelled like coffee and old paper. There were books on every surface, arranged not by author or title but by some private taxonomy Elliot couldn't decode — a novel balanced on top of a cookbook on top of what appeared to be a Hungarian railway timetable from 1987. A laptop was open on the kitchen table, its screen dark, and next to it a printed copy of the latest column draft with handwritten corrections in green ink. Elliot could see his own name in the margin, crossed out and replaced with "the attaché," crossed out and replaced with his name again.
+Seb stepped back to let him in. Books on every surface — a novel on a cookbook on what appeared to be a Hungarian railway timetable from 1987. On the kitchen table, a laptop and a printed column draft with corrections in green ink. Elliot's name in the margin, crossed out and replaced with "the attaché," crossed out and replaced with his name again.
 
 "I'm going to say something," Elliot said, "and I need you to not turn it into an epigram."
 
@@ -179,15 +175,15 @@ Seb stepped back to let him in. The flat smelled like coffee and old paper. Ther
 
 Seb sat on the arm of a chair that was older than both of them and crossed his arms and looked at Elliot with an expression that was trying very hard to be composed and was not succeeding. His glasses had slipped slightly down his nose. He didn't push them up. "Go ahead, then."
 
-"I wore the tie on purpose. Every time. I went to the gallery because I knew you'd be there. I brought up the Fox Islands because I wanted to give you something to write about. I have been — " Elliot paused. The next word was difficult. Not because it was complicated but because it was simple, and simple things, with Seb, felt like speaking a foreign language. "I have been showing up. For you. In public. On purpose. And I'd like to do it in private, too, if you'll stop writing about me long enough to actually look at me."
+"I wore the tie on purpose. Every time. I went to the gallery because I knew you'd be there. I brought up the Fox Islands because I wanted to give you something to write about. I have been — " The next word was difficult. Not because it was complicated but because it was simple. "I have been showing up. For you. In public. On purpose. And I'd like to do it in private, too, if you'll stop writing about me long enough to actually look at me."
 
-The silence in the flat was the kind of silence that has weight. Seb's arms uncrossed. His hands found each other, fingers lacing, which Elliot recognized as a gesture of someone who wanted to reach for something and was telling himself not to.
+Seb's arms uncrossed. His hands found each other, fingers lacing.
 
 "It is a terrible thing," Seb said, quietly, "for a man to discover that he has been sincere all along."
 
 "Is that a yes?"
 
-"It is a yes dressed in a quotation because I am physically incapable of saying yes to something important without intermediary text. But it is — yes. Elliot. It has been yes since the Musikverein. Since before the Musikverein. Since I watched you cross the Graben in January with snow in your hair and a look on your face like the city owed you something marvelous and you were determined to collect."
+"It is a — " He stopped. Tried again. "The thing about a yes is that it — " He took off his glasses, rubbed his eyes, and when his hands came down he looked like someone who had just lost a fight with himself and was relieved about it. "Yes. Elliot. Since before the column. Since January. I saw you cross the Graben with snow in your hair."
 
 "You saw me in January? The column didn't start until March."
 
@@ -201,16 +197,14 @@ The silence in the flat was the kind of silence that has weight. Seb's arms uncr
 
 "I finished it before you said don't. Chronology is on my side."
 
-The kissing, when it happened, was not elegant. Seb's glasses got in the way. Elliot laughed into his mouth, which made Seb pull back with an expression of mock offense that was actually genuine vulnerability, and Elliot pulled him forward again and said, "No, come back, I'm laughing because I'm happy, that's a thing that people do," and Seb said, "People, perhaps. I generally find happiness an insufficient excuse for disrupting a kiss," and Elliot said, "Shut up," and Seb did, which was the most romantic thing that had ever happened to Elliot in his twenty-eight years of life.
+The kissing, when it happened, was not elegant. Elliot laughed into his mouth, which made Seb pull back with an expression of mock offense that was actually genuine vulnerability, and Elliot pulled him forward again and said, "No, come back, I'm laughing because I'm happy, that's a thing that people do," and Seb said, "People, perhaps. I generally find happiness an insufficient excuse for disrupting a kiss," and Elliot said, "Shut up," and Seb did, which was the most romantic thing that had ever happened to Elliot in his twenty-eight years of life.
 
 ---
 
 The last "Fox and Hedgehog" column ran on a Thursday in May. Most of it was the usual — a benefit at the Kunsthistorisches, a new sommelier at the Hotel Sacher, a visiting senator's regrettable necktie. But the final item broke form.
 
-> *This columnist wishes to note, for the record and without the customary veil of discretion, that Elliot Pace of the United States Embassy is the most interesting person in this city. He listens to music with his eyes closed. He wears chartreuse without apology. He has taught me that the most courageous act available to a person of my profession is the simple declarative sentence.*
+> *This columnist wishes to note, for the record and without the customary veil of discretion, that Elliot Pace of the United States Embassy is the most interesting person in this city. He listens to music with his eyes closed. He wears chartreuse without apology.*
 >
-> *This is one: I am fortunate to know him.*
->
-> *The column has been, from its inception, a study in indirection — the art of saying everything by appearing to say nothing. It occurs to me now that I have been practicing the wrong art. The interesting skill was never concealment. It was the other thing. The terrifying, irrevocable, unpublishable other thing, which I am publishing anyway, because he asked me to try.*
+> *This is a simple declarative sentence: I am fortunate to know him.*
 
 Seb signed it with his real name.
