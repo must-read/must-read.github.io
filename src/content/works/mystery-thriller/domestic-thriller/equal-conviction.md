@@ -18,10 +18,10 @@ tags:
   - "institutional failure"
   - "marriage"
   - "suburban horror"
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 10
 publishedDate: 2026-02-28
-status: "draft"
+status: "published"
 formulaSummary: >
   Highsmith's clinical detachment inhabits a household where reality is negotiated daily, while Lehane's moral devastation drives a school psychologist toward a choice that is correct and catastrophic. Deep Water's marriage-sustained-by-mutual-performance meets Gone Baby Gone's institutional machinery that grinds right answers into wrong outcomes.
 synopsis: >

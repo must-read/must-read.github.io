@@ -20,10 +20,10 @@ tags:
   - fairy-tale
   - baroque-prose
   - forbidden-knowledge
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: 2026-02-28
-status: "draft"
+status: "published"
 formulaSummary: >
   Carter's baroque feminist Gothic and Rothfuss's lyrical romanticism collide in a dark fantasy about a bard who enters a domain of ancient feminine power. The Bloody Chamber's forbidden-room architecture and aestheticized violence fuse with The Wise Man's Fear's Felurian sequence and naming-as-mastery, but inverted: here the mortal's naming fails, and what happened in the central encounter is permanently withheld from both bard and reader.
 synopsis: >

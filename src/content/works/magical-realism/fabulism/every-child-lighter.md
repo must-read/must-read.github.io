@@ -10,10 +10,10 @@ workY: "Grimms' Fairy Tales"
 wordCount: 3438
 readingTimeMinutes: 14
 tags: ["family", "inheritance", "reverse-chronology", "forest", "impossible-gifts", "house", "transgression", "tears", "weightlessness"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 8
 publishedDate: "2026-02-28"
-status: "draft"
+status: "published"
 formulaSummary: "García Márquez's matter-of-fact miracles and generational sweep meet Russell's tactile American fabulism in a reverse-chronology family saga structured like Allende's house-as-archive, with Grimm's fairy-tale logic of prohibition and punishment"
 synopsis: "A family whose children are each born with a single impossible trait — told backward from the youngest grandchild to the original transgression in the forest. Each section reveals the cause of what came after."
 combination:

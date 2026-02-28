@@ -10,10 +10,10 @@ workY: "Bad Feminist by Roxane Gay"
 wordCount: 3005
 readingTimeMinutes: 12
 tags: ["creative-nonfiction", "humor-essay", "guilty-pleasures", "food", "consumption", "shame", "American-culture", "contradiction"]
-rating: 0
-ratingCount: 0
+rating: 3.4
+ratingCount: 9
 publishedDate: "2026-02-28"
-status: "draft"
+status: "published"
 formulaSummary: "Sedaris's comic ruthlessness and family grotesque meets Gay's confessional honesty about contradictions, structured around Naked's emotional exposure through the body and Bad Feminist's embrace of imperfect politics, in a humor essay about the things we consume, enjoy, and cannot defend."
 synopsis: "A humor essay cataloging the author's indefensible pleasures — spray cheese, reality TV, gas station coffee — and the elaborate moral architecture required to enjoy things that fail every standard you claim to hold."
 combination:

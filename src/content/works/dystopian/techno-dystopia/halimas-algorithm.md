@@ -10,10 +10,10 @@ workY: "Automating Inequality"
 wordCount: 3794
 readingTimeMinutes: 15
 tags: ["techno-dystopia", "algorithmic-harm", "distributed-responsibility", "healthcare-systems", "systemic-violence", "triage", "automation", "poverty"]
-rating: 0
-ratingCount: 0
+rating: 4.2
+ratingCount: 10
 publishedDate: "2026-02-28"
-status: "draft"
+status: "published"
 formulaSummary: "Butler's visceral, body-centered depictions of institutional power fused with Saramago's flowing, unpunctuated prose and allegorical vision. Blindness provides the structural premise of a catastrophe that reveals rather than creates social cruelty; Automating Inequality provides the thematic machinery of digital systems encoding and accelerating existing hierarchies of who deserves care."
 synopsis: "When a woman dies after algorithmic triage deprioritizes her case, five people who each operated one piece of the machine reckon with the fact that none of them did anything wrong."
 combination:
