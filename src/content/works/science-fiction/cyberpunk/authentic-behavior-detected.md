@@ -20,10 +20,10 @@ tags:
   - authenticity
   - nigerian-diaspora
   - surveillance
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: >
   Dick's paranoid self-surveillance and dissolving identity collide with Adichie's
   luminous immigrant code-switching as a Nigerian-born content moderator discovers

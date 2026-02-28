@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/hunger/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Cormac McCarthy"
 authorB: "Flannery O'Connor"

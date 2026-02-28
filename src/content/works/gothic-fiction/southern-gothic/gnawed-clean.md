@@ -20,10 +20,10 @@ tags:
   - tent-camp
   - constraint-of-space
   - class
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: >
   McCarthy's forensic sensory precision and biblical cadence meet
   O'Connor's darkly comic demolition of self-deception as a former

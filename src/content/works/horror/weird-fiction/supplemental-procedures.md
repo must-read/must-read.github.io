@@ -10,10 +10,10 @@ workY: "Tlön, Uqbar, Orbis Tertius by Jorge Luis Borges"
 wordCount: 1964
 readingTimeMinutes: 8
 tags: ["horror", "weird-fiction", "corporate-horror", "procedural", "institutional-dread", "bureaucracy", "contagion", "unreality"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: "Ligotti's corporate nihilism and clinical flatness meets Aickman's genteel social wrongness, built on Chambers' art-as-contagion framework and Borges' imaginary world overwriting reality through collective acceptance."
 synopsis: "A records coordinator finds a procedural manual for a department that doesn't exist. It is exhaustively thorough. Her colleagues begin referencing it in meetings. She begins following its procedures. They work."
 combination:

@@ -18,10 +18,10 @@ tags:
   - self-deception
   - matchmaking
   - friends-to-lovers
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: >
   Austen's ironic third-person-turned-first-person self-deception meets Ephron's sharp
   observational wit about modern womanhood. A food critic who can read anyone's heart

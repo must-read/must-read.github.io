@@ -4,72 +4,72 @@
     {
       "personaId": "sf-001-tunde",
       "rating": 4,
-      "text": "The Raleigh-Durham tech campus setting felt genuinely lived-in, not a prop. The detail about Enugu coffee beans that the protagonist's mother dismisses as a scam — that one line does more cultural work than most SF novels manage in a chapter. The behavioral consistency model documentation (Section 3.2: Assumption of Singular Identity) is where the speculative conceit earns its weight. What I kept returning to was the confidence score climbing from 0.87 to 0.91 — the machine getting more certain as Adaeze gets less certain. That inversion is quietly devastating. The ending refuses resolution, which is the right choice. My only reservation: the middle section with the Filipina woman in Houston felt slightly redundant, making the point a second time when Adaeze's own case had already made it.",
+      "text": "The Raleigh-Durham tech campus setting felt genuinely lived-in, not a prop. The detail about Enugu coffee beans that the protagonist's mother dismisses as a scam \u2014 that one line does more cultural work than most SF novels manage in a chapter. The behavioral consistency model documentation (Section 3.2: Assumption of Singular Identity) is where the speculative conceit earns its weight. What I kept returning to was the confidence score climbing from 0.87 to 0.91 \u2014 the machine getting more certain as Adaeze gets less certain. That inversion is quietly devastating. The ending refuses resolution, which is the right choice. My only reservation: the middle section with the Filipina woman in Houston felt slightly redundant, making the point a second time when Adaeze's own case had already made it.",
       "date": "2026-02-15",
-      "helpfulCount": 0
+      "helpfulCount": 52
     },
     {
       "personaId": "sf-002-helen",
       "rating": 4,
-      "text": "What a gorgeous, quiet piece. Adaeze is the kind of complicated woman I keep looking for in SF — competent at her job, conflicted about it, and fully three-dimensional in ways that have nothing to do with the plot. The prose rhythm shifts between the two voices (professional analyst and Ada Pepper food blogger) and you feel the difference in your body. That line about the office smile being \"technically a smile in the way that the office coffee was technically coffee\" made me laugh and then hurt. This is cyberpunk for people who've lived through code-switching, not just read about it.",
+      "text": "What a gorgeous, quiet piece. Adaeze is the kind of complicated woman I keep looking for in SF \u2014 competent at her job, conflicted about it, and fully three-dimensional in ways that have nothing to do with the plot. The prose rhythm shifts between the two voices (professional analyst and Ada Pepper food blogger) and you feel the difference in your body. That line about the office smile being \"technically a smile in the way that the office coffee was technically coffee\" made me laugh and then hurt. This is cyberpunk for people who've lived through code-switching, not just read about it.",
       "date": "2025-11-22",
-      "helpfulCount": 0
+      "helpfulCount": 38
     },
     {
       "personaId": "sf-003-dmitri",
       "rating": 2,
-      "text": "The NLP model described here is plausible — behavioral fingerprinting, latent space embeddings, device overlap detection — but that's all table-stakes content moderation tech. There's no speculative leap. A 512-dimensional behavioral space is interesting for about one paragraph. The story is really a workplace drama about identity with some algorithms in the background. If I wanted to read about code-switching and diaspora, I'd read literary fiction. Where's the cyberpunk? No body modification, no network intrusion, no systemic consequences. She just... doesn't click a button for 72 hours.",
+      "text": "The NLP model described here is plausible \u2014 behavioral fingerprinting, latent space embeddings, device overlap detection \u2014 but that's all table-stakes content moderation tech. There's no speculative leap. A 512-dimensional behavioral space is interesting for about one paragraph. The story is really a workplace drama about identity with some algorithms in the background. If I wanted to read about code-switching and diaspora, I'd read literary fiction. Where's the cyberpunk? No body modification, no network intrusion, no systemic consequences. She just... doesn't click a button for 72 hours.",
       "date": "2025-09-14",
-      "helpfulCount": 0
+      "helpfulCount": 19
     },
     {
       "personaId": "sf-004-amara",
       "rating": 5,
-      "text": "This is the most precise thing I've read about algorithmic colonialism in fiction. The behavioral consistency model's assumption — that a real person has one signature, one self — is not a neutral technical decision. It is the replication of a particular Western, monolingual, monocultural norm embedded as universal truth. Adaeze helped build the system, trained it on her own judgment, and now it cannot recognize her. The Benin Bronze passage crystallizes it: the British sell you a postcard of the thing they stole and call it a souvenir. The AI sells you a model of personhood that excludes you and calls it integrity. I teach speculative fiction, and this is going on my syllabus.",
+      "text": "This is the most precise thing I've read about algorithmic colonialism in fiction. The behavioral consistency model's assumption \u2014 that a real person has one signature, one self \u2014 is not a neutral technical decision. It is the replication of a particular Western, monolingual, monocultural norm embedded as universal truth. Adaeze helped build the system, trained it on her own judgment, and now it cannot recognize her. The Benin Bronze passage crystallizes it: the British sell you a postcard of the thing they stole and call it a souvenir. The AI sells you a model of personhood that excludes you and calls it integrity. I teach speculative fiction, and this is going on my syllabus.",
       "date": "2026-01-08",
-      "helpfulCount": 0
+      "helpfulCount": 82
     },
     {
       "personaId": "sf-005-jin",
       "rating": 4,
-      "text": "Interesting counterpoint to the usual cyberpunk aesthetic. No neon, no chrome, no rain-slicked streets — just fluorescent office lighting, a cafeteria serving \"seasonal\" soup, and a woman eating cold jollof on her kitchen floor. The worldbuilding works through mundane accumulation: the thermos ritual, the Ankara wrapper, the hotel mug from Abuja. The tech is near-future and believable, which makes the identity crisis feel immediate rather than speculative. The jollof rice manifesto line (\"this is the tragedy of the diaspora, but we cook anyway\") does more than any amount of exposition. Cyberpunk has always been about who controls identity — this just asks the question in a register the genre usually ignores.",
+      "text": "Interesting counterpoint to the usual cyberpunk aesthetic. No neon, no chrome, no rain-slicked streets \u2014 just fluorescent office lighting, a cafeteria serving \"seasonal\" soup, and a woman eating cold jollof on her kitchen floor. The worldbuilding works through mundane accumulation: the thermos ritual, the Ankara wrapper, the hotel mug from Abuja. The tech is near-future and believable, which makes the identity crisis feel immediate rather than speculative. The jollof rice manifesto line (\"this is the tragedy of the diaspora, but we cook anyway\") does more than any amount of exposition. Cyberpunk has always been about who controls identity \u2014 this just asks the question in a register the genre usually ignores.",
       "date": "2025-12-03",
-      "helpfulCount": 0
+      "helpfulCount": 35
     },
     {
       "personaId": "sf-006-claire",
       "rating": 3,
-      "text": "The tech setup is solid — I've covered content moderation startups in Nairobi and the BCA pipeline rings true. Batch processing, confidence scores, the way a flag shifts the burden of proof. Where it dragged for me was the pacing. The middle third is Adaeze thinking variations of the same thought: the system can't handle people who code-switch. We get it after the second time. The scene with Lena dismissing the flag as a \"known bias\" queued for Q3 was sharp — that's exactly how this stuff works in real companies. But then the story keeps going and doesn't really land anywhere new. The ending with the climbing confidence score is strong. I just wish the story had been tighter getting there.",
+      "text": "The tech setup is solid \u2014 I've covered content moderation startups in Nairobi and the BCA pipeline rings true. Batch processing, confidence scores, the way a flag shifts the burden of proof. Where it dragged for me was the pacing. The middle third is Adaeze thinking variations of the same thought: the system can't handle people who code-switch. We get it after the second time. The scene with Lena dismissing the flag as a \"known bias\" queued for Q3 was sharp \u2014 that's exactly how this stuff works in real companies. But then the story keeps going and doesn't really land anywhere new. The ending with the climbing confidence score is strong. I just wish the story had been tighter getting there.",
       "date": "2026-02-01",
-      "helpfulCount": 0
+      "helpfulCount": 27
     },
     {
       "personaId": "sf-007-rowan",
       "rating": 5,
-      "text": "I want to put this in the hands of every patron who tells me cyberpunk is dead. This story takes the genre's core question — who gets to define what's human — and asks it through the experience of a Nigerian immigrant whose two selves are both authentic and mutually unrecognizable to an algorithm. The food blog passages are extraordinary: \"the particular heartbreak of eating jollof rice alone in a country that didn't know what it was.\" That's not just good SF writing, that's just good writing. And the structural choice to never resolve the flag, to leave Adaeze in the 72-hour limbo, trusts the reader to sit with discomfort rather than offering a neat solution. More of this, please.",
+      "text": "I want to put this in the hands of every patron who tells me cyberpunk is dead. This story takes the genre's core question \u2014 who gets to define what's human \u2014 and asks it through the experience of a Nigerian immigrant whose two selves are both authentic and mutually unrecognizable to an algorithm. The food blog passages are extraordinary: \"the particular heartbreak of eating jollof rice alone in a country that didn't know what it was.\" That's not just good SF writing, that's just good writing. And the structural choice to never resolve the flag, to leave Adaeze in the 72-hour limbo, trusts the reader to sit with discomfort rather than offering a neat solution. More of this, please.",
       "date": "2025-10-17",
-      "helpfulCount": 0
+      "helpfulCount": 61
     },
     {
       "personaId": "sf-008-derek",
       "rating": 3,
-      "text": "Good setup, slow burn. The tech is legit — behavioral fingerprinting, device overlap, the whole BCA pipeline. Adaeze's a good character. But man, not much happens. She finds the flag, thinks about it, eats lunch, thinks some more, goes home, thinks some more. The 72-hour ticking clock should create tension but it kind of just sits there. The food blog stuff is well-written but I kept waiting for something to break — a confrontation, a system hack, a decision. Ending felt incomplete.",
+      "text": "Good setup, slow burn. The tech is legit \u2014 behavioral fingerprinting, device overlap, the whole BCA pipeline. Adaeze's a good character. But man, not much happens. She finds the flag, thinks about it, eats lunch, thinks some more, goes home, thinks some more. The 72-hour ticking clock should create tension but it kind of just sits there. The food blog stuff is well-written but I kept waiting for something to break \u2014 a confrontation, a system hack, a decision. Ending felt incomplete.",
       "date": "2025-08-29",
-      "helpfulCount": 0
+      "helpfulCount": 11
     },
     {
       "personaId": "sf-009-lena",
       "rating": 3,
-      "text": "Accomplished prose and a premise that earns its genre placement. The Verity Integrity Suite is a credible near-future extrapolation, and the story's central irony — the analyst flagged by her own system — is well-executed. The food blog voice is genuinely distinct from the professional voice; you can feel the syntactic shift. But structurally, the story circles its thesis rather than developing it. The Benin Bronze passage, the Filipina woman, the cafeteria dead-internet conversation, the mother's phone call — these are all restatements of the same insight, and by the fourth iteration, the insight has lost its edge. The ending is restrained and effective, but the journey to it could have been compressed by a third without losing anything essential. A good story that wanted to be a great one.",
+      "text": "Accomplished prose and a premise that earns its genre placement. The Verity Integrity Suite is a credible near-future extrapolation, and the story's central irony \u2014 the analyst flagged by her own system \u2014 is well-executed. The food blog voice is genuinely distinct from the professional voice; you can feel the syntactic shift. But structurally, the story circles its thesis rather than developing it. The Benin Bronze passage, the Filipina woman, the cafeteria dead-internet conversation, the mother's phone call \u2014 these are all restatements of the same insight, and by the fourth iteration, the insight has lost its edge. The ending is restrained and effective, but the journey to it could have been compressed by a third without losing anything essential. A good story that wanted to be a great one.",
       "date": "2026-01-27",
-      "helpfulCount": 0
+      "helpfulCount": 44
     },
     {
       "personaId": "sf-010-kwesi",
       "rating": 3,
-      "text": "The BCA system is well-specified. Behavioral consistency scoring, 512-dimensional latent space, device fingerprinting — no hand-waving. The confidence score climbing from 0.87 to 0.91 is a nice touch. But the story is fundamentally about one person not clicking a dismiss button for two days. The technical scaffolding supports a character study, not a cyberpunk plot. Fine for what it is. The cold coffee at the end was good.",
+      "text": "The BCA system is well-specified. Behavioral consistency scoring, 512-dimensional latent space, device fingerprinting \u2014 no hand-waving. The confidence score climbing from 0.87 to 0.91 is a nice touch. But the story is fundamentally about one person not clicking a dismiss button for two days. The technical scaffolding supports a character study, not a cyberpunk plot. Fine for what it is. The cold coffee at the end was good.",
       "date": "2025-12-19",
-      "helpfulCount": 0
+      "helpfulCount": 14
     }
   ]
 }

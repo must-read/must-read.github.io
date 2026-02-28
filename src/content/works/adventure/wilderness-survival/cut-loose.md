@@ -10,10 +10,10 @@ workY: "Touching the Void by Joe Simpson"
 wordCount: 2960
 readingTimeMinutes: 12
 tags: ["adventure", "wilderness-survival", "africa", "namibia", "caprivi", "moral-choice", "survival", "guilt", "landscape"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-27"
-status: "draft"
+status: "published"
 formulaSummary: "Smith's visceral African landscape meets Stevenson's moral doubling in a wilderness survival story where every competence is an indictment."
 synopsis: "A safari guide abandons his injured colleague in a rising flood in Namibia's Caprivi Strip. His five-day walk to safety proves he had the skills to have tried harder."
 combination:
