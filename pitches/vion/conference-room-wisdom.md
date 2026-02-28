@@ -1,7 +1,7 @@
 ---
 source: "https://the-ei.github.io/vion/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "George Saunders"
 authorB: "Franz Kafka"

@@ -20,8 +20,8 @@ tags:
   - paris-1792
   - betrayal
   - identity
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-02-28"
 status: draft
 formulaSummary: "Dumas's breathless ensemble energy meets Stevenson's moral doubling in a revolutionary Paris rescue, with The Scarlet Pimpernel's nested disguises and The Princess Bride's swordfight-as-revelation"

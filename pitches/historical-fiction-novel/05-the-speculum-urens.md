@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/historical-fiction-novel/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Umberto Eco"
 authorB: "Ted Chiang"

@@ -10,10 +10,10 @@ workY: "The Memory Police"
 wordCount: 2926
 readingTimeMinutes: 12
 tags: ["gig economy", "algorithmic horror", "disappearance", "labor", "systemic horror", "delivery driver", "suburban uncanny"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-02-28"
-status: "draft"
+status: "published"
 formulaSummary: "Moshfegh's disgusted interiority and Ogawa's quiet domestic wrongness combine in a gig worker who keeps delivering to an impossible house because stopping would cost more than continuing."
 synopsis: "A delivery driver discovers the algorithm keeps routing her to the same suburban house every night. The orders escalate. Other drivers deny the address exists. She cannot afford to stop."
 combination:

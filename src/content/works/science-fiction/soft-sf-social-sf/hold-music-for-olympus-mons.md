@@ -20,10 +20,10 @@ tags:
   - complaint-ticket
   - isolation
   - rations
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 9
 publishedDate: 2026-02-28
-status: "draft"
+status: "published"
 riskCard: "second-person"
 formulaSummary: >
   Bradbury's aching lyricism for abandoned places meets Saunders' corporate absurdism and radical empathy. The Martian Chronicles provides the colony-as-domestic-vignette structure and ghost-town atmosphere; Tenth of December provides the interior monologue that reveals full humanity in the moment of moral crisis.

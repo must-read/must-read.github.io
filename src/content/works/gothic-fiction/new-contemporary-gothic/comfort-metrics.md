@@ -19,10 +19,10 @@ tags:
   - ambiguous-ending
   - psychological-horror
   - corporate-horror
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: 2026-02-28
-status: "draft"
+status: "published"
 riskCard: "ambiguous-ending"
 formulaSummary: >
   Jackson's claustrophobic self-doubting interiority and the slow dissolution

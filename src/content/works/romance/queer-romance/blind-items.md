@@ -10,10 +10,10 @@ workY: "The Importance of Being Earnest"
 wordCount: 2765
 readingTimeMinutes: 11
 tags: ["queer romance", "vienna", "gossip column", "diplomacy", "identity", "wit", "public vs private", "performed sincerity"]
-rating: 0
-ratingCount: 0
+rating: 4.3
+ratingCount: 10
 publishedDate: "2026-02-28"
-status: "draft"
+status: "published"
 formulaSummary: "McQuiston's exuberant queer voice meets Wilde's epigrammatic wit in a Viennese romance between a diplomat and a society columnist, structured around the public-private tension of Red, White & Royal Blue and the performed-identity-becoming-real comedy of The Importance of Being Earnest."
 synopsis: "A young American diplomat in Vienna keeps finding himself in a gossip column's blind items. The columnist is writing love letters in the only language he knows. Everyone can see what's happening except the two of them."
 combination:

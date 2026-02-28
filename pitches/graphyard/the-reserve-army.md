@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/graphyard/articles/marx/altair/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Ottessa Moshfegh"
 authorB: "Yoko Ogawa"
