@@ -7,8 +7,8 @@ authorA: "Jim Thompson"
 authorB: "Shirley Jackson"
 workX: "The Grifters by Jim Thompson"
 workY: "We Have Always Lived in the Castle by Shirley Jackson"
-wordCount: 4255
-readingTimeMinutes: 18
+wordCount: 4040
+readingTimeMinutes: 16
 tags:
   - mother-daughter
   - grifter
@@ -50,7 +50,7 @@ combination:
     - "A household economy where love and control are indistinguishable, and poison is just another kind of care"
 ---
 
-My name is Darla Vetch. I am twenty-six years old and I live with my mother in a house on Minter Street in Lowndes, Missouri. Our house has green shutters and a screened porch and six geranium boxes that Mama tends every morning before breakfast. The geraniums are red, the deep arterial red that catalog people call "caliente," though Mama just calls them red. She is a practical woman. She does not use more words than a thing requires.
+My name is Darla Vetch. I am twenty-six years old and I live with my mother in a house on Minter Street in Lowndes, Missouri. Our house has green shutters and a screened porch and six geranium boxes that Mama tends every morning before breakfast. The geraniums are red, the deep arterial red that catalog people call "caliente," though Mama just calls them red. She is a practical woman. She does not use more words than required.
 
 I love our house and I love my mother and I love this town, where the elm trees arch over the streets like the ribs of something patient and the Methodist church bells ring at ten and noon and six and the woman at the post office knows your name and the name of your dog, if you have a dog. We do not have a dog. Mama says dogs notice too much.
 
@@ -60,7 +60,7 @@ After breakfast, we work.
 
 I should explain what I mean by that. Mama and I look after people. We have been looking after the people of this town for nine years, since we moved here from a place I don't think about. Before that, there was another town, and before that, another, and Mama says the towns before those don't count because I was too young to help. But I have been helping since I was seventeen, and I am good at it, and I take pride in my work the way anyone takes pride in work done well.
 
-What we do is: we pay attention. We learn what people need and we provide it and in return they provide for us. Mama calls it reciprocity. She says it's the oldest economy, older than money, the simple human exchange of care for care. We care for the people of Lowndes and they care for us, and if the exchange is sometimes uneven — if we receive more than we give, or give different things than what they think they're receiving — well, Mama says every economy has its inefficiencies. Every market has its spread.
+What we do is: we pay attention. We learn what people need and we provide it and in return they provide for us. Mama calls it reciprocity. She says it's the oldest economy, older than money. We care for the people of Lowndes and they care for us, and if the exchange is sometimes uneven — if we receive more than we give, or give different things than what they think they're receiving — well, Mama says every economy has its inefficiencies. Every market has its spread.
 
 Take the Kinseys. Doyle and Fern Kinsey live on the corner of Minter and Ash in a yellow house with a chain-link fence and a garage full of things Doyle is going to fix someday. Doyle is seventy-three and Fern is seventy and their children live in Kansas City and don't visit enough, which is something Fern mentions every time I bring over soup, which is every Wednesday. I have been bringing Fern soup every Wednesday for four years. Cream of potato in winter, cold cucumber in summer, and in the fall a butternut squash recipe I got from a magazine and modified until it was mine. Fern says I am the daughter she should have had, and when she says it she looks at me with such need that I almost feel it back.
 
@@ -164,9 +164,7 @@ I have not told you about the phenol test. Mama taught it to me when I was ninet
 
 "People are the same," she said. "You test everyone against a standard. The standard is me. Watch how I talk to someone, watch how they respond, then try it yourself. If you get the same response at a weaker effort, you're better than me. If you need more effort for less response, you need practice."
 
-I practiced. I practiced on the grocery clerk and the librarian and the woman at the dry cleaners and the man who runs the bait shop by the river. I practiced warmth like a musician practices scales — mechanically at first, then with feeling, then with the understanding that feeling and mechanism are not opposites but partners, two hands on the same wheel. By the time I was twenty-two, Mama said my coefficient was 1.3. By twenty-four, 1.5. She said it the way a coach says your time in the forty: with pride and a little bit of something else, a note I couldn't name.
-
-I can name it now. It was fear.
+I practiced. I practiced on the grocery clerk and the librarian and the woman at the dry cleaners and the man who runs the bait shop by the river. I practiced warmth like a musician practices scales — mechanically at first, then with feeling, then with the understanding that feeling and mechanism are not opposites but partners, two hands on the same wheel. By the time I was twenty-two, Mama said my coefficient was 1.3. By twenty-four, 1.5. She said it the way a coach says your time in the forty: with pride and a little bit of something else, a note I couldn't name then and still can't, not exactly, though sometimes I catch it in the way she watches me come back from the Kinseys'.
 
 ---
 
@@ -182,7 +180,7 @@ Peg was on her porch when I passed. She was reading a book and drinking tea and 
 
 "They're good neighbors."
 
-Peg nodded and went back to her book and I felt it again, that actuary gaze, the arithmetic running behind her eyes like a tape, and I thought about the boll weevil and how it crossed from Mexico into Texas in 1892 and nobody noticed for years because it was small and brown and looked like a part of the landscape and by the time anyone understood what it was doing to the cotton it had already spread to every state that grew it. The eradication took decades. Forty to a hundred and sixty miles a year, eating from the inside. Looking like nothing. Looking like a neighbor.
+Peg nodded and went back to her book and I felt it again, that actuary gaze, the arithmetic running behind her eyes like a tape, and I thought about the boll weevil and how it crossed from Mexico into Texas in 1892 and nobody noticed for years because it was small and brown and looked like part of the landscape and by the time anyone understood what it was doing to the cotton it had already spread to every state that grew it. Forty to a hundred and sixty miles a year, eating from the inside.
 
 ---
 
@@ -196,9 +194,9 @@ She was using her Darla voice. The one she uses when I am upset. The one she use
 
 She was saying it to someone named Renata. "You did so well. I'm proud of you. We're going to be fine."
 
-I stood in the hallway and listened and the words were the same and the tone was the same and the warmth was the same and I understood with perfect clarity that the warmth had a phenol coefficient. It was a dilution. It could be measured. It could be applied to Darla at one concentration and to Renata at the same concentration and it would produce the same result because it was a technique, a tested and titrated technique, and the question I had never allowed myself to ask settled into my chest like a stone finding water.
+I stood in the hallway and listened and the words were the same and the tone was the same and the warmth was the same and I understood that the warmth had a phenol coefficient. It was a dilution. It could be measured. It could be applied to Darla at one concentration and to Renata at the same concentration and it would produce the same result because it was a technique, a tested and titrated technique, and something I had never allowed myself to think about settled into my chest like a stone finding water.
 
-The question was not whether Mama loved me. The question was whether Mama's love and Mama's craft were stored in the same place in her body, produced by the same machinery, delivered through the same channel, and if they were — if love and grift ran through the same tube — then there was no test that could tell them apart. There was no phenol. There was no standard. There was only the coefficient, and the coefficient was always one, because the thing and the reference were the same thing.
+Whether Mama loved me was not the question. The question was whether love and craft were stored in the same place in her body, run through the same channel, and if they were — if love and grift ran through the same tube — then there was no test that could tell them apart.
 
 I went to my room and sat on my bed and looked at the wall and did not cry because crying is a body function and the body is an informant and I have been trained.
 
@@ -214,7 +212,7 @@ Mama made dinner that night. Pork chops and collards and cornbread from scratch,
 
 "Okay, Mama."
 
-She looked at me and her face did the thing it does — the softening, the barely-visible rearrangement of muscles around the eyes that I have spent my whole life interpreting as love and that I now understand might be love or might be the perfect performance of love and that the difference between those two things, if there is a difference, is a question I am not equipped to answer because I was raised inside the answer.
+She looked at me and her face did the thing it does — the softening, the rearrangement of muscles around the eyes that I have spent my whole life interpreting as love and that I now understand might be love or might be the performance of love and that the difference, if there is one, is not a question I'm equipped to answer.
 
 "You're quiet tonight," she said.
 
@@ -222,20 +220,22 @@ She looked at me and her face did the thing it does — the softening, the barel
 
 "Get some rest. Tomorrow we have the Forresters at ten." She touched my hair. Her hand was warm. "You're getting so good at this, Darla. Better than me. You know that?"
 
-I know that. My coefficient is higher than hers now. I have surpassed the standard. The reference has been exceeded by the sample. And the feeling that produces — the pride, the warmth, the closeness — I cannot tell you whether it is real or trained. I cannot tell you because I don't know. I cannot tell you because knowing would require standing outside the house, and I have never been outside the house. Even when I am at the Kinseys' or at the grocery store or walking down Minter Street in the evening when the elm trees arch and the church bells ring, I am inside the house. The house is not a building. The house is a practice. The house is what Mama built around me before I was old enough to see the walls, and I am inside it now, and I will be inside it tomorrow, and the day after that.
+I know that. My coefficient is higher than hers now. The reference has been exceeded by the sample. And the feeling that produces — the pride, the warmth, the closeness — I cannot tell you whether it is real or trained. I cannot tell you because knowing would require standing outside the house, and I have never been outside the house. The house is not a building. The house is what Mama built around me before I was old enough to see the walls.
 
 ---
 
-This morning I watered the geraniums while Mama made coffee. The red ones, caliente, the color of something that means business. Peg Oleander was on her porch again, reading, and she waved and I waved back and I smiled and my smile was warm and genuine and practiced and all three of those things at once, which is not a contradiction if you were raised the way I was raised.
+This morning Mama was already on the porch when I came downstairs, which was unusual. She had the Courier open to the real estate transfers and she hadn't made coffee. The geraniums needed water and she hadn't watered them.
 
-Mama brought me coffee on the porch and we sat together and she read me the obituaries. A man in Sedalia. A woman in Chillicothe. A retired couple in Moberly with no surviving children and a house that was paid off and an estate that would need managing.
+"Moberly," she said. "Retired couple. No surviving children. House is paid off."
 
-"Moberly is forty minutes," Mama said.
+"That's forty minutes."
 
-"I could make the drive."
+"I was thinking you'd go alone."
 
-"You could."
+She didn't look up from the paper. Across the street, Peg Oleander's porch was empty, her chair pushed in, her book gone. I noticed this. I noticed Mama not watering the geraniums. I noticed the coffee not made and the way she held the paper — not reading it, holding it — and I filed these things in the same place I file everything, in the notebook with the soft leather cover, in the column where I keep track of conditions.
 
-She turned the page. I drank my coffee. The geraniums were blooming. Across the street, Peg Oleander turned a page too, and I thought about how an actuary looks at a life — as a series of probabilities, each one a number, each number a prediction of when you'll stop — and I thought about how a grifter looks at a life, which is the same way, and I thought about how a daughter looks at a mother, which is the same way too, and I stayed where I was, on the porch, in the morning, in the house that is not a building but a practice, and I did not leave.
+"Okay, Mama."
 
-The coffee was good. Mama makes it strong.
+"Take the butternut squash recipe. It travels."
+
+I went inside and made the coffee myself. It was strong. I made it the way she taught me.
