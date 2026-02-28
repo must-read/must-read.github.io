@@ -7,8 +7,8 @@ authorA: "Elmore Leonard"
 authorB: "Cormac McCarthy"
 workX: "Butch Cassidy and the Sundance Kid directed by George Roy Hill"
 workY: "No Country for Old Men by Cormac McCarthy"
-wordCount: 4022
-readingTimeMinutes: 16
+wordCount: 3473
+readingTimeMinutes: 14
 tags: ["outlaws", "partnership", "pursuit", "confined-space", "1890s", "humor", "fate"]
 rating: 0
 ratingCount: 0
@@ -99,7 +99,7 @@ Dill looked at the tracks again. Toby was right. The edges were crisp, the horse
 
 "I don't think about innocent. I think about tracks that stop where tracking gets hard."
 
-Dill went back to the south wall and sat down with the Krag and the dispatch bag and the remainder of his cigarette, which had burned down to a nub that tasted of paper and intent. The old man was watching him from the corner. The old man had been there when they arrived — sitting in the same corner with a horse blanket over his legs and a clay jug of water and a look on his face like he'd been expecting someone but not necessarily them.
+Dill went back to the south wall and sat down with the Krag and the dispatch bag and the remainder of his cigarette, which had burned down to a nub that tasted of paper and spit. The old man was watching him from the corner. The old man had been there when they arrived — sitting in the same corner with a horse blanket over his legs and a clay jug of water and a look on his face like he'd been expecting someone but not necessarily them.
 
 His name was Placido. He said he'd been the station keeper for Pfeffer and then for the men after Pfeffer and then for nobody, and that he'd stayed because the station was his and leaving would be agreeing that it wasn't. He was seventy or eighty or some age past counting, Mexican or Yaqui or both, with hands like mesquite roots and eyes that had stopped being surprised by anything before Dill was born.
 
@@ -157,9 +157,9 @@ Dill looked at Toby's face in profile. The scar on his jaw, gotten from a bottle
 
 "You might."
 
-Dill looked at the dispatch bag. Eleven thousand four hundred dollars. He'd split plenty of takes before — this was the eighth job they'd pulled together, or the ninth; he'd lost count, which said something about the kind of life where armed robbery became routine enough to lose count of. The money was always the same money. It came from companies and went to men and the companies made more and the men spent what they had and the cycle went around. The money didn't mean anything except velocity. You took it and you moved and you spent it and you moved again.
+Dill looked at the dispatch bag. Eleven thousand four hundred dollars. He'd split plenty of takes before — this was the eighth job they'd pulled together, or the ninth, the kind of life where armed robbery became routine enough to lose count of. The money was always the same money. You took it and you moved and you spent it and you moved again.
 
-But this money felt different. Not the amount — he'd had bigger takes. The difference was the weight of it sitting there between his boots while the dust cloud closed and the light went bad and Toby stood at the window like a man attending a funeral he hadn't been told was his own. This money had brought the dust cloud. He'd known that on some level since they'd taken it from the express wagon outside Steins Pass, because the Consolidated Copper company did not lose payrolls. They sent someone. Not a posse, not a marshal, not the kind of pursuit you could outrun or outsmart or talk your way past. They sent someone specific.
+But this money had brought the dust cloud. He'd known that since they'd taken it from the express wagon outside Steins Pass, because Consolidated Copper did not lose payrolls. They sent someone. Not a posse, not a marshal. They sent someone specific.
 
 "You know who he is," Dill said.
 
@@ -177,11 +177,11 @@ Toby didn't answer.
 
 "Nothing spends if you're dead. Doesn't change the arithmetic of being alive."
 
-Dill wanted to laugh but couldn't locate the impulse. Howell Lant. He'd never met the man. Nobody he knew had met the man and remained in a condition to describe the meeting. What he knew was reputation, which in this territory was the same as prophecy — Lant worked for the mining companies as a recovery agent, which was a term that covered everything from negotiation to violence and leaned heavily toward the latter. He didn't chase. He followed. The distinction being that a chase implied urgency and Lant had none. He moved at the speed of certainty.
+Dill wanted to laugh but couldn't locate the impulse. Howell Lant. He'd never met the man. Nobody he knew had met the man and remained in a condition to describe the meeting. What he knew was reputation, which in this territory was the same as prophecy — Lant worked for the mining companies as a recovery agent, which meant he got back what was taken and the method was his business. He didn't chase. He followed. The distinction being that a chase implied urgency and Lant had none.
 
 There was a story about Lant and a bookkeeper in Clifton who'd embezzled three hundred dollars from the Arizona Copper Company. The bookkeeper ran to Hermosillo and took a room in a boarding house and grew a mustache and changed his name to William Freed, which was either a declaration of intent or a bad joke. Lant found him four months later. Not through investigation or informants or any of the usual machinery of pursuit but through the simple arithmetic of a man who understood that three hundred dollars in Hermosillo would last exactly four months at the rate a frightened bookkeeper spends, and that a frightened bookkeeper with an empty wallet will do the one thing he knows how to do. Lant waited outside the only bank in Hermosillo that did business in American currency. The bookkeeper walked in on a Tuesday morning. He did not walk out.
 
-Dill had heard that story from a freighter in Benson who'd heard it from a deputy in Nogales who claimed to have helped move the body. It might have been true. It might not have been. It didn't matter. What mattered was that the story existed, that people told it to each other in the tone of voice normally reserved for weather disasters and acts of God, and that nobody who told it ever suggested the bookkeeper could have done anything different. The story ran on rails. You got on at the beginning and you rode to the end and the end was the end.
+Dill had heard that story from a freighter in Benson who'd heard it from a deputy in Nogales who claimed to have helped move the body. It might have been true. It didn't matter. Nobody who told it ever suggested the bookkeeper could have done anything different.
 
 "How long have you known?" Dill said.
 
@@ -253,7 +253,7 @@ Dill looked at the dispatch bag and then at the window. The dust was closer — 
 
 "Dill." Toby's voice had changed. Not louder — lower. The voice of a man setting something down. "Lant tracked the Emery brothers from Bisbee to Nogales to a ranch outside Cananea. It took him three weeks. He found them and he killed them and he brought the money back and the company paid him his fee and he went home. He didn't negotiate. He didn't arrest them. He didn't give them a chance to explain or lie or bargain. That's who's out there."
 
-Dill sat down. The Krag was cold across his knees. The cigarette was dead. The room was doing what rooms do when the light goes — contracting, becoming more itself, the walls closer and the ceiling lower and the air thicker with the particular density of a space that has been occupied and abandoned and occupied again by men who all, eventually, left or were carried out.
+Dill sat down. The Krag was cold across his knees. The cigarette was dead. The room was contracting as the light went, the walls closer and the ceiling lower, the way rooms get when you can't leave them.
 
 "I was going to buy a place," Dill said. "Outside Prescott. Nothing fancy. Forty acres, some scrub cattle, a house with a porch where I could sit and watch the road and not have to worry about who was on it."
 
@@ -265,7 +265,7 @@ Dill sat down. The Krag was cold across his knees. The cigarette was dead. The r
 
 "And you let me talk about it knowing this was coming."
 
-Toby came away from the window and sat down across from him, their boots almost touching, the dispatch bag between them like a body at a wake. The room was going dark now. The window's rectangle of light had gone from copper to purple and was narrowing toward black. Outside, the dust had settled. The rider had stopped.
+Toby came away from the window and sat down across from him, their boots almost touching, the dispatch bag between them. The window's rectangle of light had gone from copper to purple and was narrowing toward black. The dust had settled. The rider had stopped.
 
 "The porch was a good plan," Toby said.
 
@@ -275,9 +275,9 @@ Toby came away from the window and sat down across from him, their boots almost 
 
 "It's not the same thing."
 
-"Every plan you've ever had was a story you told yourself until it came true or didn't. The difference between you and me is you believe the stories while you're telling them."
+"With you it is."
 
-Placido was pouring water from his jug into a tin cup, his hands steady with the steadiness of a man who had outlived everything that might have made them shake. He offered the cup to Dill. Dill took it and drank and the water tasted of clay and iron and time — the taste of water that had been sitting in a jug in a room in a desert for long enough to become part of the room.
+Placido was pouring water from his jug into a tin cup, his hands steady. He offered the cup to Dill. Dill took it and drank and the water tasted of clay and iron and the jug it had been sitting in.
 
 "I could still talk to him," Dill said.
 
@@ -297,9 +297,9 @@ Placido was pouring water from his jug into a tin cup, his hands steady with the
 
 Dill picked up the dispatch bag. Felt the weight. Eleven thousand four hundred dollars. A house outside Prescott. A porch. Thumb Butte going purple at sunset.
 
-He opened the trapdoor — Placido had to show him the iron ring hidden under the blanket's fringe — and looked down into the cellar. It was cool and dark and smelled of old potatoes and packed earth and the particular loneliness of underground spaces. Eight feet deep. Rock walls. Nothing in it except shadows.
+He opened the trapdoor — Placido had to show him the iron ring hidden under the blanket's fringe — and looked down into the cellar. It was cool and dark and smelled of old potatoes and packed earth. Eight feet deep. Rock walls. Nothing in it except shadows.
 
-He dropped the bag in. It hit the bottom with the sound of coins settling, which was the sound of a future landing on stone. He closed the trapdoor and spread the blanket back over it, smoothing the edges with the care of a man making a bed he wouldn't sleep in. The blanket was old enough that it had faded from whatever it once was into a general brownness that matched the floor, and when he stepped back and looked at it there was nothing to suggest that anything lay beneath it except more packed earth.
+He dropped the bag in. It hit the bottom with a sound like gravel shifting. He closed the trapdoor and spread the blanket back over it, smoothing the edges with the care of a man making a bed he wouldn't sleep in. The blanket was old enough that it had faded from whatever it once was into a general brownness that matched the floor, and when he stepped back and looked at it there was nothing to suggest that anything lay beneath it except more packed earth.
 
 Placido watched all of this without comment. His expression hadn't changed since they'd arrived — the look of a man in a room he considered his own, observing guests who had not been invited and would not be staying long.
 
@@ -319,28 +319,24 @@ Placido looked at the blanket on the floor and then at Dill and then at the sout
 
 "He doesn't need to believe it. He just needs to come through the door."
 
-Toby checked his revolver. Dill checked the Krag. Placido sat in his corner with his blanket and his water jug and the accumulated patience of thirty-two years spent waiting for customers who never came.
+Toby checked his revolver. Dill checked the Krag. Placido sat in his corner with his blanket and his water jug.
 
-Outside, the last light died. The desert went black in the way only the desert goes black — total, lunar, the stars coming up like someone had poked holes in the sky to let the cold through. The rider was out there. Dill couldn't see him but he could feel him the way you feel weather changing — a pressure drop, a tightening in the air, something approaching that hasn't arrived but has made arriving inevitable.
+Outside, the last light died. The desert went black — total, lunar, the stars coming up like someone had poked holes in the sky to let the cold through. The rider was out there. Dill couldn't see him but he could feel him the way you feel weather changing, a pressure drop, something in the air that had no name but had weight.
 
-"Tell me about Prescott," Toby said.
+"You still thinking about Prescott?" Toby said.
 
-"What?"
+"I wasn't, no."
 
-"The house. The porch. Tell me about it."
+"Tell me about it."
 
 "You've heard it."
 
-"Tell me again."
+"I know."
 
-Dill looked at his partner across the dark room. He could barely see Toby's face — just the shape of it, the scar on the jaw catching whatever trace of starlight came through the east window, the rest in shadow. The door was closed. The money was in the ground. The Krag was loaded and the revolver was loaded and none of it mattered against what was coming, not really, not in any way that would change the shape of the night. But Toby had asked.
+Dill could barely see Toby's face — just the shape of it, the scar catching whatever starlight came through the east window.
 
 "Forty acres," Dill said. "Maybe fifty. There's a creek bed that runs wet in spring. The house is nothing — two rooms, a cookstove, walls that need work. But the porch. The porch faces west. And every evening you can sit there with a cup of something and watch Thumb Butte turn colors — it goes through about eight of them between six and dark. Orange, then red, then something that's not quite purple, then—"
 
-He kept talking. The room was dark and the rider was out there and the money was in the ground and the door that had never been forced stood between them and whatever the morning would bring. The room would survive. It had survived sixty years and the men who'd built it and the men who'd passed through it and it would survive these two as well. The adobe was already forgetting them.
+He kept talking. He described the cattle — just a few head, scrub longhorns, nothing worth rustling. He described the creek and the cottonwoods along it and the way cottonwood leaves sound in wind, like a woman shuffling cards. He described the view and the weather and the particular quality of afternoon light in Yavapai County, which he had never actually seen but could describe with the precision of a man who had built the whole place in his head over three days of riding toward the thing that would keep him from ever reaching it.
 
-But Dill kept talking. He described the cattle — just a few head, scrub longhorns, nothing worth rustling. He described the creek and the cottonwoods along it and the way cottonwood leaves sound in wind, like a woman shuffling cards. He described the view and the weather and the particular quality of afternoon light in Yavapai County, which he had never actually seen but could describe with the precision of a man who had built the whole place in his head over three days of riding toward the thing that would keep him from ever reaching it.
-
-Toby listened. Placido listened, or slept, or waited — it was impossible to tell which, and it didn't matter. What mattered was the voice going on in the dark room, filling the space between the walls with a future that wasn't going to happen but was, for the duration of its telling, as real as the gun across the speaker's knees.
-
-Outside, the rider sat his horse and the horse stood patient and the night spread over the Peloncillo gap and the relay station held its ground the way it had always held its ground, indifferent to the men inside it, indifferent to the man outside, old enough to know that all of this — the money, the pursuit, the partnership, the jokes, the silences — was temporary, and that the walls would still be standing when the temporary was done.
+Toby listened. Placido listened, or slept. Outside, the rider sat his horse and the horse stood patient and the night spread over the Peloncillo gap and Dill kept talking because it was the one thing he could do and because Toby had asked and because the silence, if he let it in, would be the shape of the room they were actually in.
