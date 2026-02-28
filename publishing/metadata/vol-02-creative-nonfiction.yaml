@@ -1,0 +1,34 @@
+volume: 2
+genre: creative-nonfiction
+genreDisplay: Creative Nonfiction
+subtitle: "Testimony of the Actual and the Almost True"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC029000  # FICTION / Short Stories (single author)
+bisac_secondary: LCO010000  # LITERARY COLLECTIONS / Essays
+keywords:
+  - creative nonfiction anthology
+  - literary essay collection
+  - memoir short stories
+  - nature writing fiction
+  - personal essay anthology
+  - combination formula writing
+  - contemporary nonfiction prose
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works that inhabit the porous border between fact and
+  invention, each generated through a combination formula pairing two
+  authorial sensibilities with two foundational texts. These essays,
+  memoirs, and lyric investigations carry the weight of testimony without
+  the safety net of verifiability — prose that insists the almost-true
+  can be the most honest thing in the room.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 2
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

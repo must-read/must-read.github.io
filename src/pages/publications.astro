@@ -1,0 +1,250 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works', ({ data }) => data.status === 'published');
+
+// Compute per-genre stats
+const genreStats: Record<string, { count: number; minRating: number; maxRating: number; totalWords: number }> = {};
+for (const w of allWorks) {
+  const g = w.data.genre;
+  if (!genreStats[g]) genreStats[g] = { count: 0, minRating: 5, maxRating: 0, totalWords: 0 };
+  genreStats[g].count++;
+  genreStats[g].minRating = Math.min(genreStats[g].minRating, w.data.rating);
+  genreStats[g].maxRating = Math.max(genreStats[g].maxRating, w.data.rating);
+  genreStats[g].totalWords += w.data.wordCount;
+}
+
+// Volume data
+const volumes = [
+  { vol: 1, genre: 'adventure', name: 'Adventure', subtitle: 'Horizons of Salt, Powder, and Unspent Nerve' },
+  { vol: 2, genre: 'creative-nonfiction', name: 'Creative Nonfiction', subtitle: 'Testimony of the Actual and the Almost True' },
+  { vol: 3, genre: 'crime-noir', name: 'Crime Noir', subtitle: 'Confessions in Smoke, Neon, and Borrowed Time' },
+  { vol: 4, genre: 'dystopian', name: 'Dystopian', subtitle: 'Blueprints of the Permissible and the Erased' },
+  { vol: 5, genre: 'fantasy', name: 'Fantasy', subtitle: 'Kingdoms of Ink, Iron, and Impossible Light' },
+  { vol: 6, genre: 'gothic-fiction', name: 'Gothic Fiction', subtitle: 'Houses That Remember What the Living Forget' },
+  { vol: 7, genre: 'historical-fiction', name: 'Historical Fiction', subtitle: 'The Weight of Centuries in a Single Room' },
+  { vol: 8, genre: 'horror', name: 'Horror', subtitle: 'What Watches from the Corner of the Familiar' },
+  { vol: 9, genre: 'humor-satire', name: 'Humor & Satire', subtitle: 'The Precision of Absurdity, Lovingly Applied' },
+  { vol: 10, genre: 'literary-fiction', name: 'Literary Fiction', subtitle: 'Sentences That Know More Than Their Speakers' },
+  { vol: 11, genre: 'magical-realism', name: 'Magical Realism', subtitle: 'Where the Ordinary Insists on Being Otherwise' },
+  { vol: 12, genre: 'mystery-thriller', name: 'Mystery & Thriller', subtitle: 'The Architecture of Suspicion and Delayed Truth' },
+  { vol: 13, genre: 'philosophical-fiction', name: 'Philosophical Fiction', subtitle: 'Premises the Mind Cannot Refuse to Enter' },
+  { vol: 14, genre: 'romance', name: 'Romance', subtitle: 'The Calculus of Longing and the Algebra of Need' },
+  { vol: 15, genre: 'science-fiction', name: 'Science Fiction', subtitle: 'Futures Measured in Light-Years and Human Error' },
+  { vol: 16, genre: 'western', name: 'Western', subtitle: 'Dust, Distance, and the Morality of Open Ground' },
+];
+---
+
+<BaseLayout title="Publications" description="Sixteen volumes of original fiction and creative nonfiction. Print, ebook, and audio.">
+  <section class="pub-hero">
+    <div class="container">
+      <span class="section-label">Publications</span>
+      <h1>The Must Read Library</h1>
+      <p class="pub-hero__desc">Sixteen volumes of original fiction and creative nonfiction. Every story with its full apparatus — the combination formula, the author meeting, every reader review. Available in print, ebook, and audio.</p>
+      <p class="pub-hero__note">DRM-free. Read on any device.</p>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="volume-grid">
+      {volumes.map((v) => {
+        const stats = genreStats[v.genre];
+        return (
+          <div class="volume-card">
+            <div class="volume-card__number">Vol. {v.vol}</div>
+            <h2 class="volume-card__genre">{v.name}</h2>
+            <p class="volume-card__subtitle">{v.subtitle}</p>
+            {stats && (
+              <div class="volume-card__stats">
+                <span>{stats.count} {stats.count === 1 ? 'story' : 'stories'}</span>
+                <span class="volume-card__dot">&middot;</span>
+                <span>{stats.minRating.toFixed(1)}&ndash;{stats.maxRating.toFixed(1)} &#9733;</span>
+              </div>
+            )}
+            <div class="volume-card__formats">
+              <span class="format-badge">Ebook</span>
+              <span class="format-badge">Print</span>
+              <span class="format-badge">Audio</span>
+            </div>
+            <div class="volume-card__links">
+              <span class="volume-card__coming">Coming Soon</span>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+
+  <section class="pub-info container">
+    <h2>About These Editions</h2>
+    <p>Each volume contains every published work in its genre, sorted from highest to lowest rated. Every story includes its full reading apparatus: the combination formula that seeded it, the complete author meeting that explored its themes, and every blind reader review.</p>
+    <p>The ebook editions are DRM-free EPUB files, readable on any device. Print editions are 6"&times;9" trade paperbacks. Audio editions are narrated by a single voice, with the author meetings and selected reviews included as supplementary material.</p>
+  </section>
+</BaseLayout>
+
+<style>
+  .pub-hero {
+    padding: var(--space-3xl) 0;
+    text-align: center;
+  }
+
+  .pub-hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 1.5rem + 2vw, 3rem);
+    color: var(--color-text);
+    margin-top: var(--space-xs);
+    margin-bottom: var(--space-lg);
+  }
+
+  .pub-hero__desc {
+    max-width: 55ch;
+    margin: 0 auto;
+    font-family: var(--font-reading);
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
+  }
+
+  .pub-hero__note {
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-accent);
+    margin-top: var(--space-md);
+  }
+
+  /* Volume Grid */
+  .volume-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+    margin-bottom: var(--space-3xl);
+  }
+
+  @media (min-width: 768px) {
+    .volume-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .volume-card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    transition: all var(--duration-normal) var(--ease-out);
+  }
+
+  .volume-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--color-accent);
+    box-shadow: var(--shadow-md);
+  }
+
+  .volume-card__number {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-accent);
+  }
+
+  .volume-card__genre {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin-top: var(--space-xs);
+    margin-bottom: var(--space-xs);
+  }
+
+  .volume-card__subtitle {
+    font-family: var(--font-reading);
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+    margin-bottom: var(--space-md);
+  }
+
+  .volume-card__stats {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-md);
+  }
+
+  .volume-card__dot {
+    color: var(--color-text-secondary);
+  }
+
+  .volume-card__formats {
+    display: flex;
+    gap: var(--space-sm);
+    flex-wrap: wrap;
+    margin-bottom: var(--space-md);
+  }
+
+  .format-badge {
+    display: inline-block;
+    padding: 0.2rem 0.65rem;
+    background: var(--color-accent-subtle);
+    color: var(--color-accent);
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    font-weight: 500;
+    border-radius: var(--radius-pill);
+  }
+
+  .volume-card__links {
+    margin-top: var(--space-xs);
+  }
+
+  .volume-card__coming {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--color-text-secondary);
+  }
+
+  /* About These Editions */
+  .pub-info {
+    max-width: 65ch;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: var(--space-3xl);
+    margin-bottom: var(--space-3xl);
+  }
+
+  .pub-info h2 {
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    color: var(--color-text);
+    margin-bottom: var(--space-md);
+  }
+
+  .pub-info h2::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: var(--color-accent);
+    margin-bottom: 0.75rem;
+  }
+
+  .pub-info p {
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-secondary);
+  }
+
+  .pub-info p + p {
+    margin-top: var(--space-md);
+  }
+</style>

@@ -1,0 +1,34 @@
+volume: 5
+genre: fantasy
+genreDisplay: Fantasy
+subtitle: "Kingdoms of Ink, Iron, and Impossible Light"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC009000  # FICTION / Fantasy / General
+bisac_secondary: FIC009020  # FICTION / Fantasy / Short Stories
+keywords:
+  - fantasy fiction anthology
+  - literary fantasy stories
+  - dark fantasy collection
+  - portal fantasy short fiction
+  - grimdark fantasy anthology
+  - combination formula fiction
+  - original fantasy writing
+price_ebook: 4.99
+price_print: 16.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Ten original works of fantasy, each forged through a combination
+  formula that alloys two authorial voices with two landmark texts to
+  produce kingdoms no single imagination could have founded. These stories
+  range from grimdark battlefields to portal thresholds where the light
+  bends wrong — fantasy that earns its impossibilities through the iron
+  weight of consequence.
+storyCount: 10
+seriesName: "Must Read"
+seriesPosition: 5
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

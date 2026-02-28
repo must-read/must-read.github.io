@@ -1,0 +1,34 @@
+volume: 7
+genre: historical-fiction
+genreDisplay: Historical Fiction
+subtitle: "The Weight of Centuries in a Single Room"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC014000  # FICTION / Historical / General
+bisac_secondary: FIC029000  # FICTION / Short Stories (single author)
+keywords:
+  - historical fiction anthology
+  - literary historical stories
+  - biographical fiction collection
+  - historical romance short fiction
+  - period fiction anthology
+  - combination formula fiction
+  - original historical writing
+price_ebook: 4.99
+price_print: 16.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of historical fiction, each constructed through a
+  combination formula that grafts two authorial voices onto two structural
+  rootstocks to grow narratives no archive could have predicted. These
+  stories compress centuries into single rooms — places where the weight
+  of what happened presses against the walls and the characters breathe
+  air thick with decisions made by the dead.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 7
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

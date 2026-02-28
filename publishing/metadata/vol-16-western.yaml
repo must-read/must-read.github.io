@@ -1,0 +1,34 @@
+volume: 16
+genre: western
+genreDisplay: Western
+subtitle: "Dust, Distance, and the Morality of Open Ground"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC033000  # FICTION / Westerns
+bisac_secondary: FIC029000  # FICTION / Short Stories (single author)
+keywords:
+  - western fiction anthology
+  - literary western stories
+  - frontier fiction collection
+  - border western short fiction
+  - classic western anthology
+  - combination formula fiction
+  - original western writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of western fiction, each drawn through a combination
+  formula that rides two authorial voices across two structural landscapes
+  to reach territory neither could have mapped alone. These stories
+  understand that the West was never empty — it was full of dust,
+  distance, and moral questions that open ground makes harder, not
+  easier, to avoid.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 16
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

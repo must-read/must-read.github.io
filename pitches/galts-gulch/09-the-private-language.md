@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/galts-gulch-001/"
 sourceType: "web-novel"
-status: "pitch"
+status: "selected"
 priority: 1
 authorA: "Samuel Beckett"
 authorB: "Ted Chiang"

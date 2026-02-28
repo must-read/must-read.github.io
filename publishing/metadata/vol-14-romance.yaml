@@ -1,0 +1,34 @@
+volume: 14
+genre: romance
+genreDisplay: Romance
+subtitle: "The Calculus of Longing and the Algebra of Need"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC027000  # FICTION / Romance / General
+bisac_secondary: FIC027020  # FICTION / Romance / Contemporary
+keywords:
+  - romance fiction anthology
+  - literary romance stories
+  - contemporary romance collection
+  - romantic suspense short fiction
+  - love stories anthology
+  - combination formula fiction
+  - original romance writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of romance, each calculated through a combination
+  formula that pairs two authorial hearts with two structural longings
+  to produce love stories that resist the easy arithmetic of happily
+  ever after. These stories understand that desire has its own
+  mathematics — a calculus of longing where the variables are human
+  and the solutions, when they arrive, never quite balance.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 14
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

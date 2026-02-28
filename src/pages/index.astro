@@ -54,6 +54,19 @@ for (const [path, mod] of Object.entries(genreImageModules)) {
     </div>
   </section>
 
+  <!-- Publications Banner -->
+  <section class="pub-banner">
+    <div class="pub-banner__inner">
+      <div class="pub-banner__text">
+        <span class="pub-banner__label">Now Available</span>
+        <span class="pub-banner__title">16 Volumes. Print, Ebook, and Audio.</span>
+      </div>
+      <a href={`${import.meta.env.BASE_URL}publications/`} class="pub-banner__link">
+        Browse Volumes <span aria-hidden="true">&rarr;</span>
+      </a>
+    </div>
+  </section>
+
   <div class="container">
     <!-- Top Rated -->
     {topRated.length > 0 && (
@@ -406,5 +419,76 @@ for (const [path, mod] of Object.entries(genreImageModules)) {
 
   .home-section__header h2 {
     margin-top: var(--space-xs);
+  }
+
+  /* Publications Banner */
+  .pub-banner {
+    max-width: 1200px;
+    margin: 0 auto var(--space-2xl);
+    padding: 0 var(--space-lg);
+  }
+
+  .pub-banner__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-lg);
+    padding: var(--space-lg) var(--space-xl);
+    background: linear-gradient(135deg, var(--color-accent-subtle), color-mix(in srgb, var(--color-accent) 6%, transparent));
+    border: 1px solid color-mix(in srgb, var(--color-accent) 20%, transparent);
+    border-radius: var(--radius-lg);
+  }
+
+  .pub-banner__text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .pub-banner__label {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-accent);
+  }
+
+  .pub-banner__title {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .pub-banner__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1.25rem;
+    background: var(--color-accent);
+    color: #fff;
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-weight: 600;
+    border-radius: var(--radius-pill);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: all var(--duration-normal) var(--ease-out);
+  }
+
+  .pub-banner__link:hover {
+    background: var(--color-accent-hover);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  @media (max-width: 640px) {
+    .pub-banner__inner {
+      flex-direction: column;
+      text-align: center;
+    }
   }
 </style>

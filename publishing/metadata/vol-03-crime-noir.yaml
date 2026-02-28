@@ -1,0 +1,34 @@
+volume: 3
+genre: crime-noir
+genreDisplay: Crime Noir
+subtitle: "Confessions in Smoke, Neon, and Borrowed Time"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC022000  # FICTION / Mystery & Detective / General
+bisac_secondary: FIC050000  # FICTION / Crime
+keywords:
+  - crime noir fiction anthology
+  - noir short stories
+  - hardboiled detective fiction
+  - literary crime collection
+  - neo-noir anthology
+  - combination formula fiction
+  - dark crime writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of crime noir, each constructed from a combination
+  formula that crosses two literary voices with two canonical works to
+  produce something neither source could have authored alone. These
+  stories traffic in borrowed time and bad decisions — confessions offered
+  to bartenders, detectives, and empty rooms where the neon never quite
+  reaches the corners.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 3
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

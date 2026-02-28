@@ -1,0 +1,34 @@
+volume: 13
+genre: philosophical-fiction
+genreDisplay: Philosophical Fiction
+subtitle: "Premises the Mind Cannot Refuse to Enter"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC040000  # FICTION / Alternative History
+bisac_secondary: FIC019000  # FICTION / Literary
+keywords:
+  - philosophical fiction anthology
+  - existentialist short stories
+  - thought experiment fiction
+  - kafkaesque fiction collection
+  - literary philosophical writing
+  - combination formula fiction
+  - ideas-driven fiction anthology
+price_ebook: 4.99
+price_print: 16.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Ten original works of philosophical fiction, each derived through a
+  combination formula that entangles two authorial philosophies with two
+  structural premises to produce narratives that think as hard as they
+  feel. These stories are premises the mind cannot refuse to enter —
+  thought experiments that forgot they were experiments and developed
+  heartbeats, regrets, and the stubborn need to be understood.
+storyCount: 10
+seriesName: "Must Read"
+seriesPosition: 13
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

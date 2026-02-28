@@ -1,0 +1,34 @@
+volume: 8
+genre: horror
+genreDisplay: Horror
+subtitle: "What Watches from the Corner of the Familiar"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC015000  # FICTION / Horror
+bisac_secondary: FIC015020  # FICTION / Horror / Short Stories
+keywords:
+  - horror fiction anthology
+  - literary horror stories
+  - psychological horror collection
+  - cosmic horror short fiction
+  - southern gothic horror
+  - combination formula fiction
+  - original horror writing
+price_ebook: 4.99
+price_print: 14.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Ten original works of horror, each spawned from a combination formula
+  that crosses two authorial bloodlines with two structural hosts to
+  produce dread no single tradition could have cultivated. These stories
+  find their terror not in the extraordinary but in the familiar gone
+  slightly wrong — the corner of a room that watches back, the sound
+  a house makes when it believes itself unoccupied.
+storyCount: 10
+seriesName: "Must Read"
+seriesPosition: 8
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

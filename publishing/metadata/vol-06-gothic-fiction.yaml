@@ -1,0 +1,35 @@
+volume: 6
+genre: gothic-fiction
+genreDisplay: Gothic Fiction
+subtitle: "Houses That Remember What the Living Forget"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC027000  # FICTION / Romance / Gothic
+bisac_secondary: FIC024000  # FICTION / Occult & Supernatural
+keywords:
+  - gothic fiction anthology
+  - literary gothic stories
+  - southern gothic collection
+  - dark fiction short stories
+  - victorian gothic anthology
+  - combination formula fiction
+  - atmospheric gothic writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Ten original gothic works, each raised from a combination formula that
+  pairs two literary sensibilities with two structural inheritances to
+  build houses of prose that settle unevenly into their foundations.
+  Victorian manors, postcolonial estates, and southern homesteads share
+  the same affliction here — walls that absorb what their inhabitants
+  refuse to speak, and corridors that remember what the living have
+  trained themselves to forget.
+storyCount: 10
+seriesName: "Must Read"
+seriesPosition: 6
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

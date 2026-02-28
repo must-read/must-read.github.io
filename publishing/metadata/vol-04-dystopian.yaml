@@ -1,0 +1,35 @@
+volume: 4
+genre: dystopian
+genreDisplay: Dystopian
+subtitle: "Blueprints of the Permissible and the Erased"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC028030  # FICTION / Science Fiction / Apocalyptic & Post-Apocalyptic
+bisac_secondary: FIC055000  # FICTION / Dystopian
+keywords:
+  - dystopian fiction anthology
+  - dystopian short stories
+  - speculative fiction collection
+  - totalitarian fiction
+  - bureaucratic dystopia stories
+  - combination formula fiction
+  - literary dystopian writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original dystopian works, each assembled through a combination
+  formula that merges two authorial temperaments with two structural
+  blueprints to map societies that have perfected the art of erasure.
+  From bureaucratic labyrinths to techno-surveillance states, these
+  stories chart the territory between compliance and disappearance —
+  where the permissible shrinks until standing still becomes an act
+  of rebellion.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 4
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

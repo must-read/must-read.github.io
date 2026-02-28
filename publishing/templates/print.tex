@@ -1,0 +1,355 @@
+% ==========================================================================
+% Must Read — XeLaTeX Print Template (for pandoc)
+% Literary Amber design system adapted for 6"x9" print
+% ==========================================================================
+
+\documentclass[11pt,twoside,openany]{book}
+
+% --------------------------------------------------------------------------
+% Geometry: 6"x9" trim, asymmetric margins for binding
+% --------------------------------------------------------------------------
+\usepackage[
+  paperwidth=6in,
+  paperheight=9in,
+  outer=0.75in,
+  inner=0.875in,
+  top=0.75in,
+  bottom=0.875in,
+  includeheadfoot
+]{geometry}
+
+% --------------------------------------------------------------------------
+% Fonts (XeLaTeX via fontspec)
+% --------------------------------------------------------------------------
+\usepackage{fontspec}
+
+% Body font: Palatino (macOS system font)
+\setmainfont{Palatino}[
+  Ligatures=TeX
+]
+
+% Display font: Baskerville (macOS system font)
+\newfontfamily\displayfont{Baskerville}[Ligatures=TeX]
+
+% Symbol font fallback for any Unicode glyphs missing from Palatino
+\newfontfamily\symbolsfont{Apple Symbols}
+\newXeTeXintercharclass\symbolclass
+\XeTeXcharclass "25CF \symbolclass  % ● BLACK CIRCLE (filled rating)
+\XeTeXcharclass "25CB \symbolclass  % ○ WHITE CIRCLE (empty rating)
+\XeTeXcharclass "2605 \symbolclass  % ★ BLACK STAR (fallback)
+\XeTeXcharclass "2606 \symbolclass  % ☆ WHITE STAR (fallback)
+\XeTeXinterchartokenstate=1
+\XeTeXinterchartoks 0 \symbolclass = {\begingroup\symbolsfont\color{goldenrod}}
+\XeTeXinterchartoks \symbolclass 0 = {\endgroup}
+\XeTeXinterchartoks 255 \symbolclass = {\begingroup\symbolsfont\color{goldenrod}}
+\XeTeXinterchartoks \symbolclass 255 = {\endgroup}
+\XeTeXinterchartoks \symbolclass \symbolclass = {}
+
+% Monospace font
+\setmonofont{Menlo}[Scale=MatchLowercase]
+
+% --------------------------------------------------------------------------
+% Colors
+% --------------------------------------------------------------------------
+\usepackage[dvipsnames,svgnames]{xcolor}
+
+\definecolor{goldenrod}{rgb}{0.722, 0.525, 0.043}
+\definecolor{espresso}{rgb}{0.110, 0.078, 0.063}
+\definecolor{cream}{rgb}{0.980, 0.969, 0.949}
+\definecolor{muted}{rgb}{0.420, 0.357, 0.302}
+
+% --------------------------------------------------------------------------
+% Spacing
+% --------------------------------------------------------------------------
+\usepackage{setspace}
+\setstretch{1.45}
+
+% Paragraph formatting: indent, no inter-paragraph space
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+
+% --------------------------------------------------------------------------
+% Microtype (improved line breaks, spacing, kerning)
+% --------------------------------------------------------------------------
+\usepackage{microtype}
+
+% --------------------------------------------------------------------------
+% Drop Caps (manual approach — no lettrine package needed)
+% --------------------------------------------------------------------------
+\newcommand{\dropcap}[1]{%
+  {\displayfont\color{goldenrod}\fontsize{32pt}{32pt}\selectfont #1}%
+}
+
+% --------------------------------------------------------------------------
+% Headers and Footers
+% --------------------------------------------------------------------------
+\usepackage{fancyhdr}
+
+% Main page style
+\fancypagestyle{main}{%
+  \fancyhf{}
+  \fancyhead[LE]{\small\textsc{\textcolor{muted}{$if(genre)$$genre$$else$Must Read$endif$}}}
+  \fancyhead[RO]{\small\textit{\textcolor{muted}{\nouppercase{\leftmark}}}}
+  \fancyfoot[C]{\small\textcolor{muted}{\thepage}}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Plain page style (chapter openers)
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\textcolor{muted}{\thepage}}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\pagestyle{main}
+
+% --------------------------------------------------------------------------
+% Chapter and Section Formatting (plain LaTeX, no titlesec)
+% --------------------------------------------------------------------------
+
+% Remove chapter/section numbering
+\setcounter{secnumdepth}{-1}
+
+% Redefine chapter style: centered display font with goldenrod rule
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{2em}%
+  {\centering\displayfont\LARGE #1\par\nobreak}%
+  \vspace{0.3em}%
+  {\centering\textcolor{goldenrod}{\rule{4cm}{0.4pt}}\par}%
+  \vspace{1.5em}%
+}
+\def\@makeschapterhead#1{%
+  \vspace*{2em}%
+  {\centering\displayfont\LARGE #1\par\nobreak}%
+  \vspace{0.3em}%
+  {\centering\textcolor{goldenrod}{\rule{4cm}{0.4pt}}\par}%
+  \vspace{1.5em}%
+}
+\makeatother
+
+% Redefine section: display font, small caps, goldenrod
+\renewcommand{\section}[1]{%
+  \vspace{2em}%
+  {\displayfont\large\scshape\color{goldenrod}#1\par\nobreak}%
+  \vspace{0.8em}%
+}
+
+% Remove chapter numbering from headers
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+% No indent on first paragraph after headings
+\usepackage{indentfirst}
+% Actually we want NO indent after headings, so override:
+\makeatletter
+\let\@afterindenttrue\@afterindentfalse
+\makeatother
+
+% --------------------------------------------------------------------------
+% Table of Contents (plain LaTeX, no tocloft)
+% --------------------------------------------------------------------------
+\renewcommand{\contentsname}{Contents}
+
+% --------------------------------------------------------------------------
+% Blockquotes (plain LaTeX, no mdframed)
+% --------------------------------------------------------------------------
+\renewenvironment{quote}
+  {\list{}{\leftmargin=1.5em\rightmargin=0em}\item\relax\itshape}
+  {\endlist}
+
+% --------------------------------------------------------------------------
+% Horizontal Rules (Section Breaks)
+% --------------------------------------------------------------------------
+\renewcommand{\hrulefill}{%
+  \leavevmode\leaders\hbox to 1pt{\textcolor{goldenrod}{\rule{1pt}{0.4pt}}}\hfill\kern0pt%
+}
+
+% Redefine \rule used in markdown-converted horizontal rules
+\let\oldrule\rule
+\newcommand{\sectionbreak}{%
+  \vspace{1.5em}%
+  \begin{center}%
+    \textcolor{goldenrod}{\oldrule{0.3\textwidth}{0.4pt}}%
+  \end{center}%
+  \vspace{1.5em}%
+}
+
+% --------------------------------------------------------------------------
+% Hyperlinks (PDF bookmarks, no colored boxes)
+% --------------------------------------------------------------------------
+\usepackage[
+  hidelinks,
+  pdfauthor={Must Read Press},
+  pdftitle={$if(title)$$title$$endif$},
+  pdfsubject={$if(subtitle)$$subtitle$$endif$},
+  pdfkeywords={fiction, anthology, literary, combination formula},
+  bookmarksnumbered=false,
+  bookmarksopen=true
+]{hyperref}
+
+% --------------------------------------------------------------------------
+% Additional Packages
+% --------------------------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{calc}
+\usepackage{etoolbox}
+
+% Tightlist (pandoc generates this)
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
+
+% Strikethrough support (pandoc uses \st{} for ~~text~~)
+% Simple fallback without soul package: render as gray text
+\providecommand{\st}[1]{\textcolor{muted}{#1}}
+
+% Math symbols (for checkboxes: \boxtimes, \square, etc.)
+\usepackage{amssymb}
+
+% Counter fallback (pandoc sometimes generates 'none' counter for tables)
+\makeatletter
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% --------------------------------------------------------------------------
+% Custom Commands
+% --------------------------------------------------------------------------
+
+% Goldenrod decorative rule
+\newcommand{\decorule}{%
+  \begin{center}%
+    \textcolor{goldenrod}{\oldrule{4cm}{0.4pt}}%
+  \end{center}%
+}
+
+% Drop cap command (defined above in Drop Caps section)
+
+% Subgenre label above story title
+\newcommand{\subgenrelabel}[1]{%
+  \begin{center}%
+    {\displayfont\small\addfontfeatures{LetterSpace=15}\textcolor{goldenrod}{\MakeUppercase{#1}}}%
+  \end{center}%
+  \vspace{-0.5em}%
+}
+
+% Review block
+\newcommand{\reviewstart}{%
+  \vspace{0.5em}%
+  \noindent\textcolor{goldenrod}{\oldrule{\textwidth}{0.4pt}}%
+  \vspace{0.3em}%
+  \noindent%
+}
+
+\newcommand{\reviewend}{%
+  \vspace{0.5em}%
+}
+
+% Star rating display
+\newcommand{\stars}[1]{%
+  \textcolor{goldenrod}{#1}%
+}
+
+% Formula element label
+\newcommand{\formulalabel}[1]{%
+  \textbf{\textcolor{goldenrod}{#1}}%
+}
+
+% --------------------------------------------------------------------------
+% Document
+% --------------------------------------------------------------------------
+\begin{document}
+
+% --- Title Page ---
+\begin{titlepage}
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \begin{center}
+    {\displayfont\huge\textcolor{espresso}{$if(title)$$title$$endif$}}
+
+    \vspace{1em}
+    \textcolor{goldenrod}{\oldrule{5cm}{0.4pt}}
+
+    $if(subtitle)$
+    \vspace{1em}
+    {\displayfont\large\textcolor{muted}{\textit{$subtitle$}}}
+    $endif$
+
+    $if(volume)$
+    \vspace{0.8em}
+    {\small\textcolor{muted}{Volume $volume$}}
+    $endif$
+
+    \vspace{2em}
+    {\small\textcolor{muted}{Each story born from a unique formula:\\
+    two authors, two works, one new voice.}}
+
+    \vspace{\fill}
+    {\small\textsc{Must Read Press}}
+  \end{center}
+  \vspace*{\fill}
+\end{titlepage}
+
+% --- Copyright Page ---
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+  {\small
+    $if(title)$$title$$endif$\\
+    $if(subtitle)$\textit{$subtitle$}\\$endif$
+    \vspace{1em}
+    Published by Must Read Press\\
+    \vspace{0.5em}
+    All works generated by Claude (Anthropic)\\
+    using the Must Read combination formula.\\
+    \vspace{1em}
+    Creative Commons CC-BY-NC 4.0\\
+    \vspace{0.5em}
+    First edition, 2026
+  }
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+% --- Table of Contents ---
+$if(toc)$
+\thispagestyle{plain}
+\tableofcontents
+\clearpage
+$endif$
+
+% --- Main Content ---
+\pagestyle{main}
+
+$body$
+
+% --- Back Matter ---
+\clearpage
+\thispagestyle{plain}
+\begin{center}
+  \vspace*{3em}
+  \textcolor{goldenrod}{\oldrule{3cm}{0.4pt}}
+  \vspace{1em}
+
+  {\displayfont\large About Must Read}
+
+  \vspace{1em}
+\end{center}
+
+{\small
+Must Read is a literary platform featuring original short fiction and creative nonfiction.
+Every work is generated using a unique four-element combination formula: two authors
+(contributing style and sensibility), two works (contributing structure and themes).
+The result is fiction that carries the DNA of literary tradition while arriving at
+something genuinely new.
+
+\vspace{1em}
+Visit \texttt{must-read.github.io} to read all works for free, with reader reviews,
+author meetings, and the full combination formula behind each piece.
+}
+
+\end{document}

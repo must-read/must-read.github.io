@@ -1,0 +1,34 @@
+volume: 12
+genre: mystery-thriller
+genreDisplay: "Mystery & Thriller"
+subtitle: "The Architecture of Suspicion and Delayed Truth"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC022000  # FICTION / Mystery & Detective / General
+bisac_secondary: FIC031000  # FICTION / Thrillers / General
+keywords:
+  - mystery thriller anthology
+  - literary mystery stories
+  - suspense fiction collection
+  - locked room mystery short fiction
+  - police procedural anthology
+  - combination formula fiction
+  - original thriller writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Ten original works of mystery and thriller fiction, each engineered
+  through a combination formula that wires two authorial minds to two
+  structural detonators. These stories are built on suspicion — the
+  architecture of delayed truth, where every corridor leads somewhere
+  the reader was warned not to go, and the reveal, when it comes,
+  rearranges everything that preceded it.
+storyCount: 10
+seriesName: "Must Read"
+seriesPosition: 12
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

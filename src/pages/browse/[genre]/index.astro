@@ -49,6 +49,26 @@ const subgenres = Object.entries(subgenreCounts).map(([name, count]) => ({
   slug: name,
   count,
 })).sort((a, b) => a.label.localeCompare(b.label));
+
+const volumeMap: Record<string, { vol: number; name: string }> = {
+  'adventure': { vol: 1, name: 'Adventure' },
+  'creative-nonfiction': { vol: 2, name: 'Creative Nonfiction' },
+  'crime-noir': { vol: 3, name: 'Crime Noir' },
+  'dystopian': { vol: 4, name: 'Dystopian' },
+  'fantasy': { vol: 5, name: 'Fantasy' },
+  'gothic-fiction': { vol: 6, name: 'Gothic Fiction' },
+  'historical-fiction': { vol: 7, name: 'Historical Fiction' },
+  'horror': { vol: 8, name: 'Horror' },
+  'humor-satire': { vol: 9, name: 'Humor & Satire' },
+  'literary-fiction': { vol: 10, name: 'Literary Fiction' },
+  'magical-realism': { vol: 11, name: 'Magical Realism' },
+  'mystery-thriller': { vol: 12, name: 'Mystery & Thriller' },
+  'philosophical-fiction': { vol: 13, name: 'Philosophical Fiction' },
+  'romance': { vol: 14, name: 'Romance' },
+  'science-fiction': { vol: 15, name: 'Science Fiction' },
+  'western': { vol: 16, name: 'Western' },
+};
+const volume = genre ? volumeMap[genre] : null;
 ---
 
 <BaseLayout title={genreLabel} description={`Browse ${genreWorks.length} ${genreLabel.toLowerCase()} works`}>
@@ -67,6 +87,15 @@ const subgenres = Object.entries(subgenreCounts).map(([name, count]) => ({
         <h1>{genreLabel}</h1>
         <p class="genre-page__count">{genreWorks.length} {genreWorks.length === 1 ? 'work' : 'works'}</p>
       </header>
+    </div>
+  )}
+
+  {volume && (
+    <div class="container">
+      <div class="genre-volume-bar">
+        <span>This genre is available as <strong>Volume {volume.vol}</strong></span>
+        <a href={`${import.meta.env.BASE_URL}publications/`}>View all volumes &rarr;</a>
+      </div>
     </div>
   )}
 
@@ -132,5 +161,32 @@ const subgenres = Object.entries(subgenreCounts).map(([name, count]) => ({
   .subgenre-pill__count {
     opacity: 0.6;
     font-size: 0.82em;
+  }
+
+  .genre-volume-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-md);
+    padding: var(--space-sm) var(--space-md);
+    margin-bottom: var(--space-md);
+    background: var(--color-accent-subtle);
+    border-radius: var(--radius-md);
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+  }
+
+  .genre-volume-bar a {
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 640px) {
+    .genre-volume-bar {
+      flex-direction: column;
+      text-align: center;
+      gap: var(--space-xs);
+    }
   }
 </style>

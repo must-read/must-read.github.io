@@ -1,0 +1,34 @@
+volume: 15
+genre: science-fiction
+genreDisplay: Science Fiction
+subtitle: "Futures Measured in Light-Years and Human Error"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC028000  # FICTION / Science Fiction / General
+bisac_secondary: FIC028020  # FICTION / Science Fiction / Short Stories
+keywords:
+  - science fiction anthology
+  - literary sci-fi stories
+  - speculative fiction collection
+  - climate fiction short stories
+  - first contact fiction anthology
+  - combination formula fiction
+  - original science fiction writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of science fiction, each projected through a
+  combination formula that refracts two authorial visions through two
+  structural lenses to illuminate futures no single extrapolation could
+  have reached. These stories measure their distances in light-years
+  but their costs in human error — futures where the technology works
+  exactly as designed, and that turns out to be the problem.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 15
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

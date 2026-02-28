@@ -1,0 +1,34 @@
+volume: 1
+genre: adventure
+genreDisplay: Adventure
+subtitle: "Horizons of Salt, Powder, and Unspent Nerve"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC002000  # FICTION / Action & Adventure
+bisac_secondary: FIC029000  # FICTION / Short Stories (single author)
+keywords:
+  - adventure fiction anthology
+  - literary adventure stories
+  - exploration fiction collection
+  - action short stories
+  - original adventure writing
+  - combination formula fiction
+  - contemporary adventure anthology
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of adventure fiction, each born from a unique
+  combination formula that fuses the styles of two literary masters with
+  the structure and themes of two landmark works. From lost-world
+  expeditions to heist capers gone sideways, these stories move with the
+  velocity of pulp and the moral weight of literature — horizons where
+  nerve is the only currency that spends.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 1
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"

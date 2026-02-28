@@ -1,0 +1,34 @@
+volume: 10
+genre: literary-fiction
+genreDisplay: Literary Fiction
+subtitle: "Sentences That Know More Than Their Speakers"
+isbn_ebook: ""
+isbn_print: ""
+isbn_audio: ""
+bisac_primary: FIC019000  # FICTION / Literary
+bisac_secondary: FIC029000  # FICTION / Short Stories (single author)
+keywords:
+  - literary fiction anthology
+  - contemporary literary stories
+  - literary short fiction collection
+  - character-driven fiction
+  - prose fiction anthology
+  - combination formula fiction
+  - original literary writing
+price_ebook: 4.99
+price_print: 15.99
+price_audio: 14.99
+price_direct: 3.99
+description: >-
+  Nine original works of literary fiction, each composed through a
+  combination formula that braids two authorial intelligences with two
+  structural traditions to produce prose that operates on frequencies
+  its characters cannot hear. These are stories where sentences carry
+  more than their speakers intend — where the gap between what is said
+  and what is understood becomes the territory the reader inhabits alone.
+storyCount: 9
+seriesName: "Must Read"
+seriesPosition: 10
+imprint: "Must Read Press"
+language: en
+license: "CC-NC-4.0"
