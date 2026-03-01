@@ -1,11 +1,11 @@
 ---
 title: "On Rust, Patience, and What the Wheat Knows"
-slug: "sf-climate-fiction-002-meeting"
+slug: "six-thousand-crosses-meeting"
 genre: "science-fiction"
 subgenre: "climate-fiction"
 authorA: "Cormac McCarthy"
 authorB: "Richard Powers"
-workSlug: "sf-climate-fiction-002"
+workSlug: "six-thousand-crosses"
 wordCount: 2069
 publishedDate: "2026-03-01"
 ---
