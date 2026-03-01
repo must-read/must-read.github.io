@@ -20,9 +20,9 @@ tags:
   - aftermath
   - oral-tradition
   - fractured-chronology
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 8
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Morrison's incantatory communal memory and Le Guin's spare examination of power-from-below converge in a multi-voiced retelling of the Orpheus myth, told by the community his grief destroyed."
 synopsis: "When a singer of impossible power passes through a river valley searching for his dead wife, his music stops the water, kills the fish, and breaks the community. Five voices circle the aftermath — none of them his."

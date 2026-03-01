@@ -19,9 +19,9 @@ tags:
   - perception
   - class
   - institutional-indignity
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 10
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: >
   Gay's unflinching personal honesty and body politics merge with Dillard's luminous

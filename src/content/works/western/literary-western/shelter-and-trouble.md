@@ -10,9 +10,9 @@ workY: "Housekeeping by Marilynne Robinson"
 wordCount: 3355
 readingTimeMinutes: 13
 tags: [literary-western, domesticity, transience, solitude, community, landscape, shelter, frontier]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.8
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Hall's layered community perspectives on a crisis of belonging meet Robinson's luminous attention to shelter, solitude, and interior life — a literary western about a woman who stays in a house the town wants emptied."
 synopsis: "In 1912 New Mexico, a widow refuses to leave the homestead claim her husband abandoned. The town sends delegations. The land sends wind. She keeps the stove lit."

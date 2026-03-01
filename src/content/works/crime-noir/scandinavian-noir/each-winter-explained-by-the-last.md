@@ -10,9 +10,9 @@ workY: "The Remains of the Day by Kazuo Ishiguro"
 wordCount: 4214
 readingTimeMinutes: 17
 tags: ["scandinavian-noir", "non-linear-time", "institutional-critique", "unreliable-memory", "police-procedural", "immigration", "neglect", "rural-sweden", "care-facility", "risk-card"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.7
+ratingCount: 8
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Mankell's methodical procedural rhythms and social criticism through crime investigation meet Ishiguro's retrospective narration and devastating understatement, as a retiring Swedish detective's drive through Skåne triggers non-linear returns to a care-facility death that exposed what correct procedure conceals."
 synopsis: "A retiring Swedish detective drives past the care facility where a Bosnian refugee died six years ago. The drive becomes a reckoning — looping through winters, interviews, and the room she entered and never truly left."

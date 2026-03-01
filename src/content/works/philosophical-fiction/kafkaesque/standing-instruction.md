@@ -18,9 +18,9 @@ tags:
   - empty-ritual
   - Central-Europe
   - absurdism
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: >
   Kafka's precise, matter-of-fact rendering of bureaucratic absurdity fused with Orwell's clarity about political language and compliance. The Trial provides the structure of circular institutional encounters, each revealing another layer of inaccessible authority. The Unbearable Lightness of Being provides the existential weight of private decisions under systems that have emptied meaning from public life.
