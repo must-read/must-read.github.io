@@ -7,8 +7,8 @@ authorA: "Dorothy M. Johnson"
 authorB: "Oakley Hall"
 workX: "Little Big Man"
 workY: "Killers of the Flower Moon"
-wordCount: 9006
-readingTimeMinutes: 36
+wordCount: 8507
+readingTimeMinutes: 34
 tags:
   - osage
   - allotment
@@ -425,7 +425,7 @@ Pursuant to instructions, I have conducted an examination of the guardian's acco
 
 4. The wards' mother, GRACE WALKING-IN-THE-MORNING IRONBULL, lives in a deteriorating frame house on the allotment without running water or electricity. Mr. Beaudoin's ranch house, located two miles east, has both. I visited Mrs. Ironbull on October 30, 1924. She was splitting firewood in the yard. The house had a single stove and no glass in two of the four windows. She offered me coffee, which she boiled on the stove in a tin pot. When I asked about the boys' schooling and welfare, she said Thomas was working at a filling station and William was at the Pawhuska school and they were both good boys and she did not want to cause trouble for Frank. I asked if she needed anything and she looked at the windows and said she could use some glass before winter. I noted this in my field memorandum. There is no record that glass was provided.
 
-5. However, it must be noted that Mr. Beaudoin has generally complied with the reporting requirements of the court and that none of his individual expenditures, taken singly, are outside the range of what guardians in this county typically report. The pattern of spending is consistent with that of other white guardians of Osage wards in the district. This is to say: the pattern is common.
+5. However, it must be noted that Mr. Beaudoin has generally complied with the reporting requirements of the court and that none of his individual expenditures, taken singly, are outside the range of what guardians in this county typically report. The pattern of spending is consistent with that of other white guardians of Osage wards in the district.
 
 6. Regarding Thomas Ironbull's petition for release from guardianship: given that Thomas is now 20 years of age and the Act of 1906 provides for restrictions on full-blood Osage members, the question of his competency is not straightforward. He is literate and employed. He is also a full-blood Osage Indian.
 
@@ -448,11 +448,11 @@ County Judge James T. Parrish, responding to inquiries from the Office of Indian
 
 "These guardians are performing a necessary service," Judge Parrish said. "The full-blood Osage is not accustomed to handling large sums of money. Without a competent guardian to manage their affairs, many of these Indians would fall prey to confidence men and swindlers."
 
-When asked about reports that some guardians have enriched themselves at the expense of their wards, Judge Parrish said such reports were "greatly exaggerated" and noted that all guardians are required to file annual accountings with the court.
+When asked about reports that some guardians have enriched themselves at the expense of their wards, Judge Parrish said such reports were "greatly exaggerated."
 
-There are presently 847 guardianship cases pending in Osage County. Approximately two-thirds of the guardians are white citizens appointed by the court. The remainder are Osage citizens managing the estates of their own relatives.
+There are presently 847 guardianship cases pending in Osage County. Approximately two-thirds of the guardians are white citizens appointed by the court.
 
-Judge Parrish acknowledged that the court lacks the resources to audit every guardian's annual report in detail. "We rely on the good faith of the guardians," he said. "And in the main, that good faith has been justified."
+Judge Parrish acknowledged that the court lacks the resources to audit every guardian's annual report in detail. "We rely on the good faith of the guardians," he said.
 
 ---
 
@@ -631,7 +631,7 @@ I walked the allotment last week. Frank has cattle on it again, all of it, right
 
 Here is what I don't understand. Frank is a white man. He came to Osage County because there was money here, same as all the others. He married you because marrying an Osage woman was the way in. I don't blame him for that — a man goes where the money is, same as water goes downhill. But you are Osage. This was our mother's land. She died on it. She is buried ~~on it~~ at the Catholic cemetery in Pawhuska because Frank said there was no room on the allotment for a burial plot but there are 160 acres, Anna. Where was there no room?
 
-I am going to try to buy William's share when he turns 21 next year. If I can get 53 acres back maybe that is enough. Frank can have the south 80 and I will have the north 53 and I will build a fence between his land and ours and that fence will be the truest thing on the property.
+I am going to try to buy William's share when he turns 21 next year. If I can get 53 acres back maybe that is enough. Frank can have the south 80 and I will have the north 53 and I will build a fence.
 
 William says he does not care about the land. He says he wants to go to Haskell and learn automobile repair. Frank has been telling him the land is just dirt and the money is in headrights and why would a young man tie himself down. Frank has been saying this since William was fifteen.
 
@@ -639,7 +639,7 @@ I don't know if I will buy the land. I don't know if I can. The headright pays b
 
 My own money. My own well. Not necessary.
 
-I am going to stop writing now. I said I would not send this and I won't. But I wanted to put it down somewhere so there is a record, even if it is just a record for myself. Mama wanted things in the record and now I understand why. When everything is decided in offices by men with stamps, the only thing you have is the writing.
+I am going to stop writing now. I said I would not send this and I won't.
 
 Thomas
 
@@ -655,9 +655,7 @@ WITNESSETH: That the Lessor, for and in consideration of ONE DOLLAR ($1.00) per 
 
 The South Half of the Northeast Quarter of Section 12, Township 26 North, Range 8 East of the Indian Meridian, Osage County, Oklahoma, containing 80 acres, more or less.
 
-[NOTE: This lease pertains to SURFACE USE RIGHTS ONLY. The Osage mineral estate, including all subsurface oil, gas, and other minerals, is held in trust by the United States for the Osage Nation. Surface lease agreements do not convey or affect mineral rights. Royalties from oil and gas production on Osage lands are distributed to headright holders through the Osage Agency, not through surface lease arrangements.
-
-However, surface access is required for drilling operations, and control of the surface estate grants the lessor effective control over the timing and placement of wells. — Compiler's note]
+[NOTE: This lease pertains to surface use rights only. The Osage mineral estate is held in trust by the United States for the Osage Nation. However, surface access is required for drilling operations, and control of the surface estate grants the lessor effective control over the timing and placement of wells. — Compiler's note]
 
 ---
 
@@ -748,7 +746,7 @@ I went to the court. The court said it was a civil matter and I should retain an
 
 Sir, what I want to tell you is that all of this is legal. Everything Frank Beaudoin has done is within the law. He married my sister legally. He was appointed guardian legally. He spent my money legally, or at least no one said it was illegal. He bought my mother's land and my brother's land through legal conveyances approved by the proper authorities. And now he has locked me off my own property and the law says this is a civil matter.
 
-I am not asking you to intervene in my case specifically. I am asking you to understand that what has happened to my family has happened to many Osage families. The allotment system and the guardianship system were designed to protect us but they have been used to dispossess us and everything that has been done to us has been done lawfully.
+What has happened to my family has happened to many Osage families. The allotment system and the guardianship system were supposed to protect us. Everything that has been done to us has been done lawfully. That is all I wanted to say.
 
 Yours truly,
 Thomas Ironbull
@@ -784,7 +782,7 @@ Dear Hennie,
 
 I got to Oklahoma City yesterday and I am staying at the Biltmore which costs $1.50 a night so I will not stay long. I went to the offices of the Indian Rights Association this morning. They have two rooms above a shoe store on Robinson Avenue. A man named Stafford listened to my story for about forty minutes. He took notes. When I was done he asked if I had copies of the guardian's reports and the deeds and I said yes, I have copies of everything, and he looked surprised. He said most people who come in do not have documentation.
 
-I showed him the file. He read through it for a long time without talking. Then he said something I have been thinking about since. He said, Mr. Ironbull, the problem with your case is not that anyone broke the law. The problem is that the law worked. He said the allotment system was designed to transfer Indian land to white ownership and it has done exactly what it was designed to do. He said my case was one of thousands. He said the organization was aware of the situation in Osage County and had written to the Commissioner of Indian Affairs but nothing had changed.
+I showed him the file. He read through it for a long time without talking. Then he said, Mr. Ironbull, the problem with your case is not that anyone broke the law. The problem is that the law worked. He said my case was one of thousands. He said the organization had written to the Commissioner of Indian Affairs but nothing had changed.
 
 I asked him if he could take my case. He said the organization does not have the resources to litigate individual land disputes. He gave me the names of two attorneys in Tulsa who do pro bono work for Indian clients but he said I should know that both of them already have more cases than they can handle.
 
@@ -850,11 +848,9 @@ I have a 1934 Ford pickup truck with a bad clutch. This goes to my son Joseph. H
 
 I have some furniture and kitchen things. These go to my wife, Henrietta.
 
-I have a box of papers in the closet. Letters I wrote and copies of letters I wrote. Court filings. Guardian's reports. Deeds. Tax notices. All the paperwork from thirty years of losing my father's land one page at a time. I do not know who would want these papers. They are the history of how a family was separated from its property by legal means, and I suppose they are proof that everything was done correctly.
+I have a box of papers in the closet. Letters I wrote and copies of letters I wrote. Court filings. Guardian's reports. Deeds. Tax notices. All the paperwork from thirty years of losing my father's land one page at a time. I do not know who would want these papers.
 
-I leave these papers to whoever can use them.
-
-If my son Joseph wants to try to get any of the land back, he should know that every transfer was approved by the proper authorities. The deeds are clean. The titles are clear. The conveyances were lawful. This is what makes it impossible and this is what makes it worth knowing.
+I leave them to whoever can use them.
 
 Signed this 14th day of September, 1948.
 
@@ -880,11 +876,11 @@ The box contains court records, letters, guardian's reports, deeds, and other do
 
 After Thomas died, I put the box in the back of the closet and did not look at it for almost twenty years. Last month my son Joseph asked about it. He is living in Tulsa now and working for the tribe on land issues. He read through the papers and said they told a story and someone should have them.
 
-I will be honest with you. I do not know if these papers are important to anyone besides our family. Thomas believed they were. He said once that the papers were like a set of footprints showing how his father's land walked away from his family one step at a time, and every step was legal, and every step had a witness, and nobody stopped it.
+I will be honest with you. I do not know if these papers are important to anyone besides our family. Thomas believed they were. He never said exactly why. He would sit at the kitchen table with the box open and read the documents one by one, which was not a good habit, especially toward the end.
 
-Thomas was not a bitter man. I want you to know that. He laughed a great deal and he was kind to our children and he liked to fish in Bird Creek when the catfish were running. But the land was a wound that did not close. He talked about it when he drank, which was often toward the end. He would sit at the kitchen table with the box open and read the documents one by one, as if reading them again might change what they said.
+Thomas was not a bitter man despite what the papers might suggest. He laughed a great deal and he was kind to our children and he liked to fish in Bird Creek when the catfish were running. But the box was always under the bed.
 
-I do not know what a museum does with papers like these. Joseph says you might put them in an archive where people can read them. I hope someone does read them. Thomas spent thirty years writing letters that nobody answered. Maybe the papers themselves can say what the letters could not.
+Joseph says you might put them in an archive where people can read them. I hope someone does.
 
 I will bring the box to Pawhuska next week if you will have it.
 
@@ -936,14 +932,8 @@ BEAUDOIN CATTLE COMPANY, LLC
 
 ## COMPILER'S NOTE
 
-The foregoing documents were assembled from the files of the Osage County Courthouse, the National Archives at Fort Worth, and the personal papers of Thomas Ironbull, which were donated to the Osage Nation Museum in 1971 by his son, Joseph Ironbull, Jr.
+The foregoing documents were assembled from the files of the Osage County Courthouse, the National Archives at Fort Worth, and the personal papers of Thomas Ironbull, donated to the Osage Nation Museum in 1971.
 
-The compiler has arranged the documents chronologically and has added bracketed notes only where necessary for context. No documents have been altered. Spelling and formatting irregularities in the originals have been preserved.
+Documents are arranged chronologically. Bracketed notes have been added only where necessary for context. Spelling and formatting irregularities in the originals have been preserved.
 
-Some readers will note that the story these documents tell is not unusual. The transfer of Osage allotment lands to non-Osage owners through guardianship, marriage, probate, and tax sale was common throughout the early twentieth century. By 1930, an estimated 90% of the original Osage allotments had passed out of Osage ownership through lawful means.
-
-The compiler has made no effort to tell the whole story. There are gaps. The voice of Anna Ironbull Beaudoin appears only as a name on legal documents; her testimony, if she gave any, has not been located. William Ironbull disappears from the Osage County records after 1929; fragmentary evidence suggests he moved to Kansas City but this is unconfirmed. Frank Beaudoin died in 1961 at the age of 77, prosperous and respected, and is buried in the Catholic cemetery in Pawhuska, forty yards from the grave of Grace Walking-in-the-Morning Ironbull.
-
-The mineral estate remains in Osage hands. The headright payments continue, diminished. The grass on the northeast quarter of section twelve is the same grass that grew when Joseph Kihekah Ironbull ran his cattle there, though the fences are different and the cattle belong to someone else's grandchildren.
-
-These are the facts as the record shows them. The record is complete.
+The voice of Anna Ironbull Beaudoin appears only as a name on legal documents; her testimony, if she gave any, has not been located. William Ironbull disappears from the Osage County records after 1929; fragmentary evidence suggests he moved to Kansas City but this is unconfirmed. Frank Beaudoin died in 1961 at the age of 77 and is buried in the Catholic cemetery in Pawhuska, forty yards from the grave of Grace Walking-in-the-Morning Ironbull.
