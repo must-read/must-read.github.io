@@ -10,9 +10,9 @@ workY: "The Overstory"
 wordCount: 5123
 readingTimeMinutes: 20
 tags: ["climate-fiction", "agriculture", "wheat-breeding", "stem-rust", "near-future", "Mexico", "food-security", "coevolution", "shuttle-breeding"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "McCarthy's stripped elemental prose and Road-like journey through devastation meets Powers's systems thinking and Overstory timescales in a near-future agricultural horror story about a wheat breeder racing stem rust across three planting cycles"
 synopsis: "A wheat breeder at a Mexican research station races to develop rust-resistant varieties as a new strain of stem rust devours harvests from East Africa to India. Three planting cycles. Six thousand crosses per season. The pathogen evolves faster than she can breed against it."

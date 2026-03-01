@@ -10,9 +10,9 @@ workY: "Songs of a Dead Dreamer"
 wordCount: 3189
 readingTimeMinutes: 13
 tags: ["gothic horror", "domestic horror", "sealed house", "sisters", "ritual", "cosmic nihilism", "puppet metaphor", "village hostility", "poisoning", "ontological dread", "unreliable perception"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.1
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Jackson's spare domestic menace and ritual-as-control fused with Ligotti's ontological dread and puppet-like characters, structured through Castle's sealed household built on family crime and Songs of a Dead Dreamer's stage-set reality where narrators discover they are arrangements rather than people."
 synopsis: "Two sisters live alone in a house the village won't enter. The younger one keeps the rituals. The older one keeps the silence. When the pattern in the wallpaper begins to skip, only one of them notices — and the house has opinions about noticing."

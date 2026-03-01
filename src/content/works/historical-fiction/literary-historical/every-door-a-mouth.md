@@ -22,9 +22,9 @@ tags:
   - occupation
   - betrayal
   - intimacy-as-intelligence
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.1
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Waters's period-specific domestic intimacy under constraint meets Nguyen's confessional double consciousness — a Vietnamese intelligence operative in a French colonial household narrates her assignment in the form of a deposition that reveals more about desire than it intends."
 synopsis: "Hanoi, 1944. Lien is placed in a French administrator's household by the Viet Minh to gather intelligence. Her deposition after the war reveals an assignment complicated by genuine intimacy with the administrator's wife — a closeness her comrades cannot forgive and she cannot explain."

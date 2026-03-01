@@ -10,9 +10,9 @@ workY: "Blindness"
 wordCount: 5476
 readingTimeMinutes: 22
 tags: ["totalitarian-dystopia", "non-linear-time", "surveillance", "language-erosion", "blindness-metaphor", "bureaucratic-control", "memory-dissolution"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.1
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Orwell's transparent precision collides with Saramago's suffocating flow as a records auditor's resistance dissolves into the state she opposed, the fragmented timeline performing the collapse of reliable memory under total surveillance"
 synopsis: "A records auditor in a regime of compulsory brightness discovers a discrepancy, joins the resistance, and learns too late that her clear-eyed rebellion was the state's instrument all along."

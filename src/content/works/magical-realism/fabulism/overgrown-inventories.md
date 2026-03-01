@@ -10,9 +10,9 @@ workY: "Piranesi"
 wordCount: 2922
 readingTimeMinutes: 12
 tags: ["fabulism", "multiple-voices", "gardens", "abundance", "cataloguing", "sisters", "transformation", "confinement", "field-guide"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.1
+ratingCount: 8
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Russell's sensory swamp-Gothic and Calvino's structural lightness collide in a story of uncontrollable growth told through three voices — cataloguer, sister, and field guide — with Kafka's mundane impossibility and Piranesi's wonder-in-confinement"
 synopsis: "A woman discovers she can grow plants on any surface — drywall, asphalt, her own skin. Three voices tell the story: her meticulous inventories, her sister's phone calls about rent and landlords, and a clinical field guide cataloguing a new species."
