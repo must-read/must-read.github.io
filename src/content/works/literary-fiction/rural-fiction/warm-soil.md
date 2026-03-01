@@ -10,8 +10,8 @@ workY: "Jayber Crow"
 wordCount: 4145
 readingTimeMinutes: 17
 tags: [farming, mexico, green-revolution, wheat, yaqui-valley, fathers-and-sons, tradition, modernity, dead-father, subsistence-agriculture, 1950s, rural-poverty, extension-agent, soil]
-rating: 0.0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-03-01"
 status: draft
 formulaSummary: "Rulfo's haunted Mexican earth meets Berry's reverence for traditional farming knowledge in a story about a subsistence farmer, a sack of foreign seed, and the dead father whose voice is the only way the farmer knows how to think"

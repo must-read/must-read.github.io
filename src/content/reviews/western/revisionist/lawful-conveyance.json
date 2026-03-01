@@ -1,0 +1,68 @@
+{
+  "workSlug": "lawful-conveyance",
+  "reviews": [
+    {
+      "personaId": "wes-001-hank",
+      "rating": 3,
+      "text": "Not a western in any way I recognize. No horses, no range, no weather to speak of. It's all courtrooms and letters and legal filings. That said, the details land. Grace boiling coffee in a tin pot while the investigator notes her windows have no glass — that's real. Thomas walking to a filling station while his guardian drives two cars he paid for — that's real too. I just wish somebody in this story got to do something besides write letters that nobody answers.",
+      "date": "2025-11-18",
+      "helpfulCount": 63
+    },
+    {
+      "personaId": "wes-002-luisa",
+      "rating": 5,
+      "text": "This is the western the genre has been circling for decades without writing. The found-document structure is not a gimmick — it IS the argument. Every exhibit is properly filed, properly witnessed, properly approved. The machinery of dispossession does not need villains twirling mustaches; it needs clerks, judges, and notaries doing their jobs. The gap between Grace's deposition voice ('He said the oil would run out but the grass would not') and the legal language that dismantles her family is where the real violence lives. Thomas's line at the end of Exhibit Z — 'Every page in this file is correct and every page is a lie' — should be carved above the door of every western literature course in the country.",
+      "date": "2025-10-03",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "wes-003-patricia",
+      "rating": 4,
+      "text": "I notice this story does something most westerns about Native dispossession do not: it lets the Osage characters speak in their own registers without flattening them into noble victims. Grace is sharp and funny — her line about the government being 'our fence' got a laugh out of me before the story made me regret laughing. Thomas is angry and literate and strategic and still loses. William is exhausted into compliance. These are specific people, not symbols. The one silence that bothers me is Anna — the compiler's note says her testimony 'has not been located,' which is honest, but it also means a Native woman's interiority is missing from a story about her own family's land. That absence may be historically accurate. It still stings.",
+      "date": "2026-01-22",
+      "helpfulCount": 72
+    },
+    {
+      "personaId": "wes-004-dale",
+      "rating": 2,
+      "text": "Look, I can tell this is well-researched and the writing is fine. But I listen to westerns to pass time on the road and this is basically reading legal documents for 8,000 words. No action, no movement, no scenes that play out in real time. The depositions have some energy but mostly it's one filing after another. Not for me.",
+      "date": "2025-12-09",
+      "helpfulCount": 26
+    },
+    {
+      "personaId": "wes-005-miriam",
+      "rating": 5,
+      "text": "The formal constraint here is breathtaking. Twenty-nine exhibits, A through AD, and the story never once breaks from the documentary frame — no omniscient narrator, no interior monologue, no scene-setting beyond what the documents themselves provide. And yet it builds unbearable emotional pressure. The unsent letter to Anna (Exhibit S) is the structural hinge: the only document that was never filed, never witnessed, never approved, and therefore the only one that tells the unmediated truth. Thomas crossing out words, restarting, addressing a sister who will never read it — that's where the prose achieves something the legal exhibits cannot. The tax assessment table in Exhibit X is also a masterpiece of compression: the entire theft of 160 acres rendered as six rows of numbers.",
+      "date": "2026-02-14",
+      "helpfulCount": 58
+    },
+    {
+      "personaId": "wes-006-tommy",
+      "rating": 4,
+      "text": "I've been selling westerns for twenty years and I've never read one structured like this. The whole story is documents — allotment certificates, depositions, guardian reports, deeds. No gunfights, no chases, no confrontations at dawn. The violence is entirely procedural. And it works, mostly. Grace's deposition about the turkey she bought before her husband died is the kind of detail that lodges in your chest. Thomas's will, where his only real possession is a truck with a bad clutch, is devastating. I'd shelve this alongside the best revisionist work. My only reservation is that the relentless accumulation of exhibits gets numbing in the middle — the guardian reports repeat a pattern the reader already understands.",
+      "date": "2025-09-27",
+      "helpfulCount": 33
+    },
+    {
+      "personaId": "wes-007-beverly",
+      "rating": 4,
+      "text": "I brought this to my reading group and we spent two hours on it. The Osage specificity matters — headrights, the mineral estate held in trust, the distinction between surface and subsurface rights. This is not a generic 'Indian land theft' story; it is rooted in the particular legal architecture that was built around the Osage Nation. Grace Walking-in-the-Morning's deposition is the heart of the piece. She insists on getting her husband's character into the record — 'I want someone to write that down' — and the court stenographer does, and it changes nothing. Thomas's insistence on his mother's real name at the end of his own deposition mirrors that gesture. The record reflects both names. That IS the problem. I do wish the story had found a way to include Anna's voice rather than noting its absence. But the compiler's honesty about that gap is better than fabricating what is not there.",
+      "date": "2026-02-28",
+      "helpfulCount": 49
+    },
+    {
+      "personaId": "wes-009-jolene",
+      "rating": 4,
+      "text": "Read this after a night shift and cried into my coffee at five in the morning. Grace dying alone in a cold house two miles from her son-in-law's warm one — I could feel that cold. Thomas's letter to his wife from the Biltmore hotel, $1.50 a night, telling her nobody is going to help them. Henrietta's letter nineteen years later, saying Thomas sat at the kitchen table reading the documents over and over, 'which was not a good habit, especially toward the end.' That line destroyed me.",
+      "date": "2025-10-30",
+      "helpfulCount": 55
+    },
+    {
+      "personaId": "wes-010-walt",
+      "rating": 2,
+      "text": "This is a legal brief dressed up as fiction. I kept waiting for something to happen and nothing ever does — just more documents, more filings, more letters that go unanswered. The whole thing is designed to make you feel bad about oil money and land ownership, which is fine as a history lesson but I didn't pick up a western for a history lesson. The guardian was a crook, sure. The system failed, sure. But 8,000 words of court transcripts is not a story.",
+      "date": "2026-01-05",
+      "helpfulCount": 37
+    }
+  ]
+}

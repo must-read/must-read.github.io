@@ -10,10 +10,10 @@ workY: "The Thin Man"
 wordCount: 3238
 readingTimeMinutes: 13
 tags: ["whodunit", "multiple narrators", "coastal setting", "atmospheric mystery", "social comedy", "domestic deception", "fog", "isolation"]
-rating: 0.0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Du Maurier's atmospheric dread and landscape-as-mood merge with Hammett's lean, dialogue-driven investigation in a whodunit set on an isolated headland, structured around Jamaica Inn's trapped-protagonist-and-respectable-villain framework, threaded with The Thin Man's witty social-comedy-as-investigation and the elegant solution that reveals its own irrelevance."
 synopsis: "Three narrators recount a weekend death on a fog-bound Cornish headland. The housekeeper saw devotion. The guest saw cracks. The detective saw the answer. None of them saw the same house."
 combination:

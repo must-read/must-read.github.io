@@ -10,10 +10,10 @@ workY: "The Memory Police"
 wordCount: 5135
 readingTimeMinutes: 21
 tags: ["forgetting", "language", "erasure", "proofreading", "indexes", "loss", "compliance", "books", "bureaucracy"]
-rating: 0.0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Borges's infinite-library architecture and Schweblin's domestic dread converge in a story about a copy editor proofreading a book that is being unwritten by a world that keeps forgetting, structured through the fragmenting reading experience of Calvino and the quiet state-enforced erasure of Ogawa"
 synopsis: "A copy editor discovers the manuscript she is proofreading keeps losing passages overnight. Her marginal notes become the only record of what the book — and the world — used to contain."
 combination:

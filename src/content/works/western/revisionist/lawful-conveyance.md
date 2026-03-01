@@ -22,10 +22,10 @@ tags:
   - systemic-violence
   - headrights
   - probate
-rating: 0.0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Johnson's spare, unsentimental prose and dignity for both sides of the frontier
   merges with Hall's politically dense, morally ambiguous treatment of governance

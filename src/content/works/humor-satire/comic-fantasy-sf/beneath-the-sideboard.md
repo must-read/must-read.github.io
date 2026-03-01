@@ -20,10 +20,10 @@ tags:
   - competent servant
   - aunts
   - comic fantasy
-rating: 0.0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: 2026-03-01
-status: "draft"
+status: "published"
 formulaSummary: >
   Gaiman's mythic-conversational rendering of invisible parallel worlds meets Wodehouse's perfect comic sentence machinery. An amiable young man hires a valet from an agency that turns out to service both Londons. The valet is impeccable — the valet is also from Below. Social obligations spiral into supernatural farce, resolved through increasingly elegant absurdity, with one small crack left in the baseboard.
 synopsis: >
