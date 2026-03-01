@@ -18,8 +18,8 @@ tags:
   - invisible-intelligence
   - hands
   - devotion
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 status: "draft"
 publishedDate: "2026-03-01"
 formulaSummary: >

@@ -10,8 +10,8 @@ workY: "The Importance of Being Earnest by Oscar Wilde"
 wordCount: 3735
 readingTimeMinutes: 15
 tags: ["parody", "literary criticism", "unreliable narrator", "footnotes", "scholarly satire", "invented author", "fabrication", "identity", "academic comedy"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "draft"
 formulaSummary: "Wilde's epigrammatic wit and paradox-as-worldview power the critic's ornate voice; Nabokov's deranged scholarly apparatus and unreliable self-admiring prose structure the escalating fabrication; Pale Fire's commentary-devouring-text form is the architecture; Earnest's mistaken-identity engine and the danger of sincerity drive the revelation that the critic has invented the masterpiece, the author, and possibly himself."

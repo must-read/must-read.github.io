@@ -10,8 +10,8 @@ workY: "Mrs Dalloway by Virginia Woolf"
 wordCount: 5073
 readingTimeMinutes: 20
 tags: ["scandinavian-noir", "stream-of-consciousness", "story-as-document", "stockholm", "detective", "victim-consciousness", "diary", "police-report", "risk-card"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 status: "draft"
 publishedDate: "2026-03-01"
 formulaSummary: "Derek Raymond's existential detective who absorbs the dead and Virginia Woolf's luminous stream of consciousness converge in a story-as-document — police reports, diary fragments, interview transcripts — where a Stockholm detective reconstructing a dead woman's final day finds her consciousness colonizing his own, the bureaucratic form cracking under the weight of attention it was built to suppress."
