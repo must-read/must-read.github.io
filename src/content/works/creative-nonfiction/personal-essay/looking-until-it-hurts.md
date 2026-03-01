@@ -7,8 +7,8 @@ authorA: "Roxane Gay"
 authorB: "Annie Dillard"
 workX: "Bad Feminist by Roxane Gay"
 workY: "Teaching a Stone to Talk by Annie Dillard"
-wordCount: 3461
-readingTimeMinutes: 14
+wordCount: 3053
+readingTimeMinutes: 12
 tags:
   - attention
   - waiting
@@ -98,50 +98,42 @@ The woman with the sleeping toddler was not watching the tulip poplars. She was 
 
 ---
 
-Annie Dillard once wrote about watching a frog get eaten by a giant water bug. She was at Tinker Creek, and the frog was at the edge of the water, and the water bug seized it from below and injected enzymes that dissolved the frog's insides, and Dillard watched the frog deflate like a kicked tent. She wrote about it with sentences so precise they feel surgical: the frog's skin wrinkling, its eyes sinking, the whole animal collapsing into a bag of its own liquefied organs. She watched because watching is what she does. It is her vocation in the old sense — a calling, a thing she was made for.
+I've read the nature writers. I know how this kind of seeing is supposed to work. You go somewhere — a creek, a hillside, a cabin you rented for the purpose — and you watch, and the watching becomes a vocation. The frog deflates in the water bug's grip. The hawk drops from the sky. You write sentences so precise they feel surgical, and the precision is the point, and the precision is possible because you organized your entire life around the act of looking. You rented the house. You lived alone. You wrote.
 
-What Dillard doesn't talk about, in that passage or in most of her work, is what it costs to be the kind of person who watches. Not the emotional cost — she's honest about that, about the horror and wonder that come in equal measure. But the structural cost. The cost of having the time and the freedom and the economic arrangement that allows you to spend a morning at a creek watching a frog die. Tinker Creek is in Virginia's Blue Ridge. Dillard rented a house there. She lived alone. She wrote. This is not a criticism of Dillard — her work has changed what I think sentences can do, and I mean that without qualification. But it is a fact that her practice of attention required a life organized around that practice, and most lives are not organized around anything except survival.
+What those writers don't account for is the structural cost. Not what it feels like to watch — they're honest about the horror and the wonder. But what it costs in time and freedom and economic arrangement to be the person who watches. Most lives are not organized around attention. Most lives are organized around survival, and survival requisitions every scrap of awareness for its own purposes.
 
-Roxane Gay would say — has said, in different language — that the personal essay cannot afford to be innocent about these things. That when you write about what you saw, you must also write about the conditions under which you were able to see it. My body in that waiting room was not Dillard's body at Tinker Creek. I was not choosing to be there. I was not on a contemplative retreat. I was there because the American healthcare system had, through a series of bureaucratic operations so routine they barely register as decisions, deposited me in a plastic chair and told me to wait.
+The personal essay cannot afford to be innocent about this. When you write about what you saw, you must also write about the conditions under which you were able to see it. I was not at a creek. I was not on retreat. The American healthcare system had, through a series of bureaucratic operations so routine they barely register as decisions, deposited me in a plastic chair and told me to wait.
 
-And yet. The tulip poplars were right there.
+The tulip poplars were right there anyway.
 
 ---
 
 Around hour three, the light changed. The sun had been behind a cloud bank all morning, and the waiting room had been lit entirely by fluorescents — that flat, humming light that makes everyone look slightly ill, which is an irony in a health clinic but not one anyone designed on purpose. Then the clouds broke, and the sun came through the eastern window at a low angle, and the tulip poplar trunks went from gray to silver, and the fissures in the bark filled with shadow, and each tree suddenly had depth where before it had only had surface.
 
-I am trying to describe this without making it sound redemptive. The light did not redeem the waiting room. It did not compensate for the four hours. It was not a metaphor for hope, or grace, or the persistence of beauty in degraded conditions. It was light on bark. That's all. But light on bark, observed with enough attention, is not a small thing. It is not a big thing either. It is a thing that resists being ranked, that refuses to be placed on the continuum between the trivial and the significant, and its refusal is what interests me.
+I am trying to describe this without making it sound redemptive. The light did not redeem the waiting room. It did not compensate for the four hours. It was light on bark. That's all. But light on bark, observed with enough attention, is not a small thing, and it is not a big thing either, and I don't know what to do with a thing that refuses to be ranked.
 
 The woman with the toddler saw the light too. I know because she turned her head toward the window. The toddler had woken up and was fussing, and the woman was bouncing him gently on her knee, and she looked out at the trees for maybe ten seconds. I don't know what she saw. I don't know if she saw bark or light or just glare. I don't know if those ten seconds gave her anything, and I refuse to write the sentence that says they did, because that sentence would be mine, not hers, and the personal essay has a long and dishonorable history of borrowing other people's experiences to furnish the writer's own epiphany.
 
 ---
 
-What I saw, in those four hours: bark fissures on *Liriodendron tulipifera*. A white-breasted nuthatch descending a trunk in defiance of ordinary avian behavior. The shift of light from fluorescent to solar. A woman's ten-second glance at a window. The back of my own hand on a brown clipboard, the skin dry and cracking at the knuckles because the clinic's air was desiccated and I hadn't brought lotion, and who brings lotion to a blood draw.
+What I saw, in those four hours: bark fissures on *Liriodendron tulipifera*. A nuthatch descending a trunk headfirst. The shift of light from fluorescent to solar. A woman's ten-second glance at a window. The back of my own hand on a brown clipboard, the skin dry and cracking at the knuckles because the clinic's air was desiccated and I hadn't brought lotion, and who brings lotion to a blood draw.
 
-What I felt, in those four hours: bored, then angry, then bored again, then something I still don't have a name for. The something arrived with the nuthatch and stayed through the light change and didn't leave, exactly, when they finally called my name. It was a feeling of having been pried open. Not comforted. Not healed. Pried. Like the nuthatch with its chisel bill, working down from the top, finding what the other birds missed.
-
-I think this is what attention does when it isn't voluntary. When you don't choose to look — when you are trapped in a room and looking is the only activity available — attention is not a practice or a discipline or a spiritual exercise. It's a last resort. And there is something honest about last-resort attention that deliberate attention lacks. The person at Tinker Creek is there on purpose. The person in the waiting room is not. And the seeing that happens when you're not there on purpose — the seeing that happens because every other option has been taken from you — is a different kind of seeing. Rougher. Less beautiful to write about. More true, maybe, though I distrust that word.
+What I felt: bored, then angry, then bored again, then something I still don't have a name for. The something arrived with the nuthatch and stayed through the light change and didn't leave when they finally called my name. It was closer to soreness than to peace. The feeling of a muscle used past its normal range.
 
 ---
 
-I got my blood drawn at 1:26. The phlebotomist was good — one stick, clean. She had a small tattoo on the inside of her wrist, a hummingbird, which seemed fitting and which I mention because I noticed it, because by 1:26 p.m. I was noticing everything, which was exhausting. That's the other thing about attention that the contemplative tradition underreports: it's tiring. Looking at things closely uses the same energy as doing things, and by the end of four hours of involuntary observation I was wrung out in a way that felt physical. My eyes ached. The muscles behind my ears — whatever those muscles are called; I've never learned — were sore from sustained focus.
+I got my blood drawn at 1:26. The phlebotomist was good — one stick, clean. She had a small tattoo on the inside of her wrist, a hummingbird. By 1:26 p.m. I was noticing everything, which was exhausting. That's the other thing about attention that the contemplative tradition underreports: it's tiring. Looking at things closely uses the same energy as doing things, and by the end of four hours of involuntary observation I was wrung out in a way that felt physical. My eyes ached. The muscles behind my ears — whatever those muscles are called; I've never learned — were sore from sustained focus.
 
 The phlebotomist said my results would be ready in three to five business days and that someone would call me. No one called. I called them after eight days, sat on hold for twenty-two minutes, and was told the results were normal. Normal. The word landed with a thud. I'd waited four hours and eleven minutes for a result that could have been communicated in a voicemail.
 
-I drove home through the same landscape I'd driven through that morning — the Dollar General, the dead laundromat, the strip of ground where the tulip poplars stood — and I saw it differently, which is the most and least you can say about what looking does. I saw it differently. The bark was still fissured. The parking lot was still cracked. The woman with the toddler was gone, and I didn't know where she went, and I still don't, and the not-knowing is the realest thing in this essay.
+I drove home through the same landscape I'd driven through that morning — the Dollar General, the dead laundromat, the strip of ground where the tulip poplars stood — and I saw it differently, which is the most and least you can say about what looking does. I saw it differently. The bark was still fissured. The parking lot was still cracked. The woman with the toddler was gone, and I didn't know where she went, and I still don't.
 
 ---
 
-I want to end here but I owe you the complication.
-
-The complication is that I went back. Not for another appointment — my bloodwork was normal, remember, aggressively, expensively normal. I went back three weeks later because I wanted to see the tulip poplars again. I parked in the lot and sat in my car and looked at them through the windshield. It was late March by then and the buds were swelling — tulip poplar buds are large, blunt, shaped like duck bills, covered in a smooth greenish membrane that will eventually split to release leaves that are unlike any other leaf I know: four-lobed, flat across the top, as though someone took a normal leaf and cut off the tip with scissors.
+I went back. Not for another appointment — my bloodwork was normal, remember, aggressively, expensively normal. I went back three weeks later because I wanted to see the tulip poplars again. I parked in the lot and sat in my car and looked at them through the windshield. It was late March by then and the buds were swelling — tulip poplar buds are large, blunt, shaped like duck bills, covered in a smooth greenish membrane that will eventually split to release leaves that are unlike any other leaf I know: four-lobed, flat across the top, as though someone took a normal leaf and cut off the tip with scissors.
 
 I sat in the car for twenty minutes. The trees were the same trees. The bark was the same bark. But the seeing was different. I was choosing to be there. I was choosing to look. And the looking had a quality that the waiting-room looking had not had: it was comfortable. I was comfortable in my car with the heat running and the seat adjusted and my phone charged. I was choosing this. And the choosing made it smaller.
 
-Not worthless. Smaller. The tulip poplars were still remarkable objects — eighty feet of engineered growth, bark splitting under the pressure of its own becoming, buds preparing to open into a shape that no other North American hardwood produces. I could see all of this. I could name it. But I couldn't feel it the way I had felt it in the waiting room, when looking was not a choice but a condition, when my attention was not a luxury but a necessity, when the only alternative to seeing was sitting in a plastic chair with nothing.
+Not worthless. Smaller. The tulip poplars were still eighty feet of engineered growth, bark splitting under the pressure of its own becoming, buds preparing to open into a shape that no other North American hardwood produces. I could see all of this. I could name it. But the seeing had no weight to it. It floated where the waiting-room seeing had pressed.
 
-Deliberate attention is a discipline, and I respect it, and I will continue to practice it badly.
-
-Involuntary attention — the attention of the trapped, the bored, the waiting, the stuck — is something else. It is the attention of people who are in rooms they didn't choose, looking at things they didn't seek out, and seeing them anyway. It doesn't redeem anything. It doesn't heal anything. It is not a practice and it is not a prayer.
-
-It is what's left when everything else has been taken. And what's left, it turns out, is exact.
+I sat there for twenty minutes and then I drove home, and I haven't been back, and I don't know if I will. I keep thinking about the man with his eyes closed. His hands on his knees, his breathing deliberate. I assumed he wasn't looking at anything. But maybe he was looking at something I couldn't see from where I sat, in my chair, with my window.
