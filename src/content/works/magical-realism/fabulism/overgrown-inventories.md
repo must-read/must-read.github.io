@@ -7,8 +7,8 @@ authorA: "Karen Russell"
 authorB: "Italo Calvino"
 workX: "The Metamorphosis"
 workY: "Piranesi"
-wordCount: 3448
-readingTimeMinutes: 14
+wordCount: 2922
+readingTimeMinutes: 12
 tags: ["fabulism", "multiple-voices", "gardens", "abundance", "cataloguing", "sisters", "transformation", "confinement", "field-guide"]
 rating: 0
 ratingCount: 0
@@ -71,9 +71,9 @@ Not scattered clover. Not clover-like. A dense, even, ankle-high meadow of white
 
 "I know. Come in. Watch your step near the bathroom, the floor's soft."
 
-The floor was soft because the subfloor was gone. Not rotted — composted. Replaced, from beneath, by a root system so dense it had the structural integrity of compressed soil. Walking on it felt like walking on a forest path that had been groomed by centuries of foot traffic. It was springy. It was pleasant. I hated that it was pleasant.
+The floor was soft because the subfloor was gone. Not rotted — composted. Replaced, from beneath, by a root system so dense it had the structural integrity of compressed soil. Walking on it felt like walking on a forest path. It was springy. It was pleasant.
 
-She had been keeping lists. That was the thing that scared me more than the hollyhocks. Ava had always been a list-maker — grocery lists, packing lists, the pro-con lists she'd make before any decision larger than which restaurant to eat at — but these lists were different. She had a notebook, the first one, and she was cataloguing the growth the way a naturalist catalogues specimens. Species name, surface of origin, rate of spread, sensory observations. The handwriting was steady. The margins were clean. On page twenty-three, a pressed clover leaf, flattened under a strip of tape.
+She had been keeping lists. That was the thing that scared me more than the hollyhocks. She had a notebook, the first one, and she was cataloguing the growth the way a naturalist catalogues specimens. Species name, surface of origin, rate of spread, sensory observations. The handwriting was steady. The margins were clean. On page twenty-three, a pressed clover leaf, flattened under a strip of tape.
 
 "You're documenting it," I said.
 
@@ -83,19 +83,17 @@ She had been keeping lists. That was the thing that scared me more than the holl
 
 "Who?"
 
-She had me there. I thought about it. An exterminator? A botanist? The fire department? Each answer sounded ridiculous before I finished thinking it. Who do you call when your sister's apartment is becoming a forest? When her arm is growing moss? When the plumber comes and stands in the doorway and says, very quietly, "I can't help you," and walks back to his van and does not send a bill?
+She had me there. Who do you call when your sister's apartment is becoming a forest? When her arm is growing moss? The plumber came and stood in the doorway and said, very quietly, "I can't help you," and walked back to his van and did not send a bill.
 
-I called the landlord. I lied. I said Ava had a leak. A persistent leak, yes, that had caused some water damage, yes, and some mold — we might need to talk about the security deposit. The landlord said he'd send someone. He didn't send someone for two weeks, and when he did it was a kid in a maintenance polo who stood in the doorway and took a photograph and left without touching anything. I asked him what he was going to do. He said his boss would call me. His boss did not call me. Instead the landlord sent a letter, which I intercepted, which said Ava had thirty days to remediate or face eviction proceedings. I threw the letter away. Something grew from it in the trash can overnight — a pale shoot, stiff and curled, like the paper remembered being a tree and decided to go back.
+I called the landlord. I lied. I said Ava had a leak. A persistent leak, yes, that had caused some water damage, yes, and some mold — we might need to talk about the security deposit. The landlord said he'd send someone. He didn't send someone for two weeks, and when he did it was a kid in a maintenance polo who stood in the doorway and took a photograph and left without touching anything. Instead the landlord sent a letter, which I intercepted, which said Ava had thirty days to remediate or face eviction proceedings. I threw the letter away. Something grew from it in the trash can overnight — a pale shoot, stiff and curled, like the paper remembered being a tree and decided to go back.
 
 ---
 
-Entry 19. Surface: living room ceiling (popcorn texture, likely asbestos-containing, painted off-white in approximately 2003). Species: English ivy (Hedera helix), though the leaves are smaller than typical and arranged in a spiral pattern I have not seen documented. The ivy is growing downward. This is notable. Everything else grows outward or upward, following the logic of phototropism even in a room where the windows are now mostly occluded by wisteria. The ivy is growing down from the ceiling, as if the ceiling is soil and the room is sky. I have to duck under it to get to the bathroom. It makes the apartment feel like a cave with a green stalactite problem.
+Entry 19. Surface: living room ceiling (popcorn texture, likely asbestos-containing, painted off-white in approximately 2003). Species: English ivy (Hedera helix), though the leaves are smaller than typical and arranged in a spiral pattern I have not seen documented. The ivy is growing downward. Everything else grows outward or upward, following the logic of phototropism even in a room where the windows are now mostly occluded by wisteria. The ivy is growing down from the ceiling, as if the ceiling is soil and the room is sky. I have to duck under it to get to the bathroom.
 
 Entry 21. Surface: the wooden frame of the bedroom door. Species: shiitake mushroom (Lentinula edodes), four fruiting bodies along the top of the frame, gills facing down. They appeared overnight. They smell like broth. I have eaten one. It tasted like a shiitake mushroom grown on a wooden door frame, which is to say it tasted good and also faintly of paint, and I do not plan to eat the others because the implications are too circular: I grow food from surfaces, eat the food, and my body — which is also a surface — grows more. I am aware of the feedback loop. I choose not to think about it at this time.
 
 Entry 23. Surface: the second notebook. Already. I thought I had more time.
-
-Entry 24. Surface: the left lens of my reading glasses. A lichen, very thin, amber-colored, growing from the corner where the lens meets the frame. I can still see through it. The world, viewed through the lichen, looks warmer. Older. Like looking at the present through a sepia filter that is also alive.
 
 ---
 
@@ -109,23 +107,23 @@ Entry 24. Surface: the left lens of my reading glasses. A lichen, very thin, amb
 
 ## III. Dina (again)
 
-I went back every week. Sometimes twice. Each time there was less apartment and more — I don't have a word for it. Not garden. Gardens are intentional. Not jungle. Jungles are chaotic. What Ava's apartment was becoming had the order of a garden and the density of a jungle and the patience of something geological. Lichens don't hurry. Fungi don't panic. The apartment was changing the way a riverbed changes: too slowly to watch, too fast to ignore.
+I went back every week. Sometimes twice. Each time there was less apartment and more — I don't have a word for it. Not garden. Gardens are intentional. Not jungle. Jungles are chaotic. What Ava's apartment was becoming had the order of a garden and the density of a jungle and the patience of something geological.
 
-By week six I had to bring a machete. Not a real machete — a pair of garden shears — to cut a path from the front door to the couch, which was now a topiary, roughly couch-shaped, covered in boxwood that Ava said she had not trimmed. It trimmed itself. The cushions underneath were still there. You could sit on it. It was more comfortable than before, because the boxwood was dense and slightly yielding, like sitting on a living hedge that had been upholstered.
+By week six I had to bring garden shears to cut a path from the front door to the couch, which was now a topiary, roughly couch-shaped, covered in boxwood that Ava said she had not trimmed. It trimmed itself. The cushions underneath were still there. You could sit on it. It was more comfortable than before, because the boxwood was dense and slightly yielding, like sitting on a living hedge that had been upholstered.
 
 "You have to leave," I told her. Week six, shears in my lap, drinking the tea she'd made from something growing in the kitchen that she said was chamomile but that tasted like chamomile's more serious older sister.
 
 "Where?"
 
-"My place. Mom's place. Anywhere that isn't becoming the Amazon basin."
+"My place. Mom's place. Anywhere."
 
 "It'll follow me," she said. "You know that."
 
-I did know that. She'd come to my apartment once, early on, and stayed two nights, and when she left there was a trail of clover from the guest bed to the front door, and my bathroom mirror had a fern growing from the lower right corner, and the fern is still there, and I water it, and I pretend this is normal. I pretend I bought a bathroom fern. People buy bathroom ferns. This is a thing people do.
+I did know that. She'd come to my apartment once, early on, and stayed two nights, and when she left there was a trail of clover from the guest bed to the front door, and my bathroom mirror had a fern growing from the lower right corner, and the fern is still there, and I water it, and I pretend I bought a bathroom fern.
 
-But Ava — Ava can't pretend. Ava is the source. She walks down the sidewalk and the cracks in the concrete fill with green behind her, not immediately, not while you watch, but an hour later, two hours, and the city has started sending work crews to her block without filing any reports because nobody wants to be the person who writes the report that says a woman's footsteps are causing municipal vegetation.
+But Ava can't pretend. She walks down the sidewalk and the cracks in the concrete fill with green behind her, not immediately, not while you watch, but an hour later, two hours, and the city has started sending work crews to her block without filing any reports because nobody wants to be the person who writes the report.
 
-I stopped bringing rubber gloves around week four. There was no point. You cannot bleach a biome. I learned this the hard way — I sprayed bleach on the clover in the hallway and it died, briefly, and came back the next morning as something thicker, darker, with a root grip that pulled up strips of carpet padding when I tried to yank it. The bleach made it angry, if anger is something a clover can have, and I think in Ava's apartment it can.
+I sprayed bleach on the clover in the hallway and it died, briefly, and came back the next morning as something thicker, darker, with a root grip that pulled up strips of carpet padding when I tried to yank it.
 
 ---
 
@@ -133,9 +131,7 @@ Entry 31. The inventories are becoming harder to maintain. Not because the speci
 
 I have begun dictating into my phone. The phone is fine. The phone is glass and metal and whatever it is they make phones out of now, and nothing grows on it, and I find this reassuring and also sad, as if the phone is the one surface that refuses to participate.
 
-Entry 34. Surface: the bathroom mirror. The mirror has not broken. Nothing is growing on its surface. But when I look into it I can see, behind my own face, a tangle of green that is my apartment, and the green is so dense and so layered that my own reflection appears to be standing in a forest, and I cannot tell whether I am looking at a reflection of what is behind me or a window into what I am becoming.
-
-I do not look in the mirror often anymore.
+Entry 34. Surface: the bathroom mirror. The mirror has not broken. Nothing is growing on its surface. But when I look into it I can see, behind my own face, a tangle of green that is my apartment, and the green is so dense and so layered that my reflection appears to be standing in a forest, and I cannot tell whether I am looking at a reflection of what is behind me or a window into what I am becoming.
 
 Entry 36. Surface: right hand, palm. Not moss this time. A vine — thin, pale green, with leaves no larger than a thumbnail. It grows from the center of my palm along the lines that a fortune-teller would read. The life line, the heart line. It follows them precisely. I don't know what this means. I don't think it means anything. But it makes it hard to hold a pen. The vine wraps around the pen and the pen sprouts.
 
@@ -153,19 +149,19 @@ I am running out of pens.
 
 I have stopped numbering the species. There are too many, and some of them are not species I recognize, and some of them may not be species at all but variations, mutations, improvisations on the theme of plant that no taxonomy accounts for. A flower that smells like the word "Tuesday." A moss that is soft the way a whisper is soft — not texturally but in its volume, its insistence on being barely there. A vine that grows only at night and retracts by morning, leaving damp lines on the wall like the tracks of a snail that was writing something.
 
-Dina wants me to leave. She has wanted me to leave since the beginning, and she is right, in the way that people who love you are right about the things you will never do. I am not going to leave. Not because I can't — I can walk out the door, I have legs, the legs work, the legs have not yet been colonized though the ankles are iffy — but because leaving would mean leaving the inventories, and the inventories are all I have that is mine.
+Dina wants me to leave. She has wanted me to leave since the beginning, and she is right, in the way that people who love you are right about the things you will never do. I am not going to leave. Not because I can't — I have legs, the legs work, the ankles are iffy — but because leaving would mean leaving the inventories, and the inventories are all I have that is mine.
 
 Not the plants. The plants are not mine. They are the apartment's now, or their own, or something in between. But the lists — the numbered entries, the pressed specimens (dissolving, composting, returning to the cycle, but still — I pressed them, I taped them, I wrote their names in my handwriting which is getting harder to read because of the vine on my palm but is still mine) — the lists are what I did about it. Everyone else called someone. Dina called the landlord, the plumber called his wife, the city sent crews. I wrote it down.
 
-I think about Kafka. I don't know why. I never liked Kafka. But I think about the part where Gregor's sister plays the violin and Gregor, in his room, covered in dust and garbage and the remains of meals he couldn't eat, hears the music and crawls toward it and for a moment the story is about beauty, about a creature that is no longer human being moved by something human, and then the father throws an apple at him and the apple lodges in his back and rots there for weeks.
+I think about Kafka. I don't know why. I never liked Kafka. But I think about the part where Gregor's sister plays the violin and Gregor, covered in dust and garbage and the remains of meals he couldn't eat, hears the music and crawls toward it and for a moment the story is about beauty, about a creature that is no longer human being moved by something human, and then the father throws an apple at him and the apple lodges in his back and rots there for weeks.
 
 The apple rots in his back.
 
-That is what this is like. Not the apple. The rotting. The fact that something has been put into you — or has grown out of you — and it is going to stay there, and it is going to change you, and no one is going to remove it, and the people who love you are going to adjust, and the adjustment is going to look a lot like abandonment, and it isn't, but it feels like it, and the difference between "isn't" and "feels like it" is a gap you can grow a garden in.
+That is what this is like. Not the apple. The rotting. The fact that something has grown out of you and it is going to stay there, and it is going to change you, and the people who love you are going to adjust, and the adjustment is going to look a lot like giving up.
 
 ---
 
-*Prognosis: unknown. No instances of remission have been recorded. No treatment has been attempted (none suggested). The condition appears to be — the researcher hesitates to use the word "permanent," which implies a stability that contradicts the essence of the phenomenon. More accurately: the condition appears to be ongoing. Continuative. A present participle rather than a past.*
+*Prognosis: unknown. No instances of remission have been recorded. No treatment has been attempted (none suggested). The condition appears to be ongoing. Continuative.*
 
 *Addendum: the researcher's desk, on which these fieldnotes were compiled, has developed a small patch of moss near the keyboard. The researcher has not been in physical contact with the host. The researcher has only been writing about her.*
 
@@ -177,34 +173,24 @@ That is what this is like. Not the apple. The rotting. The fact that something h
 
 ## V. Dina (last)
 
-I went on a Thursday. I always go on Thursdays. I brought groceries — canned goods now, nothing fresh, because fresh things react to Ava's apartment the way iron filings react to a magnet, orienting themselves toward the nearest growth and joining it, tomatoes sprouting on the counter, bread going to mold in an hour, not the bad kind of mold but the living kind, the kind that is just another plant claiming another surface.
+I brought canned goods — nothing fresh, because fresh things in Ava's apartment orient themselves toward the nearest growth and join it. Tomatoes sprouting on the counter. Bread going to mold in an hour, not the bad kind, the green living kind that is just another colonist.
 
-I cut my way to the couch. The boxwood was taller. I sat. The tea was ready — Ava doesn't make tea anymore, the kitchen makes it, the kettle whistles itself, the water filters through whatever herbs have colonized the countertop that week. It tasted like lemon verbena and something underneath the lemon verbena that tasted the way damp soil smells after the first rain of a long season.
+The boxwood couch was taller. The tea was ready — Ava doesn't make tea anymore, the kitchen makes it, the kettle whistles itself, the water filters through whatever herbs have colonized the countertop that week.
 
-"How are you," I said, which is a stupid thing to say to your sister whose palm is a vine and whose apartment is a biome, but I said it because it is what you say, because language has its own rituals and rituals survive past the point of sense.
+"How are you," I said.
 
 "I ran out of notebooks," Ava said.
 
 "I can bring more."
 
-"Don't. They'll just —" She gestured. The gesture took in the room, the ceiling ivy, the walls where the paint was now a substrate for something between moss and watercolor, green bleeding into green. "I've been thinking about it differently. The inventories were a way of keeping count. But you can't keep count of something that doesn't have a number. It doesn't stop. There's no total."
-
-"That scares me," I said.
-
-"It used to scare me."
-
-She held up her right hand. The vine had grown past the wrist now, wrapping the forearm in a loose spiral, tender new leaves catching the light that came through the wisteria on the windows. The hand was still a hand. The fingers moved. She wiggled them and the vine wiggled with them, not fighting the movement, not directing it, just — accompanying it. Like a very slow dance between the body and what the body had become.
+"Don't." She held up her right hand. The vine had grown past the wrist now, wrapping the forearm in a loose spiral, tender new leaves catching the light that came through the wisteria on the windows. The hand was still a hand. The fingers moved. She wiggled them and the vine wiggled with them, not fighting the movement, not directing it, just accompanying it.
 
 "Does it hurt?"
 
 "No. It itches."
 
-"Like a scab."
+I sat on the boxwood couch and drank the tea the kitchen made and I did not call anyone and I did not bring bleach. The landlord's latest letter was in my purse. I had not opened it. I was not going to open it.
 
-"Like a scab. Like something finishing."
+I keep thinking I should feel something cleaner than what I feel. Relief that she's not suffering. Grief that the apartment is gone. Acceptance, maybe, the way the articles about stages of grief promise you'll eventually get there. But what I feel is more like the Tuesday after a funeral — not the sharp day, not the resolved day, just the ordinary day where the person is still gone and you go to work and the absence sits in your passenger seat and you don't talk about it.
 
-I sat on the boxwood couch and drank the tea the kitchen made and I did not call anyone and I did not bring bleach and I did not throw away the landlord's latest letter, which I had not opened, which was in my purse, which by the time I got home would probably have a root system.
-
-Out the window — through the gaps in the wisteria — I could see the street. The sidewalk cracks had grass in them. Not just in front of the building. Down the block. Around the corner.
-
-The growing goes where the growing goes.
+Out the window — through the gaps in the wisteria — I could see the sidewalk cracks down the block had grass in them.
