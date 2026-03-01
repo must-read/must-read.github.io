@@ -7,8 +7,8 @@ authorA: "Talia Hibbert"
 authorB: "Virginia Woolf"
 workX: "Get a Life, Chloe Brown"
 workY: "Orlando"
-wordCount: 5289
-readingTimeMinutes: 21
+wordCount: 5102
+readingTimeMinutes: 20
 tags:
   - chronic-pain
   - sensory-processing
@@ -77,7 +77,7 @@ A pause. Each of them holding information about the other's body that had been o
 
 "You don't have to."
 
-"I know I don't have to." She said this with a kind of fierceness, as though Noor had implied she was being charitable, and then she went back inside her flat and closed the door, and Noor stood in the hallway thinking: *Oh. That's interesting.*
+"I know I don't have to." She said this with a fierceness, as though Noor had implied she was being charitable, and then she went back inside her flat and closed the door, and Noor stood in the hallway thinking: *Oh. That's interesting.*
 
 ---
 
@@ -107,7 +107,7 @@ Noor blinked. Most people didn't know the word. "Sometimes. You?"
 
 "That. But it's someone's hand on my arm."
 
-They stood there, in the doorway, two women whose nervous systems had each, in different directions, broken the contract between body and world. Noor felt something shift — not in her hip, which was behaving for once, but lower and deeper, in the place where curiosity turns into attention, where attention turns into something she hadn't put on any list.
+They stood there, in the doorway, two women whose nervous systems had each, in different directions, broken the contract between body and world. Noor felt something shift — not in her hip, which was behaving for once, but lower and deeper, in the place where curiosity becomes attention and attention becomes something she hadn't put on any list.
 
 ---
 
@@ -177,8 +177,6 @@ And something happened.
 
 Not fireworks, not electricity — those metaphors are for people whose nervous systems keep their promises. What happened was: the warmth of Leonie's palm against the back of Noor's hand registered first as temperature, then as weight, then as a specific kind of presence that Noor's body, for reasons it did not explain, decided to trust. The fibromyalgia didn't stop. The background noise of her hip and her shoulders and her lower back continued their usual commentary. But the hand — the actual hand, with its calluses from bone folders and its careful pressure — became the loudest signal.
 
-And for a moment, Noor's body was not a problem to be managed. It was a receiver, tuned to a single frequency.
-
 She looked up. Leonie was watching her with an expression Noor recognized because she'd worn it herself: the face of someone who has touched another person and found it bearable, and is trying not to make this into a bigger thing than it is.
 
 "Sorry," Leonie said, withdrawing her hand.
@@ -217,7 +215,7 @@ Leonie's hands were on the table. Noor watched them — the fine tremor that ran
 
 "I have literally been on fire while eating cereal. I understand stopping in the middle of something."
 
-Leonie laughed. It was the first time Noor had heard her really laugh — not the careful, portioned-out almost-smile, but a sound that used her whole throat, and Noor thought: there it is. The frequency I've been looking for. That is the sound of a body surprising itself with pleasure.
+Leonie laughed. It was the first time Noor had heard her really laugh — not the careful, portioned-out almost-smile, but a sound that used her whole throat, and Noor thought: *there.* The frequency she'd been tuned wrong for. That sound.
 
 ---
 
@@ -235,7 +233,7 @@ This is not the same as romance novels would have you believe. In novels, negoti
 
 "If I flinch, same."
 
-They stood in the hallway between their flats, talking about their bodies like cartographers discussing difficult terrain — here is the elevation change, here is the marshy ground, here is the place where the path is impassable after rain. Noor thought of the Ordnance Survey benchmarks carved into buildings all over Britain: a horizontal line with a broad arrow beneath it, cut into stone to mark a point of known height. Each mark a promise that this, at least, has been measured. This, at least, is certain.
+They stood in the hallway between their flats, talking about their bodies like cartographers discussing difficult terrain — here is the elevation change, here is the marshy ground, here is the place where the path is impassable after rain. Noor thought of the Ordnance Survey benchmarks carved into buildings all over Britain: a horizontal line with a broad arrow beneath it, cut into stone to mark a point of known height. Each mark a promise that this, at least, has been measured.
 
 She wanted to find Leonie's benchmarks. The places where her body's relationship to sensation was stable, known, reliable. She wanted to carve small arrows beneath them.
 
@@ -285,7 +283,7 @@ The distance between them on the sofa was exactly one cushion-width. Noor could 
 
 "But it's the side that's facing you."
 
-So Noor kissed her from the left, and the pain in her shoulder, which had been a dull four, flared briefly to a six as she shifted her weight, and she didn't care, because Leonie's mouth tasted of elderflower and responded to hers with a kind of focused attention that made Noor understand what Leonie meant about everything being loud — because this was loud too, for Noor, in a way she'd forgotten kissing could be. Not just lips and pressure and warmth but the whole architecture of sensation rearranging itself: her shoulder pain dropping to background noise, her hip reporting in with a grudging *acceptable*, and the new signal — Leonie's hand on her jaw, Leonie's thumb tracing her cheekbone with the same precision she used on book spines — becoming the only frequency that mattered.
+So Noor kissed her from the left, and the pain in her shoulder, which had been a dull four, flared briefly to a six as she shifted her weight, and she didn't care, because Leonie's mouth tasted of elderflower and responded to hers with a focused attention that made Noor understand what Leonie meant about everything being loud — because this was loud too, for Noor, in a way she'd forgotten kissing could be. Not just lips and pressure and warmth but the whole architecture of sensation rearranging itself: her shoulder pain dropping to background noise, her hip reporting in with a grudging *acceptable*, and the new signal — Leonie's hand on her jaw, Leonie's thumb tracing her cheekbone with the same precision she used on book spines — becoming the only frequency that mattered.
 
 They moved to the bedroom because the sofa didn't have enough room for what two bodies with complicated spatial requirements needed, and because Noor's bed was the most expensive thing she owned, a mattress engineered for pressure distribution that Leonie sank into and said, "Oh, this is — this is very good."
 
@@ -295,7 +293,7 @@ They moved to the bedroom because the sofa didn't have enough room for what two 
 
 "I spent ten thousand pounds on the ability to sleep. The bed was incidental."
 
-Leonie pulled her down. Carefully. The way you'd handle a book whose binding you respected. Noor felt herself being read — Leonie's hands moving along her arms, her ribs, pausing where the muscles tightened, changing pressure where the skin flushed. It was methodical and tender and, Noor realized with something like awe, it was how Leonie touched everything: with full attention, because for Leonie, touch was never casual. Every contact was an event. Every surface was information.
+Leonie pulled her down. Carefully. The way you'd handle a book whose binding you respected. Noor felt herself being read — Leonie's hands moving along her arms, her ribs, pausing where the muscles tightened, changing pressure where the skin flushed. It was methodical and tender and it was how Leonie touched everything: with full attention, because for Leonie, touch was never casual. Every contact was an event. Every surface was information.
 
 "Here?" Leonie's hand on Noor's hip. The bad one.
 
@@ -311,13 +309,11 @@ And slow turned out to be a country Noor had never visited. She had had sex befo
 
 Leonie's mouth on her collarbone. Noor's hands in Leonie's hair — then stopping, because Leonie sucked in a breath, and Noor said, "Too much?" and Leonie said, "The scalp. It's — just hold still for a second," and Noor held still, her fingers resting without pressure, and felt the moment when Leonie's body decided to accept the contact, a tiny relaxation she wouldn't have noticed if she hadn't been paying attention with her whole self.
 
-This is what it is, Noor thought, to map someone. Not the grand survey, not the satellite view, but the close work — the fieldwork — of learning where one body ends and another begins, and what happens in the contested territory between.
-
 Leonie moved lower. Noor's hip objected. She shifted — a practiced adjustment, the kind of rearrangement chronic pain teaches you to perform mid-sentence, mid-step, mid-anything — and found an angle where the pain was tolerable and Leonie's weight was welcome, and she thought of benchmarks again, of the broad arrow carved beneath the horizontal line, the surveyor's promise: *we measured this. this is known.*
 
-And then Leonie's hand moved between her thighs, and thought stopped being sentences and became instead a series of impressions — warmth, pressure, the exact right pressure, how did she know the exact right pressure — and Noor's consciousness, which had spent years contracted around pain, monitoring every nerve for threat signals, did something extraordinary: it expanded. It opened outward like a lens widening its aperture, and the pain was still there, her hip and her shoulder and the low persistent hum of her lower back, but they had become part of a larger field, a landscape that included Leonie's breathing against her neck and the elderflower still on her lips and the sound Noor was making, a sound she didn't recognize, a sound that belonged to a body that had decided, for this moment, to be entirely here.
+And then Leonie's hand moved between her thighs, and thought stopped being sentences and became instead a series of impressions — warmth, pressure, the exact right pressure, how did she know the exact right pressure — and Noor's consciousness, which had spent years contracted around pain, monitoring every nerve for threat signals, opened outward like a lens widening its aperture, and the pain was still there, her hip and her shoulder and the low persistent hum of her lower back, but they had become part of a larger field that included Leonie's breathing against her neck and the elderflower still on her lips and the sound Noor was making, a sound she didn't recognize, a sound that belonged to a body she was only now meeting.
 
-She came with her eyes open. Leonie was watching her face with the expression of a woman who had just been given an extraordinary piece of information and was trying to decide where to file it.
+She came with her eyes open. Leonie was watching her face with the expression of someone deciding whether to say something and deciding not to.
 
 "Okay?" Leonie whispered.
 
@@ -353,17 +349,17 @@ Noor brushed her fingertips — just fingertips — along Leonie's jaw. Felt the
 
 She touched Leonie the way Leonie had touched her: slowly, announced, each movement preceded by a word or a look that said *here, now, this.* She learned the benchmarks: the inside of Leonie's wrist, where pressure was welcome; the hollow of her throat, where it wasn't; the place below her navel where fingertips made Leonie arch her back and grip the sheets and say something that might have been Noor's name or might have been a sound that had never been a word.
 
-Leonie's body, when it was past the initial fortress of its defenses, was extraordinarily responsive. Every touch registered visibly — a flush, a tremor, a catch in her breathing — and Noor realized that this was what Leonie lived with: a body that could not dissemble, could not be casual, could not pretend that a hand on its skin was anything less than a seismic event. It was, Noor thought, the opposite of her own condition. Noor's body lied about pain. Leonie's body told the truth about everything.
+Leonie's body, when it was past the initial fortress of its defenses, was responsive in a way that seemed to alarm her. Every touch registered visibly — a flush, a tremor, a catch in her breathing — and twice she grabbed Noor's wrist and said "wait" and Noor waited, and once Leonie said "sorry" and Noor said "don't" and Leonie said "I'm not apologizing for stopping, I'm apologizing for wanting to keep going when I know I should —" and Noor said "should according to whom?" and Leonie didn't answer and pulled her back down.
 
 When Leonie came, she pressed her face into Noor's shoulder and went utterly silent, and Noor held still — the way Leonie had held still for her — and waited, her hand resting without pressure on Leonie's back, until the trembling stopped and Leonie surfaced and said, against Noor's skin, "I need — maybe thirty seconds. Don't move."
 
 Noor didn't move.
 
-In the stillness, she could feel both their heartbeats. Hers in her throat, which it had no business being in. Leonie's against her chest, fast and decelerating. Two clocks that had briefly synchronized and were now finding their separate tempos again.
+In the stillness, she could feel both their heartbeats. Hers in her throat, which it had no business being in. Leonie's against her chest, fast and decelerating.
 
 ---
 
-Afterward, they lay in Noor's ten-thousand-pound bed and did not talk about what it meant. This is not the same as not acknowledging it. They acknowledged it through the careful distance Leonie maintained — exactly six inches, the gap her nervous system required for post-contact recovery — and through the way Noor positioned a pillow under her hip without being asked, and through the silence, which was not uncomfortable but was, Noor thought, the silence of two people who had just discovered a new territory and were waiting for the map to dry before they tried to read it.
+Afterward, they lay in Noor's ten-thousand-pound bed and did not talk about what it meant. They acknowledged it through the careful distance Leonie maintained — exactly six inches, the gap her nervous system required for post-contact recovery — and through the way Noor positioned a pillow under her hip without being asked, and through the silence, which was the silence of two people who had just done something they couldn't yet describe and were not going to try tonight.
 
 "Your list," Leonie said, eventually.
 
@@ -397,7 +393,7 @@ She showed Leonie the screen. Leonie read it in the near-dark, squinting against
 
 "Bodies change. You can't finish a map of something that keeps moving."
 
-"I know. That's the best part." Noor set the phone face-down on the nightstand. "Ordnance Survey stopped maintaining their benchmark network in the eighties. Five hundred thousand cut marks on buildings all over Britain, and they just — abandoned them. Because satellites were more accurate. Because the old way of measuring height was too slow, too human."
+"I know." Noor set the phone face-down on the nightstand. "Ordnance Survey stopped maintaining their benchmark network in the eighties. Five hundred thousand cut marks on buildings all over Britain, and they just — abandoned them. Because satellites were more accurate. Because the old way of measuring height was too slow, too human."
 
 "That's sad."
 
@@ -417,11 +413,9 @@ Leonie turned on her side. The six-inch gap between them narrowed to four. "Are 
 
 "Obviously."
 
-The silence returned. Noor's hip was at a six now, the post-activity flare her body always levied as a tax on enjoyment. She adjusted the pillow. Leonie noticed but did not comment, and Noor loved her for it — loved the restraint, the refusal to narrate or solve, the understanding that a woman adjusting a pillow under her hip at midnight is not asking for sympathy but for space to manage what she's always managed.
+The silence returned. Noor's hip was at a six now, the post-activity flare her body always levied as a tax on enjoyment. She adjusted the pillow. Leonie noticed but did not comment, and Noor loved her for it — loved the restraint, the refusal to narrate or solve.
 
-Whether *loved* was the word, she didn't examine. It was 1 a.m. on a Friday and her body was doing four things at once — hurting, recovering, wanting, resting — and none of them contradicted the others, and for the first time in longer than she could remember, she did not need to choose which signal to attend to.
-
-They were all true. They were all hers.
+Whether *loved* was the word, she didn't examine. It was 1 a.m. on a Friday and her body was doing four things at once — hurting, recovering, wanting, resting — and she could not have said which one was truest, and she was not going to try.
 
 Leonie's breathing had slowed. Not asleep, but approaching it — the way someone approaches a doorway in a house they're still learning the layout of, one hand on the frame.
 
@@ -437,14 +431,12 @@ Leonie's breathing had slowed. Not asleep, but approaching it — the way someon
 
 "Because of the hip."
 
-Leonie shifted. Found her six inches. Settled into them like a cat finding the exact right patch of sunlight, and Noor felt the mattress adjust between them, the expensive foam registering two bodies now, distributing weight in its quiet, engineered way.
+Leonie shifted. Found her six inches. Settled into them, and Noor felt the mattress adjust between them, the expensive foam registering two bodies now, distributing weight in its quiet, engineered way.
 
-Outside, Sneinton was doing what Sneinton did at 1 a.m.: a taxi on the Carlton Road, someone laughing in a garden two streets over, the distant percussion of a bass line from a pub that should have closed at midnight. The sounds layered over each other like contour lines on a map, each one a different altitude of the night, and Noor lay inside them and thought about all the selves she had been in this bed. The self at twenty-two, newly diagnosed, who had cried into this pillow's predecessor until the fabric went stiff. The self at twenty-five who had decided, clinically, that her body's capacity for pleasure had been revoked and that wanting was a currency she could no longer afford. The self at twenty-seven who had tried, with a woman named Priya, to pretend her body was ordinary, and had watched Priya's face when she had to stop halfway through, and had seen the kindness, and had hated it.
+Outside, Sneinton was doing what Sneinton did at 1 a.m.: a taxi on the Carlton Road, someone laughing in a garden two streets over, the distant percussion of a bass line from a pub that should have closed at midnight. The sounds layered over each other like contour lines on a map, each one a different altitude of the night.
 
-And now this self. Twenty-nine, lying beside a woman who required thirty seconds of silence after orgasm and who played the cello badly and who had brought soup to her door without being asked and without apologizing for it. This self, whose body was running its usual contradictions — the hip lying, the shoulder aching, the skin still humming from where Leonie's fingertips had traced paths she was already forgetting and would need to learn again — and who was not, for once, trying to resolve the contradictions into a single story.
+She thought about the self at twenty-five who had decided, clinically, that her body's capacity for pleasure had been revoked. The self at twenty-seven who had tried, with a woman named Priya, to pretend her body was ordinary, and had watched Priya's face when she had to stop halfway through, and had seen the kindness, and had hated it. She did not think about the self she was now. That one was still being surveyed.
 
-The body was not a story. It was a landscape. It changed with the weather and the season and the time of day, and anyone who tried to write a definitive account of it was a fool, and anyone who tried to map it was a cartographer, and cartographers, as Noor knew from professional experience, were the most optimistic people on earth — because they kept measuring things that refused to stay measured.
+Noor closed her eyes. Her hip was lying again, insisting it had migrated somewhere to the left of where the mattress held it. She let it lie. She let her body maintain its private arguments, its phantom geographies, its referred sensations — pain in one place pointing to damage in another, pleasure in one place pointing to connection she didn't have a name for yet.
 
-Noor closed her eyes. Her hip was lying again, insisting it had migrated somewhere to the left of where the mattress held it. She let it lie. She let her body maintain its private arguments, its phantom geographies, its referred sensations — pain in one place pointing to damage in another, pleasure in one place pointing to connection everywhere.
-
-The list on her phone glowed faintly, face-down, its light leaking around the edges of the case. Five items. None of them crossed off. All of them, in the dark, still legible.
+Leonie murmured something in her sleep. Or not in her sleep — Noor couldn't tell. The six inches between them was five now, or four. Closing at a rate she couldn't measure and wouldn't try.
