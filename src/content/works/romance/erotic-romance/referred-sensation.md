@@ -18,7 +18,9 @@ tags:
   - british-setting
   - erotic
   - intimacy
-publishedDate: 2026-03-01
+rating: 4.1
+ratingCount: 9
+publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: >
   Hibbert's witty, embodied specificity about living in a complicated body meets Woolf's luminous interiority and fluid sense of self. A cartographic data analyst with fibromyalgia and her sensory-hypersensitive neighbor negotiate desire as a mutual mapping project — each body a foreign country requiring its own legend.
