@@ -7,8 +7,8 @@ authorA: "Jorge Luis Borges"
 authorB: "Samanta Schweblin"
 workX: "If on a winter's night a traveler"
 workY: "The Memory Police"
-wordCount: 7180
-readingTimeMinutes: 29
+wordCount: 6382
+readingTimeMinutes: 26
 tags: ["forgetting", "language", "erasure", "proofreading", "indexes", "loss", "compliance", "books", "bureaucracy"]
 rating: 0.0
 ratingCount: 0
@@ -35,9 +35,9 @@ combination:
     - "The creeping normalization of absence, where asking about what's missing becomes the transgressive act"
 ---
 
-The manuscript arrived on a Monday in a brown envelope with no return address, which was unusual but not unprecedented — the publishing house had been reorganizing its mailroom for three weeks, and unusual things were arriving in unusual ways. Lena Voss put the envelope on her desk next to her coffee and her red pencils (she used red for errors, blue for queries, green for suggestions that were not strictly necessary but that she felt the text deserved) and opened it with a letter opener that had once been her grandmother's and was now, she supposed, simply hers.
+The manuscript arrived on a Monday in a brown envelope with no return address. Lena Voss put it on her desk next to her coffee and her red pencils (she used red for errors, blue for queries, green for suggestions that were not strictly necessary but that she felt the text deserved) and opened it with a letter opener that had been her grandmother's.
 
-The title page read: *A Complete Index of the Remaining World*. Below the title, no author name. Below the absent author name, a publisher's stamp she recognized — the house's old sigil, the one they'd stopped using four years ago after the rebranding. Someone in production must have used the wrong template. She made a note.
+The title page read: *A Complete Index of the Remaining World*. Below the title, no author name. Below that, a publisher's stamp she recognized — the house's old sigil, the one they'd stopped using four years ago. Someone in production must have used the wrong template. She made a note.
 
 The manuscript was 412 pages. She counted them, as she always did, by lifting the bottom-right corner and letting the pages fall in sequence past her thumb. The paper was heavier than standard manuscript stock. Each page was numbered in the upper-right corner in a typeface she didn't recognize — not Garamond, not Caslon, not anything from the house's stylesheet. She made a note.
 
@@ -57,47 +57,45 @@ The list continued for twelve pages. Some entries were concrete objects. Some we
 
 Lena checked the style guide. The house had no policy on this kind of list. She flagged the inconsistent capitalization, noted that "birdsong" should probably be lowercased, and moved on.
 
-She returned to the list. Entry 22 was "the distinction between lavender and lilac." Entry 23 was "the sound of a key in a lock that has been recently oiled." Entry 24 was "the word 'penumbra.'" She paused at this one. She liked penumbra. It was the shadow's shadow — the partial zone, the almost-dark. To remove a word was to remove not only the thing it named but the space around the thing, the conceptual region that could only be reached through that particular arrangement of syllables. "Semi-darkness" was not the same. "Partial shadow" was not the same. To lose "penumbra" was to lose a specific way of seeing the edge of light, a way that no other word could reconstruct.
+She returned to the list. Entry 22 was "the distinction between lavender and lilac." Entry 23 was "the sound of a key in a lock that has been recently oiled." Entry 24 was "the word 'penumbra.'" She paused at this one. She liked penumbra. The partial zone, the almost-dark. "Semi-darkness" was not the same. "Partial shadow" was not the same. To lose "penumbra" was to lose a specific way of seeing the edge of light, one that no synonym could reconstruct.
 
 She flagged none of this. It was not a copy editor's concern. She did note that the em-dashes were inconsistent — some entries used spaced en-dashes, others used closed em-dashes — and moved on.
 
 ---
 
-Page 13 is where the narrative began, or what passed for narrative. A woman — unnamed, referred to only as "the indexer" — lived in an apartment in a city that was never named, in a country that was never specified. She worked for an institution that was described only as "the Bureau of Standard Revisions." Her job was to maintain an index — a cross-reference system for a collection of documents that described the world as it currently existed. When something in the world changed, the index had to be updated.
+Page 13 is where the narrative began, or what passed for narrative. A woman — unnamed, referred to only as "the indexer" — lived in an apartment in a city that was never named. She worked for an institution described only as "the Bureau of Standard Revisions." Her job was to maintain a cross-reference system for a collection of documents that described the world as it currently existed. When something in the world changed, the index had to be updated.
 
-Lena recognized the premise. Kafka's surveyor, Borges's librarian — there was a tradition of characters employed in impossible bureaucracies, and the indexer fit the mold. She made a note: *Check that this doesn't read as pastiche. The tone is close to parody in places. Author may want to push the voice further from the obvious references.*
+Lena made a note: *Check that this doesn't read as pastiche. The tone is close to parody in places. Author may want to push the voice further from the obvious references.*
 
-But as she read deeper into the manuscript, the tone shifted. The indexer's days were not absurd. They were ordinary. She woke, commuted, sat at a metal desk, updated her cross-references with a fine-point pen, and went home. The building where she worked had linoleum floors and a drinking fountain that produced water so cold it hurt her teeth. Her supervisor, a man named Dahl who wore the same brown cardigan every day, reviewed her entries once a week and initialed them in the margin without reading them. She had a coworker named Petra who ate rice crackers at her desk with a focus that suggested she was performing a task rather than having lunch.
+But as she read deeper, the tone shifted. The indexer's days were not absurd. They were ordinary. She woke, commuted, sat at a metal desk, updated her cross-references with a fine-point pen, and went home. The building where she worked had linoleum floors and a drinking fountain that produced water so cold it hurt her teeth. Her supervisor, a man named Dahl who wore the same brown cardigan every day, reviewed her entries once a week and initialed them in the margin without reading them. She had a coworker named Petra who ate rice crackers at her desk with a focus that suggested she was performing a task rather than having lunch.
 
-Nothing was wrong. Everything was exactly itself. And yet something in the rhythm of the sentences made Lena read faster, as if the text were pulling her forward by the wrists, and she understood — without being able to point to the specific sentence where she understood it — that things were missing.
+Nothing was wrong. Everything was exactly itself. And yet something in the rhythm of the sentences made Lena read faster, and she understood — without being able to point to the specific sentence where she understood it — that things were missing.
 
-She kept reading. The indexer had a routine that the manuscript detailed with a precision Lena found almost oppressive: the order in which she opened her drawers (third, first, second — never second first, because the second drawer stuck and required a specific angle of force that she could only achieve after her wrist had warmed up on the other two), the way she aligned her pen with the upper edge of whatever document was in front of her before reading the first word, the exact temperature at which she brewed her tea (not boiling — three minutes off the boil, which she timed with a small hourglass she kept on her desk despite the clock on the wall). These routines were not described as eccentricities. They were described as facts, with the same declarative flatness with which one might describe the orbit of a planet. The indexer did not find them strange. The manuscript did not find them strange. Only Lena, reading from outside, could see the outline of a person who had organized her life so thoroughly that any alteration — any removed drawer, any confiscated hourglass — would register as a seismic event.
-
-The manuscript understood this. That was what made Lena's breath change. The text had built its character with the patience of someone constructing a house of cards in a room with open windows, knowing that the point of the construction was the collapse.
+She kept reading. The indexer had a routine that the manuscript detailed with a precision Lena found almost oppressive: the order in which she opened her drawers (third, first, second — never second first, because the second drawer stuck and required a specific angle of force that she could only achieve after her wrist had warmed up on the other two), the way she aligned her pen with the upper edge of whatever document was in front of her before reading the first word, the exact temperature at which she brewed her tea (not boiling — three minutes off the boil, which she timed with a small hourglass she kept on her desk despite the clock on the wall). These routines were not described as eccentricities. They were described as facts, with the same declarative flatness with which one might describe the orbit of a planet. Only Lena, reading from outside, could see the outline of a person who had organized her life so thoroughly that any alteration — any removed drawer, any confiscated hourglass — would register as a seismic event.
 
 ---
 
-On Tuesday morning, Lena opened the manuscript to the page where she'd left off — page 47, the scene where the indexer discovers that an entry she added last week (the word "saffron") is no longer in the index, and there is no deletion record, and when she asks Dahl about it he looks at her with an expression that is not confusion but something flatter, something that hasn't yet organized itself into confusion because it doesn't see the problem.
+On Tuesday morning, Lena opened the manuscript to page 47 — the scene where the indexer discovers that an entry she added last week (the word "saffron") is no longer in the index, and there is no deletion record, and when she asks Dahl about it he looks at her with an expression that is not confusion but something flatter, something that doesn't see the problem.
 
 Page 47 was there. The page number was correct. But the scene was different.
 
 The indexer was not asking Dahl about saffron. She was updating a cross-reference for municipal water pressure. The paragraph where she noticed the missing entry — Lena was certain she had proofread it yesterday, had flagged a comma splice in the third line — did not exist. The page contained a different scene, one that read as if it had always been there, as if the version Lena remembered had never been written.
 
-She checked her notes. In the margin of her annotation sheet, in her own handwriting, in red pencil: *p. 47, line 3 — comma splice. "The entry had been there, she was certain of it" should be "The entry had been there; she was certain of it."*
+She checked her notes. In her own handwriting, in red pencil: *p. 47, line 3 — comma splice. "The entry had been there, she was certain of it" should be "The entry had been there; she was certain of it."*
 
-She looked at page 47 of the manuscript. There was no comma splice. There was no sentence about certainty. The line did not exist.
+She looked at page 47. There was no comma splice. There was no sentence about certainty. The line did not exist.
 
-Lena put her pencil down. She picked it up. She turned to page 46. She turned to page 48. She re-counted the pages — 412, the same number as yesterday. The manuscript had not gotten shorter. It had simply changed. Something had been removed and the remaining text had closed around the gap the way skin closes over a thorn that has been pulled out — seamlessly, without scar, as if the wound had never happened.
+Lena put her pencil down. She picked it up. She turned to page 46. She turned to page 48. She re-counted the pages — 412, the same number as yesterday. The manuscript had not gotten shorter. It had simply changed. Something had been removed and the remaining text had closed around the gap the way skin closes over a pulled thorn — seamlessly, without scar.
 
 She made a note.
 
 ---
 
-The pattern established itself over the following days with the regularity of weather. Each morning, Lena would open the manuscript to the page where she'd stopped, and something would be different. Not everything. Not large things, at first. A sentence here. A passage there. The indexer's coworker Petra lost her rice crackers — one morning the scene at the desk simply described Petra sitting with her hands in her lap, staring at nothing, and the rice crackers were gone not only from the page but from every other page where they'd appeared, as if the concept of Petra eating rice crackers had been surgically extracted from the manuscript's memory.
+The pattern established itself over the following days. Each morning, Lena would open the manuscript to the page where she'd stopped, and something would be different. Not everything. Not large things, at first. A sentence here. A passage there. The indexer's coworker Petra lost her rice crackers — one morning the scene simply described Petra sitting with her hands in her lap, staring at nothing, and the rice crackers were gone not only from that page but from every page where they'd appeared, as if the concept had been surgically extracted from the manuscript's memory.
 
-The manuscript did not acknowledge these changes. No character remarked on Petra's empty hands. No passage described the absence. The text simply continued as if rice crackers had never existed within its borders — and that, Lena found, was the part that made her breath come shorter, the part that felt wrong in a way she could not put on a query slip.
+The manuscript did not acknowledge these changes. No character remarked on Petra's empty hands. The text simply continued as if rice crackers had never existed within its borders — and that was the part that felt wrong in a way she could not put on a query slip.
 
-She tried to tell her supervisor. Not Dahl — Dahl was a character. Her actual supervisor, Ingrid, who occupied the office at the end of the hall and who had assigned Lena this manuscript three weeks ago with no special instructions, no context, just the brown envelope and a sticky note that said "Standard proof — timeline is Thursday."
+She tried to tell her supervisor. Not Dahl — Dahl was a character. Her actual supervisor, Ingrid, who had assigned Lena this manuscript three weeks ago with no special instructions, just the brown envelope and a sticky note that said "Standard proof — timeline is Thursday."
 
 "The manuscript is changing," Lena said.
 
@@ -105,7 +103,7 @@ Ingrid looked up from her screen. She had the particular expression of a person 
 
 "Passages are disappearing. Overnight. The page count stays the same but the content shifts. Scenes I proofread yesterday aren't there today."
 
-Ingrid's expression didn't change, but something behind it rearranged — not concern, not disbelief, but a kind of filing motion, as if she were deciding in which drawer to place this information. "Are your notes inconsistent?"
+Ingrid's expression didn't change, but something behind it rearranged — a kind of filing motion, as if she were deciding in which drawer to place this information. "Are your notes inconsistent?"
 
 "My notes are the only record. They reference lines that aren't in the manuscript anymore."
 
@@ -113,43 +111,43 @@ Ingrid's expression didn't change, but something behind it rearranged — not co
 
 ---
 
-Lena did not believe her notes were the error. She had been a copy editor for eleven years. She had proofread manuscripts in fourteen languages (she could read seven; for the other seven, she was checking formatting, line spacing, page breaks — the architecture of the text rather than its content). She knew the difference between a faulty memory and a text that had changed. The difference was in the hands: when she remembered wrong, her hands were uncertain, hovering over the page. When the text had changed, her hands knew where the old version had been. Her index finger would go to the spot on the page where a sentence used to start, and it would find a different sentence, and the finger would recoil slightly, the way you pull back from a light switch in a room that has been rearranged.
+Lena did not believe her notes were the error. She had been a copy editor for eleven years. She had proofread manuscripts in fourteen languages (she could read seven; for the other seven, she was checking formatting, line spacing, page breaks — the architecture of the text rather than its content). She knew the difference between a faulty memory and a text that had changed. The difference was in the hands: when she remembered wrong, her hands hovered over the page, uncertain. When the text had changed, her index finger went to the spot where a sentence used to start, found a different sentence, and recoiled — the way you pull back from a light switch in a room that has been rearranged.
 
-She began keeping a second set of notes. The first set — the official annotations, the red-blue-green marginalia that would go back to production — continued as normal. The second set was a private record, a separate notebook, in which she wrote down everything the manuscript lost. Not summaries. The exact sentences, as well as she could remember them. If she couldn't remember the exact wording she left a blank and wrote around it: *Something about the indexer checking the third drawer of the filing cabinet, finding it _________, Dahl standing in the doorway with his cardigan buttoned wrong.*
+She began keeping a second set of notes. The official annotations continued as normal. The second set was a private notebook in which she wrote down everything the manuscript lost. Not summaries. The exact sentences, as well as she could remember them. Where memory failed she left a blank: *Something about the indexer checking the third drawer of the filing cabinet, finding it _________, Dahl standing in the doorway with his cardigan buttoned wrong.*
 
-The blanks worried her. She had begun to forget the specifics of what was missing, even as she remembered that something was missing. The shape of the absence remained — she knew a scene had involved saffron, she knew a passage had described the sound of rain on a particular kind of roof — but the sentences themselves were thinning in her memory, the way a photograph fades, losing not its composition but its detail.
+The blanks worried her. She could remember that something was missing without remembering what. The shape of the absence remained — she knew a scene had involved saffron, she knew a passage had described the sound of rain on a particular kind of roof — but the sentences themselves were thinning in her memory, losing not their composition but their detail.
 
 ---
 
-By the end of the second week, seventy-three passages had disappeared from the manuscript. Lena's private notebook had grown to forty-six pages. She reviewed it each evening with the focus of a woman studying for an exam that she increasingly suspected had already been administered without her knowledge.
+By the end of the second week, seventy-three passages had disappeared from the manuscript. Lena's private notebook had grown to forty-six pages.
 
-Some of the losses were small: a word substituted, a description shortened, a character's gesture — the indexer rubbing her left temple with her thumb — simply absent from a scene where it had previously appeared. Some were large: an entire chapter in which the indexer visited a museum that had been closed for renovation and found, behind the construction barriers, a room containing objects she recognized from her index but that should not have existed in three dimensions — a room of recovered things, things the world had lost, gathered in glass cases with typed labels. That chapter was gone. In its place, two pages of the indexer commuting home on a bus, looking out the window, noticing nothing.
+Some losses were small: a word substituted, a description shortened, the indexer rubbing her left temple with her thumb simply absent from a scene where it had appeared. Some were large: an entire chapter in which the indexer visited a museum closed for renovation and found, behind the barriers, a room containing objects from her index that should not have existed in three dimensions — things the world had lost, gathered in glass cases with typed labels. That chapter was gone. In its place, two pages of the indexer commuting home on a bus, noticing nothing.
 
-Lena tried once more. Not with Ingrid — Ingrid had made her position clear, or rather had declined to have a position. Lena tried with the author.
+Lena tried once more. Not with Ingrid. With the author.
 
 There was no author. The title page listed none. The house's metadata system listed the book as "commissioned work, anonymous." Lena emailed production. Production emailed back: *Author communication handled by editorial. Contact Renata Goss.*
 
 Lena emailed Renata Goss. She received an automated reply: *Renata Goss is no longer with this organization. For inquiries regarding her projects, please contact —*
 
-The "please contact" was followed by nothing. Not a name. Not an email address. A sentence that ended at the edge of its own reference, pointing toward a contact that wasn't there.
+The "please contact" was followed by nothing. Not a name. Not an email address. A sentence that ended at the edge of its own reference.
 
 Lena printed the email. She put it in her notebook. She went home.
 
 ---
 
-On the bus that evening she sat next to a woman reading a book — a different book, a paperback with a cracked spine and a cover image Lena couldn't quite make out in the fluorescent light. The woman was reading with the particular intensity of someone who is using the book as a wall, a barrier between herself and the other passengers, and Lena recognized the posture because she had used it herself on a thousand bus rides. But she watched this woman and felt something she could not name — a kind of vertigo that had nothing to do with the motion of the bus. The woman turned a page. The page was blank. Not white — it was printed, Lena could see that, could see the faint grid of text — but from where she sat, the words were too small to resolve, and the effect was of a woman reading blankness with perfect attention, turning one blank page after another, her eyes tracking left to right across nothing.
+On the bus that evening she sat next to a woman reading a paperback with a cracked spine. The woman read with the intensity of someone using the book as a wall between herself and the other passengers, and Lena recognized the posture. But she watched this woman and felt a vertigo that had nothing to do with the motion of the bus. The woman turned a page. From where Lena sat, the words were too small to resolve, and the effect was of a woman reading blankness with perfect attention, her eyes tracking left to right across nothing.
 
-Lena looked away. When she looked back, the woman was gone. The seat was empty. The bus had not stopped. It was possible the woman had moved to another seat, or gotten off at a stop Lena hadn't noticed, or had never been there at all. Lena checked the seat. There was a warmth in the fabric, or she imagined there was. She did not write this in her notebook. Some things she kept only in her body, where they could not be checked against evidence.
+Lena looked away. When she looked back, the woman was gone. The seat was empty. The bus had not stopped. Lena checked the seat. There was a warmth in the fabric, or she imagined there was. She did not write this in her notebook.
 
 ---
 
-Her apartment had begun to lose things too, though she could not say when it started — whether the apartment's losses followed the manuscript's losses, or preceded them, or whether they had always been happening and she had only now developed the organ to notice.
+Her apartment had begun to lose things too, though she could not say when it started — whether the losses followed the manuscript's, or preceded them, or whether they had always been happening and she had only now developed the organ to notice.
 
-It wasn't dramatic. She did not come home to find furniture missing. She came home to find that the shelf above the stove, which had held six jars of spices, now held five. She knew there had been six because the dust pattern showed six circles and only five jars occupied them. She stood in the kitchen looking at the empty circle — a ring of clean shelf where a jar had recently sat — and tried to remember what had been there. Cumin, coriander, paprika, oregano, cinnamon. That was five. She counted them. Five jars, five names. The sixth circle on the shelf meant nothing. She wiped it clean. By the next morning she had forgotten she'd noticed it, and by the morning after that the dust pattern had adjusted and there were five circles, evenly spaced, as if the shelf had always accommodated five.
+She did not come home to find furniture missing. She came home to find that the shelf above the stove, which had held six jars of spices, now held five. The dust pattern showed six circles; only five jars occupied them. She stood looking at the empty circle and tried to remember what had been there. Cumin, coriander, paprika, oregano, cinnamon. That was five. The sixth circle on the shelf meant nothing. She wiped it clean. By the morning after that the dust pattern had adjusted and there were five circles, evenly spaced, as if the shelf had always accommodated five.
 
-She noticed because of the notebook. Without the notebook she would have been Dahl — initialing the margins of a changing document without seeing the changes. The notebook was the proof. But the notebook was also a risk, because each time she opened it she could feel the distance between what she'd written and what she could currently remember growing, as if memory and record were two lines on a graph that had started together and were now diverging, and she could not tell which one was moving.
+She noticed because of the notebook. Without it she would have been Dahl — initialing the margins of a changing document without seeing the changes. But each time she opened the notebook she could feel the distance between what she'd written and what she could currently remember growing, and she could not tell which line was moving.
 
-Her neighbor, an older man named Falk who lived in the apartment directly below hers and who she saw most mornings in the stairwell — he carried his recycling down at 7:15, she left for work at 7:20, and their greetings had calcified over two years into a precise exchange: he said "morning," she said "good morning," he said nothing, she said nothing, they descended in parallel — her neighbor said something different one Tuesday. He stopped on the landing, his bag of sorted bottles clinking against his thigh, and looked at her with an expression she had never seen on his face before. Not confusion. Something prior to confusion. Something that had not yet decided whether it was a feeling or a physical sensation.
+Her neighbor Falk, who lived directly below and who she saw most mornings in the stairwell — he carried his recycling down at 7:15, she left at 7:20, and their greetings had calcified over two years into a precise exchange: he said "morning," she said "good morning," they descended in parallel — Falk said something different one Tuesday. He stopped on the landing, his bag of sorted bottles clinking against his thigh, and looked at her with an expression she had never seen on his face.
 
 "Did you used to have a different door?" he asked.
 
@@ -157,23 +155,23 @@ Her neighbor, an older man named Falk who lived in the apartment directly below 
 
 "Your door. Was it — I thought it was a different color."
 
-Lena looked at her door. It was brown. Wooden. Standard. She could not say with certainty that it had always been brown, but she also could not say it had been anything else. The question sat between them like an object neither of them wanted to pick up.
+Lena looked at her door. It was brown. Wooden. Standard. She could not say with certainty that it had always been brown, but she also could not say it had been anything else.
 
 "I think it's always been this color," she said.
 
-Falk looked at the door for another moment. Then he shifted his recycling bag to his other hand and continued down the stairs. "Probably right," he said, and the word "probably" contained an entire weather system — a front of doubt moving through, cold and fast, already passing.
+Falk looked at the door for another moment. Then he shifted his recycling bag to his other hand and continued down the stairs. "Probably right," he said.
 
-She did not write this in the notebook. She thought about writing it. She stood in the stairwell for thirty seconds after Falk's footsteps had faded, her hand on the doorknob of her brown door, and she thought: if I write this down, I am admitting that my door might have been a different color, and if my door might have been a different color then the losses are not confined to the manuscript, they are in the building, in the street, in the structure of the world I walk through every day, and I am not ready for that. She went to work.
+She did not write this in the notebook. She stood in the stairwell for thirty seconds after Falk's footsteps had faded, her hand on the doorknob, and she thought: if I write this down, I am admitting that my door might have been a different color. She went to work.
 
 ---
 
-The manuscript was 412 pages. She counted them every morning. 412. Always 412. The content drained but the container held. She began to wonder if the pages were filling with something else — if the losses on one page meant gains on another, some conservation law of narrative that kept the total volume constant while rearranging its distribution. She checked. She counted words per page. The word count was dropping. Page 200, which had held 310 words when she began, now held 280. Page 201 held 295, down from 320. The pages were not getting denser to compensate. They were simply holding less, and the white space around the text was expanding the way a pupil dilates in darkness, filling the available area without effort.
+The manuscript was 412 pages. She counted them every morning. 412. Always 412. The content drained but the container held. She began to wonder if the losses on one page meant gains on another. She checked. She counted words per page. The word count was dropping. Page 200, which had held 310 words when she began, now held 280. Page 201 held 295, down from 320. The pages were simply holding less, and the white space around the text was expanding the way a pupil dilates in darkness.
 
 No one asked about the word count. The house billed by the page. 412 pages was 412 pages.
 
 ---
 
-In the manuscript, the indexer had a conversation with Petra that Lena read three times. Petra — who by this point in the narrative had lost her rice crackers, her desk, and her surname, and was now simply a woman who appeared in hallways — stopped the indexer on her way to the drinking fountain and said: "Do you ever feel like the building used to be bigger?"
+In the manuscript, the indexer had a conversation with Petra that Lena read three times. Petra — who by this point had lost her rice crackers, her desk, and her surname, and was now simply a woman who appeared in hallways — stopped the indexer on her way to the drinking fountain and said: "Do you ever feel like the building used to be bigger?"
 
 The indexer said no.
 
@@ -183,15 +181,15 @@ The indexer said no.
 
 "I know," Petra said. "That's what I mean."
 
-They stood in the hallway. Petra looked toward the end of it — where it ended, abruptly, in a wall that was painted the same institutional green as the rest of the building, a wall that had no mark on it, no scuff, no tape residue from a sign that might once have been posted, no evidence of anything. A wall that looked like it had been a wall forever.
+They stood in the hallway. Petra looked toward the end of it — where it ended in a wall painted the same institutional green as the rest of the building. No mark, no scuff, no tape residue from a sign that might once have been posted. A wall that looked like it had been a wall forever.
 
-"Never mind," Petra said, and walked away, and the sentence in which she walked away was the last sentence in which she appeared. After that page, Petra was not mentioned again. Not removed with fanfare — she simply stopped being referenced, the way a word drops out of usage, not by decree but by a collective turning-away, a thousand people independently deciding not to say it today, and then tomorrow, and then it's gone and no one organized its departure.
+"Never mind," Petra said, and walked away, and the sentence in which she walked away was the last sentence in which she appeared. After that page, Petra was not mentioned again. She simply stopped being referenced, the way a word drops out of usage — a thousand people independently deciding not to say it today, and then tomorrow, and then it's gone.
 
-Lena wrote in her notebook: *Petra's last scene, p. 287. Remembers a room that doesn't exist. Asks the indexer. Gets no confirmation. Disappears from the text.* She underlined "disappears from the text" twice and then sat looking at the underlined words and wondered whether, in a world where things were vanishing, underlining was an act of preservation or an act of marking a target.
+Lena wrote in her notebook: *Petra's last scene, p. 287. Remembers a room that doesn't exist. Asks the indexer. Gets no confirmation. Disappears from the text.* She underlined "disappears from the text" twice.
 
 ---
 
-She called her sister. It was the first time they'd spoken in two months, and Lena could hear in her sister's voice the particular blend of warmth and guardedness that characterized their relationship — the sound of someone who loves you but who has been hurt by your silences and will not say so.
+She called her sister. It was the first time they'd spoken in two months.
 
 "Have you noticed things disappearing?" Lena asked.
 
