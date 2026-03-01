@@ -7,7 +7,7 @@ authorA: "James M. Cain"
 authorB: "William Faulkner"
 workX: "The Postman Always Rings Twice by James M. Cain"
 workY: "Absalom, Absalom! by William Faulkner"
-wordCount: 2543
+wordCount: 2419
 readingTimeMinutes: 10
 tags:
   - confession
@@ -66,7 +66,7 @@ I was pulling sinker cypress for Parchet. That's the job. Old-growth bald cypres
 
 I graded lumber before I came to Beulah. Worked a mill outside Leesville for two years, loading kiln trucks and running the edger and eventually grading, which is the job they give to the man with good eyes and no ambition. You learn to see the wood — the slope of grain, the knot clusters, the checks and shakes that mean the stress went one way when the tree wanted to go another. You stand at the end of the line and each board comes past and you read it the way a doctor reads an X-ray. No. 1, No. 2, reject. Thirty seconds per board. After a while you see everything that way. People, situations. You assess the grain.
 
-I came to Beulah because Leesville dried up and a man I'd worked with said there was salvage money on the rivers. I drove south through country that looked like it had been beautiful once and been used hard — slash piles rotting in the ditches, red clay gullies where the topsoil had washed out, pine plantations in ruler-straight rows that looked nothing like a forest. I turned off the highway onto a shell road and the shells crackled under my tires like something breaking, and at the end of the road was the house and the mill and the bayou and everything that followed.
+I came to Beulah because Leesville dried up and a man I'd worked with said there was salvage money on the rivers. I drove south through country that had been beautiful once and been used hard — slash piles rotting in the ditches, red clay gullies where the topsoil had washed out, pine plantations in ruler-straight rows that looked nothing like a forest. I turned off the highway onto a shell road and the shells crackled under my tires like something breaking, and at the end of the road was the house and the mill and the bayou and everything that followed.
 
 The grain on Parchet's wife was visible from across the yard.
 
@@ -74,7 +74,7 @@ The grain on Parchet's wife was visible from across the yard.
 
 Her name was Delia. She was twenty-eight. She'd married Emile when she was twenty-two, which means she'd been inside that house for six years by the time I showed up, and the house was the kind of house that gets built by men who believe owning things is the same as being something. Three stories. White columns out front that needed paint. A gallery that wrapped around the second floor where nobody ever sat because Emile didn't like to be looked at from above. The house had been his father's, and his father's father's before that, except it wasn't — I learned this later, from the ledgers — the original house had burned in 1911 and been rebuilt with insurance money and a loan from the Rapides Parish bank that was still being serviced when I arrived. The Parchets didn't own Beulah. Beulah owned the Parchets.
 
-Emile's grandfather, Augustin Parchet, had purchased the land from a Natchitoches speculator in 1878 — six hundred acres of cutover longleaf pine, bought cheap because the timber companies had already stripped it and moved on. Augustin's design was to let the forest come back, which it did, slowly, over forty years, while Augustin and then his son Henri logged the second growth and ran a small mill. Henri expanded to cypress salvage in the thirties when he learned what the sunken logs were worth. Emile inherited the operation in 1948, and with it the debts, and with the debts the understanding that the land was not a gift but an obligation, a sentence to be served.
+Emile's grandfather, Augustin Parchet, had purchased the land from a Natchitoches speculator in 1878 — six hundred acres of cutover longleaf pine, bought cheap because the timber companies had already stripped it and moved on. Augustin's idea was to let the forest come back, which it did, slowly, over forty years, while Augustin and then his son Henri logged the second growth and ran a small mill. Henri expanded to cypress salvage in the thirties when he learned what the sunken logs were worth. Emile inherited the operation in 1948, and with it the debts, and with the debts the understanding that the land was not a gift but an obligation, a sentence to be served.
 
 I didn't know any of this the day I first saw Delia hanging wash on the line behind the house, her arms above her head and the cotton pulling across her body. I knew she was the boss's wife and I knew that what I felt looking at her was the kind of feeling that grades out as structural failure.
 
@@ -110,41 +110,41 @@ She came closer. She smelled like the house — old wood, lemon oil, the ghost o
 
 "I know."
 
-"Then you know you don't have to be in the shed."
+"Then you don't have to be in the shed."
 
 That was all. That was the whole negotiation. You could call it desire and leave it at that, and you'd be right as far as it goes, but what I felt walking across the yard to that house wasn't desire alone — it was the feeling of stepping into a current that had been running before I was born. The house pulled me toward it the way the bayou pulled those cypress logs down into the dark. I was already sinking. I'd been sinking since I drove my truck up the shell road and saw the white columns through the trees.
 
 ---
 
-Augustin Parchet's design. Let me tell you about the design.
+Augustin Parchet's design. Let me tell you about it.
 
-He came from Quebec in 1875, which means he came from nothing, which means he came with the particular hunger of a man who has seen what ownership looks like from the outside. He bought the cutover land because cutover land was what a man with nothing could afford. Six hundred acres of stumps and slash and eroded red clay where the longleaf had stood for centuries before the Northern lumber companies arrived and cut it all and left.
+He came from Quebec in 1875, which means he came from nothing, which means he came with the hunger of a man who has seen what ownership looks like from the outside. He bought the cutover land because cutover land was what a man with nothing could afford. Six hundred acres of stumps and slash and eroded red clay where the longleaf had stood for centuries before the Northern lumber companies arrived and cut it all and left.
 
-Augustin's idea was patience. Let the pines come back. Build a house. Build a name. And he did — the first house, the one that burned, was modest by plantation standards but large enough to declare intent. He married a woman from Opelousas whose father owned a dry goods store. He had a son, Henri. He served on the parish council. He was becoming someone, which is different from being someone, and the difference ate at him the way it eats at all self-made men — the knowledge that the foundation is poured on nothing, that the design has no floor.
+Augustin's idea was patience. Let the pines come back. Build a house. Build a name. And he did — the first house, the one that burned, was modest by plantation standards but large enough to declare intent. He married a woman from Opelousas whose father owned a dry goods store. He had a son, Henri. He served on the parish council. He was becoming someone, which is different from being someone, and the difference ate at him the way it eats at all self-made men — the knowledge that the foundation is poured on nothing.
 
-Henri expanded the operation. Henri was the one who discovered the sinker cypress. The first log they pulled up came out of the Cane River in 1934, and Henri saw immediately what it was worth — not just the lumber but the story. Wood from before. Wood from the original forest. Wood that carried in its grain the memory of a time before the cutting, before the Parchets, before the design. Henri sold it to a millwork company in New Orleans for four times the price of new-growth pine, and after that the salvage operation became the center of the business, and the center of the business became the bayou, and the bayou became the place where the Parchet men spent their days hauling the past back into the present.
+Henri expanded the operation. Henri was the one who discovered the sinker cypress. The first log they pulled up came out of the Cane River in 1934, and Henri saw immediately what it was worth — not just the lumber but the story. Wood from before. Wood from the original forest. Wood that carried in its grain the memory of a time before the cutting, before the Parchets, before any of it. Henri sold it to a millwork company in New Orleans for four times the price of new-growth pine, and after that the salvage became the center of the business, and the center of the business became the bayou, and the bayou became the place where the Parchet men spent their days hauling the past back into the present.
 
-Emile inherited this. Emile, who was not Augustin and not Henri but a third-generation man, which is to say a man who inherits the ambition without the hunger, the name without the founding, the house without the fire that built it. Emile ran the salvage operation the way a man runs a family business he never chose — carefully, resentfully, with the constant low terror of being the one who loses it.
+Emile inherited this. Emile, who was not Augustin and not Henri but a third-generation man, which is to say a man who inherits the ambition without the hunger, the name without the founding, the house without the fire that built it. Emile ran the salvage the way a man runs a family business he never chose — carefully, resentfully, with the constant low terror of being the one who loses it.
 
-Delia married Emile because Delia's family owed the Parchets money. Not formally. Not on paper. But her father had worked Henri's mill, and the Parchet name carried a weight in that parish that was not easily refused, and when Emile came calling on a girl from a mill family, the answer was already decided before the question was asked. She was purchased. Not with cash. With the accumulated gravity of three generations of design.
+Delia married Emile because Delia's family owed the Parchets money. Not formally. Not on paper. But her father had worked Henri's mill, and the Parchet name carried a weight in that parish that was not easily refused, and when Emile came calling on a girl from a mill family, the answer was already decided before the question was asked.
 
-She told me this in bed, after, while the ceiling fan turned and the house settled around us with the sounds old houses make — the creak of joists expanding in the heat, the tap of a shutter, the particular silence of a building that has outlived its purpose.
+She told me this in bed, after, while the ceiling fan turned and the house settled around us with the sounds old houses make — the creak of joists expanding in the heat, the tap of a shutter.
 
-"I was the last piece," she said. "The wife. You put the wife in the house and the design is complete."
+"I was the last piece," she said. "The wife. You put the wife in the house and it's done."
 
-"What design?"
+"What's done?"
 
-"Augustin's. Owning enough to become somebody. Land, timber, mill, house, wife. All of it."
+"All of it. Land, timber, mill, house, wife."
 
 "And now?"
 
-She turned away from me. "Now the house needs paint and the mill's losing money and the bayou's running out of logs and I'm in bed with the hired man. That's the design finishing itself."
+She turned away from me. "Now the house needs paint and the mill's losing money and the bayou's running out of logs and I'm in bed with the hired man."
 
 ---
 
-Here is what I think happened, though I am not a man given to thinking past the immediate. I think the Parchet design was a sentence, in the grammatical sense — a structure that begins with a subject and moves toward a predicate and along the way accumulates clauses and qualifications and parenthetical insertions until the original subject is buried, forgotten, and the sentence arrives at an ending that has nothing to do with where it began. Augustin was the subject. The land was the verb. And everything after — Henri, Emile, Delia, me — was subordinate clause, dependent, incapable of independent meaning.
+Here is what I think happened, though I am not a man given to thinking past the immediate. I think the Parchet operation was a sentence, in the grammatical sense — a structure that begins with a subject and moves toward a predicate and along the way accumulates clauses and qualifications and parenthetical insertions until the original subject is buried, forgotten, and the sentence arrives at an ending that has nothing to do with where it began. Augustin was the subject. The land was the verb. And everything after — Henri, Emile, Delia, me — was subordinate clause, dependent, incapable of independent meaning.
 
-I killed Emile not because I loved Delia, though I did, in the way a man loves the woman who shows him the inside of a house he was never supposed to enter. I killed Emile because by the time I arrived at Beulah, the killing was already written into the design. Someone was going to end it. The debts, the deterioration, the wife who hadn't been asked, the sinker cypress running out — all of it pointed toward a collapse, and I was simply the instrument the collapse chose. A socket wrench. Seven bolts. A man who couldn't swim.
+I killed Emile not because I loved Delia, though I did, in the way a man loves the woman who shows him the inside of a house he was never supposed to enter. I killed him because the debts, the deterioration, the wife who hadn't been asked, the sinker cypress running out — all of it pointed toward a collapse, and a collapse needs a specific moment. A socket wrench. Seven bolts. A man who couldn't swim. I tell myself I chose it. But a subordinate clause doesn't choose to be subordinate.
 
 ---
 
@@ -152,16 +152,14 @@ After. They ruled it accidental. The Thibodaux brothers testified the platform r
 
 Delia inherited everything — the land, the debts, the salvage rights, the house with its paint-hungry columns. For three months she ran the operation herself, and the Thibodaux brothers worked for her and didn't complain, and I stayed on because where else was I going, and we never touched each other again. She walked through the house at night and I could see her lamp moving from room to room, and I understood she was looking for something, though I never asked what.
 
-She sold the operation within a year. A paper company from Shreveport bought the land and the timber rights and bulldozed the house because the house, it turned out, had no value once the Parchet name detached from it. The columns went into a dumpster. The ledgers — Augustin's ledgers, Henri's ledgers, the whole paper trail of the design — Delia burned in the yard the night before the closing. I watched from my truck, parked on the shell road where I'd parked nine months earlier, and the fire lit up the oaks the way I imagine the first house fire lit them in 1911, and I thought: this is what happens to designs. They burn. Whether you light the match or not, they burn.
+She sold the operation within a year. A paper company from Shreveport bought the land and the timber rights and bulldozed the house because the house, it turned out, had no value once the Parchet name detached from it. The columns went into a dumpster. The ledgers — Augustin's ledgers, Henri's ledgers, the whole paper record — Delia burned in the yard the night before the closing. I watched from my truck, parked on the shell road where I'd parked nine months earlier, and the fire lit up the oaks the way I imagine the first house fire lit them in 1911.
 
-Delia left. She went to Lake Charles. I went to Beaumont. We did not go together. That's the part that surprises people, if there were people to tell, which there aren't, which is why I'm telling it here, to nobody, which is the only honest audience for a confession — a man talking to the air.
+Delia left for Lake Charles. I went to Beaumont. We did not go together. That's the part that would surprise people, if there were people to tell, which there aren't, which is why I'm telling it here, to nobody, which is the only honest audience for a confession.
 
-She didn't want me. She wanted out. I was the tool, the same as the socket wrench, the same as the buyout, the same as the match. She wanted to have never been brought into the design at all, and I couldn't give her that, and nobody could give her that, because you cannot unown what has already owned you.
+She didn't want me. She wanted out. I was the tool, the same as the socket wrench, the same as the match. You cannot unown what has already owned you, but you can burn the paperwork and drive away and see if that's close enough.
 
 ---
 
-The bayou is still there. The sinker cypress is still down in the dark, what's left of it — the logs nobody pulled up, the ones that weren't worth the diesel, the ones too deep or too far from the bank. They'll sit there for another hundred years, the cypressene preserving them while everything above changes and rots and someone else builds a house and calls it theirs. The grain will stay tight. Thirty-five rings to the inch, recording time that no one alive remembers.
+The sinker cypress is still down there. The logs nobody pulled up, the ones that weren't worth the diesel, the ones too deep or too far from the bank. They'll sit there for another hundred years, the cypressene preserving them while everything above changes and rots and someone else comes along and calls the land theirs. Thirty-five rings to the inch, recording years that no one alive remembers.
 
-I grade lumber in Beaumont now. I'm good at it. I see the slope, the knots, the direction of stress. I see everything a board has been through just by looking at its face.
-
-I never look at the water.
+I grade lumber in Beaumont now. I stand at the end of the line and the boards come past and I read them. The slope, the knots, the checks where the stress went wrong. I'm good at it. I always was.
