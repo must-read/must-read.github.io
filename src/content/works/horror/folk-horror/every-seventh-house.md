@@ -7,7 +7,7 @@ authorA: "Robert Aickman"
 authorB: "Mariana Enriquez"
 workX: "Midsommar"
 workY: "The Lottery by Shirley Jackson"
-wordCount: 3480
+wordCount: 3378
 readingTimeMinutes: 14
 tags:
   - folk-horror
@@ -66,7 +66,7 @@ She is perhaps sixty-five, brown-skinned from decades of this sun, wearing a hou
 
 You follow her through the plaza, which is a rectangle of packed earth with a stone fountain at its centre that is not running. A church on the north side, Romanesque, twelfth century, its bell tower listing slightly to the east as though leaning away from something. A bar on the south side with plastic chairs and a handwritten sign that says ABIERTO and does not specify hours because hours, here, are not the relevant unit of time.
 
-Pilar lives in a house with a blue door. The blue is recent — fresh paint over old wood, applied with the careful imprecision of someone who does not have the right brush but has the right colour. Inside, the house is cool and dark and smells of olive oil and something herbal you cannot identify. Thyme, perhaps. Or a plant that grows here and does not have a name in your language.
+Pilar lives in a house with a blue door. The blue is recent — fresh paint over old wood, applied with the careful imprecision of someone who does not have the right brush but has the right colour. Inside, the house is cool and dark and smells of olive oil and something herbal that grows here and does not have a name in your language.
 
 She gives you a room upstairs. The bed is made with white sheets starched so stiff they crackle when you sit on the edge. The window looks out over the rooftops to the meseta beyond, and from here you can see how the village sits in the landscape — not on it but in it, like a stone in a riverbed, shaped by the same forces that shaped the surrounding terrain.
 
@@ -82,7 +82,7 @@ You help. This is how you learn the grammar of the place: by doing what is asked
 
 In the kitchen behind the church — a long room with a stone floor and gas burners set on metal tables — you help four women make empanadas. Not the Argentine kind. These are Castilian, the dough thick and golden, filled with peppers and salt cod and a paste made from something dark and dense that the woman beside you calls *morcilla de calabaza*, blood sausage with squash, and the combination should be wrong but it works. You roll dough. You crimp edges. You do not ask about the chalk marks.
 
-The woman beside you is called Asunción. She is eighty-one. She tells you this without prompting, the way old people in small places announce their age as a credential. Her hands are extraordinary — swollen at the knuckles, the fingers curved like the roots of old trees, and yet they work the dough with a speed and precision that your own hands cannot match. She does not slow down for you. She does not comment on your pace. She hums while she works, a melody that loops back on itself every four bars, a phrase that arrives at its own beginning and starts again, and after ten minutes you realise you are humming it too, and you do not remember when you started.
+The woman beside you is called Asunción. She is eighty-one. She tells you this without prompting, the way old people in small places announce their age as a credential. Her hands are swollen at the knuckles, the fingers curved like the roots of old trees, and yet they work the dough with a speed and precision that your own hands cannot match. She does not slow down for you. She does not comment on your pace. She hums while she works, a melody that loops back on itself every four bars, a phrase that arrives at its own beginning and starts again, and after ten minutes you realise you are humming it too, and you do not remember when you started.
 
 The flour is from the communal store. The peppers are from Pilar's garden. The salt cod was bought on credit from a distributor in Soria who will be paid after the harvest, if the harvest comes, and the harvest depends on rain that has not fallen since May. You learn this from Asunción, who tells it matter-of-factly, the way she might tell you the time. The village owes money. The village always owes money. The well is low. The government in Madrid sent a man two years ago to assess whether the village qualified for emergency water delivery, and the man filled out a form, and the form was filed, and the water never came. The festival happened that year too. The well held. It always holds.
 
@@ -94,7 +94,7 @@ You do not ask what she means. You crimp another empanada.
 
 The committee meets at six. You are invited, which is to say Pilar takes your arm and walks you to the church hall and pulls out a chair. Eight people sit around a table that was built for six. The agenda is handwritten on a sheet torn from a school notebook — the kind with a multiplication table on the back.
 
-The items: the generator (it pulls to the left; Tomás will anchor it with a cinder block). The tables (twelve, borrowed from the church). The music (Julio's nephew plays guitar; he is not good; he will play anyway). The wine (donated by a bodega in Almazán that donates wine every year in exchange for something that is not specified). The bread (enough flour; the ovens behind the church are clean; the sourdough starter is alive and has been alive, according to Asunción, since before she was born, which means it has been alive since at least 1945, which means it survived the civil war, which means it survived everything).
+The items: the generator (it pulls to the left; Tomás will anchor it with a cinder block). The tables (twelve, borrowed from the church). The music (Julio's nephew plays guitar; he is not good; he will play anyway). The wine (donated by a bodega in Almazán in exchange for something that is not specified). The bread (enough flour; the ovens are clean; the sourdough starter is alive, has been alive since before Asunción was born, which means it survived the civil war, which means it survived everything).
 
 You write these details in your notebook. You are a researcher. This is what you do.
 
@@ -120,7 +120,7 @@ The festival day. You wake to sunlight so absolute it feels like a sound. The sk
 
 You help carry chairs. Twelve from the church, eight from the bar, six from houses. You do not choose to carry the chairs from the houses with the chalk marks, but you do, because those are the houses Pilar directs you to, and the doors are open, and the interiors are cool, and the chairs are stacked neatly, as though someone knew they would be collected.
 
-The procession starts at eleven. This is the part you came to see, the part you wrote about in your article — the *recorrido*, the walking of the village, door to door, the community reasserting its presence in its own streets. In your article, you described it as a "performative census, a ritual counting of habitable space." You used the phrase "topographic liturgy." You were proud of that phrase. You are less proud of it now, standing in the dust with the sun on your skull, watching twenty-three people and perhaps fifteen returned children walk from door to door, pausing at each chalk mark. In your article the procession was a paragraph. Here it is an hour in the heat, and your shoes are wrong, and your water bottle is empty, and the sun has the weight of a hand pressing on the crown of your head.
+The procession starts at eleven. This is the part you came to see, the part you wrote about in your article — the *recorrido*, the walking of the village, door to door, the community reasserting its presence in its own streets. In your article, you described it as a "performative census, a ritual counting of habitable space." You used the phrase "topographic liturgy." You were proud of that phrase. You are less proud of it now, standing in the dust with the sun on your skull, watching twenty-three people and fifteen returned children walk from door to door, pausing at each chalk mark. Here the procession is an hour in the heat, and your shoes are wrong, and your water bottle is empty, and the sun presses on the crown of your head like a hand.
 
 At each marked door, someone steps forward. Not always the same person. At the first door, it is Asunción. She places her hand on the chalk mark and says something you cannot hear. The group waits. Then they walk on. At the second marked door, it is a younger woman — someone's daughter, home from Madrid, wearing trainers and a dress that is too nice for dust. She places her hand on the mark. She says the words. The group walks on.
 
@@ -132,7 +132,7 @@ By the sixth door — an abandoned house, roof open, geraniums dead in a clay po
 
 You do not understand. You understand perfectly. You place your hand on the chalk mark. The stone is warm from the sun. The chalk is powdery under your palm. You say nothing because no one has told you what to say, and the group waits for a moment that feels measured — three seconds, four — and then they walk on, and you walk with them, and your hand is white with chalk dust and you wipe it on your trousers and do not think about what you have done.
 
-You do not think about it because thinking about it would require you to name it, and you do not have the vocabulary. The word *tanda* sits in your notebook. The word *señalada*. The word *porción*, which you heard Asunción use this morning in the kitchen, grinding flour, humming the melody that loops back to its own beginning. *La porción de cada casa.* The portion of each house. You did not write this down because your notebook was in your room and your hands were covered in flour and the song was in your throat and the morning was warm and the empanadas were baking and the smell was extraordinary and you were, for those minutes, happy in a way that you have not been happy for a long time, and the happiness made you incurious, and the incuriosity felt like rest.
+You do not think about it because thinking about it would require you to name it, and you do not have the vocabulary. The word *tanda* sits in your notebook. The word *señalada*. The word *porción*, which you heard Asunción use this morning in the kitchen, grinding flour, humming the melody that loops back to its own beginning. *La porción de cada casa.* The portion of each house. You did not write this down because your notebook was in your room and your hands were covered in flour and the song was in your throat and the morning was warm and the empanadas were baking and the smell filled the kitchen and you were, for those minutes, happy in a way that felt like forgetting, and the forgetting felt like rest.
 
 ---
 
@@ -144,9 +144,9 @@ The food comes. Empanadas first, the ones you made, and you taste your own clums
 
 The chalk marks. The rota. The hands on doors. The portion of each house.
 
-The sun is directly overhead and there are no shadows anywhere. The string lights are on but unnecessary. You can see every face at the table. No one is hiding anything. No one is whispering. The conversations are loud and overlapping and ordinary — someone's daughter is pregnant, someone's roof needs mending, the price of feed has gone up again, the government has promised a mobile phone tower that will never come. This is the horror that the article did not prepare you for — the total visibility. The openness. The way nothing is concealed because nothing needs to be concealed, because what is happening is not a secret. It is a practice. In your article, you wrote about the *recorrido* as "a symbolic reclamation of communal space." In person, it is not symbolic. It is not a reclamation. It is a counting, and you were counted, and the count is complete.
+The sun is directly overhead and there are no shadows anywhere. The string lights are on but unnecessary. You can see every face at the table. No one is hiding anything. No one is whispering. The conversations are loud and overlapping and ordinary — someone's daughter is pregnant, someone's roof needs mending, the price of feed has gone up again, the government has promised a mobile phone tower that will never come. You can see every face and every face can see you and no one looks away. In your article, you wrote about the *recorrido* as "a symbolic reclamation of communal space." In person, it is not symbolic. It is not a reclamation. It is a counting, and you were counted, and the count is complete.
 
-Pilar pours you more wine. It is the wine from the bodega in Almazán. It is very good. The man from the bodega raises his glass to you from across the table and you raise yours back and you drink because that is what you do when someone raises a glass.
+Pilar pours you more wine. The man from the bodega raises his glass to you from across the table and you raise yours back and you drink because that is what you do when someone raises a glass.
 
 Asunción is telling you about the starter. The sourdough. Her mother kept it in a clay pot in the kitchen. During the war, when the soldiers came through — she does not specify which soldiers, and you understand that the distinction does not matter to her, that soldiers are soldiers — her mother hid the starter under the floorboards with the silver and the icon of the Virgin. The silver was taken. The icon was broken. The starter survived. Asunción feeds it every day. Flour and water. It requires nothing else. It is alive and it has been alive for longer than anyone in the village, and it will be alive when the village is empty, if the village empties, which it will not, because the festival happens every year, and the festival keeps the village, and what the festival requires, the village provides.
 
@@ -166,10 +166,10 @@ Pilar puts her hand on your arm. Her hand is warm and dry and steady. Her eyes a
 
 "We are so glad you came," she says. "You have no idea."
 
-You have some idea. The idea sits in your stomach with the bread and the lamb and the wine and the chickpeas, heavy and warm, and it is not unpleasant, and this is the worst part — that the idea is not unpleasant. That the food is good. That the company is good. That the sun is beautiful and the guitar is clumsy and the sourdough starter is alive and the village is alive and the well holds water every year, every year, and the festival happens and the harvest comes and the government sends no one and the rain is late and the chalk marks are on the doors and your hand is on the table and Asunción is humming the melody that has no end, only a return, and you are humming it too.
+You have some idea. The idea sits in your stomach with the bread and the lamb and the wine and the chickpeas, heavy and warm and not unpleasant. The food is good. The company is good. The sun is on your face and the guitar is clumsy and the sourdough starter is alive and the village is alive and the well holds water every year, every year, and the festival happens and the harvest comes and the government sends no one and the rain is late and the chalk marks are on the doors and your hand is on the table and Asunción is humming the melody that has no end, only a return, and you are humming it too.
 
-You have been humming it since this morning. You cannot remember the beginning of the melody. You cannot remember the moment you learned it.
+You have been humming it since this morning. You cannot remember the beginning of the melody. You cannot remember the moment you learned it. Somewhere in the village a dog barks once and stops. No one looks up.
 
-The bread comes again. The basket is full. You do not remember it being refilled.
+The bread comes again. You do not remember the basket being refilled.
 
 You eat.
