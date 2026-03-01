@@ -1,0 +1,75 @@
+{
+  "workSlug": "owed-ground",
+  "reviews": [
+    {
+      "personaId": "noir-001-desiree",
+      "rating": 4,
+      "text": "This one got under my skin. Fiona Begg is just extraordinary — a woman who files things for a living and somehow becomes the most terrifying character in the story. That moment at the self-checkout, scanning her milk while a detective tells her a man is dead? Perfect noir. The Glasgow setting is so specific it feels lived-in, and I love that the crime isn't a murder but something quieter and worse: a name erased from a list. The ending with Hardie putting the phone down broke me a little. Voice carries the whole thing.",
+      "date": "2026-01-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-002-takeshi",
+      "rating": 3,
+      "text": "Structurally interesting but uneven. The alternation between Gillies's telegraphic sections and Fiona's interior consciousness creates a productive formal tension — two different registers of prose occupying the same narrative. The institutional critique is sharp: corruption as bureaucratic grammar rather than dramatic villainy. But the piece overextends in the middle sections. Chapters V and VII cover procedural ground that could be compressed. The final image — Hardie, the phone, the photograph — is effective precisely because it refuses resolution, though I wonder if the story earns that refusal or merely performs it.",
+      "date": "2025-10-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-003-beth",
+      "rating": 4,
+      "text": "The procedural details here are impressive. The batch code system, the chain of authorization that runs through the council without anyone explicitly saying what they mean, the way evidence gets contaminated the moment Gillies opens that filing cabinet — all of that rings true. I've seen exactly this kind of institutional maneuvering in insurance fraud cases. Hardie's cover note drafts getting shorter with each version is a detail only someone who understands bureaucratic writing would include. Where it falters slightly: the financial trail through Strathdon and the community benefit trust is laid out a bit too neatly for what's supposed to be an off-the-books investigation.",
+      "date": "2025-12-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-004-rowan",
+      "rating": 4,
+      "text": "Fiona's sections are doing something genuinely interesting with gendered labor and institutional knowledge. She's the person who knows where the files are — and that knowledge is simultaneously her power and her complicity. The story understands that in bureaucracies, the people who maintain the system are almost always women, and the people who benefit from the system are almost always men in good suits. Beattie never appears directly, which is exactly right: power doesn't need to be present when it has Tricia to make phone calls. The prose shifts between Gillies's stripped-down fragments and Fiona's long, self-aware sentences are well-handled. Only reservation: Hardie feels slightly less developed than the other two.",
+      "date": "2026-02-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-005-vince",
+      "rating": 3,
+      "text": "The Gillies sections cut well. Short declaratives, the body before the context, fragments that earn their incompleteness. 'One slipper on, one off' — that's the kind of detail that does real work. But when the prose shifts to Fiona's consciousness it becomes over-explained. 'Because outrage has no filing system' is a line that knows how clever it is. The institutional voice sometimes slides into essay mode — telling us about power structures rather than letting the scenes carry the weight. The ending is strong. The phone picked up and put down. The photograph on the wall. That restraint should have governed more of the middle.",
+      "date": "2025-09-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-006-janet",
+      "rating": 4,
+      "text": "Read this in one sitting and it stayed with me all day. The dead man making tea — that image just sits there quietly and gets worse the more you think about it. I wasn't expecting a story about housing allocation records to be this gripping, but the way the conspiracy unfolds through paperwork and batch codes is genuinely suspenseful. Fiona walking along Sauchiehall Street telling Hardie everything she knows is the best scene. The ending is bleak in the way that real life is bleak, not in a show-off way.",
+      "date": "2025-11-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-007-graham",
+      "rating": 4,
+      "text": "Glasgow rendered without sentimentality or tourism, which is harder than it looks. The council building, the pebble-dashed flat, the chip shop on Sauchiehall Street — all specific enough to be real without becoming set dressing. The three-voice structure works because each character occupies a different relationship to the institutional machine: Gillies sees the crime, Fiona built the mechanism, Hardie has the rank but not the freedom. Beattie as an absence rather than a presence is the right choice. My only complaint is that Gillies's transfer to Paisley happens a touch quickly — I'd have liked that section to breathe a bit more. But the ending is first-rate. Quiet devastation.",
+      "date": "2026-02-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-008-carolina",
+      "rating": 4,
+      "text": "The distribution of narrative power here is carefully managed. Fiona's sections use a distinctive close third person — 'she' always meaning Fiona, the prose tracking her consciousness in long subordinate clauses that mirror the bureaucratic language she inhabits. The men in the story act; Fiona processes, files, maintains. Her complicity is inseparable from her competence, which the text refuses to resolve into either victimhood or villainy. The Tesco scene is remarkable: two women conducting an investigation between self-checkout beeps, domestic space as the site of institutional rupture. Hardie's final gesture — the phone down, the photograph — positions the female detective not as triumphant outsider but as the institution's newest product.",
+      "date": "2025-12-18",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-009-dale",
+      "rating": 2,
+      "text": "Couldn't get into this one. Nobody actually does anything — they file papers, make phone calls, take transfers. The dead guy dies off-page and turns out it's probably just a heart attack anyway. Where's the story? The corrupt councillor never shows up. The detective gets promoted instead of solving the case. I kept waiting for something to happen and then it just ended with her putting down a telephone. The Glasgow council stuff is detailed, sure, but detail isn't the same as tension.",
+      "date": "2026-01-05",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-010-priya",
+      "rating": 3,
+      "text": "Strong voice work in the detective sections and a compelling central conceit — corruption as paperwork, murder as administrative reclassification. Fiona Begg is the standout: her internal monologue about filing documents in a different location rather than whistleblowing is sharp characterization. The Glasgow setting feels authentic without over-explaining itself for outsiders, which I respect. Commercially, though, the lack of any resolution is a problem. Not ambiguous — just unresolved. The reader invests in three protagonists and none of them achieve anything. That's thematically coherent but narratively unsatisfying. A story this good at building pressure needs to release at least some of it.",
+      "date": "2025-08-29",
+      "helpfulCount": 0
+    }
+  ]
+}
