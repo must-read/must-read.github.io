@@ -7,8 +7,8 @@ authorA: "Neil Gaiman"
 authorB: "P.G. Wodehouse"
 workX: "Jeeves and Wooster stories"
 workY: "Neverwhere"
-wordCount: 4983
-readingTimeMinutes: 20
+wordCount: 4715
+readingTimeMinutes: 19
 tags:
   - invisible world
   - valet
@@ -47,19 +47,19 @@ combination:
     - "The crack in the world that remains after the resolution; the door that stays open"
 ---
 
-I should say at the outset that I have never believed in the supernatural. I have always felt, with considerable firmness, that the world is arranged along sensible lines and that things which go bump in the night are usually a pipe that wants seeing to. This conviction has served me well through thirty-one years of existence, and I saw no reason to abandon it merely because my new valet appeared to be from a parallel dimension.
+I have never believed in the supernatural. Things which go bump in the night are usually a pipe that wants seeing to, and this conviction has served me well through thirty-one years. I saw no reason to abandon it merely because my new valet appeared to be from a parallel dimension.
 
 The trouble began, as trouble so often does, with Aunt Honoria.
 
-Aunt Honoria is one of those large, purposeful women who give the impression of having been assembled from raw materials intended for a slightly larger project. She occupies physical and conversational space the way the British Empire once occupied continents — with a cheerful certainty that the territory was simply waiting to be claimed and that any objections from the current inhabitants were a form of local color. She arrived at my flat in Clerkenwell on a Tuesday afternoon with the news that she had accepted, on my behalf, an invitation to dine with the Farthingale-Thwaites of Belgravia, whose daughter Clementine she had identified as a suitable match.
+Aunt Honoria is one of those large, purposeful women who give the impression of having been assembled from raw materials intended for a slightly larger project. She occupies space the way the British Empire once occupied continents — with a cheerful certainty that the territory was simply waiting to be claimed. She arrived at my flat in Clerkenwell on a Tuesday with the news that she had accepted, on my behalf, an invitation to dine with the Farthingale-Thwaites of Belgravia, whose daughter Clementine she had identified as a suitable match.
 
 "You will attend on Thursday," she said, in much the same tone Napoleon might have used when issuing orders regarding Moscow.
 
-"Right-ho," I said, because the English language contains no adequate defense against an aunt in full sail, and one must conserve ammunition for the larger battles.
+"Right-ho," I said, because the English language contains no adequate defense against an aunt in full sail.
 
 "Clementine is a perfectly charming girl. Her father has something to do with municipal bonds. Her mother is Elspeth Rigby-Ware's second cousin. The family has a house in Suffolk."
 
-None of these facts, I felt, bore directly on the question of whether I wished to marry the girl, but Aunt Honoria has never considered the wishes of the prospective bridegroom to be a relevant variable in the mating equation. To her, a nephew is a problem requiring a solution, and the solution is invariably a young woman with a good family, sound teeth, and a house in the country.
+None of these facts bore directly on the question of whether I wished to marry the girl, but Aunt Honoria has never considered the wishes of the prospective bridegroom to be a relevant variable. To her, a nephew is a problem requiring a solution, and the solution is invariably a young woman with a good family, sound teeth, and a house in the country.
 
 "I shall attend with bells on," I said.
 
@@ -69,7 +69,7 @@ It was at this point that I realized I was between valets. Grimmett had given no
 
 What the agency sent was Pallwick.
 
-He arrived on Wednesday morning, a tall, thin man with the kind of face that seemed to exist at a slight angle to the rest of reality. Not *wrong*, exactly — all the features were present and accounted for, eyes nose mouth the standard configuration — but arranged with a quality that suggested they had been positioned by someone working from excellent photographs rather than direct observation. His suit was dark and fit him with a precision that bordered on the editorial.
+He arrived on Wednesday morning, a tall, thin man with the kind of face that seemed to exist at a slight angle to the rest of reality. Not *wrong*, exactly — eyes nose mouth the standard configuration — but arranged with a quality that suggested they had been positioned by someone working from excellent photographs rather than direct observation. His suit was dark and fit him with a precision that bordered on the editorial.
 
 "Pallwick, sir," he said. "From the agency."
 
@@ -77,29 +77,29 @@ He arrived on Wednesday morning, a tall, thin man with the kind of face that see
 
 "The agency indicated satisfaction, sir."
 
-There was a smell about him, faint and not unpleasant — like wet stone after rain, like the air that comes up from underground stations late at night, like the underside of a very old bridge. I attributed this to the damp weather and thought no more of it.
+There was a smell about him — like wet stone after rain, like the air that comes up from underground stations late at night. I attributed this to the damp weather and thought no more of it.
 
 "Right, then. The situation is this, Pallwick. I am dining on Thursday with some people called Farthingale-Thwaite, at my aunt's insistence, and the aunt in question is not a woman who accepts a refusal. I shall need to be turned out appropriately."
 
 "Very good, sir. Might I inquire as to the nature of the aunt?"
 
-No valet had ever asked me this before. It struck me as both impertinent and extraordinarily perceptive, in the way that a doctor asking after one's symptoms is technically intrusive but practically essential.
+No valet had ever asked me this before. It was both impertinent and extraordinarily perceptive, in the way that a doctor asking after one's symptoms is technically intrusive but practically essential.
 
-"Large," I said. "Determined. Convinced that I should marry. Possessed of a voice that could command a battalion at two hundred yards. Once reduced a head waiter to tears at Simpson's-in-the-Strand over the temperature of a sole."
+"Large," I said. "Determined. Convinced that I should marry. Once reduced a head waiter to tears at Simpson's-in-the-Strand over the temperature of a sole."
 
 "I see, sir. And the young lady?"
 
-"Haven't met her. Clementine Something-Thwaite. Probably ghastly. They usually are, the ones Aunt Honoria picks out. She selects for women who would be capable of running a small government, which is not, in my experience, a quality that makes for pleasant conversation over the soup."
+"Haven't met her. Clementine Something-Thwaite. Probably ghastly. They usually are, the ones Aunt Honoria picks out. She selects for women capable of running a small government, which is not a quality that makes for pleasant conversation over the soup."
 
 "Indeed, sir. I shall lay out the evening clothes."
 
-He drifted — I say drifted, because the word "walked" implies a certain engagement with the floor that Pallwick seemed to consider optional — into the bedroom, and I settled in with the evening paper, feeling that the situation, while not ideal, was at least under management.
+He drifted — I say drifted, because "walked" implies a certain engagement with the floor that Pallwick seemed to consider optional — into the bedroom, and I settled in with the evening paper.
 
 ---
 
-The Farthingale-Thwaite dinner was worse than I had anticipated, and I had anticipated something on the general order of the retreat from Stalingrad.
+The Farthingale-Thwaite dinner was worse than I had anticipated, and I had anticipated something on the order of the retreat from Stalingrad.
 
-Clementine Farthingale-Thwaite was not, as it happened, ghastly. She was small and dark-haired and had the kind of fierce, amused eyes that suggested she found the entire proceeding as absurd as I did but was considerably better at hiding it. Under other circumstances, I might have found this appealing. Under these circumstances — seated between her mother, who kept referring to me as "Honoria's nephew, the one who hasn't done anything yet," and a retired colonel who wanted to discuss drainage — I found it merely another source of anxiety.
+Clementine Farthingale-Thwaite was not ghastly. She was small and dark-haired and had the kind of fierce, amused eyes that suggested she found the entire proceeding as absurd as I did but was considerably better at hiding it. Under other circumstances, I might have found this appealing. Under these — seated between her mother, who kept referring to me as "Honoria's nephew, the one who hasn't done anything yet," and a retired colonel who wanted to discuss drainage — I found it merely another source of anxiety.
 
 "And what do you do, Mr. Dovetail?" Mrs. Farthingale-Thwaite inquired, with the air of a woman who already knew the answer and was asking only to confirm the worst.
 
@@ -113,17 +113,17 @@ Clementine Farthingale-Thwaite was not, as it happened, ghastly. She was small a
 
 "Quite. That's rather the question, isn't it."
 
-The colonel launched into a disquisition on sewer capacity in the borough of Kensington, and I was briefly saved. But the real trouble was the cat.
+The colonel launched into sewer capacity in the borough of Kensington, and I was briefly saved. But the real trouble was the cat.
 
 The Farthingale-Thwaites kept a large ginger cat named Admiral, which had positioned itself on the sideboard in the dining room with the air of a judge surveying his courtroom. Halfway through the fish course, Admiral began to stare at something beneath the sideboard with an intensity that suggested whatever was under there owed the cat money.
 
-I noticed this because I was looking for anywhere to rest my eyes that was not Mrs. Farthingale-Thwaite or the colonel's drainage diagrams. The cat was staring downward with its entire body rigid, tail inflated to roughly the diameter of a tennis racket, and making a sound somewhere between a growl and a kettle coming to the boil.
+I noticed this because I was looking for anywhere to rest my eyes that was not Mrs. Farthingale-Thwaite. The cat was staring downward with its entire body rigid, tail inflated to roughly the diameter of a tennis racket, making a sound somewhere between a growl and a kettle coming to the boil.
 
 "Admiral seems agitated," I observed.
 
 "He's been like that all week," Clementine said. "Something under the floorboards, we think. Rats, probably."
 
-At this point something moved beneath the sideboard. I say "moved" in the sense that a shadow detached itself from the darker shadows under the furniture and slid along the baseboard with a fluidity that was, I felt, somewhat above the pay grade of your average rat. It was the size of a small dog and the approximate shape of a thing that has not yet decided what shape it intends to be. It smelled of the Underground — not the trains, but the tunnels themselves, the spaces between stations where the maps go blank.
+At this point something moved beneath the sideboard. A shadow detached itself from the darker shadows under the furniture and slid along the baseboard with a fluidity somewhat above the pay grade of your average rat. It was the size of a small dog and the approximate shape of a thing that has not yet decided what shape it intends to be. It smelled of the Underground — not the trains, but the tunnels themselves, the spaces between stations where the maps go blank.
 
 The cat launched itself off the sideboard with a yowl that caused Mrs. Farthingale-Thwaite to drop her fork and the colonel to spill his burgundy.
 
@@ -131,11 +131,11 @@ The cat launched itself off the sideboard with a yowl that caused Mrs. Farthinga
 
 "Drainage," said the colonel, darkly.
 
-Clementine caught my eye. She had seen it too — the shadow, the movement, the quality of wrongness. Or perhaps she hadn't. Perhaps she'd simply seen a cat behaving like a cat and a young man behaving like a man who has drunk slightly too much of his host's burgundy. In any case, her expression did not change, except for a very slight raising of one eyebrow that communicated a depth of commentary that lesser faces would have required a paragraph to achieve.
+Clementine caught my eye. She had seen it too — the shadow, the movement, the quality of wrongness. Or perhaps she'd simply seen a cat behaving like a cat and a young man behaving like a man who has drunk slightly too much of his host's burgundy. Her expression did not change, except for a very slight raising of one eyebrow that communicated a depth of commentary lesser faces would have required a paragraph to achieve.
 
-The evening ended shortly after Admiral knocked over the gravy boat in what appeared to be a flanking maneuver. The shadow under the sideboard retreated — or did not retreat, since shadows cannot retreat, since there was no shadow, since the entire thing was a trick of the light and the burgundy — and the colonel made his excuses, and Mr. Farthingale-Thwaite, who had said almost nothing all evening, shook my hand with the grip of a man who has resigned himself to the probability that his daughter will marry someone, and that the someone might as well be me as any other inadequate specimen.
+The evening ended shortly after Admiral knocked over the gravy boat in what appeared to be a flanking maneuver. The shadow under the sideboard retreated — or did not retreat, since shadows cannot retreat, since there was no shadow, since the entire thing was the burgundy — and Mr. Farthingale-Thwaite, who had said almost nothing all evening, shook my hand with the grip of a man who has resigned himself to the probability that his daughter will marry someone, and that the someone might as well be me as any other inadequate specimen.
 
-Aunt Honoria cornered me in the hallway. She had the look of a chess player who has maneuvered her opponent's king into a position from which there were technically several legal moves, all of them catastrophic.
+Aunt Honoria cornered me in the hallway with the look of a chess player who has maneuvered her opponent's king into a position from which there are technically several legal moves, all catastrophic.
 
 "You will call on the family tomorrow afternoon," she said.
 
@@ -147,7 +147,7 @@ Aunt Honoria cornered me in the hallway. She had the look of a chess player who 
 
 "Precisely. You used the wrong fork. You didn't even notice. Clementine noticed. She found it endearing, which tells me either that the girl has poor standards or that she genuinely likes you, and I choose to believe the latter because the alternative is too depressing to contemplate."
 
-I said "Right-ho" with the practiced resignation of a man walking toward the scaffold.
+"Right-ho," I said.
 
 ---
 
@@ -161,7 +161,7 @@ I said "Right-ho" with the practiced resignation of a man walking toward the sca
 
 "You don't seem surprised."
 
-Pallwick was laying out my morning clothes with the unhurried precision of a man defusing a bomb. "I would not wish to speculate beyond my area of competence, sir."
+Pallwick was laying out my morning clothes with the precision of a man defusing a bomb. "I would not wish to speculate beyond my area of competence, sir."
 
 "Your area of competence being—?"
 
@@ -169,7 +169,7 @@ Pallwick was laying out my morning clothes with the unhurried precision of a man
 
 "What related matters?"
 
-There was a pause, during which Pallwick aligned my cufflinks on the dresser with a degree of geometric exactitude that would have impressed Euclid. "There are, sir, certain elements of London that exist, as it were, below the customary threshold of notice. They are, in the main, harmless. They keep to the gaps. It is only when the gaps are disturbed — by renovation, for example, or by the attentions of an unusually perceptive cat — that they make themselves apparent."
+There was a pause, during which Pallwick aligned my cufflinks on the dresser with a geometric exactitude that would have impressed Euclid. "There are, sir, certain elements of London that exist below the customary threshold of notice. They keep to the gaps. It is only when the gaps are disturbed — by renovation, or by the attentions of an unusually perceptive cat — that they make themselves apparent."
 
 I considered this. "Are you telling me there is a dimension beneath the Farthingale-Thwaites' sideboard?"
 
@@ -183,7 +183,7 @@ I sat down. I stood up. I sat down again. "And you know this because?"
 
 "I am from there, sir."
 
-I should record, for purposes of accuracy, that my reaction to this revelation was not the wild-eyed consternation that novels might lead one to expect. I had, after all, noticed the smell — the wet-stone, deep-tunnel smell that clung to Pallwick like an aftershave marketed exclusively to spelunkers. And there had been the matter of his slightly angled face, and the way he moved through rooms as though negotiating a geometry that differed subtly from the one I was accustomed to.
+My reaction was not the wild-eyed consternation that novels might lead one to expect. I had noticed the smell — the wet-stone, deep-tunnel smell that clung to Pallwick like an aftershave marketed exclusively to spelunkers. And there had been the matter of his slightly angled face, and the way he moved through rooms as though negotiating a different geometry.
 
 "From there," I said.
 
@@ -191,9 +191,9 @@ I should record, for purposes of accuracy, that my reaction to this revelation w
 
 "The agency."
 
-"Yes, sir. It is considered," he added, with a delicacy that would have commanded the admiration of every diplomat from Talleyrand to the present day, "a rather good placement."
+"Yes, sir. It is considered," he added, with a delicacy that would have commanded the admiration of Talleyrand, "a rather good placement."
 
-I took a breath. I let it out. I took another one. "Pallwick, are you telling me that there is an employment agency that supplies valets to both regular London and some kind of underground shadow London, and that I, through no fault of my own, have ended up with one from the shadow department?"
+"Pallwick, are you telling me that there is an employment agency that supplies valets to both regular London and some kind of underground shadow London, and that I, through no fault of my own, have ended up with one from the shadow department?"
 
 "The distinction is not quite so stark, sir. We prefer the term 'adjacent.'"
 
@@ -207,15 +207,15 @@ I seized on this. "Can you manage the aunt?"
 
 "And the thing under the sideboard? Can you manage that?"
 
-Something crossed Pallwick's face — a shadow, appropriate enough, of what might have been concern. "That, sir, is a somewhat more complex matter."
+"That, sir, is a somewhat more complex matter."
 
 ---
 
-The complex matter became considerably more complex over the following forty-eight hours, during which I found myself entangled in the sort of escalating crisis that I had previously associated only with French bedroom farces and certain parliamentary elections.
+The complex matter became considerably more complex over the following forty-eight hours.
 
-First: Aunt Honoria telephoned to inform me that Clementine Farthingale-Thwaite had expressed a favorable impression and that I would be escorting her to the Pembrokes' garden party on Saturday. She spoke of this with the satisfied air of a general whose campaign is proceeding according to timetable.
+First: Aunt Honoria telephoned to inform me that Clementine had expressed a favorable impression and that I would be escorting her to the Pembrokes' garden party on Saturday.
 
-Second: the thing under the sideboard — which Pallwick identified, with the air of a man diagnosing a routine plumbing issue, as a Borrowing Shade, a creature from the Under-Borough of Floorswick — had taken up semi-permanent residence and was expanding. Each night it grew by approximately the area of a dinner plate, which is not a unit of measurement I had ever expected to apply to a supernatural phenomenon, but there it was.
+Second: the thing under the sideboard — which Pallwick identified, with the air of a man diagnosing a routine plumbing issue, as a Borrowing Shade from the Under-Borough of Floorswick — had taken up residence and was expanding. Each night it grew by approximately the area of a dinner plate, which is not a unit of measurement I had ever expected to apply to a supernatural phenomenon, but there it was.
 
 Third, and most inconveniently: the Under-Borough of Floorswick had dispatched a representative to negotiate the Borrowing Shade's return, and this representative — a small, mushroom-colored woman named Mrs. Guttering — had presented herself at my flat under the impression that I was the local Surface Warden.
 
