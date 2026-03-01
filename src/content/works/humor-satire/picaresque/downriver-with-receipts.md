@@ -7,8 +7,8 @@ authorA: "Mark Twain"
 authorB: "Nora Ephron"
 workX: "The Adventures of Huckleberry Finn by Mark Twain"
 workY: "Don Quixote by Miguel de Cervantes"
-wordCount: 3784
-readingTimeMinutes: 15
+wordCount: 3549
+readingTimeMinutes: 14
 tags: ["picaresque", "unreliable-narrator", "road-trip", "self-delusion", "con-artist", "americana", "social-comedy", "class"]
 rating: 0
 ratingCount: 0
@@ -83,9 +83,9 @@ I went. On my way out I left a business card on the counter — Jolene Taft, Str
 
 I don't know what that means — what others? — but I choose to interpret it as evidence that brand consultants pass through Hartwick regularly, which only proves my point about the town's untapped potential. If the supply of vision is that robust, the demand must be there too, latent, waiting to be activated.
 
-And I want to be clear about this: I was not asked to leave because my ideas were bad. I was asked to leave because my ideas were too big for the room. This happens. When you bring a transformative vision to people who have been staring at a broken barber pole for thirty years, the first reaction is not gratitude. The first reaction is fear. Deirdre was afraid. Not of me. Of change. I've seen that look before — at a co-working space in Clayton where I pitched a pop-up branding workshop, at a farmer's market in Alton where I offered to redesign their signage for free. The look says: we were fine before you walked in. The look is wrong. The look is always wrong.
+I was not asked to leave because my ideas were bad. I was asked to leave because Deirdre was afraid of change. I've gotten that look before — at a co-working space in Clayton, at a farmer's market in Alton. The look says: we were fine before you walked in. I've never once believed it.
 
-I got back in the Saab — it had cooled to its normal operating temperature, which is to say "alarming" rather than "actively dangerous" — and pointed it south. The road followed the general direction of rivers and rail lines, the old logic of moving things from one place to another, and I was one of the things being moved, and what I was moving was ideas, which is heavier than grain and more perishable than you'd think.
+I got back in the Saab — it had cooled to its normal operating temperature, which is to say "alarming" rather than "actively dangerous" — and pointed it south. The road followed the general direction of rivers and rail lines, the old logic of moving things from one place to another, and I was one of the things being moved, along with a quart of fresh 10W-40 and the beginnings of what I would later title "Mississippi of the Mind."
 
 ---
 
@@ -115,7 +115,7 @@ I did not learn until much later — Wendy told me at Thanksgiving, with a kind 
 
 Todd closed the gallery in January.
 
-I want to say for the record that this was not my fault. My advice was sound. The market wasn't ready. There's a difference, and if you can't see the difference, you probably sell insurance in Peoria.
+For the record: my advice was sound. The market wasn't ready. There's a difference, and if you can't see the difference, you probably sell insurance in Peoria.
 
 ---
 
@@ -151,9 +151,9 @@ Earl flipped a burger. The burger hissed. Earl's relationship with language was 
 
 This stumped me for a second, but only a second, because I am not a person who stays stumped. I am a person who reframes. "Earl, every piece of what you just told me is brand gold. A factory that closed. A school that closed. A bridge that's out. These aren't failures. These are authenticity markers. You can't MANUFACTURE this kind of heritage narrative. Some towns would kill for a closed factory. It's TEXTURE. It's REAL."
 
-Earl looked at me over the grill with an expression that I have seen on the faces of many people I've helped, and which I interpret as the expression of a man who is beginning to understand that the world is larger than he thought. His spatula had stopped moving. The burger was forgotten. This is what happens when a new idea enters a room that hasn't had one in years — everything stops while the room adjusts.
+Earl looked at me over the grill. His spatula had stopped moving. The burger was forgotten.
 
-"I'm thinking a festival," I said. "An annual catfish festival. Not just eating catfish. A catfish EXPERIENCE. Tastings. History. Live music on the riverbank. A catfish-themed 5K — the Catfish Dash. Maybe a mascot. A friendly catfish. Not realistic — nobody wants to look at a realistic catfish while they're eating — but stylized. Approachable. Whiskers, big smile, maybe a hat."
+"I'm thinking a festival," I said. "An annual catfish festival. Not just eating catfish — a catfish EXPERIENCE. Live music on the riverbank. A catfish-themed 5K. And a mascot. Not a realistic catfish — nobody wants to look at a realistic catfish while they're eating — but stylized. Whiskers, big smile, maybe a hat."
 
 "A hat," Earl said.
 
@@ -163,7 +163,7 @@ Earl turned the forgotten burger, which was now closer to charcoal than protein.
 
 "Your car's on fire," Earl said.
 
-It was not on fire. It was smoking. There is a distinction. But the volunteer fire department came anyway — Doniphan still had a volunteer fire department, three men and a woman named Patty who drove the truck, which was a better truck than my car — and they hosed down the Saab, and afterward the Saab would not start, so I sat in Earl's for four more hours waiting for the tow service from the next county, eating catfish, which was extraordinary — Earl fried it in a cornmeal batter seasoned with something he wouldn't name, and the catfish was the best thing I'd eaten in months, possibly years — and I told Earl more about how to transform his business, and he listened, or at least he was present in the room while I talked, which is one form of listening.
+It was not on fire. It was smoking. There is a distinction. But the volunteer fire department came anyway — Doniphan still had a volunteer fire department, three men and a woman named Patty who drove the truck, which was a better truck than my car — and they hosed down the Saab, and afterward the Saab would not start, so I sat in Earl's for four more hours waiting for the tow service from the next county, eating catfish — Earl fried it in a cornmeal batter seasoned with something he wouldn't name, and I will say this: it was better than anything I'd eaten in months, possibly years, and I told him so, and he said "I know" — and I told Earl more about how to transform his business, and he listened, or at least he was present in the room while I talked, which is one form of listening.
 
 The tow truck driver was a woman named Georgia who had forearms like a longshoreman and opinions about Saabs. "These cars," she said, hooking my Saab to the flatbed with the competence of someone who has towed many cars whose owners loved them more than they deserved, "are a cult."
 
@@ -173,12 +173,8 @@ The tow truck driver was a woman named Georgia who had forearms like a longshore
 
 She drove me to a motel in Cape Girardeau, Missouri, where I spent two nights waiting for a mechanic who specialized in European vehicles, which in rural Missouri means a mechanic who has seen a European vehicle, and during those two nights I wrote up my recommendations for all three towns — Hartwick, Marfa, Doniphan — in a document that I titled "Mississippi of the Mind: A Brand Revitalization Blueprint for the Rural Heartland" and emailed to all three. Deirdre did not respond. Todd responded with a single emoji, the prayer hands, which I took as gratitude. Earl responded: "Please do not email me again. The catfish is fine."
 
-And here is what I want you to understand, what Wendy doesn't understand when she tells this story at Thanksgiving as though it's a comedy: I was right. I was right about Hartwick. I was right about Marfa. I was right about Doniphan. The grain elevator IS a brand story. The silo gallery IS a good concept. The catfish IS being undersold. That I was right and nothing changed — that's not my failure. That's the gap between vision and reception. That's the gap between the person who sees what a place could be and the people who live there and have decided what it is.
+Wendy tells this story at Thanksgiving as though it's a comedy. She does the voices. She does MY voice, which she gets wrong. She makes me sound unhinged, when what I am is ahead of the curve. I was right about Hartwick. I was right about Marfa. I was right about Doniphan. The grain elevator IS a brand story. The silo gallery IS a good concept. The catfish IS being undersold. Wendy doesn't have an answer for that. She just pours more wine and says "Oh, Jolene" in a way that I think she thinks sounds kind.
 
-The Saab, in case you're wondering, was repaired. The mechanic in Cape Girardeau replaced something he called the "everything" — I think he meant the head gasket, but he gestured at the entire engine with the exhaustion of a doctor describing a patient who has ignored medical advice for twenty years — and I drove home to St. Louis, and the Saab smoked only moderately on the highway, and I had the windows down because the heater was still broken, and the glove compartment was still open, and the receipts from three towns were on the passenger seat, and the road was gray and the sky was gray and the Saab was gray, and it was, all of it, exactly where I needed to be, which was in motion, with a plan, heading somewhere that didn't know yet how much it needed me.
+The Saab, in case you're wondering, was repaired. The mechanic in Cape Girardeau replaced something he called the "everything" — I think he meant the head gasket, but he gestured at the entire engine with the exhaustion of a doctor describing a patient who has ignored medical advice for twenty years — and I drove home to St. Louis, and the Saab smoked only moderately on the highway, and I had the windows down because the heater was still broken, and the glove compartment was still open, and my paper nest had blown around some, and the road was gray and the sky was gray and the Saab was gray, and I was in motion, which is where I do my best work.
 
-I'm going back in the spring. I've got a new pitch. I've been refining it. Wendy says I should get a real job. Wendy says the insurance industry is hiring. Wendy says a lot of things, Wendy, from the vantage point of a desk in Peoria that she's been sitting behind for eleven years, and I don't say this to be unkind but I do say it to be accurate: the view from Peoria has never changed anyone's life.
-
-The view from a 2004 Saab 9-3, Arctic Silver, heading south on a road you've never been on, with a pitch in your head and three hundred miles of towns that haven't heard it yet — that's a different view. That's a view with potential. That's a view that, if you squint, if you let yourself, looks exactly like the future.
-
-I have the receipts to prove it.
+I'm going back in the spring. I've got a new pitch — not for those three towns, they had their chance — but for the towns past them, the ones farther south, the ones I haven't gotten to yet. I've been refining the deck. Wendy says I should get a real job. Wendy says the insurance industry is hiring. I looked it up. The insurance industry is always hiring. That's not the selling point Wendy thinks it is.
