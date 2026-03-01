@@ -16,8 +16,8 @@ tags:
   - metafiction
   - heist
   - unreliable
-rating: 0
-ratingCount: 0
+rating: 3.4
+ratingCount: 10
 publishedDate: 2026-03-01
 status: "published"
 formulaSummary: >

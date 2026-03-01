@@ -10,8 +10,8 @@ workY: "The Ruins by Scott Smith"
 wordCount: 4161
 readingTimeMinutes: 17
 tags: ["transformation", "botanical", "family", "caretaker", "body", "obligation"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "King's empathetic domestic horror and working-class specificity collide with Enriquez's matter-of-fact grotesquerie and social horror. The Fly provides the structure of slow transformation witnessed by a loved one forced to decide each day whether the person inside remains; The Ruins provides the thematic engine of botanical invasion, the body as territory claimed by something patient and green."
