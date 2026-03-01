@@ -7,8 +7,8 @@ authorA: "P.D. James"
 authorB: "Denis Johnson"
 workX: "Children of Men by P.D. James"
 workY: "Jesus' Son by Denis Johnson"
-wordCount: 3160
-readingTimeMinutes: 13
+wordCount: 3100
+readingTimeMinutes: 12
 tags:
   - post-apocalyptic
   - infertility
@@ -75,11 +75,11 @@ I have ruled the columns for 2020.
 
 **2 February.** Robert Mowbray, aged 79 years. Churchyard, plot 15-A (beside wife). No officiant — T. Faraday unable. Clerk read the words. Five persons present, being the entire resident population of the parish excepting Mrs. Kempf, who cannot walk. The ground was frozen to a depth of nine inches and the digging took two days. I mention this because the register does not customarily record the condition of the earth but it seems to me now that the earth is the thing that matters most. The earth receives them. The earth is the column that never goes blank.
 
-**14 May.** Thomas Faraday, aged 60 years. Lay reader. The last person in this parish who could officiate by any recognised authority. Churchyard, plot 16-B (beside wife). Clerk read the words. Three persons present. Afterwards Mrs. Faraday and I stood at the lychgate and she asked if I would continue to keep the register. I said I would. She asked why and I said because the columns are ruled and the ink is not yet dry and I could not think of a better reason and she could not either.
+**14 May.** Thomas Faraday, aged 60 years. Lay reader. The last person in this parish who could officiate by any recognised authority. Churchyard, plot 16-B. Clerk read the words. Three persons present. Afterwards Mrs. Faraday and I stood at the lychgate and she asked if I would continue to keep the register. I said I would. She asked why and I said because the columns are ruled and the ink is not yet dry and I could not think of a better reason and she could not either.
 
-*I am now the only person in Iffley who knows where the register is kept. This is not a responsibility I sought. The vestry key is on a nail behind the credence table. I check the register every Thursday. I do not know why Thursday. My father checked on Thursdays. His father before him. The habit has outlived its reason, as most habits will, given enough time and insufficient courage to abandon them.*
+*I am now the only person in Iffley who knows where the register is kept. The vestry key is on a nail behind the credence table. I check the register every Thursday. I do not know why Thursday. My father checked on Thursdays. His father before him. The habit has outlived its reason, as most habits will.*
 
-**29 September.** Anja Kempf, aged 88 years. Churchyard, new row, plot 17-A. Clerk read the words. One person present (clerk). Mrs. Kempf had not spoken English well — she came from Freiburg in 1972 — and I read the words in English because they are the words I know. It occurred to me, lowering her into the ground, that the register has always been an English document recording English lives and that the nation it recorded no longer exists in any meaningful sense, and that I am maintaining the records of a dissolved institution in a dissolved country, and that this is either absurd or holy and I cannot tell which.
+**29 September.** Anja Kempf, aged 88 years. Churchyard, new row, plot 17-A. Clerk read the words. One person present (clerk). Mrs. Kempf had not spoken English well — she came from Freiburg in 1972 — and I read the words in English because they are the words I know. It occurred to me, lowering her into the ground, that the register has always been an English document recording English lives and that the nation it recorded no longer exists in any meaningful sense, and that I am maintaining the records of a dissolved institution in a dissolved country, and that this is either absurd or holy.
 
 ## MARRIAGES — 2020
 
@@ -127,9 +127,9 @@ None.
 
 *The zodiacal light was visible this morning. Pre-dawn. A wedge of brightness along the eastern horizon that is not the sun and not the moon but the reflection of the sun off dust between the planets. The astronomers called it the false dawn. It has the appearance of hope. It is not hope. It is dust, illuminated.*
 
-**17 June.** Burial. A woman, unknown, approximately 40 years of age, found on the towpath between Iffley and Sandford. No identification. She wore a blue waterproof jacket with a broken zip and walking boots that were good boots, expensive once. In the jacket pocket: a photograph, water-damaged past recognition, and a key to nothing I could find. Clerk dug the grave. Churchyard, plot 18-A. Read the words. The ground was dry and hard and the digging took most of the day. The swifts were overhead while I dug and their screaming sounded like something tearing, like the air itself was being pulled apart, and I stopped and leaned on the spade and watched them and they did not watch me.
+**17 June.** Burial. A woman, unknown, approximately 40 years of age, found on the towpath between Iffley and Sandford. No identification. She wore a blue waterproof jacket with a broken zip and walking boots that were good boots, expensive once. In the jacket pocket: a photograph, water-damaged past recognition, and a key to nothing I could find. Clerk dug the grave. Churchyard, plot 18-A. Read the words. The ground was dry and hard and the digging took most of the day. The swifts were overhead while I dug and their screaming sounded like something tearing, like the air itself being pulled apart, and I stopped and leaned on the spade and watched them and they did not watch me.
 
-*I said her name was Jane. I do not know her name. I wrote Jane in the register because the column requires a name and I could not leave it blank. Jane is not a lie. Jane is what the column needed. A register without a name is a wound without a bandage.*
+*I said her name was Jane. I do not know her name. I wrote Jane in the register because the column requires a name and I could not leave it blank. Jane is not a lie. Jane is what the column needed.*
 
 ---
 
@@ -139,7 +139,7 @@ I have stopped ruling the columns quarterly. I rule them when I need them.
 
 **February.** No entry. I opened the register to make an entry and realised there was no entry to make. No one has died. No one has married. No one has been born. I am recording the absence of an entry, which is itself an entry of a kind.
 
-*The Cherwell flooded in January and the water came up to the lychgate. When it receded it left a line of silt across the churchyard that looked like a ruled column. I am seeing registers everywhere. The world is full of blank columns waiting to be filled.*
+*The Cherwell flooded in January and the water came up to the lychgate. When it receded it left a line of silt across the churchyard that looked like a ruled column. I am seeing registers everywhere.*
 
 *A man passed through the village in March. He did not stop. He was walking north on the towpath with a rucksack and a dog and he did not look at the church or at me standing in the porch. I wanted to call out to him. I wanted to say: I am the parish clerk. I can record your passage. Your name, your direction, the date. I can write you into the book and you will have existed here, in this place, on this day. But I said nothing and he walked on and now he is nowhere in the register, which means, for the purposes of this parish, he was never here.*
 
@@ -157,11 +157,7 @@ I have stopped ruling the columns quarterly. I rule them when I need them.
 
 **March.** ~~Baptism. William Noel. 14 March. Parents: unknown. Godparents:~~ Struck through.
 
-**March.** ~~Baptism.~~ Struck through.
-
-*Three entries, three cancellations. My hand writes them and my hand crosses them out. The left hand writes and the right hand, which holds the ruler, draws the line through. I am two people at the same desk. One of them believes there is a child. The other one knows.*
-
-*But which one knows what?*
+*My hand writes them and my hand crosses them out. I am two people at the same desk. One of them believes there is a child. The other one knows.*
 
 **18 May.** Burial. A dog. Not a person. I will not pretend a dog is a person. But there is nothing else to bury and the dog was here for two years and knew the sound of the vestry door and came when I opened the register, as if the register were food. She was a brown and white thing, neither large nor small, with one ear that stood up and one that lay flat, and she had no name that I knew but I called her Bell, because when she ran across the stone floor of the nave her nails rang like that.
 
@@ -189,11 +185,11 @@ She sat in a pew and put her hands on her stomach and did not speak. I went to t
 
 *The woman is still here. She gardens. She has planted things in the Mowbray garden that I cannot identify — not English, I think. She speaks to me sometimes. Her voice is low and her accent is from somewhere I cannot place. She asks about the register. I showed her. She turned the pages slowly, backwards, from the present blankness to the last baptism in 1995. She put her finger on the entry — Simone Grace Alcott, 3 September 1995, daughter of David and Laura Alcott — and held it there.*
 
-*I do not record what I think I see because I am a clerk and not a prophet. A clerk records. A prophet interprets. But I will say that the woman walks as if she is carrying something precious and breakable, and that she holds her belly the way I have seen women hold their bellies only in photographs now because I have not seen a pregnant woman in the flesh since 1994, which was the last year of ordinary things, and that when I look at her I cannot tell whether I am seeing what is there or what the register requires me to see.*
+*I do not record what I think I see because I am a clerk and not a prophet. A clerk records. A prophet interprets. But I will say that the woman walks as if she is carrying something, and that she holds her belly the way I have seen women hold their bellies only in photographs now because I have not seen a pregnant woman in the flesh since 1994, and that when I look at her I cannot tell whether I am seeing what is there or what the register requires me to see.*
 
-**4 February.** The false dawn again. Zodiacal light. I woke at four and walked to the river and the eastern sky was luminous with it — a blade of brightness that was not the sun. It persisted for twenty minutes. I stood in the frost and watched it fade. When it was gone the sky was darker than before, the way a room is darker after a candle goes out.
+**4 February.** The zodiacal light again. I woke at four and walked to the river and the eastern sky was bright with it — a wedge that was not the sun. Twenty minutes. I stood in the frost. When it was gone the sky was darker than before, the way a room is darker after a candle goes out. I went back to the vestry and sat with the register open and did not write anything.
 
-*The woman asked me today why I still keep the register. I said because the columns are ruled and the ink is not yet dry. She looked at me as if I had said something either very wise or very stupid and I do not know which and I do not think she does either.*
+*The woman asked me today why I still keep the register. I said because the columns are ruled and the ink is not yet dry. She looked at me as if I had said something either very wise or very stupid and I do not think she knows which.*
 
 **September.** I heard a sound from the Mowbray cottage. I will not describe the sound. I will only say that I have heard it before, once, long ago, in a hospital, when my wife — but that was in the time when such sounds were ordinary.
 
@@ -207,7 +203,7 @@ I went to the vestry. I opened the register. I turned to the baptisms column.
 
 Lila. Born 21 September 2025. In the Parish of St. Barnabas, Iffley. Mother: the woman in the Mowbray cottage. Father: not recorded. I did not see the child. I heard the sound. The sound is in the register now, which is where sounds go to become permanent.
 
-*I went to the cottage. The door was open. The room smelled of iron and sweat and something else — milk, possibly, or that smell that rises from the earth after rain, which has a name I have forgotten. She was sitting on the Mowbray bed holding something against her chest. The curtains were drawn. I could not see clearly. I am sixty-six years old and my eyes are not what they were and the light in the room was the colour of old paper.*
+*I went to the cottage. The door was open. The room smelled of iron and sweat and something else — milk, possibly, or that smell that rises from the earth after rain, petrichor, a word I had not used in years. She was sitting on the Mowbray bed holding something against her chest. The curtains were drawn. I could not see clearly. I am sixty-six years old and my eyes are not what they were and the light was bad.*
 
 *She said: write it down.*
 
@@ -225,8 +221,6 @@ The entry sits between 1995 and the end of the book. Thirty years of white space
 
 I do not know if anyone will read this register. I do not know if the survey teams from the Provisional Council will reach Iffley, or if there is still a Provisional Council, or if there are still survey teams. I do not know if the child I heard is the child I recorded or if the sound I heard was the river, or the wind, or the part of my mind that has been filling in blank columns for years now and cannot stop.
 
-I know that the ink is good. I know the entry is in the proper column. I know my hand made it, because the ink is smudged where my left hand dragged across it, and that smudge is as real as anything in this register — the deaths, the marriages, the foxes in the nave, the false dawns, the dog in plot 19-A.
+But the ink is smudged where my left hand dragged across it, and that smudge is as real as anything in this register — the deaths, the marriages, the foxes in the nave, the false dawns, the dog in plot 19-A.
 
-The page is almost full. I will need to rule new columns.
-
-I will rule them tomorrow.
+I have not seen the child. Saro keeps the curtains drawn. She says the light is too strong for a newborn's eyes, which may be true, though it is September and the light has not been strong in weeks.
