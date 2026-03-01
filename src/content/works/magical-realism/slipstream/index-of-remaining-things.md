@@ -7,8 +7,8 @@ authorA: "Jorge Luis Borges"
 authorB: "Samanta Schweblin"
 workX: "If on a winter's night a traveler"
 workY: "The Memory Police"
-wordCount: 6382
-readingTimeMinutes: 26
+wordCount: 5135
+readingTimeMinutes: 21
 tags: ["forgetting", "language", "erasure", "proofreading", "indexes", "loss", "compliance", "books", "bureaucracy"]
 rating: 0.0
 ratingCount: 0
@@ -203,9 +203,9 @@ Her sister was quiet for long enough that Lena checked to see if the call had dr
 
 "I'm serious."
 
-"I know you're serious. That's what worries me. Lena, you've always been like this. You pay too much attention. You notice the thing that everyone else has already agreed doesn't matter, and you won't let it go, and it costs you."
+"I know you're serious. That's what worries me. Lena, you've always been like this. You notice the thing that everyone else has agreed doesn't matter, and you won't let it go, and it costs you."
 
-Lena did not say: *What if everyone else agreed it doesn't matter because they've already forgotten it?* She did not say this because, listening to her sister's voice, she realized she could not remember her sister's middle name. She had known it her entire life. She knew there was a middle name. She could feel the space it occupied — a three-syllable space, beginning with a soft consonant — but the name itself was gone, and asking would be a declaration that something was wrong, and her sister had just told her that paying too much attention was the problem, and Lena could not be the problem and the solution in the same conversation.
+Lena did not answer. Listening to her sister's voice, she realized she could not remember her sister's middle name. She had known it her entire life. She could feel the space it occupied — a three-syllable space, beginning with a soft consonant — but the name itself was gone.
 
 "You're right," she said. "I'll take a break."
 
@@ -237,47 +237,45 @@ She had not left the page. She had not closed her eyes. Four seconds. The time i
 
 She put her hands flat on the desk. She could feel the surface of the paper under her palms. The paper was real. The text on it was real in the way that text is always real — ink, fixed, physically present. But its content had the permanence of breath on glass. It was there, and it was there, and then a warmth passed over it and it wasn't.
 
-She opened her notebook. She wrote the paragraph as she remembered it — the predecessor, the web of cross-references, the closed loop. She wrote as fast as she could. Her handwriting degraded. By the third line she could feel the memory thinning, not fading but contracting, losing its peripheral details the way a photograph curls at its edges in heat. She captured the center. She lost the edges.
+She opened her notebook. She wrote the paragraph as she remembered it — the predecessor, the web of cross-references, the closed loop. She wrote as fast as she could. Her handwriting degraded. By the third line she could feel the memory contracting, losing its periphery. She captured the center. She lost the edges.
 
-That evening she went to the public library. Not the one that was closing — a different one, larger, on the other side of the city, the kind of building that still smelled like the twentieth century: radiator heat, carpet adhesive, the particular musk of books that have been read by hundreds of hands. She went to the reference section. She pulled an encyclopedia from the shelf — an old one, bound in red, the kind nobody uses anymore — and opened it at random.
+That evening she went to the public library — a large one on the other side of the city, the kind of building that still smelled like the twentieth century: radiator heat, carpet adhesive, the musk of books handled by hundreds. She pulled an encyclopedia from the reference section — an old one, bound in red — and opened it at random.
 
-The entry was for "Pantograph." A mechanical device for copying and scaling drawings. There was a diagram. She read the entry twice, paying attention to each word the way she paid attention to manuscript text — not for meaning but for presence, for the fact of each word being where it was and staying there. She closed the book. She opened it again. The entry was still there. Pantograph. The same diagram. The same words in the same order.
+The entry was for "Pantograph." A mechanical device for copying and scaling drawings. There was a diagram. She read the entry twice, paying attention to each word not for meaning but for presence. She closed the book. She opened it again. Pantograph. The same diagram. The same words in the same order.
 
-She felt a relief so sharp it frightened her. She had come to the library to test something, and the test had a result, and the result was that this book, at least, was holding. Its content was fixed. Its sentences did not rearrange themselves between readings. But the relief lasted only until she tried to remember whether the encyclopedia had always had a red binding or whether it had once been green, and she could not answer the question, and the inability to answer was not the same as not knowing — it was the sensation of a drawer that had been opened and emptied while she was looking in another direction.
+The relief lasted only until she tried to remember whether the encyclopedia had always had a red binding or whether it had once been green, and she could not answer, and the inability to answer was not the same as not knowing.
 
-She put the encyclopedia back on the shelf. She left the library. On the bus home she counted the stops — fourteen — and at each one she said the name under her breath, a litany of locations: Karlsplatz, Hegelgasse, Schweglerstrasse, Johnstrasse, and so on, names she had known for years, names that were attached to specific street corners and specific memories (the bakery at Schweglerstrasse where she'd bought bread every Sunday for a year, the bench at Johnstrasse where she'd once sat and cried after a dentist appointment, for reasons that had nothing to do with the dentist). She held the names in her mouth. She did not write them down. Writing them down would make them evidence, and evidence could be checked, and what if she checked and some of the stops had different names, or fewer letters, or had merged into each other the way Petra had merged into the hallway — still technically present, but stripped of everything that made presence mean something?
-
-She counted fourteen stops. She got off at hers. She went home.
+On the bus home she counted the stops — fourteen — and at each one she said the name under her breath: Karlsplatz, Hegelgasse, Schweglerstrasse, Johnstrasse, and so on, names attached to specific memories (the bakery at Schweglerstrasse where she'd bought bread every Sunday for a year, the bench at Johnstrasse where she'd cried after a dentist appointment, for reasons that had nothing to do with the dentist). She held the names in her mouth. She did not write them down.
 
 ---
 
-The manuscript was now 412 pages of a different book than the one she'd started reading. Not entirely different — the indexer was still there, and Dahl, and Petra (though Petra no longer had rice crackers or a desk or a surname; she was simply a shape in the hallway that the indexer sometimes passed). The Bureau of Standard Revisions still existed. But its purpose had shifted, or Lena's understanding of its purpose had shifted, or both. In the early pages, the Bureau had maintained an index of the world's contents — a comprehensive catalog of what existed. Now the Bureau appeared to be maintaining something simpler: a list of what was permitted to continue existing. The index was not a record. It was a permission slip.
+The manuscript was now 412 pages of a different book than the one she'd started reading. The indexer was still there, and Dahl. The Bureau of Standard Revisions still existed. But its purpose had shifted. In the early pages, the Bureau had maintained an index of the world's contents — a catalog of what existed. Now it appeared to be maintaining something simpler: a list of what was permitted to continue existing. The index was not a record. It was a permission slip.
 
-The distinction arrived without announcement. No scene dramatized the shift. No character explained it. The manuscript had simply rewritten its own premises in the spaces between Lena's readings, the way a house settles at night — small sounds, small adjustments, and in the morning the door frame is slightly crooked and you cannot say when it moved.
+No scene dramatized the shift. No character explained it. The manuscript had rewritten its own premises in the spaces between Lena's readings, the way a house settles at night — small sounds, and in the morning the door frame is slightly crooked and you cannot say when it moved.
 
-Lena did not flag this in her official annotations. There was nothing to flag. The text before her was internally consistent. Subject-verb agreement held. Tenses matched. Continuity, within the current version, was flawless. The errors existed only in the gap between what the manuscript said now and what Lena's notebook said it had said before, and that gap was not a proofreading problem. That gap was a window onto a different kind of inconsistency — the inconsistency between the world and its own recent past.
+Lena did not flag this in her official annotations. There was nothing to flag. Subject-verb agreement held. Tenses matched. Continuity, within the current version, was flawless. The errors existed only in the gap between what the manuscript said now and what Lena's notebook said it had said before, and that gap was not a proofreading problem.
 
 ---
 
-She finished the manuscript on a Thursday. The last page — 412, as always — ended mid-sentence. Not in the way of experimental fiction, where an unfinished sentence is a statement. In the way of a text that had been longer and was now shorter and the ending had been caught in the contraction. The sentence read: *The indexer placed her pen on the desk and looked at the window, which showed*
+She finished the manuscript on a Thursday. The last page — 412, as always — ended mid-sentence. Not in the way of experimental fiction, where an unfinished sentence is a statement. In the way of a text that had been longer and was now shorter. The sentence read: *The indexer placed her pen on the desk and looked at the window, which showed*
 
 Which showed. No period. No continuation. Lena waited, half-expecting the sentence to complete itself if she looked away and looked back, the way the text had changed so many times before. She looked away. She looked back. The sentence remained broken. Whatever the window had showed was gone.
 
 She checked her notebook. She had no record of the original ending. It had been lost — not from the manuscript, but from her. She had proofread the last pages weeks ago, in the early days, before she'd started the second notebook, and whatever the ending had been, she had no copy.
 
-She sat with the incomplete sentence for a long time. The office was empty — it was past seven, the cleaning staff had already come through, and the particular silence of a vacated office filled the room, a silence that has texture, that you can almost press your thumb against.
+She sat with the incomplete sentence for a long time. The office was empty — past seven, the cleaning staff already gone.
 
 She could write the ending. She had a red pencil and she had the manuscript and she could write, in the margin, the sentence that completed the indexer's story. *Which showed the street below, the trees still bare.* Or: *Which showed nothing, because the glass had gone opaque.* Or: *Which showed a room on the other side, identical to this one, in which a woman was placing her pen on the desk.*
 
 She could write any of these. She didn't.
 
-Instead, she did something she had never done before in eleven years of copy editing: she read the manuscript's last sentence aloud. In the empty office, with the cleaning smell of lemon and ammonia in the air and the security lights casting their orange geometry on the floor, she said: "The indexer placed her pen on the desk and looked at the window, which showed."
+Instead, she read the manuscript's last sentence aloud. In the empty office, with the cleaning smell of lemon and ammonia and the security lights casting their orange geometry on the floor, she said: "The indexer placed her pen on the desk and looked at the window, which showed."
 
-The words hung in the room. They sounded wrong — not grammatically wrong but spatially wrong, like furniture placed in the center of a room that had been designed for furniture along the walls. The sentence wanted to continue. It leaned forward. The "which showed" was a hand reaching for a railing that wasn't there.
+The words hung in the room. The sentence wanted to continue. It leaned forward. The "which showed" was a hand reaching for a railing that wasn't there.
 
-She said it again: "Which showed." And again: "Which showed." Each repetition made the incompleteness larger, the way pressing on a bruise makes the bruise more precisely itself. She was testing something. She was testing whether the sentence, spoken aloud, existed more firmly than it did on the page — whether voice was a medium the erasure could not reach.
+She said it again: "Which showed." And again: "Which showed." Each repetition made the incompleteness larger. She was testing whether the sentence, spoken aloud, existed more firmly than it did on the page — whether voice was a medium the erasure could not reach.
 
-She did not know the answer. The sentence remained incomplete in every medium she put it in: on the page, in the air, in the notebook where she wrote it. Three copies of a sentence that pointed at nothing. Three fingers extended toward an absent wall.
+The sentence remained incomplete in every medium she put it in: on the page, in the air, in the notebook where she wrote it.
 
 ---
 
@@ -285,7 +283,7 @@ Lena turned in the manuscript on Friday. 412 pages, three sets of annotations (r
 
 "Any issues?" Ingrid asked.
 
-Lena considered the question. The manuscript had lost approximately 40 percent of its original content during the three weeks she'd been reading it. Her private notebook contained the only record of what the book had been before it became what it now was. The word "saffron" no longer appeared anywhere in the text, and Lena could no longer remember what saffron smelled like, though she could remember remembering it, which was a different thing and not a comfort.
+Lena considered the question. The manuscript had lost approximately 40 percent of its original content during the three weeks she'd been reading it. The word "saffron" no longer appeared anywhere in the text, and she could no longer remember what saffron smelled like, though she could remember remembering it.
 
 "A few comma splices," she said. "Nothing structural."
 
@@ -293,45 +291,35 @@ Ingrid nodded. Lena went back to her desk.
 
 ---
 
-A week passed. Another manuscript arrived — a novel about a family in coastal Norway, 288 pages, the kind of book that knew exactly what it was and did not change. Lena proofread it in four days. Subject-verb agreement. Tense consistency. Compound modifiers. The sentences stayed where she left them. The characters did not vanish between readings. The novel was solid in the way that rock is solid, and proofreading it felt like walking on firm ground after weeks at sea — steadying, but also diminishing, because the firmness reminded her of what firmness felt like, and by contrast, the three weeks with the manuscript took on the quality of a fever dream, something that had happened to a different version of her in a room that might not still exist.
+A week passed. Another manuscript arrived — a novel about a family in coastal Norway, 288 pages, the kind of book that knew exactly what it was and did not change. Lena proofread it in four days. The sentences stayed where she left them. The characters did not vanish between readings.
 
-She thought about the indexer. Not the indexer on the page — that indexer had been reduced, by the manuscript's final version, to a woman at a desk with a pen, doing work that the text no longer described in any specificity. The indexer Lena thought about was the earlier one, the one from the first reading, the one with the hourglass and the drawer sequence and the tea brewed three minutes off the boil. That indexer had been a person. The later indexer was a shape. The manuscript had kept the noun and removed the life.
-
-Lena did not think about this in philosophical terms. She thought about it the way you think about a coat you left on a bus — a practical loss, a thing that had been in your possession and now wasn't, and the world expected you to buy a new coat and stop looking out the bus window.
+She thought about the indexer. Not the one on the page — that indexer had been reduced to a woman at a desk with a pen, doing work the text no longer described. The indexer Lena thought about was the earlier one, the one with the hourglass and the drawer sequence and the tea brewed three minutes off the boil. That indexer had been a person. The later indexer was a shape. The manuscript had kept the noun and removed the life.
 
 ---
 
-The notebook remained. She kept it in the bottom drawer, under a box of paperclips and a defunct stapler. She did not reread it. She was afraid — though she would not have used the word "afraid," would have said "reluctant," would have said "not ready" — that the notebook, too, was subject to the same erosion. That the sentences she'd written in red pencil were thinning, that the blanks she'd left where memory failed were widening, that the index of remaining things was becoming an index of remaining blanks.
-
-She was also afraid that the notebook was perfectly intact, and that she would read it and find references to things she could no longer recognize — names, places, sensory experiences — that would prove the distance between who she had been three weeks ago and who she was now, a distance measured not in time but in content, in the catalog of things she used to contain and no longer did.
+The notebook remained. She kept it in the bottom drawer, under a box of paperclips and a defunct stapler. She did not reread it. She was afraid — though she would not have used the word "afraid," would have said "reluctant" — that the notebook, too, was subject to the same erosion. Or worse: that it was perfectly intact, and that she would read it and find references to things she could no longer recognize.
 
 She left the drawer closed.
 
 ---
 
-On Monday, a new manuscript arrived. This one had an author name, a title she recognized (she had proofread a previous book by the same writer, two years ago, a novel about beekeeping in the Carpathians), and an editorial letter attached. Normal. Everything about it was normal. She opened it to the first page and began reading, and the words were fixed, and the characters did not disappear, and the page count corresponded to the content, and she hated it. Not the book — the book was competent, even good in places. She hated the stability. She hated that every sentence sat where it had been placed, obedient and permanent, and that the narrative moved forward in a single direction and arrived where it intended to arrive. She missed the vertigo. She missed the wrongness. She missed the feeling of reading a text that was alive in the way that weather is alive — changing, ungovernable, dangerous to predict.
+On Monday, a new manuscript arrived — an author she recognized, a novel about beekeeping in the Carpathians, an editorial letter attached. She opened it and began reading. The words were fixed. The characters did not disappear. She hated the stability.
 
 She put the beekeeping manuscript aside. She opened the bottom drawer. She took out the notebook.
 
-The notebook was as she had left it. Forty-six pages, in her own handwriting, red pencil on cream-colored paper. The first entry: *p. 47, saffron scene. The indexer notices the entry is gone. Asks Dahl. Dahl doesn't see the problem. Original line: "The entry had been there, she was certain of it."* She read this and could remember writing it but could not remember the scene it described. The words "saffron" and "Dahl" and "certain" were present in her notebook and absent from her mind, the way a phone number written on a slip of paper survives the loss of the memory of whose number it is.
+Forty-six pages, in her own handwriting, red pencil on cream-colored paper. The first entry: *p. 47, saffron scene. The indexer notices the entry is gone. Asks Dahl. Dahl doesn't see the problem. Original line: "The entry had been there, she was certain of it."* She could remember writing this but could not remember the scene it described. The words "saffron" and "Dahl" and "certain" were present in her notebook and absent from her mind, the way a phone number on a slip of paper survives the loss of the memory of whose number it is.
 
-She turned pages. Entry after entry. Scenes she had recorded in detail that she could no longer reconstruct — the museum chapter, Petra's rice crackers, the indexer's predecessor and the web of cross-references. The notebook described a manuscript she could not remember reading. It described a world that was richer, denser, more populated than the world she currently inhabited, and she could not tell whether the richness was real or whether her past self had been a better noticer, a person who saw more because she hadn't yet learned what the cost of seeing was.
+She turned pages. The museum chapter, Petra's rice crackers, the indexer's predecessor and the web of cross-references. The notebook described a manuscript she could not remember reading.
 
-She closed the notebook. She put it back in the drawer. She picked up the beekeeping manuscript and found her place and began reading about apiaries in the Carpathians, and the sentences held still, and she made her marks in red and blue and green, and it was fine. It was what it was. It was enough.
-
-It was not enough.
+She closed the notebook. She put it back in the drawer. She picked up the beekeeping manuscript and found her place.
 
 ---
 
-On Saturday morning she woke up and the apartment was as it had always been. Five spice jars on the shelf above the stove. A window that showed the street below. The sound of traffic and, somewhere, a bird — though she could not say what kind, could not say whether the song had once been more specific, could not say whether the category "birdsong" had once contained sub-categories (sparrow, wren, the particular two-note call of something she'd known the name of as a child) or whether "birdsong" was all it had ever been: a single flat word for a sound that needed no further specification.
+On Saturday morning she woke up and the apartment was as it had always been. Five spice jars on the shelf above the stove. A window that showed the street below. The sound of traffic and, somewhere, a bird — though she could not say what kind, could not say whether the category "birdsong" had once contained sub-categories or whether it was all it had ever been.
 
-She made coffee. She sat at the kitchen table. She noticed that the table had three chairs, though she lived alone, and could not say whether there had once been a fourth chair or whether three was the number there had always been. She did not count. Counting was a form of noticing, and noticing was a form of resisting, and she was tired.
+She made coffee. She sat at the kitchen table. The table had three chairs, though she lived alone.
 
-The notebook was in the bottom drawer at work. She could go in on a Saturday. She could open the drawer and read what she'd written and know, in precise and specific terms, what the world had lost and what she had lost with it.
-
-She could. She didn't.
-
-She drank her coffee. Outside, the bird — the single, uncategorized bird — continued its single, uncategorized song. The morning light came through the window and lay on the table in a shape she did not try to name.
+The notebook was in the bottom drawer at work.
 
 ---
 
