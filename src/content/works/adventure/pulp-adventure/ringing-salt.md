@@ -7,8 +7,8 @@ authorA: "Wilbur Smith"
 authorB: "Jules Verne"
 workX: "King Solomon's Mines by H. Rider Haggard"
 workY: "Raiders of the Lost Ark"
-wordCount: 4018
-readingTimeMinutes: 16
+wordCount: 3870
+readingTimeMinutes: 15
 tags:
   - "Danakil Depression"
   - "geology"
@@ -97,13 +97,11 @@ Dirir walked ahead of the camels. He did not use a compass. He navigated by the 
 
 She checked her altimeter. The surface had dropped four centimeters in the depression. She checked the journal. Kessler had noted the same phenomenon: *Local subsidence of 2-5 cm indicates brine migration beneath the halite layer. The Afar call this* amoli, *the sweating place. Avoid.*
 
-Two kinds of knowledge, she thought. Hers came with numbers. Dirir's came with names.
-
 By the third morning, the volcanic range was visible to the south — a dark line of ridges rising from the shimmer like teeth in a broken jaw. Dirir angled their course toward a gap between two shield volcanoes that Soline's topographic map showed as unnamed. Dirir called it *Ginnili*, which he said meant *the throat.* The temperature that day reached forty-seven degrees. Soline's clinometer fogged when she tried to take a reading, the moisture from her hands condensing instantly on the glass. She wiped it with her shirt, but her shirt was saturated with sweat and salt, and the glass only smeared.
 
 The water was going faster than she'd planned. The camels drank more in this heat, and Dirir had insisted on filling an extra skin at the last brackish spring, which meant one of the camels was carrying water instead of instruments. Soline had argued. Dirir had looked at her the way her thesis advisor used to look at her when she proposed a fieldwork schedule without contingency days: patient, faintly amused, immovable.
 
-She'd conceded. She was beginning to learn that concession was not the same as weakness, though it felt identical.
+She'd conceded.
 
 On the evening of the second day, they camped in the lee of a salt formation that Dirir called *daba* — a ridge where centuries of wind had carved the halite into fins and pillars that threw hard-edged shadows in the failing light. Soline ate dried goat meat and flatbread and drank exactly one liter of water, measuring it into her cup with the disciplined precision of someone who understood that hydration in the Danakil was not a comfort but a calculation. The human body loses between 0.8 and 1.6 liters of sweat per hour at forty-five degrees. She was averaging twelve hours of walking. The math was simple and the margin was thin.
 
@@ -139,7 +137,7 @@ Soline took out her seismometer — a portable unit, battery-powered, sensitive 
 
 She walked to the camp alone. The drilling rig had bored through approximately twelve meters of salt overburden before hitting something that had stopped the bit. Soline examined the core samples laid out on a tarpaulin beside the rig. Salt, salt, salt — pure white halite with thin laminations of anhydrite — and then, abruptly, a cylinder of dark, fine-grained rock that rang when she tapped it with her geological hammer.
 
-The sound was clear and sustained, a tone somewhere between a bell and a tuning fork, and it carried across the camp and out over the salt flat and faded into the heat like a voice calling from a great distance.
+The sound was clear and sustained, a tone somewhere between a bell and a tuning fork, and it carried across the camp and out over the salt flat and held in the air longer than it should have.
 
 Dirir, two hundred meters away, turned his head.
 
@@ -211,8 +209,6 @@ Soline sealed the backup drive in a waterproof case and strapped it to her body 
 
 The fissure had widened again overnight. It was nearly a meter across now, and a second crack had appeared parallel to the first, running directly beneath the drilling rig. The rig's support legs were no longer sitting on solid ground. One of the rear legs had punched through the salt crust and hung in open air above the fissure, the rig tilting at a five-degree angle like a drunk leaning on a lamppost.
 
-Soline looked at it and thought: *Nakamura was right. The formation is load-bearing. They weakened the cap, and the whole basin is adjusting.*
-
 Dirir had the camels moving before she'd finished securing the saddlebag. She jogged to catch up, her boots crunching on the salt crust, the heat already savage at seven in the morning. Behind her, she heard the Aldgate trucks arrive at the camp — doors slamming, voices, then someone shouting about the fissure.
 
 They walked for six hours without stopping. Dirir set a pace that was just short of punishing, reading the salt surface with an intensity Soline had not seen from him before. He was not navigating around the *amoli* now. He was navigating between them. The sweating places had multiplied overnight — shallow depressions where the salt was visibly damp, the brine seeping upward through new fractures in the crust.
@@ -221,7 +217,7 @@ They walked for six hours without stopping. Dirir set a pace that was just short
 
 "This is from the ground deciding to move," Dirir said. "It has decided before. My grandfather walked the salt when there were no depressions between Hamed Ela and the mountains. Now there are many. The ground is sinking. Slowly, for us. Fast, for the ground."
 
-Plate tectonics rendered as family memory. Soline thought of Verne — of a story she'd read as a child, about a professor who descended into a volcano and found an ocean beneath the Earth. She was walking above an ocean that didn't exist yet. In a hundred thousand years, or a million, the Red Sea would breach the Danakil basin again, and the salt and the stones and the camp and the fissures would all be underwater, and no one would remember the instrument that had been buried here.
+She walked above an ocean that didn't exist yet. In a hundred thousand years, or a million, the Red Sea would breach the Danakil basin again, and the salt and the stones and the camp and the fissures would all be underwater, and no one would remember the instrument that had been buried here.
 
 She reached into the saddlebag and touched one of the core samples. It was warm from the sun. She tapped it with her fingernail and heard a faint, clear note, almost too high to register.
 
@@ -233,11 +229,11 @@ Dirir did not turn around.
 
 "Two days. If the *amoli* do not spread."
 
-She had water for two days. Exactly. No margin. The instruments were heavy and the camels were tired and the salt flat stretched ahead of them without shade or landmark, white and pitiless and old. The sun was already a white furnace above the eastern rim of the basin, and the heat reflected from the salt surface hit her from below and above simultaneously, a comprehensive assault that left no angle unburned.
+She had water for two days. Exactly. No margin. The instruments were heavy and the camels were tired and the salt flat stretched ahead of them without shade or landmark, white and pitiless and old.
 
-By noon, one of the camels had developed a limp — a salt crystal lodged in the soft tissue of its foot. Dirir knelt and extracted it with his blade, working with the calm dexterity of a surgeon, while the camel groaned and Soline held its halter and watched the horizon behind them for dust plumes. She saw none. Either Aldgate's trucks were buried under the collapsed salt pan or they had retreated to Berahile by a different route. Either way, the race was over. She had won it, if you could call this winning — five stone fragments, a hard drive full of recordings, and a two-day walk across a desert that was actively trying to sink beneath her feet.
+By noon, one of the camels had developed a limp — a salt crystal lodged in the soft tissue of its foot. Dirir knelt and extracted it with his blade, working with the calm dexterity of a surgeon, while the camel groaned and Soline held its halter and watched the horizon behind them for dust plumes. She saw none. Either Aldgate's trucks were buried under the collapsed salt pan or they had retreated to Berahile by a different route.
 
-That evening, Dirir found water. Not a spring — a seep, barely visible, where moisture darkened the salt surface at the base of a low ridge. He dug with his hands until a pool formed, brown and brackish and tasting of sulfur, but drinkable with the purification tablets from Soline's kit. They filled two skins. The camels drank until their bellies distended. Soline drank a full liter without stopping and felt the water reach every dried-out cell in her body like rain on fired clay.
+That evening, Dirir found water. Not a spring — a seep, barely visible, where moisture darkened the salt surface at the base of a low ridge. He dug with his hands until a pool formed, brown and brackish and tasting of sulfur, but drinkable with the purification tablets from Soline's kit. They filled two skins. The camels drank until their bellies distended. Soline drank a full liter without stopping and felt it reach every dried-out cell in her body.
 
 "Your instruments did not find this," Dirir observed.
 
@@ -245,8 +241,6 @@ That evening, Dirir found water. Not a spring — a seep, barely visible, where 
 
 "You should write that in your journal."
 
-She did.
+She did. She also wrote: *Recorded 47 distinct chord structures from the bore hole. Sympathetic resonances suggest the formation extends at minimum 200m beyond the drill site. Tonal architecture is non-random — intervals consistent with deliberate tuning. Whoever built this understood overtone series. Fissure widening suggests the cap rock will fail within months, possibly weeks. When it does, the brine will flood the formation and the salt will dissolve the tuning surfaces. This recording may be the only record of an instrument that played for thousands of years to an audience of geology.*
 
-They walked. The core sample in the saddlebag rang softly with each step of the camel's gait, a tiny chime buried under canvas, barely audible above the crunch of salt beneath her boots. A fragment of something immense and irretrievable, singing to no one.
-
-The data was safe against her ribs. Five stones in a saddlebag. Two days of water and a seep she hadn't found on any map. She did not look back again.
+She closed the journal. She did not write what she was thinking, which was that five core samples and a hard drive were a poor substitute for a thing she could not save, and that Kessler had probably thought the same, and that this was maybe why he had refused to leave.
