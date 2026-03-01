@@ -7,7 +7,7 @@ authorA: "George Orwell"
 authorB: "Jose Saramago"
 workX: "1984"
 workY: "Blindness"
-wordCount: 5404
+wordCount: 5476
 readingTimeMinutes: 22
 tags: ["totalitarian-dystopia", "non-linear-time", "surveillance", "language-erosion", "blindness-metaphor", "bureaucratic-control", "memory-dissolution"]
 rating: 0
