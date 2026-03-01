@@ -10,8 +10,8 @@ workY: "The Periodic Table by Primo Levi"
 wordCount: 4592
 readingTimeMinutes: 18
 tags: ["science", "contamination", "custody", "OSIRIS-REx", "asteroid", "procedural", "deep-time"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: >

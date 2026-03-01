@@ -10,8 +10,8 @@ workY: "Master and Commander by Patrick O'Brian"
 wordCount: 5544
 readingTimeMinutes: 22
 tags: ["naval", "Napoleonic", "command", "incomplete-information", "battle", "systems-failure"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "O'Brian's layered period texture and naval hierarchies of silence fused with Crichton's procedural systems-under-stress, structured through Jones's fractured multi-perspective engagement and shaped by the Master and Commander conviction that command is loneliness and competence is the closest approximation of love available to men who send other men to die."

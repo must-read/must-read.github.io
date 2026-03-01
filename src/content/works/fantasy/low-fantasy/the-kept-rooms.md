@@ -20,8 +20,8 @@ tags:
   - institutional-magic
   - elegiac
   - small-town
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Ishiguro's restrained, elegiac narration and Clarke's scholarly wonder merge in a story of a woman who tends a room that absorbs voluntarily surrendered memories. The Buried Giant's landscape of collective forgetting becomes a single building in a small town, while Piranesi's beautiful prison becomes the room itself — a space made luminous by accumulated grief."
