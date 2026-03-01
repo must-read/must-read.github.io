@@ -1,0 +1,68 @@
+{
+  "workSlug": "case-notes-toward-a-life",
+  "reviews": [
+    {
+      "personaId": "noir-001-desiree",
+      "rating": 4,
+      "text": "This got me. I wasn't expecting a crime story told through police reports and diary entries to hit this hard, but the voice in that notebook is something else. The detail about the woman at the bus stop letting two buses pass because she was reading, the grocery bag weighing 3.2 kilos — those aren't clues, they're a whole life rendered in fragments. And the detective buying lilies at the end, standing outside the same florist she wrote about? That broke me a little. The case doesn't get solved and I didn't even care, which is not something I say often about a crime story.",
+      "date": "2025-11-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-002-takeshi",
+      "rating": 3,
+      "text": "Structurally ambitious but uneven. The document-format conceit works well in the early sections where the procedural language and the diary entries create genuine tonal friction — the pestle catalogued as 'granite, approx. 18 cm' against the luminous interior monologue is effective juxtaposition. But the story asks whether it's noir or literary fiction and never commits to either. The investigation is thin: one suspect cleared too easily, a surveillance figure who conveniently can't be identified. The detective's contamination by the victim's consciousness is the real subject, but noir requires more structural tension between what the detective knows and what the reader suspects. The prose in the diary sections is often excellent; the procedural framing doesn't earn the ambiguity it produces.",
+      "date": "2026-01-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-003-beth",
+      "rating": 4,
+      "text": "The procedural details are solid. Assa Abloy d12 locks, evidence logging protocols, the forensic distinction between spatter patterns at seated versus standing height — someone did their homework. I particularly appreciated that the detective notes his own procedural deviation in reading the notebook at the scene rather than at the station. Real investigators document that. The case itself is left open, which will frustrate readers who want resolution, but the DNA not matching the surveillance footage is the kind of dead end that actually happens. My only complaint is that the detective's emotional contamination would trigger a reassignment in any real department. Four readings of the victim's notebook? His supervisor would have pulled him.",
+      "date": "2025-10-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-004-rowan",
+      "rating": 5,
+      "text": "This does something I've rarely seen in Scandinavian noir: it makes the dead woman the subject rather than the object. Signe Lindqvist is not a body to be processed — she's the most alive presence in the story, more alive in her notebook than the detective is in his reports. The power dynamic is inverted. The investigator, who should be the authority figure imposing narrative order on a life, is instead colonized by her way of seeing. By the end he's writing about light and footsteps on Bondegatan — her rhythms, her attention. The formal structure reinforces this: the police report format cracks under the pressure of her interiority. When he corrects the forensic report about the thyme — 'it was lemon thyme, Thymus citriodorus' — he's already thinking like her, insisting on specificity the institution doesn't require. Brilliant, quiet subversion of the genre.",
+      "date": "2026-02-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-005-vince",
+      "rating": 4,
+      "text": "The sentence craft in the diary entries is extraordinary. 'The light at 07:00 in November is not light. It is the rumor of light.' That line earns its place. The tunnelbana passage — the doubling in the window glass, the girl rehearsing silently, the newspaper man's elbow — sustains a single unbroken rhythm across a full page without losing tension. The prose knows when to be spare (the procedural sections) and when to open up (the notebook). Where it falters slightly is in the detective's own voice, which sometimes borrows too transparently from the diary. The lilies at the end are earned but border on symmetry. Still, the writing is controlled and the restraint in the unsolved ending shows confidence.",
+      "date": "2025-09-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-006-janet",
+      "rating": 3,
+      "text": "Beautiful writing but I'm not sure it's a crime story. The murder investigation just kind of stalls out — one suspect has an alibi, the surveillance footage is inconclusive, and then the detective starts buying flowers. The diary entries are gorgeous, I'll give it that, but after a while I wanted something to happen. The interview with Rydell had real tension ('she was alive, that's what I'm telling you') and I wanted more of that energy. Felt like the story was more interested in being poetic than being suspenseful.",
+      "date": "2026-02-02",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-007-graham",
+      "rating": 4,
+      "text": "A proper Scandinavian procedural that understands what the best of the tradition does — uses the crime to excavate the loneliness the society prefers not to examine. The Stockholm setting is precisely rendered without the tourism-brochure quality that plagues so much Nordic noir. Bondegatan at dusk, the ICA on Folkungagatan, the tunnelbana between Medborgarplatsen and Gamla Stan — these aren't set dressing, they're structural elements. The unsolved case is the right choice. Resolution would have betrayed the story's actual subject, which is the impossibility of fully knowing another person even when you hold their private notebook in your hands. The detective's contamination is handled with admirable restraint, the emotion arriving through procedural detail rather than declaration.",
+      "date": "2025-12-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-008-carolina",
+      "rating": 4,
+      "text": "The gender dynamics here are worth examining. Lindqvist is dead before the story begins, yet she commands the narrative through her notebook — her consciousness is more powerful than the institutional apparatus investigating her death. The detective, positioned as the subject who will impose order, becomes the object of her influence. His case notes progressively adopt her vocabulary, her rhythms, her attention to sensory detail. The archive motif is doing double work: Lindqvist's professional anxiety about reducing lives to metadata mirrors what the police report does to her own death. 'Pestle, granite, approx. 18 cm' — the detective himself recognizes this reduction and rebels against it. The colleague's interview is a standout: Falk's observation that Signe 'processed documents the way you'd dress a wound' gives us a woman who extends subjectivity to objects. That the detective includes this 'inadmissible' testimony tells us he's already operating outside institutional logic.",
+      "date": "2025-08-29",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "noir-009-dale",
+      "rating": 2,
+      "text": "Not for me. I kept waiting for the investigation to go somewhere and it never did. You've got a dead woman, a suspect who walks, a figure on camera nobody can identify, and then the detective goes and buys flowers. That's the ending? I get that some people like the literary stuff — the diary entries about light and coffee and the weight of a grocery bag — but I read crime fiction for the crime. Five thousand words and no arrest, no twist, no reveal. The writing is fine, I guess, but I felt cheated.",
+      "date": "2026-01-17",
+      "helpfulCount": 0
+    }
+  ]
+}
