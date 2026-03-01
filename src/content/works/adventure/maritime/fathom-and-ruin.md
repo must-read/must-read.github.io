@@ -19,10 +19,10 @@ tags:
   - captain-and-crew
   - naturalism
   - moral-complexity
-rating: 0.0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Stevenson's morally layered adventure prose and his fascination with
   charismatic men whose virtues become indistinguishable from their

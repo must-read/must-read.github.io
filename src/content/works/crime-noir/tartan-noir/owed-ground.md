@@ -10,9 +10,9 @@ workY: "Wolf Hall"
 wordCount: 5410
 readingTimeMinutes: 22
 tags: ["tartan-noir", "glasgow", "police-corruption", "institutional-power", "council-housing", "property-development", "debts-and-favors", "multiple-perspectives", "civic-complicity"]
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 3.6
+ratingCount: 10
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Ellroy's staccato institutional paranoia fused with Mantel's Cromwellian attention to power as a daily practice of debts and favors, set within Glasgow's police and council apparatus where a housing conspiracy implicates everyone who touches it."
 synopsis: "Two Glasgow detectives and a council clerk converge on a dead man whose name vanished from a housing waiting list. The investigation reveals that the city's architecture of favors reaches further than any of them can afford to know."

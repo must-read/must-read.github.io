@@ -22,9 +22,9 @@ tags:
   - purity
   - skin
   - dissolution
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: >
   Nelson's fragment-based autotheory and body-as-philosophical-subject braid

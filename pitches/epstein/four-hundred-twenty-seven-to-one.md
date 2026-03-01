@@ -7,7 +7,7 @@ authorB: "Jose Saramago"
 workX: "The Castle"
 workY: "Invisible Man"
 source: "https://bedwards.github.io/epstein/"
-status: "pitch"
+status: "completed"
 priority: 1
 ---
 

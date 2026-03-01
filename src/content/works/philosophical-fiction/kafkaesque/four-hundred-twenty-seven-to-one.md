@@ -20,9 +20,9 @@ tags:
   - institutional-failure
   - philosophical-fiction
   - American-governance
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: >
   Kafka's matter-of-fact prose applied to institutional nightmare fused with Saramago's flowing allegorical sentences about democratic consensus producing democratic failure. The Castle provides the structure of a protagonist with documentation, authority, and legal right who cannot reach the institution she needs. Invisible Man provides the thematic architecture of a person who does everything the system asks and discovers the system was never designed to see her.

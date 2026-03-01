@@ -10,9 +10,9 @@ workY: "The Likeness"
 wordCount: 6115
 readingTimeMinutes: 24
 tags: [urban-fantasy, city, identity, perception, investigation, overlapping-realities, murder, dublin, ambiguous-ending, weird-fiction]
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 8
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Miéville's weird-city overlapping realities and bureaucratized perception meet French's atmospheric psychological investigation and dissolving identity, in a story where a detective crosses between two versions of the same Dublin neighborhood to solve a murder and loses track of which self she started with."
 synopsis: "Detective Nessa Tiernan investigates a body that doesn't fit her version of Stoneybatter. To find the killer, she must live the dead woman's life in the neighborhood's hidden twin — but the deeper she goes, the less certain she is which woman she still is."
