@@ -1,0 +1,68 @@
+{
+  "workSlug": "asking-price",
+  "reviews": [
+    {
+      "personaId": "mys-001-siobhan",
+      "rating": 4,
+      "text": "The investigative instincts are sound even if the investigation itself goes nowhere it expects to. Bette reading the street — the siding layers, the paint on Arthur's columns, the unwashed coffee cup — is exactly how a good observer works, and the story respects that her deductions are correct while her framework is wrong. The Dorchester setting feels lived-in rather than researched. The parking-as-blood-sport line made me laugh. Where it falters slightly: the resolution via Patrice in the car park is a bit tidy. Real situations like Arthur's tend to be messier. But the ending, with Bette looking at Mrs. Barros's sign and admitting she cannot tell the difference from the outside — that's honest writing.",
+      "date": "2026-01-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-002-harold",
+      "rating": 3,
+      "text": "The mystery, such as it is, amounts to a For Sale sign and a conversation in a car park. There is no detection in any meaningful sense — Bette visits a registry office and uses a library computer, which hardly qualifies as investigative rigour. The reveal that Arthur's niece arranged the sale is delivered through dialogue rather than discovered through clues, which violates the fundamental covenant between mystery writer and reader. That said, the prose is competent and the observation about the hall runner being off-centre at the end is a genuinely good detail. I suspect this story is trying to be something other than a mystery, and on those terms it partially succeeds.",
+      "date": "2025-10-02",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-003-keiko",
+      "rating": 4,
+      "text": "What I love about this is the gap between seeing and understanding. Bette is an extraordinary observer — she reads Arthur's unwashed coffee cup, his Mass trousers on a Tuesday, the freshly painted columns — and she's right about all of it. The physical evidence is accurate. But her interpretation is shaped by what she needs the story to be, and the moment Patrice dismantles that narrative in the parking lot is genuinely devastating. The psychology is precise. Bette doesn't just feel embarrassed; she lies awake trying to find the error, and the horror is that there is no error. Her perception was fine. Her assumptions were the problem.",
+      "date": "2025-11-28",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-005-desmond",
+      "rating": 4,
+      "text": "A deceptively modest piece. The gentrification framework is rendered with specificity rather than polemic — the nail gun two blocks over, the SUV with NAMASTE bumper sticker taking two spaces, the word 'community' in marketing materials. These are observed details, not argued positions. What elevates it is the structural irony: Bette's investigation is impeccable, her conclusions are wrong, and the wrongness is not a failure of intelligence but of imagination. She cannot conceive that a man might need saving from his own pride rather than from external predation. The Patrice scene could have been sentimental. It is not. The $340,000 figure does the work that a lesser writer would have given to emotional rhetoric.",
+      "date": "2026-02-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-006-lynn",
+      "rating": 5,
+      "text": "This broke my heart a little. The detail about Arthur replacing the hall runner with fabric from an estate sale because the original catalogue no longer existed — that's a whole marriage in one sentence. And Bette noticing at the end that the runner is off-centre and Arthur hasn't bothered to straighten it is the kind of quiet devastation that stays with you. The story understands something true about neighbors: that watching someone closely is not the same as knowing them, and that the desire to protect can be its own kind of trespass.",
+      "date": "2025-09-15",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-007-tomasz",
+      "rating": 4,
+      "text": "The epistemological puzzle here is sharper than it first appears. Bette's deductions are empirically valid — the evidence supports her reading. But validity is not truth. She has built a coherent theory from correct observations inside a framework that presupposes who counts as a victim and who counts as a threat. The story never states this explicitly, which is wise. The moment in the car with Patrice functions as a kind of philosophical reversal: every fact Bette assembled is true, and the story she told with those facts is false. Her final uncertainty outside Mrs. Barros's house is the right ending — not resolution, but the recognition that legibility was always an illusion.",
+      "date": "2025-12-07",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-008-grace",
+      "rating": 4,
+      "text": "I kept thinking about Bette after I finished. She's trying so hard to do right by her neighbor and she gets it so wrong, but not because she's careless or unkind — because she can't imagine that Arthur might be hiding something out of pride rather than fear. The part where Patrice says he doesn't need a casserole, he needs $340,000, actually made me set my phone down for a minute. And the ending doesn't let Bette off the hook or punish her. She just goes back to her roses. That felt real.",
+      "date": "2026-02-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-010-valentina",
+      "rating": 3,
+      "text": "The class dynamics are interesting but underdeveloped. The story sets up a gentrification narrative — NAMASTE bumper stickers, twelve-dollar lattes, yoga studios replacing barbershops — then pivots to reveal that the real problem is private debt and medical costs, which is arguably the more systemic critique. But it doesn't interrogate Bette's positionality enough. She's a white small-business owner who has been on the street for twenty-three years; she occupies a complicated position in any gentrification narrative, and the story lets her off by making her wrong about Arthur specifically rather than examining what it means that she appointed herself the neighborhood's detective. The prose is controlled and the Patrice scene is well-executed.",
+      "date": "2026-01-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-011-noel",
+      "rating": 3,
+      "text": "Well told but wouldn't keep me up past ten, never mind midnight. More of a character sketch than a mystery. The reveal comes from a conversation, not from anything Bette actually uncovers. Good writing, though. The bit about the hall runner and the coffee cup — that's proper observation.",
+      "date": "2025-08-29",
+      "helpfulCount": 0
+    }
+  ]
+}
