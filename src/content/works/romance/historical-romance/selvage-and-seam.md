@@ -7,8 +7,8 @@ authorA: "Beverly Jenkins"
 authorB: "Jane Austen"
 workX: "Indigo by Beverly Jenkins"
 workY: "Pride and Prejudice by Jane Austen"
-wordCount: 7313
-readingTimeMinutes: 29
+wordCount: 6904
+readingTimeMinutes: 28
 tags:
   - "dual-timeline"
   - "1850s Ohio"
@@ -77,7 +77,7 @@ Josephine sat down on the floor of her dead father's study and laughed. Then she
 
 Nella Goss was elbow-deep in a hat when the Reverend Ezekiel Pace first walked into her shop, and whatever he said to announce himself was lost beneath four yards of silk taffeta and the pins between her teeth.
 
-She heard the bell. She registered a presence — tall, dark-suited, carrying the particular stillness of a man who expected rooms to organize themselves around him. She did not look up. The bonnet on her form was for Mrs. Adeline Proctor, wife of the college Latin professor, and the brim had been giving her trouble for two days: too wide to be fashionable, too narrow to be practical, the silk fighting the buckram frame with the determination of a living thing. Nella's hands knew what they were doing. The rest of her could wait.
+She heard the bell. She registered a presence — tall, dark-suited, carrying the stillness of a man who expected rooms to organize themselves around him. She did not look up. The bonnet on her form was for Mrs. Adeline Proctor, wife of the college Latin professor, and the brim had been giving her trouble for two days: too wide to be fashionable, too narrow to be practical, the silk fighting the buckram frame with the determination of a living thing. Nella's hands knew what they were doing. The rest of her could wait.
 
 "Good morning," the presence said. "I am looking for a Mrs. Goss."
 
@@ -87,7 +87,7 @@ She removed the pins from her mouth. "You've found a Miss Goss. There's no Mrs. 
 
 "You were given to understand incorrectly." She bent a section of wire and fed it through the silk channel. "People often are."
 
-A silence. She could feel him recalibrating — the specific hesitation of a man whose prepared remarks no longer applied. When she finally looked up, she found what the silence had already told her: a man of perhaps thirty, with skin the color of oiled walnut and a collar so starched it might have been a surgical instrument. His coat was Boston-cut, good wool, the kind of thing that cost more than most people in Oberlin earned in two months. His eyes were careful and dark and, she noted with something she refused to call interest, unhappy.
+A silence. She could feel him recalibrating — the hesitation of a man whose prepared remarks no longer applied. When she finally looked up, she found what the silence had already told her: a man of perhaps thirty, with skin the color of oiled walnut and a collar so starched it might have been a surgical instrument. His coat was Boston-cut, good wool, the kind of thing that cost more than most people in Oberlin earned in two months. His eyes were careful and dark and, she noted with something she refused to call interest, unhappy.
 
 "I am Reverend Ezekiel Pace," he said. "I've been appointed to lead the congregation at Second Baptist."
 
@@ -107,7 +107,7 @@ Something moved behind his eyes — surprise, maybe, or the beginning of amuseme
 
 Reverend Pace studied her with an expression she couldn't quite place — somewhere between assessment and recognition, as if she reminded him of something he'd seen before but not in this context. "Indeed," he said. "Well. I shall not take more of your time."
 
-He turned to leave, and she felt the silence expand again — but differently now, with a quality of anticipation, as though the room had been holding its breath and was only now remembering to exhale.
+He turned to leave, and she felt the silence shift — not quite settled, not quite done.
 
 "Reverend."
 
@@ -183,7 +183,7 @@ Nella had not had anything to say about that part. The part about the harvest of
 
 "Of something. I'll think of it."
 
-The problem extended beyond Sundays. Reverend Pace was everywhere — at the Ladies' Anti-Slavery Sewing Circle, where he sat stiffly in a corner and tried to look like a man who understood needlework; at the college debates, where he argued with a fluency that made her want to throw things; at the market, where he bought apples one at a time with a solemnity that suggested each apple was a moral decision.
+The problem extended beyond Sundays. Reverend Pace was everywhere — at the Ladies' Anti-Slavery Sewing Circle, where he sat stiffly in a corner and tried to look like a man who understood needlework; at the college debates, where he argued with a fluency that made her want to throw things; at the market, where he bought apples one at a time with a solemnity that suggested each apple required moral deliberation.
 
 "He buys apples one at a time," she told Delia.
 
@@ -227,7 +227,7 @@ Nella moved them into the cellar beneath her shop. She'd done this before — se
 
 "Two days," she told Mrs. Sheldon, whose name, she learned later, was Patience. "Maybe three. Until we know where the agents are and which road is clear."
 
-"Thank you," Patience said, and there was no weight to the words — they were rote, the thanks of a woman who had been thanking strangers for months, moving from house to house through the long dangerous chain of the Railroad, never staying long enough for gratitude to become anything more than formula.
+"Thank you," Patience said, and there was no weight to the words — they were rote, the thanks of a woman who had been thanking strangers for months, moving from house to house through the long chain of the Railroad, never staying long enough for gratitude to become anything more than formula.
 
 The children were quiet. Children on the Railroad were always quiet. That was the thing that broke Nella every time — not the fear in the adults' eyes, because adults were supposed to be afraid, but the silence of children who had learned that their voices were dangerous.
 
@@ -289,9 +289,9 @@ Someone like a Boston minister who'd been in town for six weeks.
 
 "Yes."
 
-She waited until Delia left, and then she went down to the cellar and told the Sheldons they'd be moving that night. Patience nodded. The children said nothing. The man — she still didn't know his name — looked at her with an expression she recognized because she'd seen it on seventeen other faces: the particular gratitude of a person who has placed their life in a stranger's hands and has no language adequate to the transaction.
+She waited until Delia left, and then she went down to the cellar and told the Sheldons they'd be moving that night. Patience nodded. The children said nothing. The man — she still didn't know his name — looked at her with an expression she recognized because she'd seen it on seventeen other faces: gratitude so total it had no language, only the stillness of a person who has placed their life in a stranger's hands.
 
-"You'll be in Canada by week's end," Nella said, and she said it with a certainty she did not feel, because certainty was another thing she owed them, another currency she spent on their behalf.
+"You'll be in Canada by week's end," Nella said, and she said it with a certainty she did not feel, because certainty was another thing she owed them.
 
 ---
 
@@ -307,7 +307,7 @@ She sat on the floor of his study and tried to understand what it meant to carry
 
 Had her mother known about this letter? Had she suspected?
 
-Josephine thought about her parents' marriage as she'd observed it: a partnership of quiet rituals and shared labor, the kind of love that looked, from the outside, like competence. Her father preached. Her mother ran the shop and the station — always the station, even after the war, because there were always people who needed moving, and the Railroad had become other things: a school, a lending library, a place where newly freed men and women could learn to write their own names. Her parents spoke to each other in a language of logistics — *The Hendersons need blankets. The roof wants mending. Josephine's teacher says she reads above her level.* But underneath the logistics, she now understood, there had been another conversation. One conducted in glances and silences and the particular way her father's hand rested on her mother's shoulder when he thought no one was looking.
+Josephine thought about her parents' marriage as she'd observed it: a partnership of quiet rituals and shared labor, the kind of love that looked, from the outside, like competence. Her father preached. Her mother ran the shop and the station — always the station, even after the war, because there were always people who needed moving, and the Railroad had become other things: a school, a lending library, a place where newly freed men and women could learn to write their own names. Her parents spoke to each other in a language of logistics — *The Hendersons need blankets. The roof wants mending. Josephine's teacher says she reads above her level.* But underneath the logistics, she now understood, there had been another conversation. One conducted in glances and silences and the way her father's hand rested on her mother's shoulder when he thought no one was looking.
 
 The selvage, Nella would have called it — her mother, who thought in fabric. The finished edge that keeps the whole cloth from unraveling. Not the pattern anyone sees. The part that holds.
 
@@ -319,7 +319,7 @@ The Sheldons reached Canada.
 
 Nella learned this from Mr. Langston, who had it from a contact in Ashtabula, who had it from the captain of the boat that carried the family across the lake. Four people, alive and free, on the other side of a border that meant something only because men with guns said it did.
 
-She did not tell Reverend Pace she was grateful. She was grateful, and the gratitude sat in her chest like a stone, and she resented its weight.
+She did not tell Reverend Pace she was grateful. She was grateful, and the gratitude sat in her chest like a stone, and she resented it.
 
 Instead, she avoided him. This was difficult in a town the size of Oberlin, where every errand brought her within sight of the church, where every social occasion placed her in his orbit, where his voice carried from the pulpit to her pew with the reliability of weather. She stopped going to the Anti-Slavery Sewing Circle because he was there. She stopped going to the college debates because he was there. She went to church because not going would have been noticed, but she sat in the back row and left before the final hymn.
 
@@ -331,7 +331,7 @@ Instead, she avoided him. This was difficult in a town the size of Oberlin, wher
 
 "What are they talking about?"
 
-Delia looked at her with the particular pity of a woman who has been married for eight years and remembers what it felt like to be an idiot. "They're talking about why the milliner can't be in the same room as the minister."
+Delia looked at her with the pity of a woman who has been married for eight years and remembers what it felt like to be an idiot. "They're talking about why the milliner can't be in the same room as the minister."
 
 Nella opened her mouth to say something cutting, and nothing came out. She closed it. She opened it again. "I can be in the same room," she said.
 
@@ -341,11 +341,11 @@ Which is how Nella found herself at the Langston house the following Saturday, a
 
 He looked terrible. Not ill — nothing so dramatic — but diminished, as though someone had taken the starch out of him. His collar was slightly wilted. His coat was the same fine Boston wool, but he wore it like a man who'd forgotten why he'd put it on. His eyes, when they met hers across the table, were not careful. They were raw.
 
-The dinner conversation was politics, as it always was — the Kansas-Nebraska Act, the ongoing depredations of the slave power, the question of whether armed resistance was justified or merely inevitable. Nella contributed mechanically. She could argue these positions in her sleep. She'd been arguing them for years, in this room and others, with people who knew the arguments weren't theoretical — who harbored fugitives in their cellars and drove wagons in the dark and understood that the distance between debate and action was measured in heartbeats, not principles.
+The dinner conversation was politics, as it always was — the Kansas-Nebraska Act, the ongoing depredations of the slave power, the question of whether armed resistance was justified or merely inevitable. Nella contributed mechanically. She could argue these positions in her sleep. She'd been arguing them for years, in this room and others, with people who harbored fugitives in their cellars and drove wagons in the dark and understood that the gap between debate and action was measured in heartbeats, not principles.
 
-Reverend Pace said little. This was unusual. Ordinarily, he argued with the energy of a man who'd been trained to argue, whose education at the seminary had equipped him with a fluency that could, when deployed at full force, make everyone else in the room feel slow. Tonight he listened. He ate sparingly. He watched the conversation move around the table with an expression Nella could not read.
+Reverend Pace said little. This was unusual. Ordinarily, he argued with the energy of a man whose seminary education had equipped him with a fluency that could, when deployed at full force, make everyone else in the room feel slow. Tonight he listened. He ate sparingly. He watched the conversation move around the table with an expression Nella could not read.
 
-After dinner, in the parlor, Mrs. Langston played piano and the other guests arranged themselves into the careful choreography of after-dinner sociability. Nella stood near the window. Reverend Pace appeared beside her in the way that large, quiet men sometimes appear — suddenly, like weather.
+After dinner, in the parlor, Mrs. Langston played piano and the other guests arranged themselves into the careful choreography of after-dinner sociability. Nella stood near the window. Reverend Pace appeared beside her the way large, quiet men sometimes do — suddenly, like weather.
 
 "Miss Goss."
 
@@ -371,7 +371,7 @@ Nella stared at him. The man had the decency to look ashamed, which was — she 
 
 "I know."
 
-The laugh escaped before she could stop it — a real laugh, not the polite, contained sound she produced at social functions but something ungoverned and sharp, the kind of laugh that turned heads. Mrs. Langston's piano faltered. Several people looked over. Reverend Pace's expression shifted, and for a moment — just a moment — she saw something behind the stiffness that was not stiffness at all but a man who had been holding himself together with such force that any loosening felt like collapse.
+The laugh escaped before she could stop it — a real laugh, not the polite, contained sound she produced at social functions but something ungoverned and sharp, the kind of laugh that turned heads. Mrs. Langston's piano faltered. Several people looked over. Reverend Pace's expression shifted, and for a moment she saw something behind the stiffness that was not stiffness at all but a man who had been holding himself together with such force that any loosening felt like collapse.
 
 "Miss Goss," he said, very quietly. "I am trying to tell you that I was wrong about you."
 
@@ -387,7 +387,7 @@ The laugh died. "Wrong about me how?"
 
 "You were right. I was insufferable. I am" — he paused, and she watched him fight the impulse to self-correct, to smooth the sentence into something more polished — "I am trying to be less so."
 
-The piano had resumed. The room had returned to its murmur. But the space between Nella and the window, the space where Reverend Pace stood with his wilted collar and his raw eyes, felt like a different room entirely — a room where the rules of social interaction had been suspended and replaced by something more dangerous: honesty.
+The piano had resumed. The room had returned to its murmur. But the space between Nella and the window, the space where Reverend Pace stood with his wilted collar and his raw eyes, felt separate from the parlor entirely — a space where the rules had been suspended and replaced by something less comfortable: honesty.
 
 "Why are you telling me this?" she asked.
 
@@ -403,21 +403,21 @@ Josephine found the second letter — the sent one — in her mother's trunk, ex
 
 *Dear Miss Goss,* it began — he'd gotten the honorific right this time — *I write to correct certain misapprehensions under which you labor regarding my character, and to confess certain errors of my own which have contributed to those misapprehensions.*
 
-The letter listed his offenses: the condescension, the grammar corrections, the assumption that his education entitled him to authority. It listed her virtues: her courage, her skill, her centrality to the community he'd failed to understand. It asked for nothing. It expected nothing. It simply laid out the facts as he saw them, with the rigor of a legal brief and the tenderness of a man who'd written a longer, messier version first and burned it.
+The letter listed his offenses: the condescension, the grammar corrections, the assumption that his education entitled him to authority. It listed her virtues: her courage, her skill, her centrality to the community he'd failed to understand. It asked for nothing. It expected nothing. It simply laid out the facts as he saw them, with the rigor of a legal brief and the tenderness of a man who'd written a longer, messier version first and kept it.
 
-Except he hadn't burned it. He'd folded it into a hymnal.
+Except he hadn't burned the longer one. He'd folded it into a hymnal.
 
-Josephine held both letters — the sent and the unsent — one in each hand, and felt the weight of what her parents had been to each other. The polished version was the version that had worked. It was the letter that had changed her mother's mind, that had begun the slow dismantling of misunderstanding that led, two months later, to a December wedding in the church where Reverend Pace had found his calling and Nella Goss had found, against her considerable better judgment, her match.
+Josephine held both letters — the sent and the unsent — one in each hand. The polished version was the one that had worked. It was the letter that had changed her mother's mind, that had begun the slow dismantling of misunderstanding that led, two months later, to a December wedding in the church where Reverend Pace had found his calling and Nella Goss had found, against her considerable better judgment, her match.
 
-But the unpolished version was the truth. Not a different truth — the same truth, with the seams showing. The selvage edge that kept the cloth from fraying. The part no one was supposed to see.
+But the unpolished version was the truth. Not a different truth — the same truth, with the seams showing.
 
 ---
 
 ### November 1854
 
-The letter arrived on a Thursday morning, slid under the shop door before Nella opened for business. She recognized the handwriting on the envelope — who else wrote with that particular combination of elegance and rigidity? — and she carried it upstairs to her rooms and sat in the chair by the window and opened it with the careful hands of a woman who has spent her life handling fragile things.
+The letter arrived on a Thursday morning, slid under the shop door before Nella opened for business. She recognized the handwriting on the envelope — who else wrote with that combination of elegance and rigidity? — and she carried it upstairs to her rooms and sat in the chair by the window and opened it with the careful hands of a woman who has spent her life handling fragile things.
 
-She read it once, quickly, standing by the window where the morning light fell across the paper and showed the places where his pen had pressed too hard — the indentations of a man writing with more force than the words required, as though physical pressure could substitute for the courage the sentences demanded. She read it again, slowly, and felt each sentence arrive with the precision of a pin pushed through silk — a small puncture, barely visible, but irreversible.
+She read it once, quickly, standing by the window where the morning light fell across the paper and showed the places where his pen had pressed too hard — the indentations of a man writing with more force than the words required. She read it again, slowly, and felt each sentence arrive with the precision of a pin pushed through silk — a small puncture, barely visible, but irreversible.
 
 He had listed her virtues, and she did not know how to be seen so clearly by a man she had not invited to look. He had confessed his faults, and the confessions were specific enough to be credible and humble enough to be painful. He had described the night with the Sheldons — not in detail, because detail would have been dangerous on paper, but in the language of shared knowledge: *You entrusted me with something precious, and I endeavored to be worthy of that trust.*
 
@@ -429,7 +429,7 @@ She went to the shop and worked for three hours on a winter bonnet — dark blue
 
 She had been wrong.
 
-Not entirely — he *was* condescending, he *had* corrected Mr. Langston's grammar, his Boston propriety *was* a kind of armor that kept people at a distance — but wrong in the way that mattered most. She had decided he was a type, and she had stopped looking at him as a person, and the distance between the type and the person was the distance the letter had traveled.
+Not entirely — he *was* condescending, he *had* corrected Mr. Langston's grammar, his Boston propriety *was* a kind of armor that kept people at a distance — but wrong in the way that mattered most. She had decided he was a type, and she had stopped looking at him as a person, and the distance the letter had traveled was exactly that distance.
 
 She finished the bonnet. She placed it on the shelf beside the others — twelve bonnets in various stages, a row of headless women wearing her handiwork, patient as a congregation. She put on her coat. She checked her reflection in the shop window and immediately regretted checking, because checking meant caring, and caring meant admitting something she had not yet agreed to admit.
 
@@ -469,13 +469,13 @@ She walked into the parsonage. The door closed behind her. What happened next wa
 
 Josephine put both letters in her lap and looked at the study walls. Her father's books. His spectacles on the mantel. The desk where he'd written sermons for nineteen years — sermons that had married couples and buried the dead and argued, week after week, for the humanity of people whose humanity should never have been in question.
 
-The war had come, as everyone had known it would. Her father had served as a chaplain. Her mother had turned the shop into a waystation for contraband — the awful word the Union used for enslaved people who'd freed themselves — and had sewn uniforms when there was no one left to buy bonnets. They had survived, both of them, though survival had cost things that didn't show: her father's hearing in his left ear, damaged by artillery at Milliken's Bend; her mother's unshakable insomnia, which had started during the war and never ended, so that Josephine's childhood was scored by the sound of her mother moving through the house at three in the morning, checking locks, checking windows, checking the cellar.
+The war had come, as everyone had known it would. Her father had served as a chaplain. Her mother had turned the shop into a waystation for contraband — the awful word the Union used for enslaved people who'd freed themselves — and had sewn uniforms when there was no one left to buy bonnets. They had survived, both of them, though survival had cost things that didn't show: her father's hearing in his left ear, damaged by artillery at Milliken's Bend; her mother's insomnia, which had started during the war and never ended, so that Josephine's childhood was scored by the sound of her mother moving through the house at three in the morning, checking locks, checking windows, checking the cellar.
 
-And now, 1873. Her father in the ground. Her mother in the kitchen, moving through grief with the same efficiency she applied to everything. Reconstruction faltering — the promises of the Fourteenth and Fifteenth Amendments already being gnawed at by men in white hoods and men in suits who accomplished the same ends more politely. The shop still open, still profitable, still the center of a community that had survived everything thrown at it and was now being asked to survive the particular cruelty of hope deferred.
+And now, 1873. Her father in the ground. Her mother in the kitchen, moving through grief the way she moved through everything. Reconstruction faltering — the promises of the Fourteenth and Fifteenth Amendments already being gnawed at by men in white hoods and men in suits who accomplished the same ends more politely. The shop still open, still profitable, still the center of a community that had survived everything thrown at it and was now being asked to survive the cruelty of hope deferred.
 
 Josephine was twenty-one. She had been educated at the college — her parents' insistence, their gift — and she had offers. A teaching position in Washington. A young doctor in Cleveland who wrote her letters full of careful intentions and moderate ambitions and everything a sensible woman could want, and who bored her in precisely the way a sensible man should not bore a woman he wished to marry.
 
-She thought about her parents. About the unsent letter and the sent letter and the nineteen years between. About the way her mother's hands — still stained with indigo, still strong, still shaping bonnets at sixty with the same precision she'd had at thirty — had rested on the closed lid of her father's coffin at the funeral, and the way that gesture had contained more love than any words Josephine had ever heard spoken.
+She thought about her parents. About the unsent letter and the sent letter and the nineteen years between. About the way her mother's hands — still stained with indigo, still strong, still shaping bonnets at sixty with the same precision she'd had at thirty — had rested on the closed lid of her father's coffin at the funeral, and the way that gesture had contained more than any words Josephine had ever heard spoken.
 
 She thought about the doctor in Cleveland. He was kind. He was stable. He would give her a house and a practice and a life that looked, from the outside, exactly like the life she was supposed to want.
 
@@ -483,11 +483,9 @@ She thought about the unsent letter. *What I am trying to say, Mrs. Goss, is tha
 
 See what? What had her father seen? What was the end of that sentence that he'd never finished, that he'd folded into a hymnal and kept for nineteen years?
 
-She would never know. That was the cruelty and the grace of it — the sentence would always be unfinished, the way all love was unfinished, the way her parents' story had ended not with resolution but with her father's death and her mother's insomnia and a cellar that still smelled faintly of the fear and gratitude of strangers.
+She would never know. That was the cruelty of it — the sentence would always be unfinished, the way her parents' story had ended not with resolution but with her father's death and her mother's insomnia and a cellar that still smelled faintly of hay and fear.
 
-But the unfinished sentence was also an invitation. It said: *complete this yourself. Not with my words. With your life.*
-
-Josephine put the letters away. She went downstairs. Her mother was in the kitchen, her hands wrapped around a cup of tea, her eyes on the window where the October light was failing.
+She put the letters away. She went downstairs. Her mother was in the kitchen, her hands wrapped around a cup of tea, her eyes on the window where the October light was failing.
 
 "Mama."
 
@@ -499,7 +497,7 @@ Her mother's hands tightened on the cup, but her expression did not change. "The
 
 "You knew about it?"
 
-"I knew he wrote more than what he sent. He always wrote more than what he sent. Every sermon — there were pages and pages he cut. He said the truest things were too long for church."
+"I knew he wrote more than what he sent. He always did. Every sermon — there were pages and pages he cut."
 
 "Have you read it?"
 
@@ -507,26 +505,16 @@ Her mother's hands tightened on the cup, but her expression did not change. "The
 
 "Do you want to?"
 
-Her mother looked at her, and in her mother's face Josephine saw the whole history — the shop, the cellar, the Railroad, the war, the stained hands, the midnight restlessness, the love that had been forged not in ease but in danger, not in certainty but in choice, a choice made again and again, year after year, in a country that had never stopped trying to make that choice impossible.
+Her mother looked at her, and in her mother's face Josephine saw the shop, the cellar, the Railroad, the war, the stained hands, the midnight restlessness — all of it, compressed into the lines around her eyes and the steadiness of her gaze.
 
-"Keep it," her mother said. "It was meant for you."
+"Keep it," her mother said.
 
-"How do you know?"
+"Why?"
 
-"Because he kept it. If it was meant for me, he would have burned it. He kept it because someday you'd find it and need it."
+"Because he kept it."
 
-"Need it for what?"
+That was all she said. It was not an explanation. It was the kind of answer her mother gave when the real answer was too large for the kitchen, or for language, or for anything except the slow passage of years during which its meaning might become clear.
 
-Her mother sipped her tea. "For whatever you're deciding."
+Josephine sat down at the table across from her mother and picked up the teapot and poured.
 
-Josephine stood in the kitchen doorway and felt the weight of the unsent letter in her pocket and the weight of the two lives it connected — her parents' life, which had been built on a fault line and had held, and her own life, which was not yet built, which was still raw material, uncut and unstitched, waiting for her hands.
-
-She knew what she was deciding. She'd known for weeks. The doctor in Cleveland was a fine man. He would give her a fine life. But she was not looking for a fine life. She was looking for a life that meant something — a life that did not flinch from the selvage edge, the unfinished edge, the part that held the whole cloth together.
-
-She would stay in Oberlin. She would take over the shop. She would keep the station running — whatever the station became in this new, uncertain country — and she would build her own life on the same ground her parents had built theirs, not because the ground was safe but because it was hers.
-
-She sat down at the table across from her mother and picked up the teapot and poured.
-
-Outside, the October light went on failing, and the town went on holding itself together, and the distance between 1854 and 1873 — which was also the distance between two letters, between a sent truth and an unsent one, between a bonnet shop and a battlefield and a kitchen table — was not a distance at all but a seam. A selvage. The finished edge that kept the whole cloth from unraveling.
-
-Josephine drank her tea. Her mother drank hers. Neither spoke. There was nothing to say that the letters hadn't already said, and nothing to decide that the letters hadn't already decided, and the kitchen was warm, and the light was going, and the work — the real work, the work that was also love — would begin again tomorrow.
+Outside, the October light went on failing, and the town went on doing what it had always done — holding itself together, not because the holding was easy but because the alternative was a kind of unraveling no one could afford. Josephine drank her tea. Her mother drank hers. Neither spoke. The work — whatever the work would be, whatever shape her life would take — would begin again tomorrow. Or the day after. There was no rush. The letters would keep.
