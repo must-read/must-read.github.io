@@ -7,8 +7,8 @@ authorA: "Sarah Waters"
 authorB: "Viet Thanh Nguyen"
 workX: "Fingersmith"
 workY: "The Sympathizer"
-wordCount: 5534
-readingTimeMinutes: 22
+wordCount: 5102
+readingTimeMinutes: 20
 tags:
   - french-indochina
   - hanoi-1944
@@ -53,7 +53,7 @@ That is the first lie. I will have many things to withhold. But I will tell them
 
 ---
 
-The house was on Rue Paul Bert, number forty-seven, a French villa of the kind built in the Quartier Français during the first decade of the century. Two stories, ochre plaster over brick, green shutters that swelled in the rains and had to be forced open with the heel of your hand. A tiled veranda ran along the front and both sides, shaded by a frangipani tree whose flowers dropped into the gutters and rotted there, sweetly, through September. The garden was walled. The gate was iron. A boy named Duc swept the path each morning, though nothing had fallen on it overnight except the shadows of the frangipani and, in the wet season, the bodies of frogs that had climbed the wall and died of something I never determined.
+The house was on Rue Paul Bert, number forty-seven, a French villa of the kind built in the Quartier Français during the first decade of the century. Two stories, ochre plaster over brick, green shutters that swelled in the rains and had to be forced open with the heel of your hand. A tiled veranda ran along the front and both sides, shaded by a frangipani tree whose flowers dropped into the gutters and rotted there, sweetly, through September. The garden was walled. The gate was iron. A boy named Duc swept the path each morning, though nothing had fallen on it overnight except, in the wet season, the bodies of frogs that had climbed the wall and died of something I never determined.
 
 The tiles on the veranda were hexagonal, terra-cotta, imported from Marseille in 1908 according to Madame Hoa, who kept the history of the house the way other women keep recipes — precise, proprietary, shared only under duress. The grout between them had turned black. No amount of scrubbing removed it. I tried, my first week, with a brush and lye soap, and Madame Hoa watched from the kitchen doorway and said nothing until I stopped, and then said, "The last girl tried that too." Meaning: all of you are the same. Meaning: the house keeps what it wants.
 
@@ -101,7 +101,7 @@ The intelligence was bureaucratic. Rice shipment schedules. Japanese requisition
 
 Renaud was the better source. He was Sûreté — colonial police intelligence — and he drank the way men drink who are frightened and don't want to admit it. By the third glass he would forget I was in the room, or rather he would remember me as a piece of furniture, a lamp or a sideboard, something that occupied space without possessing ears. He spoke of Japanese troop rotations, of the Kempeitai's interrogation schedule, of raids planned for villages in the Red River Delta. Monsieur Lautier listened and nodded and occasionally said, "Surely not," and Renaud would say, "I'm telling you, Jacques," and pour another glass, and I would refill the carafe and carry what I'd heard inside my skull like a glass of water I must not spill until Sunday.
 
-I copied what I could. I memorized the rest. On Sundays, my day off, I walked to the Petit Lac and sat on the bench near the pagoda on the island and a woman I knew only as Chi Ba would sit beside me and we would feed the fish and I would tell her what I had learned and she would nod and leave and I would sit there for another hour, watching the carp surface and disappear, surface and disappear.
+I copied what I could. I memorized the rest. On Sundays, my day off, I walked to the Petit Lac and sat on the bench near the pagoda on the island and a woman I knew only as Chi Ba would sit beside me and we would feed the fish and I would tell her what I had learned and she would nod and leave and I would sit there for another hour, watching the carp.
 
 The intelligence was useful. Khanh told me so. The rice schedules allowed our people in Thai Binh and Nam Dinh to anticipate shortfalls. The troop movements helped the cadres in the highlands avoid Japanese patrols. I was doing good work. I believed this. I had no reason not to believe it.
 
@@ -135,7 +135,7 @@ And I told her. I sat on the edge of the veranda and told her about Kieu, the be
 
 "That's not what I asked."
 
-I looked at her then, and she looked at me, and for a moment we were not in the positions the house had assigned us — servant and mistress, watched and watcher, the one who translates and the one who needs translation. We were two women sitting on a veranda in a city that was slowly starving, and one of us had told the other a story about a woman who endures, and the other had understood it.
+I looked at her then, and she looked at me, and neither of us spoke for longer than the silence warranted.
 
 ---
 
@@ -159,11 +159,11 @@ Because the Japanese requisitioned the rice your husband allocated. Because the 
 
 "The harvest was poor, Madame. And the war."
 
-She looked at me. I cannot say she understood what I was not telling her. But she understood that I was not telling her something, and she let me not tell it, and this restraint — this willingness to remain in ignorance — was, I think, the closest she came to kindness.
+She looked at me. I cannot say she understood what I was not telling her. But she understood that I was not telling her something, and she let me not tell it.
 
 She sent Duc out with rice. A small bowl, enough for two. There were thirty people at the gate.
 
-That evening she argued with her husband. I heard it through the study door — her voice sharp, his patient and low, the particular cadence of a man explaining why the obvious solution is not a solution at all. She wanted to distribute rice from the household stores. He told her the stores were allocated, accounted for, that every sack had a number and a destination and that diverting even a portion would create a discrepancy the Japanese would notice. He was not wrong. The Japanese did count the sacks. The Japanese counted everything.
+That evening she argued with her husband. I heard it through the study door — her voice sharp, his patient and low, the cadence of a man explaining why the obvious solution is not a solution at all. She wanted to distribute rice from the household stores. He told her the stores were allocated, accounted for, that every sack had a number and a destination and that diverting even a portion would create a discrepancy the Japanese would notice. He was not wrong. The Japanese did count the sacks. The Japanese counted everything.
 
 She came out of the study with her face set in the way of someone who has been told something reasonable and hates both the reason and the person who offered it. She passed me in the hallway. She stopped.
 
@@ -197,7 +197,7 @@ I dried my hands. I followed her upstairs. I sat in the chair beside her bed and
 
 "I had a good teacher."
 
-She was quiet for a while. I continued reading. Colette's narrator, Renée, performing on stage, the audience watching, the body as a thing displayed and also hidden, the performance as a form of freedom and also a prison. I read and Simone listened and the lamp threw our shadows against the net and the wall and the ceiling, and then she reached through the net and put her hand on my wrist — not to stop me reading but to be touching me while I read — and her fingers were cool and light and she left them there.
+She was quiet for a while. I continued reading. Colette's narrator, Renée, performing on stage, the body as a thing displayed and also hidden. I read and Simone listened and the lamp threw our shadows against the net and the wall, and then she reached through the net and put her hand on my wrist — not to stop me reading but to be touching me while I read — and her fingers were cool and she left them there.
 
 I did not stop reading.
 
@@ -221,7 +221,7 @@ The answer that is true is: I do not know.
 
 I know that the proximity to Simone gave me access to the household that I would not otherwise have had. I know that on the nights I read to her — and there were many nights after that first night, all through July and August and into September — she spoke to me afterward about her husband, about his work, about the visitors who came to the house, about the arguments she overheard through the study door. I know that this information was valuable and that I reported it and that it was used. I know that the intimacy was an instrument.
 
-But I also know that I looked forward to those evenings. That I chose the books carefully — not for intelligence value but because I wanted to read something that would make her turn toward me in the dark and say, "Read that part again." That when her hand rested on my wrist, I did not think about the revolution or the rice schedules or the cadres in the highlands. I thought about the weight of her fingers and the sound of her breathing and the smell of frangipani coming through the window and the particular quality of stillness that descends on a house when two people in it have stopped pretending to be only what they are supposed to be.
+But I also know that I looked forward to those evenings. That I chose the books carefully — not for intelligence value but because I wanted to read something that would make her turn toward me in the dark and say, "Read that part again." That when her hand rested on my wrist, I did not think about the revolution or the rice schedules or the cadres in the highlands. I thought about her fingers and the sound of her breathing and the heat through the window, and nothing else.
 
 You can judge this. You have the authority. I am telling you because you asked, and because the deception I practiced in that house was thorough enough that I should at least practice honesty here, in this room, with this pen, even though I suspect that what you want is not honesty but a version of events in which every gesture had a purpose and every purpose served the revolution.
 
@@ -229,7 +229,7 @@ You can judge this. You have the authority. I am telling you because you asked, 
 
 In October, Monsieur Lautier received orders. I do not know the exact content, but the documents I photographed — yes, you trained me to use the Minox, I was proficient, the camera was hidden in the lining of my ao dai — indicated a transfer. Saigon. The household would be dismantled. The servants dismissed. Simone would go with her husband.
 
-She told me on the veranda, in the afternoon light, with Bijou asleep at her feet and the frangipani dropping its last flowers before the dry season.
+She told me on the veranda, in the afternoon light, with Bijou asleep at her feet.
 
 "We're leaving, Lien."
 
@@ -245,7 +245,7 @@ The question was so perfectly calibrated to the specific blindness of the coloni
 
 "Yes, Madame. I will be all right."
 
-She reached across the table and took my hand. Not my wrist this time. My hand. She held it the way you hold something you are about to release and want to remember the shape of.
+She reached across the table and took my hand. Not my wrist this time. My hand.
 
 "You are the only person in this country who has been honest with me," she said.
 
@@ -257,7 +257,7 @@ The last week was the hardest, and not for the reasons you might suppose. The in
 
 What was hard was the evenings. Simone asked me to read every night that last week. We went through the end of La Vagabonde and started Chéri, which is a book about a woman who loves a younger man and loses him and does not recover, and which Simone listened to with her eyes closed and her hand on my arm — not my wrist anymore, my arm, above the elbow, where the skin is soft and the touch is not something that can be mistaken for accident.
 
-On the last night she asked me to stay. Not to read. Just to stay. I sat in the chair and she lay in the bed and neither of us spoke and the lamp burned down to a blue ring around the wick and the house was quiet in the particular way a house is quiet when it is about to be emptied and knows it.
+On the last night she asked me to stay. Not to read. Just to stay. I sat in the chair and she lay in the bed and neither of us spoke and the lamp burned down to a blue ring around the wick.
 
 "Lien," she said in the dark.
 
@@ -273,18 +273,12 @@ She laughed. It was not a happy sound. Then she turned away, toward the wall, an
 
 I have told you what happened. I have told you about the house and the work and the intelligence and the methods. I have told you about the rice schedules and the troop movements and the documents I photographed and the conversations I reported. I have told you about the famine and the gate and the people who sat outside the wall. I have told you about the wife.
 
-You will note that I have not told you what I felt. This is not because I am withholding — or rather, it is because what I felt is not something that can be told in the language of a deposition. A deposition is a record of what was done and why. What I felt was not done and had no why. It existed in the space between the doing and the telling, in the rooms of a house whose doors all opened onto other rooms, and I have been walking through those rooms ever since, and I have not yet found the one that leads outside.
+Simone Lautier left Hanoi on the second of November, 1944. I stood at the gate and watched the car take her down Rue Paul Bert toward the station. She did not turn around. I watched until the car turned the corner. Bijou barked twice at the departing car and then lay down on the veranda tiles and put her muzzle on her paws, and that is the last thing I saw before I closed the gate and walked back into the empty house to collect the final film from its hiding place behind the loose tile in the kitchen wall.
 
-Simone Lautier left Hanoi on the second of November, 1944. I stood at the gate and watched the car take her down Rue Paul Bert toward the station. She did not turn around. I would not have wanted her to. Bijou barked twice at the departing car and then lay down on the veranda tiles and put her muzzle on her paws, and that is the last thing I saw before I closed the gate and walked back into the empty house to collect the final film from its hiding place behind the loose tile in the kitchen wall.
+I can see you writing. I can see the way your pen moves — quickly when I describe the intelligence, slowly when I describe the rest. You are separating the operational from the personal. You are drawing a line. I understand this. It is your function.
 
----
+You will file this. You will write your assessment of my loyalty and my fitness for further assignments, and the assessment will note that the intelligence was valuable and timely and that the methods were — what is the word you will use? — unorthodox. You will not write that I sat in a chair beside a bed and read Colette to a woman who held my arm and called me by my name. You will not write that part because you have no column for it.
 
-I can see you writing. I can see the way your pen moves — quickly when I describe the intelligence, slowly when I describe the rest. You are separating the operational from the personal. You are drawing a line between what served the revolution and what did not. I understand this. It is your function. You are a door too, Comrade, and the things that pass through you are sorted into categories: useful, wasteful, dangerous, permissible.
-
-But I will tell you what I have learned, which is perhaps the only intelligence of value I gathered in that house: there is no line. The operational and the personal are the same rooms in the same house. The woman who copied rice schedules by lamplight and the woman who read Colette to a lonely Frenchwoman are the same woman, and she served the revolution with both hands, and one of those hands rested on an arm in the dark, and you cannot take one hand without the other.
-
-You will file this. You will draw your conclusions. You will write your assessment of my loyalty and my fitness for further assignments, and the assessment will note that the intelligence was valuable and timely and that the methods were — what is the word you will use? — unorthodox. You will not write that I sat in a chair beside a bed and read Colette to a woman who held my arm and called me by my name. You will not write that part because you have no column for it, no category, no box on your form.
-
-I have nothing more to tell you. I have nothing more to withhold.
+I have nothing more to tell you. I still have things to withhold.
 
 File this as you see fit.
