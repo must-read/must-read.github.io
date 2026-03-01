@@ -20,9 +20,9 @@ tags:
   - latin-america
   - memory
   - body-knowledge
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 10
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Allende's multigenerational women and sensory emotional prose meet Borges's labyrinthine patterns and crystalline precision, built on Pedro Páramo's ghost-populated town and Like Water for Chocolate's cooking-as-embodied-emotion."
 synopsis: "A woman returns to her dead grandmother's town to sell the house and finds the kitchen still cooking, the recipes a chronicle of the family's history, and the last entry unfinished — waiting for her."

@@ -22,9 +22,9 @@ tags:
   - witness
   - patience
   - body-as-archive
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.8
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: >
   Barker's spare psychological acuity meets Whitehead's system-level brutality — a young

@@ -19,9 +19,9 @@ tags:
   - 1980s
   - intelligence operations
   - doubles
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 10
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Combines le Carré's bureaucratic espionage realism and exhausted moral prose with Highsmith's psychological interiority of moral compromise, using The Spy Who Came in from the Cold's mission-as-institutional-betrayal structure and Strangers on a Train's themes of complicity, doubling, and contamination through proximity."
 synopsis: "A British intelligence officer in The Hague runs a Polish source he has come to know too well. When London pushes for dangerous material, the operation reveals itself as something other than what he was told — and the source was always meant to be spent."

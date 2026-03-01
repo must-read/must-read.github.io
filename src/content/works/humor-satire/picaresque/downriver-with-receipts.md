@@ -10,9 +10,9 @@ workY: "Don Quixote by Miguel de Cervantes"
 wordCount: 3549
 readingTimeMinutes: 14
 tags: ["picaresque", "unreliable-narrator", "road-trip", "self-delusion", "con-artist", "americana", "social-comedy", "class"]
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.8
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Twain's vernacular satirical voice and frontier con-man archetype fused with Ephron's self-aware social comedy and class observation, structured as an episodic downstream journey through small-town America where each encounter exposes hypocrisy, all narrated by a deluded protagonist who mistakes every disaster for triumph — the Quixotic gap between how a life is narrated and how it was lived."
 synopsis: "A self-proclaimed 'brand consultant' drives her dying Saab through three small towns, leaving a trail of chaos she narrates as a string of professional triumphs."

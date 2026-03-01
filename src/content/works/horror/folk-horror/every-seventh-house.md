@@ -19,9 +19,9 @@ tags:
   - community
   - folk-tradition
   - complicity
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 8
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Aickman's dreamlike drift through the uncanny meets Enriquez's politically grounded supernatural, structured as Midsommar's daylight absorption into communal ritual and steeped in The Lottery's casual, consensus-maintained violence — all told in second person to make the reader a participant who never consented."
 synopsis: "You arrive in a depopulating Spanish village for its annual festival. The welcome is genuine. The chalk marks on the doors are not explained. By the time you understand what the festival requires, you have already been participating."

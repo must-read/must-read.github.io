@@ -7,7 +7,7 @@ authorB: "Colson Whitehead"
 workX: "Speak"
 workY: "The Lovely Bones"
 source: "https://bedwards.github.io/epstein/"
-status: "pitch"
+status: "completed"
 priority: 1
 ---
 
