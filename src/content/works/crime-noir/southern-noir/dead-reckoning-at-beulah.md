@@ -20,10 +20,10 @@ tags:
   - non-linear
   - murder
   - southern-gothic
-rating: 0
-ratingCount: 0
+rating: 3.5
+ratingCount: 8
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Cain's lean first-person confession — a laborer racing toward doom through
   desire — collides with Faulkner's circling, generational mythology, where the

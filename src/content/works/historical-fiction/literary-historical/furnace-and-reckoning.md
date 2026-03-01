@@ -10,10 +10,10 @@ workY: "An Artist of the Floating World by Kazuo Ishiguro"
 wordCount: 5044
 readingTimeMinutes: 20
 tags: ["Renaissance", "Venice", "Murano", "glassmaking", "moral compromise", "artisan", "complicity", "apprentice", "weapons", "craft"]
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Mantel's present-tense immersion in craft and power meets Ishiguro's retrospective self-deception, structured around Bulgakov's mundane-diabolical interleaving, exploring Artist of the Floating World's theme of artisans complicit in state violence."
 synopsis: "A master glassmaker on Murano accepts a state commission for lenses he gradually realizes are weapons, while training the son of the last craftsman who refused."
 combination:

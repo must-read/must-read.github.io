@@ -20,10 +20,10 @@ tags:
   - train-travel
   - philosophical-fiction
   - museum
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 10
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Beckett's entropic minimalism and Molloy's failing-body-in-motion structure
   merge with Tokarczuk's constellation fragments and Flights' anatomical-travel

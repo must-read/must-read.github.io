@@ -16,10 +16,10 @@ tags:
   - temporal-erasure
   - postal-system
   - identity
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Adams's cosmic deadpan and guidebook device meet Kafka's matter-of-fact
   nightmare logic in a dead letter office where a clerk receives official

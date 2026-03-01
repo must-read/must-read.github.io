@@ -10,10 +10,10 @@ workY: "Little House on the Prairie by Laura Ingalls Wilder"
 wordCount: 4705
 readingTimeMinutes: 19
 tags: ["homesteading", "frontier delusion", "Nebraska prairie", "1870s", "family survival", "moral conviction", "Homestead Act", "pioneer women", "seasonal cycle", "protagonist is wrong"]
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 8
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Proulx's brutal landscape compression and McMurtry's elegiac warmth frame a frontier narrative about Gust Nygaard, a Norwegian homesteader whose moral conviction that the land should be tamed blinds him to the cost exacted on his wife, his children, and the ground itself — structured through Cather's retrospective gaze and Wilder's seasonal domestic granularity."
 synopsis: "Norwegian homesteader Gust Nygaard stakes a claim in 1870s Nebraska, certain that his suffering proves God's approval. His wife Ragna counts the flour and watches the children leave, one by one, for lives he built nothing toward."
 combination:
