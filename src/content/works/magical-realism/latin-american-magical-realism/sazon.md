@@ -7,8 +7,8 @@ authorA: "Isabel Allende"
 authorB: "Jorge Luis Borges"
 workX: "Pedro Páramo by Juan Rulfo"
 workY: "Like Water for Chocolate by Laura Esquivel"
-wordCount: 4954
-readingTimeMinutes: 20
+wordCount: 4546
+readingTimeMinutes: 18
 tags:
   - kitchen-magic
   - ghost-town
@@ -47,7 +47,7 @@ combination:
 
 The bus dropped her at the junction where the highway met the dirt road to Cruces, and the driver said, without looking at her, that she was the second person this month to ask for this stop.
 
-"Who was the first?" Nilda asked, though she was not sure why she asked, or why the question felt like touching a bruise.
+"Who was the first?" Nilda asked, though she was not sure why she asked.
 
 The driver adjusted his mirror. "An old woman. Carried a bag of dried chiles. Got off right where you're standing. Walked toward town."
 
@@ -57,7 +57,7 @@ The driver adjusted his mirror. "An old woman. Carried a bag of dried chiles. Go
 
 Nilda stood at the junction with her one suitcase and watched the bus heave itself back into the current of the road. The afternoon was yellow and still. Cruces lay two kilometers south, beyond a ridge of eucalyptus that her grandmother had always called useless trees — good for nothing but shade, and shade they gave reluctantly, as if they resented having been planted so far from Australia.
 
-She had not been back in nineteen years. The town would be smaller than she remembered. This was what people said about the places they left: that the buildings shrank, the distances collapsed, the streets lost their mystery. But as she walked the dirt road she found the opposite was true. The eucalyptus were taller. The road was longer. And Cruces, when it finally appeared around the bend like something reluctantly confessing its own existence, was not smaller at all. It was emptier, which is a different kind of diminishment — the structures still at full scale, but the lives inside them withdrawn, like flesh receding from bone.
+She had not been back in nineteen years. The town would be smaller than she remembered — people always said so about the places they left, that the buildings shrank, the distances collapsed. But as she walked the dirt road she found the opposite was true. The eucalyptus were taller. The road was longer. And Cruces, when it finally appeared around the bend, was not smaller at all. It was emptier, which is a different kind of diminishment — the structures still at full scale, but the lives inside them withdrawn, like flesh receding from bone.
 
 The first house she passed had laundry on the line. The second had a dog that watched her without barking. The third had a doorway with a woman standing in it, and the woman raised a hand and said, "Consuelo's girl," and Nilda said, "Yes," though Consuelo had been dead for eight months and the woman in the doorway might have been Doña Faustina who ran the pharmacy or might have been someone she had never met or might have been dead herself. In Cruces, it was difficult to tell the remembered from the actual.
 
@@ -67,9 +67,9 @@ The church bell rang four o'clock, though the church had lost its bell in 1981, 
 
 The house was on Calle de los Olivos, which had never had olive trees and now had none of the residents it once had either. The key was under the same clay pot. The door opened with the same complaint in the hinge. And the kitchen — the kitchen was warm.
 
-Not warm as a room is warm when the afternoon sun has been pressing against it. Warm the way a kitchen is warm when someone has been cooking. The stove held a residual heat that Nilda felt through the iron before she touched it, the way you feel a person's presence before you see them. On the counter, a clay pot of black beans sat with its lid slightly askew, still releasing a thread of steam so thin it might have been imagined.
+Not warm from the afternoon sun. Warm the way a kitchen is warm when someone has been cooking. The stove held a residual heat that Nilda felt through the iron before she touched it, the way you feel a person's presence before you see them. On the counter, a clay pot of black beans sat with its lid slightly askew, releasing a thread of steam so thin it might have been imagined.
 
-She set her suitcase down. She opened the beans. They were perfect — soft, yielding, fragrant with epazote and a hint of something smoky she could not name. She dipped a finger in and brought it to her mouth and the taste was a room she had not stood in for nineteen years, crowding back into her body all at once: Consuelo's kitchen at seven in the morning, the radio playing marimba, the light through the window catching the grease on the wall above the stove in a pattern that changed with the seasons, the particular squeak of Consuelo's chanclas on the tile as she moved between stove and counter in a route so practiced it had worn a path in the glaze.
+She set her suitcase down. She opened the beans. They were perfect — soft, yielding, fragrant with epazote and something smoky she could not name. She dipped a finger in and brought it to her mouth and the taste was a room she had not stood in for nineteen years, crowding back into her body all at once: Consuelo's kitchen at seven in the morning, the radio playing marimba, the light catching the grease on the wall above the stove in a pattern that changed with the seasons, the squeak of Consuelo's chanclas on the tile as she moved between stove and counter in a route so practiced it had worn a path in the glaze.
 
 She put the lid back on. She wiped her finger on her jeans. She called the realtor in the capital and said she had arrived and would begin the inventory tomorrow.
 
@@ -85,7 +85,7 @@ She checked the locks. Latched from inside. She checked the windows. Sealed. She
 
 The lard was fresh.
 
-She wrapped it back in its paper and placed it in the refrigerator, which hummed the way Consuelo's refrigerator had always hummed — a B-flat, that Nilda had identified as a child by pressing her ear to its side, a tone so constant it had become indistinguishable from silence.
+She wrapped it back in its paper and placed it in the refrigerator, which hummed a B-flat — Nilda had identified the pitch as a child by pressing her ear to its side, matching it against the church organ before the organ rusted — a tone so constant it had become indistinguishable from silence.
 
 The next morning: a jar of homemade salsa verde she had not made. The morning after that: a dozen eggs in a bowl, still warm, though there were no chickens in the garden and the last chickens in Cruces had belonged to the Vega family, who had left in 2014, or died, or both — the sequence, in Cruces, was negotiable.
 
@@ -111,15 +111,13 @@ But the recipes that followed were not dated by calendar. They were dated by eve
 
 *For the afternoon Octavio did not come home and the afternoon after that and the afternoon after that — nothing. I did not cook. The stove went cold for eleven days. The longest the stove has been cold since I married.*
 
-Nilda read the book the way she had been trained to read: scanning for patterns, for the underlying structure that would make the data cohere. Each recipe was a date. Each ingredient list was a cast of characters: the Vega garden strawberries, Doña Amparo's eggs, the oregano that testified to fear. The book was not a cookbook. It was a chronicle written in cumin and lard and the particular way Consuelo chopped an onion — in a cross-hatch pattern she had learned from her own mother and that nobody in Santiago used, because Santiago onions were for efficiency and Cruces onions were for memory.
+Nilda read the book the way she had been trained to read: scanning for patterns, for the underlying structure that would make the data cohere. Each recipe was a date. Each ingredient list was a cast of characters: the Vega garden strawberries, Doña Amparo's eggs, the oregano that testified to fear. The book was not a cookbook. It was a chronicle written in cumin and lard and the particular way Consuelo chopped an onion — a cross-hatch pattern she had learned from her own mother and that nobody in Santiago used, because Santiago onions were for efficiency and Cruces onions were for memory.
 
 There were one hundred and forty-three recipes spanning fifty-one years. Nilda arranged them not by their order in the book but by the events they commemorated, and a pattern emerged — or nearly emerged, which was worse, because a pattern that nearly resolves is a labyrinth that invites you in and then refuses to show you the center.
 
 The recipes clustered around departures. Not arrivals — nobody in Cruces arrived. People were born or they left, and the born eventually left too, and Consuelo cooked for each leaving as if the food could be a tether, a gravitational pull exerted through the stomach. And the complexity of each dish correlated with the devastation of the departure. When the schoolteacher left, Consuelo made arroz con leche. But when Graciela left —
 
 *For the day Graciela said she was going and would not be back — mole negro, which takes three days and uses seven chiles and requires a patience I do not feel but the mole requires regardless.*
-
-The most complex dish for the most devastating departure.
 
 ---
 
@@ -135,23 +133,23 @@ Or someone had. The kitchen was still cooking. Something was being finished, and
 
 ---
 
-On the fourth day Nilda began to cook. Or on the fourth day her body began to cook and informed her mind afterward, the way a river informs a map — the water moves first, and the cartographer follows.
+On the fourth day Nilda began to cook. Or her body began to cook and informed her mind afterward, the way a river informs a map — the water moves first, and the cartographer follows.
 
-She woke at five, which was when Consuelo had always woken, and walked to the kitchen in the half-dark, and her hands reached for the comal before her mind had agreed to any of it. The comal was already warm. She did not question this. You do not question a warm comal in a grandmother's kitchen any more than you question the sunrise — it simply is, and your job is to respond.
+She woke at five, which was when Consuelo had always woken, and walked to the kitchen in the half-dark, and her hands reached for the comal before her mind had agreed to any of it. The comal was already warm.
 
-She made tortillas first, because tortillas were the grammar of this kitchen and everything else was syntax. The masa was in the refrigerator, wrapped in a damp cloth. She had not put it there. It was cold and slightly sour and it yielded under her palms with a familiarity that made her chest hurt — not the sharp pain of grief but the dull, spreading ache of something returning to a shape it had been forced out of, like a foot slipping back into a shoe it had outgrown, pressing against leather that would not give.
+She made tortillas first, because tortillas were the grammar of this kitchen and everything else was syntax. The masa was in the refrigerator, wrapped in a damp cloth. She had not put it there. It was cold and slightly sour and it yielded under her palms with a familiarity that made her chest hurt — not grief exactly, but the ache of something returning to a shape it had been forced out of, pressing against edges that would not give.
 
-Her hands knew the pressure. She could feel it — not as memory but as instruction, as if the muscles in her palms had retained a blueprint her brain had shredded nineteen years ago. Press, turn, press, flatten — the tortilla round and slightly uneven, because Consuelo's tortillas were never perfect circles, and perfection in a tortilla is a sign that a machine made it, and a machine has no sazón.
+Her hands knew the pressure. She could feel it — not as memory but as instruction, as if the muscles in her palms had retained a blueprint her brain had shredded nineteen years ago. Press, turn, press, flatten — the tortilla round and slightly uneven, because Consuelo's tortillas were never perfect circles, and perfection in a tortilla is a sign that a machine made it.
 
 As she cooked, the walls began to sweat.
 
-Not condensation. Condensation forms where cold meets warm. This formed everywhere: on the tiles behind the stove, on the plaster near the ceiling, on the glass of the window that looked out onto the garden. A thin film, slightly oily, with a faint smell of epazote. Old lard. Something floral underneath, like the ghost of a marigold wreath — the cempasúchil that Consuelo had grown every October for the altars and that Nilda could now smell as clearly as if the flowers were in the room.
+Not condensation. This formed everywhere: on the tiles behind the stove, on the plaster near the ceiling, on the window glass. A thin film, slightly oily, smelling of epazote. Old lard. Something floral underneath — the cempasúchil Consuelo had grown every October for the altars, and that Nilda could now smell as clearly as if the flowers were in the room.
 
-The kitchen was releasing what it had absorbed across decades of cooking: the volatile compounds of ten thousand meals, the aerosolized grief and pleasure and boredom and fury that had been cooked into its surfaces, seeping back out in the presence of heat and a woman who belonged to it. Nilda wiped the wall with a cloth. The cloth came away yellow. She wiped again. Yellow again. She stopped wiping.
+The kitchen was releasing what it had absorbed across decades of cooking: the volatile compounds of ten thousand meals cooked into its surfaces, seeping back out in the presence of heat and a woman who belonged to it. Nilda wiped the wall with a cloth. The cloth came away yellow. She wiped again. Yellow again. She stopped wiping.
 
 ---
 
-The neighbors spoke to her in fragments, the way people in Cruces had always spoken — in pieces that did not always assemble into sequence, as if narrative continuity were a luxury of cities and Cruces had its own grammar, where past and present tense were interchangeable and the dead were conjugated the same as the living.
+The neighbors spoke to her in fragments, in pieces that did not always assemble into sequence, as if narrative continuity were a luxury of cities. Cruces had its own grammar, where past and present tense were interchangeable and the dead were conjugated the same as the living.
 
 Doña Faustina, who was or was not the woman from the pharmacy, told her: "Your grandmother was still making deliveries in September. I know because the mole arrived on a Tuesday and my husband said it was the best she'd ever made, and my husband has been dead since 2019 but he knows what he knows."
 
@@ -159,7 +157,7 @@ The man who ran the one remaining tienda, whose name Nilda could not hold in her
 
 A girl of about ten, sitting on a wall near the church, told her: "The old woman makes the food and the town eats. If she stops, we stop. My abuela says this. My abuela has been saying this since before she died."
 
-Nilda stopped asking whether the people she spoke to were alive. It was not a useful distinction in Cruces. The living bought groceries and the dead bought groceries. The living hung laundry and the dead hung laundry. The only difference was that the dead did not hurry, because the dead had settled their accounts with time and found the balance favorable.
+Nilda stopped asking whether the people she spoke to were alive. It was not a useful distinction in Cruces. The living bought groceries and the dead bought groceries. The living hung laundry and the dead hung laundry. The only reliable difference was that the dead did not hurry.
 
 ---
 
@@ -179,33 +177,33 @@ No instructions.
 
 The ingredient list filled the rest of the page and spilled onto the inside back cover. It was exhaustive, improbable — too many ingredients for a single dish, too many techniques implied (soaking, toasting, charring, rendering, frying, tearing, grinding). It read less like a recipe than like an inventory of everything Consuelo's kitchen had ever contained, compressed into a single meal that could only be made once, by one person, on one day.
 
-Nilda stared at the list for a long time. Outside, the evening light was doing what it always did in Cruces — turning the dust in the air into something that looked like gold but wasn't, the way memory turns the past into something that looks like meaning but may only be sequence.
+Nilda stared at the list for a long time. Outside, the evening light was turning the dust in the air into something that looked like gold but wasn't, the way memory turns the past into something that looks like meaning but may only be sequence.
 
 Then she went to the pantry. Everything was there. The pepitas she had not bought. The piloncillo she had not purchased. The dried shrimp in their cellophane bag, smelling of salt and the Pacific. The lard, fresh, wrapped in its wax paper, soft as a concession.
 
-The last ingredient — *whatever she brings with her* — she did not know what that was. She stood in the pantry with her hands open and empty and wondered if the emptiness was the ingredient, if nineteen years of not-cooking was a spice that had a name in a language the recipe book could not contain.
+The last ingredient — *whatever she brings with her* — she did not know what that was. She stood in the pantry with her hands open and empty and wondered if the emptiness was the ingredient.
 
 She began.
 
 ---
 
-The mole — because it was a mole, she understood now, a mole of impossible scope, a mole that contained every mole Consuelo had ever made the way a library contains every book and also the silences between the books and also the dust that collects on the shelves when the readers have gone — the mole took all day.
+The mole — because it was a mole, she understood now, a mole of impossible scope — took all day.
 
-She toasted the chiles on the dry comal until they blistered and released a smoke that made her eyes water and that she recognized, suddenly, as the exact smell of Consuelo's kitchen in November, when the Day of the Dead preparations began and the house filled with a haze that took three days to clear and that the neighbors could smell from the street and that told them, without needing to be told, that the year was turning and the dead were being fed. She soaked them in hot water. She roasted the tomatoes and the onion directly on the burner flame until the charred skin crackled and split and the juice ran down the grate and hissed.
+She toasted the chiles on the dry comal until they blistered and released a smoke that made her eyes water — the exact smell of Consuelo's kitchen in November, when the Day of the Dead preparations began and the house filled with a haze that took three days to clear and that the neighbors could smell from the street and that told them, without words, that the year was turning and the dead were being fed. She soaked them in hot water. She roasted the tomatoes and the onion directly on the burner flame until the charred skin crackled and split and the juice ran down the grate and hissed.
 
-She ground the pepitas by hand in the stone molcajete that had belonged to Consuelo's mother Refugio, whose face Nilda had never seen in any photograph but whose hands she could feel in the worn basalt — the particular depression where a thumb had pressed ten thousand times, the smooth channel where the pestle had traveled.
+She ground the pepitas by hand in the stone molcajete that had belonged to Consuelo's mother Refugio, whose face Nilda had never seen in any photograph but whose hands she could feel in the worn basalt — the particular depression where a thumb had pressed ten thousand times, the smooth channel where the pestle had traveled its patient circuit.
 
 As she cooked, the kitchen filled.
 
-Not with people. With presences. The air thickened. Sounds arrived from other rooms that the house did not have: a child laughing in a hallway that led nowhere, a radio playing a program that had gone off the air in 1978, a conversation in low voices about the price of corn and whether Amparo's daughter was really going to marry that boy from the coast who smelled of fish and revolution. They were not speaking to her. They were speaking near her, around her, the way the dead in Cruces had always spoken: ongoing, unfinished, grammatically present.
+Not with people. With presences. The air thickened. Sounds arrived from other rooms that the house did not have: a child laughing in a hallway that led nowhere, a radio playing a program that had gone off the air in 1978, a conversation in low voices about the price of corn and whether Amparo's daughter was really going to marry that boy from the coast who smelled of fish and revolution. They were not speaking to her. They were speaking near her, around her — ongoing, unfinished.
 
-Her hands moved without consultation. She fried the plantain slices until they curled golden at the edges, and as they curled she understood, without deciding to understand, that Consuelo had fried plantains on the day Nilda was born. Consuelo had cooked through the labor — fried plantains while Graciela screamed in the bedroom, because cooking was the only prayer Consuelo knew, and the plantains were an offering to whoever governed the passage from one body into another.
+Her hands moved without consultation. She fried the plantain slices until they curled golden at the edges, and as they curled she knew — without deciding to know — that Consuelo had fried plantains on the day Nilda was born. Fried them while Graciela screamed in the bedroom, because cooking was the only prayer Consuelo knew, and the plantains were an offering to whoever governed the passage from one body into another.
 
-She tore the stale tortillas and added them to the blender with the soaked chiles and the roasted tomatoes and the ground seeds and the chocolate, which she had grated by hand and which smelled of the kind of bitterness that is not sad but serious, the way dark soil is serious, the way a woman's face is serious when she is concentrating on something she loves too much to smile at.
+She tore the stale tortillas and added them to the blender with the soaked chiles and the roasted tomatoes and the ground seeds and the chocolate, which she had grated by hand and which smelled of the kind of bitterness that is not sad but serious, the way dark soil is serious, the way a woman's face is serious when she is concentrating on something she loves.
 
-The blender was old and loud and it turned everything into a paste the color of dried roses, of old blood, of the earth in the garden where Consuelo had buried the bell — not the whole bell, Nilda realized now, but a piece of it, a fragment of bronze she had kept when the soldiers took the rest, and which she had planted like a seed beneath the garden, and which had grown nothing visible but which hummed on certain evenings at a frequency that only the tomatoes seemed to hear, because the tomatoes grew toward it, their roots reaching down and wrapping around the metal with the tenderness of hands clasping in the dark.
+The blender was old and loud and it turned everything into a paste the color of dried roses, of old blood, of the earth in the garden where Consuelo had buried the bell — not the whole bell, but a fragment of bronze she had kept when the soldiers took the rest, planted like a seed beneath the tomatoes. It had grown nothing visible, but the tomatoes grew toward it, their roots wrapping around the metal in the dark.
 
-She fried the paste in the lard. This was the moment — any cook who has made a mole knows this — when the paste hits the hot fat and the kitchen becomes a different country. The smell is so dense it has texture. It presses against the skin. Nilda stood at the stove and the paste sputtered and darkened and the kitchen walls were sweating freely now, rivulets running down the tile, and she stirred.
+She fried the paste in the lard. Any cook who has made a mole knows this moment — when the paste hits the hot fat and the kitchen becomes a different country. The smell is so dense it has texture. Nilda stood at the stove and the paste sputtered and darkened and the kitchen walls were sweating freely now, rivulets running down the tile, and she stirred.
 
 She stirred the way Consuelo had stirred: with the flat wooden spoon, not the rounded one, in counterclockwise circles, slowly, maintaining contact with the bottom of the pot because a mole that sticks is a mole that burns and a mole that burns is a grief that went unattended. She stirred and the paste yielded and she added broth — she found it on the stove, warm, golden, uncovered, though she had not made it — and the mole opened into liquid, into something pourable, something that could be served.
 
@@ -213,7 +211,7 @@ She tasted it.
 
 For a moment — not longer than the time it takes a spoon to travel from pot to mouth — she was not Nilda. She was Consuelo, standing in this kitchen in 1968, making this mole for the first time, her hands uncertain, her mother-in-law Refugio watching from the doorway with an expression that was either approval or criticism and that Consuelo would never know which because Refugio died three days later, a stroke that took her between the garden and the kitchen door, mid-step, carrying a handful of epazote, and the epazote was still fresh when they found her and they used it in the food for the wake because she would have wanted that, because waste was the only sin Refugio recognized. And Nilda was Consuelo in 1982, making this mole for the first anniversary of Octavio's death, alone in the kitchen for the first time since her wedding, the silence so absolute she could hear the cumin seeds ticking as they cooled on the comal, a sound like a clock running down or a heart counting its remaining beats. And she was Consuelo in 2003, making this mole for a granddaughter who had stopped calling, the steam rising and the radio playing and the afternoon sun moving across the floor like a hand reaching for something it could not quite touch.
 
-And then she was Nilda again, standing in a kitchen in Cruces, holding a wooden spoon, her mouth full of a flavor that belonged to no single moment and every moment — a convergence, an accumulation, a series that did not sum to a number but to a sensation, the way an infinite series in mathematics can converge on a finite value that nevertheless contains the infinite within it. The name for it was sazón and sazón cannot be spoken, only tasted, only passed from hand to hand like a pressure of fingers around a spoon that a grandmother teaches a granddaughter in a kitchen where the dead are always cooking and the living are always arriving and the difference between the two is nothing more than a question of temperature — the living are warm, the dead are warm too, but from a different source.
+And then she was Nilda again, standing in a kitchen in Cruces, holding a wooden spoon, her mouth full of a flavor that did not belong to any single moment. A convergence. An accumulation. A series that did not sum to a number but to a sensation — the way an infinite series in mathematics can converge on a finite value that nevertheless contains the infinite within it. She swallowed. The mole was not perfect. The chocolate was slightly bitter, the spices not quite balanced, the texture grainy where the pepitas had not been ground fine enough. It was not Consuelo's mole. It was hers, which meant it was both less and different, and the difference was what the recipe had called *whatever she brings with her* and what Nilda was beginning to suspect could not be named in any language, including the one spoken by hands.
 
 ---
 
@@ -221,22 +219,22 @@ She ate alone at the table.
 
 She set one plate. She served the mole over rice that she had cooked in Octavio's aluminum pot, the one with the dent from when Graciela knocked it off the stove at age four — a dent Consuelo never fixed because it made the lid fit imperfectly, and the imperfect fit let just enough steam escape to keep the rice from going sticky.
 
-She poured a glass of water from the tap, which tasted of iron and lime and the particular mineral signature of the aquifer beneath Cruces that fed every well in town and that the old people said ran all the way to the coast, carrying with it the memory of every rain.
+She poured a glass of water from the tap, which tasted of iron and lime and the particular mineral signature of the aquifer beneath Cruces that the old people said ran all the way to the coast.
 
-The kitchen was quiet. The walls had stopped sweating. The stove was cooling with the slow patience of something that knows it will be lit again. The presences had not left — she did not think they could leave, or that leaving was a concept that applied to them — but they had settled, the way sediment settles in water that has stopped being stirred.
+The kitchen was quiet. The walls had stopped sweating. The stove was cooling with a patience that suggested it knew it would be lit again. The presences had not left — she did not think they could leave, or that leaving was a concept that applied to them — but they had settled, the way sediment settles in water that has stopped being stirred.
 
-She did not call the realtor. She did not call her mother in Buenos Aires, though she picked up the phone and held it for a while, feeling its weight, which was the weight of a question she was not ready to ask: *Did you leave because the kitchen was a trap, or did the kitchen become a trap because you left?* She set the phone down. Some questions are meant to be asked over a plate of mole, if the person you are asking ever sits down long enough to eat.
+She did not call the realtor. She picked up the phone to call her mother in Buenos Aires and held it for a while, feeling the weight of a question she was not ready to ask. *Did you leave because the kitchen was a trap, or did the kitchen become a trap because you left?* She set the phone down.
 
-The mole tasted like a question she could not answer and did not need to. The rice was slightly overcooked on the bottom, a crust of toasted grain that Consuelo had called *la concha* and that she'd scraped out and eaten last, standing at the stove after everyone else had left the table — the cook's portion, the part nobody saw.
+The rice was slightly overcooked on the bottom, a crust of toasted grain that Consuelo had called *la concha* and that she'd scraped out and eaten last, standing at the stove after everyone else had left the table — the cook's portion, the part nobody saw.
 
 Nilda scraped the bottom of the pot. She ate the crust standing up.
 
-Outside, the evening was arriving over Cruces the way evenings have always arrived there: slowly, completely, without consulting anyone about whether they were ready.
+Outside, the evening was arriving over Cruces slowly, completely, without consulting anyone about whether they were ready.
 
-She washed the plate. She dried it with a cloth that smelled of Consuelo — not her perfume or her soap but the smell underneath, the smell of a body that has stood in steam for fifty years and absorbed it. She placed the plate in the rack.
+She washed the plate. She dried it with a cloth that smelled of Consuelo — not her perfume or her soap but the smell underneath, the smell of a body that has stood in steam for fifty years and absorbed it into the skin. She placed the plate in the rack.
 
-The recipe book lay open on the counter to its last page, the page without instructions. Below the ingredient list, in the space where the method should have been, there was nothing. Or there was everything — the ghost of a hand hovering above the paper, the intention without the inscription, the sazón without the recipe.
+The recipe book lay open on the counter to its last page, the page without instructions. Below the ingredient list, in the space where the method should have been, there was nothing.
 
-Nilda picked up a pencil. She held it over the page for a long time. Then she put it down. The instructions were not something that could be written. They were in her hands now, in the pressure of her grip on the wooden spoon, in the counterclockwise circles she would make in every pot for the rest of her life without deciding to, without remembering where she had learned it, without knowing whether it was her gesture or Consuelo's or the gesture of Refugio whose name she had not known until today and whose molcajete still bore the smooth depression of her thumb.
+Nilda picked up a pencil. She held it over the page for a long time. She wrote: *Soak the guajillos for twenty minutes in water just off the boil.* Then she stopped. The next step would not come in words. She could feel it in her hands — the pressure of the flat spoon against the bottom of the pot, counterclockwise — but she could not make it into a sentence, and she was not sure the failure was hers. Maybe Consuelo had left the instructions blank on purpose. Or maybe the instructions were the blank — the space where something had to be done rather than read, passed through the hands rather than the eyes. She did not know. She was not sure it mattered whether she knew.
 
-She closed the book. She left the kitchen light on. In Cruces, you left the kitchen light on. It was not a custom anyone could explain. It was simply what was done, the way cooking was done, the way the dead were done with dying and went on doing everything else, and the living stood at the stove and stirred, and the stirring was the same stirring it had always been, and the light above the stove was the same light, and the town outside the window was the same town, emptied and full, gone and remaining, a place where the only thing that changed was who held the spoon, and even that did not change as much as you would think.
+She left the pencil on the open page. She left the kitchen light on. In Cruces, you left the kitchen light on. It was not a custom anyone could explain. It was simply what was done, and the light above the stove was the same light it had always been, and the town outside the window was the same town, emptied and full, and she could hear, if she held still, the comal cooling with a tick like cumin seeds, like a clock, like something she would not try to name.
