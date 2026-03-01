@@ -1,0 +1,75 @@
+{
+  "workSlug": "secondhand-damage",
+  "reviews": [
+    {
+      "personaId": "mys-001-siobhan",
+      "rating": 4,
+      "text": "The procedural detail here is very strong — the cipher machine, the routing slips, the chalk marks on lampposts near the Binnenhof. Felt authentic in the way that matters, which is less about accuracy than about the texture of institutional life. Noel's contact reports are a masterclass in self-deception dressed as professionalism. I did want more from Orme, who felt slightly thin for a station chief two years from retirement. But the ending — Noel washing the cups, driving at the speed limit, signalling every turn — that landed hard. The discipline as a kind of moral anaesthesia.",
+      "date": "2025-12-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-002-harold",
+      "rating": 3,
+      "text": "Competent spy fiction of the quieter variety. The prose is controlled and the tradecraft details — the cigarette case camera, Piotrowski's key in the third drawer — are handled with appropriate restraint. However, the plot is thin. We learn quite early that Jerzy is being sacrificed; the only question is whether Noel will warn him, and we know the answer to that too. The Laidlaw subplot gestures toward menace without delivering on it. The story succeeds as a character study but one wishes for more structural complexity.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-003-keiko",
+      "rating": 5,
+      "text": "This got under my skin. The psychological portrait of Noel is extraordinary — the way he catalogues Jerzy's need for structured authority and then recognizes the assessment as a confession about his own role. The white cup detail is devastating precisely because it's so small. Noel remembers Jerzy's preference and files it as 'trust architecture,' and the gap between those two things — the genuine attentiveness and the clinical label — is the whole story. The final image of the paper cut that healed without his noticing is perfect. Damage absorbed unconsciously.",
+      "date": "2026-02-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-004-roisin",
+      "rating": 3,
+      "text": "Beautifully written but honestly pretty slow. Not much happens — a handler runs a source, the source gets set up, the handler doesn't warn him. I kept waiting for some twist or confrontation that never came. The Terschelling ferry thread was lovely but the pacing dragged in the middle sections with all the cable traffic and filing cabinets. If you like your spy stories atmospheric and sad rather than tense, this is for you. Not quite my thing.",
+      "date": "2026-01-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-005-desmond",
+      "rating": 4,
+      "text": "A story about the banality of institutional cruelty, told with a prose style that mirrors its subject — disciplined, understated, refusing easy affect. The best passages are the ones where Noel's operational language and his human awareness exist in the same sentence: 'trust architecture' as both professional jargon and self-indictment. The phossy jaw metaphor is perhaps overworked, but the routing slip at the end — the paper cut that healed without notice — redeems any minor excess. What elevates this above competent genre work is the refusal to let Noel off the hook through anguish. He accommodates. That is the horror.",
+      "date": "2025-11-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-006-lynn",
+      "rating": 4,
+      "text": "I found this quietly heartbreaking. The Terschelling ferry — Ola drawing it from imagination, making the funnel too big because children make the important part too big — that image carried so much weight without the story ever underlining it. And Noel washing the cups at the end, the white one last. These domestic details doing the work that a lesser story would hand to dialogue or monologue. I will think about this one for a while.",
+      "date": "2026-02-02",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-007-tomasz",
+      "rating": 5,
+      "text": "The ethical architecture here is remarkable. Noel's moral reasoning is never wrong, exactly — his calculations about the Warsaw asset, the institutional logic, the risk assessment — all defensible. And that is precisely the problem the story poses. The moment where Jerzy says 'everything comes from the highest level, that's what you always say' is the pivot: it exposes how institutional authority becomes a substitute for moral agency. Noel doesn't betray Jerzy through malice or cowardice. He betrays him through competence. The story asks whether professionalism can be a form of evil, and it does not answer, which is the right choice.",
+      "date": "2025-09-17",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-008-grace",
+      "rating": 3,
+      "text": "This was well written but so bleak. I kept hoping Noel would do the right thing and warn Jerzy about what was coming, especially after all those details about Ola and the ferry trip. When he just... didn't, and drove home at the speed limit, I felt sick. The craft is undeniable but I can't say I enjoyed reading it. The lack of any female perspective beyond the ex-wife in Surrey felt like a gap.",
+      "date": "2025-12-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-009-alastair",
+      "rating": 4,
+      "text": "Gets the institutional dynamics exactly right. The station chief who runs things with 'the efficient indifference of a post office manager,' the anonymous man from London with the personal mug and the too-good suit, the phantom department that doesn't appear in the registry — this is how intelligence services actually operate, through bureaucratic indirection and plausible ignorance. Laidlaw is particularly well drawn for a character with so few lines. My one reservation: the 'controlled sacrifice' discovery feels slightly too neatly packaged for a protagonist who supposedly pieces it together from fragmentary evidence.",
+      "date": "2026-01-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "mys-010-valentina",
+      "rating": 3,
+      "text": "Interesting as a study of class within intelligence institutions — Noel's grammar school background versus Laidlaw's college crest, the distinction between 'competent' and 'connected' that suddenly matters. The story understands that espionage hierarchies replicate class structures: the people who wash cups and the people who read files. But Jerzy is rendered entirely through Noel's gaze, which means the Polish source becomes a mirror for British guilt rather than a subject in his own right. The motor pool details and the Terschelling plans humanize him, but always instrumentally — we feel for him because Noel feels for him.",
+      "date": "2025-10-29",
+      "helpfulCount": 0
+    }
+  ]
+}
