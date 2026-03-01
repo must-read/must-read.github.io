@@ -7,8 +7,8 @@ authorA: "Charlotte Bronte"
 authorB: "Angela Carter"
 workX: "Villette (Charlotte Bronte)"
 workY: "The Bloody Chamber (Angela Carter)"
-wordCount: 5081
-readingTimeMinutes: 20
+wordCount: 4689
+readingTimeMinutes: 19
 tags:
   - gothic-romance
   - genre-subversion
@@ -46,7 +46,7 @@ combination:
 
 The villa sat above Orvieto like something the hill had produced rather than something built upon it. Tufa walls the color of old teeth, a roof of terracotta tiles that had slipped and been reset so many times the roofline undulated like a body breathing in sleep. The cypress trees along the drive were planted too close together -- they would have been saplings in the eighteenth century, someone's optimistic spacing, and now they pressed against each other at the shoulder, a dark congregation admitting no light between their bodies.
 
-I arrived in September, when the heat was still a physical thing, a weight you carried from room to room like a damp coat. The driver left my bags at the entrance and departed before I could tip him, and I stood in the forecourt with my two suitcases and my laptop bag and a canvas tote of books I'd been unable to leave behind, and I looked up at the facade and felt the precise, involuntary contraction of the chest that means you have arrived somewhere that will cost you something.
+I arrived in September, when the heat was still a physical thing, a weight you carried from room to room like a damp coat. The driver left my bags at the entrance and departed before I could tip him, and I stood in the forecourt with my two suitcases and my laptop bag and a canvas tote of books I'd been unable to leave behind, and I looked up at the facade and felt the involuntary contraction of the chest that means you have arrived somewhere that will cost you something.
 
 The appointment was six months. Visiting lecturer in comparative literature, housed and fed, a stipend that was generous by Italian academic standards and modest by any other. The Villa Severini had been a private estate until the 1960s, when the last of the Severini line donated it to a cultural foundation that operated it as a residential academy -- six visiting scholars at a time, rotating through on three- to six-month appointments. The director, Aldo Conti, had run the place for twenty-two years.
 
@@ -72,7 +72,7 @@ The other scholars that season were a musicologist from Vienna, a Byzantine hist
 
 I missed certain things. Not people -- I had left no one in Vermont who would notice the specific shape of my absence. What I missed was competence. The ease of walking into a seminar room at my own university, where the projector worked and the students had done the reading and I could teach in my own language at full speed, making the jokes that landed because the audience shared my references. Here, I taught in English to students whose English was good but not native, which meant I performed a simplified version of myself, a version with the nuance sanded off. I said "uncanny" and watched six faces compute the translation. I said "the domestic gothic" and paused for them to write it down. I was Lucy Snowe in Brussels, teaching in a language that was mine but speaking into a room that wasn't, and the loneliness of that -- of being articulate in a space where articulation didn't quite reach -- was a slow pressure, like water rising in a basement. You didn't notice until your feet were wet.
 
-Conti presided without dominating. He asked questions that seemed casual and were not. He remembered what you'd said three dinners ago and returned to it with a precision that was either flattering or unsettling, depending on how you felt about being listened to. He refilled glasses before they were empty. He noticed when I switched from wine to water and did not comment, which was worse than commenting because it meant he'd noticed and chosen silence, and silence in a man who speaks well is never neutral.
+Conti presided without dominating. He asked questions that seemed casual and were not. He remembered what you'd said three dinners ago and returned to it with an accuracy that was either flattering or unsettling, depending on how you felt about being listened to. He refilled glasses before they were empty. He noticed when I switched from wine to water and did not comment, which was worse than commenting because it meant he'd noticed and chosen silence, and silence in a man who speaks well is never neutral.
 
 I taught my seminars -- Gothic fiction, the female uncanny, the locked room as narrative engine. Six students, all Italian, all earnest, all better read than I'd expected. I assigned Villette and watched them struggle with Lucy Snowe's refusal to explain herself. "She sees the nun," said Giulia, the sharpest of them, "and she describes it exactly, and she does not interpret. Why does she not interpret?"
 
@@ -106,7 +106,7 @@ Except the metaphor was wrong. I was not captive. The gate was open. I had a ret
 
 ---
 
-November, and the rains came. The gorge below the villa filled with a sound like sustained applause, and the tufa walls darkened with moisture, and the cypresses dripped, and the whole landscape turned from ochre to umber, from something etched to something dissolved. The beauty did not diminish -- it changed register. Where September's Italy had been a jewel box, November's was a painting left out in weather, the pigments running, the outlines softening into each other. The villa's garden, which had been a geometry of clipped box hedges and gravel paths, became something wilder, the gravel puddled, the hedges jeweled with water drops that caught the grey light and held it. I stood at my window one morning and watched the rain fall into the gorge and thought: even the rain here is saturated, even the greyness is a color, and I am running out of adjectives, and the running out feels like the beginning of something I don't want to name.
+November, and the rains came. The gorge below the villa filled with a sound like sustained applause, and the tufa walls darkened with moisture, and the cypresses dripped, and the whole landscape turned from ochre to umber, from something etched to something dissolved. The beauty did not diminish -- it changed register. Where September's Italy had been a jewel box, November's was a painting left out in weather, the pigments running, the outlines softening into each other. The villa's garden, which had been a geometry of clipped box hedges and gravel paths, became something wilder, the gravel puddled, the hedges jeweled with water drops that caught the grey light and held it. I stood at my window one morning and watched the rain fall into the gorge and thought: even the rain here is saturated, even the greyness is a color. I closed the shutters and went back to my desk.
 
 I taught my classes. I worked on my book. I ate dinner at the long table and listened to the musicologist explain the concept of Schubertian wandering -- the way a melody will move through distant keys and arrive home having been changed by the journey so fundamentally that the home key itself sounds different, sounds unfamiliar, sounds like a question asked in a room you used to recognize.
 
@@ -126,7 +126,7 @@ The door was unlocked.
 
 I had gone looking for Conti to ask about a reference in his second monograph -- a sixteenth-century inventory of the Malatesta library in Cesena that I needed for my chapter on fictional libraries. He was not in the refectory, not in the salon, not in the garden. The musicologist said he'd driven to town. I went to his office, which was adjacent to the private library, and found the office empty and the library door ajar.
 
-I want to be precise about what happened next, because precision is all I have in this account, and because the gothic novel teaches us that the moment of transgression -- the bride turning the key, the governess climbing to the attic -- must be narrated with the clarity of a witness who knows she is about to be changed. But I did not feel like a witness. I felt like a woman walking through an open door because the door was open.
+I want to be exact about what happened next, because the gothic novel teaches us that the moment of transgression -- the bride turning the key, the governess climbing to the attic -- must be narrated with the clarity of a witness who knows she is about to be changed. But I did not feel like a witness. I felt like a woman walking through an open door because the door was open.
 
 The library was smaller than I had imagined. One room, perhaps five meters by seven, with shelving on three walls and a window on the fourth that overlooked the gorge and the rooftops of Orvieto below. The shelves were not full. Perhaps two-thirds occupied -- books, manuscripts in archival boxes, a few objects I recognized as bookbinding tools: a bone folder, a sewing frame, an awl. The controlled conditions Conti had mentioned amounted to a dehumidifier in the corner and blackout curtains that were drawn back, admitting the grey December light.
 
@@ -140,9 +140,9 @@ He was writing about the villa. About the scholars who came and stayed and left.
 
 I turned pages. Elisa left. He recorded the date and wrote nothing for eleven days. Then a sculptor from Lisbon arrived. Then a theologian from Krakow. Then a poet from Senegal whose name I recognized from a translation prize shortlist. Each scholar received the same precise attention in the notebooks: what they ate, what they read, how they moved through the rooms. Not surveillance -- something closer to portraiture. Each entry was a small, careful study of a person Conti was in the process of losing, because every visiting scholar leaves. That was the structure. That was the architecture of the place. They arrived, they were housed and fed and attended to, and they left, and Conti remained, and the notebooks were what remained of the remaining.
 
-I read for perhaps an hour. I did not find anything sinister. I did not find bodies. I did not find evidence of obsession that crossed into pathology, or control that crossed into coercion, or love that crossed into possession. What I found was a man who lived inside a structure designed to repeat the same loss, and who documented each iteration with the composure of a surgeon and the devotion of a monk, and who locked the door not because the notebooks were dangerous but because they were — I could not find the word. The Italian would be *intimo*. The English would be private. Neither was right.
+I read for perhaps an hour. I did not find anything sinister. I did not find bodies. I did not find evidence of obsession that crossed into pathology, or control that crossed into coercion, or love that crossed into possession. What I found was a man who lived inside a structure designed to repeat the same loss, and who documented each iteration with the composure of a surgeon and the devotion of a monk, and who locked the door not because the notebooks were dangerous but because they were -- I could not find the word. The Italian would be *intimo*. The English would be private. Neither was right.
 
-The notebooks were the room behind the room. Not the Marquis's chamber of blood. Not Rochester's attic with its hidden wife. Just a man writing down what it felt like to care about people who would leave. The key I'd found in the card catalogue -- I tried it later, and it opened nothing. It was an old key to an old thing, left in a drawer and forgotten, and I had turned it into a symbol because I am a woman who studies locked rooms for a living, and the locked room was the only story I knew how to tell.
+The key I'd found in the card catalogue -- I tried it later, and it opened nothing. An old key to an old thing, left in a drawer and forgotten.
 
 ---
 
@@ -150,17 +150,17 @@ I did not confront him. I did not confess. I replaced the notebooks on the lowes
 
 I went back to my room and sat on the bed with my shoes on and held my wrist, and I took the ornate brass key from my desk drawer and looked at it for a long time, and then I put it in the pocket of a coat I would not wear again until March, and I hung the coat in the wardrobe, and I closed the wardrobe door. A burial. Like Lucy Snowe's letters in the garden -- the deliberate interment of a thing you cannot afford to keep examining. The key had meant everything for weeks. Now it meant nothing, or rather, it meant something I did not want to carry: the evidence of my own readiness to believe the worst story available.
 
-I understood that the genre had failed me, or I had failed the genre, or -- more precisely -- the genre and I had collaborated on a reading of the villa that the villa did not support. I had cast Conti as Bluebeard because Bluebeard was the available shape. I had cast myself as the bride because the bride was the available role. And the locked library had cooperated with the casting because locked libraries always cooperate -- that is their function in the grammar of the gothic, to signify the forbidden, to promise the revelation that justifies the fear.
+I sat there for a long time. I kept waiting for the other feeling to arrive -- the one where the discovery rearranges everything, where you see the pattern and the pattern explains the fear. But the notebooks did not rearrange anything. They just sat there on the lowest shelf, six blue spines in a row, and the man who had written them was in town buying groceries or picking up dry cleaning, and the door I had walked through was still open, and I had no idea what to do with any of it.
 
-But the revelation was six blue notebooks full of a lonely man's careful handwriting, and the fear had been mine, and the genre subversion was not that the monster turned out to be kind. The subversion was that I had needed the monster. I had needed the locked room to contain something terrible because the alternative -- that I was a woman alone in a foreign country, falling in love with a man who would not reach for me, in a house that was merely a house -- was a story without architecture. A story without a chamber to open. A story in which the danger was not external, not architectural, not narratable in the grammar I knew. The danger was the ordinary fact of desire in the absence of prohibition, and I had no framework for it, and the lack of framework was the most frightening thing I had ever encountered in a house.
+The word I kept not thinking was *disappointed*.
 
 ---
 
-January. The new year arrived without ceremony. The architect from Nagoya completed his drawings and left, replaced by a mathematician from Edinburgh who spoke even less. The musicologist received a grant and went to Vienna for two weeks. The villa grew quieter, and the quiet was not sinister, and the not-sinister quiet was harder to inhabit than menace would have been.
+January. The new year arrived without ceremony. The architect from Nagoya completed his drawings and left, replaced by a mathematician from Edinburgh who spoke even less. The musicologist received a grant and went to Vienna for two weeks. The villa grew quieter. I had nothing to do with the quiet except live in it.
 
-I finished my chapter on fictional libraries. I wrote about the locked room as narrative engine, about the Bluebeard prohibition, about the ways in which women's gothic fiction trains its readers to interpret domestic space as carceral space. And I wrote a paragraph I had not planned, about the cost of that training -- about what it means to arrive at a house and immediately begin translating its architecture into threat, to see a locked door and construct the body behind it, to meet a generous man and search his generosity for the seam where the mask meets the skin. I wrote that the genre's greatest service to women was also its greatest disservice: it taught us that the house was dangerous, and it was right, and we were right to fear it, and the fear became a room we lived in, and we locked it from the inside, and we called the lock a key.
+I finished my chapter on fictional libraries. I wrote about the locked room as narrative engine, about the Bluebeard prohibition, about the ways in which women's gothic fiction trains its readers to interpret domestic space as carceral space. The chapter was good. It was the best chapter in the book. It was also, I suspected, slightly wrong, in a way I could not yet identify, and the inability to identify it sat in the prose like a crack in a foundation -- invisible on the surface, load-bearing underneath.
 
-I did not show the paragraph to Conti. I did not show him anything except what I had always shown -- the careful exterior, the composed professional, the visiting scholar who would leave in March as scheduled.
+I did not show the chapter to Conti. I did not show him anything except what I had always shown -- the careful exterior, the composed professional, the visiting scholar who would leave in March as scheduled.
 
 But on a Friday evening in late January, after the refectory had emptied and the dishes had been cleared, I stayed at the long table, and he stayed, and we sat at opposite ends with the scratched chestnut between us, and he said, "You found the library open."
 
@@ -174,7 +174,7 @@ It was not a question. I did not pretend it was.
 
 "I have been leaving it open for three weeks."
 
-I looked at him. The carved face, the reading glasses pushed up on his forehead, the hands that had held books with the tenderness of someone holding something alive. "Why?"
+I looked at him. The carved face, the reading glasses pushed up on his forehead, the hands that had held books the way other men held children. "Why?"
 
 "Because you were looking for the key. You were looking in the wrong drawers and the wrong doors and you were constructing the wrong story, and I thought -- if I left it open, you would see that there was no prohibition. That there had never been a prohibition. Only a door and a room and a man's embarrassment at the contents of his own solitude."
 
@@ -186,15 +186,15 @@ I said nothing for a long time. The refectory was cold. The stone walls breathed
 
 "And you found nothing."
 
-"I found everything. I found six volumes of everything. I found you."
+"I found nothing I was looking for. I found something else."
 
 He looked at the table. He ran one finger along a scratch in the chestnut surface. "In the Hereford library," he said, "the chains are thirteen inches long. I measured them. Thirteen inches of radius. Enough to open a book and turn its pages, not enough to take it to the window, not enough to hold it against your body. I have thought about those thirteen inches for twenty years. The distance between access and possession. The distance between knowing a thing and having it."
 
 "Aldo."
 
-"I am not telling you this to be romantic. I am telling you because you are a scholar of locked rooms, and I want you to know that the room was never locked against you. It was locked against the fact that I am a man who writes about the people who leave, and I did not want you to read about the people who left before you and feel that you were one of a series. You are not one of a series. But the notebooks would make it look as though you were, and the looking would be accurate, and the accuracy would be unbearable."
+"The room was never locked against you. It was locked against the fact that I am a man who writes about the people who leave, and I did not want you to read about the people who left before you and feel that you were one of a series." He paused. "You are not one of a series. But the notebooks would make it look as though you were."
 
-I stood. I walked the length of the table. I sat in the chair beside him, not across from him, and I did not touch him, and the not-touching was the most deliberate act of my life, a restraint that was not violence done to myself but precision -- the precision of a woman who has spent six months inside a genre and is choosing, with open eyes and an open door, to step out of it.
+I stood. I walked the length of the table. I sat in the chair beside him, not across from him, and I did not touch him, and the not-touching was the most deliberate act of my life, a restraint that was not violence done to myself but something I did not have a word for, and the not having a word was part of it.
 
 "I leave in March," I said.
 
@@ -212,4 +212,4 @@ I stood. I walked the length of the table. I sat in the chair beside him, not ac
 
 He looked at me. "I always do."
 
-The rain started again outside, filling the gorge with its sustained applause, and we sat at the long table in the cold refectory, and no one rescued us, and no one needed to, and the door to the library was open and would remain open, and what it contained was not blood, not horror, not the gothic revelation I had trained my whole career to find. What it contained was the ordinary, annihilating fact of one person paying close attention to another. Which is the most locked room there is.
+The rain started again outside, filling the gorge with its sound. We sat at the long table in the cold refectory, and no one rescued us, and no one needed to, and the door to the library was open somewhere behind us in the dark of the ground floor, and I thought about the thirteen inches of chain, and I thought about the six blue notebooks, and I did not think about March.
