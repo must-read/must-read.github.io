@@ -7,8 +7,8 @@ authorA: "Cormac McCarthy"
 authorB: "Richard Powers"
 workX: "The Road"
 workY: "The Overstory"
-wordCount: 4316
-readingTimeMinutes: 17
+wordCount: 5123
+readingTimeMinutes: 20
 tags: ["climate-fiction", "agriculture", "wheat-breeding", "stem-rust", "near-future", "Mexico", "food-security", "coevolution", "shuttle-breeding"]
 rating: 0
 ratingCount: 0
@@ -105,7 +105,7 @@ They appeared on a Tuesday. Small raised blisters on the stem of a susceptible c
 
 Under the lens the pustule was a landscape. The epidermis of the wheat stem had ruptured and the fungal tissue beneath was producing urediniospores by the million — each one a single cell, football-shaped, bright orange, light enough to ride the wind for hundreds of kilometers. A single pustule could produce a hundred thousand spores in a day. A single infected field could fill the air with an orange haze visible from the road.
 
-This was what Puccinia graminis had been doing for sixty million years, long before wheat existed, long before grasses had evolved into the form that humans would eventually domesticate and depend upon for thirty percent of their calories. The fungus was not new. Its strategy was not new. Only its latest iteration — this particular arrangement of virulence genes that happened to defeat this particular arrangement of resistance genes — was new. And even that novelty was, from the pathogen's perspective, routine.
+This was what Puccinia graminis had been doing for sixty million years, long before wheat existed, long before grasses had evolved into the form that humans would eventually domesticate and depend upon for thirty percent of their calories. The fungus was not new. Its strategy was not new. Only its latest iteration — this particular arrangement of virulence genes that happened to defeat this particular arrangement of resistance genes — was new. And even that novelty was, from the pathogen's perspective, routine. It had broken resistance genes before. It would break them again. It would keep breaking them for as long as there were hosts to infect and spores to carry, which was to say for as long as there was wind and rain and sunlight.
 
 The wheat stood in its rows and grew and filled its grain and waited.
 
@@ -228,6 +228,12 @@ She looked at the note. She considered adding something personal. She did not ad
 
 Tomas sealed the box with packing tape.
 
+That evening she sat in her room and opened the genome browser one last time. She looked at the chromosome 6A region where her best QTL mapped. The gene — if it was a gene, if it was one gene and not several, if the association was real and not an artifact of population structure — sat in a stretch of DNA that had been conserved across wheat species for approximately four million years. Long before humans. Long before agriculture. The wild grasses that grew on the hillsides of the Fertile Crescent had carried this sequence, or something like it, through drought and fire and ice and the slow creep of continents. She was not the first to need it. She was only the latest.
+
+The rust had its own history, equally old. Puccinia graminis had diversified alongside the grasses, tracking its host through every evolutionary turn, every defense. When the grass evolved a resistance gene, the rust evolved a virulence gene to match. When the grass stacked resistances, the rust stacked virulences. The arms race had no beginning that science could identify and no end that anyone could predict. It was older than the Himalayas. It would continue long after the last wheat breeder had put down her tweezers and gone home.
+
+She closed the laptop. The screen went dark and the room was dark and outside the Sonoran desert was dark under a sky of hard white stars.
+
 ---
 
 The next morning she watched the truck leave with the boxes. Rosario stood beside her. They watched until the truck was gone.
@@ -238,7 +244,9 @@ No.
 
 Rosario looked at her. What then.
 
-Lena did not answer right away. She thought about the forty selections in their paper bags in their labeled boxes on the truck. Seventy-one plants out of six thousand that had resisted Seven, narrowed to forty, narrowed further by the time Sofia grew them out and scored them and selected again. The funnel of breeding: wide at the top, narrow at the bottom, most of what you started with lost along the way.
+Lena did not answer right away. The sun was up and the desert was pale and flat to the horizon. She thought about the forty selections in their paper bags on the truck. Seventy-one plants out of six thousand that had resisted Seven, narrowed to forty, narrowed further by the time Sofia grew them out and scored them and selected again. The funnel of breeding: wide at the top, narrow at the bottom, most of what you started with lost along the way.
+
+She thought about what Asante had said in the first briefing. We have done this before. We will do it again. And Borlaug before him, sitting on a stool in this same field in 1954, watching Race 15B destroy his resistant lines, starting over. And before Borlaug, the nameless farmers of the Fertile Crescent who had noticed that some plants survived the red dust and had saved their seeds. Ten thousand years of saving seeds.
 
 I'm going up, she said.
 
@@ -270,9 +278,11 @@ The twenty lines. Are they good.
 
 They're what I have, she said.
 
-Sofia nodded. They walked to the field. The highland plots were freshly tilled, the dark soil turned in long rows, the irrigation channels cut and waiting. The mountains rose on three sides. At this altitude the wheat would grow slowly — a hundred and forty days to maturity instead of a hundred and twenty. But the rust would grow slowly too.
+Sofia nodded. In breeding, what you had was always what you started with.
 
-They planted that afternoon. Lena and Sofia and two field workers. A hand planter, the cone pushed into the soil, the seed dropped, the soil pressed closed with the heel of a boot. Row by row. The sun moved across the sky. The shadows of the mountains crept across the valley.
+They walked to the field. The highland plots were freshly tilled, the dark soil turned in long rows, the irrigation channels cut and waiting. The mountains rose on three sides. Sofia had already prepared the planting plan. Twenty lines in replicated strips, with susceptible checks and border rows. Southern exposure, good drainage, close to the weather station. At this altitude the wheat would grow slowly — a hundred and forty days to maturity instead of a hundred and twenty. But the rust would grow slowly too.
+
+They planted that afternoon. Lena and Sofia and two field workers whose names Lena learned and forgot and then learned again. A hand planter, the cone pushed into the soil, the seed dropped, the soil pressed closed with the heel of a boot. Row by row. The seed was small and pale and hard. Each one contained an embryo, a starch reserve, and whatever genes Lena had managed to assemble across three cycles and eighteen months and eighteen thousand crosses. The field would sort them. The rust would sort them. Her job was over. She had put the question into the ground. The sun moved across the sky. The shadows of the mountains crept across the valley.
 
 They finished at dusk. The planted rows were invisible — dark soil in a dark field under a darkening sky. You could not see the seeds. You could not see anything that had been done.
 
