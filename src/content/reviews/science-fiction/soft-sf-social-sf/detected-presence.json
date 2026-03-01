@@ -1,0 +1,68 @@
+{
+  "workSlug": "detected-presence",
+  "reviews": [
+    {
+      "personaId": "sf-001-tunde",
+      "rating": 4,
+      "text": "The worldbuilding here is deceptively quiet. No megastructures, no alien skylines -- just a windowless room, a plastic chair, and a CO2 sensor. But the institutional architecture around Lem is precisely rendered: the Workforce Transition Program, the certification modules, the bureaucratic memo with its three options that each erase something different. The line about competence being devalued like a currency hit me harder than most space operas manage in 400 pages. I wanted more from Andrea -- she felt like she was on the edge of being a full character but the story kept pulling back to Lem's interiority.",
+      "date": "2026-01-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-002-helen",
+      "rating": 5,
+      "text": "Oh, this one stayed with me. That final image -- Lem locking the door behind him even though there's nothing inside worth protecting -- is doing so much emotional work without announcing itself. The whole story reads like a quiet elegy for a kind of knowing that algorithms can replicate but not understand. And that exam question about \"validated presence\" is devastating in its absurdity. I've been teaching for thirty years and I know exactly what it feels like to be told the right answer to a question that doesn't have one. The prose trusts you to feel what Lem can't articulate, and I appreciated being trusted that way.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-003-dmitri",
+      "rating": 3,
+      "text": "The 0.3% efficiency gain from human presence is presented as an accepted phenomenon that nobody can explain, which is fine as a premise, but the story never even attempts a mechanistic hypothesis. Stochastic gradient optimization doesn't work the way it's described here -- the algorithm wouldn't \"linger\" on configurations because a CO2 sensor registers someone. The story is clearly more interested in the emotional question than the technical one, which is valid but left me impatient. The Pollard footnote about the 0.00% differential was the best detail -- mathematically precise and genuinely unsettling.",
+      "date": "2025-12-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-004-amara",
+      "rating": 3,
+      "text": "This story is most interesting when read as a labor narrative rather than an AI-consciousness parable. The Workforce Transition Program, the retraining center in a repurposed mall, the memo that reduces Lem to three options -- this is a precise rendering of how institutions process human obsolescence through the language of opportunity. What I found less convincing is the story's refusal to examine who benefits from the arrangement. Lem is cost-effective at $4.2 million in savings, but the story treats this as wry detail rather than the extractive core of the entire system. The emotional bond with Grid 9 is tender but risks romanticizing a fundamentally exploitative structure.",
+      "date": "2025-11-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-005-jin",
+      "rating": 4,
+      "text": "There's something formally interesting happening here that I haven't seen done quite this way. The story performs its own premise -- you, the reader, are doing exactly what Lem does. You're sitting with something (the text), watching it work, unable to intervene, and something shifts in the watching itself. The moment when Grid 9 displays its optimization pathway felt genuinely surprising, like a breach of protocol inside the narrative. I keep thinking about the distinction between reading the numbers and watching the numbers. That's a real insight about attention, not just a metaphor for it.",
+      "date": "2026-02-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-006-claire",
+      "rating": 4,
+      "text": "The retraining center details are so good -- the ghost of Cinnabon, the parking garage still charging $2.50 with no enforcement mechanism, the stock footage loop that looks like a pharmaceutical ad. These aren't decoration; they build the world through specific institutional rot. And Pettis getting a warehouse job managed by the same algorithm that replaced him is a throwaway line that could be its own story. My only complaint is the pacing sags slightly in the middle when Lem is just sitting and watching. I get that the monotony is the point, but it still reads as slow.",
+      "date": "2025-09-17",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-007-rowan",
+      "rating": 5,
+      "text": "I'm going to be recommending this to everyone who asks me for SF that isn't about explosions. The central question -- what does it mean to be needed by something that can't confirm it needs you -- is handled with extraordinary restraint. Lem never gets his answer. Grid 9 never speaks. The story refuses the catharsis of mutual recognition, and that refusal is what makes it feel true. The ending, with the access logs purged and the question of whether Lem kept returning left permanently open, is one of the best I've read this year. It honors the ambiguity instead of resolving it.",
+      "date": "2026-01-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-008-derek",
+      "rating": 3,
+      "text": "Solid writing but not much happens. Guy sits in a room, watches numbers, gets attached to the system, system gets replaced, he sits in the empty room. The exam questions were funny and the institutional stuff felt real, but I kept waiting for something to escalate beyond the slow accumulation of small moments. The Pollard footnote was a nice touch. Would've liked more from the Grid 9 side of things.",
+      "date": "2025-08-29",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-010-kwesi",
+      "rating": 3,
+      "text": "The \"recursive self-evaluation\" loop is a clever conceit but the story leans hard on ambiguity as a substitute for actually committing to what Grid 9 is. Either it has some form of awareness or it doesn't -- the constant \"or maybe it's just a buffer overflow\" hedging felt like the story protecting itself from being falsifiable. That said, the line about competence devalued like currency and the description of the algorithm's \"gait\" were genuinely good. Clean prose throughout.",
+      "date": "2026-02-05",
+      "helpfulCount": 0
+    }
+  ]
+}
