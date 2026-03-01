@@ -7,8 +7,8 @@ authorA: "Ernest Hemingway"
 authorB: "Marilynne Robinson"
 workX: "In Our Time by Ernest Hemingway"
 workY: "Housekeeping by Marilynne Robinson"
-wordCount: 3169
-readingTimeMinutes: 13
+wordCount: 2909
+readingTimeMinutes: 12
 tags:
   - minimalist
   - sisters
@@ -73,7 +73,7 @@ The house is mine now. I should say that. It was our grandmother's and then our 
 
 It is a frame house, two stories, white clapboard, built in 1931 by a man named Ault who worked for the railroad. Our grandmother bought it from his widow. The kitchen faces west. There is a porch across the front and a smaller one in back that looks toward the river, which you cannot see from the house but can hear when the water is high. In spring the sound is constant, like a second weather.
 
-I have lived here alone for eleven years. I know which boards creak. I know that the upstairs hallway is three degrees colder than the rest of the house in winter and that the draft comes from the window at the end, which has never sealed properly, and that the draft smells of pine because of the tree outside that window, a ponderosa that was here before the house and will be here after. I know the light. How it enters the kitchen at seven in the morning in October, low and amber, and how it moves across the floor through the day, and how by four o'clock it reaches the wall above the stove and turns the white plaster the color of honey, and how this is beautiful, and how I have seen it so many times that I must remind myself to see it, and how the effort of reminding myself is itself a kind of prayer, though I would not say that to anyone.
+I have lived here alone for eleven years. I know which boards creak. I know that the upstairs hallway is three degrees colder than the rest of the house in winter and that the draft comes from the window at the end, which has never sealed properly, and that the draft smells of pine because of the tree outside that window, a ponderosa that was here before the house and will be here after. I know the light. How it enters the kitchen at seven in the morning in October, low and amber. How it moves across the floor through the day. How by four o'clock it reaches the wall above the stove and turns the white plaster the color of honey. I have seen it so many times that I must remind myself to see it, and the effort of reminding myself is its own discipline, though I would not say that to anyone.
 
 Nora does not know these things. She has not been in the house for three years. Before that she came once or twice a year, briefly, sleeping in her old room upstairs where I keep boxes now, moving the boxes to make room for her bag and then putting them back when she left, the room returning to its function as storage, which is what rooms become when the person who lived in them stops living in them but you cannot bring yourself to call them something else.
 
@@ -103,7 +103,7 @@ I set the plates. Roast chicken, potatoes, green beans from the garden. The gard
 
 "It's good chicken."
 
-We drank wine. Nora had brought a bottle from somewhere — she set it on the table without ceremony, the way you produce something you carried a long way but do not want to make a ceremony of. It was a red from Argentina. I do not know wine but it tasted warm and a little rough, like the country she described when she talked about Belize, the heat and the salt and the sense of being far enough away from everything that the distance itself became a kind of home.
+We drank wine. Nora had brought a bottle from somewhere — she set it on the table without ceremony. It was a red from Argentina. It tasted warm and a little rough.
 
 "Do you still do the garden," she said.
 
@@ -119,7 +119,7 @@ We drank wine. Nora had brought a bottle from somewhere — she set it on the ta
 
 Nora looked at me. I had said something true and we both heard it and neither of us said anything about it for a while.
 
-After dinner she washed the dishes without asking. I dried. We stood at the sink and the window above it was dark and I could see our reflections in it — two women side by side, our hands in the same water, and between our reflections the dark yard and beyond it the darker shapes of the cottonwoods and beyond them nothing visible, only the sound of the river, faint, persistent, like a fact you can't see but can't stop knowing.
+After dinner she washed the dishes without asking. I dried. We stood at the sink and the window above it was dark and I could see our reflections in it — two women side by side, our hands in the same water, and between our reflections the dark yard and beyond it the darker shapes of the cottonwoods and beyond them nothing visible, only the sound of the river, faint, persistent, like a fact you can't stop knowing.
 
 ---
 
@@ -141,11 +141,11 @@ I sat beside her. The step was cold through my jeans. I could feel the wood grai
 
 We drank our coffee. A magpie landed in the yard, its black-and-white markings sharp against the frosted grass. It walked with the precise, mechanical stride magpies have, as though it were counting its steps. It found something — a seed, a frozen insect — and took it and flew. Its departure was the only event in the yard for a long time.
 
-I went inside to refill my cup and when I came back Nora had moved to the bottom step, closer to the yard, her feet in the frosted grass. She did not seem to mind the cold. She had always been like that — willing to be uncomfortable in a way that I found both admirable and baffling, as though comfort were a compromise she could not afford.
+I went inside to refill my cup and when I came back Nora had moved to the bottom step, closer to the yard, her feet in the frosted grass. She did not seem to mind the cold. She had always been like that — willing to be uncomfortable in ways I found both admirable and irritating.
 
 "Do you remember the year the river flooded," Nora said.
 
-I remembered. I was fourteen and she was twelve. The water came up the back yard to the fence line. Our mother stood at this window, this same window behind us, and watched the water rise the way you watch something you cannot influence — not with fear exactly but with a quality of attention that was deeper than fear, that was almost reverence. The water came to the fence and stopped. It stayed there for two days. We could hear it at night, lapping against the fence posts, and in the morning when I looked out my bedroom window the yard was a lake, brown and still, and the fence posts were standing in it like the pilings of a dock that led nowhere.
+I remembered. I was fourteen and she was twelve. The water came up the back yard to the fence line. Our mother stood at this window, this same window behind us, and watched the water rise the way you watch something you cannot influence — not with fear exactly but with attention so complete it looked like calm. The water came to the fence and stopped. It stayed there for two days. We could hear it at night, lapping against the fence posts, and in the morning when I looked out my bedroom window the yard was a lake, brown and still, and the fence posts were standing in it like the pilings of a dock that led nowhere.
 
 "She didn't sandbag," Nora said.
 
@@ -159,7 +159,7 @@ Nora laughed. It was a short sound, almost dry. "She trusted the fence. That's o
 
 I did not say what I was thinking, which is that our mother did not trust the fence. Our mother understood that the water would do what the water would do and that sandbags were a negotiation she was not interested in conducting. She lived in this house the way she lived in her body — with acceptance that was not passivity but something fiercer, a refusal to pretend that the walls she lived inside were stronger than the world outside them.
 
-Nora left because she inherited this understanding without inheriting the willingness to stay. I stayed because I inherited the willingness without, perhaps, the understanding.
+Nora left because she inherited this understanding without inheriting the willingness to stay. I stayed because I inherited the willingness without the understanding.
 
 ---
 
@@ -167,7 +167,7 @@ Nora left because she inherited this understanding without inheriting the willin
 
 We walked to the river that afternoon. The path goes through the cottonwoods along the south bank, following an irrigation ditch that has been dry for years, its channel soft with leaves and silt. Nora walked ahead of me. She has always walked faster than I do. Even as a child she was ahead, moving through the world as though trying to keep pace with something I could not see.
 
-The river was low. October low. You could see the rocks that are underwater in spring — dark, rounded, patient. They looked like they had been waiting for this. The water moved over them with a sound like something being said in a room you cannot quite enter. The far bank was sandy and there were tracks in it — deer, raccoon, the rounded prints of a dog or maybe a coyote. Nora crouched at the edge and put her hand in the water.
+The river was low. October low. You could see the rocks that are underwater in spring — dark, rounded, patient. The water moved over them with a sound like something being said in a room you cannot quite enter. The far bank was sandy and there were tracks in it — deer, raccoon, the rounded prints of a dog or maybe a coyote. Nora crouched at the edge and put her hand in the water.
 
 "Cold," she said.
 
@@ -175,9 +175,9 @@ The river was low. October low. You could see the rocks that are underwater in s
 
 "I know when it is."
 
-She stood and dried her hand on her jeans and looked upstream. The river came around a bend there, through a corridor of trees that had turned gold, and the light came through the trees and lay on the water in shifting patterns that resembled nothing and meant nothing and were beautiful. I wanted to describe it. I wanted to find the sentence that would hold the light on the water and the gold of the trees and the way the current moved, patient and indifferent, over rocks it had been moving over for ten thousand years. But there is no sentence for it. There is only the light, and the attention you bring to it, and the knowledge that the light does not require your attention in order to exist, that it was here before you arrived and will be here after you leave, and that this is either a comfort or a reproach and you must decide which.
+She stood and dried her hand on her jeans and looked upstream. The river came around a bend there, through a corridor of trees that had turned gold, and the light came through the trees and lay on the water in shifting patterns that resembled nothing and meant nothing and were beautiful.
 
-Nora stood in it. She looked, for a moment, like someone who belonged exactly where she was, and that was painful because she did not belong here, she had chosen not to, and the fact that the light did not know this — that it fell on her the same way it fell on the rocks and the water and the deer tracks in the sand — was either a kindness or an indifference and I could not tell which.
+Nora stood in it. She looked, for a moment, like someone who belonged exactly where she was, and that was painful because she did not belong here, she had chosen not to, and the light did not know this — it fell on her the same way it fell on the rocks and the water and the deer tracks in the sand.
 
 "I'm selling my half," she said.
 
@@ -197,7 +197,7 @@ She looked at me. "Can you afford it?"
 
 "I'll do it."
 
-She nodded. She looked at the river. The light was moving on it and she watched the light the way our mother had watched the floodwater — with that quality of attention that is beyond fear, that is almost something else.
+She nodded. She looked at the river.
 
 "I'm not angry," she said.
 
@@ -209,9 +209,7 @@ She nodded. She looked at the river. The light was moving on it and she watched 
 
 I did not understand. Or rather, I understood the words. What I did not understand was how a house could feel like held breath to someone. To me the house was the breathing itself — the rhythm of the days inside it, the way the light moved, the sound of the river in spring, the draft from the window that smelled of pine. These things were not constraints. They were the texture of being alive in a particular place, which is the only way I know how to be alive.
 
-But Nora was different. Nora had always been different. She needed the world to be large, and a house makes the world small, and she could not live inside that smallness without feeling that she was disappearing.
-
-Neither of us was wrong. That is the part I have not yet learned how to live with.
+But Nora needed the world to be large, and a house makes the world small, and she could not live inside that smallness without feeling that she was disappearing. I can say this plainly. I have had eleven years to arrive at it. What I cannot say is whether her disappearing would have been worse than mine, which is the slow kind, the kind that happens when you know a place so well that the place and you become the same thing and you can no longer tell where one ends and the other starts.
 
 ---
 
@@ -219,9 +217,9 @@ Neither of us was wrong. That is the part I have not yet learned how to live wit
 
 Her last morning. She packed her bag while I made eggs. The sound of the zipper upstairs, then her footsteps in the hallway, then the creak of the third stair from the bottom, which has creaked my whole life, which I would fix except that fixing it would remove a sound I have come to depend on the way you depend on a heartbeat — not by listening for it but by knowing it is there.
 
-She came into the kitchen and sat at the table and we did not talk for a while. I cracked the eggs and the sound of them in the pan was the only sound. Outside the window the cottonwoods were still. No wind. The kind of morning that is so quiet it feels like the world is deciding something.
+She came into the kitchen and set her bag by the door and sat at the table. The bag looked the same as when she had carried it up the steps three days ago. I did not think she had unpacked it fully. I cracked the eggs and the sound of them in the pan was the only sound. Outside the window the cottonwoods were still. No wind.
 
-I set the plate in front of her. She ate. She looked out the kitchen window. The light was doing its October thing, low and amber, moving across the floor.
+I set the plate in front of her. She ate. She looked out the kitchen window at the yard.
 
 "The light's good in here," she said.
 
@@ -231,7 +229,7 @@ I set the plate in front of her. She ate. She looked out the kitchen window. The
 
 "Yes."
 
-She put her plate in the sink. She stood there a moment. I could see her face in the window and her face was not sad exactly but it was the face of someone looking at something for the last time and trying to hold it, and the trying was the sadness, because you cannot hold light, and you cannot hold a kitchen, and you cannot hold the particular silence of a house in the morning before the day has started, and the attempt to hold these things is what makes them already gone.
+She put her plate in the sink. She stood there a moment with her back to me. I did not try to read her posture. There are things you learn not to interpret about the people who have known you longest.
 
 She turned around.
 
@@ -243,7 +241,7 @@ She turned around.
 
 "Thank you."
 
-She picked up her bag. I walked her to the truck. The cottonwoods were shedding. Leaves came down around us, slow and deliberate, the way things fall when there is no wind — straight, following gravity, each leaf choosing its own path to the ground, though of course they are not choosing, they are only falling, and the appearance of choice is something we put on them because we need to believe that even the smallest departures are voluntary.
+She picked up her bag. I walked her to the truck. The cottonwoods were shedding. Leaves came down around us, slow and deliberate, the way things fall when there is no wind — straight, following gravity, each leaf on its own path to the ground.
 
 Nora put her bag in the cab. She stood by the driver's door and looked at me.
 
@@ -259,8 +257,6 @@ She would send an address. She always sent an address and I never went. She knew
 
 She hugged me. Her arms were thin and strong and she held on for a moment longer than she usually does, which was still not very long. Then she let go and got in the truck. The engine started. She backed down the drive and turned onto the road and I watched the truck go down the valley, smaller, smaller, until it rounded the curve by the Halderman place and was gone. The sound of it lasted a little longer. Then that was gone too.
 
-I went back inside. The kitchen was the same kitchen. The light had moved while I was outside — it was on the stove wall now, the honey color, and the house was quiet in the way it is always quiet after someone leaves, which is different from the quiet of being alone. The quiet of being alone is neutral. The quiet after someone leaves has a shape. It is the shape of the person who was here, pressed into the silence the way a body pressed into snow leaves a hollow that holds, for a few hours, the exact outline of what is no longer there.
+I went back inside. The kitchen was the same kitchen. The light had moved while I was outside — it was on the stove wall now, the honey color. The house was quiet but it was not a different quiet. I had expected something — a new shape to the silence, the rooms rearranged by her absence. But the rooms were the same rooms. The plates were in the sink where she had left them. The chair she had sat in was pushed back from the table at an angle that was not the angle I would have left it.
 
-I washed the breakfast dishes. I dried them. I put them away. I stood at the window and looked at the yard where Nora's truck had been. The grass was pressed down where the tires had been. It would come back. Grass does that.
-
-The draft from the upstairs window moved through the house, carrying the smell of pine, and I let it move through me the same way I let the light move across the floor — without resistance, without reaching for it, with only the willingness to be in its path while it passed.
+I did not push it back. I washed the plates. I dried them and put them away. Then I went upstairs and stood in the doorway of her old room. The boxes were where she had moved them. The bed was made. On the windowsill she had left a small stone, gray and smooth, the kind you pick up on a riverbank without thinking. I did not know when she had put it there. I did not know if she had meant to leave it or had simply forgotten it, and I understood that I would never ask, and that the stone would stay on the windowsill for years, and that I would see it every time I came into this room, and that I would never move it, and that this was not a decision but the absence of one, which is how most of the way I live in this house works.
