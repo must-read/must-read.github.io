@@ -7,7 +7,7 @@ authorA: "Dorothy M. Johnson"
 authorB: "Oakley Hall"
 workX: "Little Big Man"
 workY: "Killers of the Flower Moon"
-wordCount: 8885
+wordCount: 9006
 readingTimeMinutes: 36
 tags:
   - osage
