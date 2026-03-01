@@ -7,8 +7,8 @@ authorA: "Hilary Mantel"
 authorB: "Kazuo Ishiguro"
 workX: "The Master and Margarita by Mikhail Bulgakov"
 workY: "An Artist of the Floating World by Kazuo Ishiguro"
-wordCount: 5525
-readingTimeMinutes: 22
+wordCount: 5044
+readingTimeMinutes: 20
 tags: ["Renaissance", "Venice", "Murano", "glassmaking", "moral compromise", "artisan", "complicity", "apprentice", "weapons", "craft"]
 rating: 0
 ratingCount: 0
@@ -59,7 +59,7 @@ The Arsenale commission erased the debt and left a surplus. That surplus bought 
 
 There was also the matter of Luca's mother. Caterina lives in two rooms on the Calle dei Botteri, maintaining a household on the widow's portion the guild provides, which is insufficient. Bardolino supplements it from his own account — has done so since Tommaso died. When the Arsenale money came, the supplement doubled. Caterina did not ask why. She is a practical woman who understands that questions about money tend to reduce the supply of it. She thanked him in the formal manner of someone conducting a transaction, not receiving charity, and he appreciated the distinction. It allowed him to believe the payment was for Luca's labor, which it partly was, and for the debt he owed Tommaso's memory, which it partly was, and for the silence about the locked room, which it entirely was, though neither of them would name it.
 
-He visited her once in February, bringing a crate of the Contarini goblets that had come out slightly off-color — saleable, but not to the Contarini. She served him wine in one of Tommaso's glasses, a simple cylinder with a thread of blue spiraling up from the base, and they sat in her cold kitchen and talked about Luca's progress. He is ready for his journeyman piece, Bardolino told her. Perhaps by summer. Caterina nodded and looked at the wall. On the shelf behind her, three millefiori plates that Tommaso had made, catching the afternoon light from the window, throwing small colored shadows on the plaster.
+He visited her once in February, bringing a crate of the Contarini goblets that had come out slightly off-color — saleable, but not to the Contarini. She served him wine in one of Tommaso's glasses, a simple cylinder with a thread of blue spiraling up from the base. They sat in her cold kitchen and talked about Luca's progress. He is ready for his journeyman piece, Bardolino told her. Perhaps by summer. Caterina nodded and looked at the wall.
 
 She said, "He doesn't speak about his father."
 
@@ -75,7 +75,7 @@ Bardolino waited.
 
 "I don't want to know what they are," Caterina said. "I want you to understand that. I don't want to know."
 
-He understood. It was the same grammar he used with himself — the deliberate construction of not-knowing, which is different from ignorance in the way that a locked door is different from a wall. A wall has no keyhole. A locked door reminds you, every time you pass it, that there is something on the other side.
+He understood. It was the same grammar he used with himself — the deliberate construction of not-knowing, which is different from ignorance the way a locked door is different from a wall.
 
 ---
 
@@ -129,7 +129,7 @@ Bardolino lifts the lens from the lap and wipes it with a chamois cloth. The sur
 
 "That's not a reading stone."
 
-The room is quiet except for the furnace below, which breathes and ticks. Bardolino sets the lens down on the cloth. He does not know what to say that would not be a lie, and he finds that he is tired of the particular kind of speech that is not quite lying — the arrangement of true facts into a shape that conceals the one fact that matters.
+The room is quiet except for the furnace below, which breathes and ticks. Bardolino sets the lens down on the cloth. He finds that he is tired of the particular kind of speech that is not quite lying — the arrangement of true facts into a shape that conceals.
 
 "No," he says. "It's not."
 
@@ -173,11 +173,53 @@ Bardolino's uncle, who taught him, used to say that a glassmaker's hands were hi
 
 Bardolino has never tried to leave. The furnace is here. The sand comes here. The water of the lagoon is the right temperature for cooling. Everything a glassmaker needs is on this island, and everything a glassmaker is not permitted to need is somewhere else.
 
-His wife, Agnese, died eight years ago of a fever that moved through the island in a single week, taking her and four other women and a child. He has not remarried. He lives above the workshop. He eats at the tavern near the fondamenta where the boatmen drink, and sometimes a traveler passing through will have a story worth hearing — a Genoese merchant describing the salt pans of Ibiza, a sailor who claims to have seen the coast of Africa, a Franciscan who spent three years in the Levant and speaks of a festival in a far country where monks sculpt entire scenes from butter and light them with a thousand wicks, so that the temple glows like a furnace made of fat, and the sculptures melt as they burn, beauty consuming itself in the act of illumination.
+His wife, Agnese, died eight years ago of a fever that moved through the island in a single week, taking her and four other women and a child. He has not remarried. He lives above the workshop. He eats at the tavern near the fondamenta where the boatmen drink, and sometimes a traveler passing through will have a story worth hearing — a Genoese merchant describing the salt pans of Ibiza, a sailor who claims to have seen the coast of Africa, a Franciscan who spent three years in the Levant and speaks of a festival where monks sculpt entire scenes from butter and light them with a thousand wicks, so that the temple glows like a furnace made of fat, and the sculptures melt as they burn.
 
-Bardolino thinks about this story more than he should. He returns to it at night, lying on his cot above the workshop, listening to the furnace tick as it cools. The image lodges: artisans who make beautiful things from a substance that destroys itself as it serves its purpose. The butter becomes light and then becomes nothing. It persists for an evening, maybe less, and then it's gone, and the monks make new ones the next year.
+Bardolino thinks about this story more than he should. He returns to it at night, lying on his cot above the workshop, listening to the furnace tick as it cools. The image lodges: artisans who make beautiful things from a substance that destroys itself. The butter becomes light and then becomes nothing.
 
-Glass is not butter. Glass persists. What Bardolino makes will outlast him. The goblets will sit on shelves for a hundred years. The reading stones will pass from hand to hand. And the lenses — the lenses will do whatever they were designed to do, and then they will sit in their brass housings and wait to do it again, and there is nothing he can do to unmake them, because glass does not forget its shape.
+Glass is not butter. What Bardolino makes will outlast him, and there is nothing he can do to unmake it, because glass does not forget its shape.
+
+---
+
+He thinks, sometimes, about Tommaso. Luca's father. Who had been his friend, or something adjacent to friendship — two men who understood the same material, who could discuss a color additive or a kiln temperature with the intimacy other men reserve for women or for God. Tommaso had been the better artist. Bardolino has never denied this to himself. Tommaso's millefiori work was exceptional — not the standard flowers and rosettes but complex geometric patterns that seemed to shift and recombine as you turned the piece in the light, as though the glass contained more dimensions than the three it occupied. People came from the mainland to buy his millefiori. A cardinal in Rome had one on his writing desk.
+
+When the commission came — not this commission, an earlier one, years ago, for something Bardolino was never told the exact nature of — Tommaso refused. He refused not loudly, not with the dramatic gesture that stories require, but with the quiet stubbornness of a man who has done his calculation and found the answer unacceptable. He stopped working. He banked his furnace, covered his crucibles, sent his apprentice home. He sat in his cold workshop for three days, and on the fourth day the Council's men came and took him away, and his property was confiscated, and his name was struck from the guild register, and within a year he was dead of a fever contracted in the prison on San Servolo, though there were those on the island who said the fever had help.
+
+Bardolino took Luca in the month after Tommaso's death. The boy was twelve, skinny, mute with grief. He had Tommaso's hands and Tommaso's eye for color and a watchfulness that Bardolino initially attributed to trauma and later understood was simply the boy's nature — he watched everything, said little, learned fast.
+
+He has tried, over the years, to identify the moment when taking Luca in became something other than kindness. There must have been a calculation: Tommaso's son, trained by Tommaso's friend, carrying forward a skill that might otherwise be lost. A gesture that was also an investment. A gift that was also a recruitment. He is not proud of this ambiguity, but he is honest enough — in this one area, if no other — to acknowledge it exists.
+
+And now the boy stands at his blowing station and makes goblets of startling clarity, and somewhere above him, behind a locked door, Bardolino grinds lenses for the same state that killed his father.
+
+What Bardolino remembers most about Tommaso — what he prefers to remember, which is not the same thing — is an afternoon in the summer before the commission, before everything. They were working in Tommaso's shop, not Bardolino's. Tommaso was teaching him a technique for embedding gold leaf between layers of clear glass, a process that required four hands and absolute coordination — one man holding the pipe, the other laying the leaf at the precise moment the glass was soft enough to accept it but not so soft that the gold would dissolve. They failed six times. On the seventh attempt, the gold caught, and through the glass it looked as though someone had trapped a piece of sunlight inside a bubble of water.
+
+Tommaso held it up and laughed. "Nobody will buy this," he said. "It's worthless. There's no market for trapped sunlight."
+
+They drank wine and let the piece cool in the annealing oven and talked about nothing consequential — an argument Tommaso was having with a paint supplier, a rumor about a new tax on soda ash, the particular qualities of a batch of sand from Istria that Bardolino had been experimenting with. The conversation had the loose, unforced quality of two men who were doing precisely what they were meant to do, in the place they were meant to do it, with no commission from the state to distort the geometry of the afternoon.
+
+Bardolino still has the gold-leaf piece. It sits on a shelf in the upstairs room, next to the locked cabinet. He has never moved it.
+
+---
+
+In September, the charcoal delivery fails. The supplier in Treviso sends word that his kilns have been damaged by a storm and the next shipment will be delayed a week, possibly two. Bardolino banks the furnace to its lowest sustainable temperature and calculates how long the remaining fuel will last. Three days, perhaps four if he cancels the Contarini order and works only the annealing oven.
+
+On the second day of the shortage, he comes down to the workshop at his usual hour and finds it cold. Not cool — cold. The furnace has drawn down to a dull red, barely alive, producing a heat that wouldn't soften lead, let alone silica. The workshop smells different: stone and damp instead of the mineral sharpness of hot glass. His tools hang on the wall, cold to the touch.
+
+He stands in the center of the room. The crucible is dark. The annealing oven is dark. The blowing station is a cold iron pipe on a cold iron stand. He puts his hand on the furnace wall and feels — not heat, but the memory of heat, a faint warmth that is leaving.
+
+He thinks this might be what Tommaso chose. Not refusal as a principle. Silence. The dark furnace. But he isn't sure. He never asked Tommaso, and what he imagines now may be nothing more than what he needs to imagine — a version of refusal that looks bearable from the inside.
+
+The grey light of early morning comes through the workshop window. He can hear the lagoon outside, the slap of water on the fondamenta, a boatman's shout.
+
+Then Luca comes in with a sack of charcoal he's begged or borrowed from a neighbor's workshop. He drops it by the furnace and crouches and begins to rake out the cold ash.
+
+"Found some," he says. "Enough for two days. Treviso shipment comes Thursday."
+
+Bardolino watches the young man — he is almost eighteen now — rebuild the fire. He works the bellows with the same stroke Bardolino uses, the same posture, the same patience. The coals brighten. The heat returns, touching them first on the face, then the arms.
+
+"Thank you," Bardolino says.
+
+Luca nods and goes to uncover the crucible.
 
 ---
 
@@ -191,7 +233,7 @@ He goes downstairs and out onto the fondamenta. The sun is high and the canal is
 
 He is aware this argument has a flaw. He is not yet willing to locate it.
 
-He goes back inside and descends to the workshop, where Luca is pulling a goblet from the glory hole, the glass glowing orange-white at the end of his pipe, and for a moment Bardolino sees the scene as a stranger would: a young man at work in a furnace-lit room, his face ruddy with reflected heat, turning a beautiful thing in the air with the confidence of someone who has found the one skill that makes him necessary. It is a scene from another life, or from the early pages of this one, before the specifications arrived, before the locked cabinet, before the man in the heavy cloak.
+He goes back inside and descends to the workshop, where Luca is pulling a goblet from the glory hole, the glass glowing orange-white at the end of his pipe, and for a moment Bardolino sees the scene as a stranger would: a young man at work in a furnace-lit room, his face ruddy with reflected heat, turning a beautiful thing in the air with the confidence of someone who has found the one skill that makes him necessary.
 
 Luca catches him watching and raises an eyebrow.
 
@@ -203,66 +245,10 @@ He goes back upstairs.
 
 ---
 
-He thinks, sometimes, about Tommaso. Luca's father. Who had been his friend, or something adjacent to friendship — two men who understood the same material, who could discuss a color additive or a kiln temperature with the intimacy other men reserve for women or for God. Tommaso had been the better artist. Bardolino has never denied this to himself. Tommaso's millefiori work was extraordinary — not the standard flowers and rosettes but complex geometric patterns that seemed to shift and recombine as you turned the piece in the light, as though the glass contained more dimensions than the three it occupied. People came from the mainland to buy his millefiori. A cardinal in Rome had one on his writing desk.
-
-When the commission came — not this commission, an earlier one, years ago, for something Bardolino was never told the exact nature of — Tommaso refused. He refused not loudly, not with the dramatic gesture that stories require, but with the quiet stubbornness of a man who has done his calculation and found the answer unacceptable. He stopped working. He banked his furnace, covered his crucibles, sent his apprentice home. He sat in his cold workshop for three days, and on the fourth day the Council's men came and took him away, and his property was confiscated, and his name was struck from the guild register, and within a year he was dead of a fever contracted in the prison on San Servolo, though there were those on the island who said the fever had help.
-
-Bardolino took Luca in the month after Tommaso's death. The boy was twelve, skinny, mute with grief. He had Tommaso's hands and Tommaso's eye for color and a watchfulness that Bardolino initially attributed to trauma and later understood was simply the boy's nature — he watched everything, said little, learned fast.
-
-He has tried, over the years, to identify the moment when taking Luca in became something other than kindness. There must have been a calculation: Tommaso's son, trained by Tommaso's friend, carrying forward a skill that might otherwise be lost. A gesture that was also an investment. A gift that was also a recruitment. He is not proud of this ambiguity, but he is honest enough — in this one area, if no other — to acknowledge it exists.
-
-And now the boy stands at his blowing station and makes goblets of remarkable clarity, and somewhere above him, behind a locked door, Bardolino grinds lenses for the same state that killed his father.
-
-What Bardolino remembers most about Tommaso — what he prefers to remember, which is not the same thing — is an afternoon in the summer before the commission, before everything. They were working in Tommaso's shop, not Bardolino's. Tommaso was teaching him a technique for embedding gold leaf between layers of clear glass, a process that required four hands and absolute coordination — one man holding the pipe, the other laying the leaf at the precise moment the glass was soft enough to accept it but not so soft that the gold would dissolve. They failed six times. On the seventh attempt, the gold caught, and through the glass it looked as though someone had trapped a piece of sunlight inside a bubble of water.
-
-Tommaso held it up and laughed. "Nobody will buy this," he said. "It's worthless. There's no market for trapped sunlight."
-
-They drank wine and let the piece cool in the annealing oven and talked about nothing consequential — an argument Tommaso was having with a paint supplier, a rumor about a new tax on soda ash, the particular qualities of a batch of sand from Istria that Bardolino had been experimenting with. The conversation had the loose, unforced quality of two men who were doing precisely what they were meant to do, in the place they were meant to do it, with no commission from the state to distort the geometry of the afternoon.
-
-Bardolino still has the gold-leaf piece. It sits in the same drawer as the millefiori disc. He does not take it out.
-
----
-
-In September, the charcoal delivery fails. The supplier in Treviso sends word that his kilns have been damaged by a storm and the next shipment will be delayed a week, possibly two. Bardolino banks the furnace to its lowest sustainable temperature and calculates how long the remaining fuel will last. Three days, perhaps four if he cancels the Contarini order and works only the annealing oven.
-
-On the second day of the shortage, he comes down to the workshop at his usual hour and finds it cold. Not cool — cold. The furnace has drawn down to a dull red, barely alive, producing a heat that wouldn't soften lead, let alone silica. The workshop smells different: stone and damp instead of the mineral sharpness of hot glass. His tools hang on the wall, cold to the touch.
-
-He stands in the center of the room. The crucible is dark. The annealing oven is dark. The blowing station is a cold iron pipe on a cold iron stand. He puts his hand on the furnace wall and feels — not heat, but the memory of heat, a faint warmth that is leaving.
-
-He understands, standing in the cold workshop, what Tommaso chose. Not refusal as a principle, not courage, not even defiance. Silence. The absence of the fire. The decision to let the furnace go dark and to sit in the cold and to wait for whatever came.
-
-Bardolino stands there for perhaps ten minutes. The grey light of early morning comes through the workshop window. He can hear the lagoon outside, the slap of water on the fondamenta, a boatman's shout. Ordinary sounds in an ordinary morning in a room that is, for the first and perhaps the last time since he took it over from his uncle, silent.
-
-Then Luca comes in with a sack of charcoal he's begged or borrowed from a neighbor's workshop. He drops it by the furnace and crouches and begins to rake out the cold ash.
-
-"Found some," he says. "Enough for two days. Treviso shipment comes Thursday."
-
-Bardolino watches the boy — no, the young man, he is almost eighteen now and has the quiet authority of someone who has learned a skill well enough to teach it — rebuild the fire. He works the bellows with the same stroke Bardolino uses, the same posture, the same patience. The coals brighten. The heat returns, touching them first on the face, then the arms, then settling into the bones of the hands.
-
-"Thank you," Bardolino says.
-
-Luca nods and goes to uncover the crucible.
-
----
-
 Now it is November, and Bardolino sits in the room above the workshop with the millefiori piece his uncle helped him make when he was nineteen. It fits in his palm. A disc the size of a communion wafer, blue and amber and white, the canes still as vivid as the day they were cut — glass does not fade, glass does not forget, glass holds its color the way a sin holds its shape long after the sinner has rearranged his memory of the act.
-
-He made this piece before the debts, before Agnese, before Tommaso, before the locked cabinet. He made it in an afternoon of uncomplicated joy, standing at the furnace with his uncle, learning how to bundle the canes and heat them and slice the rod, each cross-section revealing the pattern that was always there, hidden inside the bundle, waiting to be exposed. A thousand flowers from a single cut.
 
 He turns the piece in the lamplight. Through the window he can see the lights of Venice across the water — the Arsenale, the doge's palace, the churches. Somewhere in that city, in a room he will never see, men are mounting his lenses into brass housings and attaching those housings to the rails of ships. The ships will sail. The lenses will do their work. He will receive his final payment, and the commission will be complete, and there will be no record of his involvement except the glass itself, which will speak only to those who know how to read it — the particular clarity, the curve, the absence of any flaw. His signature, written in a language of refractive indexes and grinding tolerances.
 
-He wraps the millefiori piece in its cloth and puts it back in the drawer where he keeps it. He does not smash it. He does not throw it into the lagoon. These would be gestures, and gestures are for men who believe that a single act can undo what has been done. The lenses are delivered. The weapon exists. Nothing he does in this room tonight will change the trajectory of what he has made.
+He wraps the millefiori piece in its cloth and puts it back in the drawer. He does not smash it. He does not throw it into the lagoon. The lenses are delivered. The weapon exists.
 
-Below him, the furnace breathes.
-
-In the morning, Luca will come. Bardolino will teach him to grind a meniscus curve — not the military specification, but the principle, the technique, the way the hands must move to coax a flat blank into a shape that bends light. Luca will learn because he is young and talented and because a skill, once learned, belongs to the one who holds it, regardless of what it is used for. In five years or ten or twenty, when the Arsenale sends a man in a heavy cloak with a set of specifications written in a hand that understands glass, Luca will open the document and read it and understand what is being asked, and he will make his own decision.
-
-Bardolino does not know what that decision will be.
-
-He opens the cabinet and takes out the latest set of specifications. He reads them through once — the familiar notation, the curvatures, the tolerances — and then he folds the document and feeds it to the lamp. The vellum curls and blackens. The ink flares blue for an instant before it goes.
-
-The specifications burn.
-
-The lenses do not.
-
-He closes the cabinet. He lies down on his cot. Below him the furnace ticks and settles, banked for the night but alive, always alive, waiting to be fed at half past four, before the light.
+Below him, the furnace ticks and settles, banked for the night. In the morning, Luca will come. Bardolino will teach him to grind a meniscus curve — not the military specification, but the principle, the technique, the way the hands must move to coax a flat blank into a shape that bends light. He tells himself the knowledge is neutral. He has been telling himself things for a long time now, and he has gotten good at it, and the lenses do not care what he tells himself, and neither does the glass.
