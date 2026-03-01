@@ -7,8 +7,8 @@ authorA: "Derek Raymond"
 authorB: "Virginia Woolf"
 workX: "He Died with His Eyes Open by Derek Raymond"
 workY: "Mrs Dalloway by Virginia Woolf"
-wordCount: 5182
-readingTimeMinutes: 21
+wordCount: 5073
+readingTimeMinutes: 20
 tags: ["scandinavian-noir", "stream-of-consciousness", "story-as-document", "stockholm", "detective", "victim-consciousness", "diary", "police-report", "risk-card"]
 rating: 0
 ratingCount: 0
@@ -54,7 +54,7 @@ The body was discovered by the building superintendent, Tomas Hedlund, who enter
 
 I arrived at 10:20. The flat was on the fourth floor, east-facing. The morning light came in through the open window and fell across the floor in a bar that reached almost to where she sat. Her right hand was in her lap. Her left hand was extended slightly, palm up, the fingers loosely curled. The position did not suggest a fall. It suggested sitting down.
 
-She was wearing a grey wool cardigan over a dark blue dress. No shoes. Thick socks, the kind with patterns — these had a pattern of small birds. Wrens, I think, or something similar. I noted this in my field report and then looked at what I'd written and could not determine why I'd written it. The pattern on the socks of the deceased is not evidentiary.
+She was wearing a grey wool cardigan over a dark blue dress. No shoes. Thick socks, the kind with patterns — these had a pattern of small birds. Wrens, I think, or something similar. I noted this in my field report and then looked at what I'd written and could not determine why I'd written it.
 
 Preliminary cause of death: blunt force trauma to the left temporal region. A single blow. The medical examiner's preliminary assessment, delivered at scene, was that death occurred between 16:00 and 20:00 on Sunday 17 November. A more precise estimate would follow autopsy.
 
@@ -72,7 +72,7 @@ I should not have read it at the scene. Procedure requires evidence collection, 
 
 ---
 
-The light at 07:00 in November is not light. It is the rumor of light. The sky above Bondegatan is the color of wet cement and the streetlamps are still on and the kitchen window shows me my own reflection more clearly than it shows me the street. I drink my coffee in this doubled state — watching myself watching — and the coffee is too hot and too strong and precisely what is needed. The weight of the cup. The ceramic warm in both hands. At 07:12 the sky changes. Not brightens. Relents. The grey becomes less certain of itself.
+The light at 07:00 in November is not light. It is the rumor of light. The sky above Bondegatan is the color of wet cement and the streetlamps are still on and the kitchen window shows me my own reflection more clearly than it shows me the street. I drink my coffee in this doubled state — watching myself watching — and the coffee is too hot and too strong and precisely what is needed. The ceramic warm in both hands. At 07:12 the sky changes. Not brightens. Relents. The grey becomes less certain of itself.
 
 ---
 
@@ -104,7 +104,7 @@ The canvass of residents at Bondegatan 43 produced the following of note:
 
 She sometimes read aloud. This detail appears in Lindqvist's notebook — an entry I have not yet transcribed for this report — in which she describes reading a passage from Ekelöf and finding that the poem only became itself when spoken, that the meaning lived in the mouth and not on the page, and that her empty flat was not empty when she was reading aloud because the words occupied the rooms the way furniture does, the way another person would.
 
-I should not be interpolating evidence in this manner. The notebook entries are catalogued separately. The witness statements are catalogued separately. The investigation proceeds along established evidentiary channels.
+The investigation proceeds along established evidentiary channels.
 
 The investigation proceeds.
 
@@ -120,7 +120,7 @@ Sunday. The quality of Sunday is different from other days and I have never been
 
 I notice that I have begun cataloguing my own days the way I catalogue the dead. Date, condition, contents. What arrived in the mail. What was said at the counter of the ICA on Folkungagatan. The man who bags the groceries — not a boy, a man, perhaps fifty, with hands that handle the celery and the milk with the same care, the same attention, as though each item were a document being placed in an acid-free folder. I want to tell him this. I want to say: you handle groceries the way an archivist handles letters. You are preserving something, even if the preservation lasts only until the bag is opened at home and the contents enter the disorder of a kitchen.
 
-But I don't say it. I smile and take the bag and the weight of it is specific — 3.2 kilos perhaps, a particular heaviness that will never be repeated because I will never buy this exact combination of items again — and I walk home and the bag swings against my thigh and the rhythm of the swinging is the rhythm of my walking and the rhythm of my walking is the rhythm of Bondegatan and the rhythm of Bondegatan is, at 17:40 on a Thursday in November, the rhythm of a city that does not notice me and in whose not-noticing I am, paradoxically, held.
+But I don't say it. I smile and take the bag and the weight of it is specific — 3.2 kilos perhaps, a particular heaviness that will never be repeated because I will never buy this exact combination of items again — and I walk home and the bag swings against my thigh and the rhythm of the swinging is the rhythm of my walking and the rhythm of my walking is the rhythm of Bondegatan at 17:40 on a Thursday in November, which is the rhythm of a city that does not notice me.
 
 ---
 
@@ -188,9 +188,7 @@ FALK: No. She mentioned almost no one. That was the thing about Signe. She was s
 
 **End excerpt.**
 
-I note that this last observation — *she'd made a space around herself and she lived in it with tremendous intensity* — is not, in the strictest sense, evidentiary. I include it because it accords with my own reading of the notebook and because a colleague's assessment of the victim's inner life, however inadmissible, contributes to the investigative understanding of who this woman was.
-
-Who this woman was is not a field on any form I have been trained to fill.
+I note that this last observation — *she'd made a space around herself and she lived in it with tremendous intensity* — is not, in the strictest sense, evidentiary. I include it because a colleague's assessment of the victim's inner life, however inadmissible, contributes to the investigative understanding of who this woman was.
 
 ---
 
@@ -214,7 +212,7 @@ There is a florist on Götgatan that I pass every day and I have never gone in. 
 
 But today I thought: what if I went in. What if I bought the lilies and carried them home and put them in the tall blue vase on the kitchen windowsill and let them die there over the course of a week, the petals browning at the edges, the water clouding, the sweetness thickening to rot. Would that be an archive? The vase as acid-free folder. The dying as metadata.
 
-I didn't go in. I walked home. The street was dark already — 15:47 and dark already — and my footsteps on the pavement had that hollow winter sound, the sound of a body moving through air that doesn't want it.
+I didn't go in. I walked home. The street was dark already — 15:47 and dark already — and my footsteps on the pavement had that hollow winter sound.
 
 ---
 
@@ -228,7 +226,7 @@ Additional forensic findings (report dated 26 November): analysis of the victim'
 
 I should record that the thyme was lemon thyme. Thymus citriodorus. The forensic report lists it as Thymus vulgaris but I returned to the flat on 28 November and the plant on the kitchen windowsill — growing in a small clay pot, still alive, still growing despite twelve days without water because thyme does this, it persists, it withholds its dying — was lemon thyme. The leaves are smaller. The scent, when you crush them between your fingers, is sharp and citric, nothing like common thyme, and she would have known the difference. She was a woman who knew the difference.
 
-This is not a relevant distinction for the investigation. I note it for accuracy.
+I note it for accuracy.
 
 ---
 
@@ -254,7 +252,7 @@ I have tried to reconstruct what the flat would have been like at this hour. I w
 
 But she admitted someone.
 
-The blow. A single blow. She was already low — seated, or sitting down, or bending. The pestle from her own kitchen. A weapon of proximity, not premeditation. Whoever struck her was already in the kitchen, already close, already in the radius of her life's most intimate geography. They picked up a tool she had been using — a tool that still held the heat of her hand, that still smelled of lemon thyme from her grinding — and they used it to end her. The domestic object turned lethal. The intimacy of the weapon is the most brutal fact in the case file and it is recorded as: *Weapon: pestle, granite, approx. 18 cm.* The record does not say that this pestle was part of a set she had owned since 2019 (purchase receipt found in a desk drawer), that the granite was veined with a dark mineral line she might have run her thumb along while grinding, that the mortar still held the herbs she was preparing. The record says *pestle, granite, approx. 18 cm* and the record is correct and the record is nothing.
+The blow. A single blow. She was already low — seated, or sitting down, or bending. The pestle from her own kitchen. A weapon of proximity, not premeditation. Whoever struck her was already in the kitchen, already close, already in the radius of her life's most intimate geography. They picked up a tool she had been using — a tool that still held the heat of her hand, that still smelled of lemon thyme from her grinding — and they used it to end her. The domestic object turned lethal. The intimacy of the weapon is the most brutal fact in the case file and it is recorded as: *Weapon: pestle, granite, approx. 18 cm.* The record does not say that this pestle was part of a set she had owned since 2019 (purchase receipt found in a desk drawer), that the granite was veined with a dark mineral line she might have run her thumb along while grinding, that the mortar still held the herbs she was preparing. The record says *pestle, granite, approx. 18 cm* and the record is correct.
 
 19:22 — The individual on the surveillance footage exits the building.
 
@@ -278,17 +276,15 @@ She wrote, on what I believe was her last entry, Sunday 17 November, the day she
 
 *Morning. The light at 07:00 is the rumor of light. I have written this before. I write it again because it is true again, differently true, true in the way that the same street is different every time you walk it because you are different every time you walk it. The coffee. The cup. The weight. The window. The reflection. I am here. Specifically here. Not generally alive but specifically here, in this kitchen, at this hour, holding this cup, attending.*
 
-She wrote that on the morning of the day someone came to her flat and struck her in the head with a granite pestle and ended her attending. The investigation has not determined who. The investigation continues. The documents accumulate. I file them in the order they arrive, in the manner prescribed, with the notations required. And in the margins of these documents — in the literal margins, in the space between the evidence and what the evidence means — I find myself writing things that do not belong in a case file. Things about light. Things about weight. Things about the particular sound of footsteps on Bondegatan at 17:40 on a Thursday in November.
-
-Her footsteps. My footsteps. I can no longer be certain.
+She wrote that on the morning of the day someone came to her flat and struck her in the head with a granite pestle and ended her attending. The investigation has not determined who. The investigation continues. The documents accumulate. I file them in the order they arrive, in the manner prescribed, with the notations required. And in the margins of these documents — in the literal margins — I find myself writing things that do not belong in a case file. Things about light. About the particular sound of footsteps on Bondegatan at 17:40 on a Thursday in November. I have never walked on Bondegatan at 17:40 on a Thursday.
 
 ---
 
 ### Section 10: Addendum — 12 December 2025
 
-I walked to the florist on Götgatan today. I stood outside the window. Lilies. White, in galvanized buckets. I did not go in.
+I walked to the florist on Götgatan today. I stood outside the window. Lilies. White, in galvanized buckets. I went in. I bought six stems. I do not know why I bought six. The woman wrapped them in brown paper and the paper crinkled and the sound was specific.
 
-This has no evidentiary value. I am including it because the case file is the only document I am currently writing, and the observation needed to go somewhere, and there is nowhere else.
+I carried them home. They are on the kitchen counter, next to the case files.
 
 ---
 
