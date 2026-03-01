@@ -1,11 +1,11 @@
 ---
 title: "The Wallpaper Knows Its Pattern"
-slug: "hor-gothichorror-002-meeting"
+slug: "arranged-lovely-meeting"
 genre: "horror"
 subgenre: "gothic-horror"
 authorA: "Shirley Jackson"
 authorB: "Thomas Ligotti"
-workSlug: "hor-gothichorror-002"
+workSlug: "arranged-lovely"
 wordCount: 2643
 publishedDate: "2026-03-01"
 ---

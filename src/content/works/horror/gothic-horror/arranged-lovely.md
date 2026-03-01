@@ -1,14 +1,14 @@
 ---
 title: "Arranged Lovely"
-slug: "hor-gothichorror-002"
+slug: "arranged-lovely"
 genre: "horror"
 subgenre: "gothic-horror"
 authorA: "Shirley Jackson"
 authorB: "Thomas Ligotti"
 workX: "We Have Always Lived in the Castle"
 workY: "Songs of a Dead Dreamer"
-wordCount: 3528
-readingTimeMinutes: 14
+wordCount: 3189
+readingTimeMinutes: 13
 tags: ["gothic horror", "domestic horror", "sealed house", "sisters", "ritual", "cosmic nihilism", "puppet metaphor", "village hostility", "poisoning", "ontological dread", "unreliable perception"]
 rating: 0
 ratingCount: 0
@@ -67,7 +67,7 @@ Mrs. Alderton wraps my groceries in brown paper and does not touch my hands when
 
 I carried my groceries home. The hill took twelve minutes. Halfway up I passed the Denton property, which has been empty for four years, and I noticed for the first time that the mailbox still had a name painted on it in white letters. DENTON. The paint was not chipped. Four years of weather and the letters were as clean as the day someone painted them. I stopped and looked at the mailbox and the mailbox looked back at me with the blankness of all objects that are more permanent than the people who made them, and I thought: no one has repainted this. It simply has not degraded. It is maintained by something other than hands.
 
-When I reached the house I looked back down the road and the village was there — the rooflines, the church bell, the dark windows of the grocery — and it looked placed. Not built. Placed. The way you arrange miniatures on a shelf. I turned away and went inside and Constance had set the table and the table looked placed too but I am accustomed to the table.
+When I reached the house I looked back down the road and the village was there — the rooflines, the church bell, the dark windows of the grocery — and it looked arranged. Not built. The way you set miniatures on a shelf. I turned away and went inside and Constance had set the table and the table looked the same way but I am accustomed to the table.
 
 ---
 
@@ -89,11 +89,9 @@ I woke up and went to the hall and measured. Fourteen inches. Fourteen inches. F
 
 I have been thinking about what it means for a pattern to skip.
 
-A pattern is a promise. Every fourteen inches, this flower. Every Tuesday, the grocery. Every morning, the doorframes, two fingers, the count. A pattern says: the world is structured, the structure is reliable, what happened before will happen again. I have built my life on that promise. I killed my parents and my uncle and I walk the house and I buy the sugar and I touch the frames and the pattern repeats and the repetition means something. If it doesn't mean something then the killing was — not senseless, killing is never senseless, it always has its own interior logic, but it was — unmotivated. No. Wrong word. It was automatic. It was the kind of thing a mechanism does, not a person.
+A pattern is a promise. Every fourteen inches, this flower. Every Tuesday, the grocery. Every morning, the doorframes, two fingers, the count. A pattern says: the world is structured, the structure is reliable, what happened before will happen again. I have built my life on that promise. I killed my parents and my uncle and I walk the house and I buy the sugar and I touch the frames and the pattern repeats and the repetition means something. If it doesn't mean something then the killing was — not senseless, killing is never senseless, it always has its own interior logic, but it was — automatic. It was the kind of thing a mechanism does, not a person.
 
-And that is Thomas's idea, not mine. I don't know who Thomas is. The name arrived in my head the way the casseroles arrive on the porch: without explanation, without a note, in a white dish.
-
-I mentioned this to Constance — not the name, but the idea. We were eating dinner, boiled potatoes and greens and the chicken that Constance roasts on Thursdays with the skin pulled tight and the cavity stuffed with garlic, and I said, "Do you ever think about why you cook?"
+I mentioned this to Constance — not in those words, but the shape of the idea. We were eating dinner, boiled potatoes and greens and the chicken that Constance roasts on Thursdays with the skin pulled tight and the cavity stuffed with garlic, and I said, "Do you ever think about why you cook?"
 
 She looked at me over the table. The light from the overhead fixture caught the lines around her mouth, the lines that were deeper than they should have been for a woman of thirty-one who has never worked in the sun or frowned in public.
 
@@ -117,9 +115,9 @@ The village was different on Friday.
 
 Not different in a way I could have described to Constance, who would have listened with her patient eyes and her folded hands and asked no questions, because Constance does not ask questions, because questions are what the coroner asked and the police asked and the neighbors asked and none of the answers changed anything. The village was different the way a word is different when you say it too many times — the sound detaches from the meaning and floats free, and you're left mouthing a shape that could be anything.
 
-The grocery was in the right place. Mrs. Alderton was behind the counter. Blythe was on her step stool. The women in the aisles performed their choreography. Everything was correct. And it was too correct. The precision was the problem. On a stage, when every actor hits every mark, when no one forgets a line or stumbles or scratches an itch, the performance becomes visible as performance. The seams show. Not because something went wrong but because nothing went wrong and nothing ever goes right that consistently unless someone — unless something — is making it go right.
+The grocery was in the right place. Mrs. Alderton was behind the counter. Blythe was on her step stool. The women in the aisles performed their choreography. Everything was correct. And it was too correct. The precision was the problem. On a stage, when every actor hits every mark, when no one forgets a line or stumbles or scratches an itch, the performance becomes visible as performance. The seams show. Not because something went wrong but because nothing went wrong and nothing ever goes right that consistently unless something is making it go right.
 
-I bought eggs, bread, coffee, sugar. I said my lines. Mrs. Alderton said hers. I walked home in twelve minutes. I looked back at the village and counted the rooflines and there were eleven, which is how many there always are, and they were spaced correctly, which is how they are always spaced, and the church bell rang, which is what it always does, and the bell was flat, which it always is, a quarter-tone beneath where it should sit, and this time the flatness sounded deliberate. Not a flaw. A choice. The bell was flat because the arrangement required it to be flat, because a perfect bell would have been too convincing and the arrangement — whatever the arrangement was, whoever or nothing had arranged it — had enough aesthetic sense to include imperfections.
+I bought eggs, bread, coffee, sugar. I said my lines. Mrs. Alderton said hers. I walked home in twelve minutes. I looked back at the village and counted the rooflines and there were eleven, which is how many there always are, and they were spaced correctly, which is how they are always spaced, and the church bell rang, which is what it always does, and the bell was flat, which it always is, a quarter-tone beneath where it should sit, and this time the flatness sounded deliberate. Not a flaw. A choice. The bell was flat because the arrangement required it to be flat, because a perfect bell would have been too convincing and the arrangement — whatever it was — had enough aesthetic sense to include imperfections.
 
 Designed imperfections. Like the hole in Constance's cardigan that she never mends. I have watched that hole for two years. It does not get larger. The yarn does not unravel further. It is the size it has always been, as fixed as the Denton mailbox, as stable as the step count between the parlor and the front hall.
 
@@ -145,7 +143,7 @@ I told Constance about the wallpaper. She was shelling peas. Her hands did not s
 
 "What will we know?"
 
-She looked at me and for a moment her face was Constance's face — my sister, the person I love more than structure, more than sugar, more than the count of steps between rooms — and then her face was a face. Not hers. Not anyone's. A face is a surface arranged in a particular configuration, muscles and bone and skin organized to produce an expression that other faces read as "sister" or "love" or "calm," and the organization is so precise, so consistent, that you never think about the organizing principle, the way you never think about who drew the wallpaper flowers. You just accept that the flowers are there and the face is there and the pattern repeats and it means something.
+She looked at me and for a moment her face was Constance's face — my sister, the person I love more than structure, more than sugar, more than the count of steps between rooms — and then her face was a face. Not hers. Not anyone's. A face is a surface arranged in a particular configuration, muscles and bone and skin organized to produce an expression that other faces read as "sister" or "love" or "calm," and the organization is so precise, so consistent, that you never think about the organizing principle, the way you never think about who drew the wallpaper flowers. You just accept that the flowers are there and the face is there and the pattern repeats.
 
 "I don't know what we'll know," Constance said. "I never do. I just cook."
 
@@ -157,7 +155,7 @@ Thirteen inches. Still.
 
 The house has twelve rooms that I walk through and three rooms that I don't. The rooms I don't walk through are the ones where it happened. My parents' bedroom, my uncle's bedroom, and the room between them, which we called the linen room, though it held no linens, only shelves of empty jars that my mother collected because she intended to make preserves and never did. The jars are still there. Sometimes I stand outside the linen room door and listen. I hear nothing. Nothing in a sealed house is a sound — it is the sound of air being held, the way a breath is held, the way a secret is held — and I have lived with that sound for so long that silence and secrecy are the same frequency in my ears.
 
-But last night the nothing sounded different. Last night the nothing sounded rehearsed.
+But last night the nothing sounded rehearsed.
 
 I opened the linen room door. I had not opened it in four years and three months and the knob turned without resistance, no stiffness, no rust, as though someone had been oiling it. The room was exactly as it had been. Shelves of empty jars, dust on the shelves, afternoon light through the curtains making the dust visible in long diagonal planes. Everything preserved. Not decayed — preserved. The jars had no fingerprints on them because no one had touched them and yet there was no dust on the jars themselves, only on the shelves, as though something distinguished between the surface and the objects on the surface and maintained them differently.
 
@@ -183,10 +181,6 @@ Nothing happened. The house did not collapse. The locks did not spring. The vill
 
 "It's all there is."
 
-She was right or she was wrong or the distinction between right and wrong was another pattern that repeated without meaning, and I stood in the kitchen of my house where I had killed the people who made me and I felt the floor under my feet, and the floor was solid, and the walls were solid, and the wallpaper repeated — fourteen, fourteen, fourteen, thirteen — and the village was down the hill, placed and particular and flat-belled, and my sister shelled peas at the table in the kitchen that I could reach in eleven steps from the pantry, and everything was arranged, everything was precise, everything was lovely in its arrangement, and I did not know if I was the person who had noticed this or the noticing itself, moving through a shape called Agnes, touching doorframes in a house that was not a house but a structure in which two figures performed the operations of living while something — not a person, not a god, not a ghost, something with no name because it preceded naming — held the walls in place and counted the intervals and decided, each morning, whether the flowers would repeat at fourteen inches or whether, today, one of them would skip, just to see what the figure called Agnes would do.
+She went back to the peas she was shelling, and I stood in the kitchen and felt the floor under my feet, and the floor was solid, and the walls were solid, and everything was correct and everything was held in place by something I could not see, and I did not know if I was the person who had noticed this or the noticing itself, and outside the window the village sat at the bottom of the hill with its flat bell and its eleven rooflines, and my sister's hands moved through the peas, sorting, and the tap that neither of us had turned on was dripping, and the wallpaper upstairs was repeating — fourteen, fourteen, fourteen, thirteen — and I went to the pantry. Eleven steps. I counted without meaning to. I took down the sugar and measured a portion and stood at the counter with the white bowl in my hands and I had done this before and I could not tell if the interval was fourteen inches or thirteen or if it mattered or if mattering was another pattern, repeating.
 
-And the figure called Agnes was doing this: she was standing in the kitchen. She was not touching the doorframe. She was watching her sister shell peas. She was thinking that her sister's hands were beautiful and that beauty is a pattern and that patterns are arrangements and that arrangements are what the house is made of and what the village is made of and what the murder was made of, the sugar and the portions and the specific Tuesday, all of it arranged, arranged lovely, and she could not stop noticing and she could not tell if the noticing was hers or if it, too, had been placed there, in her, like a flower in a wall, repeating at an interval she had not chosen.
-
-Constance looked up. "Are you all right?"
-
-Agnes said yes. Agnes smiled. Agnes went to the pantry — eleven steps, she counted without meaning to — and took down the sugar and measured a portion and stood at the counter with the white bowl in her hands. She had done this before. She would do this again. The interval was fourteen inches and the interval was thirteen and she could not tell which was the error and which was the correction, and the house held its walls in place, and the village sat at the bottom of the hill with its flat bell and its grocer and its eleven rooflines, and everything was arranged, everything was lovely, and Agnes set the bowl on the table and Constance did not flinch and the wallpaper repeated and the tap, which neither of them had turned on, was dripping.
+I set the bowl on the table. Constance did not flinch. The tap went on dripping. The house held.
