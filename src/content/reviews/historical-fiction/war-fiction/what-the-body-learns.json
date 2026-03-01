@@ -1,0 +1,68 @@
+{
+  "workSlug": "what-the-body-learns",
+  "reviews": [
+    {
+      "personaId": "hist-001-lorraine",
+      "rating": 5,
+      "text": "I taught ancient Greece for thirty years and never once explained the phalanx like this -- as a thing you feel through four centimeters of wood. The parallel with the radio operator tracking transmissions is inspired. Both boys learn that precision is a gift the training gives you so you won't notice what the precision is for. Dexios saying \"Your back foot\" as he's dying on the ground undid me completely. That single repeated correction carrying the weight of everything they were to each other. I will be thinking about this one for a long time.",
+      "date": "2026-02-28",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-014-terrence",
+      "rating": 4,
+      "text": "The dual-timeline architecture is ambitious and mostly works. The Athenian sections are stronger -- there's a phenomenological density to Nikias's experience of the phalanx that feels genuinely researched, not merely imagined. The way the shield transmits intention \"faster than speech\" is a lovely formulation. The WWII sections are good but occasionally lean toward a kind of poetic abstraction (\"the absence has no color, it has mass\") that substitutes for the harder work of historical specificity. Wulf's bunkmates are sketched efficiently, particularly Landau with his hospital corners. I wanted more of Brest, more of the concrete room. But the central argument -- that the body carries knowledge the mind agreed to forget -- is earned, and the closing image of the watchmaker's cold hands decades later is devastating in its restraint.",
+      "date": "2025-12-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-027-diana",
+      "rating": 3,
+      "text": "Beautifully written but honestly it felt more like an essay than a story. There's no real plot -- things happen, but nobody makes a choice that changes anything. Nikias loses Dexios and goes to the gymnasium. Wulf loses Lev's signal and becomes a watchmaker. I kept waiting for one of them to DO something with what they learned, and neither does. The prose is gorgeous, I'll give it that. But I like my stories to move.",
+      "date": "2026-01-09",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-038-william",
+      "rating": 4,
+      "text": "The sentences here are doing real work. \"The geometry of staying alive\" -- five words that contain an entire philosophy of combat. The prose is controlled without being stiff, precise without being clinical. I admire the discipline of the parallel structure: the writer resists the temptation to have the timelines touch or comment on each other explicitly. They rhyme, and the reader does the rest. A few moments push too hard -- \"the content is a person, the vector is a life\" announces what the story has already shown. But these are minor. The final section, Wulf as a watchmaker whose hands still go cold at 0158, is about as good as war fiction gets without firing a shot.",
+      "date": "2025-10-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-045-neha",
+      "rating": 3,
+      "text": "Structurally interesting but I have reservations. The alternating timelines produce a neat thematic parallelism -- too neat, perhaps. Both protagonists are young, both have mentors, both experience a loss that the narrative frames identically as the gap between training and reality. The symmetry forecloses the question it pretends to ask: if the body's knowledge is truly untranslatable, why does the story translate it so fluently across twenty-four centuries? The Athenian sections handle desire and combat as inseparable knowledges with real sophistication. But the WWII sections default to a familiar moral architecture: the complicit technician who \"didn't know\" but whose body did. Wulf's cold hands are effective as image but convenient as ethics. Still, the phalanx writing is genuinely good, and the refusal to narrate Dexios's actual wounding is a smart formal choice.",
+      "date": "2026-02-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-052-george",
+      "rating": 3,
+      "text": "Not my usual period but the military detail pulled me in. The phalanx mechanics are solid -- aspis weight, the shield-wall pressure dynamics, the shift from deltoid to trapezius. Whoever wrote this did their homework. The battle at Mantinea reads like someone who understands what formation combat actually feels like from the inside, not just the bird's-eye view you get in most historical fiction. The German radio sections I'm less qualified to judge, but the Telefunken details and triangulation procedure sound right. My issue is that both timelines end with the character basically just... sitting there. No resolution, no action. The ancient Greeks would have called that unsatisfying, and so do I.",
+      "date": "2025-11-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-063-katherine",
+      "rating": 5,
+      "text": "This story does something rare: it takes the intimacy of violence seriously without either glorifying it or turning it into a moral lesson. Nikias feeling Dexios's breathing through the shield during battle -- that's not a metaphor, it's a fact about how phalanx warfare worked, and the story earns its emotional weight by staying inside that fact rather than reaching for something larger. The radio operator's storyline mirrors this beautifully. Wulf's realization that he knows Lev's \"L\" the way he knows his own handwriting is the most quietly devastating moment I've read in months. And the ending refuses the easy catharsis -- no confrontation, no confession. Just cold hands in a kitchen, decades later. The body carrying what the mind won't.",
+      "date": "2026-02-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-076-raymond",
+      "rating": 4,
+      "text": "A dual-timeline war story that avoids the usual pitfalls of the form. The timelines do not converge, the characters do not echo each other's words in some contrived recognition scene, and the parallels, while clearly intentional, are structural rather than sentimental. The prose operates at a high level -- \"the sound of a thing that should be inside coming outside\" is precise in a way that most war writing is not. I have two complaints: the essay-like passages where the narrator explains the story's own logic (\"this is what the training leaves out\") are unnecessary, and the Wulf sections occasionally tell us what to feel about the moral implications rather than letting the image work. But these are the failures of ambition, not laziness. A serious piece of writing.",
+      "date": "2025-09-17",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "hist-084-sylvia",
+      "rating": 2,
+      "text": "I kept waiting for the story to start. It's all atmosphere and observation -- oil on skin, static on a radio, dust in the air. The battle scene is good, I'll say that. But the whole thing reads like a long meditation on What War Does To The Body, and I already know what war does to the body. Nothing surprised me. Both characters just absorb their losses quietly. Where's the conflict? Where's the choice? Beautiful writing, sure, but I need more than beautiful writing.",
+      "date": "2026-01-25",
+      "helpfulCount": 0
+    }
+  ]
+}
