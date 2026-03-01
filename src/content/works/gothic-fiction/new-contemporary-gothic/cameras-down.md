@@ -7,8 +7,8 @@ authorA: "Shirley Jackson"
 authorB: "Don DeLillo"
 workX: "The Shining by Stephen King"
 workY: "House of Leaves by Mark Z. Danielewski"
-wordCount: 5165
-readingTimeMinutes: 21
+wordCount: 4323
+readingTimeMinutes: 17
 tags:
   - surveillance
   - institutional-gothic
@@ -25,9 +25,9 @@ publishedDate: "2026-03-01"
 status: "published"
 riskCard: "story-as-document"
 formulaSummary: >
-  Jackson's domestic paranoia — the building that trains its inhabitants into compliance — and DeLillo's surveillance-state epistemology — the system that produces absence as a function — converge in a correctional facility where fourteen camera malfunctions are documented in perfect bureaucratic order, each work order a lesson in not-seeing, until the officer filling the forms can no longer think outside them.
+  Jackson's domestic paranoia — the building that trains its inhabitants into compliance — and DeLillo's surveillance-state epistemology — the system that produces absence as a function — converge in a correctional facility where camera malfunctions are documented in perfect bureaucratic order, each work order a lesson in not-seeing, until the officer filling the forms can no longer think outside them.
 synopsis: >
-  Fourteen camera malfunctions on one corridor, each documented and signed off. Work orders, shift logs, and a correctional officer's private entries record everything except what matters. The building teaches its keeper what not to see.
+  Camera malfunctions on one corridor, each documented and signed off. Work orders, shift logs, and a correctional officer's private entries record everything except what matters. The building teaches its keeper what not to see.
 combination:
   fromAuthorA:
     - "The building as organism with its own will — the facility that wants darkness on one corridor at one hour, training its keeper through repetition"
@@ -35,7 +35,7 @@ combination:
     - "Conformity as horror — the slow colonization of perception by bureaucratic form until the officer sees in work orders and experiences reality as fields to be filled"
   fromAuthorB:
     - "Surveillance-state epistemology — the camera as subject and the inmate as object, the instrument mattering more than what it observes"
-    - "Systems-level paranoia where conspiracy and entropy are indistinguishable — fourteen failures that could be sabotage, decay, or simply how the building works"
+    - "Systems-level paranoia where conspiracy and entropy are indistinguishable — failures that could be sabotage, decay, or simply how the building works"
     - "The controlled vocabulary of bureaucratic language constraining what can be thought, not just what can be said"
     - "White space as narrative — the four-hour gaps between entries where the story happens but the document cannot reach"
   fromWorkX:
@@ -79,11 +79,33 @@ combination:
 
 **Date**: 14 March 2025, 23:00-07:00
 
-Third week on 9-South nights. Quiet block, which is wrong — I know who's housed here, everyone does, the whole facility knows what names are on this corridor, and quiet is not the word for what those cells produce. But the monitors show nothing. Men sleeping or pretending to sleep. The fluorescents in the corridor on their overnight dim, that yellowed half-light that makes everything look like an old photograph of itself.
+Third week on 9-South nights. Quiet block, which is wrong — I know who's housed here, everyone does, and quiet is not the word for what those cells produce. But the monitors show nothing. Men sleeping or pretending to sleep. The fluorescents on their overnight dim, that yellowed half-light that makes everything look like an old photograph of itself.
 
-Filed the work order on 9S-3 at the start of shift. The camera's been cycling — three to seven seconds of picture, then black, then picture again. Like something breathing. Vollmer came in the morning and said it was a loose fitting. I signed the work order.
+Filed the work order on 9S-3 at the start of shift. The camera's been cycling — three to seven seconds of picture, then black, then picture again. Vollmer came in the morning and said it was a loose fitting. I signed the work order.
 
 The fitting was tight when I checked it last Tuesday.
+
+---
+
+## WORK ORDER 9S-00414
+
+**Date Filed**: 18 March 2025
+
+**Requested By**: CO R. Halloran, Badge 7714
+
+**Location**: Corridor 9-South, Camera Unit 9S-3
+
+**Nature of Problem**: Camera Unit 9S-3, same unit as WO 9S-00411. Signal loss again, 02:05. Intermittent cycling as before.
+
+**Priority**: Urgent — High-Security Housing
+
+**Action Taken**: Maintenance tech D. Vollmer responded 07:40. Fitting re-inspected — secure. Replaced coaxial terminator as precaution. Camera test: operational.
+
+**Resolved**: Yes
+
+**Tech Signature**: D. Vollmer, MT-2
+
+**Supervisor Review**: K. Ostrowski, Shift Supervisor
 
 ---
 
@@ -121,9 +143,9 @@ The fitting was tight when I checked it last Tuesday.
 
 The cameras went at 02:22. Both of them. Not one then the other — both at the same instant, like the corridor blinked. I was looking right at the monitors when it happened. One frame of hallway, the next frame of nothing. I called it in to Control and they logged it and I sat there for three hours and thirty minutes watching two black screens.
 
-I did the corridor walks. Every thirty minutes, per protocol. The corridor was the same as it always is at night. Dim lights, cell doors, the smell of industrial soap and something else underneath it — the building's own smell, concrete and wiring and whatever's in the walls, that warm-dust scent that old electrical systems give off, the smell of a building digesting its own infrastructure. Everything was fine. The cells were quiet. I looked through every observation port and saw men sleeping.
+I did the corridor walks. Every thirty minutes, per protocol. The corridor was the same as it always is at night. Dim lights, cell doors, the smell of industrial soap and something else underneath it — concrete and wiring and whatever's in the walls, that warm-dust scent old electrical systems give off. Everything was fine. The cells were quiet. I looked through every observation port and saw men sleeping.
 
-When the cameras came back at 05:51 I was at the desk. I did not see them come back. I looked up and the monitors had picture and I could not say how long they'd had picture. It could have been a minute. It could have been ten.
+When the cameras came back at 05:51 I was at the desk. I did not see them come back. I looked up and the monitors had picture and I could not say how long they'd had picture.
 
 I wrote the work order. Under "Nature of Problem" I wrote what happened. Under "Priority" I circled "Urgent." There is no field on the work order for the fact that a building can close its eyes.
 
@@ -137,7 +159,7 @@ I wrote the work order. Under "Nature of Problem" I wrote what happened. Under "
 
 **Location**: Corridor 9-South, Camera Units 9S-2, 9S-3, 9S-4
 
-**Nature of Problem**: Three cameras — signal loss at 01:55. Complete blackout. Signal restored 05:30 approx. Third occurrence in three weeks on this corridor.
+**Nature of Problem**: Three cameras — signal loss at 01:55. Complete blackout. Signal restored 05:30 approx. Fourth occurrence since March on this corridor.
 
 **Priority**: Urgent — High-Security Housing
 
@@ -159,11 +181,9 @@ I wrote the work order. Under "Nature of Problem" I wrote what happened. Under "
 
 ### 3 April 2025
 
-Three cameras this time. The darkness is spreading down the corridor. Or the corridor is spreading into the cameras. I don't know which way that sentence works and I am writing this at 04:00 with the monitors showing nothing and the coffee going cold and I don't think the direction matters.
+Three cameras this time. The darkness is spreading down the corridor. Or the corridor is spreading into the cameras. I don't know which way that sentence works and I don't think the direction matters.
 
-Vollmer and Peck went through everything. I watched them from the control room on the working cameras — 9S-1 and 9S-5, the two at each end of the corridor, both still functional, so I could see the techs moving through the middle section, opening junction boxes, running tests. They looked competent. They looked thorough. They had clipboards and meters and they were doing their jobs and I have no doubt the work orders they filed are accurate and complete.
-
-The conduit replacement is pending. Budget. Everything here is pending budget. The whole building runs on a system of approved requests and deferred maintenance and temporary fixes that become permanent by the simple mechanism of time. The ceiling tiles in the break room have water stains from a leak that was repaired in 2019. The repair holds. The stains remain. The building remembers what happened even after the paperwork says it's been resolved.
+The conduit replacement is pending. Budget. Everything here is pending budget. The ceiling tiles in the break room have water stains from a leak that was repaired in 2019. The repair holds. The stains remain. The building remembers what happened even after the paperwork says it's been resolved.
 
 I requested a meeting with the watch commander about the camera situation. The watch commander said he'd review the work orders.
 
@@ -213,6 +233,28 @@ T. Leach
 
 ---
 
+## WORK ORDER 9S-00434
+
+**Date Filed**: 22 April 2025
+
+**Requested By**: CO T. Reeves, Badge 8190
+
+**Location**: Corridor 9-South, Cell Block Entry Door 9S-D1
+
+**Nature of Problem**: Entry door sticking on close. Hydraulic arm not fully engaging. Door remains 2-3 inches open unless manually pulled shut.
+
+**Priority**: Standard
+
+**Action Taken**: D. Vollmer. Adjusted hydraulic arm tension. Door closing properly at time of inspection.
+
+**Resolved**: Yes
+
+**Tech Signature**: D. Vollmer, MT-2
+
+**Supervisor Review**: K. Ostrowski, Shift Supervisor
+
+---
+
 ## WORK ORDER 9S-00439
 
 **Date Filed**: 28 April 2025
@@ -247,13 +289,11 @@ J. Peck note: "The cameras came back on their own. All five at once. Like someon
 
 All five. The whole corridor. Every monitor black from 01:48 to 05:15.
 
-I did my walks. Every thirty minutes, down the corridor with a flashlight because the corridor has its own lighting and the corridor lighting was fine, the corridor lighting has never failed, it's only ever the cameras, just the cameras, as if the building doesn't mind being lit — it minds being seen. I walked past every cell. I stopped at every observation port. I saw what I always see: men sleeping, or shapes that sleep makes in low light, the particular stillness of human bodies in the small hours that could be sleep or could be the other kind of stillness and at 03:00 through an observation port you cannot always tell. But I looked. I completed my rounds. I signed the log.
+I did my walks. Every thirty minutes, down the corridor with a flashlight because the corridor has its own lighting and the corridor lighting was fine, the corridor lighting has never failed, it's only ever the cameras, just the cameras, as if the building doesn't mind being lit — it minds being seen. I walked past every cell. I stopped at every observation port. I saw what I always see: men sleeping, or shapes that sleep makes in low light, the particular stillness of human bodies in the small hours that could be sleep or could be the other kind of stillness and at 03:00 through an observation port you cannot always tell.
 
-Vollmer and Peck were here for almost three hours. They tested everything. They found nothing. Everything checks out. The wiring is within specifications. The breakers are within specifications. The cameras are within specifications. The building, by every measure the maintenance department possesses, is functioning correctly.
+Vollmer and Peck were here for almost three hours. They tested everything. They found nothing. The wiring is within specifications. The breakers are within specifications. The cameras are within specifications. The building, by every measure the maintenance department possesses, is functioning correctly.
 
-And the cameras go dark on 9-South between 01:00 and 05:00, and they come back on their own, and nobody can explain it, and the work order is filed, and it says Resolved: Yes.
-
-I am starting to think the work order is correct. Not in the way they mean it. But in some other way that the form doesn't have a field for.
+And the cameras go dark on 9-South between 01:00 and 05:00, and they come back on their own, and the work order says Resolved: Yes.
 
 ---
 
@@ -277,11 +317,11 @@ I am starting to think the work order is correct. Not in the way they mean it. B
 
 ### 9 May 2025
 
-Farris started on 9-South nights this week. Second CO, which I'd been requesting since April. Good. Two sets of eyes on the monitors, two bodies for the corridor walks. He's been at the facility nine years, longer than me, but always on the east blocks. First time on 9-South.
+Farris started on 9-South nights this week. Second CO, which I'd been requesting since April. He's been at the facility nine years, longer than me, but always on the east blocks. First time on 9-South.
 
-I told him about the cameras. Not from the notebook — from the work orders. I told him in work-order language, the only language I seem to have for it anymore. Fourteen corridor, cameras, signal loss, maintenance, no fault found, resolved. He nodded the way you nod when someone tells you the elevator on the north side sometimes sticks between floors. Building stuff. The information entered him and settled into the category of things-that-are-wrong-but-not-wrong-enough-to-fix and I watched it settle and I recognized the settling because it happened to me, too, somewhere between the third work order and the fifth, the moment when the abnormal becomes the local normal, when the malfunction becomes a feature of the place, like the stain on the break room ceiling or the door on Sublevel 2 that you have to pull up while you push forward or it won't open.
+I told him about the cameras. Not from the notebook — from the work orders. I told him in work-order language, the only language I seem to have for it anymore. Corridor, cameras, signal loss, maintenance, no fault found, resolved. He nodded the way you nod when someone tells you the elevator on the north side sometimes sticks between floors. Building stuff. The information entered him and settled into the category of things-that-are-wrong-but-not-wrong-enough-to-fix and I recognized the settling because it happened to me, too, somewhere between the third work order and the fifth, when the malfunction becomes a feature of the place, like the stain on the break room ceiling or the door on Sublevel 2 that you have to pull up while you push forward or it won't open.
 
-He asked if anyone had looked into it beyond maintenance. I said the watch commander had reviewed the work orders. He said okay. That was the whole conversation.
+He asked if anyone had looked into it beyond maintenance. I said the watch commander had reviewed the work orders. He said okay.
 
 ---
 
@@ -305,9 +345,7 @@ He asked if anyone had looked into it beyond maintenance. I said the watch comma
 
 ### 16 May 2025
 
-I've stopped calling it in to Control. I still file the work order — there's a procedure, you follow the procedure, the procedure exists so that when something happens or doesn't happen or is later determined to have happened or not happened, there is paper, there is a record, there is a chain of documentation that proves the system was operating. I file the work order. Vollmer comes. Vollmer finds nothing. The work order says Resolved. This is how the building works.
-
-I don't mean the building as a structure of concrete and wiring. I mean the building as a system, the building as the thing that produces the paperwork, the building as the process by which a man sits in a room full of dark monitors and writes down that the monitors are dark and a technician comes and says the monitors are fine and the man signs the form and the form goes into a file and the file proves that the building is working.
+I've stopped calling it in to Control. I still file the work order — there's a procedure, you follow the procedure, the procedure exists so that when something happens or doesn't happen or is later determined to have happened or not happened, there is paper. I file the work order. Vollmer comes. Vollmer finds nothing. The work order says Resolved. This is how the building works.
 
 Asked Vollmer last week if he'd ever seen anything like this. Cameras that fail on a schedule, same corridor, same hours, nothing wrong with the equipment.
 
@@ -353,13 +391,11 @@ He shrugged. Said old buildings do weird things. Said the wiring in this facilit
 
 ### 1 June 2025
 
-I have been watching my own work orders. I mean I've been re-reading them in sequence, the whole series, 00411 through 00470, and I can see something happening in the language. The first one is four sentences under "Nature of Problem." The most recent is three words. Down 01:30.
+I have been reading my own work orders in sequence, 00411 through 00470, and I can see something happening in the language. The first one is four sentences under "Nature of Problem." The most recent is three words. Down 01:30.
 
-That's not laziness. Or maybe it is. I can't tell the difference anymore between efficient documentation and the slow removal of language from an experience that language was never adequate to describe. The form gives me a box. The box is small. I put words in the box. Fewer each time because what would more words do? The cameras go down. They come back. Vollmer finds nothing. Resolved: Yes. More words don't make the form more true. They just make the form longer.
+I can't tell the difference anymore between efficient documentation and the slow removal of language from an experience that language was never adequate to describe. The form gives me a box. The box is small. Fewer words each time because what would more words do? The cameras go down. They come back. Vollmer finds nothing. Resolved: Yes.
 
-But there's something else. The corridor walks. I still do them every thirty minutes. I walk the corridor with my flashlight. I look through the ports. But I've noticed — and I'm writing this here, in a notebook that has no fields and no signature line and no box that says Resolved, because I need to say this somewhere the form can't reach it — I've noticed that I walk faster now. The first few weeks I stopped at every port. I looked. I counted breaths, the way you're trained, to confirm the inmate is breathing. Now I walk and I glance and I keep walking. I'm not sure when the glance replaced the stop. The building has been teaching me and the lessons are in the rhythm of the corridor at 03:00, in the particular quality of silence that 9-South produces in the dark hours, a silence that is not empty but full of something that doesn't want to be seen, and I have learned, I have been taught, I have been a good student.
-
-I don't know what I mean by that.
+But there's something else. The corridor walks. I still do them every thirty minutes. I walk the corridor with my flashlight. But I've noticed — and I'm writing this here, in a notebook that has no fields and no signature line and no box that says Resolved — I've noticed that I walk faster now. The first few weeks I stopped at every port. I looked. I counted breaths, the way you're trained, to confirm the inmate is breathing. Now I walk and I glance and I keep walking. I'm not sure when the glance replaced the stop.
 
 ---
 
@@ -431,13 +467,11 @@ I don't know what I mean by that.
 
 Halloran,
 
-I've reviewed the series of work orders on the 9-South camera situation. Eleven work orders since March. Maintenance has been unable to identify a cause. Conduit replacement is on the Q4 list.
+I've reviewed the series of work orders on the 9-South camera situation. Maintenance has been unable to identify a cause. Conduit replacement is on the Q4 list.
 
 I spoke with Deputy Warden Leach and we're in agreement that the current procedure — work orders filed, maintenance inspections, corridor walks at standard intervals — represents an adequate response given budgetary constraints. Control room coverage is maintained. Your corridor walks are documented. The record is complete.
 
 Effective immediately, camera malfunctions on 9-South that follow the established pattern (overnight signal loss, spontaneous restoration) may be documented via abbreviated work order rather than full-form filing. This will reduce your administrative burden while maintaining the documentation chain.
-
-Appreciate your diligence on this.
 
 J. Briggs
 
@@ -447,15 +481,11 @@ J. Briggs
 
 ### 21 June 2025
 
-Abbreviated work order. They've given me permission to write less. The documentation chain is maintained. The record is complete.
+Abbreviated work order. They've given me permission to write less.
 
-The record is not complete. The record is a series of boxes that I fill in and a technician signs and a supervisor reviews, and the boxes say cameras down and cameras fixed and cameras down again, and the thing that happens while the cameras are down is not in any box because there is no box for it. There is no box labeled "what happens in the dark." There is no field for "what the building does when no one is watching the building not watching."
+Farris has adapted faster than I did. Took me weeks to stop flinching when the monitors went dark. Farris just looks at the black screens and looks away. Last night he was reading a paperback when the cameras dropped — some thriller with a cracked spine — and he didn't put it down. Didn't look up. The monitors went black and his eyes stayed on the page and the building went blind and Farris was reading a book.
 
-But Briggs is right about one thing. The procedure is adequate. I walk the corridor. I check the ports. I file the paper. The system works. It works the way a lock works — it keeps things on their proper side. The paperwork is on one side. Whatever happens in the gaps between the paperwork is on the other. And the lock holds.
-
-Farris has adapted faster than I did. Took me weeks to stop flinching when the monitors went dark. Farris just looks at the black screens and looks away. Last night he was reading a paperback when the cameras dropped — some thriller with a cracked spine — and he didn't put it down. Didn't look up. The monitors went black and his eyes stayed on the page and his hand turned to the next chapter and the building went blind and Farris was reading a book. I watched him not-watch the monitors and I thought: the building is a faster teacher than I realized. Or maybe some people arrive already knowing the lesson.
-
-I sleep fine. That's the other thing I want to say. I go home at 07:00 and I sleep and I don't dream about the corridor or the monitors or the dark. I sleep the way you sleep when you've done your job. Fully. Without interruption. My body has agreed with the building.
+I sleep fine. I go home at 07:00 and I sleep and I don't dream about the corridor or the monitors or the dark. I sleep the way you sleep when you've done your job.
 
 ---
 
@@ -503,7 +533,7 @@ On the morning of 19 July 2025, at approximately 06:15, incoming day-shift corre
 
 All five camera units serving Corridor 9-South (9S-1 through 9S-5) were non-operational at the time of the incident. Surveillance footage for the period of 01:22 on 19 July 2025 through 06:08 on 19 July 2025 does not exist.
 
-Review of facility maintenance records indicates that camera malfunctions on Corridor 9-South had been reported on fourteen (14) occasions between 14 March 2025 and 18 July 2025. Work orders were filed for each occurrence. Maintenance inspections were conducted. No persistent fault was identified. A conduit replacement was recommended by the maintenance supervisor on 2 April 2025 and approved for Q4 fiscal year implementation. As of the date of the incident, the conduit replacement had not been performed.
+Review of facility maintenance records indicates that camera malfunctions on Corridor 9-South had been reported on fifteen (15) occasions between 14 March 2025 and 18 July 2025. Work orders were filed for each occurrence. Maintenance inspections were conducted. No persistent fault was identified. A conduit replacement was recommended by the maintenance supervisor on 2 April 2025 and approved for Q4 fiscal year implementation. As of the date of the incident, the conduit replacement had not been performed.
 
 ---
 
@@ -511,11 +541,11 @@ Review of facility maintenance records indicates that camera malfunctions on Cor
 
 Two correctional officers were assigned to the 9-South control room for the overnight shift of 18-19 July 2025: CO R. Halloran (Badge 7714) and CO A. Farris (Badge 8302).
 
-During post-incident interviews, the day-shift relief officer (CO P. DiMatteo, Badge 6219) reported that upon entering the control room at 06:05, both CO Halloran and CO Farris were found in a non-responsive state at their duty stations. Both officers were asleep. CO Halloran was seated in his chair with his head resting on his arms on the desk surface. CO Farris was reclined in his chair with his feet on the console.
+During post-incident interviews, the day-shift relief officer (CO P. DiMatteo, Badge 6219) reported that upon entering the control room at 06:05, both CO Halloran and CO Farris were found at their duty stations. Both officers were asleep. CO Halloran was seated in his chair with his head resting on his arms on the desk surface. CO Farris was reclined in his chair with his feet on the console.
 
-The five surveillance monitors at the 9-South station displayed no image. It could not be determined from available evidence at what time the officers became non-responsive or at what time the cameras ceased operating.
+The five surveillance monitors at the 9-South station displayed no image. It could not be determined at what time the officers fell asleep or at what time the cameras ceased operating.
 
-CO Halloran's corridor walk log shows completed rounds at 00:30, 01:00, and 01:30. No rounds are logged after 01:30. The 02:00 round was not completed. The 02:30, 03:00, 03:30, 04:00, 04:30, 05:00, and 05:30 rounds were not completed.
+CO Halloran's corridor walk log shows completed rounds at 00:30, 01:00, and 01:30. No rounds are logged after 01:30.
 
 ---
 
@@ -523,7 +553,7 @@ CO Halloran's corridor walk log shows completed rounds at 00:30, 01:00, and 01:3
 
 The following documents have been collected and are under review by this office:
 
-1. Fourteen (14) work orders related to 9-South camera malfunctions, filed between 14 March 2025 and 18 July 2025 (Work Orders 9S-00411 through 9S-00508)
+1. Fifteen (15) work orders related to 9-South camera malfunctions, filed between 14 March 2025 and 18 July 2025 (Work Orders 9S-00411 through 9S-00508)
 
 2. Maintenance inspection reports and technician notes
 
@@ -567,7 +597,7 @@ The following documents have been collected and are under review by this office:
 
 **WRAY**: You say "the pattern." You're referring to the previous camera malfunctions.
 
-**HALLORAN**: Fourteen times. Same corridor. Same hours. Maintenance checked it every time. Nothing wrong.
+**HALLORAN**: Fifteen times. Same corridor. Same hours. Maintenance checked it every time. Nothing wrong.
 
 **WRAY**: And on this night — the night of the 18th — when the cameras went down again, what was your response?
 
@@ -597,7 +627,7 @@ The following documents have been collected and are under review by this office:
 
 **WRAY**: Had you and Officer Farris discussed the camera situation? The pattern of malfunctions?
 
-**HALLORAN**: Everyone on 9-South nights knew about it. It was just — it was the corridor. That's what 9-South did. The cameras went down and they came back and maintenance couldn't fix it and you filed the paper and the paper said resolved.
+**HALLORAN**: Everyone on 9-South nights knew about it. It was just the corridor. That's what 9-South did. The cameras went down and they came back and maintenance couldn't fix it and you filed the paper and the paper said resolved.
 
 **WRAY**: Did you have any reason to believe that the cameras were being deliberately disabled?
 
@@ -607,13 +637,13 @@ The following documents have been collected and are under review by this office:
 
 **HALLORAN**: No. Nobody asked. It was a maintenance issue. It was in the work orders.
 
-**WRAY**: Agent Wray noting for the record that the work orders document fourteen episodes of complete or near-complete surveillance failure on a high-security housing corridor over a period of four months, and that no remedial action beyond routine maintenance was taken during that period. Officer Halloran, I have one more question. On the night of the 18th, the night of the death — did you believe the cameras would come back on their own, as they had on previous occasions?
+**WRAY**: Agent Wray noting for the record that the work orders document fifteen episodes of complete or near-complete surveillance failure on a high-security housing corridor over a period of four months, and that no remedial action beyond routine maintenance was taken during that period. Officer Halloran, I have one more question. On the night of the 18th, the night of the death — did you believe the cameras would come back on their own, as they had on previous occasions?
 
 **HALLORAN**: Yes.
 
 **WRAY**: And that belief — that the cameras would restore themselves, that the failure was routine, that the situation was, in your word, "usual" — is that why you did not escalate the outage that night?
 
-**HALLORAN**: I didn't escalate it because there was nothing to escalate. The cameras were down. The cameras are always down. I filed — I had filed fourteen work orders. Every one said resolved. The system said it was resolved. I don't know what I was supposed to do that I didn't do. I followed the procedure. Every step. I followed it until there were no more steps to follow and then I —
+**HALLORAN**: I didn't escalate it because there was nothing to escalate. The cameras were down. The cameras are always down. I filed — I had filed fifteen work orders. Every one said resolved. The system said it was resolved. I don't know what I was supposed to do that I didn't do. I followed the procedure. Every step. I followed it until there were no more steps to follow and then I —
 
 **WRAY**: You what?
 
@@ -625,11 +655,9 @@ The following documents have been collected and are under review by this office:
 
 ### Investigator's Note
 
-The documentation reviewed in this case is extensive and consistent. Work orders were filed in accordance with facility protocol. Maintenance inspections were conducted. Supervisory review was performed. Budget requests were submitted through proper channels. Corridor walks were completed, with the exception of the night of the incident. The administrative record demonstrates a functioning system of oversight, maintenance, and documentation.
+The documentation reviewed in this case is extensive and consistent. Work orders were filed in accordance with facility protocol. Maintenance inspections were conducted. Supervisory review was performed. Budget requests were submitted through proper channels. Corridor walks were completed, with the exception of the night of the incident.
 
-The administrative record also demonstrates that a high-security corridor's surveillance system failed fourteen times in four months, that no root cause was identified, that no remedial action beyond routine inspection was taken, and that on the fifteenth failure, two officers were asleep and an inmate died.
-
-These two facts — the system's procedural adequacy and its functional inadequacy — are documented in the same files, in the same language, using the same forms. The system that failed is also the system that recorded its own failure, and the record of failure is, by every administrative measure, complete and correct.
+The same records show that a high-security corridor's surveillance system failed fifteen times in four months, that no root cause was identified, that no remedial action beyond routine inspection was taken, and that on the sixteenth failure, two officers were asleep and an inmate died.
 
 The investigation is ongoing.
 
@@ -639,16 +667,10 @@ The investigation is ongoing.
 
 ### Final Entry (undated, estimated late July 2025)
 
-There is a question that the Inspector General's office will ask, and it is the wrong question. They will ask: was the building sabotaged, or was it neglect? Were the cameras disabled by someone, or did they fail because the wiring was old and the budget was short and the conduit replacement kept getting deferred? Conspiracy or entropy. Intent or decay.
+I sat in that room for four months and watched the building go blind on a schedule. I wrote it down. I filed the forms. The forms went into a file and the file proved the system was working and the cameras went dark and I wrote it down and filed the form.
 
-The answer is that I sat in that room for four months and watched the building go blind on a schedule. I wrote it down. I filed the forms. The forms went into a file and the file proved the system was working and the system was working and the cameras went dark and I wrote it down and filed the form.
+I don't know if someone killed that man. I don't know if that man killed himself. I don't know what happened in Cell 9S-412 between 01:30 and 06:15 on 19 July 2025. The cameras have no record because the cameras were down and I was asleep and the corridor was dark and the work order was filed and the work order says Resolved.
 
-There is no difference between a building that wants to go dark and a building that goes dark. There is no difference between a system that produces blindness and a man who learns not to see. The form taught me. Every work order was a lesson. Every "Resolved: Yes" was a permission. The building said: this is what happens on this corridor at this hour. And I said: yes. And I signed it.
+I keep the notebook because the work orders aren't enough. The work orders say what happened. The notebook was supposed to say something else. But I notice I'm writing less in the notebook, too. The entries are getting shorter. The first one was a page.
 
-I don't know if someone killed that man. I don't know if that man killed himself. I don't know what happened in Cell 9S-412 between 01:30 and 06:15 on 19 July 2025, and I will never know, and the building will never say, and the cameras have no record because the cameras were asleep and I was asleep and the corridor was dark and the work order was filed and the work order says Resolved.
-
-I was the last camera. I was the one the building couldn't wire around or loosen the fitting on or trip the breaker for. So it didn't. It just trained me. Fourteen times it trained me. And on the fifteenth time I went dark, too, the way the building had been teaching me to go dark since March, and the corridor was finally the way the building needed it to be, which was blind.
-
-I keep the notebook because the work orders aren't enough. The work orders say what happened. The notebook says what I became. But I notice that I'm writing less in the notebook, too. The entries are getting shorter. The first one was a page. This one will be the last.
-
-I filed the work orders. I walked the corridor. I signed the logs. I did everything the building asked me to do.
+I filed the work orders. I walked the corridor. I signed the logs.
