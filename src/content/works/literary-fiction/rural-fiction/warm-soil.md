@@ -7,7 +7,7 @@ authorA: Juan Rulfo
 authorB: Wendell Berry
 workX: "Pedro Paramo"
 workY: "Jayber Crow"
-wordCount: 4239
+wordCount: 4145
 readingTimeMinutes: 17
 tags: [farming, mexico, green-revolution, wheat, yaqui-valley, fathers-and-sons, tradition, modernity, dead-father, subsistence-agriculture, 1950s, rural-poverty, extension-agent, soil]
 rating: 0.0
@@ -35,27 +35,27 @@ combination:
     - "Knowledge of a place so specific it becomes a form of love that cannot translate"
 ---
 
-The extension agent came on a Tuesday, which Roque Almeida would remember because Tuesdays were when his father had always sharpened the plow blade, and there was something fitting about a man arriving with new seed on the day reserved for maintaining old tools. The agent carried a canvas sack across the yard and set it on the ground beside the well, which was dry, and said good morning, and Roque said good morning, and neither of them sat down.
+The extension agent came on a Tuesday, which Roque Almeida would remember because Tuesdays were when his father had always sharpened the plow blade. The agent carried a canvas sack across the yard and set it on the ground beside the well, which was dry, and said good morning, and Roque said good morning, and neither of them sat down.
 
-He was young, the agent. Twenty-four, maybe twenty-five. He wore a clean shirt with the government seal on the pocket and boots that had not been bought at any market Roque had ever seen. His Spanish was correct and careful, the Spanish of a man who had learned it properly, in a school, with grammar. He said his name was Emilio Fuentes. He said he was from the Oficina de Agricultura del Valle del Yaqui and he had something to show the farmers in this area and he was starting with Roque because Roque's parcel was the first one on the road from Obregon.
+He was young, the agent. Twenty-four, maybe twenty-five. He wore a clean shirt with the government seal on the pocket and boots that had not been bought at any market Roque had ever seen. His Spanish was the Spanish of a man who had learned it in a school, with grammar. He said his name was Emilio Fuentes. He was from the Oficina de Agricultura del Valle del Yaqui and he was starting with Roque because Roque's parcel was the first one on the road from Obregon.
 
 Roque looked at the sack. It was a forty-kilo sack, stitched shut with white thread, and it sat beside the well like a body.
 
 "It's wheat," Emilio said. "A new strain. Developed at the research station in Chapingo, tested here in the valley for three seasons. It produces twice the yield of what you're planting now."
 
-Roque had heard this. Everyone in the valley had heard this. The new wheat was something people talked about the way they talked about rain — as a thing that might come, a thing that was coming, a thing that had not yet arrived at their particular field. He had seen it growing on the Valenzuela land, four kilometers east, where old Valenzuela's son had planted it the previous spring and watched it come up gold and thick and wrong-looking, taller than the old wheat by a head, the stalks so heavy with grain they bent toward the earth like men praying.
+Roque had heard this. Everyone in the valley had heard this. The new wheat was something people talked about the way they talked about rain — as a thing that might come, a thing that was coming, a thing that had not yet arrived at their particular field. He had seen it growing on the Valenzuela land, four kilometers east, where old Valenzuela's son had planted it the previous spring and watched it come up gold and thick and wrong-looking, the stalks so heavy with grain they bent toward the earth.
 
 "Thank you," Roque said. He did not touch the sack.
 
 ---
 
-> You will know the soil by its warmth. Put your hand flat against it in the morning, before the sun. If it holds the night's heat, the soil is alive. If it is cold, something has gone out of it. A steel plow will take the warmth. The blade cuts too deep. It turns what should be on top to the bottom and brings up what has been sleeping. The soil does not want to be rearranged.
+> You will know the soil by its warmth. Put your hand flat against it in the morning, before the sun. If it holds the night's heat, the soil is alive. If it is cold, something has gone out of it. A steel plow will take the warmth. The blade cuts too deep. It turns what should be on top to the bottom and brings up what has been sleeping.
 
-His father had said this standing in the field behind the house, his hand on Roque's shoulder, both of them looking at the furrows another man's plow had made. Roque was eleven. The furrows were straight and deep and the exposed soil was dark, almost black, and it steamed faintly in the morning air, which his father said was the warmth leaving. Going up into nothing. You could see it if you looked carefully, and Roque looked carefully and saw it, the faint shimmer above the broken ground, and believed what his father told him because what else would he believe.
+His father had said this standing in the field behind the house, his hand on Roque's shoulder, both of them looking at the furrows another man's plow had made. Roque was eleven. The furrows were straight and deep and the exposed soil was dark, almost black, and it steamed faintly in the morning air. The warmth leaving. You could see it if you looked carefully, the faint shimmer above the broken ground, and Roque looked carefully and saw it, and believed what his father told him because what else would he believe.
 
-Tomás Almeida had farmed this parcel since 1919. Before that his father had farmed it, and before that nobody farmed it because it was desert and the canals had not been dug. The canals came and the water came and the Almeidas came, and that was the history of the parcel as Tomás understood it: water, then family, then wheat. The wheat they planted was a short, brown, stubborn grain that grew slowly and produced modestly and never failed entirely. It was not a generous wheat. It was a wheat that survived, which Tomás considered the higher virtue.
+Tomás Almeida had farmed this parcel since 1919. Before that his father had farmed it, and before that nobody farmed it because it was desert and the canals had not been dug. The canals came and the water came and the Almeidas came, and that was the history of the parcel: water, then family, then wheat. The wheat they planted was a short, brown, stubborn grain that grew slowly and produced modestly and never failed entirely. It was not a generous wheat. It was a wheat that survived.
 
-He died in 1948, in the field, on his knees between the rows, and Roque found him there in the late afternoon with his hands in the dirt as if he had been planting something and the act had simply continued past the boundary of his life. Roque pulled him out of the furrow and laid him on the path and sat with him until the light failed, and then carried him to the house. His mother had died in 1941. There was no one else to tell.
+He died in 1948, in the field, on his knees between the rows, and Roque found him there in the late afternoon with his hands in the dirt. Roque pulled him out of the furrow and laid him on the path and sat with him until the light failed, and then carried him to the house. His mother had died in 1941. There was no one else to tell.
 
 ---
 
