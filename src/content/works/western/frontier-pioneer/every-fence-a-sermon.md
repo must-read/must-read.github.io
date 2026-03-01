@@ -7,8 +7,8 @@ authorA: "Annie Proulx"
 authorB: "Larry McMurtry"
 workX: "My Ántonia by Willa Cather"
 workY: "Little House on the Prairie by Laura Ingalls Wilder"
-wordCount: 4968
-readingTimeMinutes: 20
+wordCount: 4705
+readingTimeMinutes: 19
 tags: ["homesteading", "frontier delusion", "Nebraska prairie", "1870s", "family survival", "moral conviction", "Homestead Act", "pioneer women", "seasonal cycle", "protagonist is wrong"]
 rating: 0
 ratingCount: 0
@@ -69,7 +69,7 @@ Our mother looked at the half-dugout and said, "Where is the floor?"
 
 ---
 
-The first year he broke thirty acres with a borrowed plow and a team of oxen he'd bought on credit from a man in Broken Bow named Esterhaus, who charged him twelve percent interest and told him the soil was good for wheat. The soil was not good for wheat. The soil was good for grass, which had spent ten thousand years becoming what it was, and which did not appreciate being opened up to the wind and the sun and the specific mineral hunger of winter wheat, a plant it had never met and did not want to know.
+The first year he broke thirty acres with a borrowed plow and a team of oxen he'd bought on credit from a man in Broken Bow named Esterhaus, who charged him twelve percent interest and told him the soil was good for wheat. The soil was not good for wheat. The soil was good for grass, which had spent ten thousand years becoming what it was, and which did not appreciate being opened up to the wind and the sun and the mineral hunger of winter wheat, a plant it had never met and did not want to know.
 
 The wheat came up thin and pale, like hair on a sick child. My father stood at the edge of the field with his hands on his hips and said it would thicken. It did not thicken. What thickened was the wind, which took the topsoil from the broken ground and deposited it against the south wall of the half-dugout in a drift that reached the eave by August.
 
@@ -93,27 +93,27 @@ She left the next morning. He mended the fence.
 
 ---
 
-The winters I do remember. Winters on that quarter section were a kind of education — not in survival, though we learned that too, but in the specific geometry of confinement. Five people in a sod house sixteen by twenty-two feet, November through March, with a cast-iron stove that burned twisted hay when we ran out of buffalo chips and burned buffalo chips when we could find them and burned cottonwood when my father could spare the time to fell it, which was seldom, because there was always fencing to repair or harness to mend or some improvement he was making to the house that would take three times longer than he estimated and use twice the materials.
+The winters I do remember. Winters on that quarter section were a kind of education in the geometry of confinement. Five people in a sod house sixteen by twenty-two feet, November through March, with a cast-iron stove that burned twisted hay when we ran out of buffalo chips and burned buffalo chips when we could find them and burned cottonwood when my father could spare the time to fell it, which was seldom, because there was always fencing to repair or harness to mend or some improvement to the house that would take three times longer than he estimated and use twice the materials.
 
-My mother cooked on that stove the same seven meals in rotation: cornbread and salt pork, beans with onion, potato soup, johnnycake, boiled wheat with molasses, dried-apple pie when there were apples, and a kind of porridge she made from cracked wheat that she'd pound in a canvas bag with a flat stone because we didn't own a grain mill. On Sundays she added lard to the cornbread. This was the extent of celebration.
+My mother cooked on that stove the same seven meals in rotation: cornbread and salt pork, beans with onion, potato soup, johnnycake, boiled wheat with molasses, dried-apple pie when there were apples, and a porridge she made from cracked wheat that she'd pound in a canvas bag with a flat stone because we didn't own a grain mill. On Sundays she added lard to the cornbread. This was the extent of celebration.
 
 She stored the flour in a barrel she'd lined with oilcloth and she checked it every Monday morning. She would plunge her hand into the barrel to the wrist and feel the level, and I could read the year's trajectory in her face as clearly as my father claimed to read it in the clouds. When her hand went in past the wrist, we were fine. When it stopped at the palm, we were careful. When she withdrew just her fingers, white with flour dust, she would stand very still for a moment and then wipe her hand on her apron and begin to plan how to stretch what remained until the store in Broken Bow could extend us more credit, which it sometimes would and sometimes wouldn't, depending on whether my father had paid the last account, which he sometimes had and sometimes hadn't.
 
-Halvor and I shared a pallet in the corner by the west wall. The sod sweated in winter — moisture from the ground and from our breathing condensed on the inside surface and ran down in thin streams that froze in January and thawed in February and left the bedding damp through March. My mother hung a flour sack over the wall beside our pallet, which she washed every week and which was always stained with the particular rust color of sod-wall seepage. I can still smell it. Wool and damp earth and the mineral taste of water that has passed through thirty inches of compacted prairie grass and come out the other side changed into something that isn't quite water anymore.
+Halvor and I shared a pallet in the corner by the west wall. The sod sweated in winter — moisture from the ground and from our breathing condensed on the inside surface and ran down in thin streams that froze in January and thawed in February and left the bedding damp through March. My mother hung a flour sack over the wall beside our pallet, which she washed every week and which was always stained with the rust color of sod-wall seepage. I can still smell it. Wool and damp earth and the mineral taste of water that has passed through thirty inches of compacted prairie grass and come out the other side changed into something that isn't quite water anymore.
 
-My father slept well. This is a detail that seems small but was not. He slept deeply and without apparent disturbance, eight hours when he could get them, and woke ready. My mother did not sleep well. I would hear her in the dark, turning on the bed, or standing at the stove to warm water for her hands, which cracked and bled in winter from the alkali and the cold and the constant work of washing clothes in water that itself was an abrasive. She would stand at the stove with her hands wrapped around a tin cup, looking at nothing, and the firelight through the stove grate would throw a pattern of bars across her face and across the floor and across the far wall where the flour sack hung, and everything in the room would look like it was behind something.
+My father slept well. This is a detail that seems small but was not. He slept deeply and without apparent disturbance, eight hours when he could get them, and woke ready. My mother did not sleep well. I would hear her in the dark, turning on the bed, or standing at the stove to warm water for her hands, which cracked and bled in winter from the alkali and the cold and the constant washing. She would stand at the stove with her hands wrapped around a tin cup, looking at nothing, and the firelight through the stove grate would throw a pattern of bars across her face and across the floor and across the far wall where the flour sack hung, and everything in the room would look like it was behind something.
 
 ---
 
 What I want to tell you about is the year 1881, which was the year everything happened, which is how I remember it though of course things happened every year and most of them were the same things — planting, weeding, harvesting what little came, surviving winter — and the sameness was its own kind of violence, a slow-motion bruising that didn't show on the skin but showed in the way my mother moved by the time I was eleven, careful and deliberate, as if she had learned to economize not just flour and kerosene but motion itself.
 
-In 1881 my father decided to dig a new well. The old well had gone alkali the previous summer — the water tasted of salt and metal and left a white residue on the pot that my mother scrubbed off with sand — and my father believed that if he dug deeper he would find clean water. This was possible. It was also possible that he would find more alkali, or nothing at all, or that the walls of the new well would collapse in the loose sandy soil of the upper layers before he ever reached the aquifer. But possibility was my father's currency. He traded in it the way other men traded in wheat futures.
+In 1881 my father decided to dig a new well. The old well had gone alkali the previous summer — the water tasted of salt and metal and left a white residue on the pot that my mother scrubbed off with sand — and my father believed that if he dug deeper he would find clean water. This was possible. It was also possible that he would find more alkali, or nothing at all, or that the walls would collapse in the loose sandy soil before he ever reached the aquifer. But possibility was my father's currency. He traded in it the way other men traded in wheat futures.
 
-He dug for three weeks. By hand, with a short-handled spade and a bucket and a rope and Halvor hauling the bucket up on a windlass he'd built from cottonwood poles. Halvor was fifteen that year and already taller than our father, with our mother's narrow face and our father's hands — big, square, permanently cracked across the knuckles from the alkali water and the wind and the cold and the constant friction of tools against soil.
+He dug for three weeks. By hand, with a short-handled spade and a bucket and a rope and Halvor hauling the bucket up on a windlass he'd built from cottonwood poles. Halvor was fifteen that year and already taller than our father, with our mother's narrow face and our father's hands — big, square, cracked across the knuckles from the alkali water and the wind and the cold and the constant friction of tools against soil.
 
 At twenty-two feet they hit clay. My father sent Halvor home and kept digging alone, because the clay was harder and the bucket came up heavier and because — I understand this now in a way I could not have understood it then — the struggle was the point. If the water came easy it proved nothing. If the water came hard it proved everything. Every foot of clay was testimony. Every blister was a prayer answered before it was asked.
 
-At thirty-one feet the wall gave way. The sandy soil above the clay layer slumped inward, not catastrophically, not enough to bury him, but enough to fill the bottom three feet of the hole and crack two of the shoring timbers. My father climbed out with mud in his hair and his left hand bleeding from where a timber end had caught him across the palm, and he stood at the lip of the ruined well and looked down into it and said, "I'll start again tomorrow."
+At thirty-one feet the wall gave way. The sandy soil above the clay layer slumped inward, not enough to bury him, but enough to fill the bottom three feet and crack two of the shoring timbers. My father climbed out with mud in his hair and his left hand bleeding where a timber end had caught him across the palm, and he stood at the lip of the ruined well and looked down into it and said, "I'll start again tomorrow."
 
 My mother was standing in the dooryard — we had a proper house by then, still sod but with a wood-frame roof and real glass in two of the three windows — and she said nothing. She went inside and came out with a basin of water and a rag and cleaned his hand and wrapped it in a strip of flour sacking and went back inside and stood at the stove with her back to the door, and I could see her shoulders moving in a way that might have been crying or might have been the effort of not crying, and either way it was something she did not want witnessed.
 
@@ -121,7 +121,7 @@ He started again the next morning. Same spot. Dug out the slumped soil, reshored
 
 At thirty-four feet they found water. Clean water. Sweet, cold, without the alkali taste. My father climbed out of that well and dropped to his knees and bowed his head and wept, and we all stood there — Halvor and I and Brit, who was four, and our mother — and watched him weep, and no one went to him, and no one spoke.
 
-I have thought about that moment for thirty-three years. I have turned it in my mind the way you turn a stone, looking for the seam. And what I have come to believe is this: we did not go to him because his weeping was not grief and it was not relief. It was vindication. He was right. The land had tested him and he had passed. The broken well was not a warning — it was a trial. The clean water was not luck — it was a verdict. And we could not comfort a man who was celebrating, even if what he was celebrating was the thing that was destroying us.
+I have thought about that moment for thirty-three years. And what I have come to believe is this: we did not go to him because his weeping was not grief and it was not relief. It was vindication. He was right. The land had tested him and he had passed. The broken well was not a warning — it was a trial. The clean water was not luck — it was a verdict. And we could not comfort a man who was celebrating, even if what he was celebrating was the thing that was destroying us.
 
 ---
 
@@ -139,7 +139,7 @@ Brit said, "I won't forget any of them."
 
 Our mother said, "You will. You'll learn new ones. That's the point."
 
-Our father did not come to the table that night. He was outside mending the hinge on the root cellar door, a job that took him the better part of three hours and could have waited a week. He said goodnight to Brit through the doorway without coming inside, his hands black with grease, and Brit said goodnight back, and that was their farewell. There was no cruelty in it. There was no warmth either. There was the particular flatness of a man who has decided that departures are routine and who has cultivated that decision so thoroughly he can no longer tell the difference between composure and indifference.
+Our father did not come to the table that night. He was outside mending the hinge on the root cellar door, a job that took him the better part of three hours and could have waited a week. He said goodnight to Brit through the doorway without coming inside, his hands black with grease, and Brit said goodnight back, and that was their farewell. There was no cruelty in it. There was no warmth either. There was the flatness of a man who has decided that departures are routine and who has cultivated that decision so thoroughly he can no longer tell the difference between composure and indifference.
 
 I left the following spring, in 1889, at thirteen, to live with a family in Broken Bow named Esterhaus — the same Esterhaus who had sold our father the oxen on credit sixteen years earlier, and who by then owned a dry-goods store and needed a girl to mind his younger children while his wife was ill. I told my father I was going and he said, "There's fencing to do on the east line."
 
@@ -149,7 +149,7 @@ He said, "The wheat will be better this year. The signs are good."
 
 The signs were not good. The signs were the same as every year — dry spring, late rain, hot wind in July that cooked the grain on the stalk — but the signs had never been good and he had never stopped reading them as favorable, the way a man in love reads indifference as mystery.
 
-"I know," I said again, and he looked at me then, truly looked at me, for what I believe was the first time since Halvor died, and something crossed his face — not understanding, not remorse, but a kind of bewildered arithmetic, as if he were adding up the family and the sum kept coming out smaller than it should.
+"I know," I said again, and he looked at me then, truly looked at me, for what I believe was the first time since Halvor died, and something crossed his face — not understanding, not remorse, but a bewildered arithmetic, as if he were adding up the family and the sum kept coming out smaller than it should.
 
 "You'll come back," he said. It was not a question.
 
@@ -165,26 +165,20 @@ Eleven bushels. The same as the first year. Thirty years and the yield was ident
 
 I stood at the edge of what had been the dooryard and looked at the depression where the house had been and the filled-in well and the high ground where Halvor was buried, and the fence was gone — the cedar posts had rotted, the wire had been taken by someone or something — and the grass was growing over the grave the same as it grew over everything else, bluestem and switchgrass and the little hair-grass tufts that bent in the wind, all of it undifferentiated, all of it the same grass, and there was no marker and no fence and no sign that a boy had lived and died here except a slight unevenness in the ground that might have been a grave or might have been a gopher mound or might have been nothing.
 
-The wheat field was gone. Not fallow — gone. The grass had come back, as grass does when you stop fighting it. Ten years without plowing and the roots had reclaimed every furrow, and the topsoil had stabilized, and the ground that my father had broken and broken and broken was whole again, and it looked exactly the way it had looked when we arrived in 1873, which was the way it had looked for ten thousand years before that, which is to say: complete. Not waiting. Not empty. Not yearning for a plow.
+The wheat field was gone. Not fallow — gone. The grass had come back, as grass does when you stop fighting it. Ten years without plowing and the roots had reclaimed every furrow, and the topsoil had stabilized, and the ground that my father had broken and broken and broken was whole again, and it looked the way it had looked when we arrived in 1873, which was the way it had looked for ten thousand years before that.
 
-Complete.
-
-I picked up a handful of soil. It was dark and dense and full of roots — nothing like the pale, sandy, wind-stripped dirt I remembered from the fields. The grass had restored what the wheat had taken. The land had healed itself in the simplest possible way: by refusing to remember what had been done to it.
-
-And I thought: this is the estampage. This is the impression pressed into paper, reversed. Everything my father carved into this ground — every furrow, every fence post, every sermon he preached with his body — the land has taken it all back and given nothing in return. No monument. No inscription. No proof that Gust Nygaard was here and believed that being here was righteous and spent thirty years trying to convert one hundred and sixty acres of grass into evidence of his own worth.
-
-The grass has no opinion of my father. The grass does not remember him. The grass is doing what grass does, which is grow, and die, and grow again, and it is doing it on a schedule that has nothing to do with the schedules of men.
+I picked up a handful of soil. It was dark and dense and full of roots — nothing like the pale, sandy, wind-stripped dirt I remembered from the fields. The grass had restored what the wheat had taken.
 
 ---
 
-I don't know what I expected to feel. Grief, maybe, or anger, or the vindication that comes when you've spent decades knowing something and the evidence finally arrives in a form you can hold in your hand. But what I felt, standing in that October wind with the dirt crumbling between my fingers and the grass moving around me like water, was something closer to embarrassment. Not for my father — his wrongness was too large and too consequential for embarrassment. For myself. For having come back. For having thought that returning to the site of a failed conviction would produce a revelation, as if the land that had refused my father's meaning would somehow grant me mine.
+I don't know what I expected to feel. Grief, maybe, or anger, or the vindication that comes when you've spent decades knowing something and the evidence finally confirms it. But what I felt, standing in that October wind with the dirt crumbling between my fingers and the grass moving around me, was something I still can't properly name. Smaller than grief. Closer to embarrassment. I had come back expecting the land to testify — to confirm that my father had been wrong, that we had suffered for nothing, that I was right to leave. And the land did no such thing. The land was growing grass.
 
-The man with the wagon was waiting on the road. I walked back. The wind picked up as I crossed the open ground, and by the time I reached the wagon it was blowing hard from the northwest, carrying dust and grass seeds and the smell of distance, which is the smell of nothing mixed with cold.
+My father's wrongness was large enough to fill a life and bury a son and drive away a wife and two daughters. My own wrongness was smaller but the same species: thinking that coming back here would mean something. Thinking the land owed me an answer the way he thought it owed him a harvest.
+
+The man with the wagon was waiting on the road. I walked back. The wind picked up as I crossed the open ground, and by the time I reached the wagon it was blowing hard from the northwest, carrying dust and grass seeds and cold.
 
 "Find what you were looking for?" the man asked.
 
-I said I had.
+I said I had. He didn't need the truth and I didn't have it.
 
-It was a lie, but it was the kind of lie that makes conversation possible, which is the kind my mother would have told, and I sat on the wagon seat and we drove back toward Broken Bow through grass that grew on both sides of the road and over the road itself in places where the ruts had softened, the grass reclaiming the track the way it reclaimed everything — not aggressively, not triumphantly, but with the plain patience of something that was here before you came and will be here after you leave and does not, has never, will never care what you thought you were building.
-
-The first snow came that night. It fell on the prairie and on the road and on the place where the house had been and on the place where Halvor was buried and on the grass that grew over all of it without distinction, and by morning every mark was covered and the land was white and still and complete.
+We drove back toward Broken Bow through grass that grew on both sides of the road and over the road itself in places where the ruts had softened. The first snow came before we reached town — early, just a few flakes turning in the wind, melting when they hit the ground. By the time I boarded the train it was falling steady, and I watched it through the window as we pulled east, covering the prairie the way it covered everything, without preference, without judgment, accumulating.
