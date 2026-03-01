@@ -19,7 +19,7 @@ tags:
   - erotic
   - intimacy
 publishedDate: 2026-03-01
-status: "draft"
+status: "published"
 formulaSummary: >
   Hibbert's witty, embodied specificity about living in a complicated body meets Woolf's luminous interiority and fluid sense of self. A cartographic data analyst with fibromyalgia and her sensory-hypersensitive neighbor negotiate desire as a mutual mapping project — each body a foreign country requiring its own legend.
 synopsis: >

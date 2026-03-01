@@ -10,10 +10,10 @@ workY: "The Memory Police by Yoko Ogawa"
 wordCount: 3674
 readingTimeMinutes: 15
 tags: ["language", "loss", "anosmia", "communication", "disability", "isolation"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Nabokov's ornate linguistic precision and Ogawa's clinical rendering of disappearance shape a Flowers for Algernon-style decline narrative set in a Memory Police world where the vanishing capacity is smell-as-language."
 synopsis: "In a society where adults communicate through pheromone secretion, an actuary losing his sense of smell must fake fluency in a language he can no longer perceive."
 combination:

@@ -18,10 +18,10 @@ tags:
   - "expedition"
   - "treasure hunt"
   - "pulp adventure"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "Smith's scorching African landscape prose meets Verne's geological problem-solving in a Haggard-structured treasure hunt through the Danakil Depression, where a phonolite formation buried beneath ancient salt flats becomes the prize in a Raiders-style race against a corporate extraction team."
 synopsis: "A geologist follows a dead explorer's journal into the hottest place on Earth, racing a mining company to reach a buried stone formation that rings like a bell — if the geology doesn't swallow them both first."
 combination:

@@ -19,7 +19,7 @@ tags:
   - ambiguous-ending
   - feminist-gothic
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Carter's baroque feminist Gothic of the controlling craftsman and Brontë's elemental, boundary-destroying love converge in a taxidermist's household where two women raised as sisters discover their bond is the only living thing among the preserved dead.
 synopsis: >

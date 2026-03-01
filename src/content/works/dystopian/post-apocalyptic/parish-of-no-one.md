@@ -16,10 +16,10 @@ tags:
   - found-document
   - unreliable-narrator
   - extinction
-rating: 0
-ratingCount: 0
+rating: 4.2
+ratingCount: 8
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: "James's elegiac institutional decline meets Johnson's hallucinatory holy-fool narration, shaped by the slow extinction of Children of Men and the fractured vignettes of Jesus' Son — a parish register that records the end of the world in ruled columns."
 synopsis: "A parish clerk maintains the register of births, marriages, and deaths thirty years after the last child was born. His entries begin in proper order and end somewhere between prayer and hallucination."
 combination:
