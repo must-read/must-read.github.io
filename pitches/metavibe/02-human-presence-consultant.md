@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/metavibe/"
 sourceType: "novel-chapter"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Ted Chiang"
 authorB: "George Saunders"

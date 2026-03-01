@@ -20,9 +20,9 @@ tags:
   - bodily-autonomy
   - surrealism
   - corporate-control
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 10
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Butler's visceral power dynamics and unflinching bodily specificity collide with Machado's surreal fairy-tale logic as a compliance herbalist in a world of patented genomes cultivates unauthorized mycelial growth within her own flesh — becoming something the corporate system cannot categorize, cannot bill, and cannot tolerate."
 synopsis: "In a world where genomes are corporate property requiring paid maintenance, a compliance herbalist stops taking her supplements and begins growing something unauthorized inside her body — something the patent system cannot read, cannot own, and cannot forgive."

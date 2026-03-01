@@ -20,8 +20,8 @@ tags:
   - body-horror
   - fairy-tale-logic
   - perimeter
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: 2026-03-01
 status: draft
 formulaSummary: "Du Maurier's atmospheric domestic dread meets Carter's fairy-tale predation in a story about a couple in a new development where the house itself seems to be digesting something the narrator refuses to name"

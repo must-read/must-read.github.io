@@ -18,10 +18,10 @@ tags:
   - landscape
   - literary-fiction
   - shelter
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: 2026-03-01
-status: "draft"
+status: "published"
 formulaSummary: >
   Hemingway's iceberg theory — short declarative sentences where emotion lives in omission, dialogue that communicates through what it refuses to say, physical action standing in for interior life — fused with Robinson's luminous attention to light, landscape, and the theological weight of ordinary moments, her generosity toward human failing, her long patient gaze at the things of this world. In Our Time provides the architecture: interconnected vignettes, each self-contained, white space as structural principle, compression accumulating toward a picture no single section can hold. Housekeeping provides the thematic engine: two women defined by their opposite relationships to shelter, domesticity as both haven and erasure, transience as its own form of fidelity, and loss not as disruption but as the permanent ground of existence.
 synopsis: >

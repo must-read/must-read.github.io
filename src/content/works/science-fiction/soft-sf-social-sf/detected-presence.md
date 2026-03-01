@@ -20,10 +20,10 @@ tags:
   - algorithms
   - companionship
   - ambiguity
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
-status: "draft"
+status: "published"
 formulaSummary: >
   Chiang's crystalline philosophical precision meets Saunders' corporate absurdism and aching empathy. Klara and the Sun provides the structural inversion — here the human observes the algorithm with compromised clarity rather than the AI observing humans. The Lifecycle of Software Objects provides the central tension of genuine attachment between human and artificial mind, threatened by economic systems that treat both as replaceable.
 synopsis: >

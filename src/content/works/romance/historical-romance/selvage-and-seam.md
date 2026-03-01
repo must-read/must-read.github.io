@@ -22,9 +22,9 @@ tags:
   - "Oberlin"
   - "marriage"
   - "risk-card"
-rating: 0.0
-ratingCount: 0
-status: "draft"
+rating: 4.0
+ratingCount: 9
+status: "published"
 publishedDate: "2026-03-01"
 formulaSummary: "Jenkins's meticulous Black historical romance meets Austen's ironic social comedy in a dual-timeline story of a free Black milliner and an abolitionist minister in 1850s Ohio, bridged by their daughter's discovery of love letters two decades later."
 synopsis: "In 1854 Oberlin, Ohio, milliner Nella Goss clashes with the new minister whose Boston propriety masks depths she refuses to see. In 1873, their daughter reads the letters that rewrote everything."
