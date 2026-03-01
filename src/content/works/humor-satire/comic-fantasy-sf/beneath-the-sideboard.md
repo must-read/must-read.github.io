@@ -7,8 +7,8 @@ authorA: "Neil Gaiman"
 authorB: "P.G. Wodehouse"
 workX: "Jeeves and Wooster stories"
 workY: "Neverwhere"
-wordCount: 4715
-readingTimeMinutes: 19
+wordCount: 4103
+readingTimeMinutes: 16
 tags:
   - invisible world
   - valet
@@ -221,7 +221,7 @@ Third, and most inconveniently: the Under-Borough of Floorswick had dispatched a
 
 "I am not," I said, "the local Surface Warden."
 
-"Your man is from Below," Mrs. Guttering said. She was sitting in my armchair drinking my sherry with the comfortable authority of a woman who has been navigating bureaucracies considerably stranger than mine. "That makes you a threshold household. Threshold households have responsibilities."
+"Your man is from Below," Mrs. Guttering said. She was sitting in my armchair drinking my sherry with the authority of a woman who has navigated bureaucracies considerably stranger than mine. "That makes you a threshold household. Threshold households have responsibilities."
 
 "I have quite enough responsibilities," I said. "There is an aunt. There is a garden party. There is a girl I am apparently courting despite having exchanged fewer than twelve words with her, eight of which were about a cat."
 
@@ -241,9 +241,9 @@ Third, and most inconveniently: the Under-Borough of Floorswick had dispatched a
 
 "Mushrooms," I said. "Commentating mushrooms."
 
-"The Under-Boroughs are not quite what you'd expect, Mr. Dovetail. They're not underground, exactly — they exist in the spaces between. Like the pause between heartbeats, if the pause had plumbing and a local council. Floorswick has been there since the Great Fire. When London Above burned, quite a lot of it fell through, and what fell through kept going. The Borough has been sending representatives to Surface for centuries. We're very organized. There's a pension scheme."
+"The Under-Boroughs are not quite what you'd expect, Mr. Dovetail. They exist in the spaces between. Like the pause between heartbeats, if the pause had plumbing and a local council. We've been there since the Great Fire — when London Above burned, quite a lot of it fell through. We're very organized. There's a pension scheme."
 
-I opened my mouth, closed it, and reached for the sherry.
+I reached for the sherry.
 
 Pallwick materialized — I use the word advisedly — at my elbow with a fresh sherry. "Mrs. Guttering is correct, sir. The situation requires attention."
 
@@ -255,9 +255,7 @@ Pallwick materialized — I use the word advisedly — at my elbow with a fresh 
 
 "It would be helpful, sir, if the household were unoccupied at the time. The procedure involves a degree of activity that might be difficult to explain in domestic terms."
 
-I saw where this was going. It was going to the place where Aunt Honoria's social engineering and Pallwick's subterranean crisis management intersected, and that intersection was going to involve me doing something that I would, under normal circumstances, prefer not to do.
-
-"You want me," I said slowly, "to invite the Farthingale-Thwaites out for the evening."
+"You want me," I said, "to invite the Farthingale-Thwaites out for the evening."
 
 "If it would not be too much trouble, sir."
 
@@ -273,9 +271,9 @@ I saw where this was going. It was going to the place where Aunt Honoria's socia
 
 "I leave the social particulars to you, sir. It is not my area."
 
-This was, I felt, rather rich coming from a man whose area apparently included interdimensional plumbing, but I let it pass. The immediate problem was twofold: I had to engineer an evening out for the entire Farthingale-Thwaite household, including a cat of considerable size and uncertain temperament, and I had to do so without arousing the suspicion of Aunt Honoria, who monitored my courtship of Clementine with the attentiveness of a chess grandmaster watching an amateur fumble through an opening gambit.
+This was rather rich coming from a man whose area apparently included interdimensional plumbing, but I let it pass.
 
-I telephoned Aunt Honoria. I volunteered — *volunteered* — to take Clementine and her parents to the theatre. The silence on the other end of the line was the silence of a woman whose plans are succeeding beyond her most optimistic projections, and it lasted approximately four seconds before erupting into a cascade of approval that covered topics ranging from my choice of venue to wedding locations to her considered opinion on the naming of children.
+I telephoned Aunt Honoria. I volunteered — *volunteered* — to take Clementine and her parents to the theatre. The silence on the other end of the line lasted approximately four seconds before erupting into a cascade of approval covering topics from my choice of venue to wedding locations to her considered opinion on the naming of children.
 
 "You will wear the dark blue," she said.
 
@@ -291,15 +289,15 @@ I telephoned Aunt Honoria. I volunteered — *volunteered* — to take Clementin
 
 "Women like men who listen, you imbecile."
 
-The cat was a separate problem. Clementine solved it herself, inadvertently, by mentioning during our afternoon call that Admiral had become so fixated on the sideboard that she was considering bringing him to the vet. I suggested, with what I hoped was breezy nonchalance, that she bring him round to my flat instead — fresh surroundings, change of scene, do the old boy good. She agreed. I did not mention that my flat contained a man from a parallel dimension who was, at that moment, preparing implements of uncertain provenance for an evening of subterranean maintenance.
+The cat was a separate problem. Clementine solved it herself by mentioning that Admiral had become so fixated on the sideboard that she was considering the vet. I suggested she bring him round to my flat instead — fresh surroundings, change of scene, do the old boy good. She agreed. I did not mention that my flat contained a man from a parallel dimension preparing implements of uncertain provenance for an evening of subterranean maintenance.
 
 ---
 
-Pallwick handled the theatre tickets. Of course he did. He produced them from somewhere — I did not ask where, and the faint smell of wet stone that clung to the envelope suggested that the answer would not have improved my evening — and they were excellent seats, third row center, for a production of something at the Old Vic. The programme, when I examined it later, appeared to be printed on paper that was not quite paper, in an ink that was not quite ink, but the seats were real enough, and the actors were convincing, and if one or two of them cast shadows that didn't quite match their movements, well, theatre is all about shadows.
+Pallwick handled the theatre tickets. He produced them from somewhere — the faint smell of wet stone clinging to the envelope discouraged further inquiry — and they were excellent seats, third row center, for a production of something at the Old Vic. The programme appeared to be printed on paper that was not quite paper, in an ink that was not quite ink, but the seats were real enough, and if one or two of the actors cast shadows that didn't quite match their movements, well, theatre is all about shadows.
 
-I collected the Farthingale-Thwaites at seven. Clementine was wearing a green dress that suggested she had not entirely abandoned the possibility that the evening might be enjoyable. Her parents emerged with the resigned good humor of people who have been told they are going out and have decided to make the best of it, like hostages who have chosen to appreciate the catering. Admiral had been deposited at my flat an hour earlier, where Pallwick had installed him in the kitchen with a saucer of cream and a calm authority that the cat appeared to find, if not pleasant, at least non-negotiable.
+I collected the Farthingale-Thwaites at seven. Clementine was wearing a green dress that suggested she had not entirely abandoned the possibility that the evening might be enjoyable. Her parents emerged like hostages who have chosen to appreciate the catering. Admiral had been deposited at my flat an hour earlier, where Pallwick had installed him in the kitchen with a saucer of cream and an authority the cat found, if not pleasant, at least non-negotiable.
 
-The evening went well. Clementine, freed from the surveillance of her mother's dining table, turned out to be genuinely funny — not witty in the performed, quotation-ready way, but funny in the way of someone who has noticed that the world is ridiculous and has decided to enjoy it rather than fix it. During the interval she told me about Admiral's ongoing campaign against the underside of the sideboard, and I listened, partly because Aunt Honoria had instructed me to listen and partly because there was something in her account that bothered me.
+Clementine, freed from the surveillance of her mother's dining table, turned out to be genuinely funny — not witty in the performed, quotation-ready way, but funny in the way of someone who has noticed that the world is ridiculous and has decided to enjoy it rather than fix it. During the interval she told me about Admiral's campaign against the sideboard, and I listened, partly because Aunt Honoria had instructed me to listen and partly because something in her account bothered me.
 
 "He's been absolutely impossible," she said. "Sits there all night. Won't eat. Won't sleep. Just stares at the baseboard and growls."
 
@@ -307,49 +305,47 @@ The evening went well. Clementine, freed from the surveillance of her mother's d
 
 "It's not the cat that's peculiar. It's the baseboard. There's a crack in it that wasn't there last month, and sometimes, when the light is right — or wrong, I suppose — you can see something through it. Like looking through a keyhole into a room that's bigger than the room it's in."
 
-She said this calmly, the way one might mention a draft or a sticky window, and it was the calmness that unnerved me. Most people, confronted with evidence of a parallel dimension in their dining room, would exhibit some degree of agitation. Clementine mentioned it the way she might mention an interesting cloud formation — worth noting, not worth panicking about.
+She said this the way one might mention a draft or a sticky window. Most people, confronted with evidence of a parallel dimension in their dining room, would exhibit some degree of agitation. Clementine mentioned it the way she might mention an interesting cloud formation.
 
-I changed the subject to the play, which was about a family of some kind doing things to each other, and tried not to think about Pallwick, who was at that moment underneath the Farthingale-Thwaites' dining room doing something to the thin point with implements that I had glimpsed only briefly and had no wish to see again.
+I changed the subject to the play, which was about a family doing things to each other, and tried not to think about Pallwick underneath the Farthingale-Thwaites' dining room with implements I had glimpsed only briefly and had no wish to see again.
 
-Mrs. Farthingale-Thwaite fell asleep during the third act, which was a mercy. Mr. Farthingale-Thwaite watched the stage with the fixed attention of a man who is thinking about municipal bonds but doesn't want anyone to know. Clementine leaned toward me during a scene in which two characters were arguing about a house.
+Mrs. Farthingale-Thwaite fell asleep during the third act. Mr. Farthingale-Thwaite watched the stage with the fixed attention of a man thinking about municipal bonds. Clementine leaned toward me during a scene in which two characters were arguing about a house.
 
 "There's a draft," she whispered.
 
-There was. It came from beneath our seats, cold and damp, carrying the smell of stone and deep water and earth that has never seen the sun. It ruffled the programme in my lap and then stopped.
+There was. It came from beneath our seats, carrying the smell of stone and deep water and earth that has never seen the sun. It ruffled the programme in my lap and stopped.
 
 "Old building," I said.
 
 "Yes," she said. "Full of gaps."
 
-She did not elaborate, and I did not ask her to, and we watched the rest of the play in a silence that was either companionable or conspiratorial, and I was not entirely certain which was worse.
+We watched the rest of the play in a silence that was either companionable or conspiratorial.
 
 ---
 
-We returned to find the house exactly as we had left it, which is to say large, Belgravia, and smelling faintly of beeswax and old money, with no detectable trace of mushrooms or damp subterranean dimensions. I could have wept with relief.
+We returned to find the house smelling of beeswax and old money, with no detectable trace of mushrooms or damp subterranean dimensions.
 
-Clementine went immediately to the dining room. I followed, because not following would have required an explanation I was not prepared to give. She crouched down beside the sideboard and ran her finger along the baseboard where the crack had been.
+Clementine went immediately to the dining room. I followed. She crouched beside the sideboard and ran her finger along the baseboard where the crack had been.
 
 The crack was gone. The wood was smooth, seamless, as though it had never been breached.
 
-Her face did something complicated — relief and disappointment and something else, something harder to name, like the expression of a person who has been told that the thing they feared was never real, and who is not entirely convinced that this is good news.
+Her face did something complicated — relief and disappointment and something harder to name.
 
 "Fixed," she said.
 
 "Must have been the damp," I said. "Expanding, contracting, that sort of thing."
 
-She looked at me for a long moment. Her eyes had that fierce, amused quality again, and I realized with a lurch that it was not amusement at all — it was recognition. She was looking at me the way Admiral looked at the baseboard: steady, patient, aware.
+She looked at me. Her eyes had that fierce quality again, and I realized it was not amusement at all — it was recognition. She was looking at me the way Admiral looked at the baseboard.
 
 "Yes," she said. "That sort of thing."
 
-We collected Admiral from my flat. The cat had spent the evening sitting in the exact center of my kitchen floor, equidistant from all baseboards, maintaining a perimeter of vigilance that would have impressed a military strategist. Pallwick reported that Admiral had refused the cream, refused the tinned sardines, and refused to acknowledge Pallwick's existence, but had otherwise been a model guest.
+We collected Admiral from my flat. The cat had spent the evening in the exact center of my kitchen floor, equidistant from all baseboards. Pallwick reported that Admiral had refused the cream, refused the sardines, and refused to acknowledge Pallwick's existence, but had otherwise been a model guest.
 
-The cat permitted himself to be placed in his carrier with the dignity of a deposed monarch entering exile. He sniffed the air of my flat once, deeply, and turned to stare at the baseboard beside my radiator with an expression that said, quite clearly, *I know what you have here and I am choosing, for the moment, not to make an issue of it.* Pallwick, straightening a cushion that did not need straightening, did not meet my eye.
+The cat permitted himself to be placed in his carrier with the dignity of a deposed monarch entering exile. He sniffed the air once, deeply, and turned to stare at the baseboard beside my radiator with an expression that said, quite clearly, *I know what you have here.* Pallwick did not meet my eye.
 
 ---
 
-Aunt Honoria declared the courtship a triumph. The Pembrokes' garden party the following Saturday had been a success — I remember very little of it beyond a strong punch, a vicar with opinions about hedgerows, and a moment when Clementine touched my arm and pointed at a crack in the garden wall that contained, briefly and impossibly, a small blue light — and I was to call again on Tuesday. Clementine and I had achieved the state that Aunt Honoria described as "getting along very nicely," which, in the dialect of aunts, occupies the territory somewhere between casual acquaintance and the exchange of solicitors' details.
-
-Pallwick accepted my thanks with his customary deflection.
+Aunt Honoria declared the courtship a triumph. The Pembrokes' garden party had been a success — I remember very little of it beyond a strong punch, a vicar with opinions about hedgerows, and a moment when Clementine touched my arm and pointed at a crack in the garden wall that contained, briefly and impossibly, a small blue light — and I was to call again on Tuesday.
 
 "The thin point has been sealed, sir. Mrs. Guttering has been informed. The Borrowing Shade has been returned to the Under-Borough of Floorswick, where it will be the subject of an inquiry regarding unauthorized expansion. I have taken the liberty of submitting the necessary paperwork on your behalf."
 
@@ -365,7 +361,7 @@ I stared at him. "You have made me the warden of a section of underground London
 
 "The alternative, sir, was a delegation from the Under-Borough. They would have arrived during the Pembrokes' garden party. I felt this would have been difficult to explain to your aunt."
 
-He had me there. The image of Mrs. Guttering emerging from a crack in the Pembrokes' garden wall and demanding to speak with the Surface Warden while Aunt Honoria looked on was sufficiently horrifying to make the wardenship seem, by comparison, a minor inconvenience.
+He had me there. The image of Mrs. Guttering emerging from the Pembrokes' garden wall and demanding to speak with the Surface Warden while Aunt Honoria looked on was sufficiently horrifying to make the wardenship seem a minor inconvenience.
 
 "There is, however, one further matter, sir."
 
@@ -389,7 +385,7 @@ I looked at him. "Your agency."
 
 "I am telling you, sir, that the agency has her on file. I would not wish to speculate beyond that."
 
-I thought about this for a while. I thought about the way she'd noticed the crack. The way she'd noticed it was gone. The way Admiral the cat had never once growled at her, despite growling at everything else in the vicinity of the sideboard, which suggested either that she was outside the range of whatever the cat was detecting or — and this was the thought I kept circling back to, the way a man circles back to a sore tooth — that she was so thoroughly *inside* the range that the cat had accepted her as part of the landscape. I thought about the blue light in the garden wall, and the way she had pointed it out to me as though showing me something she'd been seeing all her life.
+I thought about Admiral, who had never once growled at Clementine. Everything else near the sideboard got the full treatment — but not her. Either she was outside the range of whatever the cat was detecting, or she was so thoroughly *inside* it that Admiral had accepted her as part of the landscape. I kept circling back to that second possibility the way a man circles back to a sore tooth.
 
 "Pallwick," I said.
 
@@ -397,7 +393,7 @@ I thought about this for a while. I thought about the way she'd noticed the crac
 
 "Is there a crack in the baseboard of this flat?"
 
-He did not answer immediately. He was adjusting the position of a vase on the mantelpiece by approximately one-eighth of an inch, a correction so minute that it should have been invisible but which somehow made the entire room look slightly more correct.
+He was adjusting a vase on the mantelpiece by approximately one-eighth of an inch.
 
 "There is always a crack somewhere, sir."
 
@@ -405,16 +401,16 @@ He did not answer immediately. He was adjusting the position of a vase on the ma
 
 "Will there be anything else, sir?"
 
-I looked at the baseboard. There was, now that I examined it, a hairline fracture running along the join between wall and floor, no wider than a thumbnail, no more significant than any of the thousand small imperfections that accumulate in any London flat of sufficient age. Through it, if one knelt down and pressed one's eye to the gap — which I had no intention of doing, not then, not ever — one might see something. A glimmer. A movement. The suggestion of a larger room on the other side, a room that smelled of wet stone and old railways and the deep, strange patience of things that have been waiting beneath the city for longer than the city has been a city.
+I looked at the baseboard. There was, now that I examined it, a hairline fracture running along the join between wall and floor, no wider than a thumbnail. Through it, if one knelt down and pressed one's eye to the gap — which I had no intention of doing — one might see a glimmer. A movement. Something that smelled of wet stone and old railways.
 
 "Have that seen to, would you?" I said.
 
 "Very good, sir," said Pallwick.
 
-He did not have it seen to.
+He did not have it seen to. I did not ask again.
 
-I did not ask again.
+Admiral arrived the following week — delivered by Clementine, who said "He likes you," which was patently untrue; the cat regarded me with the weary tolerance of a customs official processing a passport he suspects is forged. He positioned himself beside the baseboard, settled his chin on his paws, and began his watch.
 
-Admiral, who had been delivered to my flat the following week by Clementine — "He likes you," she said, which was patently untrue; the cat regarded me with the weary tolerance of a customs official processing a passport he suspects is forged — positioned himself beside the baseboard, settled his chin on his paws, and began his watch.
+Pallwick brought him a saucer of cream. Admiral ignored it. Pallwick adjusted the saucer by one-eighth of an inch and withdrew.
 
-The three of us got along very nicely.
+Through the crack, if one pressed one's ear to it — which I had no intention of doing — one could hear something that might have been mushrooms.
