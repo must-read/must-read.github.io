@@ -7,8 +7,8 @@ authorA: "Daphne du Maurier"
 authorB: "Dashiell Hammett"
 workX: "Jamaica Inn"
 workY: "The Thin Man"
-wordCount: 4638
-readingTimeMinutes: 19
+wordCount: 4268
+readingTimeMinutes: 17
 tags: ["whodunit", "coastal setting", "marriage", "birdwatching", "isolation", "peninsula", "bed-and-breakfast", "ambiguous death", "investigation", "routine"]
 rating: 0
 ratingCount: 0
@@ -49,7 +49,7 @@ Neil Garrick stood in the doorway with his arms folded, though not tightly. More
 
 "But the binoculars are here."
 
-Neil looked at the case in her hands. Something passed across his face that was not surprise and not recognition but the space between the two — the expression of a man confirming what he had already decided not to mention.
+Neil looked at the case in her hands. Something passed across his face that was not surprise and not recognition but the space between the two.
 
 "He might have gone for a walk. People do go for walks without binoculars."
 
@@ -57,7 +57,7 @@ Neil looked at the case in her hands. Something passed across his face that was 
 
 "He was also a man."
 
-Wynn set the case down on the desk. She would come back to it. You could build a house out of what people decided not to mention, and this one already had a foundation.
+Wynn set the case down on the desk. She would come back to it.
 
 ---
 
@@ -113,7 +113,7 @@ Three verdicts. The physical evidence was ambiguous and would likely remain so.
 
 ---
 
-She interviewed them separately. This was standard practice, but with the Garricks it felt less like procedure and more like surgery — the careful separation of two things that had grown together and now, divided, revealed the marks of the joining.
+She interviewed them separately. This was standard practice, but with the Garricks it felt less like procedure and more like surgery.
 
 Neil went first. He sat in the small front room they called the lounge, which had a fireplace that worked and furniture that didn't quite match, and he told her what he knew in the order he knew it. Gordon had arrived on Tuesday. He had been quiet — quieter than usual, Neil thought, though he admitted he might be imposing that in retrospect. He had gone out each morning with his binoculars to the headland and returned for lunch, which he did not take at the house but bought in the village. He had eaten dinner with them on Wednesday and Thursday evenings. On Friday, he had said he wasn't hungry, which was unusual.
 
@@ -133,7 +133,7 @@ Neil went first. He sat in the small front room they called the lounge, which ha
 
 A pause. Not a long one, but long enough for Wynn to note it as a pause rather than a hesitation.
 
-"No," Neil said. "I was in the workshop. Out the back. I'm rebuilding a wall. Dry stone. It's—" He stopped. The irrelevance of the wall seemed to strike him. "I was outside until dark. Around eight. Then I came in and Laura was in the kitchen and we watched television. The usual."
+"No," Neil said. "I was in the workshop. Out the back. I'm rebuilding a wall. Dry stone. It's—" He stopped. "I was outside until dark. Around eight. Then I came in and Laura was in the kitchen and we watched television. The usual."
 
 "And you didn't check on Mr. Kemp?"
 
@@ -151,7 +151,7 @@ Wynn let that sit. Neil looked at his hands, which were large and rough and had 
 
 ---
 
-Laura was different. Not more cooperative — they were both cooperative in the way that people are when they have not yet understood that cooperation is a position, not an absence of one. But Laura's cooperation had edges. She answered precisely. She corrected herself when she misspoke. She offered information that had not been asked for, which meant either a genuine desire to help or a genuine desire to control the shape of the conversation.
+Laura was different. Not more cooperative — they were both cooperative in the way that people are when they have not yet realised that cooperation is itself a position. But Laura's cooperation had edges. She answered precisely. She corrected herself when she misspoke. She offered information that had not been asked for, which meant either a genuine desire to help or a genuine desire to control the shape of the conversation.
 
 "He left the house at around half seven," Laura said. "I saw him from the kitchen window. He was wearing his coat but not his hat, which was unusual — Gordon always wore his hat in the field. And he didn't have his binoculars."
 
@@ -207,7 +207,7 @@ The bed-and-breakfast was failing. The booking register was a document of dimini
 
 On the second day, Wynn walked the cliffs again. The wind had shifted to the east, and the sea below was a different colour — not the grey of yesterday but a dark green that looked almost warm, though she knew it wasn't. She walked the path that Gordon Kemp had walked twelve autumns running, and she tried to see what he had seen.
 
-Birds. Small brown things darting along the cliff face, a larger bird hanging motionless in the wind above the point, white birds on the rocks below. She understood why a man would come back for this. Not for the birds specifically. For the reliable fact of them. Every October, regardless of what else had changed or broken or gone wrong, the same species passing through on routes they'd followed for ten thousand years. There was comfort in that. There was also danger — the comfort of a pattern so dependable that you stopped paying attention to anything else.
+Birds. Small brown things darting along the cliff face, a larger bird hanging motionless in the wind above the point, white birds on the rocks below. She understood why a man would come back for this. Not for the birds specifically. For the reliable fact of them. Every October, regardless of what else had changed or broken or gone wrong, the same species passing through on routes they'd followed for ten thousand years.
 
 The police team had been thorough. The grass was scuffed, but grass scuffs. There were footprints, but it had rained on Thursday and the ground was soft. No sign of a struggle, but a push from behind on soft ground wouldn't leave one. No scrape marks, but a jump wouldn't leave those either. A fall might leave anything or nothing.
 
@@ -245,7 +245,7 @@ Laura's cup stopped halfway to her mouth. Neil's hands went flat on the table.
 
 "Treatable, as I said. The prognosis was good. But a diagnosis like that — it changes how a person sees things. It changes why they go to places. His sister says he told her this was his last visit. She didn't think he meant—"
 
-"His last visit," Neil said. His voice was flat. Not with shock — with understanding. The kind of understanding that arrives not as revelation but as confirmation of something you'd been circling without looking at directly.
+"His last visit," Neil said. His voice was flat.
 
 "She assumed he meant he was going to stop coming. That the diagnosis had made him want to change his habits. Stop travelling. Stay closer to home."
 
@@ -275,7 +275,7 @@ The kitchen was quiet. The clock above the door ticked. Outside, the wind moved 
 
 "But you wouldn't be sitting here on the third morning, eating our eggs, if you thought it was an accident."
 
-Wynn looked at Laura. Laura looked back. There was nothing defensive in her expression, nothing afraid. There was something closer to curiosity — the look of a woman who had been living with a question and wanted to see it asked out loud.
+Wynn looked at Laura. Laura looked back. There was nothing defensive in her expression, nothing afraid. There was something closer to curiosity.
 
 "Why did you come here?" Wynn asked. "Not here to the kitchen. Here. This peninsula. This house. Six years ago."
 
@@ -289,13 +289,13 @@ Neil and Laura did not look at each other, and the not-looking was so pointed it
 
 "It was mutual," Neil said, but the word was hollow, and he heard it, and he stopped.
 
-Wynn watched them. The marriage was in the room now, not as subtext but as a third presence, something they'd been carrying between them for six years, the shape of it visible in the way they sat — close enough to share a table, far enough apart that their elbows would never touch.
+Wynn watched them. They sat close enough to share the table, far enough apart that their elbows would never touch.
 
 "The business is failing," Wynn said.
 
 "The business was never succeeding," Laura said. "It was surviving. There's a difference. We've been surviving for six years. Gordon was — Gordon was the proof that surviving was worth it. Every October, he came back, and for five days we were a place that worked. That had a guest. That served breakfast and made beds and did the thing we'd come here to do. And then he'd leave and we'd have eleven months of empty rooms, and it would be — quiet. The kind of quiet that isn't peaceful."
 
-Neil's jaw tightened. Not a flinch. The controlled response of a man who has heard this before, who knows every word of it, and who has chosen, each time, not to answer.
+Neil's jaw tightened. He had heard this before.
 
 "You said you were rebuilding a wall on Friday evening," Wynn said to him.
 
@@ -317,7 +317,7 @@ Neil's jaw tightened. Not a flinch. The controlled response of a man who has hea
 
 On the fourth day, the coroner's preliminary report arrived. Injuries consistent with a fall from height. No defensive wounds. No tissue under the fingernails. Blood alcohol zero. Time of death between seven and nine p.m.
 
-The report did not determine manner of death. The physical evidence supported fall, jump, and push equally, which was to say it supported none of them, which was to say it supported all of them.
+The report did not determine manner of death. The physical evidence supported fall, jump, and push equally.
 
 Wynn read the report in Room Two, sitting on the bed that Laura had made that morning — properly this time, both sides, hospital corners, the pillows plumped with a violence that might have been grief or professionalism. The binocular case was still on the desk. Nobody had claimed it. It sat there and Wynn thought about a man who had come to the cliffs every year with a purpose and gone one last time without one.
 
@@ -333,14 +333,12 @@ She told them on the morning of the fifth day, standing in the hallway by the fr
 
 Neil nodded. Laura nodded. They stood side by side in the hallway of the house they had chosen together, or that one of them had chosen and the other had followed to, and they looked like what they were: two people who had been surviving and who now had one fewer reason to continue and no more reason to stop.
 
-"Will you keep the place going?" Wynn asked. She didn't know why she asked it. It wasn't a police question. It was the kind of question you ask when you've spent five days inside someone else's life and can't leave without knowing what happens to the container.
+"Will you keep the place going?" Wynn asked. It wasn't a police question.
 
 "Of course," Neil said.
 
 "We'll see," Laura said.
 
-They did not contradict each other. They let the two answers exist side by side, which was, Wynn realised, how they'd been doing it all along.
+They did not contradict each other.
 
 She drove back along the single-track road, across the causeway, past the shuttered petrol station, and onto the B-road where the signal returned and her phone lit up with messages from the world she'd left. In the rearview mirror, the peninsula diminished but did not disappear. The house stayed visible for longer than seemed possible, a grey shape on the headland, getting smaller but never quite gone.
-
-Autumn would come again. The birds would pass through on their ancient routes, indifferent to the cliff, the house, the empty room. The booking would not be made. The chair would not be filled. And the Garricks would wake up in the morning and make the beds and put the kettle on, or they wouldn't, and either way the peninsula would hold them or release them, and the question of which it was doing would never be answered, because it was not the kind of question that had an answer. It was the kind of question that had a marriage.
