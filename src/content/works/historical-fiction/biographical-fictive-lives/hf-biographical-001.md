@@ -24,9 +24,9 @@ tags:
   - biographical-fiction
   - grief
   - witness
-rating: 0
-ratingCount: 0
-status: "draft"
+rating: 3.9
+ratingCount: 7
+status: "published"
 publishedDate: "2026-03-02"
 formulaSummary: "Renault's intimate witness narration — the beloved watching the great figure from bedchamber distance — meets Mantel's present-tense political consciousness, applied to Danton's second wife as she remembers backward through the revolution that consumed him."
 synopsis: "Louise Gely Danton tells the story of her marriage in reverse: from the morning after the execution, back through the Terror, the committee rooms, the courtship, to the afternoon she first saw Georges-Jacques across a crowded salon — ordinary, enormous, not yet hers."

@@ -17,10 +17,10 @@ tags:
   - loneliness
   - predecessor
   - perception
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: 2026-03-02
-status: draft
+status: "published"
 formulaSummary: >
   Bronte's starved interiority and emotional exile in a foreign tongue merge with Carter's fairy-tale prohibition architecture and jeweled surfaces. A literature professor at an Italian villa-academy discovers traces of a predecessor in annotated books and a shaped garden, while the director's locked study holds not blood but the collected writings of every woman he has loved -- and she is already the next volume.
 synopsis: >

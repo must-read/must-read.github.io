@@ -10,10 +10,10 @@ workY: "Outline"
 wordCount: 3010
 readingTimeMinutes: 12
 tags: ["train", "confession", "complicity", "silence", "identity", "moral-contamination", "Switzerland", "strangers"]
-rating: 0
-ratingCount: 0
+rating: 3.5
+ratingCount: 9
 publishedDate: 2026-03-02
-status: "draft"
+status: "published"
 formulaSummary: "Highsmith's clinical tracking of moral contamination through proximity meets Cusk's essayistic narration-through-absence in a train compartment where a stranger's confession becomes a crime the listener cannot refuse"
 synopsis: "On the overnight train from Zurich to Lausanne, a woman listens as her seatmate describes something that may be a crime, a fantasy, or a proposition. By the time the train arrives, one of them has changed. The question is which one."
 combination:

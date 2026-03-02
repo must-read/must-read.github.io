@@ -10,10 +10,10 @@ workY: "Endgame"
 wordCount: 3008
 readingTimeMinutes: 12
 tags: [baseball, phantom-broadcast, two-hander, abandonment, ritual, performance, press-box, minor-league, sparrows, comedy-of-continuation]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 7
 publishedDate: 2026-03-02
-status: draft
+status: "published"
 formulaSummary: "Johnson's hallucinatory attention meets Beckett's tragicomic endurance in an abandoned press box where two old men broadcast a baseball game that isn't happening"
 synopsis: "Two old men in the press box of an abandoned minor league stadium broadcast a game to no one. One calls phantom at-bats with frightening specificity. The other provides color commentary that drifts into philosophy and ruin. Over nine innings, the line between invention and memory dissolves."
 combination:

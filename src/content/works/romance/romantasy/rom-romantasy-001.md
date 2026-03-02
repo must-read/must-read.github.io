@@ -20,10 +20,10 @@ tags:
   - duty
   - consent
   - political-fantasy
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-03-02"
-status: "draft"
+status: "published"
 formulaSummary: >
   Kleypas's sensual atmospheric prose and emotional intensity drive the attraction scenes, where the bond becomes a conduit for desire neither character can disown. Hobb's deep psychological interiority shapes Seren's narration — loyalty as self-destruction, the animal-bond reimagined as involuntary empathy that terrifies as much as it draws. Devil in Winter's marriage-of-convenience architecture structures the bond as a political arrangement becoming devastatingly personal, the gambling-hell reimagined as a court where every intimacy is a wager. Royal Assassin's duty-versus-love tension provides the political spine — an operative who loves the system requiring his violence, a healer conscripted into becoming a weapon she swore to oppose.
 synopsis: >

@@ -1,7 +1,7 @@
 ---
 source: "https://lluminate.substack.com/feed"
 sourceType: "substack-newsletter"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Denis Johnson"
 authorB: "Samuel Beckett"
