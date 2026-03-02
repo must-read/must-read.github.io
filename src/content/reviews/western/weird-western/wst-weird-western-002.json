@@ -1,0 +1,54 @@
+{
+  "workSlug": "wst-weird-western-002",
+  "reviews": [
+    {
+      "personaId": "wes-001-hank",
+      "rating": 3,
+      "text": "The voice is real good. Whoever wrote this knows what a burned initial in a sweatband looks like and that jerky is food but not a meal. The horse details are right — Durable is named the way a working man names a horse, and the roan's nicked shoe printing in alkali is the kind of thing you notice when you've actually tracked an animal. Where it lost me is the teeth falling out and the fingers growing and all that. I can go along with a weird town that doesn't let you leave. Fine. But the body stuff piled up past where I could stay in the saddle with it. Still, the narrator's voice carried me further than the story probably deserved, and the line about a dead place being honest about its conditions — that's true enough to frame.",
+      "date": "2025-12-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-004-dale",
+      "rating": 2,
+      "text": "Took forever to get anywhere and then when it got there it just stayed there. The first few pages move fine — man gets robbed, goes after the thief, crosses the flats. Good. Then he reaches Perdition and it's just him talking to a well and trying to find an assessor's office for what felt like fifty pages. The bureaucracy stuff is clever for about two paragraphs and then it's the same joke over and over. Filing generates obligation generates residency generates filing. I get it. Didn't need it repeated ten times.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-005-miriam",
+      "rating": 5,
+      "text": "This is extraordinary work — a sustained first-person voice that never breaks character across 6,000 words while describing the narrator's own absorption into a bureaucratic otherworld. The deadpan register is the engine of the horror: Rooster reports his teeth falling out with the same measured tone he uses for horse prices and weather, and that gap between content and delivery is where all the dread lives. The structural conceit is brilliant — civic infrastructure as cosmic trap, paperwork as the mechanism of metaphysical enclosure. The passage where he realizes that reading the charter generates new provisions, which generate obligations, which file against him, is a perfect recursive nightmare rendered in the language of county governance. And the ending, where the narrator has fully absorbed Perdition's logic and describes his own captivity as reasonable — 'Everything here is reasonable. That is the worst part, though I would not call it the worst part, because calling something the worst part implies a judgment, and judgment is an assessment' — is one of the most unsettling final paragraphs I've read this year.",
+      "date": "2026-02-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-006-tommy",
+      "rating": 4,
+      "text": "A weird western that actually earns the label. Most stories in this subgenre just bolt a ghost onto a cattle drive, but this one builds something genuinely strange — a town where the supernatural operates through municipal procedure. The voice is the real achievement: Rooster Sillman narrating his own transformation with the calm of a man filling out a ledger. I loved the three-legged dog that was 'honest about its situation' and the preacher's shadow arriving ahead of the light. Where I'd push back slightly is the middle section where the bureaucratic logic repeats. The point lands early — filings breed obligations breed filings — and the story circles it a few more times than necessary. But the final three paragraphs are devastating. A man describing his captivity as reasonable because he's internalized the system's language. That's horror dressed in a county clerk's handwriting.",
+      "date": "2026-01-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-008-greg",
+      "rating": 4,
+      "text": "A remarkably disciplined piece of writing. The narrator's voice is sustained without a single false note across the entire story — colloquial, precise, and funnier than it knows, which is the source of both the comedy and the horror. The craft-level decision I most admire is the body transformation happening in parallel with the bureaucratic entrapment: as Rooster's teeth fall out and his fingers lengthen, his property rights dissolve into municipal filings. The body and the document are being rewritten simultaneously, and the narrator treats both processes with the same deadpan acceptance. The well functioning as both information desk and instrument of entrapment is a lovely structural choice — every question generates a filing, every filing an obligation. I have one reservation: Crashaw's transformation into an 'easement' is stated rather than dramatized, and the metaphor, while clever, arrives as exposition rather than earned narrative moment. Still, the closing paragraphs achieve something genuinely difficult — a narrator who has lost everything, including the capacity to recognize the loss, reporting his own erasure in the language of the system that erased him.",
+      "date": "2025-11-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-009-jolene",
+      "rating": 4,
+      "text": "Read this after a twelve-hour shift and it crawled right under my skin. The alkali flats feel real — white and flat and no shade for thirty miles. Rooster's voice has that dry, particular way of noticing things that reminded me of old men I grew up around, the kind who'd describe a disaster the same way they'd describe lunch. The corn mush with lard and sorghum, the walnut-ink-stained hands, the dog sleeping in the road with its smooth-furred stump — all of it sits in your nose and on your tongue. The horror of it is quiet. No monsters, just paperwork that won't stop and a body that changes while you're busy trying to find the assessor's office. That line about a change becoming a condition got me. Sometimes that's how the bad thing happens. Not all at once but slow, until you can't remember the before-state.",
+      "date": "2026-03-01",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "wes-010-walt",
+      "rating": 2,
+      "text": "Man chases a thief into a weird town and then nothing happens for thirty pages. He talks to a well. His teeth fall out. He eats corn mush. The end. I kept waiting for Rooster to actually do something — shoot somebody, escape, fight back — but he just wanders around filing complaints with a hole in the ground. The writing's fine, I guess, but a western where the hero's big conflict is with municipal paperwork is not my idea of a story.",
+      "date": "2025-09-15",
+      "helpfulCount": 0
+    }
+  ]
+}
