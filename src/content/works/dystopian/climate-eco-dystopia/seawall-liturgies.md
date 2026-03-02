@@ -10,8 +10,8 @@ workY: "The Drowned World"
 wordCount: 5617
 readingTimeMinutes: 22
 tags: ["climate", "flood", "seawall", "two-communities", "adaptation", "haunting"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Le Guin's philosophical anthropology meets Enriquez's supernatural social realism in a drowned world divided by a seawall"

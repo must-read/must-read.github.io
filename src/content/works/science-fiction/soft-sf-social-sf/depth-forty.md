@@ -10,8 +10,8 @@ workY: "20,000 Leagues Under the Sea"
 wordCount: 6785
 readingTimeMinutes: 27
 tags: ["underwater", "dreams", "surface", "longing", "society", "perception"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Mieville's baroque worldbuilding meets Le Guin's anthropological precision in an underwater civilization haunted by surface dreams"

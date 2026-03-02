@@ -18,8 +18,8 @@ tags:
   - exclusion
   - committee
   - governance
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Swift's escalating reasonableness meets Orwell's corrupted language in a town council that redefines 'resident' until no one qualifies but the council itself"

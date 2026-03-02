@@ -10,8 +10,8 @@ workY: "The White Tiger"
 wordCount: 3517
 readingTimeMinutes: 14
 tags: ["food", "spices", "class", "servant", "magic", "kitchen", "ambiguity"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Rushdie's political exuberance meets Esquivel's sensory domestic magic in a story of class violence told through kitchens"

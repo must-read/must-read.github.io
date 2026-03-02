@@ -10,8 +10,8 @@ workY: "The Sword in the Stone"
 wordCount: 2809
 readingTimeMinutes: 11
 tags: ["transformation", "apprentice", "magic", "creatures", "learning", "attention"]
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Chambers's radical kindness meets White's playful transformation magic in a second-person journey of becoming small creatures to learn the act of paying attention"
