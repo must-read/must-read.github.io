@@ -1,0 +1,61 @@
+{
+  "workSlug": "mys-locked-room-002",
+  "reviews": [
+    {
+      "personaId": "mys-009-alastair",
+      "rating": 4,
+      "text": "The institutional failure here is exquisitely rendered. Holtz's position \u2014 mentor, consultant, still holding BMS access years after her formal role ended \u2014 is precisely the kind of structural vulnerability that real organisations ignore until someone dies. The humidity data discrepancy (62% vs 41%) is deployed with forensic restraint; no theatrics, just two numbers and the chasm between them. Where I'd push back is on Garza, who feels underdeveloped for a detective handed this case. But the central question \u2014 whether Holtz knew the damper was rusted, whether Nora understood what she was building \u2014 is handled with the moral seriousness it deserves. The report Ren writes versus what she omits is the real locked room.",
+      "date": "2026-02-18",
+      "helpfulCount": 45
+    },
+    {
+      "personaId": "mys-011-noel",
+      "rating": 3,
+      "text": "Clever setup with the ventilation and the blueprints. The bit where Nora's handwriting changes across the pages \u2014 that was well done, kept me reading. But there's no real resolution and I finished feeling like I'd been handed a puzzle with pieces missing on purpose. The override panel was a strong detail though.",
+      "date": "2025-12-04",
+      "helpfulCount": 32
+    },
+    {
+      "personaId": "mys-006-lynn",
+      "rating": 5,
+      "text": "I haven't stopped thinking about this story. The passage in Nora's working notes \u2014 'the believing is the room I can't get out of' \u2014 is one of the most devastating lines I've read about what it means to love someone who holds power over you. The story understands that control and care can be genuinely inseparable, that Holtz's grief can be real even if her data was not. Ren reading the building the way others read faces is a lovely conceit, and the final image of her listening to the hotel HVAC is quietly unbearable.",
+      "date": "2026-01-09",
+      "helpfulCount": 61
+    },
+    {
+      "personaId": "mys-008-grace",
+      "rating": 4,
+      "text": "This story got under my skin. Nora seeing exactly what the modifications would do and filing the blueprints anyway \u2014 that's the part that stays with me. You understand it without it being explained to death. And Ren is a great character, the way she trusts buildings instead of people. The ending where she's just listening to the hotel air conditioning is haunting. I'd have liked a little more of Nora's voice directly, but what's there is enough.",
+      "date": "2025-11-22",
+      "helpfulCount": 39
+    },
+    {
+      "personaId": "mys-002-harold",
+      "rating": 3,
+      "text": "A locked room story that refuses to solve itself, which will either strike you as admirably restrained or rather a cheat. The mechanism is sound \u2014 the rerouted ventilation, the rusted damper, the relocated CO2 sensor \u2014 and the three sets of blueprints provide a satisfying architecture for the investigation. But the genre makes a compact with the reader: present an impossible situation and then explain it. This story presents the impossible situation, explains the mechanism, and then deliberately withholds the intent, which is not quite the same as solving the puzzle. The prose is competent, occasionally better than competent. The unfinished sentence on page twelve is effective. I wanted more from Garza and less ambiguity about the override panel.",
+      "date": "2026-02-01",
+      "helpfulCount": 59
+    },
+    {
+      "personaId": "mys-001-siobhan",
+      "rating": 4,
+      "text": "The procedural work here is solid. Ren's method \u2014 reading the building before interviewing anyone \u2014 rings true, and the way the evidence accumulates without ever quite pointing in one direction is well-managed. The interview with Holtz is the best scene: her grief is convincing, the coffee mug rotating in her hands, the tremor at the fingertips, and yet the data she provided was demonstrably wrong. The story earns its ambiguity because both readings \u2014 Holtz as manipulator, Nora as someone who walked into the room knowing \u2014 are fully supported by the evidence. That said, I'd have appreciated some procedural follow-through. Access logs, maintenance contractor records, the electrician question around the override. The investigation feels deliberately incomplete.",
+      "date": "2026-03-01",
+      "helpfulCount": 60
+    },
+    {
+      "personaId": "mys-005-desmond",
+      "rating": 4,
+      "text": "What elevates this beyond the locked room conceit is the prose discipline. The opening paragraph \u2014 Ren reading scuff marks, hairline cracks, yellowing around ventilation grilles \u2014 establishes both character and method without a wasted clause. The story is really about knowledge and its refusal: Nora knew what the modifications did, documented her knowledge in notes that deteriorate from technical to confessional, and built the room anyway. The metaphor of mentorship as sealed architecture is earned rather than imposed. I'd have cut some of the Carmouth scene-setting \u2014 we don't need the antique shops \u2014 but the technical passages are genuinely compelling, and the dual reading of Holtz's role gives the story a moral weight that most locked room fiction doesn't bother attempting.",
+      "date": "2025-10-15",
+      "helpfulCount": 78
+    },
+    {
+      "personaId": "mys-003-keiko",
+      "rating": 4,
+      "text": "The mentor-protege dynamic here is psychologically precise. Nora's trajectory through the working notes \u2014 from professional deference ('she's usually right but I want to see the data myself') to dependency ('I've always believed her') to a kind of terrible clarity ('the believing is the room I can't get out of') \u2014 maps onto patterns I recognize from clinical work with patients navigating relationships with authority figures. The story understands that the question of intent may be genuinely unanswerable, not because the evidence is insufficient but because the relationship itself made the boundary between coercion and compliance invisible. Ren's detachment is well-drawn too, though I wonder what it costs her.",
+      "date": "2026-01-27",
+      "helpfulCount": 77
+    }
+  ]
+}

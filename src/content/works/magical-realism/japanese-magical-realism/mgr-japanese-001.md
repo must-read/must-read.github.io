@@ -10,8 +10,8 @@ workY: "The Wind-Up Bird Chronicle"
 wordCount: 4218
 readingTimeMinutes: 17
 tags: ["japanese-magical-realism", "library", "loss", "surrealism", "jazz", "labyrinth", "marriage", "absence"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: >

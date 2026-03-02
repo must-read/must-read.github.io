@@ -20,8 +20,8 @@ tags:
   - sensory-haunting
   - institutional-horror
   - race
-rating: 3.8
-ratingCount: 9
+rating: 3.9
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: >

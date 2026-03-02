@@ -1,0 +1,68 @@
+{
+  "workSlug": "mgr-japanese-001",
+  "reviews": [
+    {
+      "personaId": "mgr-002-nkechi",
+      "rating": 4,
+      "text": "The magic here costs exactly what it should \u2014 every room he opens is another gap in his own catalog, his search making the library less complete. That's a devastating equation. The daikon woman changing between visits, the Coltrane room where a man sits perfectly still because moving means deciding \u2014 these moments land because the prose never raises its voice. My one reservation is that the ending felt almost too quiet, the coffee filters a resolution so small it nearly disappears. But maybe that's the point. Some departures don't have hinges.",
+      "date": "2025-12-14",
+      "helpfulCount": 47
+    },
+    {
+      "personaId": "mgr-007-diana",
+      "rating": 3,
+      "text": "Accomplished but not as original as it believes itself to be. The impossible library with its numbered rooms and cataloging gaps is a well-executed conceit, and the prose maintains its deadpan register with admirable discipline. But the searching-husband-finds-himself structure is predictable from the first section. Room 119 \u2014 where his apartment three days before she left already looks like it does after \u2014 is the story's best moment and nearly justifies the whole enterprise. Nearly. The daikon woman deserved more than a recurring motif.",
+      "date": "2026-01-29",
+      "helpfulCount": 29
+    },
+    {
+      "personaId": "mgr-008-fumiko",
+      "rating": 4,
+      "text": "This is the kind of quiet magical realism I trust most \u2014 a single impossible thing inside an otherwise ordinary life. The library's third floor containing doors instead of books is stated so plainly it barely registers as surreal, which is exactly right. Ogata eating her onigiri, the fluorescent corridor, the linoleum \u2014 these ground the impossible in municipal bureaucracy. The restraint never breaks. Even the revelation about the gaps is delivered mid-conversation over a thermos of tea. Room 42's daikon woman changing on the second visit unsettled me more than any spectacle could.",
+      "date": "2025-10-03",
+      "helpfulCount": 52
+    },
+    {
+      "personaId": "mgr-005-terrence",
+      "rating": 3,
+      "text": "Well-crafted and emotionally controlled, though I wonder if the control is itself a limitation. The structure is elegant \u2014 a man searching a library of other people's ordinary days for the moment his wife decided to leave, the search itself creating gaps in the catalog \u2014 but the ending doesn't quite earn the weight it carries. He buys coffee filters and makes coffee. That's the whole resolution. I appreciate the refusal of epiphany, but a story this carefully built needs its final note to resonate, not merely sound. The Coltrane room and Room 119 are the high points. The rest is competent searching.",
+      "date": "2026-02-17",
+      "helpfulCount": 60
+    },
+    {
+      "personaId": "mgr-003-rohan",
+      "rating": 5,
+      "text": "Absolutely floored by this. The moment he opens Room 119 and sees himself translating in silence three days before his wife left \u2014 and the apartment already looks empty \u2014 I had to put my phone down and just sit with it. The whole library conceit is brilliant but that room is where it becomes devastating. Also loved the detail about Yoshiko's note: nine words about departure and seven about coffee. This story understands that loss isn't dramatic, it's the realization that the absence was already there.",
+      "date": "2025-11-22",
+      "helpfulCount": 54
+    },
+    {
+      "personaId": "mgr-006-saoirse",
+      "rating": 4,
+      "text": "The spatial architecture here is genuinely interesting. The library operates as both labyrinth and archive \u2014 numbered rooms with systematic gaps that mirror the protagonist's own missing days. The corridor that bends at Room 300, the fluorescent light growing quieter as he moves further from Ogata's desk, the rooms that contain not people but the evidence of people (Room 311's steaming tea, half-finished crossword, jacket on the chair) \u2014 these are all working as spatial poetics rather than simple metaphor. The building itself is an epistemological argument about what can and cannot be known from the outside. Worth noting: the protagonist's own room (119) contains an apartment that already looks emptied of his wife, collapsing the temporal distinction between before and after her departure. Architecturally, the story's strongest move.",
+      "date": "2026-02-05",
+      "helpfulCount": 81
+    },
+    {
+      "personaId": "mgr-004-ingrid",
+      "rating": 4,
+      "text": "The prose rhythm here is very controlled \u2014 long, unhurried sentences that accumulate detail the way the library accumulates rooms. The parenthetical about the coffee from Shimokitazawa is a sentence-level marvel: it nests three temporal layers (the buying, the closing, the present absence) inside a single clause about running out of filters. Structurally sound. The Ogata exchanges are perfectly calibrated \u2014 terse without being cryptic, informative without being expository. Where it loses me slightly is the Coltrane room, which tips toward sentimentality in a story that otherwise earns its restraint. But the final image \u2014 coffee made with new filters, the streetlamp steady and orange \u2014 is the right ending for this particular architecture.",
+      "date": "2025-09-18",
+      "helpfulCount": 66
+    },
+    {
+      "personaId": "mgr-010-greg",
+      "rating": 2,
+      "text": "A sad bloke wanders around a magic library looking for why his wife left and doesn't find it. I get what it's going for \u2014 the absence is the answer, the search is the problem \u2014 but I've read this kind of understated grief piece before and better. The jazz references feel like decoration. The daikon woman is interesting but underused. And honestly, if you're going to build an impossible library with hundreds of rooms, do something with it beyond confirming what we already knew by page three: she was gone before she left.",
+      "date": "2026-01-07",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "mgr-001-valentina",
+      "rating": 4,
+      "text": "There is something genuinely beautiful about how this story handles the boundary between the ordinary and the impossible. The library's third floor is described with the same municipal plainness as the floors below \u2014 fluorescent lights, grey linoleum, a woman eating onigiri at a desk \u2014 and the doors open onto days so unremarkable they could be entries in a meteorological log. Yet the accumulation becomes unbearable. Room 119, where the narrator watches himself translating in silence in an apartment that already contains no trace of his wife, is the kind of revelation that works precisely because the prose refuses to announce it. The catalog entry format \u2014 the careful handwriting, the weather, the one-line descriptions \u2014 is a lovely formal device. I want to teach this story.",
+      "date": "2025-08-30",
+      "helpfulCount": 77
+    }
+  ]
+}

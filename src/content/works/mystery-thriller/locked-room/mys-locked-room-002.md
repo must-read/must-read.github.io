@@ -18,10 +18,10 @@ tags:
   - blueprints
   - ambiguous-death
   - control
-rating: 0
-ratingCount: 0
-publishedDate: 2026-03-02
-status: "draft"
+rating: 3.9
+ratingCount: 8
+publishedDate: "2026-03-02"
+status: "published"
 formulaSummary: >
   Doyle's deductive set-piece and Flynn's excavation of toxic intimacy converge
   in a forensic architect's investigation of a sealed archive where a woman died

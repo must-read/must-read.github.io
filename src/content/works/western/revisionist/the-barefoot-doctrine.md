@@ -20,10 +20,10 @@ tags:
   - mapping
   - 1880s
   - canyon
-rating: 0.0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-02"
-status: "draft"
+status: "published"
 formulaSummary: >
   McCarthy's spare, biblical prose and the indifferent American landscape as moral
   stage fuse with le Carré's mastery of betrayal between allies and the local

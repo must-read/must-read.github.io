@@ -20,10 +20,10 @@ tags:
   - anthropology
   - loss
   - time
-rating: 0.0
-ratingCount: 0
-publishedDate: "2026-03-01"
-status: draft
+rating: 3.8
+ratingCount: 9
+publishedDate: "2026-03-02"
+status: "published"
 formulaSummary: "Saramago's allegorical social realism meets Chiang's linguistic thought experiments as a town slowly loses the grammatical future tense, and a visiting anthropologist discovers that understanding the condition means contracting it."
 synopsis: "An anthropologist documents a town where residents have lost the ability to use the future tense. As she catalogues their grammar, her own sentences begin to shorten, and she learns that witnessing is not the same as immunity."
 combination:
