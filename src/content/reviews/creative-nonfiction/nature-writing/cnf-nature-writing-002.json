@@ -1,0 +1,54 @@
+{
+  "workSlug": "cnf-nature-writing-002",
+  "reviews": [
+    {
+      "personaId": "cnf-001-miriam",
+      "rating": 4,
+      "text": "The alternating River-Side / Land-Side structure does real moral work here -- it's not decorative, it's architectural. Every time the essay pulls you into the engineering (Proctor density, piezometers, plasticity indices), the next section forces you to reckon with who lives behind those numbers. The passage connecting the Code Noir to Cancer Alley is the essay's spine, and the writer earns it by building the argument through accumulated evidence rather than declaration. Odette's line about being offered sixty-eight thousand dollars lands because the technical context has already taught us what that levee costs to maintain. My one reservation: the final image -- 'a gulf that was rising to meet it' -- tilts toward the poetic in a way the rest of the essay has the discipline to resist. But this is serious, structurally honest work.",
+      "date": "2025-12-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-009-helen",
+      "rating": 5,
+      "text": "Reading this from Dublin, what strikes me is how the essay refuses to let the engineering become abstraction. Those measurements -- nine feet of freeboard as 'the height of a ceiling in a house built before the Second World War' -- keep translating scale into the domestic, the lived. And Odette. Her refusal to climb the levee ('What for? To see the water?') is one of those details that reorganizes everything around it. The structural alternation between river and land becomes a way of showing that the two sides of the wall are not two sides of the same story but two entirely different stories that happen to share a wall. The ending resists resolution beautifully. She is here. The water is moving. The gulf is rising. Nothing is settled.",
+      "date": "2026-02-08",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-005-diego",
+      "rating": 4,
+      "text": "The essay's strongest move is connecting the levee to the extraction economy -- not as metaphor but as material history. Enslaved labor built the wall, convict leasing maintained it, petrochemical plants profit behind it, and the descendants of the builders live in the sacrifice zones. This is the kind of structural analysis North American nature writing usually flinches from. The engineering detail is precise without becoming decorative, and the dual-section format prevents the essay from settling into either pure reportage or pure polemic. I wanted slightly more on the political economy of the Army Corps itself -- who funds maintenance, who lobbies for which sections -- but Odette's buyout scene does that work implicitly. The 'fair to who' question carries the whole argument.",
+      "date": "2025-10-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-010-terrence",
+      "rating": 3,
+      "text": "Look, the reporting here is solid and the structural argument is real -- the line from Code Noir to convict leasing to Cancer Alley is the kind of connective tissue most nature essays don't have the nerve to build. And Odette is rendered with respect, not pity, which matters. But I keep asking: who is this essay for? The writer drives the levee road and looks down at the houses and then goes to Odette's porch for coffee and testimony. It's careful, it's well-meaning, it's researched. It also reproduces a pattern I've seen a hundred times -- the visiting writer who needs the local Black elder to explain what the landscape means. Odette is the essay's conscience, but the essay is not hers. That doesn't make it bad. It makes it limited.",
+      "date": "2026-01-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-004-ruth",
+      "rating": 4,
+      "text": "I have been pressing this essay on everyone who walks into the shop. The way it builds -- those calm, almost clinical engineering passages that slowly become unbearable as you realize what they mean for the people on the other side of the wall. Odette's granddaughter calling from Houston every Sunday, asking her to leave. 'Where am I going to go that's more here than here?' I had to put it down after that line. The essay never raises its voice, and that restraint is what makes the anger underneath so devastating. I wish more nature writing understood that the nature is not separate from the people living inside it.",
+      "date": "2025-09-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-002-patrick",
+      "rating": 4,
+      "text": "The prose runs clean. The technical passages have genuine authority -- levee clay classified as CL in the Unified Soil Classification System, the Proctor density standard, piezometer readings -- and the writer knows how to make that material load-bearing rather than ornamental. The sentence 'Piping is worse than overtopping. The water doesn't come over the wall. The wall comes apart' is as good as anything in the genre. Structurally, the alternating sections earn their repetition. My quibble is with the levee-as-history-of-extraction passage, which runs slightly hot -- 'the particular cruelty of being poisoned by an industry' -- in an essay that is otherwise ice-cold in its precision. But that's a minor overcorrection in an essay that mostly trusts its facts to do the moral work.",
+      "date": "2026-02-25",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-003-yeon",
+      "rating": 3,
+      "text": "The formal architecture here is genuinely interesting -- the alternation between River-Side and Land-Side creates a kind of call-and-response between geological time and human time, and the essay is disciplined about maintaining that separation. The measurements-as-domestic-objects device (freeboard as bedroom width, kitchen counter, ceiling height) works well as a translation strategy. But I notice the essay relies heavily on a single interview subject to carry the entire human register. Odette bears enormous structural weight, and while she is vividly rendered, the essay would be stronger with a wider field of voices. The restraint in the engineering sections reads as genuine authority; in the human sections, it sometimes reads as distance.",
+      "date": "2025-11-11",
+      "helpfulCount": 0
+    }
+  ]
+}
