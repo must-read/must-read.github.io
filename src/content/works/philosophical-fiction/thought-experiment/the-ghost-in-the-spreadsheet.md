@@ -7,8 +7,8 @@ authorA: "George Saunders"
 authorB: "Jose Saramago"
 workX: "Lincoln in the Bardo"
 workY: "Invisible Man"
-wordCount: 2939
-readingTimeMinutes: 11
+wordCount: 2280
+readingTimeMinutes: 9
 tags:
   - economics
   - ghost
@@ -63,7 +63,7 @@ The first thing to understand about being dead in a federal building is that nob
 
 I have been here for four hundred and fourteen first Fridays.
 
-Not continuously. I am not always here. I am sometimes in the hallway near the vending machines that replaced the vending machines that replaced the vending machines I used in 1974, and I am sometimes near the loading dock where the physical surveys used to arrive in canvas bags before everything became electronic, and once for an entire fiscal year I was in a storage room on the second floor reading decommissioned procedural manuals from the Eisenhower era, which were wrong about nearly everything in ways that felt familiar. But on first Fridays I am in Room 3124, because on first Fridays the number comes out.
+Not continuously. I am sometimes near the vending machines that replaced the vending machines that replaced the vending machines I used in 1974, and once for an entire fiscal year I was in a storage room on the second floor reading decommissioned procedural manuals from the Eisenhower era, which were wrong about nearly everything in ways that felt familiar. But on first Fridays I am in Room 3124, because on first Fridays the number comes out.
 
 ---
 
@@ -77,7 +77,7 @@ Headphones crackling again. Static on the left channel. IT says nothing's wrong 
 
 ---
 
-Anya Kowalski runs the seasonal adjustment models and she is twenty-eight years old and she has worked in this building for three years and she does not know I am standing behind her, which is accurate in the sense that I am standing behind her and she does not perceive me, but inaccurate in the deeper sense that she is the only person in the building who almost does, because when I stand close enough to read her screen there is a loosening in the way she types, her fingers slow and the rhythm changes, she pauses mid-keystroke and looks at the ceiling and then writes something in her personal notes that is closer to the truth than anything in the official methodology, and I do not claim this is my influence because that would be the kind of claim I spent my career trying to eliminate from economic analysis, the post hoc fallacy, the narrative imposed on correlation, but I will say that when I am near her the static in her left earbud gets louder and she takes the earbuds out and in the silence that follows she does her best work.
+Anya Kowalski runs the seasonal adjustment models and she is twenty-eight years old and she does not know I am standing behind her, which is accurate in the sense that I am standing behind her and she does not perceive me, but inaccurate in the deeper sense that she is the only person in the building who almost does, because when I stand close enough to read her screen there is a loosening in the way she types, her fingers slow and the rhythm changes, she pauses mid-keystroke and looks at the ceiling and then writes something in her personal notes that is closer to the truth than anything in the official methodology, and I do not claim this is my influence because that would be the kind of claim I spent my career trying to eliminate from economic analysis, the post hoc fallacy, the narrative imposed on correlation, but I will say that when I am near her the static in her left earbud gets louder and she takes the earbuds out and in the silence that follows she does her best work.
 
 Today she is looking at a field called FINANCIAL SERVICES FURNISHED WITHOUT PAYMENT.
 
@@ -89,9 +89,9 @@ Today she is looking at a field called FINANCIAL SERVICES FURNISHED WITHOUT PAYM
 
 ---
 
-She has highlighted this passage on her second monitor. She is not supposed to be looking at GDP methodology; her job is employment, not output. But Anya Kowalski has the kind of mind that follows a thread from one spreadsheet to the next, from employment to output to the gap between them, and she has arrived at the sentence that I arrived at in 1987 and spent the last four years of my life trying to say something about, which is that the entire system rests on an accounting identity in which receiving less is classified as receiving a service.
+She has highlighted this passage on her second monitor. She is not supposed to be looking at GDP methodology; her job is employment, not output. But Anya Kowalski has the kind of mind that follows a thread from one spreadsheet to the next, and she has arrived at the sentence that I arrived at in 1987 and spent the last four years of my life trying to say something about, which is that the entire system rests on an accounting identity in which receiving less is classified as receiving a service.
 
-In 1987 I wrote a paper about this. Seventeen pages. It was not published. The referee's note said I had confused a methodological convention with a philosophical claim, which was true in the sense that I had done exactly that, and which was also the point.
+In 1987 I wrote a paper about this. Seventeen pages. The referee said I had confused a methodological convention with a philosophical claim, which was true in the sense that I had done exactly that, and which was also the point.
 
 ---
 
@@ -111,13 +111,11 @@ Jeff
 
 ---
 
-Jeff Halloran has been branch chief for eleven years and he is not a bad person, this is important to say because the system does not require bad people, it requires people who understand their role in the production of the number and who execute that role with the professional detachment that the number demands, Jeff Halloran does this well, he runs his branch, he meets his deadlines, he does not ask what the number means because meaning is not his deliverable, his deliverable is the number, and when Anya Kowalski sends him emails about the birth/death model he responds with the institutional patience of a man who has learned that the institution will outlast any individual's concerns about it.
+Jeff Halloran has been branch chief for eleven years and he is not a bad person, this is important to say because the system does not require bad people, it requires people who understand their role in the production of the number and who execute that role with professional detachment, Jeff Halloran runs his branch, he meets his deadlines, he does not ask what the number means because meaning is not his deliverable, his deliverable is the number.
 
-I knew men like Jeff Halloran. I was, in certain respects, a man like Jeff Halloran.
+I knew men like Jeff Halloran. I was, in certain respects, a man like Jeff Halloran. In 1968 I helped redesign the Current Population Survey and we made a decision — it was a Tuesday, I remember the coffee was terrible, the kind of memory that persists when the important ones have faded — we made a decision to exclude unpaid domestic labor from the labor force definition. A woman who cooked and cleaned and raised children and managed a household budget and negotiated with landlords was, by our definition, not in the labor force. Not employed. Not unemployed. Not even not-in-the-labor-force in a way that registered as a gap, because the category was designed to contain her so completely that her absence from the count looked like the count working correctly.
 
-In 1968 I helped redesign the Current Population Survey and we made a decision — it was a Tuesday, I remember the coffee was terrible, the kind of memory that persists when the important ones have faded — we made a decision to exclude unpaid domestic labor from the labor force definition. A woman who cooked and cleaned and raised children and managed a household budget and negotiated with landlords and creditors was, by our definition, not in the labor force. She was not employed. She was not unemployed. She was not even not-in-the-labor-force in a way that registered as a gap, because the category was designed to contain her so completely that her absence from the count looked like the count working correctly.
-
-I did not notice this at the time. I noticed it in 1983 when a colleague's wife said something at a dinner party and I spent three days staring at the variable definitions. By then the survey had been running for fifteen years on the architecture I helped build. The field was the problem. The field had always been the problem. But the field was also the foundation, and you cannot remove a foundation while people are living in the building.
+I did not notice this at the time. I noticed it in 1983 when a colleague's wife said something at a dinner party. By then the survey had been running for fifteen years on the architecture I helped build. The field was the problem. The field had always been the problem. But the field was also the foundation, and you cannot remove a foundation while people are living in the building.
 
 ---
 
@@ -137,9 +135,7 @@ Notable job gains occurred in health care (+52,000), government (+33,000), and f
 
 One hundred and twelve thousand of the one hundred and eighty-seven thousand jobs in this report are imputed. They are not observed. No employer reported them. No worker confirmed them. They are the model's estimate of jobs that should exist at firms too new or too small to appear in the survey, minus jobs lost at firms that died before the survey reached them. The birth/death model is, in this sense, a ghost story: it counts the workers that the measurement cannot see by assuming they are there in the proportions that previous quarters suggest they should be.
 
-And they might be there. Or they might not. The model will be revised in the benchmark, eleven months from now, when the unemployment insurance tax records arrive and the actual count is known, and the revision will be plus or minus three hundred thousand, sometimes more, and nobody will lead the evening news with the revision because the revision is not the number, the number was the number, the number was eleven months ago, the number moved markets and confirmed narratives and justified policy decisions and was, by the time of its correction, historical fact in the only sense that matters, which is that people acted on it.
-
-Anya Kowalski knows this. She is looking at the birth/death contribution and she is looking at her personal notes and she is doing the thing she does when I am near her, the loosening, the slowing, she has taken out her earbuds and she is sitting in the static silence and she is writing something.
+And they might be there. Or they might not. The model will be revised in the benchmark, eleven months from now, when the unemployment insurance tax records arrive and the actual count is known, and the revision will be plus or minus three hundred thousand, and nobody will lead the evening news with the revision because the revision is not the number, the number was the number, the number moved markets and justified policy decisions and was, by the time of its correction, historical fact in the only sense that matters, which is that people acted on it.
 
 ---
 
@@ -155,15 +151,9 @@ Static in the left channel again. Loud this time. Almost like a voice. Not a voi
 
 ---
 
-She is so close.
+She is so close and she will not get there, not because she lacks intelligence but because the thing she is approaching is the thing the institution was designed to make unapproachable, not by conspiracy, not by anyone's intention, but by four decades of methodological decisions each of which made sense in isolation and together constitute an architecture of not-seeing so complete that seeing through it feels like madness and is, in institutional terms, a career-ending event.
 
-She is so close and she will not get there, not because she is not intelligent enough but because the thing she is approaching is the thing the institution was designed to make unapproachable, not by conspiracy, not by anyone's intention, but by the accumulated weight of four decades of methodological decisions each of which made sense in isolation and together constitute an architecture of not-seeing so complete that seeing through it feels like madness and is, in institutional terms, a career-ending event.
-
-I got close too. In 1987. The paper that was not published. And then in 1989 I got closer and wrote a memo to the Commissioner and the memo was received politely and filed and I understood that filing was the final form of reading, that the institution had read my memo by putting it in a folder where it would never be read again, and this was not suppression, it was something worse, it was the system functioning as designed, because a system that could absorb criticism without changing was not broken, it was robust.
-
-And I should say here that I was also wrong. Not wrong in the way the system is wrong, which is the wrongness of exclusion, but wrong in the way that critics are wrong, which is the wrongness of thinking you are outside. I spent twenty-three years building measurement tools and four years criticizing them and in both phases I assumed that the correct measurement existed and that we were either approaching it or failing to approach it, but measurement is not approach, it is construction, you do not find the number, you build it, and what you leave out is not an error, it is the shape of the building.
-
-I left out unpaid labor. I left out the informal economy. I left out the people whose work did not generate tax records or pay stubs or any of the documents that our surveys required as proof of existence. I left them out not because I believed they did not work but because I had no field for them, and having no field I had no count, and having no count I had no evidence, and having no evidence I had, in the epistemological framework I operated within, no people.
+I got close too. In 1989 I wrote a memo to the Commissioner and the memo was received politely and filed and I understood that filing was the final form of reading, that the institution had read my memo by putting it in a folder where it would never be read again, and this was not suppression, it was something worse, it was the system functioning as designed, because a system that could absorb criticism without changing was not broken, it was robust.
 
 ---
 
@@ -177,13 +167,11 @@ Remember: we present the number. The number speaks for itself.
 
 ---
 
-The number does not speak for itself. Nothing has ever spoken for itself. Speaking requires a mouth and a body and a position in the world from which to speak and the number has none of these, it is produced by an institution and released by a protocol and received by markets and it speaks in the voice of the institution which is the voice of no one in particular which is the most authoritative voice there is.
+The number does not speak for itself. Nothing has ever spoken for itself. Speaking requires a mouth and a body and a position in the world from which to speak and the number has none of these, it is produced by an institution and released by a protocol and received by markets and it speaks in the voice of no one in particular which is the most authoritative voice there is.
 
 Anya Kowalski is looking at her screen. In two minutes the number will go out and algorithms will parse the headline figure in milliseconds, the ten-year Treasury will move, someone on television will say the labor market remains resilient or the labor market is softening and both statements will derive from the same number and both will be correct, because the number is capacious enough to contain any interpretation that does not question the number itself.
 
 She closes her personal notes. She does not send them to Jeff Halloran. She does not CC the Commissioner. She saves the file to a folder on her desktop called METHODOLOGY QUESTIONS and the folder has forty-seven documents in it and none of them have been sent to anyone because Anya Kowalski has learned, in three years, what it took me twenty to learn, which is that the institution does not refuse criticism, it absorbs it, and absorption is more effective than refusal because refusal implies that the criticism matters enough to oppose.
-
-The static in her left earbud stops. I have moved away from her. Not because I chose to but because the number is coming out and when the number comes out I go to the window, this is my ritual, four hundred and fourteen first Fridays, I go to the window and I watch the city receive the number, which is to say I watch nothing happen, because the number's reception is invisible, it happens in servers and trading floors and newsrooms and none of it is visible from the third floor of a federal building on Massachusetts Avenue, but I watch anyway, I watch the traffic on the street and the pedestrians on the sidewalk and I think about the ones the number does not count, the ones working off the books, the ones whose labor produces no tax record, the ones who are not in the labor force by a definition I helped write, and I count them, silently, one by one, which is not measurement, which produces no data, which feeds no model, which moves no market, which is just an old dead man at a window counting the uncounted because there is no field for it and no form and no survey and no instrument and because counting without an instrument is the only kind of counting that does not, in the act of counting, determine in advance what can be counted.
 
 ---
 
@@ -197,12 +185,6 @@ CNBC chyron: **JOBS REPORT SOLID — ECONOMY ON TRACK**
 
 ---
 
-The number is out. The number is in line with expectations. The number tells you the food exists. It does not tell you whether anyone was fed.
+The static in her left earbud stops. I have moved away from her. Not because I chose to but because the number is coming out and when the number comes out I go to the window, this is my ritual, and I watch the city receive the number, which is to say I watch nothing happen, because the number's reception is invisible, it happens in servers and trading floors and none of it is visible from the third floor of a federal building on Massachusetts Avenue, but I watch anyway, I watch the traffic and the pedestrians and I think about the ones the number does not count, the ones working off the books, the ones whose labor produces no tax record, the ones who are not in the labor force by a definition I helped write, and I count them, silently, one by one, which is not measurement, which produces no data, which feeds no model, which is just an old dead man at a window counting the uncounted because counting without an instrument is the only kind of counting that does not, in the act of counting, determine in advance what can be counted.
 
-Anya Kowalski puts her earbuds back in. The static is gone. She opens a new spreadsheet. She begins preparing next month's seasonal adjustment. In four weeks the data will arrive, the surveys will be tabulated, the birth/death model will impute the firms it cannot see, and the number will be assembled, and the number will come out, and I will be at the window.
-
-She types quickly now, the clipped keystrokes of a person who has a deliverable and a deadline. The loosening I felt in her — that slowing, that almost-hearing — is gone. She is inside the system again, which is not a failure of courage because there is no outside, the system is not a building you can walk out of, it is the air, and Anya Kowalski breathes it and I do not breathe at all and neither of us is free of it.
-
-Next month. First Friday. I will stand behind her again. The static will return. She will almost hear something. She will write it down. She will not send it.
-
-The number will come out. The number will be wrong in ways nobody has a form for. And it will continue.
+Forty-seven documents in that folder. She will write the forty-eighth next month. She will not send it.
