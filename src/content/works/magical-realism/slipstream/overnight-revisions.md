@@ -18,8 +18,8 @@ tags:
   - dream-logic
   - revision
   - wrongness
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Murakami's calm acceptance of the uncanny and Morrison's historically weighted prose converge in a story about a woman who revises institutional documents overnight, never questioning why the building keeps rearranging itself around her, structured through Ishiguro's measured narration of normalized horror and his dream-logic of shifting obligations."

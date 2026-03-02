@@ -18,8 +18,8 @@ tags:
   - father-daughter
   - whitewater
   - survival
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "London's survival mathematics and bodily precision meet Melville's metaphysical reach in a stripped-down river journey that borrows McCarthy's episodic tests of endurance and Strayed's grief-as-physical-reckoning. A daughter paddles a river her dead father taught her, and the chronology fractures the way grief fractures it — without warning, without mercy, and always at cost."
