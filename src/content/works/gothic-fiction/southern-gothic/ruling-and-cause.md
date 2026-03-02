@@ -7,8 +7,8 @@ authorA: "Edgar Allan Poe"
 authorB: "Tananarive Due"
 workX: "The Tell-Tale Heart by Edgar Allan Poe"
 workY: "The Between by Tananarive Due"
-wordCount: 4130
-readingTimeMinutes: 17
+wordCount: 3566
+readingTimeMinutes: 14
 tags:
   - southern-gothic
   - confession
@@ -89,23 +89,23 @@ I could give you others. Gladys Inman, whom I will mention again later. Bobby Th
 
 ---
 
-I want to tell you about the afternoon I pulled the files. I want to tell you about it calmly because it happened calmly and there is a horror in that which I think you should be allowed to experience as I experienced it, without preparation, without the dramatic machinery of revelation that a less precise narrator might impose.
+I want to tell you about the afternoon I pulled the files. I want to tell you about it calmly because it happened calmly.
 
 It was April of last year. 2025. The state was conducting a records audit — routine, happens every seven years — and they required copies of all certificates from the preceding period. I pulled seven years of files. I laid them on the long table in the conference room that the planning commission uses for its monthly meetings, the same room where my father spent nineteen years approving subdivision plats and rezoning requests. I organized them by year, then by month, then by cause, because that is the order the state requires, and the organizing took most of the day, and when I was finished I stood at one end of the table and looked at what I had done.
 
 Twenty-one hundred and seventy certificates. Seven years.
 
-I could see it. Not slowly, not with dawning comprehension, not the way stories would have you believe that understanding arrives. I could see it the way you see a face in a crowd — instantly, completely, the pattern resolving all at once from what had been, moment to moment, case by case, an accumulation of individual decisions.
+I could see it. Not slowly. The pattern resolving all at once from what had been, moment to moment, case by case, an accumulation of individual decisions.
 
 I am going to tell you what I saw and I am going to tell it to you in numbers because numbers are harder to look away from than stories.
 
 Of the ninety-three deaths I had classified as accidental in the preceding seven years, sixty-one involved Black decedents. This in a county that is 68 percent white. Of the forty-one cases in which I had noted injuries consistent with multiple possible causes and ruled in favor of the least investigatively burdensome conclusion, thirty-four involved Black decedents. Of the seventeen cases I had referred to the GBI for further investigation, fourteen involved white decedents.
 
-Each decision was defensible. I will keep saying this because it is true and because the truth of it is the thing I need you to understand is not a defense. Each time I chose accident over undetermined, or natural over accident, or declined to recommend further investigation, I did so within the boundaries of professional judgment. Another coroner might have ruled differently on any individual case. That is the nature of judgment — reasonable people disagree. I was a reasonable person. I disagreed with the conclusion that would have required more work, more scrutiny, more disruption to the county's processes, and I did so, case by case, with the blind confidence of a man who believed he was being objective because he had never once examined the aggregate of his objectivity.
+Each decision was defensible. I will keep saying this because it is true and because the truth of it is the thing I need you to understand is not a defense. Each time I chose accident over undetermined, or natural over accident, or declined to recommend further investigation, I did so within the boundaries of professional judgment. Another coroner might have ruled differently on any individual case. That is the nature of judgment — reasonable people disagree. I was a reasonable person. I disagreed with the conclusion that would have required more work, more scrutiny, more disruption to the county's processes, and I did so case by case, and I never looked at the total.
 
 I stood at the end of that table for forty minutes. I know the duration because the clock on the wall is the same clock my father looked at during planning commission meetings, a round institutional clock with a red second hand that my father once told me lost two minutes per month, so that by the end of the year the planning commission was operating twenty-four minutes behind the rest of the county, and he considered this a private advantage.
 
-Forty minutes. I looked at the files and the files looked back at me and neither of us blinked.
+Forty minutes. I stood there and I looked at what I had done.
 
 Then I put them back in the cabinets. In the correct order. In the correct drawers. I filed the state's request and sent the copies and the audit was completed without incident. No one asked me about the pattern. No one needed to. The pattern was not illegal. The pattern was not, in any individual instance, incorrect. The pattern was the ordinary operation of a system that worked as designed, and the fact that I had been the mechanism — the hand, the stamp, the signature — did not make me culpable in any way that the law or the medical board or the county commission would recognize.
 
@@ -115,7 +115,7 @@ That night the stamp began making the sound with the drawer closed.
 
 I want to be careful here. I do not want to claim more than I can support. This is, you will recognize, a professional habit, and you may decide for yourself whether the habit is reassuring or damning.
 
-The sound. It is the sound the stamp makes when it contacts paper. That flat, intimate compression — rubber against cotton fiber, ink transferring by pressure rather than flow, the slight rebound as the stamp lifts. I have heard it nine thousand times with the stamp in my hand. I began hearing it with the stamp in the drawer in April 2025. I hear it now. It is not constant. It comes in sequences — three or four impressions, then silence, then three or four more — and the rhythm is not mechanical. It varies the way a heartbeat varies, slightly faster when I am thinking about a particular file, slightly slower when I am thinking about the office itself, the cabinets, the fluorescent lights at 4,000 hertz.
+The sound. It is the sound the stamp makes when it contacts paper. That flat compression — rubber against cotton fiber, ink transferring by pressure rather than flow, the slight rebound as the stamp lifts. I have heard it nine thousand times with the stamp in my hand. I began hearing it with the stamp in the drawer in April 2025. I hear it now. It is not constant. It comes in sequences — three or four impressions, then silence, then three or four more — and the rhythm is not mechanical. It varies the way a heartbeat varies, slightly faster when I am thinking about a particular file, slightly slower when I am thinking about the office itself, the cabinets, the fluorescent lights at 4,000 hertz.
 
 I had my hearing tested. Normal for my age. I had the office inspected for mechanical sounds — the HVAC system, the plumbing, the fluorescent ballasts. Nothing at the frequency I described. I removed the stamp from the drawer and locked it in my car and the sound continued, which proved either that the sound was not coming from the stamp or that the stamp's location was irrelevant to the sound's production. I brought the stamp back. It seemed dishonest to keep it in the car.
 
@@ -125,23 +125,19 @@ But I hear the stamp. And what I hear, if I am honest — and I have promised yo
 
 ---
 
-There is a chandelier in the lobby of the county annex building. It has been there since the building was constructed in 1952. It once had — I counted, during one of my father's planning commission meetings when I was young and had nothing to do — forty-eight crystal pendants. It now has thirty-one. They were not removed all at once. No one took a ladder and stripped them. They were removed over decades, one at a time, by gravity or vibration or the occasional child's hand reaching up from a parent's shoulders. No one noticed the light getting worse. No one said, on any particular Tuesday, the lobby is darker than it was on Monday. But the lobby is darker. Has been getting darker for seventy years. And the people who work here have adjusted their eyes, year by year, until the dimness is normal, until the dimness is just the way the light is, until someone — me, now, today — stands in the lobby and realizes he has been working in the dark for thirty-one years and calling it adequate illumination.
+I do not know who I am writing this for. Not Earline Dawson, who does not need my confession because she reached her own conclusions fifteen years ago across a counter.
 
-This is my confession. I am not sure to whom I am making it. Not to the county commission, which would accept my resignation with the mild embarrassment of an institution losing an employee to an unspecified personal matter. Not to the medical board, which would find no actionable violation in any individual certificate. Not to Earline Dawson, who does not need my confession because she reached her own conclusions fifteen years ago across a counter.
+Maybe to you. Whoever holds this paper. You are the jury now, and I am asking you to find me — what? Guilty? Of what specific crime? Each certificate is defensible. Sane? A man who hears a rubber stamp through a closed drawer at night is not, by conventional assessment, demonstrating robust mental health. But a man who spent thirty-one years not hearing the pattern was not demonstrating sanity either.
 
-Maybe to you. Whoever holds this paper. You are the jury now, the way the reader is always the jury in a story like this, and I am asking you to find me — what? Guilty? Of what specific crime? Each certificate is defensible. Sane? By what measure? A man who hears a rubber stamp through a closed drawer at night is not, by conventional assessment, demonstrating robust mental health. But a man who spent thirty-one years not hearing the pattern was not demonstrating sanity either. He was demonstrating something else. A different kind of impairment. The kind that allows you to look at an aggregate and see only the individual cases, to read the sentence and refuse to parse it, to walk through a lobby every day and never count the missing crystals.
-
-I am still the coroner. I went to work this morning. A body came in — natural causes, cardiac arrest, a seventy-eight-year-old white woman found by her daughter. I examined the body with the competence of thirty-one years of practice. I completed the certificate. I picked up the stamp. The sound it made was the same sound it has always made, that flat, intimate, final sound, and I filed the certificate in the cabinet and the cabinet closed and the fluorescent lights hummed at 4,000 hertz and the clock on the wall lost its imperceptible fraction of a minute and Barrow County continued to operate twenty-four minutes behind the rest of the world, which is my father's private advantage that I have inherited along with everything else.
+I am still the coroner. I went to work this morning. A body came in — natural causes, cardiac arrest, a seventy-eight-year-old white woman found by her daughter. I examined the body with the competence of thirty-one years of practice. I completed the certificate. I picked up the stamp. The sound it made was the same sound it has always made, that flat, final sound, and I filed the certificate in the cabinet and the cabinet closed and the fluorescent lights hummed at 4,000 hertz and the clock on the wall lost its imperceptible fraction of a minute.
 
 I am writing this at my desk. It is 11:40 PM. The building is empty. The stamp is in the drawer. The sound is coming from the drawer, or from the cabinets, or from the walls, or from the county itself, which has been making this sound for longer than I have been alive and will continue making it after I am filed in my own cabinet with my own cause of death written on my own line by whoever replaces me, who will, I am certain, be qualified, and who will, I am certain, make defensible decisions, and who will, I am certain, not hear the sound.
 
 Not at first.
 
-I set my pen down. I pick it up. I have not decided whether to continue writing or to stop, and the inability to decide is itself a kind of answer, or a kind of evasion, and I no longer trust myself to tell the difference. The stamp is in the drawer. The sound continues. Whether it is guilt or madness or something I do not have a clinical term for — something that lives in the space between a defensible ruling and a dead boy in a drainage ditch — I leave for you to determine.
+The stamp is in the drawer. The sound continues. Whether it is guilt or madness or something I do not have a clinical term for — something that lives in the space between a defensible ruling and a dead boy in a drainage ditch — I leave for you to determine.
 
-I have told you everything. I have told it calmly. I have used precise language and correct medical terminology and I have not raised my voice or broken my composure and I want you to ask yourself whether that composure reassures you or whether it is the most frightening thing about this document.
-
-The stamp is in the drawer. I am going to open the drawer now. I am going to pick up the stamp. I am going to press it against this page — not a death certificate, just this page, just paper — and I am going to listen to the sound it makes and I am going to decide whether the sound is coming from the rubber or from the ink or from the paper or from the thirty-one years of names written on the line below it, and I am going to write my finding here, on the last line, the way I have written findings on the last line nine thousand times before.
+The stamp is in the drawer. I am going to open the drawer now. I am going to press it against this page — not a death certificate, just this page, just paper — and I am going to write my finding here, on the last line, the way I have written findings on the last line nine thousand times before.
 
 The stamp comes down.
 
