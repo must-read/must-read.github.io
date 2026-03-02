@@ -1,0 +1,68 @@
+{
+  "workSlug": "every-number-a-name",
+  "reviews": [
+    {
+      "personaId": "noir-001-desiree",
+      "rating": 4,
+      "text": "This one sat with me. The narrator's voice has that warm, unhurried quality where you trust him completely even though he's telling you about illegal numbers running. The detail about Mrs. Flood's peppermint candies on top of the envelopes — that's the kind of thing you can't fake, the tiny ritual that makes a whole world feel real. Nadine inheriting this ledger and becoming her father's successor without ever choosing it, just stepping into the current, that's beautiful and a little heartbreaking. I'd shelve this next to the best community crime fiction I carry.",
+      "date": "2025-12-03",
+      "helpfulCount": 34
+    },
+    {
+      "personaId": "noir-002-takeshi",
+      "rating": 3,
+      "text": "The retrospective narrator functions well as a framing device — distant enough to grant the material a documentary quality, close enough to register emotional texture. The Liddell confrontation is structurally the strongest scene: Nadine's silence wielded as power, the corrupt officer's retreat rendered without melodrama. Where the piece falters is in its lack of consequence. The numbers operation hums along, Nadine proves capable, threats dissolve. Noir requires a reckoning the world refuses to provide cleanly. This story provides no reckoning at all. Accomplished prose in search of a harder edge.",
+      "date": "2026-01-19",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "noir-003-beth",
+      "rating": 4,
+      "text": "The operational details ring true. Emmett's system — one ledger, the cabinet above the stove with the broken door, the monthly envelopes under the mat at St. Casimir's — these are the kinds of arrangements that actually existed in numbers operations. The Floyd skimming subplot is particularly well handled: Nadine catches it through the missing peppermint candies, not through auditing, which shows she understands the human side of the system as well as the numerical one. I appreciated that nobody gets shot.",
+      "date": "2025-09-28",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "noir-005-vince",
+      "rating": 4,
+      "text": "The prose earns its length. Consider: \"his voice was the voice of a person who has just discovered that the world has moving parts she hadn't noticed.\" Or the ledger \"reading her\" rather than her reading it. These inversions are precise without being showy. The narrator's rhythm — long declarative sentences that accumulate detail the way the ledger accumulates names — mirrors the content formally. Some passages run discursive where compression would cut deeper, but the restraint at the ending, just Prentiss watching Nadine write, no summary, no moral — that is the work of a writer who trusts silence.",
+      "date": "2026-02-14",
+      "helpfulCount": 53
+    },
+    {
+      "personaId": "noir-006-janet",
+      "rating": 4,
+      "text": "Read this in one sitting and immediately wanted to know more about Nadine. The scene where Prentiss Hall comes to the door and she makes him coffee and sits him at the kitchen table — the way the narrator explains that this was an act of authority even though it looked like hospitality — that's the moment the story clicked for me. Nadine never raises her voice, never threatens anyone, and she's still the most commanding person in every room. Good stuff.",
+      "date": "2025-10-11",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "noir-007-graham",
+      "rating": 3,
+      "text": "A quiet, well-observed portrait that refuses most of the genre's conventional satisfactions. No violence, no betrayal brought home, no downfall. What it offers instead is institutional detail rendered with patience — the forty-versus-sixty dispute with Officer Liddell, the blink system Nadine develops with her paralyzed father. The ending dissolves into memory rather than resolving, which is honest but leaves the reader holding an empty hand. Whether that emptiness is the point or a structural shortcoming depends on what you came for.",
+      "date": "2026-01-05",
+      "helpfulCount": 28
+    },
+    {
+      "personaId": "noir-008-carolina",
+      "rating": 5,
+      "text": "What strikes me is how the text distributes power through domestic space. The kitchen table is the seat of authority — Emmett conducted business there, and when Nadine places Prentiss in that chair and writes in the ledger, the transfer is complete without a word of negotiation. The Liddell scene is a masterclass in gendered confrontation: he tries to exploit her inexperience, she deploys her father's stillness, and the ledger — the written record, the institutional memory — becomes her weapon. That she never learns whether forty or sixty was the real amount is crucial. The ambiguity preserves Emmett's authority even in paralysis. This is noir as inheritance narrative, and the inheritance is not just the operation but the performance of power itself.",
+      "date": "2025-11-22",
+      "helpfulCount": 67
+    },
+    {
+      "personaId": "noir-009-dale",
+      "rating": 2,
+      "text": "Look, the writing's fine, but nothing happens. A woman inherits her dad's numbers book and runs it competently. That's it. The cop backs down, the thieving runner cries and gets docked, and the whole thing ends with the narrator saying he doesn't know where the ledger went. I kept waiting for the other shoe to drop — a rival, a bust, a betrayal that actually costs something — and it never did. It's a nice character sketch but it's not a story.",
+      "date": "2026-02-27",
+      "helpfulCount": 8
+    },
+    {
+      "personaId": "noir-010-priya",
+      "rating": 3,
+      "text": "Strong voice, distinctive opening, and the community detail gives it texture that would stand out in a crowded market. The peppermint candies, the blink system, the cabinet door that won't close — these are memorable details. But commercially, it lacks a propulsive question. Nadine is never truly in danger, the stakes remain ambient, and the retrospective narrator defuses tension by assuring us he's telling us this from years later. A publisher would want the Liddell thread to escalate, or the Floyd situation to have real consequences. As a character piece it's accomplished; as a story with forward motion, it underdelivers.",
+      "date": "2025-08-17",
+      "helpfulCount": 19
+    }
+  ]
+}
