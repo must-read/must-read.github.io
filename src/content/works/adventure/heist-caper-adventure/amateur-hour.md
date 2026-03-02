@@ -7,8 +7,8 @@ authorA: "Michael Chabon"
 authorB: "Amor Towles"
 workX: "The Hot Rock by Donald Westlake"
 workY: "The Confidence-Man by Herman Melville"
-wordCount: 4098
-readingTimeMinutes: 16
+wordCount: 3743
+readingTimeMinutes: 15
 tags:
   - heist
   - con-artist
@@ -111,7 +111,7 @@ This was the longest consecutive utterance anyone had heard from Wallach. Gideon
 
 ---
 
-What Wallach did, over the next nine days, remained opaque. He disappeared into the kind of research that leaves no visible trace — no open tabs, no stacked papers, no phone calls that anyone overheard. On the third day, Gideon found him sitting in a public library in Hamden, reading what appeared to be probate records with the absorption of a man reading a thriller. On the fifth day, Dinah saw him outside a FedEx store in Branford, standing very still, watching someone load boxes into an SUV. She did not approach him. There was something about Wallach in the field that discouraged approach, the way certain animals discourage approach not through aggression but through a completeness of attention that makes interruption feel like vandalism.
+What Wallach did, over the next nine days, remained opaque. He disappeared into the kind of research that leaves no visible trace — no open tabs, no stacked papers, no phone calls that anyone overheard. On the third day, Gideon found him sitting in a public library in Hamden, reading what appeared to be probate records with the absorption of a man reading a thriller. On the fifth day, Dinah saw him outside a FedEx store in Branford, standing very still, watching someone load boxes into an SUV. She did not approach him.
 
 On the ninth day he came back and said, "Branford. A house on Seaview Terrace. The nephew moved it."
 
@@ -189,7 +189,7 @@ He did not bark. He did not growl. He simply stood, which was in some ways worse
 
 "He is fourteen. Fourteen-year-old dogs do not always do what they have always done."
 
-From outside, the sound of a car on Seaview Terrace. Headlights swept across the living room wall, illuminating the empty space where the painting had been, which was a lighter rectangle against the darker paint, a ghost of the thing that had hung there — a presence defined by absence, which was exactly the kind of observation Lev would have made if Lev had not been busy standing very still with his jaw set in a way that suggested the situation had evolved.
+From outside, the sound of a car on Seaview Terrace. Headlights swept across the living room wall, illuminating the empty space where the painting had been — a lighter rectangle against the darker paint, the ghost of the thing that had hung there.
 
 "That is not Julian Frome," Lev said. "Julian Frome is at a wedding in Mystic."
 
@@ -219,11 +219,11 @@ Dinah held it up. In the light from the highway she could see that it was not se
 
 "Because," Dinah said, and she looked at Lev in the rearview mirror, and Lev looked back at her with a steadiness that was either honest or the most accomplished thing about him, "I want to know what Lev thinks is inside."
 
-Lev said nothing for twelve miles. Then he said, "I think it is a letter establishing the painting's provenance. I think Dr. Frome knew the painting was a forgery and commissioned documentation to make it appear authentic. I think the forgery, with that letter, becomes something more complex than a fake. It becomes a fake with a pedigree, which is to say, it becomes a con."
+Lev said nothing for twelve miles. Then he said, "I think it is a letter establishing the painting's provenance. I think Dr. Frome knew the painting was a forgery and commissioned documentation to make it appear authentic. I think the forgery, with that letter, becomes something more complex than a fake. It becomes a fake with a pedigree. A con."
 
 "A con on whom?"
 
-"On the buyer. On anyone who looks at it. On the painting itself, if paintings can be conned, and I believe they can. A painting that is displayed as authentic begins to *be* authentic, in the way that a man who is treated as a gentleman begins to be a gentleman, regardless of his origins. Provenance is not history. Provenance is a story told about an object, and if the story is believed, the object changes."
+"On the buyer. On anyone who looks at it. On the painting itself, if paintings can be conned, and I believe they can. A painting that is displayed as authentic begins to *be* authentic, in the way that a man who is treated as a gentleman begins to be a gentleman, regardless of his origins."
 
 "That's insane," Gideon said.
 
@@ -243,7 +243,7 @@ The letter was typed on cream-colored stationery with a watermark from a hotel i
 
 "The worthless object."
 
-"The object whose worth depends entirely on who is looking at it and what they have been told. Which is true of every object, Gideon. Every painting, every dollar, every promise. The agreement to believe is the thing itself. Without the agreement, there is canvas and pigment. With it, there is Matisse."
+"The object whose worth depends entirely on who is looking at it and what they have been told."
 
 Wallach was writing in his notebook. Dinah was reading the letter again, holding it up to the light as though the watermark might reveal something the words did not. Gideon was looking at the painting, which leaned against the wall of the defunct travel agency between a brochure rack for destinations that no longer existed — Pan Am to Bermuda, TWA to London — and a poster of the Greek islands that had faded to the particular blue of things that have been promised and not delivered.
 
@@ -257,13 +257,13 @@ Wallach was writing in his notebook. Dinah was reading the letter again, holding
 
 "I know you don't. That's what worries me."
 
-Lev stood. He buttoned his jacket — the good jacket, the one jacket, which by now had been through three failed heists and a drive down I-95 at two in the morning and still, somehow, against all reason and textile science, looked like it belonged on a man who knew where he was going. He stood in front of the painting and looked at it the way people look at paintings in museums, which is to say with a seriousness that is partly genuine and partly performed and partly a prayer that the object will do the work of meaning something.
+Lev stood. He buttoned his jacket — which by now had been through three heists and a drive down I-95 at two in the morning and still, against reason, held its shape. He stood in front of the painting and looked at it the way people look at paintings in museums, with a seriousness that is partly genuine and partly performed and partly a prayer that the object will do the work of meaning something.
 
-"We sell all of it," he said. "The painting, the letter, the story. The whole apparatus. Because the buyer is not buying a Matisse. The buyer is buying the pleasure of believing they own a Matisse, and the letter — the forger's letter, the confession that is also a benediction — makes the pleasure more complicated and therefore more expensive. A fake without a story is worthless. A fake with a documented history of its own fakeness has become something else entirely — it has become an artifact of human ingenuity, which is what all art is anyway. He is buying a Matisse that knows it is not a Matisse. He is buying the wink."
+"We sell all of it," he said. "The painting, the letter, the story. The whole apparatus. Because the buyer is not buying a Matisse. The buyer is buying the pleasure of believing they own a Matisse, and the letter — the forger's letter, the confession that is also a benediction — makes the pleasure more complicated and therefore more expensive."
 
 "And if he finds out it's a fake?"
 
-"He already knows it might be a fake. Everyone who buys art at this level knows it might be a fake. The question is never 'is it real?' The question is 'can I sustain the belief that it is real, and will the people who see it in my home sustain it with me, and will this shared belief hold long enough to constitute a kind of truth?' That is the transaction. That has always been the transaction."
+"He already knows it might be a fake. Everyone who buys art at this level knows it might be a fake. The question is never 'is it real?' The question is 'can I sustain the belief that it is real, and will the people who see it in my home sustain it with me, and will this shared belief hold long enough to constitute a kind of truth?' That is the transaction."
 
 Wallach closed his notebook. He looked at Lev with the expression of a man completing a long calculation.
 
@@ -285,7 +285,7 @@ Wallach closed his notebook. He looked at Lev with the expression of a man compl
 
 "Is the buyer a person?"
 
-The question sat in the room. Gideon looked at Dinah. Dinah looked at the painting. The painting, which was a forgery of a Matisse depicting an open window through which seven colors of impossible sky were visible, looked at nothing, because paintings do not look, except when they do, except when the light falls on them in a particular way and the brushwork catches something you did not expect and for a moment the window is open and the harbor is real and the sky is exactly that color, that precise and unreasonable color, and you forget that it was made by a man named Lucien Grau in 1954 in a room you will never see.
+The question sat in the room. Gideon looked at Dinah. Dinah looked at the painting. The painting looked at nothing, because paintings do not look, except when the light falls a certain way and the brushwork catches something and for a moment the window is open and the harbor is there and the sky is that color, that precise and unreasonable color, and you forget that it was made by a man named Lucien Grau in 1954 in a room you will never see.
 
 "The buyer," Lev said, "is an arrangement. The buyer is a set of conditions that, when met, produce a transaction. Whether the buyer is a person in the way you mean — a person with a name and an address and a dog — is not a question I am prepared to answer at this time."
 
@@ -299,8 +299,6 @@ Dinah put the letter back in the envelope. She looked at the painting. She looke
 
 "We go again," Lev agreed.
 
-Wallach put his notebook in his coat pocket. Gideon stretched, the way gymnasts stretch, with a totality that seems to involve organs and not merely muscles. The fluorescent light buzzed. The faded poster of the Greek islands promised an Aegean that existed only in the chemistry of inks that had outlasted the airline, the agency, and the version of the future in which people walked into a storefront on Chapel Street and paid someone to send them somewhere beautiful.
-
-And Lev — standing in his one good shirt, in front of a forged Matisse, in a defunct travel agency, with a letter from a dead forger in his colleague's hands and a buyer who might not be a person and a plan that had failed three times and was about to fail differently — Lev smiled. Not the smile of a man who knew what was coming. The smile of a man for whom not knowing was the only honest position left, and who had decided to be honest about that, at least, if about nothing else.
+Wallach put his notebook in his coat pocket. Gideon stretched, the way gymnasts stretch, with a totality that seems to involve organs and not merely muscles. The fluorescent light buzzed. Outside, Chapel Street was already loud with morning traffic, and someone was unlocking the barbershop two doors down, and the world was doing what it does when four people in a back room have not yet decided whether they are thieves or something else.
 
 They went again.
