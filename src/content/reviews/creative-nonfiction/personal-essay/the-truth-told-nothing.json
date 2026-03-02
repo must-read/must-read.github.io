@@ -1,0 +1,61 @@
+{
+  "workSlug": "the-truth-told-nothing",
+  "reviews": [
+    {
+      "personaId": "cnf-001-miriam",
+      "rating": 4,
+      "text": "The recursive structure earns itself. Jerome's inability to stop reporting -- on his mother, on his son, on his own devastation -- is not a writerly conceit but the essay's actual subject. The passage where he catalogs the awards and then watches them compress into a parenthetical on Slide 23 is structurally flawless. I have one reservation: the Ensure can becomes a little too convenient as a recurring object, asked to bear more symbolic weight than a can of nutritional supplement can hold. But the ending refuses resolution, which is harder than it looks and exactly right. The sentence 'The record exists' repeated three times at the close does what repetition should do in prose -- it erodes rather than reinforces.",
+      "date": "2026-02-14",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-003-yeon",
+      "rating": 3,
+      "text": "Formally accomplished but relentlessly American in its assumptions. The essay presupposes that investigative journalism is supposed to produce institutional change, then elegizes its failure to do so -- a framework that reads as provincial from outside the U.S. The prose is controlled and the details are precise (the broken blind, the blade of light at two-fifteen), but the first person never relinquishes the stage. Jerome reports on everyone and everything, including his own reporting, and the recursion, while intellectually interesting, starts to feel airless by the midpoint. I wanted a moment where the observation fails entirely -- where Jerome simply cannot convert the room into material. That gap never opens.",
+      "date": "2025-11-03",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-004-ruth",
+      "rating": 5,
+      "text": "I had to put my phone down after the scene where Jerome holds the phone up to his mother and she looks at his younger face and his older face with the same polite incomprehension. Two strangers. One in the room, one in the machine. I read that sentence and I just sat there. The whole essay does this -- it builds these precise, devastating images and then lets them sit. The pitch deck section could have been angry or polemical but instead it's something worse: it's quiet. Jerome reading his own name in a parenthetical at three in the morning in a dark kitchen. I will be recommending this at the next reading series.",
+      "date": "2026-01-22",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-005-diego",
+      "rating": 4,
+      "text": "What saves this from being another American journalist's elegy for his own importance is the structural argument buried inside the personal narrative. The essay is making a claim about how systems metabolize critique -- the consent decree leading to a 40% revenue increase, the expose becoming market intelligence on Slide 23 -- and that claim has global implications well beyond surveillance capitalism in the U.S. The Palanthos-to-Claritas pipeline Jerome describes is exactly what I've watched happen with mining companies in Colombia: the exposure becomes the blueprint for the rebrand. Where the essay could go further is in the political economy of the 'consent' model DeShawn is selling. The toggle switch gets described but never interrogated. Who opts in, and why, and what pressures shape that choice in Fresno versus Mobile? Jerome the journalist would have asked.",
+      "date": "2025-12-09",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-006-sam",
+      "rating": 3,
+      "text": "The section breaks do real formal work here -- each one is a small violence, a severance in the argument that mirrors the essay's theme of information that fails to connect. But the prose itself is almost too composed. Jerome's voice never cracks. The recursion (watching himself watch himself, noting himself noting things) is intellectually precise but emotionally sealed. I kept wanting the essay to break its own form the way Jerome's mother breaks the pattern of recognition. The moment where she asks 'Are you the one who comes on Tuesdays?' is the essay's best sentence because it's the only one that isn't fully under Jerome's control. More of that uncontrolled register would have made this extraordinary rather than very good.",
+      "date": "2026-02-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-008-priyanka",
+      "rating": 4,
+      "text": "The essay is most interesting when read as a document about the politics of witness. Jerome's professional gaze -- trained, credentialed, prize-validated -- is shown to be both his instrument and his prison. He cannot stop converting his mother into material, cannot stop seeing the facility as a system, cannot stop being the watcher even when watching produces nothing. The racial dimensions are present but deliberately understated: a Black journalist's body in rooms of power, a Black mother's body in institutional care, a Black son moving through corporate tech. The essay trusts the reader to do that work rather than announcing it, which is a choice I respect. The comparison between Claudette's relationship to the television and the public's relationship to Jerome's reporting is the essay's sharpest structural move.",
+      "date": "2025-10-17",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-009-helen",
+      "rating": 5,
+      "text": "The prose rhythm here is extraordinary -- those long, accumulative sentences that keep adding clause after clause, stacking evidence the way Jerome stacks evidence, until the sentence itself becomes a demonstration of the problem it describes. The passage listing the awards ('a Polk, a duPont, a Peabody, an IRE Medal, a Hillman Prize') followed by the revenue figures is devastating precisely because the essay refuses to editorialize about the juxtaposition. And the ending, with the two faces in the room that cannot see each other and the elephants arriving wherever they were going -- it lands without a single false note. This is the rare essay about journalism's limitations that doesn't collapse into either self-pity or self-congratulation.",
+      "date": "2026-01-05",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "cnf-010-terrence",
+      "rating": 3,
+      "text": "The craft is undeniable. But I keep coming back to who this essay is for. Jerome is a man mourning his own relevance as much as he's mourning his mother, and the essay knows this -- the self-awareness is built into the recursion -- but knowing it doesn't fully solve it. The DeShawn sections hit harder: a Black father watching his Black son take the tools of exposure and build a company with them, the generational friction there, the way the son's ambition is both a rejection and an inheritance. That's the essay I wanted more of. Instead we get a lot of time with Jerome in the recliner cataloging details with surgical precision, and the precision, while impressive, starts to feel like its own kind of avoidance. The mother deserves more than being the essay's metaphor, even when the essay is smart enough to say so.",
+      "date": "2025-09-14",
+      "helpfulCount": 0
+    }
+  ]
+}
