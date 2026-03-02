@@ -16,8 +16,8 @@ tags:
   - ensemble
   - identity
   - deception
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 7
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: >

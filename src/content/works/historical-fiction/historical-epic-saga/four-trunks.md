@@ -18,8 +18,8 @@ tags:
   - economic-survival
   - women
   - secrets
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: >
