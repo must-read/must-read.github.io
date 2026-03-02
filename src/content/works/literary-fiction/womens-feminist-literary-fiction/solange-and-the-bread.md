@@ -10,8 +10,8 @@ workY: "My Brilliant Friend"
 wordCount: 2643
 readingTimeMinutes: 11
 tags: ["poverty", "motherhood", "arithmetic", "bread", "survival", "rural-france", "widowhood", "class", "dual-timeline"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 9
 publishedDate: 2026-03-02
 status: "published"
 formulaSummary: "Morrison's incantatory prose about women engineering survival from nothing meets Ferrante's fierce intellectual narration of female consciousness under economic pressure, structured through the expanding interior life and adversarial intimacy of Sula and shaped by My Brilliant Friend's class geometry and countdown toward a promised milestone."

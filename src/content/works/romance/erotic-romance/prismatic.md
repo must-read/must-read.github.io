@@ -18,8 +18,8 @@ tags:
   - desire-as-practice
   - chronic-condition
   - intimacy
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: >

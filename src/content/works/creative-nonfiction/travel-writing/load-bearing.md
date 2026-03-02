@@ -10,8 +10,8 @@ workY: "We Were Eight Years in Power"
 wordCount: 4713
 readingTimeMinutes: 19
 tags: ["infrastructure", "labor", "New York City", "bridges", "race", "class", "urban planning", "invisible work", "travel essay"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Talese's granular attention to anonymous laborers and the physical details of their craft merges with Coates's structural analysis of race in American space. The essay borrows its architecture from The Bridge — character studies of specific workers on specific structures — while threading Coates's insistence that personal narrative and systemic argument are indivisible, as modeled in We Were Eight Years in Power."

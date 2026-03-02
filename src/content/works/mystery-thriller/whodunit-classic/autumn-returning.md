@@ -10,8 +10,8 @@ workY: "The Thin Man"
 wordCount: 4268
 readingTimeMinutes: 17
 tags: ["whodunit", "coastal setting", "marriage", "birdwatching", "isolation", "peninsula", "bed-and-breakfast", "ambiguous death", "investigation", "routine"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Du Maurier's atmospheric dread and landscape-as-character fuse with Hammett's lean observational prose and dialogue-driven investigation. Jamaica Inn's isolation-as-pressure-cooker structures the failing B&B on a remote peninsula, while The Thin Man's married-couple-investigating-a-crime dynamic and social world underscore a story where three possible verdicts mirror three possible versions of a marriage."
