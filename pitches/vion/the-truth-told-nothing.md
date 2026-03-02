@@ -1,7 +1,7 @@
 ---
 source: "https://the-ei.github.io/vion/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "Joan Didion"
 authorB: "Ta-Nehisi Coates"
