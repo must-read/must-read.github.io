@@ -93,7 +93,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Jenkins's community-rooted warmth meets Gaiman's mythic strangeness. A paranormal romance set in a Black township in the 1890s, where a schoolteacher falls for a quiet blacksmith who carries something old and inhuman inside him \u2014 not as curse but as inheritance. Jenkins keeps the love story grounded in community, church suppers, and the politics of respectability; Gaiman ensures the supernatural is never tame."
+      "themes": "Jenkins's community-rooted warmth meets Gaiman's mythic strangeness. A paranormal romance set in a Black township in the 1890s, where a schoolteacher falls for a quiet blacksmith who carries something old and inhuman inside him \u2014 not as curse but as inheritance. Jenkins keeps the love story grounded in community, church suppers, and the politics of respectability; Gaiman ensures the supernatural is never tame.",
+      "used": true
     },
     {
       "id": "rom-romantasy-001",
@@ -311,7 +312,8 @@
       ],
       "targetWordCount": 5000,
       "readingTimeMinutes": 20,
-      "themes": "Hibbert's embodied, witty warmth meets Woolf's luminous interiority. An erotic romance where a woman with chronic pain and a partner who experiences sensation differently discover each other's bodies as foreign countries worth learning. Hibbert grounds it in humor, specificity, and the reality of a body that doesn't cooperate; Woolf elevates the intimate scenes into something prismatic \u2014 consciousness expanding inside a single touch."
+      "themes": "Hibbert's embodied, witty warmth meets Woolf's luminous interiority. An erotic romance where a woman with chronic pain and a partner who experiences sensation differently discover each other's bodies as foreign countries worth learning. Hibbert grounds it in humor, specificity, and the reality of a body that doesn't cooperate; Woolf elevates the intimate scenes into something prismatic \u2014 consciousness expanding inside a single touch.",
+      "used": true
     },
     {
       "id": "rom-contemporary-romance-002",
@@ -373,7 +375,8 @@
       ],
       "targetWordCount": 7500,
       "readingTimeMinutes": 30,
-      "themes": "Jenkins's historical depth meets Austen's social comedy. A historical romance set in 1850s Ohio, where a free Black woman running a millinery shop clashes with a newly arrived abolitionist minister whose Northern propriety she finds insufferable \u2014 and whose sermons she finds secretly electrifying. Jenkins brings the period detail and the stakes; Austen brings the structure of mutual misjudgment slowly, deliciously corrected."
+      "themes": "Jenkins's historical depth meets Austen's social comedy. A historical romance set in 1850s Ohio, where a free Black woman running a millinery shop clashes with a newly arrived abolitionist minister whose Northern propriety she finds insufferable \u2014 and whose sermons she finds secretly electrifying. Jenkins brings the period detail and the stakes; Austen brings the structure of mutual misjudgment slowly, deliciously corrected.",
+      "used": true
     },
     {
       "id": "rom-queer-romance-002",
@@ -404,7 +407,8 @@
       ],
       "targetWordCount": 3400,
       "readingTimeMinutes": 14,
-      "themes": "McQuiston's queer exuberance meets Wilde's epigrammatic sophistication. A queer romance between a young diplomat and a society columnist who has been writing blind items about him \u2014 each performing a public version of themselves while hiding who they actually want. McQuiston brings the earnest joy; Wilde brings the structural irony. The comedy is that the masks they wear to hide turn out to be their real faces."
+      "themes": "McQuiston's queer exuberance meets Wilde's epigrammatic sophistication. A queer romance between a young diplomat and a society columnist who has been writing blind items about him \u2014 each performing a public version of themselves while hiding who they actually want. McQuiston brings the earnest joy; Wilde brings the structural irony. The comedy is that the masks they wear to hide turn out to be their real faces.",
+      "used": true
     },
     {
       "id": "rom-romantic-comedy-002",
@@ -435,7 +439,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "Austen's social irony meets Ephron's modern romantic wit. A romantic comedy about a food critic who keeps setting up her best friend with the wrong people \u2014 while her co-critic (and longtime sparring partner) watches the disasters unfold with increasingly pointed commentary. Austen provides the structure of comic self-deception; Ephron provides the snappy dialogue and the moment it all stops being funny and becomes real."
+      "themes": "Austen's social irony meets Ephron's modern romantic wit. A romantic comedy about a food critic who keeps setting up her best friend with the wrong people \u2014 while her co-critic (and longtime sparring partner) watches the disasters unfold with increasingly pointed commentary. Austen provides the structure of comic self-deception; Ephron provides the snappy dialogue and the moment it all stops being funny and becomes real.",
+      "used": true
     },
     {
       "id": "rom-erotic-romance-003",

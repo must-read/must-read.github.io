@@ -124,7 +124,8 @@
       ],
       "targetWordCount": 7600,
       "readingTimeMinutes": 30,
-      "themes": "Mantel's political intimacy meets Waters's atmospheric dread. A historical mystery set in a great house where someone is dying and someone is rising \u2014 and the investigation into how and why becomes an investigation into which version of the past the house has chosen to remember. The mystery is not whodunit but who benefits from the official story."
+      "themes": "Mantel's political intimacy meets Waters's atmospheric dread. A historical mystery set in a great house where someone is dying and someone is rising \u2014 and the investigation into how and why becomes an investigation into which version of the past the house has chosen to remember. The mystery is not whodunit but who benefits from the official story.",
+      "used": true
     },
     {
       "id": "hf-war-fiction-001",
@@ -155,7 +156,8 @@
       ],
       "targetWordCount": 6400,
       "readingTimeMinutes": 26,
-      "themes": "Doerr's luminous sensory precision meets Renault's scholarly martial intimacy. A war story told through the body \u2014 what the body is trained to do, what it is forced to endure, and what it remembers after the fighting stops. The contrast between Doerr's shimmering surfaces and Renault's rigorous ancient-world authenticity creates a war fiction that feels simultaneously timeless and historically specific."
+      "themes": "Doerr's luminous sensory precision meets Renault's scholarly martial intimacy. A war story told through the body \u2014 what the body is trained to do, what it is forced to endure, and what it remembers after the fighting stops. The contrast between Doerr's shimmering surfaces and Renault's rigorous ancient-world authenticity creates a war fiction that feels simultaneously timeless and historically specific.",
+      "used": true
     },
     {
       "id": "hf-war-fiction-002",
@@ -405,7 +407,8 @@
       ],
       "targetWordCount": 5400,
       "readingTimeMinutes": 22,
-      "themes": "Waters's queer historical specificity meets Miller's mythic emotional architecture. A historical romance where love is also a lesson in power \u2014 each relationship teaching the protagonist something about who they are and what they are willing to sacrifice. Waters grounds it in period detail and social constraint; Miller elevates it into something that feels fated."
+      "themes": "Waters's queer historical specificity meets Miller's mythic emotional architecture. A historical romance where love is also a lesson in power \u2014 each relationship teaching the protagonist something about who they are and what they are willing to sacrifice. Waters grounds it in period detail and social constraint; Miller elevates it into something that feels fated.",
+      "used": true
     },
     {
       "id": "hf-epic-saga-002",

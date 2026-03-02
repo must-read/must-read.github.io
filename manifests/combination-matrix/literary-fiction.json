@@ -186,7 +186,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "Woolf's luminous interiority meets Adichie's cultural precision. A story about a woman preparing for an event \u2014 a party, a gathering, a return \u2014 and the preparation becoming a way of thinking through everything she has become and failed to become. Woolf brings the subjective time; Adichie brings the awareness that interiority is a luxury shaped by race, class, and geography."
+      "themes": "Woolf's luminous interiority meets Adichie's cultural precision. A story about a woman preparing for an event \u2014 a party, a gathering, a return \u2014 and the preparation becoming a way of thinking through everything she has become and failed to become. Woolf brings the subjective time; Adichie brings the awareness that interiority is a luxury shaped by race, class, and geography.",
+      "used": true
     },
     {
       "id": "lf-campus-academic-001",
@@ -310,7 +311,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "Hemingway's omission meets Robinson's contemplation. A minimalist story where the surface is spare and physical \u2014 actions, objects, weather \u2014 but what hides beneath is theological. Hemingway brings the discipline of leaving things out; Robinson brings the conviction that what is left out is sacred. The reader feels the weight of what is not said."
+      "themes": "Hemingway's omission meets Robinson's contemplation. A minimalist story where the surface is spare and physical \u2014 actions, objects, weather \u2014 but what hides beneath is theological. Hemingway brings the discipline of leaving things out; Robinson brings the conviction that what is left out is sacred. The reader feels the weight of what is not said.",
+      "used": true
     },
     {
       "id": "lf-autofiction-002",
@@ -342,7 +344,8 @@
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
       "themes": "Johnson's hallucinatory rawness meets Cusk's austere observation. An autofiction about a writer at a residency or festival who is supposed to be performing the role of writer but keeps slipping into something more dangerous and honest. Johnson brings the spiritual emergency; Cusk brings the formal containment that keeps it from becoming confession.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "lf-womens-feminist-002",

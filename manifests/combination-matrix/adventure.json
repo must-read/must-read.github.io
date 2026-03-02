@@ -31,7 +31,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Melville's philosophical enormity meets Crichton's systemic terror. An expedition into an uncharted region where the discovery is not a species or a ruin but an ecosystem that operates by laws the explorers' science cannot parse. Melville provides the obsessive narrator cataloguing what defies cataloguing; Crichton provides the cascading realization that they've triggered something irreversible."
+      "themes": "Melville's philosophical enormity meets Crichton's systemic terror. An expedition into an uncharted region where the discovery is not a species or a ruin but an ecosystem that operates by laws the explorers' science cannot parse. Melville provides the obsessive narrator cataloguing what defies cataloguing; Crichton provides the cascading realization that they've triggered something irreversible.",
+      "used": true
     },
     {
       "id": "adv-exploration-lost-world-002",
@@ -62,7 +63,8 @@
       ],
       "targetWordCount": 5400,
       "readingTimeMinutes": 22,
-      "themes": "Verne's wide-eyed scientific wonder collides with Conrad's moral darkness. An exploration narrative that begins with the joy of discovery \u2014 subterranean chambers, impossible formations, the thrill of first contact with the unknown \u2014 and gradually reveals that what lies at the center is not wondrous but damning. The deeper they go, the more Verne's optimism gives way to Conrad's reckoning."
+      "themes": "Verne's wide-eyed scientific wonder collides with Conrad's moral darkness. An exploration narrative that begins with the joy of discovery \u2014 subterranean chambers, impossible formations, the thrill of first contact with the unknown \u2014 and gradually reveals that what lies at the center is not wondrous but damning. The deeper they go, the more Verne's optimism gives way to Conrad's reckoning.",
+      "used": true
     },
     {
       "id": "adv-swashbuckler-001",
@@ -124,7 +126,8 @@
       ],
       "targetWordCount": 3800,
       "readingTimeMinutes": 15,
-      "themes": "Smith's vivid African landscape prose meets Verne's scientific ingenuity. A pulp adventure where the treasure hunt is also an engineering problem \u2014 each obstacle demands both physical courage and mechanical improvisation. The pace is relentless, but Smith grounds every set-piece in the real heat, real thirst, and real danger of the terrain."
+      "themes": "Smith's vivid African landscape prose meets Verne's scientific ingenuity. A pulp adventure where the treasure hunt is also an engineering problem \u2014 each obstacle demands both physical courage and mechanical improvisation. The pace is relentless, but Smith grounds every set-piece in the real heat, real thirst, and real danger of the terrain.",
+      "used": true
     },
     {
       "id": "adv-military-adventure-001",
@@ -155,7 +158,8 @@
       ],
       "targetWordCount": 7200,
       "readingTimeMinutes": 29,
-      "themes": "O'Brian's richly textured military life meets Crichton's systems-under-stress pacing. A military adventure where the engagement is not just fought but engineered \u2014 the commander's plan unraveling in real time while the crew improvises with the tools and training available. The philosophical weight of The Thin Red Line keeps surfacing: the beauty of the sea during combat, the strangeness of killing on a gorgeous morning."
+      "themes": "O'Brian's richly textured military life meets Crichton's systems-under-stress pacing. A military adventure where the engagement is not just fought but engineered \u2014 the commander's plan unraveling in real time while the crew improvises with the tools and training available. The philosophical weight of The Thin Red Line keeps surfacing: the beauty of the sea during combat, the strangeness of killing on a gorgeous morning.",
+      "used": true
     },
     {
       "id": "adv-heist-caper-adventure-001",
@@ -187,7 +191,8 @@
       "targetWordCount": 5600,
       "readingTimeMinutes": 22,
       "themes": "Dumas's ensemble flair meets Markham's spare, physical precision. A heist adventure where the crew is defined not by banter but by competence \u2014 each member's skill rendered with Markham's understated poetry of expertise. Dumas provides the clockwork plotting and the loyalty-versus-self-interest tension; Markham provides the voice that makes a lockpick's work feel as lyrical as a pilot reading wind.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "adv-expedition-journey-001",
@@ -280,7 +285,8 @@
       ],
       "targetWordCount": 9400,
       "readingTimeMinutes": 38,
-      "themes": "Stevenson's narrative elegance meets London's naturalist muscle. A maritime adventure where the sea is both Stevenson's stage for moral drama and London's indifferent adversary. A hunt at sea that begins as adventure and becomes attrition \u2014 the quarry eludes, the vessel deteriorates, the crew fractures, and what remains is one person's refusal to turn back, long past the point where turning back was possible."
+      "themes": "Stevenson's narrative elegance meets London's naturalist muscle. A maritime adventure where the sea is both Stevenson's stage for moral drama and London's indifferent adversary. A hunt at sea that begins as adventure and becomes attrition \u2014 the quarry eludes, the vessel deteriorates, the crew fractures, and what remains is one person's refusal to turn back, long past the point where turning back was possible.",
+      "used": true
     },
     {
       "id": "adv-wilderness-survival-002",
@@ -311,7 +317,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "Smith's vivid landscape immediacy meets Stevenson's moral sophistication. A wilderness survival story where the terrain is both Smith's visceral, beautiful Africa and Stevenson's moral testing ground. The protagonist must make an early choice that saves them but abandons someone \u2014 and the rest of the story is survival shadowed by that choice, where every competence feels like evidence against them."
+      "themes": "Smith's vivid landscape immediacy meets Stevenson's moral sophistication. A wilderness survival story where the terrain is both Smith's visceral, beautiful Africa and Stevenson's moral testing ground. The protagonist must make an early choice that saves them but abandons someone \u2014 and the rest of the story is survival shadowed by that choice, where every competence feels like evidence against them.",
+      "used": true
     }
   ]
 }

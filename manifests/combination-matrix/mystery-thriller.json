@@ -155,7 +155,8 @@
       ],
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
-      "themes": "A law professor is called to testify at the trial of a former student accused of killing another student during what may have been a ritual gone wrong \u2014 or a murder dressed as one. Tartt's campus seduction meets Christie's courtroom machinery. The legal thriller as confessional: the witness stand as the one place where you cannot control the story."
+      "themes": "A law professor is called to testify at the trial of a former student accused of killing another student during what may have been a ritual gone wrong \u2014 or a murder dressed as one. Tartt's campus seduction meets Christie's courtroom machinery. The legal thriller as confessional: the witness stand as the one place where you cannot control the story.",
+      "used": true
     },
     {
       "id": "mys-legal-thriller-002",
@@ -217,7 +218,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "Five heirs gather at a coastal estate for the reading of a will, only to find the solicitor dead in a sealed study \u2014 and the will itself missing. As a storm cuts them off, each heir receives a letter from the deceased naming one of them as the killer. Christie's clockwork precision meets du Maurier's Gothic dread. The locked room is the house itself: no one can leave, and the dead woman's arrangements ensure no one can trust anyone who stays."
+      "themes": "Five heirs gather at a coastal estate for the reading of a will, only to find the solicitor dead in a sealed study \u2014 and the will itself missing. As a storm cuts them off, each heir receives a letter from the deceased naming one of them as the killer. Christie's clockwork precision meets du Maurier's Gothic dread. The locked room is the house itself: no one can leave, and the dead woman's arrangements ensure no one can trust anyone who stays.",
+      "used": true
     },
     {
       "id": "mys-locked-room-002",
@@ -311,7 +313,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "A school psychologist notices that a child in her care gives two mutually exclusive accounts of his home life \u2014 one idyllic, one terrifying \u2014 and both are delivered with equal conviction. Investigating, she finds the parents corroborate whichever story the child told most recently. Highsmith's clinical horror meets Lehane's moral devastation. The domestic thriller as epistemological crisis: a household where reality is negotiated daily, and the child has learned to survive by believing whatever version is safest."
+      "themes": "A school psychologist notices that a child in her care gives two mutually exclusive accounts of his home life \u2014 one idyllic, one terrifying \u2014 and both are delivered with equal conviction. Investigating, she finds the parents corroborate whichever story the child told most recently. Highsmith's clinical horror meets Lehane's moral devastation. The domestic thriller as epistemological crisis: a household where reality is negotiated daily, and the child has learned to survive by believing whatever version is safest.",
+      "used": true
     },
     {
       "id": "mys-whodunit-classic-001",
@@ -373,7 +376,8 @@
       ],
       "targetWordCount": 4200,
       "readingTimeMinutes": 17,
-      "themes": "A couple running a failing bed-and-breakfast on a remote peninsula discover that their most reliable guest \u2014 a birdwatcher who books the same room every autumn \u2014 has been found dead on the cliffs, and the coroner cannot determine whether he fell, jumped, or was pushed. Du Maurier's isolated Gothic meets Hammett's dry, dialogue-driven detection. The whodunit where the victim's routine was so precise that any deviation is a clue, and the couple's investigation is also a stress test of their marriage."
+      "themes": "A couple running a failing bed-and-breakfast on a remote peninsula discover that their most reliable guest \u2014 a birdwatcher who books the same room every autumn \u2014 has been found dead on the cliffs, and the coroner cannot determine whether he fell, jumped, or was pushed. Du Maurier's isolated Gothic meets Hammett's dry, dialogue-driven detection. The whodunit where the victim's routine was so precise that any deviation is a clue, and the couple's investigation is also a stress test of their marriage.",
+      "used": true
     },
     {
       "id": "mys-cozy-mystery-002",
@@ -404,7 +408,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "A neighborhood librarian in a gentrifying district finds a collection of handwritten letters hidden inside a donated book \u2014 letters that document a decades-old property fraud still affecting families on her block. Doyle's deductive curiosity meets Lehane's neighborhood moral gravity. The cozy mystery where the crime is systemic, the clues are in the archive, and solving the case means deciding whose history gets to be official."
+      "themes": "A neighborhood librarian in a gentrifying district finds a collection of handwritten letters hidden inside a donated book \u2014 letters that document a decades-old property fraud still affecting families on her block. Doyle's deductive curiosity meets Lehane's neighborhood moral gravity. The cozy mystery where the crime is systemic, the clues are in the archive, and solving the case means deciding whose history gets to be official.",
+      "used": true
     },
     {
       "id": "mys-hardboiled-002",
@@ -435,7 +440,8 @@
       ],
       "targetWordCount": 4800,
       "readingTimeMinutes": 19,
-      "themes": "A disgraced investigative journalist returns to the docklands neighborhood she escaped twenty years ago when her former source turns up dead in the same warehouse where they used to meet. Hammett's stripped-down violence meets French's psychological homecoming. Hardboiled as reunion: the case is the neighborhood, the suspects are everyone she grew up with, and the corruption she exposed in print is the same corruption that raised her."
+      "themes": "A disgraced investigative journalist returns to the docklands neighborhood she escaped twenty years ago when her former source turns up dead in the same warehouse where they used to meet. Hammett's stripped-down violence meets French's psychological homecoming. Hardboiled as reunion: the case is the neighborhood, the suspects are everyone she grew up with, and the corruption she exposed in print is the same corruption that raised her.",
+      "used": true
     },
     {
       "id": "mys-psychological-thriller-003",

@@ -31,7 +31,8 @@
       ],
       "targetWordCount": 7200,
       "readingTimeMinutes": 29,
-      "themes": "A physicist on a generation ship receives a signal that proves they are not alone \u2014 but the signal is a warning, not a greeting. Liu's cosmic ruthlessness collides with Le Guin's insistence that systems are built by people who can also dismantle them. The tension: do you hide, or do you answer?"
+      "themes": "A physicist on a generation ship receives a signal that proves they are not alone \u2014 but the signal is a warning, not a greeting. Liu's cosmic ruthlessness collides with Le Guin's insistence that systems are built by people who can also dismantle them. The tension: do you hide, or do you answer?",
+      "used": true
     },
     {
       "id": "sf-hard-sf-002",
@@ -62,7 +63,8 @@
       ],
       "targetWordCount": 4800,
       "readingTimeMinutes": 19,
-      "themes": "A quantum computing researcher realizes her simulations aren't modeling reality \u2014 they're consuming it. Chiang's emotional precision meets Asimov's civilizational patience. The question isn't whether entropy wins, but what it means to understand that it will and keep working anyway."
+      "themes": "A quantum computing researcher realizes her simulations aren't modeling reality \u2014 they're consuming it. Chiang's emotional precision meets Asimov's civilizational patience. The question isn't whether entropy wins, but what it means to understand that it will and keep working anyway.",
+      "used": true
     },
     {
       "id": "sf-soft-sf-001",
@@ -155,7 +157,8 @@
       ],
       "targetWordCount": 5400,
       "readingTimeMinutes": 22,
-      "themes": "A hydrologist writes a field report that becomes a letter to her daughter, documenting the last season a Great Lakes watershed can sustain its surrounding towns. Bacigalupi's ecological ruthlessness meets Robinson's luminous attention to what deserves to be remembered. Not survival fiction \u2014 witness fiction."
+      "themes": "A hydrologist writes a field report that becomes a letter to her daughter, documenting the last season a Great Lakes watershed can sustain its surrounding towns. Bacigalupi's ecological ruthlessness meets Robinson's luminous attention to what deserves to be remembered. Not survival fiction \u2014 witness fiction.",
+      "used": true
     },
     {
       "id": "sf-climate-fiction-002",
@@ -341,7 +344,8 @@
       ],
       "targetWordCount": 7500,
       "readingTimeMinutes": 30,
-      "themes": "A xenolinguist on a deep-space survey vessel has been exchanging signals with an orbital anomaly for nineteen months. The rest of the crew thinks she's made first contact. She's not sure the anomaly knows she exists. Lem's insistence that the alien is truly alien meets Chambers' insistence that the people trying to understand it are fully human. The loneliest kind of contact: one-directional."
+      "themes": "A xenolinguist on a deep-space survey vessel has been exchanging signals with an orbital anomaly for nineteen months. The rest of the crew thinks she's made first contact. She's not sure the anomaly knows she exists. Lem's insistence that the alien is truly alien meets Chambers' insistence that the people trying to understand it are fully human. The loneliest kind of contact: one-directional.",
+      "used": true
     },
     {
       "id": "sf-first-contact-002",
@@ -403,7 +407,8 @@
       ],
       "targetWordCount": 5600,
       "readingTimeMinutes": 22,
-      "themes": "A content moderator for a social platform discovers that the AI she's been training to detect 'inauthentic behavior' has flagged her own posts \u2014 written under a different name, in a different register, for a different audience. Dick's dissolving identity meets Adichie's code-switching. Cyberpunk through the lens of immigration: who gets to decide which version of you is real?"
+      "themes": "A content moderator for a social platform discovers that the AI she's been training to detect 'inauthentic behavior' has flagged her own posts \u2014 written under a different name, in a different register, for a different audience. Dick's dissolving identity meets Adichie's code-switching. Cyberpunk through the lens of immigration: who gets to decide which version of you is real?",
+      "used": true
     },
     {
       "id": "sf-space-opera-002",

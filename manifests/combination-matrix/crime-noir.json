@@ -62,7 +62,8 @@
       ],
       "targetWordCount": 3800,
       "readingTimeMinutes": 15,
-      "themes": "Himes's explosive Harlem energy constrained by Hemingway's emotional omission \u2014 a Korean War veteran running a small con in 1950s Harlem, performing toughness to survive while the war he refuses to discuss leaks through every interaction. The hustle is absurd; the damage underneath is not."
+      "themes": "Himes's explosive Harlem energy constrained by Hemingway's emotional omission \u2014 a Korean War veteran running a small con in 1950s Harlem, performing toughness to survive while the war he refuses to discuss leaks through every interaction. The hustle is absurd; the damage underneath is not.",
+      "used": true
     },
     {
       "id": "noir-scandinavian-noir-001",
@@ -93,7 +94,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Mankell's crumbling social-democratic procedural meets Ishiguro's devastation of wasted devotion. A retiring Swedish detective revisits the one case he never solved, driving through winter landscapes while his narration slowly reveals he may have deliberately looked away from the answer \u2014 and why."
+      "themes": "Mankell's crumbling social-democratic procedural meets Ishiguro's devastation of wasted devotion. A retiring Swedish detective revisits the one case he never solved, driving through winter landscapes while his narration slowly reveals he may have deliberately looked away from the answer \u2014 and why.",
+      "used": true
     },
     {
       "id": "noir-scandinavian-noir-002",
@@ -124,7 +126,8 @@
       ],
       "targetWordCount": 5400,
       "readingTimeMinutes": 22,
-      "themes": "Derek Raymond's existential noir investigation filtered through Woolf's luminous interiority. A Stockholm detective reconstructing a dead woman's final day from her effects and interviews \u2014 but rendered as stream of consciousness, the detective's mind merging with the victim's until the boundary between investigator and investigated dissolves."
+      "themes": "Derek Raymond's existential noir investigation filtered through Woolf's luminous interiority. A Stockholm detective reconstructing a dead woman's final day from her effects and interviews \u2014 but rendered as stream of consciousness, the detective's mind merging with the victim's until the boundary between investigator and investigated dissolves.",
+      "used": true
     },
     {
       "id": "noir-tartan-noir-001",
@@ -186,7 +189,8 @@
       ],
       "targetWordCount": 7600,
       "readingTimeMinutes": 30,
-      "themes": "Ellroy's manic institutional paranoia meets Mantel's political cunning in a Glasgow police corruption saga. Two detectives and a civilian clerk, each with their own angle, converging on a conspiracy that reaches into the council chambers. Told in Ellroy's staccato rhythm but with Mantel's Cromwellian attention to power \u2014 who owes whom, and what it costs."
+      "themes": "Ellroy's manic institutional paranoia meets Mantel's political cunning in a Glasgow police corruption saga. Two detectives and a civilian clerk, each with their own angle, converging on a conspiracy that reaches into the council chambers. Told in Ellroy's staccato rhythm but with Mantel's Cromwellian attention to power \u2014 who owes whom, and what it costs.",
+      "used": true
     },
     {
       "id": "noir-heist-caper-001",
@@ -248,7 +252,8 @@
       ],
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
-      "themes": "Highsmith's cold sociopathic logic meets Calvino's structural playfulness. A heist story that keeps restarting \u2014 each version narrated by a different member of the crew, each version contradicting the last, until the reader realizes the contradictions ARE the heist. Someone in this story is lying about everything, and the con is on the reader as much as the mark."
+      "themes": "Highsmith's cold sociopathic logic meets Calvino's structural playfulness. A heist story that keeps restarting \u2014 each version narrated by a different member of the crew, each version contradicting the last, until the reader realizes the contradictions ARE the heist. Someone in this story is lying about everything, and the con is on the reader as much as the mark.",
+      "used": true
     },
     {
       "id": "noir-true-crime-fiction-001",
@@ -311,7 +316,8 @@
       "targetWordCount": 6800,
       "readingTimeMinutes": 27,
       "themes": "Mosley's humanistic Black noir meets Talese's immersive narrative journalism. A fictionalized true-crime account of a real 1960s Detroit numbers running operation \u2014 told through the lens of the operator's daughter, who inherits the business and the debt. The story has Mosley's warmth for community structures and Talese's journalist patience for institutional detail.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "noir-classic-noir-002",
@@ -342,7 +348,8 @@
       ],
       "targetWordCount": 4400,
       "readingTimeMinutes": 18,
-      "themes": "Thompson's grinning psychopathy meets Jackson's domestic menace. A mother-daughter grifting team holed up in a small town, running long cons on the neighbors \u2014 told from the daughter's perspective in a voice that sounds sweet and devoted until you notice what she is not telling you. The con and the family love are the same thing."
+      "themes": "Thompson's grinning psychopathy meets Jackson's domestic menace. A mother-daughter grifting team holed up in a small town, running long cons on the neighbors \u2014 told from the daughter's perspective in a voice that sounds sweet and devoted until you notice what she is not telling you. The con and the family love are the same thing.",
+      "used": true
     },
     {
       "id": "noir-neo-noir-002",
@@ -373,7 +380,8 @@
       ],
       "targetWordCount": 5600,
       "readingTimeMinutes": 22,
-      "themes": "Mosley's humanistic moral noir meets Gibson's techno-dystopian texture. A paroled ex-hacker in near-future Oakland trying to go straight, but the gig economy and algorithmic surveillance have made honest work a different kind of prison. When a former associate offers one last digital job, the choice is not between crime and virtue but between two systems of control."
+      "themes": "Mosley's humanistic moral noir meets Gibson's techno-dystopian texture. A paroled ex-hacker in near-future Oakland trying to go straight, but the gig economy and algorithmic surveillance have made honest work a different kind of prison. When a former associate offers one last digital job, the choice is not between crime and virtue but between two systems of control.",
+      "used": true
     },
     {
       "id": "noir-neo-noir-003",
@@ -467,7 +475,8 @@
       ],
       "targetWordCount": 2600,
       "readingTimeMinutes": 10,
-      "themes": "Cain's lean confession meets Faulkner's generational mythology. A compact story: a man confesses to killing his employer at a rural Louisiana lumber operation, the affair with the employer's wife straightforward enough \u2014 but the narration keeps circling back to the employer's family history, the land's history, the debts that predate the crime by a century. The confession is simple; the reasons are not."
+      "themes": "Cain's lean confession meets Faulkner's generational mythology. A compact story: a man confesses to killing his employer at a rural Louisiana lumber operation, the affair with the employer's wife straightforward enough \u2014 but the narration keeps circling back to the employer's family history, the land's history, the debts that predate the crime by a century. The confession is simple; the reasons are not.",
+      "used": true
     }
   ]
 }

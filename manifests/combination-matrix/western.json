@@ -31,7 +31,8 @@
       ],
       "targetWordCount": 4600,
       "readingTimeMinutes": 18,
-      "themes": "L'Amour's frontier authenticity meets Johnson's compressed power. A classic Western where the stranger arrives in a town with a problem only violence can solve \u2014 but Johnson's influence refuses to let the violence be clean. L'Amour gives us the dust, the leather, the economy of the draw; Johnson gives us the widow who has to live in the town after the stranger leaves."
+      "themes": "L'Amour's frontier authenticity meets Johnson's compressed power. A classic Western where the stranger arrives in a town with a problem only violence can solve \u2014 but Johnson's influence refuses to let the violence be clean. L'Amour gives us the dust, the leather, the economy of the draw; Johnson gives us the widow who has to live in the town after the stranger leaves.",
+      "used": true
     },
     {
       "id": "wst-classic-traditional-002",
@@ -62,7 +63,8 @@
       ],
       "targetWordCount": 7500,
       "readingTimeMinutes": 30,
-      "themes": "Portis's deadpan wit meets L'Amour's frontier authenticity. A traditional Western with a narrator whose dry comic voice keeps undercutting the heroics \u2014 not mocking them, but refusing to let them be solemn. Two old hands on a last job, Portis keeping the dialogue wry and L'Amour keeping the landscape real, while the story quietly becomes an elegy for a friendship that neither man has the vocabulary to name."
+      "themes": "Portis's deadpan wit meets L'Amour's frontier authenticity. A traditional Western with a narrator whose dry comic voice keeps undercutting the heroics \u2014 not mocking them, but refusing to let them be solemn. Two old hands on a last job, Portis keeping the dialogue wry and L'Amour keeping the landscape real, while the story quietly becomes an elegy for a friendship that neither man has the vocabulary to name.",
+      "used": true
     },
     {
       "id": "wst-weird-western-001",
@@ -93,7 +95,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "McCarthy's biblical violence meets Jackson's psychological horror. A weird Western where a posse pursues something across the desert that should not exist \u2014 and the landscape itself begins to exhibit intention. McCarthy provides the merciless terrain and the prose that treats horror as sacrament; Jackson provides the creeping realization that the hunters have been invited, and the thing they're hunting is the territory itself."
+      "themes": "McCarthy's biblical violence meets Jackson's psychological horror. A weird Western where a posse pursues something across the desert that should not exist \u2014 and the landscape itself begins to exhibit intention. McCarthy provides the merciless terrain and the prose that treats horror as sacrament; Jackson provides the creeping realization that the hunters have been invited, and the thing they're hunting is the territory itself.",
+      "used": true
     },
     {
       "id": "wst-literary-western-001",
@@ -124,7 +127,8 @@
       ],
       "targetWordCount": 6800,
       "readingTimeMinutes": 27,
-      "themes": "Hall's revisionist frontier morality meets Robinson's theological attention. A literary Western where the town's crisis is not a bandit but a question: what kind of place do we want to be? Hall provides the political complexity \u2014 every faction has reasons, every solution has costs; Robinson provides the prose that treats a single afternoon of light on a dirt street as revelation. The West as moral landscape, not adventure setting."
+      "themes": "Hall's revisionist frontier morality meets Robinson's theological attention. A literary Western where the town's crisis is not a bandit but a question: what kind of place do we want to be? Hall provides the political complexity \u2014 every faction has reasons, every solution has costs; Robinson provides the prose that treats a single afternoon of light on a dirt street as revelation. The West as moral landscape, not adventure setting.",
+      "used": true
     },
     {
       "id": "wst-frontier-pioneer-001",
@@ -156,7 +160,8 @@
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
       "themes": "Proulx's brutal compression meets McMurtry's elegiac warmth. A frontier narrative about a family homesteading land that does not want them \u2014 Proulx delivering the physical toll of every day (the broken axle, the well that goes dry, the child's fever) while McMurtry insists on the tenderness that survives it. A story where making a home is the adventure, and the antagonist is the distance between what was imagined and what is endured.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "wst-outlaw-narrative-001",
@@ -187,7 +192,8 @@
       ],
       "targetWordCount": 4200,
       "readingTimeMinutes": 17,
-      "themes": "Leonard's wisecracking criminal energy meets McCarthy's implacable violence. An outlaw narrative where the banter is the last wall between the protagonists and the thing pursuing them \u2014 Leonard giving the outlaws their humanity through dialogue while McCarthy gives the pursuer a silence that makes the jokes sound increasingly desperate. The West as a closing trap, the partnership as the only thing worth preserving, and the question of whether charm is enough to outrun fate."
+      "themes": "Leonard's wisecracking criminal energy meets McCarthy's implacable violence. An outlaw narrative where the banter is the last wall between the protagonists and the thing pursuing them \u2014 Leonard giving the outlaws their humanity through dialogue while McCarthy gives the pursuer a silence that makes the jokes sound increasingly desperate. The West as a closing trap, the partnership as the only thing worth preserving, and the question of whether charm is enough to outrun fate.",
+      "used": true
     },
     {
       "id": "wst-border-western-001",
@@ -218,7 +224,8 @@
       ],
       "targetWordCount": 5600,
       "readingTimeMinutes": 22,
-      "themes": "Meyer's imperial brutality meets Orange's polyphonic displacement. A border Western told in multiple voices from both sides of a line that means different things to everyone who crosses it \u2014 the rancher whose family took the land, the worker whose family was on it first, the coyote who profits from both. Meyer provides the violence of the border's history; Orange provides the chorus of the people living in its present."
+      "themes": "Meyer's imperial brutality meets Orange's polyphonic displacement. A border Western told in multiple voices from both sides of a line that means different things to everyone who crosses it \u2014 the rancher whose family took the land, the worker whose family was on it first, the coyote who profits from both. Meyer provides the violence of the border's history; Orange provides the chorus of the people living in its present.",
+      "used": true
     },
     {
       "id": "wst-neo-western-002",
@@ -249,7 +256,8 @@
       ],
       "targetWordCount": 3400,
       "readingTimeMinutes": 14,
-      "themes": "McCarthy's mythic desolation meets Leonard's blue-collar crime energy. A neo-Western where a ranch family's desperation leads to a plan that is half bank robbery, half act of revenge against the system \u2014 Leonard keeping the planning scenes taut and darkly funny while McCarthy makes the landscape remind you that this land has eaten every plan anyone ever made on it."
+      "themes": "McCarthy's mythic desolation meets Leonard's blue-collar crime energy. A neo-Western where a ranch family's desperation leads to a plan that is half bank robbery, half act of revenge against the system \u2014 Leonard keeping the planning scenes taut and darkly funny while McCarthy makes the landscape remind you that this land has eaten every plan anyone ever made on it.",
+      "used": true
     },
     {
       "id": "wst-revisionist-002",
@@ -280,7 +288,8 @@
       ],
       "targetWordCount": 8900,
       "readingTimeMinutes": 36,
-      "themes": "Johnson's devastating compression meets Hall's political complexity. A revisionist Western that tells the same event twice \u2014 once as the town remembers it, once as it happened. Johnson provides the economical, unflinching prose that makes a single gunshot carry the weight of a whole community's choice; Hall provides the web of interests, silences, and convenient forgetfulness that allowed the official version to calcify into legend."
+      "themes": "Johnson's devastating compression meets Hall's political complexity. A revisionist Western that tells the same event twice \u2014 once as the town remembers it, once as it happened. Johnson provides the economical, unflinching prose that makes a single gunshot carry the weight of a whole community's choice; Hall provides the web of interests, silences, and convenient forgetfulness that allowed the official version to calcify into legend.",
+      "used": true
     },
     {
       "id": "wst-weird-western-002",

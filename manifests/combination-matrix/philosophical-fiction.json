@@ -31,7 +31,8 @@
       ],
       "targetWordCount": 5400,
       "readingTimeMinutes": 22,
-      "themes": "Camus's lucid confession meets Lispector's mystical dissolution. An existentialist story in which a narrator addresses someone \u2014 a listener, a reader, a mirror \u2014 and the act of speaking gradually dissolves the speaker. Camus brings the elegant self-accusation; Lispector brings the moment when language fails and something else begins."
+      "themes": "Camus's lucid confession meets Lispector's mystical dissolution. An existentialist story in which a narrator addresses someone \u2014 a listener, a reader, a mirror \u2014 and the act of speaking gradually dissolves the speaker. Camus brings the elegant self-accusation; Lispector brings the moment when language fails and something else begins.",
+      "used": true
     },
     {
       "id": "pf-existentialist-002",
@@ -218,7 +219,8 @@
       ],
       "targetWordCount": 4200,
       "readingTimeMinutes": 17,
-      "themes": "Chiang's scientific precision meets Borges's infinite architecture. A thought-experiment about a researcher who discovers the structure of the system they inhabit \u2014 and the structure implies something about its ending that no one wants to know. Chiang brings the rigor; Borges brings the vertigo. The story is a puzzle that, once solved, makes the solver wish they had not solved it."
+      "themes": "Chiang's scientific precision meets Borges's infinite architecture. A thought-experiment about a researcher who discovers the structure of the system they inhabit \u2014 and the structure implies something about its ending that no one wants to know. Chiang brings the rigor; Borges brings the vertigo. The story is a puzzle that, once solved, makes the solver wish they had not solved it.",
+      "used": true
     },
     {
       "id": "pf-thought-experiment-002",
@@ -280,7 +282,8 @@
       ],
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
-      "themes": "Calvino's playful metafictional architecture meets Lispector's agonized self-interrogation. A story about a writer trying to write a story about someone who does not read \u2014 and the writer's growing suspicion that the act of writing about this person is itself a form of appropriation. Calvino brings the structural game; Lispector brings the moral cost of playing it."
+      "themes": "Calvino's playful metafictional architecture meets Lispector's agonized self-interrogation. A story about a writer trying to write a story about someone who does not read \u2014 and the writer's growing suspicion that the act of writing about this person is itself a form of appropriation. Calvino brings the structural game; Lispector brings the moral cost of playing it.",
+      "used": true
     },
     {
       "id": "pf-metafiction-002",
@@ -311,7 +314,8 @@
       ],
       "targetWordCount": 6800,
       "readingTimeMinutes": 27,
-      "themes": "Borges's infinite recursion meets Mitchell's global interconnection. A metafiction structured as a series of texts that comment on each other \u2014 reviews of books that contain reviews of other books \u2014 until the reader realizes the critical apparatus has become the story, and the story it tells is about the impossibility of standing outside the text you are reading."
+      "themes": "Borges's infinite recursion meets Mitchell's global interconnection. A metafiction structured as a series of texts that comment on each other \u2014 reviews of books that contain reviews of other books \u2014 until the reader realizes the critical apparatus has become the story, and the story it tells is about the impossibility of standing outside the text you are reading.",
+      "used": true
     },
     {
       "id": "pf-kafkaesque-001",
@@ -342,7 +346,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Kafka's nightmarish precision meets Saramago's humanistic absurdism. A Kafkaesque story about a clerk who discovers an anomaly in the system \u2014 a file that should not exist, or a person who exists without a file \u2014 and the investigation becomes an investigation into the nature of identity itself. Kafka brings the dread; Saramago brings the stubborn humanity of the person who insists on looking."
+      "themes": "Kafka's nightmarish precision meets Saramago's humanistic absurdism. A Kafkaesque story about a clerk who discovers an anomaly in the system \u2014 a file that should not exist, or a person who exists without a file \u2014 and the investigation becomes an investigation into the nature of identity itself. Kafka brings the dread; Saramago brings the stubborn humanity of the person who insists on looking.",
+      "used": true
     },
     {
       "id": "pf-kafkaesque-002",

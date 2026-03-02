@@ -1,6 +1,4 @@
 {
-  "genre": "horror",
-  "generatedDate": "2026-02-21",
   "combinations": [
     {
       "id": "hor-gothic-horror-001",
@@ -63,7 +61,8 @@
       ],
       "targetWordCount": 3600,
       "readingTimeMinutes": 14,
-      "themes": "Jackson's controlled domestic menace meets Ligotti's cosmic nihilism. A Gothic horror where two sisters in a sealed house begin to suspect that the house, the village, and perhaps they themselves are arrangements rather than realities \u2014 Jackson's social horror (the outsiders who hate them, the rituals that keep the world at bay) gradually infected by Ligotti's deeper suspicion that the entire frame is a puppet show. The domestic Gothic collapses into ontological vertigo."
+      "themes": "Jackson's controlled domestic menace meets Ligotti's cosmic nihilism. A Gothic horror where two sisters in a sealed house begin to suspect that the house, the village, and perhaps they themselves are arrangements rather than realities \u2014 Jackson's social horror (the outsiders who hate them, the rituals that keep the world at bay) gradually infected by Ligotti's deeper suspicion that the entire frame is a puppet show. The domestic Gothic collapses into ontological vertigo.",
+      "used": true
     },
     {
       "id": "hor-body-horror-001",
@@ -94,7 +93,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "Machado's embodied, queer horror meets Ligotti's anti-natalist philosophy through the lens of two transformation narratives. A body horror where the protagonist's flesh begins changing \u2014 not into something monstrous but into something that no longer consents to being human. Machado brings the intimacy and the eroticism of metamorphosis; Ligotti brings the cold suspicion that personhood was the real aberration. The horror is not in what the body becomes but in how little the character mourns what it was."
+      "themes": "Machado's embodied, queer horror meets Ligotti's anti-natalist philosophy through the lens of two transformation narratives. A body horror where the protagonist's flesh begins changing \u2014 not into something monstrous but into something that no longer consents to being human. Machado brings the intimacy and the eroticism of metamorphosis; Ligotti brings the cold suspicion that personhood was the real aberration. The horror is not in what the body becomes but in how little the character mourns what it was.",
+      "used": true
     },
     {
       "id": "hor-body-horror-002",
@@ -125,7 +125,8 @@
       ],
       "targetWordCount": 4800,
       "readingTimeMinutes": 19,
-      "themes": "King's empathetic, character-first horror meets Enriquez's matter-of-fact grotesquerie. A body horror set in a working-class neighborhood where something in the soil has begun growing through people \u2014 and the story focuses not on the spectacular cases but on a family trying to manage a relative's slow transformation with the same exhausted pragmatism they'd bring to any chronic illness. King brings the warmth and the community; Enriquez brings the grim recognition that the system was already consuming these people before the plant started."
+      "themes": "King's empathetic, character-first horror meets Enriquez's matter-of-fact grotesquerie. A body horror set in a working-class neighborhood where something in the soil has begun growing through people \u2014 and the story focuses not on the spectacular cases but on a family trying to manage a relative's slow transformation with the same exhausted pragmatism they'd bring to any chronic illness. King brings the warmth and the community; Enriquez brings the grim recognition that the system was already consuming these people before the plant started.",
+      "used": true
     },
     {
       "id": "hor-psychological-horror-001",
@@ -156,7 +157,8 @@
       ],
       "targetWordCount": 5200,
       "readingTimeMinutes": 21,
-      "themes": "Jackson's quiet social horror meets Tremblay's literary ambiguity. A psychological horror about a woman appointed guardian of two children in a remote house who becomes convinced something is influencing them \u2014 but the story is so carefully constructed that the reader can never determine whether the threat is external or whether the guardian's protective obsession is itself the horror. Jackson supplies the institutional menace; Tremblay supplies the refusal to resolve."
+      "themes": "Jackson's quiet social horror meets Tremblay's literary ambiguity. A psychological horror about a woman appointed guardian of two children in a remote house who becomes convinced something is influencing them \u2014 but the story is so carefully constructed that the reader can never determine whether the threat is external or whether the guardian's protective obsession is itself the horror. Jackson supplies the institutional menace; Tremblay supplies the refusal to resolve.",
+      "used": true
     },
     {
       "id": "hor-psychological-horror-002",
@@ -218,7 +220,8 @@
       ],
       "targetWordCount": 3800,
       "readingTimeMinutes": 15,
-      "themes": "Aickman's oblique, unexplained strangeness meets Machado's formally inventive body-consciousness. A weird fiction about two women who rent a house where the rooms rearrange when unobserved \u2014 but the story is less interested in the mechanics of the impossibility than in how the relationship between the women shifts to accommodate what cannot be explained. Aickman supplies the refusal to resolve; Machado supplies the intimacy that makes the strangeness personal rather than abstract."
+      "themes": "Aickman's oblique, unexplained strangeness meets Machado's formally inventive body-consciousness. A weird fiction about two women who rent a house where the rooms rearrange when unobserved \u2014 but the story is less interested in the mechanics of the impossibility than in how the relationship between the women shifts to accommodate what cannot be explained. Aickman supplies the refusal to resolve; Machado supplies the intimacy that makes the strangeness personal rather than abstract.",
+      "used": true
     },
     {
       "id": "hor-weird-fiction-002",
@@ -249,7 +252,8 @@
       ],
       "targetWordCount": 2200,
       "readingTimeMinutes": 9,
-      "themes": "Ligotti's corporate nihilism meets Aickman's genteel uncanny. A weird fiction about an office worker who discovers a procedural manual in the supply room for a department that doesn't exist \u2014 and the manual is so detailed, so procedurally thorough, that reading it begins to make the nonexistent department more real than the actual workplace. Ligotti brings the suspicion that all institutional reality is equally fictitious; Aickman brings the creeping social wrongness as colleagues begin referencing the phantom department in meetings."
+      "themes": "Ligotti's corporate nihilism meets Aickman's genteel uncanny. A weird fiction about an office worker who discovers a procedural manual in the supply room for a department that doesn't exist \u2014 and the manual is so detailed, so procedurally thorough, that reading it begins to make the nonexistent department more real than the actual workplace. Ligotti brings the suspicion that all institutional reality is equally fictitious; Aickman brings the creeping social wrongness as colleagues begin referencing the phantom department in meetings.",
+      "used": true
     },
     {
       "id": "hor-southern-gothic-horror-001",
@@ -311,7 +315,8 @@
       ],
       "targetWordCount": 3400,
       "readingTimeMinutes": 14,
-      "themes": "Poe's obsessive interiority meets Enriquez's social horror in the Deep South. A Southern Gothic about a woman taking shelter in a roadside church during a storm who discovers the congregation practices something older than Christianity \u2014 but the real horror is Poe's contribution: the narrator's growing recognition that she has been here before, has always been coming here, and the confession she's making to the reader is not a warning but an invitation."
+      "themes": "Poe's obsessive interiority meets Enriquez's social horror in the Deep South. A Southern Gothic about a woman taking shelter in a roadside church during a storm who discovers the congregation practices something older than Christianity \u2014 but the real horror is Poe's contribution: the narrator's growing recognition that she has been here before, has always been coming here, and the confession she's making to the reader is not a warning but an invitation.",
+      "used": true
     },
     {
       "id": "hor-cosmic-horror-002",
@@ -342,7 +347,8 @@
       ],
       "targetWordCount": 4400,
       "readingTimeMinutes": 18,
-      "themes": "Lovecraft's cosmic dread meets Ligotti's anti-natalist philosophy. A cosmic horror where a research team investigating a contaminated rural zone discovers the contaminant is not hostile \u2014 it simply does not recognize consciousness as meaningful. Lovecraft brings the creeping environmental wrongness and the narrator's collapsing vocabulary; Ligotti brings the deeper horror that the alien perspective may be correct, that awareness is the aberration, and the contamination is not a threat but a correction."
+      "themes": "Lovecraft's cosmic dread meets Ligotti's anti-natalist philosophy. A cosmic horror where a research team investigating a contaminated rural zone discovers the contaminant is not hostile \u2014 it simply does not recognize consciousness as meaningful. Lovecraft brings the creeping environmental wrongness and the narrator's collapsing vocabulary; Ligotti brings the deeper horror that the alien perspective may be correct, that awareness is the aberration, and the contamination is not a threat but a correction.",
+      "used": true
     },
     {
       "id": "hor-folk-horror-002",
@@ -373,7 +379,8 @@
       ],
       "targetWordCount": 3000,
       "readingTimeMinutes": 12,
-      "themes": "Aickman's genteel English uncanny meets Enriquez's visceral Latin American folk horror. A folk horror about a British academic attending a rural Argentine festival she was invited to by a colleague \u2014 a celebration that operates by rules she cannot decipher, surrounded by warmth and hospitality that makes her increasing unease feel like her own failing. Aickman brings the refusal to explain; Enriquez brings the insistence that the horror has social and historical roots, even if the outsider cannot see them."
+      "themes": "Aickman's genteel English uncanny meets Enriquez's visceral Latin American folk horror. A folk horror about a British academic attending a rural Argentine festival she was invited to by a colleague \u2014 a celebration that operates by rules she cannot decipher, surrounded by warmth and hospitality that makes her increasing unease feel like her own failing. Aickman brings the refusal to explain; Enriquez brings the insistence that the horror has social and historical roots, even if the outsider cannot see them.",
+      "used": true
     },
     {
       "id": "hor-supernatural-horror-002",
@@ -436,7 +443,8 @@
       "targetWordCount": 6500,
       "readingTimeMinutes": 26,
       "themes": "Tremblay's literary ambiguity meets Aickman's permanent unease. A quiet horror about a woman who moves into a house to recover from a loss and gradually realizes the house's other occupants \u2014 a couple she assumed were neighbors \u2014 may not be what she thinks. Tremblay brings the refusal to confirm the supernatural; Aickman brings the social dimension, the small wrongnesses in conversation and behavior that accumulate until the reader is as trapped as the protagonist. The horror is quiet because no one ever raises their voice.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "hor-psychological-horror-003",

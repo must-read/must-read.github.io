@@ -156,7 +156,8 @@
       ],
       "targetWordCount": 5600,
       "readingTimeMinutes": 22,
-      "themes": "White's anachronistic whimsy collides with Ellroy's hard-charging noir tempo. A sword-and-sorcery adventure where the quest has the pulpy energy of a crime thriller \u2014 short chapters, double-crosses, a conspiracy beneath the dungeon beneath the conspiracy. But White's tenderness keeps surfacing in the hero's refusal to stop believing people can be decent."
+      "themes": "White's anachronistic whimsy collides with Ellroy's hard-charging noir tempo. A sword-and-sorcery adventure where the quest has the pulpy energy of a crime thriller \u2014 short chapters, double-crosses, a conspiracy beneath the dungeon beneath the conspiracy. But White's tenderness keeps surfacing in the hero's refusal to stop believing people can be decent.",
+      "used": true
     },
     {
       "id": "fan-urban-fantasy-002",
@@ -187,7 +188,8 @@
       ],
       "targetWordCount": 6400,
       "readingTimeMinutes": 26,
-      "themes": "Mieville's weird-city conceptualism meets French's psychological atmospheric realism. An urban fantasy set in a city where two neighborhoods exist in the same physical space but different magical realities \u2014 and a detective investigating a murder must cross between them by assuming the victim's life. The fantasy is not escapist but claustrophobic: two ways of seeing the same street, and a protagonist losing track of which one is theirs."
+      "themes": "Mieville's weird-city conceptualism meets French's psychological atmospheric realism. An urban fantasy set in a city where two neighborhoods exist in the same physical space but different magical realities \u2014 and a detective investigating a murder must cross between them by assuming the victim's life. The fantasy is not escapist but claustrophobic: two ways of seeing the same street, and a protagonist losing track of which one is theirs.",
+      "used": true
     },
     {
       "id": "fan-low-fantasy-001",
@@ -218,7 +220,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Ishiguro's quiet devastation meets Clarke's scholarly wonder. A low-fantasy world where magic is almost gone \u2014 so subtle that the protagonist isn't sure it was ever real. The story runs on the knife's edge between enchantment and dementia, between a world that was once magical and a mind that is simply forgetting. The reader never fully knows which."
+      "themes": "Ishiguro's quiet devastation meets Clarke's scholarly wonder. A low-fantasy world where magic is almost gone \u2014 so subtle that the protagonist isn't sure it was ever real. The story runs on the knife's edge between enchantment and dementia, between a world that was once magical and a mind that is simply forgetting. The reader never fully knows which.",
+      "used": true
     },
     {
       "id": "fan-low-fantasy-002",
@@ -250,7 +253,8 @@
       "targetWordCount": 7100,
       "readingTimeMinutes": 28,
       "themes": "Sanderson's systematic clarity meets French's atmospheric ambiguity. A low-fantasy mystery where magic operates by strict rules \u2014 but the protagonist can't remember learning them. The story is a puzzle-box in both senses: a Sanderson-style magic system that must be reverse-engineered, and a French-style psychological investigation into why the protagonist's own past has gaps.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "fan-romantasy-001",
@@ -281,7 +285,8 @@
       ],
       "targetWordCount": 6500,
       "readingTimeMinutes": 26,
-      "themes": "Miller's mythic elevation meets Milan's sharp feminist intelligence. A romantasy where the love story is also a political argument \u2014 two people whose magic makes them dangerous to each other's world. Miller brings the mythic weight and the cost of transformation; Milan brings the insistence that love between equals requires negotiation, not surrender."
+      "themes": "Miller's mythic elevation meets Milan's sharp feminist intelligence. A romantasy where the love story is also a political argument \u2014 two people whose magic makes them dangerous to each other's world. Miller brings the mythic weight and the cost of transformation; Milan brings the insistence that love between equals requires negotiation, not surrender.",
+      "used": true
     },
     {
       "id": "fan-romantasy-002",
@@ -343,7 +348,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "Gaiman's dark fairy-tale logic meets Saunders's absurdist empathy. A portal fantasy where the other world is not a magical kingdom but a kind of cosmic waiting room \u2014 and the voices trapped there are funny, desperate, deluded, and achingly human. The protagonist must decide whether to stay in a beautiful lie or return to a diminished truth."
+      "themes": "Gaiman's dark fairy-tale logic meets Saunders's absurdist empathy. A portal fantasy where the other world is not a magical kingdom but a kind of cosmic waiting room \u2014 and the voices trapped there are funny, desperate, deluded, and achingly human. The protagonist must decide whether to stay in a beautiful lie or return to a diminished truth.",
+      "used": true
     },
     {
       "id": "fan-portal-fantasy-002",
@@ -405,7 +411,8 @@
       ],
       "targetWordCount": 4200,
       "readingTimeMinutes": 17,
-      "themes": "Chambers's gentle hopefulness meets White's antic tenderness. A cozy fantasy about an apprentice learning magic by being temporarily transformed into various creatures \u2014 but with Chambers's insistence that the real lesson is not power but attention, and White's insistence that learning should be fun even when it hurts."
+      "themes": "Chambers's gentle hopefulness meets White's antic tenderness. A cozy fantasy about an apprentice learning magic by being temporarily transformed into various creatures \u2014 but with Chambers's insistence that the real lesson is not power but attention, and White's insistence that learning should be fun even when it hurts.",
+      "used": true
     },
     {
       "id": "fan-dark-fantasy-002",
@@ -436,7 +443,8 @@
       ],
       "targetWordCount": 7600,
       "readingTimeMinutes": 30,
-      "themes": "Carter's feminist Gothic maximalism meets Rothfuss's romantic lyricism. A dark fantasy where a bard enters a domain of ancient, feminine power \u2014 and the story is simultaneously a seduction narrative and a horror story, depending on whose perspective controls the prose. Carter keeps subverting the romance; Rothfuss keeps trying to restore it. The reader oscillates between enchantment and unease."
+      "themes": "Carter's feminist Gothic maximalism meets Rothfuss's romantic lyricism. A dark fantasy where a bard enters a domain of ancient, feminine power \u2014 and the story is simultaneously a seduction narrative and a horror story, depending on whose perspective controls the prose. Carter keeps subverting the romance; Rothfuss keeps trying to restore it. The reader oscillates between enchantment and unease.",
+      "used": true
     },
     {
       "id": "fan-mythic-retelling-002",
@@ -467,7 +475,8 @@
       ],
       "targetWordCount": 8400,
       "readingTimeMinutes": 34,
-      "themes": "Morrison's incantatory power meets Le Guin's philosophical restraint. A mythic retelling where the myth is not Greek or Norse but drawn from communal memory \u2014 the kind of story that exists in no written canon but every grandmother knows. Morrison brings the haunting; Le Guin brings the quiet insistence that what comes after the hero's journey matters more than the journey itself."
+      "themes": "Morrison's incantatory power meets Le Guin's philosophical restraint. A mythic retelling where the myth is not Greek or Norse but drawn from communal memory \u2014 the kind of story that exists in no written canon but every grandmother knows. Morrison brings the haunting; Le Guin brings the quiet insistence that what comes after the hero's journey matters more than the journey itself.",
+      "used": true
     }
   ]
 }

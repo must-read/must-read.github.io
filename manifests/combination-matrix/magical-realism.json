@@ -156,7 +156,8 @@
       ],
       "targetWordCount": 3200,
       "readingTimeMinutes": 13,
-      "themes": "Russell's swamp-Gothic inventiveness meets Calvino's philosophical lightness. A fabulist story where someone discovers they can grow a garden in any surface \u2014 asphalt, drywall, their own skin \u2014 and the story follows the logic of the gift with Russell's sensory excess and Calvino's structural playfulness. The fable is about abundance as affliction: when you can make anything grow, what do you do with a world that's already too full?"
+      "themes": "Russell's swamp-Gothic inventiveness meets Calvino's philosophical lightness. A fabulist story where someone discovers they can grow a garden in any surface \u2014 asphalt, drywall, their own skin \u2014 and the story follows the logic of the gift with Russell's sensory excess and Calvino's structural playfulness. The fable is about abundance as affliction: when you can make anything grow, what do you do with a world that's already too full?",
+      "used": true
     },
     {
       "id": "mgr-fabulism-002",
@@ -187,7 +188,8 @@
       ],
       "targetWordCount": 4100,
       "readingTimeMinutes": 16,
-      "themes": "Garc\u00eda M\u00e1rquez's matter-of-fact miracles meet Russell's tactile American fabulism. A story where a family's children are each born with a single impossible trait \u2014 one can hear the future, one weighs nothing on Tuesdays, one's tears crystallize \u2014 told with M\u00e1rquez's serene acceptance and Russell's sensory specificity about what these gifts actually feel like in the body. Not whimsy but lived strangeness, funny and sad and physical."
+      "themes": "Garc\u00eda M\u00e1rquez's matter-of-fact miracles meet Russell's tactile American fabulism. A story where a family's children are each born with a single impossible trait \u2014 one can hear the future, one weighs nothing on Tuesdays, one's tears crystallize \u2014 told with M\u00e1rquez's serene acceptance and Russell's sensory specificity about what these gifts actually feel like in the body. Not whimsy but lived strangeness, funny and sad and physical.",
+      "used": true
     },
     {
       "id": "mgr-slipstream-001",
@@ -218,7 +220,8 @@
       ],
       "targetWordCount": 7400,
       "readingTimeMinutes": 30,
-      "themes": "Borges's intellectual architecture meets Schweblin's domestic dread. A slipstream story where a neighborhood begins losing concepts \u2014 not objects but abstractions. First, irony disappears. Then everyone forgets what hesitation was. Borges provides the philosophical rigor of the premise; Schweblin provides the mounting horror of living through it. The story bends reality without breaking it \u2014 you're never sure if this is magical realism or a clinical description of cognitive decline."
+      "themes": "Borges's intellectual architecture meets Schweblin's domestic dread. A slipstream story where a neighborhood begins losing concepts \u2014 not objects but abstractions. First, irony disappears. Then everyone forgets what hesitation was. Borges provides the philosophical rigor of the premise; Schweblin provides the mounting horror of living through it. The story bends reality without breaking it \u2014 you're never sure if this is magical realism or a clinical description of cognitive decline.",
+      "used": true
     },
     {
       "id": "mgr-slipstream-002",
@@ -249,7 +252,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "Murakami's dream-logic melancholy meets Morrison's incantatory historical reckoning. A slipstream where a musician arrives in a town to perform a concert that keeps being postponed \u2014 and each day the town is slightly different, its history rewritten overnight, its residents remembering different pasts. Murakami provides the placid acceptance of the impossible; Morrison provides the insistence that forgetting is not innocent, that someone chose what the town remembers."
+      "themes": "Murakami's dream-logic melancholy meets Morrison's incantatory historical reckoning. A slipstream where a musician arrives in a town to perform a concert that keeps being postponed \u2014 and each day the town is slightly different, its history rewritten overnight, its residents remembering different pasts. Murakami provides the placid acceptance of the impossible; Morrison provides the insistence that forgetting is not innocent, that someone chose what the town remembers.",
+      "used": true
     },
     {
       "id": "mgr-african-magical-realism-002",
@@ -280,7 +284,8 @@
       ],
       "targetWordCount": 3400,
       "readingTimeMinutes": 14,
-      "themes": "Okri's spirit-world cosmology meets Rushdie's political maximalism. An African magical realism set on the day of a nation's independence, when the ancestral spirits return to witness what was won \u2014 and to demand an accounting. Okri provides the permeable membrane between the living and the dead; Rushdie provides the political carnival of independence day, where every promise and every betrayal is simultaneously true."
+      "themes": "Okri's spirit-world cosmology meets Rushdie's political maximalism. An African magical realism set on the day of a nation's independence, when the ancestral spirits return to witness what was won \u2014 and to demand an accounting. Okri provides the permeable membrane between the living and the dead; Rushdie provides the political carnival of independence day, where every promise and every betrayal is simultaneously true.",
+      "used": true
     },
     {
       "id": "mgr-latin-american-002",
@@ -311,7 +316,8 @@
       ],
       "targetWordCount": 8200,
       "readingTimeMinutes": 33,
-      "themes": "Allende's passionate family-saga energy meets Borges's labyrinthine intellectual architecture. A Latin American magical realism structured as a house with rooms that open onto different decades \u2014 the protagonist walks through doors and finds their grandmother's kitchen in 1952, their own childhood in 1986, a room that hasn't happened yet. Allende provides the sensuous, political family drama; Borges provides the impossible architecture and the suspicion that the house is not a house but a proof."
+      "themes": "Allende's passionate family-saga energy meets Borges's labyrinthine intellectual architecture. A Latin American magical realism structured as a house with rooms that open onto different decades \u2014 the protagonist walks through doors and finds their grandmother's kitchen in 1952, their own childhood in 1986, a room that hasn't happened yet. Allende provides the sensuous, political family drama; Borges provides the impossible architecture and the suspicion that the house is not a house but a proof.",
+      "used": true
     }
   ]
 }

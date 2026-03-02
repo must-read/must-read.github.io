@@ -1,6 +1,4 @@
 {
-  "genre": "dystopian",
-  "generatedDate": "2026-02-21",
   "combinations": [
     {
       "id": "dys-totalitarian-political-001",
@@ -217,7 +215,8 @@
       ],
       "targetWordCount": 3400,
       "readingTimeMinutes": 14,
-      "themes": "James's elegiac, end-of-civilization composure meets Johnson's raw, visionary damage. A world where no children have been born in decades, narrated by someone whose perceptions are fractured enough to see what the sane, resigned survivors cannot. The combination creates a post-apocalyptic story that is simultaneously dignified and hallucinatory \u2014 the last days of humanity witnessed by an unreliable prophet."
+      "themes": "James's elegiac, end-of-civilization composure meets Johnson's raw, visionary damage. A world where no children have been born in decades, narrated by someone whose perceptions are fractured enough to see what the sane, resigned survivors cannot. The combination creates a post-apocalyptic story that is simultaneously dignified and hallucinatory \u2014 the last days of humanity witnessed by an unreliable prophet.",
+      "used": true
     },
     {
       "id": "dys-ya-dystopia-001",
@@ -249,7 +248,8 @@
       "targetWordCount": 3800,
       "readingTimeMinutes": 15,
       "themes": "Jemisin's systemic-oppression worldbuilding meets Gaiman's dark fairy-tale logic. A young protagonist discovers that the cheerful, gamified system they live in \u2014 where every teenager earns points, levels up, gets sorted \u2014 is a mirror-world version of something much worse underneath. The combination uses Jemisin's political architecture and Gaiman's uncanny dread to create a YA dystopia where the horror is not the obvious oppression but the realization that the 'nice' version is just as designed.",
-      "status": "used"
+      "status": "used",
+      "used": true
     },
     {
       "id": "dys-ya-dystopia-002",
@@ -311,7 +311,8 @@
       ],
       "targetWordCount": 6200,
       "readingTimeMinutes": 25,
-      "themes": "Butler's visceral power dynamics meet Machado's surreal body-horror to explore genetic modification as a class system written in flesh. In a world where the wealthy can edit their children's genomes, someone begins an unauthorized transformation \u2014 not to become superhuman but to become something the system cannot categorize. The tension between Butler's grounded physicality and Machado's dreamlike surrealism creates a biopunk story where the body is both the prison and the escape route."
+      "themes": "Butler's visceral power dynamics meet Machado's surreal body-horror to explore genetic modification as a class system written in flesh. In a world where the wealthy can edit their children's genomes, someone begins an unauthorized transformation \u2014 not to become superhuman but to become something the system cannot categorize. The tension between Butler's grounded physicality and Machado's dreamlike surrealism creates a biopunk story where the body is both the prison and the escape route.",
+      "used": true
     },
     {
       "id": "dys-biopunk-dystopia-002",
@@ -373,7 +374,8 @@
       ],
       "targetWordCount": 5800,
       "readingTimeMinutes": 23,
-      "themes": "Le Guin's philosophical anthropology meets Enriquez's supernatural social realism in a drowned world. Two communities separated by a seawall \u2014 one that clings to the old civilization's hierarchies, one that has adapted to the flood and built something new and strange. Le Guin's interest in how societies organize under scarcity combined with Enriquez's ghosts of injustice creates a climate dystopia where the dead literally rise with the water, and the question is whether the new world the survivors are building is any less haunted than the one they lost."
+      "themes": "Le Guin's philosophical anthropology meets Enriquez's supernatural social realism in a drowned world. Two communities separated by a seawall \u2014 one that clings to the old civilization's hierarchies, one that has adapted to the flood and built something new and strange. Le Guin's interest in how societies organize under scarcity combined with Enriquez's ghosts of injustice creates a climate dystopia where the dead literally rise with the water, and the question is whether the new world the survivors are building is any less haunted than the one they lost.",
+      "used": true
     },
     {
       "id": "dys-corporate-dystopia-002",
@@ -436,7 +438,8 @@
       ],
       "targetWordCount": 2600,
       "readingTimeMinutes": 10,
-      "themes": "Alderman's structural ambition meets Carter's Gothic lushness in a compact feminist dystopia. In a society where women's biological modification is mandated for 'safety,' one woman's body begins rejecting the treatment \u2014 and what emerges is not weakness but something feral and old. The combination uses The Power's interest in what happens when bodies become political battlegrounds and The Yellow Wallpaper's claustrophobic architecture of confinement to create a story where liberation is indistinguishable from monstrosity."
+      "themes": "Alderman's structural ambition meets Carter's Gothic lushness in a compact feminist dystopia. In a society where women's biological modification is mandated for 'safety,' one woman's body begins rejecting the treatment \u2014 and what emerges is not weakness but something feral and old. The combination uses The Power's interest in what happens when bodies become political battlegrounds and The Yellow Wallpaper's claustrophobic architecture of confinement to create a story where liberation is indistinguishable from monstrosity.",
+      "used": true
     },
     {
       "id": "dys-techno-dystopia-003",
