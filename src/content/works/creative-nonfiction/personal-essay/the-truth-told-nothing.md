@@ -7,7 +7,7 @@ authorA: "Joan Didion"
 authorB: "Ta-Nehisi Coates"
 workX: "The Year of Magical Thinking"
 workY: "Manufacturing Consent"
-wordCount: 7105
+wordCount: 6877
 readingTimeMinutes: 28
 tags:
   - journalism
@@ -57,7 +57,7 @@ Here is what I am doing in Room 14 at Laurelhurst Gardens on a Tuesday in Octobe
 
 In Episode 4, I am standing in front of a warehouse in Chantilly, Virginia, describing the server infrastructure of Palanthos Analytics. I am wearing a gray suit and a blue tie. I am thinner than I am now. My hair is cut close, and there is no gray in it. I am saying: "What Palanthos built was not a surveillance tool. It was a surveillance architecture — a system designed to make the act of watching indistinguishable from the infrastructure of daily life. The cameras, the data brokers, the behavioral prediction algorithms — these were not additions to the world. They were the world, reassembled so that every ordinary action left a record, and every record became a commodity, and every commodity was sold to entities whose names the people being watched would never know."
 
-I have watched this segment forty-three times. I counted at some point, then stopped counting, then started again. The number is not important. What is important is that I cannot stop watching it, the way I cannot stop reading my own published work, the way I cannot stop going back to the transcripts and the court filings and the leaked internal documents that I spent two years obtaining, because these are the proof that it happened, that I did this, that the record exists, and the record is evidence, and evidence is consequence. This is what I have always believed. I am a journalist. The record is the work. The work is the consequence.
+I have watched this segment forty-three times. I counted at some point, then stopped counting, then started again. I cannot stop watching it, the way I cannot stop reading my own published work, the way I cannot stop going back to the transcripts and the court filings and the leaked internal documents that I spent two years obtaining, because these are the proof that it happened, that I did this, that the record exists, and the record is evidence, and evidence is consequence. I am a journalist. The record is the work. The work is the consequence.
 
 My mother's eyes are open. She is looking at the ceiling, or at the light fixture, or at something I cannot see. Her name is Claudette Washington, and she is seventy-nine years old, and she has Lewy body dementia, which is not the same as Alzheimer's, though people say Alzheimer's because it is a word they know. Lewy body dementia involves the accumulation of abnormal protein deposits in nerve cells. The deposits are called Lewy bodies. They disrupt the brain's normal functioning. This is the clinical language. The clinical language does not describe what it looks like when your mother asks you to leave because she doesn't know who you are and your presence in her room frightens her. The clinical language does not describe the quality of fear in the eyes of a woman who raised you — a precise, animal fear, the fear of a person who has been placed in a room with a stranger and cannot leave.
 
@@ -115,7 +115,7 @@ I notice this — the watching — every time. My mother watches me the way a su
 
 I am in the business of watching. I have spent forty years walking into rooms and watching people and writing down what I see, and the skill has a cost I did not anticipate, which is that it does not turn off. I cannot sit in Room 14 at Laurelhurst Gardens and simply be with my mother. I observe her. I note the details. The Ensure on the tray table. The blade of light from the broken blind. The way her left foot twitches under the blanket at irregular intervals, which may be a symptom of the Lewy body pathology or may be nothing. I am a man in a room with his mother and I am taking notes, and the notes are this essay, and the essay is evidence, and evidence is — what?
 
-This is where I lose the thread. I have always lost the thread here. I notice this about myself the way I notice things about my mother — with professional detachment, which is another way of saying with the inability to be in a room without turning the room into material.
+This is where I lose the thread. I have always lost the thread here. I notice this about myself the way I notice things about my mother — with professional detachment.
 
 ---
 
@@ -135,9 +135,7 @@ I called him. He answered on the third ring. I said, "DeShawn." He said, "I know
 
 The thing about my mother's room is that it is never quiet. There is a quality of ambient sound in memory care facilities that I had not understood before I started spending time in one — a continuous, low-level noise that is not loud enough to be called noise but is never absent. The HVAC system hums. Somewhere down the hall, a television is playing. The call button pings at the nurses' station, a two-tone electronic chime, and then there is a voice on the intercom, and then the chime again. Footsteps on the vinyl tile. The click of a med cart's wheels. My mother's breathing, which has a slight rasp at the top of the inhale that the pulmonologist says is not clinically significant.
 
-Information enters this room constantly. The television on the wall — it is tuned to a channel that shows nature documentaries, elephants crossing a dry riverbed, whales breaching, footage of coral reefs narrated by a voice so calm it could be describing anything — emits information into the room at a steady rate. The information enters the room, and the room absorbs it, and my mother's eyes are open, and the information passes through the space between the screen and her eyes, and nothing happens. The information is not received. It is not processed. It is not stored. It enters the room and becomes part of the room's ambient texture, indistinguishable from the hum of the HVAC and the chime of the call button and the light through the broken blind.
-
-I watch this happen and I think about what I used to believe about information.
+Information enters this room constantly. The television on the wall — it is tuned to a channel that shows nature documentaries, elephants crossing a dry riverbed, whales breaching, footage of coral reefs narrated by a voice so calm it could be describing anything — emits information into the room at a steady rate. The information enters the room, and my mother's eyes are open, and the information passes through the space between the screen and her eyes, and nothing happens. It is not received. It is not processed. It is not stored. It becomes part of the room's ambient texture, indistinguishable from the hum of the HVAC and the chime of the call button and the light through the broken blind.
 
 I used to believe — I still believe, I think, though the tense is uncertain — that information, properly gathered and properly presented, changes the room it enters. I believed this about journalism the way my mother, when she was still my mother, believed in the power of prayer: not as metaphor, not as comfort, but as mechanism. You do the work. You gather the facts. You present the facts in their proper order, with attribution and documentation and the accumulated authority of evidence. The facts enter the room — the public room, the room of discourse, the room where decisions are made — and the room is changed. This is the premise. This is the contract.
 
@@ -167,9 +165,7 @@ I have not told him that on the seventh reading I began to see the architecture 
 
 I have not told him that the boy was always listening. That when I sat at the kitchen table in the apartment in Silver Spring and edited transcripts and made phone calls and spread documents across the Formica surface and talked to myself — because journalists talk to themselves, because the narration starts before the camera does — he was at the other end of the table doing his homework, and he was listening. He was fourteen when I started on the Palanthos story. He was sixteen when it aired. He sat in the living room and watched all five episodes with me, in order, on broadcast nights, which is something we had never done before and have never done since — watched television together, in the same room, with the same attention, looking at the same screen. I thought he was watching me. I think now he was watching the system.
 
-I have not told him this because I do not know how to say it without it sounding like an accusation, and I do not want to accuse him, because what he did was not a betrayal. I have to be clear about this. What DeShawn did — studying the system, joining the system, leaving the system, and then building a new version of the system that incorporated the lessons of its exposure — was not a betrayal of my work. It was its most logical conclusion. The information I gathered and organized and broadcast did exactly what information does: it entered the system and became material. It became usable. Not usable by the public, or by the regulators, or by the people whose bodies and behaviors had been converted into saleable data — usable by the system itself, which metabolized the critique the way a body metabolizes food, breaking it down into components, discarding what it couldn't use, and converting the rest into energy.
-
-My son did not betray me. My son paid attention.
+I have not told him this because I do not know how to say it without it sounding like an accusation, and I do not want to accuse him, because what he did was not a betrayal. I have to be clear about this. The information I gathered and organized and broadcast did exactly what information does: it entered the system and became material. It became usable. Not usable by the public, or by the regulators, or by the people whose bodies and behaviors had been converted into saleable data — usable by the system itself, which metabolized the critique the way a body metabolizes food, breaking it down into components, discarding what it couldn't use, and converting the rest into energy.
 
 ---
 
@@ -249,8 +245,6 @@ I take out my phone. I press play. Episode 4 resumes. My younger face unpauses. 
 
 My mother's older face settles into sleep.
 
-The two faces — mine and mine, forty-seven and sixty-one, the one on the screen and the one in the chair, the one who believed and the one who still believes, the one who exposed the system and the one who sits in a room where exposure is ambient, where information is weather, where the record plays to an audience of one who cannot hear it and one who cannot stop playing it — the two faces are in the same room and neither one sees the other.
+The two faces — mine and mine, forty-seven and sixty-one, the one on the screen and the one in the chair — are in the same room and neither one sees the other.
 
 The Ensure is three-quarters full. The blind is still broken. The elephants have reached wherever they were going.
-
-I keep the record because the record is all I have. The record is evidence. Evidence is consequence. This is what I believe. This is what I have always believed. The record plays. The room absorbs it. I rewind. I play it again.
