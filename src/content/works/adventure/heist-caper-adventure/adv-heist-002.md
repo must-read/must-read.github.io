@@ -18,8 +18,8 @@ tags:
   - "loyalty"
   - "Geneva"
   - "vehicular pursuit"
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 7
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: >

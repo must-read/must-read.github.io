@@ -10,8 +10,8 @@ workY: "Coraline"
 wordCount: 3944
 readingTimeMinutes: 16
 tags: ["gamification", "surveillance", "adolescence", "systemic oppression", "coming-of-age", "algorithmic sorting", "complicity"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 8
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Jemisin's systemic rage and second-person intimacy meets Gaiman's dark whimsy in a gamified school system where a fifteen-year-old discovers the Hunger Games' spectacle-as-control hiding behind Coraline's too-perfect other world."

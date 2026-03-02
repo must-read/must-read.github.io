@@ -10,8 +10,8 @@ workY: "In the Woods"
 wordCount: 2215
 readingTimeMinutes: 9
 tags: ["psychic forensics", "memory loss", "Dublin", "cold case", "object reading", "systematic magic", "blind spot", "childhood trauma", "investigation", "craft"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 6
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Sanderson's rule-based magic meets French's psychological investigation in a story about a forensic reader whose systematic gift cannot perceive the one gap that matters — her own."
