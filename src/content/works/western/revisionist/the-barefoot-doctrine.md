@@ -7,8 +7,8 @@ authorA: "Cormac McCarthy"
 authorB: "John le Carré"
 workX: "Blood Meridian"
 workY: "The Quiet American"
-wordCount: 4215
-readingTimeMinutes: 16
+wordCount: 2786
+readingTimeMinutes: 11
 tags:
   - cartography
   - apache
@@ -54,13 +54,13 @@ combination:
     - The local ally whose understanding of the occupier exceeds the occupier's understanding of himself
 ---
 
-He came down through the rimrock in the late afternoon with his instruments strapped to a government mule and the light falling in slabs across the canyon wall like something poured from a height. The mule's shoes struck sparks off the rhyolite and the cartographer watched the sparks die in the dry air and did not think about what they meant because he was not a man who thought about what things meant. He was a man who measured them.
+He came down through the rimrock in the late afternoon with his instruments strapped to a government mule and the light falling in slabs across the canyon wall like something poured from a height. The mule's shoes struck sparks off the rhyolite and the sparks died in the dry air.
 
-The guide was already at the canyon floor. He squatted on a shelf of sandstone with his back against the wall and his feet bare on the rock. He had removed his boots somewhere above, on a switchback the cartographer hadn't noticed, and set them on a ledge where they would wait for no one. He watched the cartographer's descent with the attention of a man counting something.
+The guide was already at the canyon floor. He squatted on a shelf of sandstone with his back against the wall and his feet bare on the rock. He had removed his boots somewhere above, on a switchback the cartographer hadn't noticed, and set them on a ledge. He watched the cartographer's descent with the attention of a man counting something.
 
-Lieutenant Harlan Oakes. Twenty-six. Graduate of the Military Academy at West Point where he had studied engineering and surveying and a particular form of confidence that confused precision with understanding. He had been sent to map the Peloncillo range and the canyon system that ran through it like cracks in a plate dropped from a great height. The Army's charts showed the area as blank. Not unknown but undrawn. A white space on the territorial survey that troubled certain men in Washington the way a locked room troubles a man with keys.
+Lieutenant Harlan Oakes. Twenty-six. Graduate of the Military Academy at West Point where he had studied engineering and surveying and a particular form of confidence that confused precision with understanding. He had been sent to map the Peloncillo range and the canyon system that ran through it like cracks in a plate dropped from a great height. The Army's charts showed the area as blank. Not unknown but undrawn. A white space on the territorial survey that troubled certain men in Washington.
 
-The guide's name was Nantahe. He had served the Army as a scout for four years and in that service had led soldiers to camps where his own people slept and done things in those camps that had no place in any language he knew or had been taught. The Army had given him boots and a rifle and a name they could pronounce and he had given back the rifle when Geronimo surrendered and kept the name because names cost nothing to carry. The boots he had discarded this morning. He had not explained why. He had simply stopped wearing them at a certain elevation and walked on.
+The guide's name was Nantahe. He had served the Army as a scout for four years and in that service had led soldiers to camps where his own people slept and done things in those camps that had no place in any language he knew. The Army had given him boots and a rifle and a name they could pronounce and he had given back the rifle when Geronimo surrendered and kept the name because names cost nothing to carry. The boots he had discarded this morning. He had not explained why.
 
 You Oakes said.
 
@@ -70,7 +70,7 @@ How far to the narrows.
 
 Nantahe pointed with his chin. A gesture the cartographer had learned to read in the weeks since Fort Bowie. It meant the direction was not reducible to a word.
 
-They had been in the field for eleven days. The first week was open country, bajada and creosote flat, the land spread before them like a lesson in distance. Oakes had worked well there. His theodolite stood on its tripod like a one-legged prophet and he sighted along its brass eye and took his angles and wrote them in a leather-bound book that smelled of neat's-foot oil and government. Each evening he plotted the day's readings on a sheet of rag paper and the landscape took shape beneath his pen in the clean language of triangulation. Azimuth and bearing. Declination and datum. The country translated into coordinates that could be telegraphed to Washington and printed in an atlas and shelved in a library where no one who read them would ever feel the heat that shimmered above the ground when he took his noon sighting.
+They had been in the field for eleven days. The first week was open country, bajada and creosote flat. Oakes had worked well there. His theodolite stood on its tripod and he sighted along its brass eye and took his angles and wrote them in a leather-bound book that smelled of neat's-foot oil and government. Each evening he plotted the day's readings on a sheet of rag paper and the landscape took shape beneath his pen. Azimuth and bearing. Declination and datum. The country translated into coordinates that could be telegraphed to Washington and printed in an atlas and shelved in a library where no one who read them would ever feel the heat that shimmered above the ground when he took his noon sighting.
 
 The narrows changed things.
 
@@ -92,7 +92,7 @@ He wrote: *Magnetic deviation severe. Iron deposits in canyon walls render compa
 
 But the sun entered the narrows only in the middle hours and the walls were too high and too close together for a reliable solar bearing and the pace count was complicated by the uneven floor and by the fact that the canyon did not travel in straight lines but curved and doubled back in ways that made his plotted traverse look like the path of a man who was lost.
 
-He was not lost. Nantahe walked ahead of him and he followed Nantahe. But the map he was making bore less and less resemblance to the ground he was crossing and the discrepancy opened in him a feeling he did not recognize because he had never before been in a place his instruments could not describe.
+He was not lost. Nantahe walked ahead of him and he followed Nantahe. But the map he was making bore less and less resemblance to the ground he was crossing.
 
 ---
 
@@ -100,21 +100,21 @@ On the third night in the narrows Nantahe built a fire against the canyon wall i
 
 How do you know where you are in here, Oakes said.
 
-Nantahe did not answer immediately. He fed the fire a piece of juniper that popped and sent a column of sparks into the dark slot of sky above them. When he spoke it was in the tone of a man translating something that does not translate.
+Nantahe did not answer immediately. He fed the fire a piece of juniper that popped and sent a column of sparks into the dark slot of sky above them.
 
 I know where my feet are.
 
 That's not the same thing.
 
-Nantahe looked at him. In the firelight his face had the quality of the canyon walls themselves, layered and unreadable and very old. He said nothing else. He lay down with his back to the fire and one hand resting on the stone floor and slept or appeared to sleep. Oakes noticed, not for the first time, that the guide's hand stayed flat against the rock even in sleep, as if reading something through the skin of his palm.
+Nantahe looked at him. In the firelight his face had the quality of the canyon walls themselves, layered and unreadable. He lay down with his back to the fire and one hand resting flat on the stone floor and slept or appeared to sleep.
 
-Oakes closed his book. The fire made shadows on the walls that moved like water. Somewhere above them the desert night was doing its work, the heat leaving the ground in waves that bent the stars, and the stars moving in their own slow survey of a territory that had never asked to be mapped.
+Oakes closed his book. The fire made shadows on the walls that moved like water. Somewhere above them the heat was leaving the ground in waves that bent the stars.
 
-In the morning he woke to find Nantahe gone. The fire was ash. The canteens were full, which meant the guide had found water in the dark and carried it back while Oakes slept. He sat and waited and tried not to feel what a man feels when he is alone at the bottom of a canyon with no compass and no guide and walls so high the sky is a wound.
+In the morning he woke to find Nantahe gone. The fire was ash. The canteens were full, which meant the guide had found water in the dark and carried it back while Oakes slept. He sat and waited.
 
-Nantahe returned an hour later carrying a sage grouse he had killed with a thrown stone. He gutted it on the canyon floor without speaking and roasted it over a fire he built from scrub he had gathered on his walk. The meat was dark and stringy and tasted of the sage the bird had eaten. Oakes ate and watched the guide's bare feet on the rock and tried to understand something that was happening to the expedition that his training had not prepared him for. The mission was proceeding. They were moving through the canyon. They were fed and watered and alive. And yet the product of the mission — the map, the document, the thing that justified their presence here — was failing. The expedition was succeeding at everything except its purpose.
+Nantahe returned an hour later carrying a sage grouse he had killed with a thrown stone. He gutted it on the canyon floor without speaking and roasted it over a fire he built from scrub he had gathered on his walk. The meat was dark and stringy and tasted of the sage the bird had eaten. Oakes ate and watched the guide's bare feet on the rock. The mission was proceeding. They were moving through the canyon. They were fed and watered and alive. And the map was failing.
 
-He thought about this while he ate. He thought about the men in Washington who had ordered the survey and the chain of decisions that connected their desks to this floor of stone where he sat chewing sage grouse and staring at a leather book full of numbers that meant less the deeper he went. He wondered if those men had ever stood in a place where their instruments didn't work. He suspected they hadn't. He suspected that the entire apparatus of the territorial survey was built by men who had never encountered ground that resisted measurement, and that this was not an accident but a feature of the apparatus itself — you don't build tools for conditions you can't imagine.
+He thought about the men in Washington who had ordered the survey and the chain of decisions that connected their desks to this floor of stone where he sat chewing sage grouse and staring at a leather book full of numbers that meant less the deeper he went. He wondered if those men had ever stood in a place where their instruments didn't work.
 
 ---
 
@@ -122,19 +122,19 @@ They went deeper. The canyon forked and Nantahe chose the left branch without he
 
 He packed the compass away.
 
-The rag paper was half full of readings that contradicted one another. Lines that should have connected did not. Distances that should have closed left gaps. He was drawing a country that refused to be drawn, and the refusal was not metaphysical or willful or anything so convenient as resistance. It was geological. The iron in the stone. The narrowness of the walls. The way the canyon turned at angles that no traverse could follow cleanly. The land was not opposing his instruments. His instruments were simply not made for this land.
+The rag paper was half full of readings that contradicted one another. Lines that should have connected did not. Distances that should have closed left gaps. The iron in the stone. The narrowness of the walls. The way the canyon turned at angles that no traverse could follow cleanly.
 
 That night the mule balked at a pour-off where the canyon floor dropped four feet into a lower chamber. Nantahe coaxed it down with a hand on its nose and a sound in his throat that was not a word. Oakes watched the guide's feet find the edge of the pour-off in the dark, the toes curling over the lip of stone, testing the drop the way a tongue tests a tooth. The mule came down and its shoes rang on the lower floor and the ring echoed up the walls and came back changed, deeper, as if the canyon had heard the sound and answered in its own register.
 
 They camped below the pour-off. Oakes tried to write by starlight but the stars were few and far between the walls and what light they gave was not enough. He lay on his bedroll and listened to the canyon. It was not silent. Water moved somewhere below them, beneath the floor, a sound so faint it could have been blood in his own ears. The stone ticked and popped as it cooled. Something moved in the scrub upstream — a fox perhaps, or a coati, or nothing at all, just the desert breathing in the particular way it breathes when it believes no one is listening.
 
-He began to understand something on the fourth day and the understanding did not bring him peace. It brought him something closer to panic, though he would not have used that word. He would have said frustration. He would have said technical difficulty. A man trained at West Point does not panic. He encounters obstacles and overcomes them. But the obstacles here were not the kind that yielded to persistence. They were the kind that existed before persistence was invented and would exist after it was forgotten.
+On the fourth day he stopped checking his compass. He told himself this was economy, not surrender.
 
 Nantahe knew all of this. He had known it before they entered the canyon. He had known it when he accepted the assignment at Fort Bowie, when the lieutenant colonel had spread a territorial map on his desk and pointed to the white space and said We need this filled in and Nantahe had looked at the white space with an expression the lieutenant colonel read as understanding but which was in fact something else entirely.
 
 He had agreed to guide the cartographer because the alternative was to let them send the cartographer in alone or with a different guide. A different guide might have found routes where the theodolite could work. Might have led them to the wide places, the overlooks, the points where the canyon opened enough for triangulation. Nantahe led them instead through the narrows, the deepest channels, the places where the iron sang in the stone and the walls leaned in like men sharing a secret.
 
-He did this without appearing to do it. This was the skill he had learned in four years of scouting for the Army — not how to track or shoot or navigate, all of which he had known since childhood, but how to serve two purposes in the body of one man. The Army saw an Apache scout. The land saw something else. He was the instrument the Army trusted and the instrument was calibrated to an accuracy the Army did not suspect.
+He did this without appearing to do it. This was the skill he had learned in four years of scouting for the Army — not how to track or shoot or navigate, all of which he had known since childhood, but how to serve two purposes in the body of one man.
 
 ---
 
@@ -168,9 +168,7 @@ Into country you knew I couldn't map.
 
 Into this country.
 
-The distinction was there and Oakes heard it. This country. Not *the* country, as if it were any country, any assignment. *This* country, these particular canyons, this specific piece of ground that Nantahe had offered to the cartographer the way a man offers a locked box to a man without a key.
-
-Oakes stood. He was taller than the guide by half a foot and the height gave him nothing. It was the wrong kind of advantage in a place where the advantage belonged to whoever stood lower, closer to the ground.
+Oakes stood. He was taller than the guide by half a foot and the height gave him nothing.
 
 I'll report this, he said.
 
@@ -178,7 +176,7 @@ Nantahe nodded. He picked up a pebble from the canyon floor and turned it in his
 
 I'll tell them the route you chose was deliberately unworkable.
 
-Nantahe set the pebble down. He did not throw it or drop it. He placed it precisely where he had found it, as if it mattered where small stones lay. He nodded again, and in the second nod Oakes saw something that rearranged his understanding. The guide was not afraid. He was not concerned about the report. He was nodding at the fact of the report itself — at the cartographer's faith that a report would matter, that words sent up the chain of command would change the outcome. Nantahe had watched reports go up the chain for four years. He had watched promises made and broken in the same document. He had seen the distance between what was written and what was done and he knew that distance the way the cartographer knew the distance between two survey stakes — precisely, and without comfort.
+Nantahe set the pebble down. He placed it where he had found it. He nodded again, and in the second nod there was nothing Oakes could report.
 
 They'll send someone else, Oakes said.
 
@@ -190,13 +188,11 @@ Yes.
 
 And they'll map it.
 
-Nantahe did not nod this time. He looked at the canyon walls, at the iron-dark bands in the sandstone, at the ribbon of sky above them that had been his ceiling and his confidant for five days. He looked at these things the way a man looks at a room he is about to leave for the last time.
+Nantahe did not nod this time. He looked at the canyon walls, at the iron-dark bands in the sandstone, at the ribbon of sky above them.
 
 They will try, he said.
 
-The word hung between them. *Try.* It carried in it the weight of every expedition Nantahe had witnessed, every column of soldiers moving through country they believed proximity would make theirs. The trying was the thing the empire did best and the thing that never quite finished. There would always be another canyon. Another blank space. Another guide to lead another cartographer into another set of narrows where the instruments failed and the ground kept its own counsel.
-
-Oakes heard the word and did not know what to do with it. He was a man who had been trained to complete things. Surveys were completed. Reports were filed. Maps were drawn and the drawing was the completion and the completion was the justification. A map that could not be completed was not a map. It was an admission. He did not know how to file an admission.
+Oakes heard the word and did not know what to do with it.
 
 ---
 
@@ -204,7 +200,7 @@ They started back the next morning. The canyon was different in reverse, the way
 
 On the second day of the return Oakes took out the compass and opened its case. The needle swung and pointed. He checked it against the angle of the light. True north. They were leaving the iron country. The instruments were recovering their authority.
 
-He held the compass and looked at it and felt something depart from him — not knowledge exactly but the beginning of knowledge, the first fissure in the surface of certainty through which a different understanding might eventually seep. In the narrows he had been a man without instruments in a country that did not need them. Now the instruments worked again and he was himself again and the self he was had a map to finish and a report to write and a chain of command that would read the report and decide what the blank space required.
+He held the compass and looked at it and put it away.
 
 He wrote in his book that evening: *Narrows section unmappable from ground level due to magnetic interference and insufficient baseline distance. Recommend aerial survey from canyon rim. Guide performed adequately.*
 
@@ -214,7 +210,7 @@ He crossed that out too. He left the space blank.
 
 ---
 
-The last night before the rim Nantahe killed a rabbit in the scrub at the canyon's mouth and roasted it on a fire of creosote branches. They ate without speaking. The meat was lean and tasted of the desert the animal had eaten. The fire smelled of medicine.
+The last night before the rim Nantahe killed a rabbit in the scrub at the canyon's mouth and roasted it on a fire of creosote branches. They ate without speaking. The meat was lean and tasted of the desert the animal had eaten.
 
 Oakes said: What did you do with your boots.
 
@@ -226,9 +222,9 @@ In the canyon.
 
 Why.
 
-Nantahe put another piece of rabbit in his mouth and chewed slowly and Oakes understood that the question would not be answered because the answer was not a thing that lived in words. The boots were government issue. The government had put them on his feet and the canyon had taken them off and what happened between those two facts was the guide's own country, unmapped and unmappable, and Oakes was not going to receive a survey of it.
+Nantahe put another piece of rabbit in his mouth and chewed slowly.
 
-They slept by the fire. In the early morning, before light, Oakes woke and saw that Nantahe was already awake, sitting upright with his bare feet flat on the ground and his hands resting on his knees. He was facing east, where the sky was beginning to separate from the land. He was not praying and he was not waiting and he was not performing any act that Oakes could name or record. He was sitting on the ground that knew him in the last dark hour before the empire woke.
+They slept by the fire. In the early morning, before light, Oakes woke and saw that Nantahe was already awake, sitting upright with his bare feet flat on the ground and his hands on his knees. He was facing east, where the sky was beginning to separate from the land.
 
 ---
 
@@ -236,18 +232,14 @@ They reached Fort Bowie on a Tuesday. Oakes delivered his book and his rag paper
 
 What happened here, the lieutenant colonel said.
 
-Oakes looked at the blank space. It was the only honest thing in the document.
+Oakes looked at the blank space.
 
 I couldn't get a reading, he said.
 
-The lieutenant colonel accepted this. He was a man accustomed to incomplete reports. He filed the book and the rag paper in a cabinet where they would wait for the next expedition, the one that would approach from the rim, with better instruments, more men, the patience that empire has for blank spaces on its charts.
+The lieutenant colonel filed the book and the rag paper in a cabinet with the other incomplete surveys.
 
-Nantahe walked out of the fort that afternoon. No one stopped him. His service was complete and his value to the Army had been the knowledge in his feet and that knowledge could not be requisitioned or transferred or filed in a cabinet. He walked south along the road and then off the road into the scrub and then out of the scrub into country that had no road and the country took him in the way it takes everything — without gratitude and without malice and without any awareness that taking was what it was doing.
+Nantahe walked out of the fort that afternoon. No one stopped him. He walked south along the road and then off the road into the scrub and then out of the scrub into country that had no road.
 
-His feet were bare on the ground. The ground was warm in the late afternoon. He could feel the iron in the stone beneath the sand, the deep pull of it, the way it turned compasses into liars and maps into speculation. He had felt this since he was a child, before he knew what a compass was, before he knew that anyone would ever come to this place with instruments and try to make it legible. The ground had always spoken to him through his feet and his feet had always answered and the conversation between them was the oldest survey in the territory and it had never been written down and it would not be.
+His feet were bare on the ground. The ground was warm in the late afternoon. He could feel the iron in the stone beneath the sand, the deep pull of it.
 
-Behind him the fort. Ahead the canyons. The iron in the walls. The narrows where the sky is a crack and the light comes slant and the water seeps through stone at a pace that makes patience look like hurry. He walked toward them with his feet bare and his hands empty and the knowledge of the ground rising through his soles like a thing the earth was saying only to him, in a language that had no notation and no translation and no use to anyone who needed a map to know where they were.
-
-The canyons would be mapped. He knew this. Not this season. Not by Oakes. But eventually, with better instruments, from greater distance, the blank space would be filled and the filling would be called progress and the progress would be called inevitable and the inevitability would be the last and most durable map of all — the one that said this was always going to happen, that the ground was always going to lose, that the barefoot man walking into the narrows was a footnote in someone else's survey of the territory he was born to.
-
-He walked on. The light was failing. The canyons opened before him like a mouth that would not speak and would not close and did not need to do either because it was the canyon and the canyon was the ground and the ground was enough.
+Behind him the fort. Ahead the canyons. He walked toward them. The light was failing and the narrows were dark already and he went into the dark.
