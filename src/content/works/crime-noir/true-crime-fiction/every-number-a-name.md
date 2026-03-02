@@ -16,8 +16,8 @@ tags:
   - "inheritance"
   - "community"
   - "crime-as-institution"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Mosley's warm, humanistic noir meets Talese's narrative journalism patience in a true-crime fiction about a daughter who inherits her paralyzed father's numbers operation — and the community that depended on it."
