@@ -7,7 +7,7 @@ authorA: "Becky Chambers"
 authorB: "T.H. White"
 workX: "A Psalm for the Wild-Built"
 workY: "The Sword in the Stone"
-wordCount: 2870
+wordCount: 2809
 readingTimeMinutes: 11
 tags: ["transformation", "apprentice", "magic", "creatures", "learning", "attention"]
 rating: 0
