@@ -7,8 +7,8 @@ authorA: "Paul Tremblay"
 authorB: "Robert Aickman"
 workX: "The Haunting of Hill House by Shirley Jackson"
 workY: "The Others (film)"
-wordCount: 6780
-readingTimeMinutes: 27
+wordCount: 6530
+readingTimeMinutes: 26
 tags: ["convalescence", "quiet-horror", "ambiguity", "single-room", "politeness", "grief", "haunting"]
 rating: 0
 ratingCount: 0
@@ -81,11 +81,7 @@ Elise looked toward the window. From the bed, she could see sky and the upper br
 
 ---
 
-They stayed for an hour. Sometimes longer. The visits had a rhythm that Elise had learned to anticipate: arrival, the meal, a period of conversation, a pause that functioned as a transition, and then a second period of conversation that was different in register from the first — slower, more careful, as though they were approaching something. They never arrived at it. The second conversation always trailed off into a comfortable silence, and then June would collect the tray and Geoffrey would stand from the upholstered chair and they would leave, and Elise would be alone in the room with the light and the wallpaper and the glass of water that was, again, on the nightstand, full, though she had watched June move it to the table and had not seen anyone move it back.
-
-During the first period of conversation, they talked about the house. The boiler. A draft in the hallway. The quality of the milk being delivered, which June felt had declined. These were the concerns of people who lived in a house and maintained it and noticed its small deteriorations the way one notices a friend aging — not with alarm, but with a quiet cataloging that was its own form of care.
-
-During the second period, they talked about Elise.
+They stayed for an hour. Sometimes longer. They talked about the house — the boiler, a draft in the hallway, the quality of the milk being delivered, which June felt had declined. These were the concerns of people who lived in a house and noticed its small deteriorations the way one notices a friend aging. Then the conversation would shift, slower, more careful, as though they were approaching something. They never arrived at it. The shift trailed off into a comfortable silence, and then June would collect the tray and Geoffrey would stand from the upholstered chair and they would leave, and Elise would be alone in the room with the light and the wallpaper and the glass of water that was, again, on the nightstand, full, though she had watched June move it to the table and had not seen anyone move it back.
 
 "You've been sleeping more," June said, on what Elise believed was the fifth or sixth visit.
 
@@ -149,7 +145,7 @@ June's hands were folded in her lap. She unfolded them and refolded them in the 
 
 "I do like it. But it's the same meal every day."
 
-"Is it?" June's voice carried genuine confusion, or something that performed the function of genuine confusion — the raised pitch, the slight tilt of the head, the widening of the eyes that signified surprise without quite achieving it. "I suppose we've fallen into a routine. Creatures of habit. Geoffrey and I."
+"Is it?" June's voice carried genuine confusion, or something that performed the function of genuine confusion without quite achieving it. "I suppose we've fallen into a routine. Creatures of habit. Geoffrey and I."
 
 "Terrible creatures of habit," Geoffrey confirmed from his chair.
 
@@ -225,15 +221,15 @@ June closed her hands. The folding was slow this time, deliberate, and Elise wat
 
 ---
 
-The visits continued. Elise stopped counting the days. Counting required a confidence in sequence — that yesterday preceded today, that today would be followed by tomorrow — and she found that this confidence had become difficult to maintain. The light through the window behaved strangely. It did not progress from east to west, or from morning gold to evening amber, in a way that she could track. Sometimes the room was bright for what felt like hours, and then suddenly dim, and then bright again, as though the sun were a lamp that someone in another room was switching on and off without regard for consistency.
+The visits continued. Elise stopped counting the days. Counting required a confidence in sequence that she could no longer maintain. The light through the window did not progress from morning gold to evening amber in a way she could track. Sometimes bright for hours, then suddenly dim, then bright again, as though someone in another room were operating the sun without regard for consistency.
 
-The meals did not change. Toast, egg, berries, tea. Always the same. She ate three strawberry halves and left two, and June watched the two, and the watching had become a feature of the room, like the wallpaper or the light — present, patterned, unalterable.
+The meals did not change. Toast, egg, berries, tea. She ate three strawberry halves and left two, and June watched the two, and the watching had become a feature of the room, like the wallpaper or the light — present, patterned, unalterable.
 
-Geoffrey had begun to speak more. Or she had begun to notice him speaking. He commented on the weather — "Overcast again, I'm afraid" — though the window showed neither cloud nor sun, only the flat white light that fell on the motionless garden. He commented on her color. He commented on the tea.
+Geoffrey had begun to speak more. Or she had begun to notice him speaking. He commented on the weather — "Overcast again, I'm afraid" — though the window showed neither cloud nor sun, only flat white light falling on the motionless garden. He commented on her color. He commented on the tea.
 
-"Good cup today," he'd say, and June would nod, and the agreement between them would pass like a current between two terminals, quick and complete, and Elise would wonder what made this cup different from any other, since the tea was always Earl Grey and always the temperature she preferred, and the answer was nothing, nothing was different, and the question was not about tea.
+"Good cup today," he'd say, and June would nod, and the agreement between them would pass like a current between two terminals, and Elise would wonder what made this cup different from any other, since the tea was always Earl Grey and always the temperature she preferred, and the answer was nothing, and the question was not about tea.
 
-She noticed other things. Small things, accumulating the way sediment accumulates in still water — not through force but through patience, through the sheer persistence of settling.
+She noticed other things. Small things, accumulating the way sediment accumulates in still water.
 
 The doily on the table between the chairs was crocheted in a pattern she recognized. Not from this room. From another room, a room she had not thought about in years, a room in a house where her father had sat in a green chair and read the paper on Sunday mornings while her mother crocheted at the kitchen table. The pattern was a series of interlocking diamonds. She had counted the diamonds as a child, sitting on the floor at her father's feet. Seventeen diamonds in the center row.
 
@@ -305,7 +301,7 @@ She stopped. Her hands, which had been folded, tightened. The knuckles whitened.
 
 "Who are you?"
 
-The room held still. Not the stillness of calm but the stillness of a held breath, the stillness of a system in which every element — the light, the air, the pattern of the wallpaper, the impression in Geoffrey's empty chair — had been in delicate equilibrium and was now, for the first time, at risk. June's hands were in her lap. Her face was kind. Her eyes held an expression Elise could not categorize — not fear, not guilt, not sorrow, but a combination of the three that produced something new, something without a name, a feeling that might have been the feeling of being caught or might have been the feeling of being released.
+The room held still. Not the stillness of calm but the stillness of a held breath, the stillness of a system in which every element — the light, the air, the pattern of the wallpaper, the impression in Geoffrey's empty chair — had been in delicate equilibrium and was now, for the first time, at risk. June's hands were in her lap. Her face was kind. Her eyes held an expression that might have been the feeling of being caught or might have been the feeling of being released.
 
 "We're your neighbors," June said. "We've been taking care of you. Since the loss."
 
@@ -341,7 +337,7 @@ June left. The door closed. The sound it made was soft — not a click but a set
 
 She stood at the window. The garden was the same. Motionless flowers, motionless bench, motionless path. The birch above it shivered in its private wind. The foxgloves stood at attention like guests at a formal dinner, erect and purple and indifferent to the absence of any breeze to move them.
 
-She looked at the garden and tried to remember the loss. She felt the shape of it — large, central, load-bearing, the kind of absence around which a life reorganizes itself the way a house reorganizes itself around a missing wall. The shape was there. The content was not. She knew she had lost something. She knew the loss had brought her to this room, to this bed, to the tray and the tea and the couple whose names were June and Geoffrey and whose knowledge of her was impossible and whose kindness was perfect and whose perfection was the thing she could not look at directly because looking at it would be looking at the loss itself, and the loss was too large to hold in her vision, so she held the kindness instead, and the kindness held her, and the room held them both.
+She looked at the garden and tried to remember the loss. She felt the shape of it — large, central, load-bearing, the kind of absence around which a life reorganizes itself the way a house reorganizes itself around a missing wall. The shape was there. The content was not. She knew she had lost something. She knew the loss had brought her to this room, to this bed, to the tray and the tea and the couple whose names were June and Geoffrey and whose knowledge of her was impossible and whose kindness was perfect and whose perfection was the thing she could not look at directly because looking at it would be looking at the loss itself, and the loss was too large to hold in her vision, so she held the kindness instead, and the kindness held her.
 
 She turned from the window. Five steps to the bed. She counted them.
 
@@ -365,7 +361,7 @@ The tray. Toast, egg, berries, tea.
 
 "Wonderful."
 
-She ate. She drank. The tea was the right temperature. The egg was the right consistency. The toast was cut diagonally. The butter was applied and partially scraped. Everything was as it always was, and the always was a comfort and the comfort was a cage and the cage was invisible and the invisibility was the point — you could not flee what you could not see, and you could not see what you had agreed not to look at, and the agreement was the room.
+She ate. She drank. The tea was the right temperature. The egg was the right consistency. The toast was cut diagonally. The butter was applied and partially scraped. Everything was as it always was, and the always was a comfort and the comfort was a cage and the agreement not to see the cage was the room.
 
 "June," she said. "Geoffrey."
 
@@ -393,11 +389,11 @@ The pause. But longer this time. Not two seconds. Five. Seven. A pause that had 
 
 "Then we'll still be here."
 
-She said it gently. She said it the way one explains a fact of nature to a child — not with cruelty, not with pleasure, but with the steady certainty of a person who has observed the phenomenon many times and knows that it does not vary. We will still be here. The sun rises. The garden does not move. The tea is the right temperature. These are the terms.
+She said it gently. She said it the way one explains a fact of nature to a child — not with cruelty, not with pleasure, but with the steady certainty of a person who has observed the phenomenon many times and knows that it does not vary. We will still be here. The sun rises. The garden does not move. The tea is the right temperature.
 
 Elise looked at the tray. At the two remaining strawberry halves. She reached for one. She held it between her finger and her thumb and felt its weight, which was negligible, which was nothing, and she put it in her mouth and ate it. One strawberry half. She left the last one. She left one.
 
-June's eyes were on the plate. On the single remaining half. A berry, halved, red, glistening faintly with its own moisture, sitting on white ceramic in a room that was shrinking around a woman who was eating strawberries brought by dead people or living people or people who had never been people at all, and the berry was small and the plate was small and the room was small and none of it mattered because Elise had eaten four and left one and the equation had changed and June knew it and Geoffrey knew it and the room knew it, and the knowing settled into the walls like damp, like the slow penetration of water into plaster, invisible until the damage is done.
+June's eyes were on the plate. On the single remaining half. A berry, halved, red, glistening faintly with its own moisture, sitting on white ceramic in a room that was shrinking around a woman who was eating strawberries brought by people whose aliveness she could not verify, and the berry was small and the plate was small and the room was small and Elise had eaten four and left one and the equation had changed and June knew it and Geoffrey knew it and the room knew it, and the knowing settled into the walls like damp, like the slow penetration of water into plaster, invisible until the damage is done.
 
 ---
 
@@ -413,4 +409,4 @@ The glass of water was full. The pillow configuration was correct. The wallpaper
 
 She lay back. She pulled the duvet up. She looked at the ceiling, which was closer than it had been, and white, and blank, and the blankness was not the absence of something but the surface of something, a barrier, like the wallpaper, like the window, like the door she had not opened, and on the other side of every barrier was the same thing, which was this room, which was her, which was the loss she could not name because naming it would mean she had arrived at the place the room had been bringing her to since the first morning, the first tray, the first cup of tea at exactly the right temperature, and she was not ready, she was not ready, and June had said that was all right, and June would be back tomorrow with the tray, and the toast would be cut diagonally, and the egg would be soft-boiled, and there would be five strawberry halves, and Elise would eat four and leave one, or eat three and leave two, or eat five and leave none, and the number she chose would mean something and the meaning would change nothing and the room would remain, as it had always remained, as it would always remain, holding her the way a bed holds a body, the way a house holds its rooms, the way a loss holds the person who cannot set it down.
 
-The light faded. The garden did not move. Somewhere in the walls, in the old plaster, in the paper with its climbing vines, something settled. Not a sound. A pressure. The atmospheric weight of a room completing itself around the body it had chosen, or the body that had chosen it, and the distinction did not matter because the room was warm and the air was still and the glass of water was full and the morning would come and June would come and the tray would come and the tea would be exactly right, and Elise closed her eyes and did not sleep and did not wake and the room held her and she held the room and neither of them let go.
+The light faded. The garden did not move. Somewhere in the walls, in the old plaster, in the paper with its climbing vines, something settled. Not a sound. A pressure. The atmospheric weight of a room completing itself around the body it had chosen, or the body that had chosen it, and the distinction did not matter because the room was warm and the air was still and the glass of water was full and the morning would come and June would come and the tray would come and the tea would be exactly right, and Elise closed her eyes and the room held her and she held the room and neither of them let go.
