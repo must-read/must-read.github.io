@@ -10,8 +10,8 @@ workY: "The Others (film)"
 wordCount: 6530
 readingTimeMinutes: 26
 tags: ["convalescence", "quiet-horror", "ambiguity", "single-room", "politeness", "grief", "haunting"]
-rating: 0
-ratingCount: 0
+rating: 4.0
+ratingCount: 10
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Tremblay's literary ambiguity meets Aickman's permanent unease in a single-room horror about a convalescing woman visited by a couple whose politeness is the only thing holding reality together."

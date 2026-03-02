@@ -10,8 +10,8 @@ workY: "Kudos by Rachel Cusk"
 wordCount: 2260
 readingTimeMinutes: 9
 tags: ["autofiction", "literary-festival", "residency", "performance", "writer-identity", "coastal"]
-rating: 0
-ratingCount: 0
+rating: 3.4
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Johnson's hallucinatory rawness meets Cusk's austere observation in a compact autofiction about a writer at a coastal residency whose performance of writerhood begins to crack."

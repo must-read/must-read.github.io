@@ -10,8 +10,8 @@ workY: "Little House on the Prairie by Laura Ingalls Wilder"
 wordCount: 3355
 readingTimeMinutes: 13
 tags: ["homesteading", "frontier-life", "seasonal-survival", "prairie", "family", "endurance"]
-rating: 0
-ratingCount: 0
+rating: 3.6
+ratingCount: 8
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Proulx's brutal compression meets McMurtry's elegiac warmth in a frontier narrative about a family homesteading land that doesn't want them — where the daily grind of survival IS the story."

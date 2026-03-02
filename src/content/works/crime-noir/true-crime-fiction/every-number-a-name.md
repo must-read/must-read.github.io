@@ -16,7 +16,7 @@ tags:
   - "inheritance"
   - "community"
   - "crime-as-institution"
-rating: 3.7
+rating: 3.6
 ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"

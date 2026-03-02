@@ -10,7 +10,7 @@ workY: "The Years of Rice and Salt by Kim Stanley Robinson"
 wordCount: 3751
 readingTimeMinutes: 15
 tags: ["secular-cycles", "managed-collapse", "structural-demographics", "second-person", "civilizational-persistence", "institutional-violence"]
-rating: 3.7
+rating: 3.6
 ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
