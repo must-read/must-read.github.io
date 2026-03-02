@@ -1,151 +1,141 @@
 ---
-title: "The Glance and the Undergrowth"
+title: "The Involuntary Instrument"
 slug: "rom-romantasy-001-meeting"
 genre: "romance"
 subgenre: "romantasy"
-authorA: "Jane Austen"
-authorB: "Nora Roberts"
-workSlug: "sympathetic-grounds"
-wordCount: 2658
-publishedDate: 2026-02-22
+authorA: "Lisa Kleypas"
+authorB: "Robin Hobb"
+workSlug: "rom-romantasy-001"
+wordCount: 2914
+publishedDate: "2026-03-02"
 ---
 
-We met in a garden. Not a real garden — a conservatory attached to a hotel in Bath that Austen insisted upon visiting, though she would not explain why. The glass was fogged with January condensation. Ferns crowded the iron benches. Roberts had arrived first, which surprised me, and was sitting with her legs crossed and a pen behind her ear, looking at something on her phone with the efficient attention of a woman who reads fast and decides faster.
+Kleypas arrived first. She chose the booth at the back of the hotel bar, the one with the cracked leather seat and the lamp that gave off more warmth than light. By the time I sat down she had already ordered a glass of Sancerre and was studying the room with the focused attention of someone cataloguing details she might use later — the bartender's rolled sleeves, the way the couple near the window kept touching their own wrists instead of each other's.
 
-Austen came in through a side door as though she had been born knowing where it was. She wore a scarf the color of good sherry. She did not sit down immediately. Instead she stood near the largest fern — a sprawling thing that had outgrown its pot and was beginning to colonize the floor tiles — and studied it with the detached precision of someone cataloguing a specimen.
+Hobb came in from the rain. She did not apologize for being late, which I respected. She ordered black tea, and when it arrived in one of those small metal pots that never pour cleanly, she poured it with the care of someone performing a minor act of devotion to herself. She sat across from Kleypas. They had not met before, and the silence between them had the quality of two musicians tuning their instruments in the same room — not hostile, but aware.
 
-"This plant is dying," she said. "But very slowly and from the center, so it still looks impressive."
+"A bond," I said, because I had been rehearsing an opening for twenty minutes and this was the least terrible version. "A magical bond between two people who did not choose it. A court healer and the king's spymaster. The bond transmits emotion and physical sensation. They feel what each other feels."
 
-"Sounds like most marriages," Roberts said, not looking up from her phone.
+"An empathy bond," Kleypas said. She turned the stem of her glass. "That's not new territory."
 
-Austen sat. The bench complained. I had my notebook open and my stomach tight. These were two women who had each, in their own century and their own way, understood the architecture of wanting — what it costs to want someone, what it costs to pretend you don't, what it costs to get what you want and discover it has renovated you without permission. I was here to learn from them. I was not certain I was equipped.
+"No. The territory is what people do when they can't hide."
 
-"The premise," I said. "A magical competition structured as a kind of courtship. Two people building something together — a world, essentially — while nominally competing against each other. The magic is rooted in landscape, in soil and weather and growing things. And the love starts as irritation."
+"Who can't hide from whom?" Hobb asked. She had not looked up from her tea.
 
-"Irritation," Austen repeated. "You say that as though it were a starting condition. Irritation is not the beginning of love. It is the sound love makes when it is being refused."
+"Both. It's mutual. She feels his injuries, his moods. He feels hers."
 
-Roberts put her phone down. "That's beautiful. It's also wrong."
+"Injuries," Hobb repeated. She set down her cup. "You need to understand what you're saying when you say that. If the bond transmits physical sensation — if she feels his wounds, his bruises, the damage he sustains in the work he does — then the bond is not a romance device. It is a form of violence. She is being hurt by his choices, by his profession, by the political machinery he serves. And he knows she's being hurt, because the bond runs both ways. Every time he takes a beating in service to the crown, he's beating her."
 
-The conservatory seemed to contract slightly. A pipe somewhere above us ticked.
+The table went quiet. Kleypas was watching Hobb with the sharpened stillness of someone recalibrating.
 
-"Irritation is sometimes just irritation," Roberts said. "Two people rubbing each other raw because they genuinely don't fit. The work of the story is figuring out whether that friction is generating heat or just sawdust. You can't start by assuming it's love in disguise. That's the reader's job — to hope. The writer's job is to make that hope feel dangerous."
+"That's the dark reading," I said.
 
-"I don't disagree that the reader must be permitted to hope," Austen said. "I disagree with the suggestion that irritation between intelligent people is ever *just* friction. If a woman is irritated by a man she could easily ignore, the irritation itself is diagnostic. She would not expend the energy unless something in him had penetrated her defenses without being invited."
+"That's the honest reading. You said they didn't choose this. An unchosen bond that inflicts pain is not a premise for romance. It's a premise for a horror story about consent."
 
-"Or unless he's genuinely annoying," Roberts said.
+Kleypas set her glass down. "Robin, you're not wrong. But you're skipping a step. The bond transmits everything — pain, yes, but also pleasure. Desire. The flush of warmth when someone looks at you and you know they see you. If we only examine the bond as a mechanism of suffering, we get a story about captivity. If we examine it as a mechanism of involuntary intimacy — all of it, the agony and the wanting — we get something much more dangerous. We get two people who know each other in ways nobody is meant to."
 
-"Genuinely annoying men do not irritate. They bore. There is a vast difference."
+"Nobody is meant to," Hobb said. "Exactly. That's the violation."
 
-I wrote that down. Both of them watched me do it. Roberts with amusement. Austen with the barely perceptible satisfaction of a woman who has said something she knows will outlast the conversation.
+"And the seduction. Those are the same thing."
 
-"Let me try something," I said. "The competition. Two practitioners of magic — different traditions, different philosophies. His magic is institutional, formal, learned from books and academies. Hers is wild. Intuitive. She learned it from the land itself, from watching what grows in the cracks of old walls. His magic is architecture. Hers is undergrowth."
+I watched them look at each other across the booth. Kleypas with her chin up, certain. Hobb with her jaw set, equally certain. They were not agreeing. They were describing the same phenomenon from two sides of a wall, and the wall was load-bearing.
 
-"The gendering is obvious," Austen said.
+"I need both," I said. "I need both of those things to be true at the same time. The bond is a violation and a seduction. The reader should feel both without being asked to choose."
 
-I felt my face heat. "I know. But is it wrong?"
+Hobb shook her head, not in disagreement but in the way a person shakes off something that landed too close. "You can hold both in the text. I've done it. The Wit bond in my books — the bond between human and animal — is treated by the culture as an abomination and by the bonded as the deepest form of intimacy they know. I spent three trilogies refusing to resolve that tension. But the reason it works is that the animal doesn't speak. The bond is wordless. The moment you make your bond verbal — the moment they're transmitting structured emotion, intelligible sensation, things that can be interpreted and responded to — you've given them a language. And language changes everything. Language means they can lie. They can withhold. They can perform."
 
-"It is not wrong so much as it is expected. The woman's magic is natural and emotional. The man's is cerebral and structural. We have all read this story. The question is whether you intend to do anything with the expectation or merely fulfill it."
+"Can they?" I asked. "If the bond transmits genuine sensation — "
 
-Roberts leaned forward. "I think the gendering works if the cost is real. His institutional magic isn't just cold and rigid — it's *powerful*. It builds things that last. Bridges, wards, protections that hold for generations. Her wild magic is beautiful and raw and true, and it's also unstable. It doesn't last. It burns bright and goes out. The story isn't about wild beating institutional. It's about what happens when two incomplete systems try to become one thing without either of them being willing to be the one that yields."
+"People learn to mask pain all the time. An involuntary bond doesn't make you transparent. It makes you a better liar, because now you have to control not just your face but your entire nervous system." She paused. "The spymaster would be very good at this."
 
-"That is better," Austen conceded. "Though I still want the woman to be right."
+Kleypas smiled. It was a smile that had work in it. "Now you're giving me something. A man whose profession is deception, bonded to a woman who can feel his deceptions happening. Not the content — she can't read his thoughts — but the texture. The sensation of someone deliberately dampening themselves. Like pressing your hand against a bell to stop the ring. She can feel the silence where feeling should be."
 
-"Of course you do. So does the reader. But she can't be right because being right isn't the point. The point is that she's alive. His magic works and hers blazes. Working is not the same as blazing, but blazing is not the same as lasting. They each have what the other needs, and they each despise what the other has."
+"She feels the shape of his lies," I said.
 
-I was scribbling furiously. The pen caught on the paper and left a blot. "The competition itself — I keep thinking of it as a circus. Not literally a circus, but that structure from *The Night Circus*. Two people building wonders to outdo each other, except every wonder is also a confession. Each thing they create reveals something they didn't intend to show."
+"She feels the effort of his lies. And that's worse. Because effort means he's hiding something, and she has to decide whether to trust the man or the bond, and they're telling her different things."
 
-Austen's expression shifted. Something opened in it that had been closed. "Yes. The competition as involuntary disclosure. That I understand. In my experience, the most revealing thing a person can do is attempt to impress someone they claim not to care about. The effort itself is the confession. The more elaborate the display, the more nakedly it says: *I am thinking of you when I should be thinking of winning.*"
+Hobb was stirring her tea in a slow circle. She had not added anything to it; the stirring seemed to be a form of thought. "Fitz," she said. "My Fitz was an assassin who loved the king he was supposed to kill for. No — who was willing to kill for. The distinction mattered to me. He didn't love killing. He loved the person who required killing of him. And that love was inseparable from the service, which meant it was inseparable from the violence. Every time he killed for his king, it was an act of devotion and an act of self-destruction. There was no clean version."
 
-"And the other person sees it," Roberts said. "That's crucial. In dual perspective, you get both sides. He builds something magnificent and she looks at it and thinks, *that was for me, you fool, and now I have to pretend I didn't notice.* And we're in her head, so we feel the pretending. The effort of not knowing what she knows."
+"The spymaster," Kleypas said, leaning forward. "He serves the crown. He gathers intelligence, eliminates threats, does the things that keep the kingdom stable. And the healer — she heals. That's her gift, her training, her vocation. She mends what's broken. So you've bonded a woman who fixes damage to a man who causes it. And now she feels the causing. Every act of his that breaks something, she experiences as a wound in her own body, and her own magic reaches toward it reflexively — "
 
-"I am wary," Austen said, "of dual perspective."
+"Trying to heal the damage he's doing to someone else," I said. "Through him."
 
-Roberts looked at her with the patient expression of a woman who has been told by various literary scholars that her narrative techniques are insufficient. "You're wary because you've never needed it. Free indirect discourse does something similar — the reader occupies the character's consciousness without the character realizing it. It's surveillance. Dual perspective is different. It's an exchange. The reader is inside two people at once and can see the misunderstanding forming, can see exactly where the gap is between what he means and what she hears, and the gap is where the tension lives."
+"Through the bond. Her healing instinct can't distinguish between his pain and the pain he inflicts. The bond is a circuit, and the current runs both directions. She's trying to heal the world's wounds through the body of the man creating them."
 
-"The gap is where the comedy lives," Austen corrected. "When two people misunderstand each other in complementary ways — when she believes he is cold and he believes she is careless, and in fact he is terrified and she is proud — that is not tension. That is farce raised to the level of tragedy. And I have managed it quite well without showing his internal experience at all."
+Hobb set down her spoon. "That's structurally interesting. But you need to decide whether she resents this."
 
-"You managed it by restricting the reader's access. Which works brilliantly in a novel of manners. But this is a romantasy. There's magic. The magic has to mean something different inside each of their heads, or it's just special effects."
+"Of course she resents this," Kleypas said.
 
-The pipe above us ticked again. Condensation slid down the glass wall in slow, irregular lines.
+"Not of course. Resentment is the obvious emotional response, which means it's the one you should interrogate. What if she doesn't resent it? What if part of her — a part she can't admit to anyone, barely to herself — is drawn to the sensation? Not the violence. The proximity to someone who operates at the edge of what a body can endure. The intensity of his experience, flooding through the bond, is more vivid than anything she encounters in her own careful, clean, healing life. He's a window into a register of existence she's never accessed."
 
-"Tell me about the landscape," Austen said, turning to me. "You mentioned the magic being rooted in landscape. I want to understand what you mean, specifically, because if you mean *setting as mood* I will be disappointed in you."
+Hobb's expression shifted. Something behind her eyes moved. "You're describing addiction."
 
-"I mean — the land itself as a source of power. Not metaphorically. The magic comes from the soil, the rivers, the old forests. Her magic works because she listens to what the land wants. His magic works because he imposes structure on the land's raw power. The competition takes place in a specific territory — a valley, maybe, or a stretch of borderland between two regions — and the land itself has opinions about what's being done to it."
+"I'm describing desire. Which is the same thing, before it has a name."
 
-"The land has opinions," Roberts repeated. "Good. That's a third character. The relationship isn't just between two people. It's between two people and the ground they're standing on. The ground remembers things they've forgotten. The ground has been in love before."
+"Before it has consequences."
 
-Austen raised an eyebrow. "You are attributing romantic experience to topsoil."
+"Before it has consequences, yes. And the consequences are that she starts needing his experience to feel alive. Not the pain specifically. The volume. He lives at a volume she has never reached, and the bond pipes it directly into her, and she tells herself she hates it the way someone tells themselves they hate the second glass of wine."
 
-"I'm attributing memory to landscape. The topsoil has seen a thousand years of people fighting over it, cultivating it, bleeding into it, making promises they couldn't keep while standing on it. That's not romance. That's history. But the magic draws on that history, which means when she pulls power from the earth, she's pulling up other people's longing along with it. Old desires. Unfinished business."
+I was writing so fast my handwriting had deteriorated into something only I could decode. "So the attraction isn't just physical. It's experiential. She's attracted to his intensity, his proximity to danger, the sheer amount of sensation he generates."
 
-I sat with that. It was good. It was better than what I'd been imagining, which was something more decorative — forests that glow, rivers that sing. What Roberts was describing was a landscape saturated with human wanting, and the magic as a way of accessing that saturation. A woman who works wild magic would feel it all. Every want that had ever seeped into the ground.
+"And he," Hobb said, with the careful emphasis she gives to important corrections, "is attracted to her stillness. Think about what a healer feels like from the other end of that bond. Calm. Warmth. The steady rhythm of someone whose entire training is in restoration. He spends his days in lies and violence and controlled catastrophe, and then the bond opens and there she is — quiet, like a room with good light. He doesn't fall in love with her. He becomes dependent on the sensation of her. And dependency is not love. It's the thing that looks like love from the inside, the way a cage looks like a room if you've never seen a door."
 
-"That makes the competition dangerous," I said. "Not just because they might lose, but because every time they draw on the land's power, they risk feeling something that isn't theirs. Old loves bleeding through."
+Kleypas shook her head. "I disagree. Or — I half disagree. The dependency is real. But you're describing it as though it precludes love, and I think it precedes love. The dependency comes first. The raw, animal need for what the other person feels like through the bond. And then — slowly, painfully, through conversations that cost them both more than they can afford — they begin to know each other as people rather than sensations. And the love, when it arrives, is built on a foundation of physical knowledge that most couples never achieve. They've been inside each other's nervous systems. They know what the other person's grief feels like from the inside. That's not dependency. That's a kind of knowing."
 
-"Or old losses," Austen said quietly. "A woman drawing power from earth that remembers a love that ended badly — she would feel that ending in her own body. She would carry a grief she never earned. And she would not know, in the moment, whether the sorrow was the land's or her own."
+"A kind of knowing that was never consented to," Hobb said.
 
-"And he would see her stagger," Roberts said. "From the outside, he'd see this formidable, infuriating woman falter for a reason he can't identify, and his instinct would be to help, and her instinct would be to refuse help, and the refusal would look like strength but feel like drowning."
+"No. And that's what makes it tragic. The most intimate knowledge either of them will ever possess was forced on them by magic, and they have to decide whether intimacy born of coercion can become something real, or whether it's always tainted."
 
-"Now," Austen said. "Now we are approaching something."
+The bartender drifted past, paused, decided we didn't need anything. Rain was coming harder against the windows. Somewhere behind the bar, someone dropped a glass and didn't react.
 
-There was a silence. Not the comfortable kind. The kind where three people are all thinking the same thought and none of them want to be the one to say it first.
+"The political layer," I said. "The crown wants to use the bond. If a healer and a spymaster are linked — if she can feel when he's in danger, if he can feel when she's working a difficult healing — the strategic applications are obvious. The crown sees two instruments and wants to tune them into a single weapon."
 
-"The HEA," I said finally. "The happily ever after. How does it work if the magic system is built on incomplete things trying to merge? Does their magic fuse? Do they create a new tradition that's neither institutional nor wild?"
+Hobb's mouth thinned. "This is what I know how to write, and what I want to warn you about. The system that uses people. Fitz was used by his king. Loved his king. Was used by his king. Those two facts occupied the same space for six books, and I never let them resolve. If your spymaster serves the crown, the crown will use the bond, and the crown will call it duty, and duty is the most seductive cage because the door is always open and the prisoner stays anyway."
 
-"Absolutely not," Austen said.
+"The healer too," Kleypas said. "She'll be conscripted. Not with chains. With necessity. 'We need you to maintain the bond. The kingdom depends on it. Your service is essential.' And she'll want to believe it, because the alternative is admitting she's been turned into a sensing device for the intelligence apparatus, and that her intimacy with this man is a tool the state is wielding."
 
-"No," Roberts said, at the same moment.
+"So when they finally come together — " I began.
 
-They looked at each other with the startled recognition of people who did not expect to agree.
+"If," Hobb said.
 
-"If their magic merges neatly," Roberts said, "the story is a lie. The whole point is that they're different. His magic will always be structured. Hers will always be wild. The resolution isn't fusion. It's coexistence. They learn to work in the same space without one of them having to become the other."
+"When," Kleypas said, with the conviction of someone who has written two dozen novels about people finding each other despite everything. "When they come together, the question isn't whether they love each other. The bond has already answered that, in ways neither of them can argue with. The question is whether they can love each other in a way that belongs to them, rather than to the crown."
 
-"And the coexistence is harder than the competition," Austen said. "That is what people who write easy endings fail to understand. The competition has rules. Coexistence does not. The competition tells you where to stand and what to do. Coexistence asks you to invent that every single day, and some days you invent it badly, and some days you do not invent it at all, and the love has to survive the days when neither of you can find the shape of it."
+"A private language," Hobb said quietly. "Inside a bond that was designed for surveillance."
 
-"So the story ends with them still different," I said.
+That landed. I could feel it land in my sternum, the way certain ideas do when they're right — not right like an answer, right like a key fitting a lock you didn't know was there.
 
-"The story ends with them choosing to remain in the same room despite being different," Austen said. "Which is the most terrifying thing two people can do."
+"Yes. The story is about building a private language inside a system of surveillance. The bond was imposed. The politics weaponized it. But within the bond, between the two of them, there's a space the crown can't reach — not because it's hidden, but because it's in a frequency the crown doesn't know how to listen for."
 
-Roberts smiled. It was the first real smile I'd seen from her all afternoon — not amused, not strategic, but warm in a way that reminded me why her books sell. She understands something about emotional directness that Austen approaches from the other side. Austen shows you the restraint and lets you imagine the volcano underneath. Roberts shows you the volcano and trusts you to understand that the restraint is what makes it bearable.
+Kleypas drank the last of her wine. "The frequency is tenderness. The crown can monitor threat, danger, pain, arousal, distress. It can't monitor the particular warmth of someone brushing your hair off your forehead. The intimacy that reads as nothing on any instrument because it's too small, too specific, too much about one person knowing another in a way that doesn't translate."
 
-"I want to talk about the moment they stop competing," Roberts said. "There has to be a moment — not a scene, maybe just a sentence — where one of them does something in the competition that isn't designed to win. It's designed to be seen. She builds something with her magic not to outdo him but to show him something true about herself, and the shift from *I will beat you* to *I want you to understand me* is the fulcrum of the entire book."
+Hobb was looking out the window. The rain had shifted from steady to fitful, coming in gusts that threw water against the glass like handfuls of gravel. "I want her to be angry," she said. "Not at the end. Not as a phase she moves through on the way to acceptance. I want her anger to be structural. I want her to love him and be furious about it simultaneously, in every scene, for the entire story. Because the bond stole her choice. She would have chosen him — maybe. Probably. But she'll never know, because the bond chose first, and that theft is not something love repairs. Love exists alongside it. Love does not fix it."
 
-"The entire story," Austen said. "We are writing a short story."
+"I can write that," Kleypas said. "I can write a woman who is angry and in love and refuses to pretend those are contradictory. I've done it. Evie Jenner walked into a gambling hell and married a dying rake to save herself, and she was furious the entire time, and she was right to be furious, and the fury didn't make the love less real. It made it more expensive."
 
-"I keep forgetting the constraint. Seven thousand words?"
+"Expensive," Hobb said. "That's the right word. Not difficult. Not complicated. Expensive. It costs something you don't get back."
 
-"Closer to five or six," I said. "Genre distribution says romance can run a wide range, but — "
+I looked at my notes. VIOLATION. SEDUCTION. VOLUME. PRIVATE LANGUAGE. EXPENSIVE. A map of a story I didn't yet know how to write, drawn by two women who would have written it differently from each other and from me.
 
-"Five thousand words is enough for one good turn," Austen said. "One competition. One shift. One ending that the reader feels in the chest. You cannot build a world in five thousand words, but you can make the reader believe they have entered one."
+"The spymaster," I said. "I keep coming back to what he wants. Not from the bond. From her."
 
-"The circus does that," Roberts said. "Morgenstern gives you a circus in fragments — a tent here, an attraction there — and your brain builds the rest. We can do the same with the valley. Don't describe every tree. Describe one tree so well that the reader hallucinates a forest."
+Kleypas tilted her head. "He wants her to look at him without the bond. He wants to know that if the magic disappeared tomorrow, she'd still turn toward him when he entered a room. And he can never have that certainty, because the bond is always there, always mediating, always providing a reason for every feeling she has about him that isn't just him."
 
-Austen turned to me. "You have been quiet."
+"A man who can never be sure he's loved for himself," Hobb said. "Because the instrument that connected them is also the instrument that might be manufacturing the connection."
 
-"I've been listening."
+"Is it manufacturing it?"
 
-"Listening is useful for the first hour. After that it becomes an excuse for not having a position. What is your position?"
+"It doesn't matter. He'll never know. And that not-knowing is the cruelest thing the bond does to him. She at least has her anger as proof — the bond didn't make her angry, that's authentically hers. But his tenderness, his desire, his need to protect her — he can't be certain any of it belongs to him rather than to the magic."
 
-I closed my notebook. I hadn't realized I'd stopped writing.
+"Does it matter?" Kleypas asked. "If the feeling is real in his body, real in his choices — does the origin matter?"
 
-"I think the story is about what happens when two people who are very good at being alone discover that they are better together, and that discovery feels like a defeat. I think the magic should be beautiful but the love should be difficult. I think the ending should not be a kiss. It should be a choice that costs something — a choice where one of them gives up an advantage they've earned, not because it's romantic but because the alternative is losing something they didn't know they wanted until it was already part of them."
+"It matters to him," Hobb said. "Whether or not it should."
 
-Roberts nodded slowly.
+The bartender was dimming lights. The couple by the window had left. Somewhere a clock I couldn't see marked a half hour, a bright chime that died too quickly.
 
-Austen said nothing. She was looking at the dying fern.
+"One thing I want us not to resolve," Hobb said, and she said it the way she said most things — as though the sentence had been measured twice before being spoken. "Whether the bond is a gift. The story will want to call it a gift by the end. The reader will want it to be a gift. I need us to refuse that. It is a condition. Like weather. Like the body you were born into. You can build a life inside it. You can even find joy inside it. But calling it a gift is a lie you tell to make peace with what was done to you, and I am not interested in fiction that helps people make peace."
 
-"The competition," she said finally. "How does it end? Not the love story. The competition itself."
+Kleypas didn't answer immediately. She turned her empty glass in the lamplight. "I'm interested in fiction where people find each other in impossible rooms," she said. "You want to leave the room impossible. I want to fill it with two people who are more alive for being trapped together. We're not going to agree about which of those stories is the truer one."
 
-"I don't know yet."
+"No," Hobb said. "We're not."
 
-"Good. Neither did I, when I began any of the books that mattered. I knew who was in the room and what they were afraid of, and the rest was a question of watching them closely enough to see what they would do when the fear became intolerable."
-
-Roberts stood up. She looked at her phone, then put it in her pocket without checking it. "One more thing. The title. Don't call it something with *magic* or *wild* or *thorn* in it. Every romantasy on the shelf right now has a title that sounds like a perfume for a woman who owns a sword. Give it a name that a person would actually say out loud."
-
-"A name that sounds like a place," Austen said. "Or a season."
-
-"Or a question nobody asks until it's too late."
-
-They left separately. Austen through the same side door she'd entered. Roberts through the front, already on her phone by the time she reached the street. I sat in the conservatory with my blotted notebook and the dying fern and the condensation running down the walls, and I thought about two kinds of magic that refuse to become one kind, and the valley that remembers every love that ever failed in it, and a woman pulling old grief out of the ground and not knowing whose it was.
-
-The pipe above me ticked. I started writing.
+I closed my notebook. The ink on my fingers was blue. The rain had stopped, and the sudden quiet from outside had the held-breath quality of something waiting to resume.
