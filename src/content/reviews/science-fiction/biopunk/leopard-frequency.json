@@ -1,0 +1,68 @@
+{
+  "workSlug": "leopard-frequency",
+  "reviews": [
+    {
+      "personaId": "sf-001-tunde",
+      "rating": 4,
+      "text": "The neuroscience is speculative but grounded enough to carry the premise, and the story earns its length by refusing to stay in the lab. What stays with me is the demographic fault line in the drift data — the sixteen patients who lost their armor mapped perfectly onto income, geography, race. The story understands that a treatment interacting with an unjust world produces unjust outcomes without ever becoming a lecture about it. Solomon's speech about crossing the street to avoid a Black teenager is the hinge moment, and it works because the story has earned the right to put those words in his mouth.",
+      "date": "2025-12-18",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-002-helen",
+      "rating": 5,
+      "text": "This is the best kind of SF — a single premise explored with such rigor and compassion that by the end you feel like you've lived through it. Dara describing her anxiety as a hum in a room she can't find made me set the story down for a minute. The Taung child passage — the mother spending the rest of her life watching the sky instead of looking at her living children — is devastating and honest. Naomi is a wonderfully drawn protagonist: brilliant, well-meaning, and unable to hold both versions of the truth at once. The ending doesn't resolve, and that's exactly right.",
+      "date": "2026-01-04",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-003-dmitri",
+      "rating": 3,
+      "text": "The carrier-wave model of amygdalar function is interesting but the story hand-waves past the peptide mechanism entirely. You cannot selectively dampen one frequency of neural oscillation with a single synthetic peptide — that is not how receptor pharmacology works. The social consequences are well-extrapolated once you grant the premise, though. Pauline's death by exposure is the most scientifically honest beat: without the urgency signal, hypothermia risk assessment stays cognitive and never becomes behavioral. Solid thought experiment, shaky biology.",
+      "date": "2025-11-27",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-004-amara",
+      "rating": 4,
+      "text": "The story's sharpest insight is that the treatment cannot distinguish between irrational fear and rational caution because the frequency is the same — and that this indifference maps onto existing structures of inequality. The seven patients in Northwest D.C. thrived because their environments were already organized for safety. The sixteen who drifted had been relying on an internal defense system because external ones were never provided. That is a quietly furious political observation embedded in a clinical narrative. I wish the story had spent more time inside the drift communities rather than observing them through Naomi's anxiety, but the perspective choice is defensible.",
+      "date": "2026-02-11",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-005-jin",
+      "rating": 4,
+      "text": "Biopunk tends to dwell in body horror and transgressive aesthetics, but this goes somewhere more unsettling — the horror of a cure that works. The Baltimore house with its open door and bowl of wallets overflowing with more wallets than people is an image that does a tremendous amount of quiet work. The story trusts the reader to count along with Naomi and arrive at the implication without it being spelled out. Jamie's analogy about seeing red but it no longer meaning stop is elegant shorthand for a complex neuroscience problem. Clean, controlled, and genuinely disturbing.",
+      "date": "2025-10-15",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-006-claire",
+      "rating": 3,
+      "text": "Good premise, strong middle section, but the pacing drags in the back half. Once Pauline dies and the IRB suspends the trial, the story keeps circling. Naomi drives to Baltimore again, drives to Richmond, drives home through the dogwoods — there's a lot of driving and thinking. Solomon's monologue about crossing the street is the emotional peak, and everything after it feels like the story searching for an ending it never finds. The class analysis is sharp though. A biotech cure that works perfectly for people who already have safety nets and strips protection from people who don't? That's a real premise.",
+      "date": "2026-02-23",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-007-rowan",
+      "rating": 5,
+      "text": "I keep coming back to Reva Okonkwo describing her husband's anger as weather — 'he's upset, the way you'd think it's raining.' That one line contains the whole moral problem of the story. She's cognitively intact, she reads the situation correctly, but she can no longer produce the flinch that would protect her. And the story doesn't tell you whether that's liberation or danger. It holds both. The ending is brave — Naomi changing variables in a model that keeps failing, alone at eleven p.m., her own predator frequency fully intact. No resolution, no epiphany, just the work continuing. This is how good SF treats impossible problems.",
+      "date": "2025-09-30",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-008-derek",
+      "rating": 3,
+      "text": "Slow burn but it gets where it's going. The skull with the puncture marks is a great recurring image. Solomon's scene in Baltimore is the best part — real tension without anyone raising a hand. Pauline's death felt inevitable but still landed. Ending needed more though. She's just sitting there running failed models? After all that?",
+      "date": "2026-01-19",
+      "helpfulCount": 0
+    },
+    {
+      "personaId": "sf-009-lena",
+      "rating": 4,
+      "text": "A formally precise piece that manages the difficult trick of being a thought experiment and a character study simultaneously. The layered revelation structure — early clinical triumph giving way to ambiguity, then to genuine horror — is handled with confidence. The prose is controlled throughout, rarely reaching for effects it cannot sustain. Two reservations: Naomi's interiority is occasionally too tidy (the paragraph about 'an indictment' announces its thesis where silence would be stronger), and the Richmond garden sequence, while lovely, duplicates emotional ground the Baltimore visit already covered. But the central dilemma is rendered with the seriousness it deserves, and the demographic data section is the kind of quiet structural gut-punch that distinguishes serious speculative work from mere cleverness.",
+      "date": "2025-12-02",
+      "helpfulCount": 0
+    }
+  ]
+}
