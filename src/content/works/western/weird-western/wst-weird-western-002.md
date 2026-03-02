@@ -11,9 +11,9 @@ wordCount: 6237
 readingTimeMinutes: 25
 tags: ["weird western", "deadpan narrator", "uncanny town", "pursuit", "body transformation", "civic horror", "border"]
 rating: 3.5
-ratingCount: 0
+ratingCount: 7
 publishedDate: 2026-03-02
-status: "draft"
+status: "published"
 formulaSummary: "Portis's deadpan colloquial narrator reports Machado's body-horror transformations with straight-faced civic precision, pursuing a man across a wasteland into a town where the uncanny operates as municipal infrastructure."
 synopsis: "Rooster Sillman follows a man in a black coat across the alkali flats into Perdition, a town where the well answers questions, the preacher's shadow arrives early, and civic life has absorbed the impossible. His account of the pursuit is also, without his knowing it, the record of his absorption."
 combination:

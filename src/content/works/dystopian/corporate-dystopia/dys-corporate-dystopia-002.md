@@ -17,10 +17,10 @@ tags:
   - dark-humor
   - complicity
   - HR
-rating: 3.5
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: "2026-03-02"
-status: "draft"
+status: "published"
 formulaSummary: >
   Kafka's matter-of-fact bureaucratic nightmare fuses with Flynn's venomous self-deceiving narrator in a story about an employee being procedurally erased — or possibly promoted — through a series of individually reasonable HR steps she cannot stop cooperating with. The Trial's opaque prosecution becomes a corporate transition process; Severance's severed consciousness becomes the gap between who she is at work and who she is when she Googles what's happening to her.
 synopsis: >

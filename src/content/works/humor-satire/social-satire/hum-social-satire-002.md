@@ -18,10 +18,10 @@ tags:
   - cultural-performance
   - hampstead
   - race-and-class
-rating: 3.5
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: 2026-03-02
-status: "draft"
+status: "published"
 formulaSummary: >
   Waugh's surgical comic set pieces and charm-as-contempt fused with Adichie's
   luminous observation of cultural code-switching. Americanah's immigrant-eye

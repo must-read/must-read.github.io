@@ -18,10 +18,10 @@ tags:
   - story-as-document
   - narrative-collapse
   - institutional-text
-rating: 3.5
-ratingCount: 0
+rating: 3.3
+ratingCount: 7
 publishedDate: 2026-03-02
-status: "draft"
+status: "published"
 formulaSummary: >
   Cusk's austere observation-as-revelation and narrator-in-negative-space merge with
   Didion's cool self-examination and narrative-coherence anxiety in a found document —

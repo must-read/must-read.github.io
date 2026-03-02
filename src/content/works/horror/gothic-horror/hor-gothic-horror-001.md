@@ -10,10 +10,10 @@ workY: "The Bloody Chamber"
 wordCount: 3767
 readingTimeMinutes: 15
 tags: ["gothic horror", "unreliable narrator", "feminist gothic", "decaying house", "obsession", "forbidden chamber", "monstrous feminine", "architectural horror"]
-rating: 3.5
-ratingCount: 0
+rating: 3.6
+ratingCount: 10
 publishedDate: 2026-03-02
-status: "draft"
+status: "published"
 formulaSummary: "Poe's fevered unreliable narrator and claustrophobic architectural psychology fuse with Carter's baroque feminist Gothic and fairy-tale inversions, built on Usher's decaying house-as-psyche and The Bloody Chamber's bride-discovers-bridegroom's-appetite — except here the woman designed the house, the madness, and the narrator himself."
 synopsis: "A restorer arrives at a remote estate to catalogue its paintings for the reclusive woman who inherited it. The house is wrong in ways he can describe and ways he cannot. The woman never explains. The paintings do."
 combination:

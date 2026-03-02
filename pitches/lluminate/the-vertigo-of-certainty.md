@@ -1,7 +1,7 @@
 ---
 source: "https://lluminate.substack.com/feed"
 sourceType: "substack-newsletter"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "Rachel Cusk"
 authorB: "Joan Didion"
