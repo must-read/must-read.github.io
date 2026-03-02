@@ -1,0 +1,186 @@
+---
+title: "Load-Bearing"
+slug: "load-bearing"
+genre: "creative-nonfiction"
+subgenre: "travel-writing"
+authorA: "Gay Talese"
+authorB: "Ta-Nehisi Coates"
+workX: "The Bridge"
+workY: "We Were Eight Years in Power"
+wordCount: 5709
+readingTimeMinutes: 23
+tags: ["infrastructure", "labor", "New York City", "bridges", "race", "class", "urban planning", "invisible work", "travel essay"]
+rating: 0
+ratingCount: 0
+publishedDate: "2026-03-02"
+status: "published"
+formulaSummary: "Talese's granular attention to anonymous laborers and the physical details of their craft merges with Coates's structural analysis of race in American space. The essay borrows its architecture from The Bridge — character studies of specific workers on specific structures — while threading Coates's insistence that personal narrative and systemic argument are indivisible, as modeled in We Were Eight Years in Power."
+synopsis: "A travel essay through New York's infrastructure — bridges, tunnels, water mains — asking whose labor holds the city up and whose body bears the cost. Specific workers, specific structures, specific silences in the archive."
+combination:
+  fromAuthorA:
+    - "Meticulous physical observation of blue-collar labor — the rivet, the beam, the hands, the lunch break on the high iron"
+    - "The anonymous worker as epic subject, elevated through granular detail and patient proximity"
+  fromAuthorB:
+    - "The Black body in American space — labor inseparable from the history that shaped whose hands hold the tool"
+    - "Structural analysis rendered as personal narrative, the particular and the systemic as the same story"
+  fromWorkX:
+    - "Character studies of specific laborers on specific structures — the ironworker's routine, the riveter's precision, the wife's waiting"
+    - "Infrastructure as organizing principle: the bridge as both subject and structural metaphor for the essay itself"
+  fromWorkY:
+    - "Essays framed by the distance between American ideals and American practice — each section a different angle on the same question"
+    - "Honesty as a craft practiced in public, the willingness to sit with contradiction rather than resolve it"
+---
+
+The first thing you notice about Water Tunnel No. 3 is the temperature. Sixty-three degrees, year-round, six hundred feet below the streets of Van Cortlandt Park in the Bronx. The second thing you notice is the sound, which is not the roar you'd expect but a low, constant hum — the rock itself conducting vibration from the tunnel boring machine half a mile ahead. The third thing, if you're paying attention, is the smell: mineral dust, diesel exhaust from the locomotive that hauls muck cars back to the shaft, and something underneath both of those that I'd call wet stone except that doesn't capture the ancient quality of it, the sense that you are breathing air that last moved freely during a geological period whose name you've forgotten.
+
+I went down into the tunnel on a Tuesday in November, riding a cage elevator that dropped at a speed the operators described as "not fast." The shaft was twenty-four feet in diameter and the cage shuddered against its rails in a way that suggested the infrastructure supporting my descent had been built to last, not to comfort. At the bottom, a sandhog named Dale Tompkins was waiting by the locomotive with his arms crossed and an expression I recognized from every construction site I've ever visited: tolerant suspicion of the writer.
+
+Dale was fifty-three years old, from Inwood originally, and had been working tunnels for twenty-eight years. He was a walking foreman, which meant he supervised a section of the bore and spent his shifts in the tunnel rather than in the office trailers above ground. His father had been a sandhog. His uncle had been a sandhog. When I asked about his grandfather, he said, "Probably, but nobody wrote it down," and then he got on the locomotive and I understood the interview portion of our interaction was complete.
+
+Water Tunnel No. 3 has been under construction since 1970. That fact is worth sitting with. Fifty-six years. The tunnel will deliver water from reservoirs in Westchester and the Catskills to every faucet, fire hydrant, and cooling system in New York City, supplementing two existing tunnels — No. 1, completed in 1917, and No. 2, completed in 1936 — that have never been shut down for inspection because shutting them down would mean shutting off the water to eight million people. The city has been building a backup for more than half a century, and it is not finished.
+
+Twenty-four men have died building it.
+
+Dale told me that number without my asking, as the locomotive pulled us deeper into the bore. He said it the way you'd state the temperature or the depth of the shaft — as a measurement, a known quantity. Later I learned the actual count is disputed; some sources say twenty-four, others say more, and the disagreement has to do with what you count. A man crushed by a falling slab of rock in 1972: that's obvious. A man who developed silicosis from breathing tunnel dust and died eight years later in a hospital in Queens: less obvious. A man who drank himself to death in 1985, which his widow attributed to the years underground: that depends on who's defining the terms.
+
+The city defines the terms. This is always the case. The city decides what counts as a workplace death and what counts as a life that happened to end. The distinction is administrative, not moral, but administrative distinctions are how power operates when it isn't bothering to announce itself.
+
+Dale's crew that day was seven men. I watched them work for two hours. What struck me was the quietness of it — not silence, but the economy of communication among people who have done coordinated physical labor long enough to have stripped the language down to its load-bearing elements. A nod. A pointed finger. An occasional shout that contained a single word — "swing" or "hold" or somebody's name — and produced immediate, precise response. They were installing ring beams: curved steel sections bolted together to line the tunnel wall after the boring machine had passed. Each section weighed roughly four tons and was maneuvered into position by a crane that ran on rails along the tunnel ceiling. The margin for error, Dale told me later, was a quarter inch. If the ring was off by more than that, it wouldn't seat properly, and the structural integrity of the lining would be compromised, and the tunnel would eventually fail, and the water supply of the city of New York would be interrupted, and eight million people would discover in the course of a single morning that civilization is a plumbing problem.
+
+He didn't say it like that. He said, "You get the ring wrong, you do it again." But the implication was clear, and the care with which his crew worked — the pauses to measure, to re-measure, to sight along the curve with a practiced eye — suggested they understood what they were building without needing to narrate it.
+
+One of the crew members was a woman named Patricia Okafor, forty-one, who had been a sandhog for twelve years. She was the only woman on the crew and, from what I could tell, the only woman in the tunnel that day. I asked her about this, later, at the surface. She said, "You get used to being the only one of something." I asked what something. She said, "Whatever somebody decides to count."
+
+---
+
+I came to New York to write about what holds the city up. Not a metaphor — the literal infrastructure: the bridges, the tunnels, the water supply, the roads and rails and cables and pipes that allow eight million people to live stacked on top of each other on a set of islands that cannot, on their own, provide enough fresh water for a fraction of that number. I wanted to look at the physical architecture of a city most people experience as a set of surfaces — the sidewalk, the subway platform, the bridge deck — without thinking about the depth below those surfaces or the labor that produced them.
+
+I spent three weeks in the city. I walked across five bridges. I rode every subway line at least once. I visited the Municipal Archives on Chambers Street and the LaGuardia and Wagner Archives at LaGuardia Community College. I went to a bar in Bay Ridge that has been serving ironworkers since the Verrazano was built. I took the 2 train to the end of the line and then walked until I found the Cross-Bronx Expressway, which I stood above on an overpass for an hour, watching the traffic and thinking about what used to be there before the highway required it not to be.
+
+Travel writing depends on the premise that the traveler sees something the resident cannot, that the outsider's eye finds significance in what familiarity has flattened. I don't fully trust this premise. What I saw in New York was largely what I was prepared to see, which was determined by what I'd read and whom I'd talked to before arriving. But I can say this: standing on the walkway of the Brooklyn Bridge at seven in the morning, when the commuter cyclists hadn't yet started their aggressive lane enforcement and the light was doing the thing it does over the East River in autumn — flat and pewter-colored, making the buildings in Manhattan look like a photograph of themselves — I experienced something that was not insight but adjacency. I was next to something real. The cables above me were real. The stone towers were real. The men who had died building them, who had fallen into the river or been killed by bends from working in the caissons at the bottom, had been real, and their reality was present in the structure in a way I couldn't have articulated and still can't, not precisely.
+
+This is the problem with writing about infrastructure. The thing itself is more eloquent than any description of it. A suspension cable under tension does not need your admiration.
+
+---
+
+The ironworkers' bar in Bay Ridge is called The Salty Dog, and it sits on Third Avenue in a block that has changed almost completely since the 1960s — the Norwegian bakeries replaced by halal groceries, the Italian social clubs closed or converted — but The Salty Dog is still there, still dark at two in the afternoon, still decorated with framed photographs of bridge construction that have been on the walls so long the images have yellowed to the color of weak tea.
+
+I went there because I'd been told a few retired ironworkers still drank there, and this turned out to be true, though "a few" was generous. I found two men at the bar on a Wednesday afternoon. One was named Jimmy Delahanty, seventy-six, who'd worked on the Verrazano in 1963 and 1964, the final two years of construction. The other was a man who asked me not to use his name, so I won't. He'd worked on the Verrazano too, and later on the World Trade Center.
+
+Jimmy Delahanty had hands that were the argument for everything I wanted to write. They were enormous, scarred across every knuckle, the fingers slightly curved inward at rest as if still gripping a spud wrench. His left index finger was missing above the second joint. He held his beer glass with a kind of precision that seemed disproportionate to the act — the careful grip of a man who understood that hands are tools and tools require maintenance.
+
+He told me about the riveting gangs. Four men per gang: the heater, who tended a coal forge and heated the rivets until they glowed; the sticker-in, who caught the thrown rivet in a cone and placed it in the hole; the bucker-up, who held a dolly bar against the rivet head while it was driven; and the riveter himself, who wielded the pneumatic gun. "The whole thing was about timing," Delahanty said. "The heater throws the rivet — and I mean throws, across open air, maybe thirty feet up — and the sticker-in has to catch it. Hot steel. If you miss the cone, it falls. If it falls from where we were working, it hits the water or it hits the deck or it hits somebody. Everything depended on the catch."
+
+He told me this with the kind of granular specificity that people use when they've told a story many times but are telling it honestly rather than performing it. His eyes went to the middle distance, not to me. He was seeing the forge, the arc of the thrown rivet, the catch.
+
+"You talk to enough of these guys," the man who didn't want to be named said, "and you start hearing the same beats. The rivet, the wind, the height. The beauty of it. And it was beautiful — I won't deny it. But there's a selection bias. The guys who come to the bar and tell the stories are the guys who survived. The guys it broke don't tell stories."
+
+I asked what he meant by "broke."
+
+"Knees. Backs. Lungs. Marriages. All of the above. A lot of these guys — " He gestured around the bar as if it were full, though it contained only us. "A lot of these guys didn't get old."
+
+I asked about the workforce on the Verrazano. Who was there. Where they came from.
+
+Delahanty described the Mohawk crews from Kahnawake, near Montreal, who had a reputation as the best high-steel workers in the world — a reputation based in reality, he said, earned across three generations of ironwork starting with the Quebec Bridge in 1907. He described the Newfoundlanders, who came because the work paid better than anything available in Newfoundland, which was not a high bar. He described men from the Carolinas, from West Virginia, from Kentucky. He described the apprenticeship system, the union structure, the hierarchy of skills.
+
+I asked specifically about Black workers on the Verrazano.
+
+Delahanty went quiet. Not the quiet of a man who doesn't know the answer but the quiet of a man rearranging the question in his head.
+
+"There were some," he said. "Not in my crew. In some of the other gangs. The local out of Brooklyn had Black members. I didn't work with them directly."
+
+"Why not?"
+
+"Because that's not how the crews were organized."
+
+He said this matter-of-factly, without defensiveness, the way you'd describe any other feature of the work environment. The crews were organized the way they were organized. Steel came from Bethlehem. Coffee came from the Greek place on 69th Street. Black workers were in other gangs. These were facts of equivalent status in his account, and I understood that pressing the point would produce either resentment or a more elaborate version of the same non-explanation.
+
+The man who didn't want his name used leaned toward me. "You want to know what the Verrazano was like for the colored guys, you're about forty years too late. The men who could tell you that story are dead. And the men who are alive — " He looked at Delahanty. "We can tell you what we saw. We can't tell you what they saw. That's not the same thing, and if you're honest in what you write, you'll say so."
+
+I am saying so.
+
+Delahanty ordered another beer. The bartender, a woman in her fifties who had said nothing during my entire visit but had been listening with the attentive stillness of someone who has heard every version of every bridge story this bar contains, brought it without being asked. She set it on a paper coaster that said SALTY DOG in faded blue ink, and Delahanty wrapped his damaged hand around the glass, and for a moment I saw in that gesture the entire argument of the essay I hadn't yet written: the hand that held the rivet gun now holding a glass of beer in a bar that exists because the bridge exists, the bridge that exists because the hand held the rivet gun, the closed loop of labor and memory and a Thursday afternoon in Bay Ridge.
+
+---
+
+Here is something I found in the Municipal Archives on Chambers Street: a payroll ledger from the Manhattan Bridge construction, 1901-1909. The ledger lists workers by last name, first initial, and daily wage. There is no column for race. This absence is itself a kind of information. The men who designed the record-keeping system — the engineers, the project managers, the city bureaucrats — did not consider a worker's race worth recording. From one angle, this looks like equality: a man is a man, a wage is a wage. From another angle, it looks like the administrative infrastructure of erasure. If you don't record who was there, you can later claim that anyone was, or no one was, depending on the argument you need to make.
+
+I spent two days in the archives. I found payroll records, injury reports, construction photographs, engineering drawings. I found a letter from the chief engineer to the city comptroller requesting additional funds for "sanitary facilities at the Brooklyn anchorage." I found a photograph of a work crew on the catwalk of the Williamsburg Bridge, dated 1902, in which every visible face is white. I found another photograph, undated, from what appears to be the same bridge, in which at least three of the men are Black. The photographs are stored in different folders. Nobody has cross-referenced them. Nobody has tried to build a complete picture of who built the Williamsburg Bridge because that was not, apparently, a question the archive was designed to answer.
+
+Archives are infrastructure too. They hold up the stories we tell about ourselves, and like all infrastructure, they are designed — designed to bear certain loads and not others. A bridge can carry sixty thousand cars a day. It cannot carry a question it was not engineered to support.
+
+I am aware that I am reaching toward metaphor here, which is the occupational hazard of the writer confronted with the literal. A bridge is a bridge. A payroll ledger is a payroll ledger. But the gap between what the ledger records and what the city needed to know is the same gap I keep encountering everywhere: the space between the structure and the story, the built thing and the human cost, the surface you drive across and the depth you'd prefer not to consider.
+
+---
+
+The Cross-Bronx Expressway was built between 1948 and 1972, and it destroyed approximately sixty thousand homes.
+
+I don't mean "destroyed" as rhetorical inflation. I mean demolished. Condemned and knocked down. The highway required a corridor, and the corridor went through the middle of neighborhoods — East Tremont, Morris Heights, Crotona Park East — that were home to working-class and middle-class families, many of them Black, many of them Puerto Rican, many of them Jewish. Robert Moses, who oversaw the construction, had the authority to choose the route, and he chose a route through residential neighborhoods rather than one that would have curved through an industrial area to the south — a route that engineers had proposed and that would have displaced far fewer people.
+
+This is well-documented history. Robert Caro wrote about it in *The Power Broker*. Marshall Berman wrote about it in *All That Is Solid Melts into Air*. The story is not obscure. What I wanted to understand was not the history but the present — what the highway looks like now, what it sounds like, what it feels like to stand above it and to live beside it.
+
+I took the B/D train to Tremont Avenue and walked south. The neighborhood is alive — I want to be clear about that. This is not a ruin. People live here. Dominican grocery stores with pyramids of avocados in the window. A barbershop with a hand-lettered sign offering cuts for twelve dollars. Kids on scooters. A woman leaning out of a second-floor window, arguing with someone on the phone in a mixture of Spanish and English that was too fast for me to follow, though I caught the word "ridiculous" delivered with a conviction that suggested she was winning.
+
+And then the expressway. You hear it before you see it — a constant low-frequency roar that sits underneath every other sound the way a bass note sits underneath a chord. When you reach the overpass on East Tremont Avenue, you look down into a trench of concrete and moving steel, six lanes in each direction, trucks and cars in a flow that never stops, that has not stopped since 1972, that will not stop until the road itself crumbles or the city decides to demolish it, which the city will not do because the city needs the road the way it needs the tunnel, the bridge, the pipe — as a load-bearing element in a system that has been designed to be irreversible.
+
+A woman named Dolores Vega was standing at the bus stop on the overpass. She was sixty-one and had lived in the neighborhood for thirty-four years — which means she arrived in 1992, two decades after the highway was finished, into a neighborhood already shaped by the highway's presence. She didn't remember a "before." The highway was always there, the way the subway is always there, the way the rent is always there. I asked her about the noise.
+
+"You stop hearing it," she said. "Or you hear it but you don't hear it. It's like — you know how the refrigerator hums? You don't notice until it stops. But it never stops. So you never notice."
+
+I asked if she thought about the highway as something that had been done to the neighborhood.
+
+"Done to us?" She looked at me like the question was funny and also slightly offensive. "It's a road. My nephew uses it to get to work in New Jersey. My daughter takes it to the airport. It's a road."
+
+She was right, and I was the outsider who'd arrived with a thesis and was looking for someone to confirm it. The highway destroyed sixty thousand homes and the highway takes Dolores Vega's nephew to work. Both of these things are true simultaneously, and the simultaneity is the point — or should be, if the essay is honest, which I am trying to make it but cannot guarantee.
+
+I stayed on the overpass for another forty minutes after she left on the Bx40. Below me, the traffic moved. I counted trucks for a while — semis, box trucks, flatbeds carrying bundled rebar and shrink-wrapped pallets of something I couldn't identify. The trucks were delivering materials to construction sites, factories, warehouses, the same distributed metabolism of labor and supply that the highway had been built to serve. The efficiency was real. The destruction was real. The efficiency and the destruction were the same act, seen from different elevations.
+
+A boy, maybe eleven, stopped his bicycle next to me on the overpass and looked down at the traffic. He had a Knicks jersey on, too big for him, and he stood there for about thirty seconds with one foot on the pedal and one on the ground, and then he rode off without comment. I wanted to ask him what he saw when he looked at the highway. I didn't. He was eleven and had somewhere to be and I was a man with a notebook standing on an overpass in the Bronx trying to extract meaning from infrastructure, which is not a project that requires the participation of children on bicycles.
+
+---
+
+Back underground. The subway.
+
+I rode the A train from 207th Street to Far Rockaway, which takes approximately ninety minutes and traverses the entire length of Manhattan, the width of Brooklyn, and a long exposed stretch across Jamaica Bay on a trestle that offers, on a clear day, a view of the Atlantic Ocean that would be worth the fare even if the fare bought nothing else.
+
+The subway is the city's most democratic infrastructure and also its most stratified. Everyone rides it. Not everyone rides it the same way. A woman in a suit reading the Financial Times at 59th Street is having a different subway experience than a man asleep across three seats at Nostrand Avenue, and the difference is not merely attitudinal — it is architectural. The express trains serve different neighborhoods than the locals. The stations in Midtown have been renovated; the stations in the outer boroughs have not, or have been renovated partially, or were renovated in 1982 and haven't been touched since. At Chambers Street the tile work is original and beautiful. At Rockaway Boulevard the ceiling leaks onto the platform and someone has placed a bucket under the drip, and the bucket has been there, based on its rust pattern, for years.
+
+I mention these details not to perform outrage but because infrastructure speaks through its maintenance. What you repair, you value. What you leave to leak, you have decided is tolerable. The decision is rarely made by a single person in a single moment; it accumulates through budgets and deferrals and shifting priorities and the particular inertia of bureaucracies whose mandate is to keep the system running, not to keep it equal. But the leak at Rockaway Boulevard and the restored tile at Chambers Street say something about whom the system is running for, and the fact that both stations charge the same fare does not make them the same station.
+
+Beneath Eighth Avenue in Midtown, the tunnel runs through rock that was cut by hand in the early 1900s. The original subway construction — the IRT, opened in 1904 — used a method called cut-and-cover for most of its length: dig a trench, build the tunnel, cover it up. But in sections where the bedrock was close to the surface, they blasted and excavated, and the men who did this work — the sandhogs, the drillers, the muckers — worked in conditions that would be criminal by current safety standards. No ear protection. Minimal ventilation. Rock dust in quantities that guaranteed silicosis for long-term workers. Fatality rates that the newspapers reported, when they reported them at all, in the same register they used for weather: twelve dead at the 42nd Street excavation, seven at the Harlem tunnel, the numbers absorbed into the general fact of the city's construction as if dying underground were a natural phenomenon rather than an industrial one.
+
+I tried to find out who these men were. The archives are thin. The IRT kept employment records that were partially destroyed in a 1911 fire, and what survives is fragmentary — names without addresses, wages without demographics. What I know from secondary sources is that the workforce included recent immigrants from Italy, Ireland, and Eastern Europe, along with Black men from the South who had come north for the same reason everyone came north: the work, however dangerous, paid more than no work at all.
+
+One name I found: Alonzo P. Richardson, listed on a compensation claim filed in 1906 for injuries sustained during blasting operations at the 96th Street station. The claim describes "fracture of the left tibia, contusions to the thorax, temporary loss of hearing in both ears." It lists his daily wage as $2.25, which was the common laborer's rate. The skilled workers — the drillers and blasters — made more. Richardson was a mucker, which meant he shoveled the broken rock into carts after the blasters were done. The claim was denied. The stated reason was "failure to demonstrate that injury occurred during the performance of assigned duties," which is the kind of sentence that sounds reasonable until you think about what it means: a man shoveling rock in a subway tunnel a hundred feet below the street was somehow required to prove that the blast that broke his leg happened at work.
+
+I don't know what became of Alonzo Richardson. I couldn't find him in the census records from 1910 or 1920, which may mean he moved, or died, or was recorded under a different name, or was simply missed by the census taker, which happened frequently in the neighborhoods where men like Richardson lived. He exists in the archive as a claim that was denied, and then he doesn't exist.
+
+---
+
+On my last day in the city I walked across the Brooklyn Bridge at dawn. I'd been doing this most mornings, not as a ritual but because my hotel was in Downtown Brooklyn and the bridge was there and walking it was better than the subway at six a.m. when what I wanted was air and light and the physical fact of a structure older than anyone alive.
+
+The bridge was completed in 1883 and it killed approximately thirty men during construction, including its chief engineer, Washington Roebling, who didn't die but was crippled by caisson disease — decompression sickness — and supervised the final years of the project from his apartment in Brooklyn Heights, watching through a telescope while his wife, Emily Warren Roebling, carried his instructions to the site. The Roeblings are famous. Their names are on plaques. The men who died in the caissons — the underwater chambers where workers excavated the riverbed to reach bedrock — are not famous. Some of their names are recorded and most are not.
+
+I walked the bridge and I thought about Alonzo Richardson's denied claim. I thought about Dale Tompkins in Water Tunnel No. 3, six hundred feet underground, checking the bore alignment on a project that has been under construction for his entire life. I thought about Jimmy Delahanty's hands and the man at The Salty Dog who didn't want his name used, who had said: the guys it broke don't tell stories.
+
+I thought about Dolores Vega at the bus stop. You stop hearing it. Or you hear it but you don't hear it.
+
+The bridge beneath my feet was vibrating. It always vibrates — the vehicular traffic on the lower deck, the subway trains that ran there until 1944, the pedestrians and cyclists and wind. A suspension bridge is not a static object. It moves. It flexes. The cables expand and contract with temperature. The towers shift. The roadway rises and falls by as much as three feet over the course of a year, responding to thermal loads and traffic loads and wind loads and the accumulated weight of everyone who has ever crossed it, which is, at this point, hundreds of millions of crossings, hundreds of millions of bodies carried from one shore to the other on cables that were spun by hand in 1877 and have not been replaced.
+
+The load is not only physical. That is the thing I kept circling back to and could not find a way to say that didn't sound like a writer reaching for profundity he hadn't earned. But I mean it literally, or close to literally: a bridge carries everything that crosses it, and what crosses it includes the reasons people cross, which include work and escape and love and necessity and desperation and habit, and these reasons are not weightless. They don't register on a strain gauge. But they are part of the bridge's function, and the bridge's function is the only reason the bridge exists, and the people who built the bridge — whose names are mostly lost, whose races are mostly unrecorded, whose injuries were denied and whose deaths were reported like weather — built it knowing, or at least accepting, that the bridge would outlast them and that its continued existence would be credited to the engineers and the politicians and the city rather than to the men who stood in compressed air at the bottom of the river and breathed pain into their bones so that I could walk to Manhattan in the morning light and feel, perhaps unjustifiably, that something worth understanding was almost within reach.
+
+I have been careful in this essay not to claim knowledge I don't have. I don't know the demographics of the sandhog workforce in 1904. I don't know what Alonzo Richardson looked like. I don't know what happened to the Black ironworkers on the Verrazano whom Jimmy Delahanty didn't work with and couldn't or wouldn't describe. What I know is the shape of the absence — the gap in the payroll ledger where the column for race should have been, the denied compensation claim, the two photographs in different folders that nobody has cross-referenced, the quiet that settled over a retired ironworker when I asked a question the archive hadn't equipped him to answer.
+
+The city is built on these silences. It runs on them. The water that comes out of your tap traveled through a tunnel that has been under construction for fifty-six years and has killed twenty-four men or more, depending on who's counting and what they count, and the water is clean and cold and arrives at pressure and you don't think about it, which is the design, which is the miracle, which is the problem.
+
+---
+
+I flew home in the afternoon. At LaGuardia, waiting at the gate, I watched a maintenance crew on the tarmac servicing a regional jet. Three workers in reflective vests. One was lying on his back under the fuselage doing something I couldn't identify from the terminal window. The other two were standing nearby, one holding a clipboard, one drinking from a thermos. They looked cold. The wind on the tarmac was strong enough to press the fabric of their vests flat against their chests.
+
+I watched them for ten minutes. Nobody else at the gate looked at them. The other passengers were on their phones, or reading, or staring at the departure board with the fixed, evacuated expression of people who have surrendered their time to the airport and are waiting to get it back. The workers on the tarmac were invisible in the way that all infrastructure workers are invisible: present, necessary, unseen. The plane would fly because they did their job. The passengers would land safely because a man lying on the tarmac in the wind had checked or tightened or replaced something underneath the aircraft. His name was embroidered on his vest but I was too far away to read it.
+
+I almost got up. I almost went to the window and pressed my face against the glass to read his name. I didn't. My flight was boarding and I had a column to file and it was cold on the tarmac and the man was doing his job, not performing it for my benefit, and the gap between his work and my attention was not a gap I could close by learning his name, any more than I could close the gap in the payroll ledger or restore Alonzo Richardson's denied claim or explain why Jimmy Delahanty's crew on the Verrazano didn't include Black ironworkers.
+
+Some gaps are structural. They are built into the bridge. You close them with expansion joints — segments of flexible material that accommodate the movement without breaking the deck. The engineers call this tolerance. The tolerance is designed. It has to be, because the loads change — temperature, traffic, wind — and a structure with no tolerance is a structure that cracks.
+
+I don't know what the tolerance is for the stories the city tells about itself. I don't know how much absence the archive can accommodate before the record breaks. I know that the water runs and the bridges hold and the tunnel is almost finished and the men who built these things are mostly gone, and the city, which is not indifferent and not malicious but something harder to name — the city sorts and ignores, simultaneously, permanently, by design — and the loads keep shifting, and the cables hold, and somewhere underneath all of it a man named Dale is checking the alignment of a bore that will carry water to people who will never know his name, and the work continues, and the work is the structure, and the structure is the city, and the city does not say thank you. It says: more.
