@@ -7,8 +7,8 @@ authorA: "Jack London"
 authorB: "Herman Melville"
 workX: "The Road by Cormac McCarthy"
 workY: "Wild by Cheryl Strayed"
-wordCount: 5529
-readingTimeMinutes: 22
+wordCount: 5145
+readingTimeMinutes: 21
 tags:
   - expedition-journey-narrative
   - grief
@@ -131,15 +131,15 @@ She walks back to the canoe. Bails the remaining water. Checks the straps, the b
 
 ---
 
-That night she camps on a bench above the river. The site is sandy, ringed by firs, and she can hear the water below — the continuous sound of it, which is the sound of moving and not arriving, of transit without destination, of a thing that passes through a landscape and leaves the landscape as it found it.
+That night she camps on a bench above the river. The site is sandy, ringed by firs, and she can hear the water below — the continuous sound of it, which does not change whether she listens or not.
 
-She builds a fire from the driftwood stacked above the high-water line. The wood is fir and alder, silver with age, and it burns hot and fast. She sits with her back against a log and eats rice and lentils from the pot and drinks coffee brewed in the pot after she has scraped the rice out, and the coffee tastes like lentils and she drinks it anyway.
+She builds a fire from the driftwood stacked above the high-water line. The wood is fir and alder, silver with age, and it burns hot and fast. She sits with her back against a log and eats rice and lentils from the pot and drinks coffee brewed in the pot after she has scraped the rice out, and the coffee tastes like lentils and the lentils tasted like the pot and she drinks it anyway.
 
 The fire pops. A knot of pitch in a fir log exploding where the heat finds it. She flinches. Then sits still again.
 
 The dark comes down over the valley like something poured. There is no gradual dimming — the overcast holds the last light for an hour and then releases it all at once, and the world contracts to the circle of firelight and the sound of the river below, and beyond both of these, nothing. Not silence — the river does not permit silence — but an absence of everything that is not water and fire. Two elements. Enough.
 
-She should set up the tent. She should filter water and fill the bottles for tomorrow. She should check her gear, assess the damage from Copper Creek, plan the morning. She does none of these things. She sits by the fire and feeds it driftwood and watches the flames and she is very tired, the kind of tired that lives in the bones, not the muscles — the kind that sleep does not address because it is not caused by exertion but by something else, something the body carries that has no weight and takes all strength.
+She should set up the tent. She should filter water and fill the bottles for tomorrow. She should check her gear, assess the damage from Copper Creek, plan the morning. She does none of these things. She sits by the fire and feeds it driftwood and watches the flames and she is very tired, the kind of tired that lives in the bones, not the muscles — the kind that sleep does not address.
 
 ---
 
@@ -165,13 +165,13 @@ She does not know what else.
 
 He says: You felt what wrong feels like. Now you know. The water just taught you and it did not need words to do it. Don't forget.
 
-She did not forget. She is sitting by a fire on the Skagit thirty years later and she has not forgotten what wrong feels like. She has since felt it in many other contexts. It always feels the same — the current grabbing something and taking it sideways, the sudden understanding that the angle is wrong and the force is greater than the correction available, and then either the correction comes from somewhere or it does not.
+She did not forget. She is sitting by a fire on the Skagit thirty years later and she has not forgotten what wrong feels like — the current grabbing something and taking it sideways, the sudden understanding that the angle is wrong and the force is greater than the correction available. Sometimes the correction comes from somewhere. Sometimes it does not.
 
 She pokes the fire. The embers shift and resettle.
 
 ---
 
-In the morning the fire is ash and the river is still there. This is the thing about rivers — they do not leave. They are not loyal and they are not waiting; they are simply continuous. The water that passes her campsite this morning is not the water that passed it last night, but the river is the same river, and this is a distinction that matters, or does not matter, or matters in a way she cannot hold in her mind long enough to name, the way you cannot hold a river in your mind because a river is not a thing but a process, a continuous series of events mistaken for an object, which is perhaps also what a person is, which is perhaps also what grief is — not a thing you carry but a motion that carries you, and you are in it or you are not, and the banks go by whether you watch them or not.
+In the morning the fire is ash and the river is still there. The water that passes her campsite this morning is not the water that passed it last night, but the river is the same river, and she has never been able to hold this distinction in her mind long enough to do anything with it.
 
 She breaks camp. Packs the dry bags. Rolls the tent, still damp, into its stuff sack. Pours water on the fire's remains and the steam rises and smells of wet ash and she waits until the hissing stops before she turns away. Her father taught her this: you wait until the fire is dead, not dying, because a dying fire and a dead fire look the same from a distance and one of them can still burn down a forest. She waits. The hissing stops. She loads the canoe and pushes off.
 
@@ -201,9 +201,9 @@ It is still there. She drove past the house on her way to the put-in yesterday m
 
 People brought food. For two weeks after the funeral, people brought food in covered dishes and foil pans and Tupperware with their names written on masking tape on the lids, and she stacked the food in the refrigerator and on the counter and she did not eat it. The lasagnas congealed. The casseroles crusted. A fruit salad turned to sweet brown mush in its bowl.
 
-She ate toast. She ate toast because making toast required two actions — put the bread in, push the lever — and two actions were the maximum number of sequential decisions she could make. Three actions and she would stall out, standing in the kitchen with the refrigerator door open, unable to select between the lasagna and the casserole, unable to assess what she wanted because wanting required a self and the self had gone somewhere she could not follow.
+She ate toast. She ate toast because making toast required two actions — put the bread in, push the lever — and two actions were the maximum number of sequential decisions she could make. Three actions and she would stall out, standing in the kitchen with the refrigerator door open, unable to select between the lasagna and the casserole.
 
-She returned the dishes. Clean, hand-washed, dried. She drove to each house and handed each dish through each doorway and said thank you and drove to the next house. It took an entire day. She was efficient about it. The efficiency was the only thing that still worked — the motor function of tasks, the body moving through a sequence because a sequence had been initiated and the body does not stop a sequence midway unless instructed. Nobody had instructed.
+She returned the dishes. Clean, hand-washed, dried. She drove to each house and handed each dish through each doorway and said thank you and drove to the next house. It took an entire day. She was efficient about it. The efficiency was the only thing that still worked.
 
 ---
 
@@ -247,8 +247,8 @@ She loads the dry bags into the truck bed. The food barrel. The paddle — her f
 
 She sits in the truck. The key is in her pocket. She puts it in the ignition and the engine starts and the heater blows cold air and then warm air and she sits with her hands on the steering wheel, the warm air moving over her ruined hands, and she does not drive anywhere for a long time.
 
-The river, below the ramp, continues. The water moves through the gravel bar where her canoe rested and the gravel does not remember the canoe's weight. The current bends at the same bend. The Dalles pour through the same chute. The rapid at Copper Creek drops over the same ledge and the hydraulic at its base recycles the same water into the same foam and the water does not remember her passage through it, does not know she passed, has no mechanism for knowing, because the river is not a thing that knows. The river is a thing that moves. And the moving does not stop.
+The river, below the ramp, continues. The current bends at the same bend. The Dalles pour through the same chute. Copper Creek drops over the same ledge.
 
-She puts the truck in gear. She drives north on 530 toward Concrete, toward the house, toward the garage where a half-shaped paddle sits in a vise, and the road follows the river the way roads follow rivers — because the river found the valley first, because the river is always finding the valley first, because the water has been doing this work longer than the road and longer than the truck and longer than the woman driving the truck and longer than the man who taught the woman to read it, and the water will do this work after all of them have stopped, and the water does not care about this fact, and the woman does not expect it to.
+She puts the truck in gear. She drives north on 530 toward Concrete, toward the house, toward the garage where a half-shaped paddle sits in a vise, and the road follows the river the way roads follow rivers — because the river found the valley first, because the water has been doing this work longer than the road and longer than the truck and longer than the woman driving the truck and longer than the man who taught the woman to read it.
 
-She drives. The river falls behind her. The heater runs. The paddle rides beside her on the seat, the cherry blade dark with water, and she does not touch it and she does not need to touch it because the feel of it is in her hands now, in the calluses on the inside of her fingers, in the shape her grip makes around a shaft, and this is what she has brought down the river — not peace, not understanding, not the thing the journey was supposed to give her — but the feel of the wood in her hands, which is the feel of her father's hands on the same wood, which is not enough and which is what there is.
+She drives. The river falls behind her. The heater runs. The paddle rides beside her on the seat, the cherry blade dark with water, and she does not touch it. The feel of it is in her hands already — in the calluses on the inside of her fingers, in the shape her grip makes around a shaft. Her father's hands made the same shape around the same wood. She drives toward the house. The half-shaped paddle is still in the vise.
