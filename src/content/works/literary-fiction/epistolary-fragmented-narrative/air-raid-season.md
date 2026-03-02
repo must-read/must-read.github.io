@@ -10,8 +10,8 @@ workY: "The White Album"
 wordCount: 5431
 readingTimeMinutes: 22
 tags: ["epistolary", "voice-messages", "ukraine", "war", "olympics", "distance", "polyphonic"]
-rating: 0
-ratingCount: 0
+rating: 4.1
+ratingCount: 7
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Alexievich's polyphonic testimony meets Tokarczuk's multi-scalar fragmentation in a Rooney-structured correspondence where two women's voice messages accumulate into Didion's fractured witness of catastrophe experienced as ambient detail."

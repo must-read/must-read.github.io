@@ -10,8 +10,8 @@ workY: "Her Body and Other Parties"
 wordCount: 4803
 readingTimeMinutes: 19
 tags: ["paranormal-romance", "queer-romance", "touch-empath", "body-horror", "inherited-ability"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Roberts's propulsive romantic certainty drives a woman with inherited touch-empathy toward a glassblower whose alien emotional frequency rewrites her body from the inside, while Machado's body-horror sensibility makes the cost of that love visible in migraine and phantom sensation and furniture rearranged by hands that know before the mind does."

@@ -10,8 +10,8 @@ workY: "The Fire Next Time"
 wordCount: 4203
 readingTimeMinutes: 17
 tags: ["nature-writing", "levee", "mississippi", "infrastructure", "american-landscape"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 7
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "McPhee's geological patience and engineering detail meet Baldwin's prophetic moral urgency in a nature essay about the Mississippi levee system as both flood infrastructure and instrument of American denial."

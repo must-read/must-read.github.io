@@ -10,8 +10,8 @@ workY: "The Woman in Black"
 wordCount: 2574
 readingTimeMinutes: 10
 tags: ["supernatural-horror", "gothic", "haunted-house", "solicitor", "archival-horror"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Poe's guilt-driven interior dissolution and James's antiquarian documentary horror merge in a solicitor sent to settle a fen estate whose conveyancing records progressively overwrite his professional voice, structured around The Shining's parasitic architecture and The Woman in Black's geography-bound haunting."

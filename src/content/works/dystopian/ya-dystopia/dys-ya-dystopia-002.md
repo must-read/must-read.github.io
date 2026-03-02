@@ -10,8 +10,8 @@ workY: "The House on Mango Street"
 wordCount: 2916
 readingTimeMinutes: 12
 tags: ["ya-dystopia", "managed-district", "vignettes", "compliance", "ordinary-beauty"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Ishiguro's devastating restraint meets Adichie's luminous cultural specificity in a vignette portrait of young people building full lives inside a managed district whose purpose they sense but never name."

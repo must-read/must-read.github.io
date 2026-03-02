@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/hex-index/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Svetlana Alexievich"
 authorB: "Olga Tokarczuk"
