@@ -7,7 +7,7 @@ authorA: "Jonathan Swift"
 authorB: "George Orwell"
 workX: "Animal Farm"
 workY: "A Modest Proposal"
-wordCount: 4349
+wordCount: 4299
 readingTimeMinutes: 17
 tags:
   - bureaucracy
@@ -216,9 +216,13 @@ The minutes of the February 8, 2025 meeting were approved as read.
 
 The Clerk reported that under the amended definition (275-day occupancy + voter registration + property interest or twelve-month lease), the qualifying resident population stands at 2,944. This represents a reduction of 737 individuals from the January figure of 3,681 and a reduction of 1,273 from the original population of 4,217.
 
-The council discussed these figures at length. Councillor Nesbit noted that a qualifying population of 2,944 represents a stronger, more clearly defined community of committed residents and that municipal services can now be allocated with greater precision. Vice-Chair Embry concurred and observed that the reduction should not be understood as an exclusion but rather as a clarification — the town has not lost 1,273 residents but has instead gained a more accurate understanding of who its residents are. Chairperson Halford asked the Clerk to prepare a letter to all reclassified individuals explaining the change in status and thanking them for their ongoing presence in the Fenwick community, noting that the town values all persons within its boundaries regardless of classification.
+The council discussed these figures at length. Councillor Nesbit noted that a qualifying population of 2,944 represents a stronger, more clearly defined community of committed residents and that municipal services can now be allocated with greater precision. Vice-Chair Embry concurred and observed that the reduction should not be understood as an exclusion but rather as a clarification — the town has not lost 1,273 residents but has instead gained a more accurate understanding of who its residents are.
 
-**3. Introduction of Residency Tiers**
+**3. Fenwick Community Calendar**
+
+The Clerk presented the proposed Community Calendar for April through September 2025. Six council-sponsored public events were approved: the Spring Road Clean-Up (April 12), the Fenwick Heritage Walk (May 3), the Municipal Budget Open Forum (May 24), the Summer Civic Picnic (July 19), the Public Works Appreciation Day (August 9), and the Fenwick Founder's Day Lecture (September 6). The Clerk was directed to circulate the calendar to all residents.
+
+**4. Introduction of Residency Tiers**
 
 Vice-Chair Embry, on behalf of the Residential Standards Subcommittee, presented a proposal to introduce a tiered system of residency classification, as follows:
 
@@ -235,7 +239,7 @@ Motion: That the council adopt the tiered residency classification system as Sec
 
 Moved: Embry. Seconded: Nesbit. **Passed 5-0.**
 
-**4. Public Comment**
+**5. Public Comment**
 
 Mrs. A. Gillespie requested time to address the council regarding the tiered system. Chairperson Halford noted that Mrs. Gillespie's residency tier had not yet been determined under the new framework and that her eligibility to participate in the public comment period would be confirmed following the April 1 implementation. In the interim, as a courtesy, her presence was acknowledged.
 
@@ -243,7 +247,7 @@ Mr. K. Varn also attended and submitted a written statement, which the Clerk rec
 
 No other persons wished to address the council.
 
-**5. Adjournment**
+**6. Adjournment**
 
 Meeting adjourned at 9:22 PM.
 
@@ -274,7 +278,7 @@ The Clerk presented the first quarterly review of the tiered residency system. T
 - Tier 3 (Conditional Occupant): 649
 - Tier 4 (Non-Resident Occupant): 973
 
-Total persons occupying dwellings within the municipal boundaries: 4,217 (unchanged).
+Total persons occupying dwellings within the municipal boundaries: 4,217 (unchanged from January census).
 
 The Clerk noted that the Tier 1 population of 1,192 represents 28.3% of the total occupant population. Councillor Nesbit observed that this figure was broadly consistent with expectations and that the council could now consider whether additional criteria might strengthen the Tier 1 category.
 
@@ -286,9 +290,11 @@ Discussion ensued. Vice-Chair Embry expressed support for the principle but ques
 
 Councillor Dey asked whether the six-meeting threshold might be impractical for residents with mobility limitations, childcare obligations, or employment schedules that conflict with evening meetings. Councillor Oakes acknowledged the concern and proposed that the council authorise the Clerk to accept written petitions for participation waivers in cases of documented hardship, to be reviewed by the subcommittee on a case-by-case basis.
 
+Councillor Dey withdrew the objection and noted that the waiver mechanism was satisfactory.
+
 Motion: That the council adopt the Community Participation Standard as an amendment to Section 1.04(c), Tier 1 criteria, effective July 1, 2025.
 
-Moved: Oakes. Seconded: Embry. **Passed 4-1.** (Councillor Dey voting against.)
+Moved: Oakes. Seconded: Embry. **Passed 5-0.**
 
 The Clerk was directed to notify all current Tier 1 residents of the new participation requirement.
 
@@ -339,10 +345,10 @@ The Clerk presented the annual review of the tiered residency system. The figure
 - Tier 1 (Full Resident): 87
 - Tier 2 (Provisional Resident): 714
 - Tier 3 (Conditional Occupant): 823
-- Tier 4 (Non-Resident Occupant): 2,519
-- Persons of Ongoing Institutional Presence: 74
+- Tier 4 (Non-Resident Occupant): 2,514
+- Persons of Ongoing Institutional Presence: 68
 
-Total persons occupying dwellings within the municipal boundaries: 4,217.
+Total persons occupying dwellings within the municipal boundaries: 4,206.
 
 The Clerk noted that the significant reduction in Tier 1 population (from 1,192 to 87) was attributable to the Community Participation Standard, which had resulted in the reclassification of 1,105 former Tier 1 residents who did not meet the six-meeting attendance threshold during the review period. Forty-three waiver petitions had been received; seven were approved.
 
@@ -362,15 +368,15 @@ Moved: Embry. Seconded: Nesbit. **Passed 5-0.**
 
 Councillor Nesbit introduced a proposed amendment requiring Tier 1 residents to submit to quarterly verification of physical presence within the municipal boundaries, to be conducted by the Clerk's office through a combination of utility consumption records, municipal vehicle registration, and in-person verification visits.
 
-Councillor Dey noted that in-person verification visits raise concerns regarding privacy and the burden placed on the Clerk's office. Councillor Nesbit replied that the verification procedure is no more intrusive than a census and that the Clerk's office has the capacity to absorb the additional workload, given the reduced number of qualifying Tier 1 residents.
+Councillor Dey noted that the verification procedure would place a considerable administrative burden on the Clerk's office and asked whether the current staffing level was sufficient. The Clerk confirmed that with the reduced number of qualifying Tier 1 residents, the workload was manageable. Councillor Dey indicated satisfaction with the response.
 
 Motion: That the council adopt the Continuous Presence Verification procedure as an amendment to Section 1.04(c), Tier 1 criteria, effective January 1, 2026.
 
-Moved: Nesbit. Seconded: Oakes. **Passed 4-1.** (Councillor Dey voting against.)
+Moved: Nesbit. Seconded: Oakes. **Passed 5-0.**
 
 **5. Reduction in Municipal Services — Tiers 3 and 4**
 
-The council discussed the allocation of municipal resources in light of the current residency distribution. Councillor Oakes noted that with 3,342 individuals classified as Tier 3, Tier 4, or Persons of Ongoing Institutional Presence — none of whom qualify for full municipal services — the town's service delivery model requires adjustment.
+The council discussed the allocation of municipal resources in light of the current residency distribution. Councillor Oakes noted that with 3,405 individuals classified as Tier 3, Tier 4, or Persons of Ongoing Institutional Presence — none of whom qualify for full municipal services — the town's service delivery model requires adjustment.
 
 The council approved the following changes, effective January 1, 2026:
 
@@ -413,17 +419,17 @@ The Clerk presented the current residency figures:
 
 - Tier 1 (Full Resident): 5
 - Tier 2 (Provisional Resident): 12
-- Tier 3 (Conditional Occupant): 1,408
-- Tier 4 (Non-Resident Occupant): 2,718
-- Persons of Ongoing Institutional Presence: 74
+- Tier 3 (Conditional Occupant): 1,391
+- Tier 4 (Non-Resident Occupant): 2,724
+- Persons of Ongoing Institutional Presence: 62
 
-Total persons occupying dwellings within the municipal boundaries: 4,217.
+Total persons occupying dwellings within the municipal boundaries: 4,194.
 
 The Clerk confirmed that the five Tier 1 residents are the five serving members of the Fenwick Town Council.
 
 The twelve Tier 2 residents were identified as individuals who meet the occupancy, voter registration, property interest, and financial contribution standards but who fell below the six-meeting Community Participation threshold during the previous review period due to documented scheduling conflicts. Three of the twelve have pending waiver petitions.
 
-Vice-Chair Embry congratulated the council on achieving a Tier 1 population of maximum civic commitment and observed that the iterative refinement of the residency definition over the preceding eighteen months had successfully distinguished between those who are invested in Fenwick's governance and those who merely inhabit its geography.
+Vice-Chair Embry noted that the iterative refinement of the residency definition over the preceding eighteen months had successfully distinguished between those who are invested in Fenwick's governance and those who merely inhabit its geography.
 
 **3. Proposed Amendment — Governance Familiarity Standard**
 
@@ -462,13 +468,9 @@ The council reviewed the current municipal budget in light of the residency dist
 
 Moved: Embry. Seconded: Oakes. **Passed 5-0.**
 
-**6. Recognition of Residential Achievement**
+**6. Correspondence**
 
-Chairperson Halford read the following statement into the record:
-
-"The Fenwick Town Council notes with satisfaction that, through a process of careful, incremental, and community-minded refinement of its residency standards, the town has arrived at a definition of 'resident' that accurately reflects the values, commitment, and active participation that residency demands. The council further notes that all current Full Residents are present at this meeting, that all are in good standing under every applicable criterion, and that the town of Fenwick has achieved full residential satisfaction for the first time in its history. The council extends its gratitude to itself for this accomplishment."
-
-The statement was received by acclamation.
+The Clerk reported that the office had received fourteen letters during the February-March period from individuals requesting information about the process for qualifying as a Tier 1 resident. Form responses were sent directing the correspondents to Section 1.04(c) of the Municipal Code. The Clerk noted that none of the correspondents currently meet the criteria for Tier 2 and that the five-year continuous status requirement under criterion (d) cannot begin accruing until all other criteria are satisfied.
 
 **7. Public Comment**
 
@@ -480,9 +482,7 @@ None.
 
 **9. New Business**
 
-Councillor Dey asked whether any mechanism exists for individuals currently classified below Tier 1 to petition for reclassification. The Clerk confirmed that Section 1.04(c) does not prohibit petitions but noted that applicants would need to meet all eight criteria simultaneously, including the five-year continuous status requirement, which cannot begin accruing until all other criteria are satisfied.
-
-Chairperson Halford thanked Councillor Dey for the question and noted that the openness of the process to future applicants demonstrates the council's commitment to inclusivity.
+None.
 
 **10. Adjournment**
 
