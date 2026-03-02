@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/end-of-science/essay.html"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "Hilary Mantel"
 authorB: "Ian McEwan"

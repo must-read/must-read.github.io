@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/democratic-vistas/"
 sourceType: "web-essay"
-status: "in-progress"
+status: "completed"
 priority: 1
 authorA: "Kurt Vonnegut"
 authorB: "Joan Didion"

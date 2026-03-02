@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/turchin/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "Robert Harris"
 authorB: "Mary Renault"

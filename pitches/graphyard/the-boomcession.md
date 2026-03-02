@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/graphyard/articles/boomcession/altair/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "Jennifer Egan"
 authorB: "Ling Ma"

@@ -5,6 +5,7 @@ sourceWork: "Charles Blanchard by Charles-Louis Philippe (1913)"
 sourceSection: "Chapter I: The Cold / Second Version: The Bread"
 genre: literary-fiction
 subgenre: womens-fiction-feminist
+status: "completed"
 priority: 1
 authorA: Toni Morrison
 authorB: Elena Ferrante

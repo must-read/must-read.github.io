@@ -7,7 +7,7 @@ authorB: "Don DeLillo"
 workX: "The Shining"
 workY: "House of Leaves"
 source: "https://bedwards.github.io/epstein/"
-status: "pitch"
+status: "completed"
 priority: 2
 ---
 

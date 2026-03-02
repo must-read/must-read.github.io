@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/hunger/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 1
 authorA: "Franz Kafka"
 authorB: "Yoko Ogawa"
