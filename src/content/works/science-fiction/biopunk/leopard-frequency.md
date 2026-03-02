@@ -7,8 +7,8 @@ authorA: "Octavia Butler"
 authorB: "Ted Chiang"
 workX: "Exhalation by Ted Chiang"
 workY: "Parable of the Sower by Octavia Butler"
-wordCount: 6339
-readingTimeMinutes: 25
+wordCount: 5495
+readingTimeMinutes: 22
 tags:
   - biopunk
   - fear
@@ -41,9 +41,9 @@ combination:
     - "Communities forming and dissolving under pressure; tension between openness and survival"
 ---
 
-The skull on Naomi Osei's desk was a replica, but the puncture marks were accurate to the tenth of a millimeter. Two holes in the parietal bone, 36.2 millimeters apart — the distance between the upper canines of a leopard, recorded in the cranium of a Paranthropus robustus who died in what is now South Africa, three and a half million years ago. Naomi had measured the replica herself with digital calipers on her first day at the lab, and the number had stayed with her the way certain numbers do: not as data but as a kind of address. 36.2 millimeters. The space where a predator's mouth met a primate's brain. The place where fear was invented, or discovered, or first made necessary.
+The skull on Naomi Osei's desk was a replica, but the puncture marks were accurate to the tenth of a millimeter. Two holes in the parietal bone, 36.2 millimeters apart — the distance between the upper canines of a leopard, recorded in the cranium of a Paranthropus robustus who died in what is now South Africa, three and a half million years ago. Naomi had measured the replica herself with digital calipers on her first day at the lab, and the number had stayed with her the way certain numbers do: not as data but as an address. 36.2 millimeters. The space where a predator's mouth met a primate's brain. The place where fear was invented, or discovered, or first made necessary.
 
-She kept the skull between her monitor and a photograph of her mother, who had died of a stroke at fifty-nine, and who had spent the last decade of her life unable to sleep more than four hours without waking to check the locks. Insomnia, anxiety, mild agoraphobia — the standard suite. Her mother's doctors had called it generalized anxiety disorder, which Naomi understood now was like calling a forest fire "generalized combustion." The diagnosis named the symptom and missed the architecture entirely.
+She kept the skull between her monitor and a photograph of her mother, who had died of a stroke at fifty-nine after a decade of sleeping no more than four hours without waking to check the locks. Her mother's doctors had called it generalized anxiety disorder, which Naomi understood now was like calling a forest fire "generalized combustion." The diagnosis named the symptom and missed the architecture entirely.
 
 The architecture was what Naomi had spent eleven years mapping. Not the amygdala itself — everyone knew the amygdala — but the specific frequency at which it fired when processing predator threat versus social threat versus abstract threat. Her work showed that these were not the same signal processed differently, as the modular model suggested, but genuinely different signals stacked on a common carrier. The oldest signal — predator threat, the leopard — ran at the base frequency. Social threat modulated on top of it. Abstract threat, the modern kind, rode on top of that. Three layers. Three evolutionary epochs. One circuit.
 
@@ -53,7 +53,7 @@ The therapy was called amygdalar frequency isolation, or AFI, and it worked by i
 
 She had a replica of SK-54 made for the intake room. Patients sat across from it during their initial consultation, and Naomi would pick it up, turn it in her hands, point to the puncture marks. "This is what we're treating," she'd say. "Not your anxiety. Your leopard. The circuit that makes you scan for threats that aren't there — the reason you can't sleep, the reason your chest tightens on the subway, the reason you check your phone forty times a day for bad news. That circuit is three and a half million years old, and it is responding to a predator that no longer exists. We're going to turn it down."
 
-She believed every word. The trial data, when it came, confirmed her belief so completely that it should have made her suspicious.
+She believed every word. The trial data confirmed her belief so completely that it should have made her suspicious.
 
 ---
 
@@ -67,11 +67,11 @@ Naomi watched the change in Dara's bloodwork, her cortisol curves, her sleep arc
 
 "Most people do," Naomi said. "They just have different volumes."
 
-"I keep trying to explain it to my sister, and she looks at me like I'm describing a color she can't see." Dara set the skull down gently, centered it on the table the way a person arranges a vase. "She asked if I was afraid it would come back. I said no. She asked if I was afraid of anything. I had to think about it. I said, 'I'm afraid of being unkind.' She didn't know what to do with that."
+"I keep trying to explain it to my sister, and she looks at me like I'm describing a color she can't see." Dara set the skull down gently, centered it on the table like a vase. "She asked if I was afraid it would come back. I said no. She asked if I was afraid of anything. I had to think about it. I said, 'I'm afraid of being unkind.' She didn't know what to do with that."
 
-Naomi noted the exchange in Dara's file under *qualitative response*, and the warm feeling in her chest was not, she told herself, personal satisfaction. It was the recognition of a hypothesis confirmed. The predator frequency had been carrying Dara's anxiety. The social and abstract circuits remained intact. The system was working exactly as the model predicted.
+Naomi noted the exchange in Dara's file under *qualitative response*. The warm feeling in her chest was not, she told herself, personal satisfaction. It was the recognition of a hypothesis confirmed.
 
-By week twelve, all forty-two patients had completed the protocol. Thirty-nine showed significant improvement. Three showed no change, which was within expected parameters for peptide delivery variance. The thirty-nine were sleeping. They were working. They were driving without gripping the steering wheel until their knuckles whitened. They were, several of them reported, happy for the first time in memory, although happiness was not, Naomi reminded them, a clinical endpoint.
+By week twelve, all forty-two patients had completed the protocol. Thirty-nine showed significant improvement. Three showed no change, which was within expected parameters for peptide delivery variance. The thirty-nine were sleeping. They were working. They were driving without gripping the steering wheel until their knuckles whitened. Several of them reported happiness for the first time in memory, although happiness was not, Naomi reminded them, a clinical endpoint.
 
 She submitted the Phase I results and began designing Phase II.
 
@@ -85,15 +85,15 @@ Naomi asked, carefully, whether the husband shouted often.
 
 "No. But my response to it has. Isn't that what we wanted?"
 
-Naomi wrote a note in the file: *Patient reports diminished startle/freeze response to domestic verbal aggression. Social cognition intact — patient accurately identifies husband's emotional state. Behavioral response: observation without protective withdrawal.* She stared at the note for a long time. Reva's social circuits were reading the room correctly. She knew her husband was angry. She simply couldn't produce the body's ancient instruction to make herself small, to go quiet, to locate the nearest exit. The leopard had carried that instruction. The leopard was gone.
+Naomi wrote a note in the file: *Patient reports diminished startle/freeze response to domestic verbal aggression. Social cognition intact. Behavioral response: observation without protective withdrawal.* She stared at the note. Reva's social circuits were reading the room correctly. She knew her husband was angry. She simply couldn't produce the body's ancient instruction to make herself small, to go quiet, to locate the nearest exit. The leopard had carried that instruction.
 
-She added the note to the follow-up database and did not flag it, because it was not, by any clinical measure, a deterioration.
+She added the note to the follow-up database and did not flag it.
 
 ---
 
-The first anomaly she *did* recognize surfaced in the six-month follow-up data, and it had been hiding inside all the data that looked like health.
+The first anomaly she *did* recognize surfaced in the six-month follow-up data, hiding inside all the data that looked like health.
 
-Patients reported increased trust in interpersonal relationships. They described strangers as "less threatening" and social situations as "lighter." Three patients who had been in therapy for codependency reported that their therapists were concerned — they were being "too open" with new acquaintances, sharing personal information too readily, failing to maintain what the therapists called "appropriate boundaries." One patient, a man named Solomon Garrett, had lent eight thousand dollars to a coworker he'd known for three weeks. He did not seem distressed about this. He described the coworker as "someone who needed help," and when Naomi asked whether he'd considered the possibility of being exploited, he gave her an expression she couldn't immediately categorize.
+Patients reported increased trust. They described strangers as "less threatening" and social situations as "lighter." Three patients in therapy for codependency reported their therapists were concerned — they were being "too open" with new acquaintances, sharing personal information too readily, failing to maintain what the therapists called "appropriate boundaries." One patient, a man named Solomon Garrett, had lent eight thousand dollars to a coworker he'd known for three weeks. He did not seem distressed about this. He described the coworker as "someone who needed help," and when Naomi asked whether he'd considered the possibility of being exploited, he gave her an expression she couldn't categorize.
 
 "Why would I consider that?" he asked. Not defensively. Genuinely. As if the concept had been presented to him in a language he'd once spoken and had since forgotten.
 
@@ -115,17 +115,17 @@ Naomi looked at the skull on her desk. The puncture marks. 36.2 millimeters.
 
 "The social circuits are intact."
 
-"The social circuits are running on empty. They're still computing, still producing outputs, but the outputs don't connect to the motor system, to the gut, to the part of behavior that makes someone actually change what they're doing. It's like — " Jamie paused, constructing the metaphor carefully, the way he always did. "You know how a radio needs a carrier wave to transmit audio? The audio is modulated onto the carrier. Without the carrier, the audio signal still exists, but there's no mechanism to broadcast it. You silenced the carrier. The audio is still playing in the patients' prefrontal cortices. It's just not reaching their bodies."
+"The social circuits are running on empty. They're still computing, still producing outputs, but the outputs don't connect to the motor system, to the gut, to the part of behavior that makes someone actually change what they're doing. You silenced the carrier wave. The audio is still playing in their prefrontal cortices. It's just not reaching their bodies."
 
-Naomi did not sleep well that night, which she noted with a kind of bitter professionalism, because her own predator frequency was entirely intact.
+Naomi did not sleep well that night. Her own predator frequency was entirely intact.
 
 ---
 
 The disappearances did not begin dramatically. They began with addresses.
 
-Dara Josephs moved in the ninth month, leaving her apartment in Southeast D.C. for a collective house in Columbia Heights that she'd found through a friend of a friend. The collective was composed of six people who shared cooking, rent, and what Dara described as "a willingness to be present with each other." Three of the six were AFI patients. The other three were not, but they had been drawn into the household by the extraordinary calm that the treated patients projected — a gravitational pull that Naomi, reading Dara's update, recognized with growing unease as the social consequence of absent wariness.
+Dara Josephs moved in the ninth month, leaving her apartment in Southeast D.C. for a collective house in Columbia Heights that she'd found through a friend of a friend. The collective was composed of six people who shared cooking, rent, and what Dara described as "a willingness to be present with each other." Three of the six were AFI patients. The other three were not, but they had been drawn into the household by the deep calm that the treated patients projected — a gravitational pull that Naomi, reading Dara's update, recognized with growing unease as the social consequence of absent wariness.
 
-Untreated people were attracted to the treated ones. Of course they were. A person without the ambient tension of threat-readiness was a person who felt safe to be around. Their body language was open. Their voice was unhurried. They listened without the micro-flinches of a mammalian nervous system scanning for danger in every social encounter. Being near them was like standing next to a still body of water — the calm was contagious, neurologically, through mirror-neuron entrainment. Naomi understood the mechanism and was not comforted by it.
+Untreated people were attracted to the treated ones. Of course they were. A person without the ambient tension of threat-readiness felt safe to be around. Their body language was open. Their voice was unhurried. They listened without the micro-flinches of a nervous system scanning for danger in every social encounter. The calm was contagious — mirror-neuron entrainment, Naomi's discipline called it. She understood the mechanism and was not comforted by it.
 
 In the eleventh month, two patients stopped responding to follow-up calls. Not all at once — the first, a retired teacher named Pauline Morrow, missed one appointment, then another. When Jamie drove to her listed address, a neighbor said Pauline had gone to stay with "some people up in Baltimore" and that she'd seemed fine, happy even, and had given the neighbor her television before leaving.
 
@@ -159,9 +159,9 @@ The woman considered this with the untroubled concentration of someone who had g
 
 "But not where."
 
-"Why would she need to tell us where?" The woman was not being evasive. She was asking a real question. The concept of needing to know where someone had gone — the monitoring impulse, the background hum of *what if something happens* — had simply departed from her cognitive repertoire. She was standing in an unlocked house with fourteen strangers, in a neighborhood where the adjacent block had three boarded windows and a stripped car, and she was offering tea to a woman she'd never met with the serene, unfortified hospitality of someone who had never been given a reason to expect harm.
+"Why would she need to tell us where?" She was not being evasive. She was asking a real question. The concept of needing to know — the monitoring impulse, the background hum of *what if something happens* — had departed from her entirely. She was standing in an unlocked house with fourteen strangers, in a neighborhood where the adjacent block had three boarded windows and a stripped car, and she was offering tea with the unfortified hospitality of someone who had never been given a reason to expect harm.
 
-Naomi drank the tea. It was good — loose-leaf, steeped correctly, served in a clean mug. The house was clean. The people were healthy. Nobody seemed coerced or confused or impaired. If anything, they seemed more attentive to each other than most people — touching each other's arms when they passed, making eye contact that lasted a beat longer than social convention permitted. The neurologist in Naomi catalogued this as expected: without predator-response dampening social approach behavior, the natural mammalian drive toward affiliation would express itself more freely. Grooming behavior. Pair bonding. Proximity maintenance. All elevated. All, in a controlled environment, perfectly adaptive.
+Naomi drank the tea. It was good — loose-leaf, steeped correctly, served in a clean mug. The house was clean. The people were healthy. Nobody seemed coerced or confused or impaired. They touched each other's arms when they passed, made eye contact that lasted a beat longer than social convention permitted. The neurologist in Naomi catalogued this: without predator-response dampening social approach behavior, the mammalian drive toward affiliation would express itself more freely. Grooming behavior. Pair bonding. Proximity maintenance. All elevated.
 
 But the door was open and the neighborhood was not controlled, and Naomi counted the people in the bowl-by-the-door's worth of wallets and came up with more wallets than people in the house and could not make herself ask whose wallets had no owners anymore.
 
@@ -223,23 +223,21 @@ She found Kit Delacroix through an accident of social media. Someone had posted 
 
 "Did you say anything to them about it?"
 
-"I tried. Kit just looked at me like I was describing a color they couldn't see. They said, 'I know you're telling me to be careful. I can hear it in your voice. I just can't feel what you're feeling when you say it.'"
+"I tried. They said, 'I can hear you're telling me to be careful. I just can't feel what you're feeling when you say it.'"
 
-"Did you worry about them? Traveling with a stranger?"
+"Did you worry about them?"
 
-The man straightened up and looked at her with the careful assessment of someone whose wariness was fully functional. "Yeah. I worried. They didn't seem worried, though. Not about anything. You know the kind of person who just — it's like they don't have the part that worries?"
-
-"I know exactly what you mean," Naomi said.
+The man straightened up. "Yeah. I worried. They didn't seem worried, though. Not about anything."
 
 She drove home through the spring landscape of Virginia, and the dogwoods were blooming, and she thought about the Taung child — the skull of a three-year-old Australopithecus africanus, found in 1924, with puncture marks from the talons of a large raptor. An eagle had picked up that child and carried it away and eaten it, and the bones had survived for three million years, and the child's mother had presumably survived too, and had lived the rest of her life watching the sky.
 
-What had that watchfulness cost? How many hours of that mother's life had been spent looking up instead of looking at the ground, the food, the faces of her living children? What had the eagle's shadow stolen beyond the child itself — how much of the mother's remaining life had been consumed not by the predator but by the prediction of the predator, by the flinch that outlived the threat by decades?
+How many hours of that mother's remaining life had been spent watching the sky instead of looking at the food, the ground, the faces of her living children? The eagle had taken one child. The fear of the eagle had stolen what remained of the others — not their lives, but their mother's attention, her sleep, her capacity for anything other than vigilance.
 
-That was the case for the treatment. Not the clinical data. Not the sleep scores. The case was the mother, watching the sky forever, and the question of whether an existence organized around the anticipation of predation was a life or a vigil.
+That was the case for the treatment. Not the clinical data. The mother, watching the sky forever. An existence organized around the anticipation of predation.
 
-And the case against the treatment was the same mother, watching the sky, alive. Alive because she watched. Alive because the flinch kept her moving, kept her children in her sight, kept her sleeping with one ear toward the dark. The eagle had taken one child. The fear of the eagle had kept the others.
+Except the mother was alive. The flinch kept her moving, kept her children in her sight, kept her sleeping with one ear toward the dark. The eagle had taken one child. The fear of the eagle had kept the rest.
 
-Naomi could not hold both of these truths simultaneously. She could understand them in sequence — the cruelty of chronic fear, then the necessity of it, then the cruelty again — but she could not feel them at the same time. Her own amygdala would not allow it. Fear and the absence of fear could not coexist in a single nervous system. You were watching the sky or you were looking at the dogwoods. You were locking the door or you were leaving it open. The treatment didn't create a new way of being; it replaced one way with another, and which way was better depended entirely on what was waiting outside.
+Naomi drove and could not hold both versions at once. You were watching the sky or you were looking at the dogwoods. You were locking the door or you were leaving it open.
 
 ---
 
@@ -269,42 +267,34 @@ Jamie Whitelaw brought her a coffee the morning after the IRB meeting and said, 
 
 Naomi looked at him over the rim of the mug.
 
-"I'm serious. You built a therapy that removes an ancient, maladaptive threat response. In a world where the only threats were the ones the newer circuits can handle — social threats, moral threats, abstract threats — your patients would be fine. Better than fine. They'd be the healthiest people alive. The problem isn't the treatment. The problem is that we still live in a world that contains leopards. They just look like hypothermia, and bad neighborhoods, and men who can spot someone without defenses from across a room."
-
-"That's not a medical insight, Jamie. That's a political one."
-
-"It's a biological one. You separated the leopard frequency from the rest of the fear architecture, and you proved that the leopard frequency was the foundation for all threat-motivated behavior. That's a genuine discovery. The fact that the discovery has consequences you didn't predict doesn't make the science wrong."
+"I'm serious. The problem isn't the treatment. The problem is that we still live in a world that contains leopards. They just look like hypothermia, and bad neighborhoods, and men who can spot someone without defenses from across a room."
 
 "Pauline is dead."
 
-"Pauline walked into the woods and didn't come back because her body couldn't produce the signal that says *go home*. That's a side effect. A terrible one. But the sixteen patients in Arlington and McLean and Silver Spring who are sleeping for the first time in decades and functioning at levels they've never reached — those are outcomes too. You don't have to choose which story to tell. You have to tell both."
+"The sixteen patients in Arlington and Silver Spring are sleeping for the first time in decades. Those are outcomes too."
 
-"And if I can't tell both?"
+"And the sixteen who drifted?"
 
-Jamie didn't answer that. He took his coffee and went back to the bench, and Naomi sat with the skull and the photograph and the spreadsheet, and thought about the distribution. Twenty-three functional, sixteen drifting, one dead. The distribution falling along the same fault lines as every other distribution — income, geography, race, the gradient of safety that determined whether your openness was a luxury or a liability.
+Jamie didn't answer that. He took his coffee and went back to the bench. Naomi sat with the spreadsheet. Twenty-three functional, sixteen drifting, one dead. The distribution falling along the same fault lines as every other distribution — income, geography, race, the gradient of safety that determined whether openness was a luxury or a liability.
 
-She had not invented that gradient. She had not built the world in which Pauline's neighborhood required locks and the analyst's neighborhood didn't. But she had introduced a treatment that interacted with the gradient as if it didn't exist, and the gradient had responded the way gradients always do — by sorting outcomes along its slope, concentrating harm at the bottom, concentrating benefit at the top.
+She had not invented that gradient. She had not built the world in which Pauline's neighborhood required locks and the analyst's neighborhood didn't. But she had introduced a treatment that interacted with the gradient as if it didn't exist, and the gradient had responded the way gradients always do — sorting outcomes along its slope, concentrating harm at the bottom, benefit at the top.
 
 That was not a side effect. That was the main effect, operating in a context she had excluded from her model.
 
 ---
 
-Six months after the trial suspension, Naomi received a photograph by mail. No return address, postmarked from somewhere in Tennessee. The photograph showed a small house with a garden, and in the garden were three people she recognized — Solomon, Kit, and a former patient named Aisha Kendrick whom she had last spoken to at month nine. They were planting something. Beans, maybe, or squash. They were not looking at the camera. They were looking at the dirt.
+Six months after the trial suspension, Naomi received a photograph by mail. No return address, postmarked from Tennessee. A small house with a garden, and in the garden three people she recognized — Solomon, Kit, and a former patient named Aisha Kendrick whom she had last spoken to at month nine. They were planting something. Beans, maybe. They were not looking at the camera.
 
 On the back of the photograph, in Solomon's handwriting: *We are not lost. We just don't need to be found.*
 
-Naomi pinned the photograph to her corkboard next to the data printouts and the IRB suspension notice. She looked at it for a long time. Three people in a garden, unafraid, in a place where they'd arrived by drifting. They looked healthy. They looked happy. They also looked like people who had left their front door open in a country where that choice carried different costs depending on the color of the hand that opened it.
+She pinned the photograph to her corkboard next to the data printouts and the IRB suspension notice. Three people in a garden, unafraid, in a place where they'd arrived by drifting. They looked healthy. They also looked like people who had left their front door open in a country where that choice carried different costs depending on the color of the hand that opened it.
 
-She could not save them from their openness without taking back the peace that openness had given them. She could not protect them without reinstating the frequency that had kept them up at night, that had made Solomon cross the street to avoid his own reflection. The treatment worked. The treatment was also, for certain patients in certain contexts, a slow form of abandonment — the body's defenses laid down in a world that had not agreed to a ceasefire.
+Naomi began designing a revised protocol. Not a reversal — she would not put the leopard back. A calibration. A way to restore the urgency without the suffering, to let Dara sleep through the night and still lock her door. She worked on it for four months and made no progress, because the frequency was the frequency. You could not have the flinch without the fear, and you could not have the fear without the insomnia, the chest-tightening, the vigilance that stole hours and years from the people it kept alive.
 
-Naomi began designing a revised protocol. Not a reversal — she would not put the leopard back. But a calibration. A way to restore the urgency without the suffering. A way to let Dara sleep through the night and still lock her door. She worked on it for four months and made no progress, because the problem was not technical. The frequency was the frequency. You could not have the flinch without the fear, and you could not have the fear without the insomnia, the doom-scrolling, the chest-tightening, the vigilance that stole hours and years from the people it kept alive.
+On a Tuesday in November she found herself at her desk at eleven p.m., running the same failed models, and she realized she had not eaten since noon and that her hands were shaking and that the fluorescent light above her bench was humming at a frequency she had never noticed before, or had always noticed and had only now identified. She turned it off. The hum stopped. She sat in the dark and thought about Dara, who had described her anxiety as a hum in a room you can't find.
 
-She understood, finally, the architecture she had mapped. The leopard frequency was not a bug. It was not a feature. It was the carrier wave, and everything else — everything that made a person cautious, attentive, alive to the possibility of harm — was modulated on top of it. You could not silence the carrier and keep the signal. You could not remove the foundation and expect the house to stand.
+She turned the light back on.
 
-But you also could not look at the foundation and call it adequate. You could not look at Pauline's mother, dead of a stroke after a decade of sleepless nights, and say: *the system is working*. You could not look at Solomon, crossing the street to avoid his own people, and say: *this is what healthy fear looks like*. The system was brutal, and it was necessary, and it could not be reformed without consequence, and the consequences fell — always, in every scenario she modeled — on the people who could least afford them.
+The data said she had cured thirty-nine people and that seventeen of them had walked into the world without armor. The data did not say what happened to Solomon in Tennessee, whether Kit had found somewhere to land, whether the garden in the photograph was still there or had been sold out from under them. The data ended where the follow-up ended, which was where the patients stopped answering their phones.
 
-The skull sat on her desk. The puncture marks measured 36.2 millimeters. The leopard had been dead for three and a half million years, and the distance between its teeth was still the distance between sleeping and waking, between locking the door and leaving it open, between the world as it might be and the world as it was.
-
-Naomi picked up the skull and held it, and felt the flinch. She would always feel the flinch. That was the leopard's gift, or the leopard's curse, or the leopard's simple fact: you are made of meat, and something out there knows it. The question was not whether to feel it. The question was what you could build on a frequency that never stopped broadcasting, in a world that had forgotten the leopard but not the bite.
-
-She put the skull down and went back to work. She did not know what she was building. She knew only that it had to hold both things — the peace and the flinch, the open door and the locked one — and that holding both things was, for now, more than any frequency could carry.
+Naomi pulled up the revised protocol and changed a variable and ran the model again. It failed again. She changed another variable.
