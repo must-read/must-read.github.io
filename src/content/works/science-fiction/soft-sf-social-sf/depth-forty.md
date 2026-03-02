@@ -7,8 +7,8 @@ authorA: "China Mieville"
 authorB: "Ursula K. Le Guin"
 workX: "The City & the City"
 workY: "20,000 Leagues Under the Sea"
-wordCount: 7042
-readingTimeMinutes: 28
+wordCount: 6785
+readingTimeMinutes: 27
 tags: ["underwater", "dreams", "surface", "longing", "society", "perception"]
 rating: 0
 ratingCount: 0
@@ -35,9 +35,9 @@ The commute from depth forty to the administrative complex at depth thirty-two t
 
 Nobody around him looked unusual. A woman in a maintenance uniform leaned against the rail, her gill flaps dark with the residue of a shift in the lower mechanicals. Two students compared notes on a glowing pad. An old man slept standing up, a skill Eavan associated with anyone who'd commuted longer than a decade.
 
-He arrived at his office. He processed requisition forms for civic infrastructure — the replacement of bioluminescent panels in public corridors, mostly, which aged out on a seven-year cycle. It was work that required attention but not imagination, and he was good at it in the way that a person can be good at anything they do reliably for eleven years. His supervisor, Launt, told him once that he was the department's most consistent processor, and Eavan had not been able to determine whether this was a compliment.
+He arrived at his office. He processed requisition forms for civic infrastructure — the replacement of bioluminescent panels in public corridors, mostly, which aged out on a seven-year cycle. It was work that required attention but not imagination, and he was good at it the way a person is good at anything they do reliably for eleven years. His supervisor, Launt, told him once that he was the department's most consistent processor, and Eavan had not been able to determine whether this was a compliment.
 
-The office occupied a wedge-shaped chamber on the administrative level, shared by eleven processors and two supervisors. The walls were a composite alloy rated for the pressure differential at depth thirty-two, which was modest — you could feel a gentle squeeze in your inner ears when the equalizers cycled, nothing more. The chamber had one viewport, a reinforced window that looked out into the managed water column between the administrative complex and the residential stacks. Through it, you could see the transit lines running their vertical routes, the occasional maintenance diver in a pressure suit checking conduit junctions, and the permanent soft glow of the bioluminescent infrastructure that lit the civic spaces from outside. It was not a view anyone would choose to contemplate. It was the view that happened to be there.
+The office occupied a wedge-shaped chamber on the administrative level, shared by eleven processors and two supervisors. The walls were a composite alloy rated for the pressure differential at depth thirty-two, which was modest — you could feel a gentle squeeze in your inner ears when the equalizers cycled, nothing more. The chamber had one viewport, a reinforced window that looked out into the managed water column between the administrative complex and the residential stacks. Through it, you could see the transit lines running their vertical routes, the occasional maintenance diver in a pressure suit checking conduit junctions, and the permanent soft glow of the bioluminescent infrastructure that lit the civic spaces from outside. Nobody contemplated it. It was just there.
 
 At lunch he ate in the commissary. Cultured protein with a kelp-starch wrap, the standard civic option. The commissary served six hundred people per shift, and the noise was a steady wash of voices and current, punctuated by the clatter of trays against the magnetized racks. He sat with two colleagues from his section — Fenne, who processed structural maintenance requests, and a younger woman named Tali who had transferred from the waterworks authority three months ago and still brought her own food from home. They talked about a labor action at the thermal vents, and whether it would affect heating schedules at the mid-depths, and Eavan said the right things in the right places and ate his wrap and went back to his desk.
 
@@ -102,7 +102,7 @@ When he finished, the room was quiet. Then Ostra said, "The light. You said it c
 
 Eavan closed his eyes. "I don't know. It feels — far. Farther than the ceiling of the world."
 
-Ostra nodded. He didn't say anything else, but the nod carried something — recognition, or confirmation, or the particular satisfaction of having a private experience validated by a stranger.
+Ostra nodded. He didn't say anything else.
 
 After the meeting, Renna walked with him to the transit platform. "How long?" she asked.
 
@@ -138,7 +138,7 @@ The word was not forbidden. It appeared in old texts, in the mythological archiv
 
 Ghis was quiet for a long time. "I believe the data support it," she said finally. "I also believe that every Tuesday evening I dream about filling those collapsed chambers with something that isn't water, and it's the most complete sensation I have ever experienced. I don't know how to make those two things coexist."
 
-This was the center of it. Not the question of whether the surface existed — though that question hung in the room like a pressure change you could feel but not measure. The center was the coexistence. The daily life that was sufficient, that was even good — Eavan's orderly work, Renna's skill at fabrication, Daved's bioluminescent crops pulsing in their rows, Breck's protein cakes — and the nightly life that was impossible but happened anyway. Two realities in one body. The discipline required to live in one while the other insisted on being remembered.
+This was the center of it. Not the question of whether the surface existed — though nobody could sit in that room without feeling the question press against them. The center was the coexistence. The daily life that was sufficient, that was even good — Eavan's orderly work, Renna's skill at fabrication, Daved's bioluminescent crops pulsing in their rows, Breck's protein cakes — and the nightly life that was impossible but happened anyway. Two realities in one body. The discipline required to live in one while the other insisted on being remembered.
 
 ---
 
@@ -146,11 +146,11 @@ Eavan began to pay attention to the infrastructure of his world in a way he neve
 
 The 40th depth was, as he had always known, unremarkable. Residential corridors with standard-issue lighting. Community spaces. Small shops — a food vendor, a repair service, a place that sold decorative corals for home aquaria. The transit station, with its vertical and lateral lines. A school. A medical clinic. A park, of sorts — an open chamber where cultivated kelp grew in decorative formations and children played in the mild currents generated by recreational turbines.
 
-He had lived here for fifteen years and never questioned any of it. The water was clean because the filtration systems made it clean. The temperature was stable because the thermal regulators kept it stable. The pressure was manageable because the engineers had built the depth to manage it. Everything worked. Not perfectly — the panel in his bathroom had been flickering for a month, and the corridor outside his unit had a persistent cold spot where a thermal conduit needed replacing — but well enough. Adequately. The way a world works when it has been built by people who understood what they were doing and maintained by people who cared enough to keep doing it.
+He had lived here for fifteen years and never questioned any of it. The water was clean because the filtration systems made it clean. The temperature was stable because the thermal regulators kept it stable. The pressure was manageable because the engineers had built the depth to manage it. Everything worked. Not perfectly — the panel in his bathroom had been flickering for a month, and the corridor outside his unit had a persistent cold spot where a thermal conduit needed replacing — but well enough. Adequately. A world built by people who understood what they were doing and maintained by people who cared enough to keep doing it.
 
 One evening, coming home late from a Tuesday meeting, he stopped in the corridor outside his unit and put his hand against the wall. He could feel the hum of the building's systems — the circulatory pumps, the filtration, the faint vibration of the structural supports that held the weight of the ocean above. Not above. Around. The ocean was not above the 40th depth; it was the 40th depth. They lived inside it. The walls and corridors and sealed chambers were intrusions into the water, pockets of managed space carved out of an environment that would flood every room and corridor in minutes if the seals failed.
 
-This had never frightened him before. It did not frighten him now. But he noticed it. He noticed the weight of it — not physically, which his body was built to handle, but conceptually. They lived inside the ocean the way a thought lives inside a mind: surrounded, contained, sustained, and unable to exist anywhere else.
+This had never frightened him before. It did not frighten him now. But he noticed it — not the pressure, which his body was built to handle, but what the pressure meant. They lived inside the ocean the way a thought lives inside a mind: surrounded, contained, sustained, and unable to exist anywhere else.
 
 Or so the civilization maintained.
 
@@ -178,7 +178,7 @@ Two weeks later, Lidda the schoolteacher came to the meeting looking drawn. She 
 
 The room absorbed this. Breck put another protein cake on the communal plate. Sennet pulled at a loose thread on her sleeve. Ghis, the data analyst, sat with her hands flat on her thighs and her eyes on the middle distance, and Eavan recognized the expression — the look of someone whose professional identity and private experience had just been set against each other.
 
-"This is how it works," Renna said. She was not angry. She said it the way she said most things: as observation, as fact, as the testimony of someone who had been carrying this for six years and had seen the pattern before. "Nobody comes for us. Nobody needs to. We come for ourselves. We get embarrassed. We stop meeting. The dreams don't stop, but we stop talking about them, and eventually we stop thinking of them as anything but symptoms. The civilization doesn't need to suppress us. We suppress ourselves."
+"This is how it works," Renna said. She wasn't angry. She'd been carrying this for six years and had seen the pattern before. "Nobody comes for us. Nobody needs to. We come for ourselves. We get embarrassed. We stop meeting. The dreams don't stop, but we stop talking about them, and eventually we stop thinking of them as anything but symptoms. The civilization doesn't need to suppress us. We suppress ourselves."
 
 ---
 
@@ -186,17 +186,15 @@ Eavan went home that night and could not sleep.
 
 He lay in his bed and felt the water move through his gills, the steady exchange that kept him alive, and he put his hand on his chest. Beneath the skin and muscle, beneath the cage of cartilage that protected his major organs, there were structures his doctor had shown him on a scan once during a routine checkup. Small, collapsed chambers. Like empty rooms in a building that had been sealed off. Developmental artifacts, Pavani had called them. Vestigial. Meaningless.
 
-He pressed his fingers against his chest and tried to feel them. He couldn't, of course. They were too deep, too small, too irrelevant to the body's functioning. But in his dreams they opened. In his dreams, something filled them, and the filling was so right, so precisely what they were shaped to receive, that waking up to their emptiness was a kind of grief he did not know how to carry.
+He pressed his fingers against his chest and tried to feel them. He couldn't. They were too deep, too small, too irrelevant to the body's functioning. But in his dreams they opened. In his dreams, something filled them, and the filling was so right, so precisely what they were shaped to receive, that waking up to their emptiness felt like bereavement — for what, he couldn't say.
 
 He thought about Nemo.
 
 Not the historical Nemo — the figure was half-legend anyway, a pre-Consolidation engineer who had supposedly built the first deep-water habitation modules, the ancestor of everything they now lived in. The Nemo of children's stories. The man who chose the depths. Who looked at the open water and said: this is sufficient. This is home. Who built a machine — a ship, the stories called it, though the word was archaic — and went down, and stayed, and never came back.
 
-Every child knew the story. Nemo's ship was called the *Anvara*, and it carried the first families into the deep, and they built the walls and the chambers and the filtration systems, and they thrived. The deep gave them everything — food from the thermal vents, light from the organisms they cultivated, shelter from the pressure they learned to manage. Nemo himself was portrayed as a figure of serene certainty: a man who saw what the depths could be and made it real, who never doubted and never looked back. The monuments to him at depth one — the oldest level, the first built — showed a figure gazing downward, arms at his sides, his face calm. Always looking down. Never up.
+Every child knew the story. Nemo's ship was called the *Anvara*, and it carried the first families into the deep, and they built the walls and the chambers and the filtration systems, and they thrived. The monuments to him at depth one — the oldest level, the first built — showed a figure gazing downward, arms at his sides, his face calm. Always looking down. Never up.
 
-The stories always presented Nemo's choice as wisdom. The depths were richer, safer, more interesting than whatever lay above. The open water was dangerous and empty. The depths were civilization.
-
-But the stories never said what Nemo was leaving. They never described the place he chose not to return to. It was always presented as an absence — not a place abandoned, but a void escaped. As if there were nothing above the water worth remembering. As if the choice to descend could only be understood as a gain, and the thing that was given up did not require a name.
+The stories presented Nemo's choice as wisdom. The depths were richer, safer, more interesting than whatever lay above. But the stories never said what Nemo was leaving. They never described the place he chose not to return to. It was always an absence — not a place abandoned, but a void escaped. As if the choice to descend could only be understood as a gain, and the thing given up did not require a name.
 
 Eavan turned on his side. The bioluminescence had dimmed to its night spectrum, a deep indigo that was supposed to promote sleep. He watched the faint pulse of the panels — the seven-year panels he spent his working life requisitioning replacements for — and thought: what if Nemo was running from something real? What if the choice was not between the depths and nothing, but between the depths and somewhere else? Somewhere that the civilization had spent its entire history teaching itself to forget?
 
@@ -284,7 +282,7 @@ He thought about what Renna had said. *The dreams themselves are as real as the 
 
 He thought about what Ghis had said. *Someone decides whether the data is real or not.*
 
-He thought about the coral on the table, with its ridges that didn't match anything that grew at depth. About Sennet's light source that changed color as if it were moving behind something. About the collapsed chambers in his chest that Pavani called vestigial and the dreams called home.
+He thought about the coral on the table, with its ridges that didn't match anything that grew at depth. About Sennet's light source that changed color as if it were moving behind something. About the structures in his chest that Pavani called vestigial and the dreams called home.
 
 ---
 
@@ -294,9 +292,9 @@ The meetings grew. Thirteen, then fifteen. A mechanic from depth thirty-seven. T
 
 Nobody pressed her. The group had developed its own protocols by now — not rules, exactly, but practices that had accreted over months the way the coral accreted on the outer walls. The twelve-minute timer. The communal food. The understanding that you spoke about your own experience and did not speculate about others'. The custom of sitting in the dark for the first minute of each meeting — bioluminescence dimmed to nothing, everyone suspended in the same black water, breathing together through their gills before anyone spoke. The agreement, never stated but universally maintained, that the question *is the surface real* was not the question the group existed to answer.
 
-The question the group existed to answer was: what do you do when your body insists on a truth your world denies?
+Nobody had articulated the question the group existed to answer, and this was probably for the best.
 
-And the answers were as varied as the people who came. Sennet had stopped taking her suppressants entirely and reported that the dreams had become continuous — not just at night but in waking moments, flashes of openness that interrupted her day, the sudden phantom sensation of her chest expanding while she stood in line at the commissary or sat in a classroom. She described it without alarm. "It's like having a second set of senses," she said. "The world I live in, and the world my body remembers. I'm in both."
+The answers, anyway, were as varied as the people who came. Sennet had stopped taking her suppressants entirely and reported that the dreams had become continuous — not just at night but in waking moments, flashes of openness that interrupted her day, the sudden phantom sensation of her chest expanding while she stood in line at the commissary or sat in a classroom. She described it without alarm. "It's like having a second set of senses," she said. "The world I live in, and the world my body remembers. I'm in both."
 
 Daved, the farm manager, had gone the other direction. He'd increased his suppressant dosage and the dreams had dimmed to a background hum. He still came to the meetings. "Not because I want the dreams," he said. "Because you're the only people who understand why I'm afraid of them."
 
@@ -314,13 +312,11 @@ No one knew why. She didn't answer messages. Her unit at depth forty-one was occ
 
 Daved took over facilitating the meetings, though he insisted on calling it "keeping time" rather than leading. The group adjusted. Groups do. The shape of the circle changed. Breck still brought protein cakes. The twelve-minute timer still ticked.
 
-But something had shifted. Renna's absence was a particular kind of evidence — not of suppression, not of institutional pressure, but of exhaustion. Six years of dreaming about a place that might not exist. Six years of carrying the knowledge that your body and your civilization disagreed. At some point, the weight of the coexistence became too much, and you chose one reality or the other, and either choice was a kind of loss.
+But something had shifted. Renna's absence was evidence — not of suppression, not of institutional pressure, but of exhaustion. Six years of dreaming about a place that might not exist. Six years of carrying a disagreement between your body and your civilization. At some point you chose one reality or the other, and either choice cost you something you couldn't get back.
 
 Eavan thought about this on the transit platform, waiting for the vertical car. Around him, the ordinary population of depth forty went about its evening — coming home from work, carrying groceries, navigating the small logistics of domestic life in a managed environment. A man in a maintenance uniform stood with his hand on the railing, his gill flaps rising and falling in the steady rhythm of someone who had been working hard. A woman held a child by the wrist, the child reaching toward the transit map mounted on the wall, tracing the lines between depths with one finger. An elderly couple stood close together, not speaking, the kind of silence that comes from having said everything already.
 
-Nobody looked like they were carrying an impossible memory. Nobody looked like they were dreaming about a world above the water. They looked tired, or purposeful, or blank with the ordinary blankness of commuters, and Eavan wondered how many of them had taken the suppressants and never told anyone. How many had woken in the dark with their chests aching and their gills working overtime and lain there trying to remember the shape of an experience they had no framework for, and then gotten up and gone to work and said nothing, because what was there to say?
-
-How many people, in the ordinary population of a civilization that had always lived underwater, quietly dreamed of air and said nothing?
+Nobody looked like they were carrying an impossible memory. They looked tired, or purposeful, or blank with the blankness of commuters, and Eavan wondered how many of them had taken the suppressants and never told anyone. How many had woken in the dark with their chests aching and lain there trying to remember the shape of something they had no framework for, and then gotten up and gone to work and said nothing.
 
 ---
 
@@ -358,16 +354,16 @@ He could not see it. He could not feel it. He was standing at depth forty, in a 
 
 But his body remembered.
 
-Not a metaphor. His body, the physical structure of him — the collapsed chambers beneath his ribs, the sealed passages in his thorax, the architecture of a system that had no function in the world he inhabited — remembered a different configuration. Remembered opening. Remembered filling with something that was not water and finding it sufficient. Remembered a world where the ceiling was so far above that it became indistinguishable from its absence.
+Not a metaphor. His body, the physical structure of him — the sealed passages in his thorax, the architecture of a system that had no function in the world he inhabited — remembered a different configuration. Remembered opening. Remembered filling with something lighter, something warm, and finding it sufficient. Remembered a world where the ceiling was so far above that it became indistinguishable from its absence.
 
 He put his hand on his gills. Felt them open and close, the laminar flow across the filaments, the dissolved gases cycling into his blood. This was how he breathed. This was how everyone breathed. This was the only way anyone had ever breathed, according to every authority and institution and scientific consensus and cultural narrative his civilization had produced.
 
 He tried to remember the dream-breath. The expansion. The fullness. The warm not-water rushing in and his chest rising to meet it.
 
-It was there. Fading, the way all memories fade when you try to hold them — not gone but receding, losing resolution, becoming more feeling than image, more longing than recollection. He could still feel the shape of it. The shape of an experience his body insisted it had once had. The shape of a world above the water, or beyond it, or simply different from it in a way the language of depth forty did not contain.
+It was there. Fading, the way all dreams fade when you try to hold them — not gone but receding, losing resolution, becoming more feeling than image. He could still feel the shape of it. An experience his body insisted it had once had. A world above the water, or beyond it, or simply different from it in a way the language of depth forty did not contain.
 
-The kelp swayed in the park. The bioluminescence pulsed, its seven-year cycle advancing one imperceptible increment toward the day someone would process a requisition form — maybe his own requisition form — to replace the panels. The water was warm and clean and it held him the way it had always held him, and for one moment, standing in the park at depth forty, Eavan Doss saw it. Not the surface. Not the impossible open place his dreams insisted on. He saw the water. His water. The medium he had been born into and would die in, the substance that filled his gills and sustained his cells and constituted, for all practical purposes, the whole of the known world.
+The kelp swayed. The bioluminescence pulsed, its seven-year cycle advancing one imperceptible increment toward the day someone would process a requisition form — maybe his own requisition form — to replace the panels. The water was warm and clean and it held him, and for a moment, standing in the park at depth forty, Eavan Doss saw it: the water itself. His water. The medium he had been born into, the substance that filled his gills and sustained his cells and constituted, for all practical purposes, the whole of the known world.
 
-It was beautiful. The way the current moved through the kelp. The way the bioluminescence caught in the micro-particles and scattered into soft coronas. The way the pressure held everything — the walls, the corridors, the sleeping residents of depth forty — in a grip so constant and so complete that it felt like nothing at all.
+It was beautiful. The current moving through the kelp. The bioluminescence catching in the micro-particles, scattering into soft coronas. The pressure holding everything — the walls, the corridors, the sleeping residents — in a grip so constant it felt like nothing at all. And Eavan stood inside it and could not tell whether what he felt was gratitude or the particular grief of loving a place that might not be the only place.
 
-He stood there for a while. Then he went home. He undressed. He lay in his bed and felt the water cycle through him, and he put his hand on his chest, and he waited for the dreams.
+He walked home. On the way, he passed Renna's corridor and did not stop. His alarm was set for 6:14. He had requisition forms to process in the morning.
