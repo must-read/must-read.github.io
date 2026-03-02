@@ -7,7 +7,7 @@ authorA: "T.H. White"
 authorB: "James Ellroy"
 workX: "The Once and Future King by T.H. White"
 workY: "L.A. Confidential by James Ellroy"
-wordCount: 6336
+wordCount: 6196
 readingTimeMinutes: 25
 tags:
   - sword-and-sorcery
@@ -45,7 +45,7 @@ combination:
 
 You must understand, and I say this not because it excuses anything but because if you do not understand it then none of what follows will make the kind of sense that events ought to make when recounted by a man who was present for them, that I had not intended to be at Cael Morrow that night, had not planned it, had not ridden there with anything resembling a purpose, and that my arrival at the lower gate sometime around the eighth bell was the consequence of a series of small decisions each of which was perfectly reasonable in isolation and only became damning when arranged in sequence, like the individual notes of a hymn that sounds lovely until you realize the lyrics are about burning someone alive.
 
-I had been in the district on other business. A debt, if you like. Not a debt owed by me — I want that in the record — but a debt I had agreed to collect on behalf of a man whose name I am not at liberty to disclose, though I suspect you already know it, because the Provincial Courts have always had their informants and I have long since stopped being surprised by the things magistrates know before you've told them. The debt was a small one. A matter of three hundred silver weights, which in the eastern cantons would buy you half a vineyard and in the western cantons would barely buy you a good horse, and the discrepancy between those two valuations is itself a kind of injustice that nobody in the Provincial Court has ever seen fit to address, though I mention it here only as context and not as grievance.
+I had been in the district on other business. A debt, if you like. Not a debt owed by me — I want that in the record — but a debt I had agreed to collect on behalf of a man whose name I am not at liberty to disclose, though I suspect you already know it, because the Provincial Courts have always had their informants and I have long since stopped being surprised by the things magistrates know before you've told them. The debt was a small one. A matter of three hundred silver weights, which in the eastern cantons would buy you half a vineyard and in the western cantons would barely buy you a good horse.
 
 The point — if you will allow me to find it at my own pace, which I am told is the privilege of a man giving testimony under the Frost Assizes, though I notice your clerk's hand is already cramping — the point is that I arrived at Cael Morrow with no thought of Lord Gavren or his household or the unfortunate business that was, even then, already underway in the upper keep. I came through the lower gate. The guard waved me through. He knew me, or knew my arms — the quartered field with the broken wheel, which I am still entitled to bear despite the judgment at Sellaford, because the Order has not yet formalized the revocation, and until they do, I am technically, which is to say legally if not practically, still a knight of the Fourth Oath, with all the rights and diminished dignities that accompany that increasingly notional status.
 
@@ -61,7 +61,7 @@ I will say what I saw in the gallery. I will say it plainly.
 
 From the gallery I looked down into the great hall and I saw Lord Gavren standing at the far end, near the fire, speaking with someone whose face I could not make out because the angle was wrong and the candle smoke was dense and because — and this is important, this is the thing I need you to hear — I was not looking at Gavren. I was looking at the door to the lady's solar, which opened off the gallery twelve paces to my left, and the reason I was looking at that door is the reason I was at Cael Morrow in the first place, and I will get to it, I will, but not yet.
 
-There was shouting. Not the kind of shouting that precedes violence — I have heard enough of that to distinguish it — but the kind that follows a grievance aired badly. A financial matter, I thought. Gavren was always quarreling about money. He had the particular genius of men born to modest holdings who spend their lives defending those holdings against imagined encroachment: every transaction was an ambush, every contract a siege, and the poor merchants who dealt with him were, in his accounting, always one clause away from picking his pocket.
+There was shouting. Not the kind of shouting that precedes violence — I have heard enough of that to distinguish it — but the kind that follows a grievance aired badly. A financial matter, I thought. Gavren was always quarreling about money. He had the peculiar genius of men born to modest holdings who spend their lives defending those holdings against imagined encroachment: every transaction was an ambush, every contract a siege, and the merchants who dealt with him were, in his accounting, always one clause away from picking his pocket.
 
 I heard a sound that was not shouting. A shorter sound. Dense. The sound of something meeting resistance and overcoming it.
 
@@ -77,7 +77,7 @@ I knocked, and there was no answer, and I knocked again, and I said a name — h
 
 That was the debt. You wanted to know. A woman who had asked me, through an intermediary, to come to Cael Morrow on this night and wait for her in the gallery, because she had something to tell me that could not be committed to paper or entrusted to a messenger. A woman who was not Gavren's wife, though she lived in Gavren's keep, and occupied Gavren's solar, and bore the title of Gavren's ward, which is a word that has always troubled me because it implies both protection and imprisonment and nobody seems bothered by the contradiction.
 
-I had known her for six years. I had loved her for five, which means there was approximately one year during which I knew her and did not love her, and I have tried many times to remember what that year felt like and I cannot, which suggests either that it was very short or that I have revised the memory, which is a thing that love does — it colonizes the past, so that even the period before it began seems, in retrospect, like a prologue.
+I had known her for six years. I had loved her for five, which means there was approximately one year during which I knew her and did not love her, and I have tried many times to remember what that year felt like and I cannot, which suggests either that it was very short or that I have revised the memory, which is a thing that love does — it colonizes the past.
 
 She was not there.
 
@@ -161,7 +161,7 @@ Except he had told me to stay at the inn in Hael, which was two leagues down the
 
 I stayed. Obviously.
 
-But I did not stay at the inn. I followed him. I know I was not supposed to. I know that what I did was a violation of his trust, and I have thought about that every day since, and I have not come to any conclusion about whether it was right or wrong because the question assumes I had a choice, and I am not sure I did. When someone you have given your life to rides off into the dark toward a place where nothing good can happen, the body follows. The oath follows. The feet follow. Whatever part of a person is supposed to exercise judgment was, in my case, asleep.
+But I did not stay at the inn. I followed him. I know I was not supposed to. I know that what I did was a violation of his trust, and I have thought about that every day since, and I have not come to any conclusion about whether it was right or wrong because the question assumes I had a choice, and I am not sure I did. When someone you have given your life to rides off into the dark toward a place where nothing good can happen, the body follows. The oath follows. The feet follow.
 
 I arrived at Cael Morrow perhaps a quarter bell after Sir Breca. I came through the lower gate on foot, having left my horse tied to a hawthorn outside the walls. The guard did not challenge me. Squires are invisible. This is one of the first things you learn. Nobody looks at you because you are not a person yet — you are a function, an extension of the knight you serve, and functions do not require scrutiny.
 
@@ -239,20 +239,16 @@ Entry eight. Quarterly payments from Gavren to the Synod Council member ceased o
 
 Entry nine. The militia short sword found beside Gavren's body was clean. Not cleaned — clean. No blood in the grain of the wood. No blood on the blade. A weapon placed beside a wound it did not make.
 
-I am not filing these entries with the Assizes. The Assizes answer to the Provincial Courts. The Provincial Courts answer to the Synod Council. The Synod Council contains the person who received Gavren's payments. The circuit is closed.
+Entry ten. Three days after Gavren's death, a rider arrived at the canton seat carrying a petition from the Hael valley. The petition requested recognition of the ward's inheritance claim. The petition was filed by a clerk I have not been able to identify, notarized by a magistrate whose appointment was recommended by a member of the Synod Council. The petition was approved the same day it was filed.
+
+I am not filing these entries with the Assizes. The Assizes answer to the Provincial Courts. The Provincial Courts answer to the Synod Council. The circuit is closed. I have drawn the diagram. The diagram is in the ledger.
 
 Almund will be charged. His presence at the keep, his history with Fen Aldric, the judgment at Sellaford — the narrative assembles itself. A disgraced knight, a missing woman, a dead lord. The story is too clean, which is how you know it was built.
 
-The lady Fen killed Gavren. She killed him with sorcery, in the great hall, while Almund stood in the gallery and Drace stood in the courtyard and neither of them saw it because neither of them was meant to see it. She placed the sword. She unbarred the postern. She rode west to Hael.
+I have not acted on any of this because acting would require me to name the Synod Council member in an official filing, and naming the Synod Council member would activate contingencies that would result in the dispersal of my ledger, which is my only protection. Once dispersed it cannot be reassembled. Once it cannot be reassembled I am a man who knows too much and can prove nothing, which is the most dangerous thing a person can be in the eastern cantons.
 
-She is in the valley now. In her father's keep, which is her keep again. The inheritance that Gavren siphoned is hers. The Synod Council member has lost a revenue stream and will need a new one and will therefore need Fen Aldric's cooperation, which means Fen Aldric has leverage, which means the Synod Council member will ensure that the investigation finds what the investigation is supposed to find, which is Almund.
+So I will wait. I will add entries. I will watch Almund's trial.
 
-I know this. I have known it since the morning I learned of Gavren's death. I have not acted on it because acting on it would require me to name the Synod Council member in an official filing, and naming the Synod Council member would activate contingencies that would result in the dispersal of my ledger, which is my only protection, and once dispersed it cannot be reassembled, and once it cannot be reassembled I am a man who knows too much and can prove nothing, which is the most dangerous thing a person can be in the eastern cantons.
+There is a version of this where the lady Fen is the architect of everything — Gavren's death, Almund's presence, the unbarred postern, the clean sword. There is another version where she is a ward who ran from a dead man's keep because staying meant arrest. I have evidence for both versions. The evidence for the first version is better.
 
-So I will wait. I will add entries. I will watch Almund's trial and Fen Aldric's return and the Synod Council member's next appointment. I will collect the information and I will not spend it because information, like silver, appreciates when it is held.
-
-The knight loved the woman. The woman used the knight. The boy loved the knight. The sorcerer loved nothing, which is why the sorcerer is still alive.
-
-These are facts.
-
-I am not filing them.
+I am not filing either version.
