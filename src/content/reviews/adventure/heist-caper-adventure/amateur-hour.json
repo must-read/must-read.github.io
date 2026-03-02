@@ -1,0 +1,54 @@
+{
+  "workSlug": "amateur-hour",
+  "reviews": [
+    {
+      "personaId": "adv-001-james",
+      "rating": 4,
+      "text": "Not my usual fare — no salt water in sight — but I found myself thoroughly charmed. The ensemble dynamics remind me of a good wardroom, each member with a distinct competence and a distinct blind spot. Wallach's quiet fieldwork, Dinah's professional pride in her bolt cutters, even Gideon's gymnast reflexes — these are people defined by what they can do, which is how I prefer my characters. Lev's philosophizing occasionally drifts into territory I'd call indulgent, but the man's commitment to his one good shirt earned my forgiveness. The escalating failures have the rhythm of a well-planned operation gone sideways, which any Navy man will recognize.",
+      "date": "2025-12-14",
+      "helpfulCount": 31
+    },
+    {
+      "personaId": "adv-002-priya",
+      "rating": 4,
+      "text": "What saves this from being another clever-thieves romp is its interest in the ontology of the con. The forged Matisse becomes a genuine philosophical object — is the forgery that argues more interesting than the original that merely exists? Lev's final speech about shared belief constituting truth is sharper than it needs to be for a heist story, and I mean that as praise. The prose has real control; the description of the empty storage unit with its single packing peanut 'clinging to the wall with the determination of something that did not know it had been left behind' is quietly devastating. I wanted more from Dinah's interiority — she's the most interesting figure here but the story holds her at a slight distance.",
+      "date": "2025-10-03",
+      "helpfulCount": 44
+    },
+    {
+      "personaId": "adv-003-tommy",
+      "rating": 2,
+      "text": "Too much talking, not enough doing. They stand around in a back room debating whether a fake painting is real while I'm waiting for something to actually happen. The break-in at the house was decent but it's over in two paragraphs. Also the buyer might not even be a real person? Come on.",
+      "date": "2026-01-28",
+      "helpfulCount": 8
+    },
+    {
+      "personaId": "adv-005-declan",
+      "rating": 4,
+      "text": "Lev is the kind of fella you'd buy a pint for just to hear what comes out of his mouth next. 'Going home is the absence of a plan. Regrouping is the presence of a plan that has not yet announced itself.' I laughed out loud at that. The whole crew is grand — Wallach saying 'I like dogs' in that flat way nearly killed me. It's not a thriller, exactly, more like four people discovering that the job they thought they were on isn't the job they're actually on. That last bit with the envelope and the forger's letter — lovely twist, that. Read it in one sitting.",
+      "date": "2025-09-17",
+      "helpfulCount": 19
+    },
+    {
+      "personaId": "adv-006-miriam",
+      "rating": 3,
+      "text": "A well-constructed piece that operates more as philosophical comedy than proper heist fiction. The escalating failures — van breakdown, empty storage unit, surprise homeowner — provide solid structural rhythm, and the characters are cleanly differentiated. Where it falls short for me is stakes. The painting is a known forgery, the buyer may not exist, and the crew seems more interested in debating authenticity than in any concrete danger. The Lucien Grau letter is a strong narrative device, but by the time we reach the ending, the story has asked several interesting questions without answering any of them. Readers looking for tension and consequence may find this too cerebral for the genre.",
+      "date": "2026-02-09",
+      "helpfulCount": 27
+    },
+    {
+      "personaId": "adv-007-reed",
+      "rating": 4,
+      "text": "This is what happens when a heist story decides it would rather be an epistemological inquiry, and for once it actually works. The prose earns its digressions — the description of Lev moving through Julian Frome's house with 'a familiarity that was not specific to this house but general to this kind of house' does more character work than most writers accomplish in a chapter. The structural choice to let each attempt fail differently is smart; failure reveals character in a way that competence never does. Wallach is a small masterpiece of restraint. My only reservation is the ending — 'They went again' is the right note, but the story has been so precise about what it withholds that I wonder if it withholds too much. Still, genuinely impressive.",
+      "date": "2025-11-22",
+      "helpfulCount": 52
+    },
+    {
+      "personaId": "adv-008-yuki",
+      "rating": 3,
+      "text": "The register shifts are handled with real skill — Lev's aphoristic mode, Dinah's clipped practicality, Gideon's directness, Wallach's silences. Each voice is syntactically distinct, which is harder than it appears. The sentence about Captain assessing the situation 'with the unhurried judgment of the very old' has a rhythm I admire. But the story's wit occasionally crowds out its feeling. When Lev compares forgery to gentlemanliness, I wanted the prose to sit with the sadness underneath that comparison rather than move immediately to the next exchange. The tonal control is expert; the emotional range is narrower than the material warrants.",
+      "date": "2026-03-01",
+      "helpfulCount": 15
+    }
+  ]
+}
