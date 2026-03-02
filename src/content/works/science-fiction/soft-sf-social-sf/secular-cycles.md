@@ -10,8 +10,8 @@ workY: "The Years of Rice and Salt by Kim Stanley Robinson"
 wordCount: 3751
 readingTimeMinutes: 15
 tags: ["secular-cycles", "managed-collapse", "structural-demographics", "second-person", "civilizational-persistence", "institutional-violence"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 9
 publishedDate: "2026-03-01"
 status: "published"
 formulaSummary: "Le Guin's anthropological worldbuilding and Taoist restraint meet Robinson's institutional process drama in a second-person narrative about a historian who helped engineer her civilization's managed crises — until the population refused to participate."
