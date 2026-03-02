@@ -7,8 +7,8 @@ authorA: "Ray Bradbury"
 authorB: "George Saunders"
 workX: "The Martian Chronicles by Ray Bradbury"
 workY: "Tenth of December by George Saunders"
-wordCount: 7053
-readingTimeMinutes: 28
+wordCount: 7822
+readingTimeMinutes: 31
 tags: ["soft-sf", "corporate-dystopia", "domestic-vignettes"]
 rating: 0
 ratingCount: 0
@@ -41,7 +41,7 @@ Past the pool, the grocery. The Vantage Market. Still open, technically -- four 
 
 The light was doing something extraordinary. It came over the low hills to the east and caught the sprinkler water on Fennel Court -- he could still see it from here, three streets away -- and for a moment every arc of water was a strand of copper, bright and trembling, and the empty houses and the occupied houses and the neglected bark mulch and the ornamental pears were all the same thing, all held in the same generous amber light, and Dale thought what he thought every morning, which was: this place is so beautiful I could die here, and then: this place is dying and I am maintaining its corpse, and then: the 14-F zone timer needs recalibrating by three minutes.
 
-He drove on. The amber light followed him, as amber light does, as if the morning had nowhere else to be.
+He drove on.
 
 ---
 
@@ -168,7 +168,7 @@ She was on Sycamore Drive. Green. She was inside the zone.
 
 For now.
 
-The Japanese maple was visible through the kitchen window. It was mid-turn, the leaves going from green to that particular shade of red that seemed to come from inside the leaf itself, as if the tree were blushing, as if it had been caught doing something intimate. She had never planted a tree before this one. In the adjunct years, she had lived in apartments with balconies where she kept succulents that required nothing, that survived on neglect, that were, she realized now, the perfect plants for a life that might have to be packed into boxes at any moment. The maple was the opposite of a succulent. It was a commitment. It was roots in actual ground. It needed her, specifically, not in the way a succulent needs whoever happens to live there, but in the way a thing needs the person who chose it.
+The Japanese maple was visible through the kitchen window. It was mid-turn, the leaves going from green to that particular shade of red that seemed to come from inside the leaf itself, as if the tree were blushing, as if it had been caught doing something intimate. She had never planted a tree before this one. In the adjunct years, she had lived in apartments with balconies where she kept succulents that required nothing, that survived on neglect, that were, she realized now, the perfect plants for a life that might have to be packed into boxes at any moment. The maple was the opposite of a succulent. It was a commitment. It was roots in actual ground.
 
 She folded the memo. Carefully, along its creases. She opened the drawer beneath the microwave -- the junk drawer, the drawer of rubber bands and dead batteries and a screwdriver she'd never used and a takeout menu from a restaurant in the town she'd lived in before this one -- and she placed the memo inside.
 
@@ -204,17 +204,11 @@ This was the thing he could not explain to anyone, and he did not try, because t
 
 He was still coming to work because the work was real. The circuit breakers were real. The pipe fittings were real. The three-minute drift on Zone 14-F's timer was real and he could fix it and the fixing was a sequence of actions that had a beginning and a middle and an end and the end was water coming on at 5:44 a.m. instead of 5:47, which was correct, which was the way it was supposed to be, and in a place where nothing was the way it was supposed to be, a correctly timed sprinkler was not a small thing. It was the largest thing he had.
 
-He drove to Birch Lane, which was gray on the map, which was outside the ARZ, which was, according to Vantage's memo, scheduled for baseline maintenance only. Dale did not know what baseline maintenance meant because nobody had defined it and the definition probably existed in a document on a server in an office where nobody sat. He defined it himself: baseline maintenance meant he showed up. Baseline meant the houses would not fall apart on his watch. Baseline meant the motion-sensor light on the Parekh's old porch still caught him when he walked past, and he stood in its glow for a second, seen, acknowledged, a warm cone of light on a dark street, a kind of greeting from a house that remembered him even if no one inside did.
+He drove to Birch Lane, which was gray on the map, which was outside the ARZ, which was, according to Vantage's memo, scheduled for baseline maintenance only. Dale did not know what baseline maintenance meant because nobody had defined it and the definition probably existed in a document on a server in an office where nobody sat. He defined it himself: baseline maintenance meant he showed up. Baseline meant the houses would not fall apart on his watch. Baseline meant the motion-sensor light on the Parekhs' old porch still caught him when he walked past, and he stood in its glow for a second, seen, acknowledged, a warm cone of light on a dark street, a kind of greeting from a house that remembered him even if no one inside did.
 
 Because no one was inside. The Parekhs had gone in July.
 
 He fixed their dripping kitchen faucet anyway. It took four minutes. The drip had been wearing a pale green stain into the stainless steel sink, a slow record of time measured in minerals. He replaced the washer. The drip stopped. The silence where it had been felt larger than the sound.
-
-On the drive back, the sunset behind him, he passed the community pool. The vinyl cover had developed a tear, and the rainwater lake had drained to one side, and the leaves were composting in a smell that was halfway between earth and fermentation. He stopped the cart. He sat there. The pool had been, in summer, the center of the place. Kids cannonballing. Parents in lounge chairs with novels and sunscreen and the particular expression of people who are pretending to relax. The lifeguard, a college kid named Jamie who lasted two seasons before transferring to a pool with actual swimmers, had blown the whistle in a way that was both authoritative and shy, as if apologizing for the rules while enforcing them.
-
-Dale got out of the cart. He walked the perimeter of the fence, his boots on the concrete pool deck that still had the faint painted lines marking the lap lanes, still had the depth markers stenciled in blue -- 3 FT, 5 FT, 8 FT -- that were promises made to bodies that would never again lower themselves into that water. The diving board was still bolted to its platform, a fiberglass plank cantilevered over nothing, a gesture toward a plunge that no one would take.
-
-He pulled the vinyl cover tighter and weighted it with the cinder blocks stored behind the pump house. He did this not because anyone had asked, not because the pool would reopen, not because the gesture meant anything in the framework of phased reallocation and community transition planning. He did it because the cover should be tight. He did it because a thing should be the way it should be. He did it the way you set a clock to the right time even in an empty room.
 
 ---
 
@@ -224,7 +218,7 @@ Irene harvested the last of the Mortgage Lifters on a Wednesday in late October,
 
 Six tomatoes. The Mortgage Lifters were the ones Gil had loved best, though he'd grown them badly -- too much water, not enough pruning, the fruits always splitting at the shoulders from excess. She had learned to grow them properly only after he died, which was one of those facts about marriage that nobody tells you: that you inherit your spouse's unfinished projects and you finish them better than they did and there is no one to show.
 
-She held them in the bowl of an old colander, standing in her strip of garden, and she could feel the weight of them -- not just the physical weight, which was considerable, these were big sprawling tomatoes with the crevassed shoulders and the deep color that meant sugar and acid in the right balance -- but the weight of the season behind them, the months of water and staking and pinching suckers and watching for hornworms, the accumulated dailyness of tending, which was, she supposed, the only kind of wealth she had left.
+She held them in the bowl of an old colander, standing in her strip of garden, and she could feel the accumulated months behind them -- the water and staking and pinching suckers and watching for hornworms, the dailyness of tending, which was, she supposed, the only kind of wealth she had left.
 
 The Delgados' strip was still bare. She'd been looking at it all month.
 
@@ -254,30 +248,68 @@ She had almost left. Last week, with the second memo on the counter, she had ope
 
 But she hadn't closed the laptop and she hadn't booked a truck and she hadn't told Nate, and the reason was not the tree, though it was partly the tree. The reason was something she couldn't say to anyone, not even to herself in the clear light of morning. The reason was: leaving admits that the premise was wrong, and the premise cannot be wrong, because the premise is the ground under her feet, and if the ground is wrong then she has been standing on nothing for four years, and she cannot have been standing on nothing, because Nate is here, and Nate is real, and Nate is writing things down in his notebook, and if the ground was nothing then what has Nate been writing about?
 
-She was kneeling by the Japanese maple, and what she was doing with her hands was collecting the fallen leaves. They were beautiful, the leaves. They were the red of cardinals, the red of old barns, the red that exists at the precise intersection of alive and no longer alive, and she was gathering them not to dispose of them but to keep them, which she knew was irrational, which she did anyway, pressing them between the pages of a textbook she hadn't opened since grad school -- *The Norton Anthology of American Literature, Shorter Ninth Edition* -- so that the leaves of her tree would be preserved between the leaves of Whitman and Dickinson and Bradbury, for that matter, whose stories she'd taught once in a survey course before the survey was cut for low enrollment.
+She was kneeling by the Japanese maple, and what she was doing with her hands was collecting the fallen leaves. They were beautiful, the leaves. They were the red of cardinals, the red of old barns, the red that exists at the precise intersection of alive and no longer alive, and she was gathering them not to dispose of them but to keep them, which she knew was irrational, which she did anyway, pressing them between the pages of a textbook she hadn't opened since grad school -- *The Norton Anthology of American Literature, Shorter Ninth Edition* -- so that the leaves of her tree would be preserved between the leaves of Whitman and Dickinson.
 
 Nate's light was on in his window. She could see the shape of him at his desk, bent over his notebook. She did not know what he wrote in there. She knew he wrote. She knew that writing things down was his way of holding the world steady, of saying: this is what happened, and it happened in this order, and the order proves that I was here to see it.
 
 She wanted to tell him they should leave. The thought arrived every evening around this time, when the light went and the empty houses became shapes and the shapes became presences, all those rooms with their pencil marks and hook holes and the ghosts of dinner arguments, all those lives that had fit here and then hadn't. She wanted to tell him about the adjunct years, about what it was to have no ground, to be a person without a tree, to live in a way that could be packed into boxes. She wanted to say: I know what leaving feels like, and it is survivable, and we will survive it.
 
-But she didn't say it. Not because she was afraid, and not because she was lying to herself, and not because the Japanese maple had her trapped -- though it did, a little, the way anything you've tended has you trapped, the way the garden had Irene and the route had Dale and the notebook had Nate. She didn't say it because the leaving was still optional, and as long as it was optional she didn't have to face the part of herself that had made this choice -- this house, this town, this tree -- and had been wrong. Not wrong in the way that you buy the wrong brand of cereal. Wrong in the way that you build a life on a premise and the premise was: this will hold. And it didn't hold. But the tree was still turning. And her son was still writing things down. And somewhere on Larkspur Circle an old woman was planting garlic in soil that belonged to an entity that did not know garlic existed, and the garlic would winter over, and the wintering was its own argument, its own insistence, its own way of saying: I am not done.
+But she didn't say it. Not because she was afraid, and not because she was lying to herself, and not because the Japanese maple had her trapped -- though it did, a little, the way anything you've tended has you trapped, the way the garden had Irene and the route had Dale and the notebook had Nate. She didn't say it because the leaving was still optional, and as long as it was optional she didn't have to face the part of herself that had made this choice -- this house, this town, this tree -- and had been wrong. Not wrong in the way that you buy the wrong brand of cereal. Wrong in the way that you build a life on a premise and the premise was: this will hold.
 
 ---
 
-Tuesday. The last Tuesday in October. Dawn came the way it comes in that part of California -- not suddenly, not with drama, but as a slow persuasion, the dark loosening its hold on the hills degree by degree until the sky was the color of something between peach and ash, a color that had no name in any paint catalog, a color that existed only in the gap between night and morning in a valley where the air smelled of dry grass and the first frost hadn't come yet but you could feel it thinking about coming, the way you can feel a word forming in someone's mouth before they say it.
+## VII. November Phenology
 
-The sprinklers on Fennel Court came on at 5:44 a.m.
+Dale fixed the Zone 14-F timer on a Thursday. It took twenty minutes and a replacement capacitor he'd pulled from the irrigation controller on Sage Way, which no longer needed a controller because the last family on Sage Way had left the previous week and there was no one to water for, though the system had not been informed of this. He felt nothing about the repair. He did it and the timer was correct and that was that.
 
-Dale had fixed the timer. Zone 14-F was correct now, synced to the second, and the water arced out across the lawns of Fennel Court where three houses were occupied and four were not and the water fell on all of them equally because the system did not distinguish and Dale, who had fixed the system, did not distinguish either. He sat in the cart and watched the arcs and the light was the color of -- what. Not weak tea this time. Something else. Something he didn't have a name for. A color that existed only here, only now, in the particular conjunction of season and angle and moisture in the air, a color that would not repeat tomorrow because tomorrow the angle would be different by a degree and the moisture would be different by a fraction and the season would have advanced by one more day toward winter, and winter here was not the dramatic winter of the places Dale had come from -- not blizzards, not white fields, not the kind of cold that justifies itself through beauty -- but a mild brown hardening of the ground, a pulling-back, a season that looked like the land was deciding whether to continue.
+On the drive back he passed a house on Birch Lane where a window had cracked -- thermal stress, the kind that happens when you heat an empty house to 55 degrees and the outside drops to 38 at night. He noted the address. He had no replacement glass. He taped it with packing tape from the shed, which would hold through December, maybe January. After that he didn't know.
 
-Irene was already in her garden. He could see her from here, three streets away, a small figure kneeling. She was always there at dawn. She watered by hand because the system didn't reach her strip and because she had not asked for it to reach her strip and because, Dale suspected, she preferred the work of it, the hose and the hand and the choosing.
+---
 
-He started the cart. Fourteen houses today. Twelve tomorrow, probably. Ten the week after. The number went in one direction. The work remained.
+Nate's notebook, November:
 
-He drove past the pool. He did not stop. He raised one hand toward it as he passed -- not a wave, exactly, more an acknowledgment, the way you nod at someone you've seen every day for years and don't need to greet with words. The cover was still tight from where he'd weighted it. The leaves were still composting. The chain-link fence still had Kwame's dent, which Nate biked past every morning and which Dale had not repaired because a dent was a record and records should be kept and this was a thing he and Nate had never discussed but which they both understood, two people in a town of diminishing people, keeping records in their different ways -- Dale with his wrenches and his timer calibrations and his routes driven and his faucets fixed, Nate with his notebook and his squares and circles and triangles and his small garlic bulb drawn in the margin.
+*November 2 -- Counted again. Fennel Court: 3 of 7. Birch Lane: 3 of 12. Sycamore Drive: 7 of 15. Larkspur Circle: 5 of 9. Sage Way: 0 of 8. Total: 18 of 51. Sage Way is empty. Zero. Drew a special circle for a whole street going dark at once. Not sure what shape that should be. Used a circle but made it heavy, went over it three times.*
 
-The sky was doing something. It was always doing something but this morning it was doing a specific thing, a spreading of light from the east that turned the empty houses gold and the occupied houses gold and the ornamental pears gold and Irene's garden gold and the Japanese maple gold and Nate's window gold, and Dale drove through it the way you drive through weather, accepting it, unable to stop it, aware that it was the most temporary thing in the world and also the most reliable, this light, this particular light of a Tuesday morning in a place that was being left but had not yet been left, not completely, not yet, because someone was still watering and someone was still writing it down and someone was still driving the route and someone was still kneeling by a tree in the near-dark saying: not yet, not yet, not today.
+*November 9 -- Irene's garlic has not come up. Obviously. It's been twelve days. Garlic takes months. I know this. Checked anyway.*
 
-The sprinklers finished their cycle and shut off. In the silence, a mockingbird. In the silence after the mockingbird, the sound of water from Irene's hose, steady, deliberate, a woman choosing to do what a sprinkler does automatically, which was everything, which was the whole thing, which was the whole difference, which was not a thing you could put in a memo or a lease or a community transition plan but which was there, in the morning, in the dirt, in the weight of six tomatoes in a colander, in the pencil marks on a doorframe measuring a child who had gone, in the garlic wintering in ground it had never been promised.
+*November 14 -- Power out for six hours. 2am to 8am. Mom slept through it. I didn't. The house again. That sound. Wood and glass and air. Except this time there was also wind and the ornamental pear outside my window was scraping the gutter and it sounded like something trying to write.*
 
-The light held. The light held the way light does -- without trying, without knowing it was holding anything, without understanding that what it touched was precious. And then it moved on, as light does, leaving the town to its own keeping.
+---
+
+Irene did not expand further. She had the Delgados' strip and her own strip and that was enough. Eight feet by eleven feet total. She composted through November. She hauled leaves. She worked the fork. The new strip was still bad soil and would be bad soil for a long time but it was less bad than it had been and this was not nothing.
+
+She stopped leaving tomatoes on the maintenance shed doorstep because there were no more tomatoes. The season was over. She left a jar of pickled peppers instead, with a note that said DALE in block letters, because she had learned his name from his cart and because a jar without a name on it was a jar that could be ignored and Irene did not want to be ignored.
+
+Dale took the peppers home. Keiko put them on rice. They were searingly hot and Keiko's eyes watered and she said, laughing, "Who is this woman?" and Dale said, "She has a garden," and Keiko said, "We should introduce ourselves," and Dale said, "I think the peppers are the introduction," and they ate them and did not talk about the body shop in San Luis Obispo.
+
+---
+
+Lynn did not leave. She also did not unpack the boxes she had started to pack. They sat in the hallway closet, three of them, sealed with packing tape, labeled BOOKS 1, BOOKS 2, KITCHEN MISC, and they were there and they were ready and she walked past them every day and they were her version of Dale's let-me-finish-the-week, a preparation for a departure that stayed perpetually next.
+
+The Japanese maple lost its last leaves on November 20th. Nate logged it.
+
+*November 20 -- Mom's tree is bare. Skeleton. She stood at the window looking at it for a long time before work. I don't think she knows I saw. The bare tree is more honest than the red one. You can see the shape of it now. The actual shape. Without the leaves it looks like what it is, which is a living thing that has done this before and expects to do it again.*
+
+He looked at what he'd written. He crossed out the last sentence and wrote instead: *Bare.*
+
+That was phenology. That was the fact. The rest was diary.
+
+---
+
+December. The first frost came on the eighth, earlier than usual, and Dale found it on the windshield of the maintenance cart at 5:30 a.m. and sat in the cab with the heater running -- the cart's only luxury, that small electric heater -- and watched the frost crystals catch the security light from the shed. Hexagonal. Branching. Each one a variation on the same structure, which was a thought he'd had before about houses and families and he did not pursue it because pursuing it would have been a kind of thinking he did not do. He scraped the windshield with a credit card that had been declined in October and drove to his first house.
+
+Eleven houses on the route now. He did not adjust the route; he drove the full loop, past the dark houses and the cracked windows and the lawns that had gone brown where the sprinklers still ran and brown where they didn't, and the difference between watered-brown and unwatered-brown was not visible to anyone but Dale, who saw it in the texture, the way watered-brown was still pliable and unwatered-brown was brittle, and this distinction mattered to no one and he noted it anyway.
+
+On Larkspur Circle, smoke from Irene's unit. Not fire-smoke. Kitchen-smoke. She was cooking something and the smell came through the crack in her kitchen window and it was garlic -- not the garlic she'd planted, that was still underground, months from harvest, but garlic she'd bought or saved or been given, and the smell of it in the cold December air was so sharp and so alive that Dale stopped the cart and sat there breathing it in and for a moment the entire enterprise -- the maintenance of a community that was no longer a community, the servicing of houses that were no longer homes, the calibration of sprinklers that watered nothing -- all of it receded and there was just the smell of garlic frying in oil on a cold morning, which was an old smell, a human smell, a smell that predated Vantage Living Solutions and would outlast it.
+
+He drove on. He did not wave at Irene's window. She was not looking.
+
+At the end of his route, 9:47 a.m., he parked the cart at the maintenance shed and sat for a minute in the silence. The shed still had Tomoko's coffee mug on the shelf -- WORLD'S OKAY-EST EMPLOYEE, it said -- and Stu Breckinridge's rain jacket on the hook and Linda Waugh's spare pair of work gloves in the drawer. Dale had not moved any of it. He did not think of the shed as a memorial. He thought of it as a room where people had worked, where the evidence of their work remained, where someone might come back for a jacket or a mug and find it where they'd left it.
+
+No one was coming back.
+
+He locked the shed. The lock was a combination lock, 4-7-1-1, which was his employee ID minus two digits, and the combination existed in no system and no document and when Dale left -- not today, not this week, but eventually, when the dead reckoning ran out -- the combination would leave with him and the shed would be locked and nobody would know the numbers and the mug and the jacket and the gloves would sit in the dark.
+
+He got in his car -- his personal car, a 2019 Civic with 114,000 miles -- and drove home. Keiko was at work. The house was empty. He made coffee. He sat at the table. The house was quiet the way Nate had described: wood and glass and air.
+
+He drank the coffee. It was not good coffee. He drank it anyway.
