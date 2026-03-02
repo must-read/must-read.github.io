@@ -7,8 +7,8 @@ authorA: "Jennifer Egan"
 authorB: "Ling Ma"
 workX: "White Noise by Don DeLillo"
 workY: "Nickel and Dimed by Barbara Ehrenreich"
-wordCount: 5834
-readingTimeMinutes: 23
+wordCount: 5505
+readingTimeMinutes: 22
 tags:
   - statistics
   - economics
@@ -177,7 +177,7 @@ Lunch (desk, Mon-Fri): $11.40 average. The container is smaller than it was last
 
 Prescription copay (atorvastatin): $45.00. Was $15.00 under previous formulary. The increase reflects a plan design change, not a drug price increase, so it is excluded from the health component of the CPI. The plan design changed because the insurer reclassified the drug from Tier 1 to Tier 2. The insurer reclassified the drug because the manufacturer increased the wholesale price. The manufacturer's price increase IS captured in the Producer Price Index, which is a different index, maintained by a different division, published on a different Tuesday. The two Tuesdays do not talk to each other.
 
-Rent: $1,840. Lease renewal in June. Landlord's letter says $2,050. I have not opened the spreadsheet to calculate what this does to my unadjusted index because I already know, the way you know the weather from the ache in a joint you broke years ago.
+Rent: $1,840. Lease renewal in June. Landlord's letter says $2,050. I have not opened the spreadsheet to calculate what this does to my unadjusted index because I already know.
 
 Grocery bill (weekly average): $87.30. This number is almost useless because the composition changes every week — I buy what is on sale, which means I buy what the store has decided to discount, which means my diet is an artifact of pricing strategy. The Bureau calls this substitution. When the price of beef goes up twenty percent and I buy chicken, the CPI does not register that as inflation. It registers it as consumer choice. I chose chicken. I was not forced into chicken by the price of beef. The methodology assumes agency at the exact point where agency has been removed. I wrote a paper about this in graduate school, eleven years ago. The paper received a B+. The professor's marginal note, which I still have, reads: "Technically sound but overstates the normative implications of a modeling decision."
 
@@ -243,7 +243,7 @@ I've read your memo carefully. I understand your concerns about the cumulative d
 
 I want to be direct with you. The Bureau's methodology is reviewed annually by an independent advisory board. The board includes academic economists from four universities and two former Fed governors. The most recent review, completed in January, concluded that all revisions since 2024 are "consistent with best practices in survey methodology and reflect appropriate adaptation to evolving economic conditions."
 
-You are a GS-13 analyst. You are good at your job. You produce reliable work. But the methodology is not your decision. It is not mine. It is the output of a process that is larger than either of us and that process has produced a defensible result.
+You are a GS-13 analyst. You are good at your job. You produce reliable work. But the methodology is not your decision. It is not mine. It is the output of a process that is larger than either of us.
 
 I'm not asking you to agree. I'm asking you to understand the limits of your role.
 
@@ -255,7 +255,7 @@ The May number looks strong. Let's have it ready for Tuesday.
 
 ### CSI_PARALLEL_v3.xlsx — Sheet 3: Notes (continued)
 
-Jim's email is correct. My role has limits. I am an analyst of record. I produce the number. The number is reviewed. The number is released. The number enters the world as fact, and by the time it enters the world I am already working on next month's number, and the process is continuous, and the process is my job, and my job is my lease and my prescription copay and my Metro pass, and all of these things are denominated in the same economy the number describes, so my ability to question the number is funded by the number, which is a kind of structural constraint that I find easier to write about than to think about for more than a few minutes at a time.
+Jim's email is correct. My role has limits. I am an analyst of record. I produce the number. The number is reviewed. The number is released. The number enters the world as fact, and by the time it enters the world I am already working on next month's number, and the process is continuous, and the process is my job, and my job is my lease and my prescription copay and my Metro pass, and all of these things are denominated in the same economy the number describes, so my ability to question the number is funded by the number.
 
 I went to the cafeteria today. I've been avoiding it since December, eating at my desk — the $11.40 containers. But today the elevator opened on the wrong floor and I walked through the atrium and the cafeteria was right there, the way it always is, with its salad bar and its rotating soup and its tables by the window that look out onto Constitution Avenue.
 
@@ -269,14 +269,10 @@ I bought a coffee and went back to my desk. The coffee was $4.75. It was $3.50 w
 
 ### CROSS-REFERENCE NOTE — PERSONAL
 
-While reviewing international comparison data for an unrelated project, I noted the following:
-
 Costa Rica. GDP per capita: $13,420. Life expectancy: 80.8 years.
 United States. GDP per capita: $76,330. Life expectancy: 77.5 years.
 
-Costa Rica achieves a life expectancy exceeding ours with one-fifth our per-capita income. This is a number. It is the kind of number I was trained to produce and trained to interpret and it says something that the Consumer Sentiment Index, in any version — adjusted or unadjusted — is not structured to say.
-
-I put it in the spreadsheet. It doesn't belong there. It has no methodological relationship to consumer sentiment. But the spreadsheet is the only place where I keep numbers that mean what they say, and I needed it somewhere.
+I put it in the spreadsheet. It doesn't belong there. It has no methodological relationship to consumer sentiment. But the spreadsheet is the only place where I keep numbers that mean what they say.
 
 ---
 
@@ -286,11 +282,11 @@ I put it in the spreadsheet. It doesn't belong there. It has no methodological r
 
 **Printed text:** "The digital consumption credit reflects the Bureau's recognition that consumer welfare in the contemporary economy includes non-monetary benefits derived from digital platforms. Imputed values are calculated using the Bureau's Digital Welfare Estimation Model (DWEM-II), which assigns dollar-equivalent values to time spent on ad-supported digital services based on revealed preference analysis."
 
-**Margin note (blue ink):** *Time spent on ad-supported services. Revealed preference. A woman in the bottom quintile scrolls her phone for forty minutes on a bus because the bus takes forty minutes and she has already worked one shift and is going to another and the scrolling is not a preference it is the absence of an alternative and the model counts it as $3.20 of imputed welfare and the $3.20 offsets $3.20 of price increase in gasoline or bread or electricity and the index moves up by a fraction of a point and I am the one who moves it.*
+**Margin note (blue ink):** *Time spent on ad-supported services. Revealed preference. A woman in the bottom quintile scrolls her phone for forty minutes on a bus because the bus takes forty minutes and she has already worked one shift and is going to another and the scrolling is not a preference it is the absence of an alternative and the model counts it as $3.20 of imputed welfare that offsets a price increase in gasoline or bread or electricity and the index moves up by a fraction of a point and I am the one who moves it.*
 
 **Printed text:** "DWEM-II has been validated against consumer time-use surveys conducted by the Bureau of Labor Statistics and shows strong correlation (r = 0.81) between imputed digital welfare values and self-reported life satisfaction among digital platform users."
 
-**Margin note (blue ink):** *Among users. Who are the non-users? What is their self-reported life satisfaction? The validation study excludes respondents without broadband access (14% of bottom quintile). Excluding them improves the correlation. Improving the correlation validates the model. Validating the model justifies the credit. The circularity is so clean it could be a proof.*
+**Margin note (blue ink):** *Among users. Who are the non-users? What is their self-reported life satisfaction? The validation study excludes respondents without broadband access (14% of bottom quintile). Excluding them improves the correlation. Improving the correlation validates the model. Validating the model justifies the credit.*
 
 **Margin note (blue ink, different pen pressure, possibly later):** *I should not be writing in the margins of official documents. I should not be keeping a parallel index. I should not be lying awake calculating the gap. I should not be doing any of this and I cannot stop and the cannot-stopping is not courage, it is the same compulsion that makes me check the decimal places twice, that makes me re-derive the seasonal factors by hand when the software has already computed them, it is the part of me that was trained to care about the number being right and the part of me that cares about the number being right is the same part that produces the number that is wrong. The training does not distinguish. The caring does not distinguish. I am a precise instrument pointed at the wrong object and the precision is the problem.*
 
@@ -315,7 +311,7 @@ The overall response rate for the June 2026 wave was 34.2%, compared to 51.8% in
 
 Declining response rates in lower income quintiles are consistent with national trends in survey participation and do not, in the judgment of the methodology committee, introduce systematic bias, as non-response adjustments are applied per Bureau standard practice.[^3]
 
-[^3]: Non-response adjustment assumes that non-respondents within a demographic cell hold, on average, the same sentiment as respondents in that cell. This assumption is standard. It is also, in the lower quintiles, almost certainly false. People who do not answer surveys about how they feel about the economy are disproportionately people who are working two jobs, or who have moved and not updated their address, or who have stopped answering their phone because most calls are debt collectors or scams. Their absence from the data is not random. Their absence is informative. But the methodology has no mechanism for treating absence as information. Absence is a gap in the data. It is handled with imputation. The imputed values are, by construction, identical to the values of people who did respond, which means the index is increasingly a measure of how people who answer surveys feel about the economy, which is increasingly a measure of how people with stable addresses and available time and some remaining faith in the purpose of being asked feel about the economy, which is a fine thing to measure and is not the same thing as consumer sentiment, and I don't know when I stopped being able to tell the difference between the thing we measure and the thing we say we measure, except that it wasn't sudden, it was like the way your eyes adjust to a dark room and after a while you think you can see.
+[^3]: Non-response adjustment assumes that non-respondents within a demographic cell hold, on average, the same sentiment as respondents in that cell. This assumption is standard. It is also, in the lower quintiles, almost certainly false. People who do not answer surveys about how they feel about the economy are disproportionately people who are working two jobs, or who have moved and not updated their address, or who have stopped answering their phone because most calls are debt collectors or scams. Their absence from the data is not random. Their absence is informative. But the methodology has no mechanism for treating absence as information. Absence is a gap in the data. It is handled with imputation. The imputed values are, by construction, identical to the values of people who did respond, which means the index is increasingly a measure of how people who answer surveys feel about the economy, which is increasingly a measure of how people with stable addresses and available time and some remaining faith in the purpose of being asked feel about the economy, which is a fine thing to measure and is not the same thing as consumer sentiment, and I don't know when I stopped being able to tell the difference between the thing we measure and the thing we say we measure, except that it wasn't sudden.
 
 ---
 
@@ -350,7 +346,7 @@ The unadjusted index is 64.1. This is not a recession number. This is not a down
 
 ### DAILY RECORD — R. CALDWELL — JULY 1, 2026
 
-Badge in: 8:47 AM. The lobby scanner made its small confirming sound. The sound means: you belong here. I have heard this sound approximately 1,200 times. Elevator to 6. The elevator has a screen that shows the Bureau's latest releases. Today it displays: CSI REACHES 100.2 — HIGHEST SINCE FEBRUARY 2020. The font is Calibri. The background is the blue-to-green gradient.
+Badge in: 8:47 AM. The lobby scanner made its small confirming sound. The sound means: you belong here. I have heard this sound approximately 1,200 times. Elevator to 6. The elevator has a screen that shows the Bureau's latest releases. Today it displays: CSI REACHES 100.2 — HIGHEST SINCE FEBRUARY 2020. The font is Calibri.
 
 Desk by 8:53. Computer on. Two monitors. Left monitor: Bureau network, secure. Right monitor: email, calendar, shared drives. I have a third screen in my bag — the laptop — but I do not take it out at work. The laptop stays in the bag the way a flask stays in a coat, hidden not because anyone is checking but because the hiding is part of the thing.
 
@@ -362,9 +358,9 @@ I write the bullet points. They take four minutes. They are accurate. Every word
 
 I write: "Consumer sentiment reached 100.2 in June, the highest reading in over six years, reflecting broad-based improvement in household financial assessments and forward-looking expectations."
 
-I do not write: The improvement is broad-based in the way that a survey with a 22% response rate in the bottom quintile is broad-based. I do not write: The forward-looking expectations are forward-looking in the way that asking people who answer their phones how they feel about the future is forward-looking. I do not write anything that I would need to delete.
+I do not write: The improvement is broad-based in the way that a survey with a 22% response rate in the bottom quintile is broad-based. I do not write: The forward-looking expectations are forward-looking in the way that asking people who answer their phones how they feel about the future is forward-looking.
 
-12:15 PM. Lunch at my desk. The container is the smaller one. I eat without tasting and this is a choice I make every day, the choice to remain in a life where the not-tasting is the natural thing to do, where the natural thing is to badge in and sit down and produce the number and eat the lunch and the lunch costs $11.40 and the number says the economy is strong and I am part of the economy and the economy is part of the number and the number is part of me and this is the loop, the closed loop, and inside the loop it is possible to function, and functioning is what I do.
+12:15 PM. Lunch at my desk. The smaller container. I eat without tasting, and inside the not-tasting it is possible to function, and functioning is what I do.
 
 4:30 PM. I finish the data intake protocol for July. I proofread the previous month's Appendix D — the one with the response rates that were moved from the body text to the appendix by request. Appendix D is six pages long and is available upon request and nobody has requested it. It has been downloaded once. The download log does not identify the user. It was me. I downloaded it from my personal laptop on a Tuesday night to check whether the version they published matched the version I submitted. It did not. The quintile-specific rates were rounded to whole numbers, removing the decimal precision that would let a reader calculate the exact non-response differential. The rounding was consistent with Bureau publication standards. The precision I had included was, technically, excessive.
 
@@ -378,15 +374,3 @@ July intake data is starting to come in. Early responses only — the people who
 
 The preliminary July CSI will be above 100. I know this the way I know that my rent is going up in June and my copay is going up in August and my lunch container is going to get smaller again and none of these things will appear in the index I produce because the index has been adjusted and I have not been adjusted and the adjustment is the normal state and I am the outlier and the methodology was designed to smooth outliers and I am standing in the gap between the two numbers — the one I produce and the one I keep — and the gap is 36.1 points wide and I can feel it in my body the way you feel weather, the way you feel the particular pressure of a room where everyone has agreed not to mention the thing that is happening, and the thing that is happening is that the number is wrong and the number is not wrong and both of these are true and I go to work in the morning.
 
----
-
-### METHODOLOGY NOTE — CSI RELEASE 2026-07 (PRELIMINARY)
-
-**Prepared by:** Office of Consumer Measurement, Division of Behavioral Indices
-**Analyst of Record:** R. Caldwell (GS-13, Step 4)
-
-**Summary of Index Values**
-
-The Consumer Sentiment Index for July 2026 (preliminary) stands at 101.1.
-
-All values are seasonally adjusted unless otherwise noted.
