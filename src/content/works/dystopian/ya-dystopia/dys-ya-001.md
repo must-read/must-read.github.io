@@ -7,8 +7,8 @@ authorA: "N.K. Jemisin"
 authorB: "Neil Gaiman"
 workX: "The Hunger Games"
 workY: "Coraline"
-wordCount: 4582
-readingTimeMinutes: 18
+wordCount: 3944
+readingTimeMinutes: 16
 tags: ["gamification", "surveillance", "adolescence", "systemic oppression", "coming-of-age", "algorithmic sorting", "complicity"]
 rating: 0
 ratingCount: 0
@@ -35,7 +35,7 @@ combination:
     - "A child who must see what the adults around them cannot or will not"
 ---
 
-You check your Clarity score on the way to the bus stop because that's what you do at 7:14 in the morning, the same way you check the weather or whether your shoes match. The number sits in the corner of your phone: 2,247. Up eleven from yesterday. A small green arrow.
+You check your Clarity score on the way to the bus stop because that's what you do at 7:14 in the morning, the same way you check whether your shoes match. The number sits in the corner of your phone: 2,247. Up eleven from yesterday. A small green arrow.
 
 You are fifteen. Your name is Sable. You have been in the system since kindergarten, which means you don't remember not being in it, which means it isn't a system to you. It's just how things work. The way gravity is a system, technically, but you don't walk around thinking about gravity. You just walk.
 
@@ -91,7 +91,7 @@ But your stomach drops before your brain catches up.
 
 ---
 
-Here is the thing about seeing: once you start, the not-seeing requires effort.
+Here is the thing about seeing: you can't stop.
 
 You go home. You eat dinner. Your mom made dal and the kitchen smells like cumin and you sit at the table with your phone face-down the way your parents prefer and your dad asks about your Clarity and you say "twenty-two forty-seven" and he nods and says "steady" and that's the conversation, and you go to your room and open the district website on your laptop and download every quarterly transparency report from the last four years.
 
@@ -113,7 +113,7 @@ You sit there. Your phone buzzes — Wren texting about the English reading — 
 
 ---
 
-Here's what you find when you keep looking, because you keep looking, because the system taught you to look and the one thing it didn't anticipate is that someone would use the tools to look at the system itself:
+Here's what you find when you keep looking:
 
 Review students are assigned to "individualized programming partners." These are listed by name in the transparency report's appendix. You look them up. They're companies. Workforce Solutions Integrated. PivotPath Learning Corp. Trident Youth Services.
 
@@ -129,9 +129,7 @@ The system takes students who fall below a certain threshold. It designates them
 
 The system is not broken. The system is working.
 
-You think about the Keystones. Wren, with her 3,891, racing toward early admission and mentorship and a future so bright the district puts her photo on the website. You think about what Keystones are for. They're the proof. They're the thing the district points to and says: *look, it works.* Sixty-two students per year, lifted up, celebrated, proof of concept. And for every Keystone, there are thirteen Midline students keeping their heads down and seven Provisional students scrambling and two Review students being quietly converted to revenue.
-
-The numbers balance. They always balance. That's what makes it beautiful.
+You think about the Keystones. Wren, with her 3,891, racing toward early admission and mentorship. You think about what Keystones are for. Sixty-two students per year, lifted up, celebrated. And for every Keystone, there are thirteen Midline students keeping their heads down and seven Provisional students scrambling and two Review students being quietly converted to revenue.
 
 ---
 
@@ -139,9 +137,7 @@ You don't sleep well. You lie in the dark and listen to the furnace click on and
 
 You go to school the next day.
 
-This is the part of the story where, in a different version, you'd do something. Bring the spreadsheet to the principal. Show your parents. Organize a walkout. Hack the system. Refuse your Clarity score. Stand on a table in the cafeteria and shout.
-
-You go to first period and sit in your chair and open your tablet and check your Clarity. 2,253. Up six. The green arrow. You did your homework last night. Between downloading transparency reports and building a spreadsheet that maps the financial architecture of child extraction, you also completed a worksheet on quadratic equations, because the worksheet is due today and you need the completion points. You did both of those things in the same hour, on the same laptop, and neither one felt more or less real than the other.
+You go to first period and sit in your chair and open your tablet and check your Clarity. 2,253. Up six. The green arrow. You did your homework last night. Between downloading transparency reports and building a spreadsheet, you also completed a worksheet on quadratic equations, because the worksheet is due today and you need the completion points. You did both of those things in the same hour, on the same laptop, and neither one felt more or less real than the other.
 
 Because what would you say? Everything you found is public. It's published quarterly in a report designed to be read. The contracts are on the website. The revenue figures are in the budget. Mrs. Pavlou answered your question and she didn't lie. Nobody lied to you, ever, about any of this.
 
@@ -149,9 +145,9 @@ You live here. This is your school. These are your metrics. You need to graduate
 
 Your aunt. You haven't thought about her in a while. She was Provisional for a long time, and then one quarter she wasn't, and she moved, and your parents said she was "getting more support," and you were twelve and didn't ask questions because twelve-year-olds don't ask questions about things that sound fine.
 
-Your mother stopped talking about her sister around the same time. Not in a dramatic way. The name just stopped appearing in conversation, like a word that falls out of use.
+Your mother stopped talking about her sister around the same time. Not in a dramatic way. The name just stopped appearing in conversation.
 
-You wonder what her per-student revenue was. Whether that's even how it works for adults, or if there's a different word for it when you're thirty-four and the system redesignates you as something that generates more money by disappearing than by staying.
+You wonder what her per-student revenue was. Whether that's even how it works for adults, or if there's a different word for it.
 
 ---
 
@@ -167,7 +163,7 @@ Wren notices you're quiet at lunch.
 
 "It's fine. I'm still on track."
 
-On track. You watch Wren eat her sandwich and think about how the system gave her a number and the number became a language and the language became a world and she lives in that world the way you live in it, the way everyone lives in it, and the number is real. Her 3,912 means real things. It opens real doors. The fact that those doors exist because other doors close for other people — that's not a flaw in the math. That's what the math is for.
+On track. You watch Wren eat her sandwich and think about how her 3,912 means real things. It opens real doors. The fact that those doors exist because other doors close for other people — you don't know what to do with that thought. You eat your apple.
 
 "You look weird," Wren says.
 
@@ -179,11 +175,7 @@ On track. You watch Wren eat her sandwich and think about how the system gave he
 
 "It's good. It's about a girl who goes through a door into another world where everything is better but then it turns out the other world is eating her."
 
-"Subtle."
-
-"It's for ninth graders."
-
-You almost laugh. You do, a little, and it comes out wrong, and Wren gives you a look and you eat your apple and the bell rings and you go to Civic Analytics and sit down and Mrs. Pavlou says, "This is your system," and you think: yes. It is.
+You almost laugh. You do, a little, and it comes out wrong, and Wren gives you a look and the bell rings and you go to Civic Analytics and sit down and Mrs. Pavlou says, "This is your system," and you look at the wall behind her head and think about $27,300.
 
 ---
 
@@ -191,7 +183,7 @@ Here is what you do with what you know.
 
 Nothing.
 
-Not nothing-nothing. Not ignorance. You can't go back to not-seeing; the not-seeing is over and it's over permanently, the way you can't un-learn that the tooth fairy was your mother. But you don't stand up. You don't speak out. You don't become a symbol or a martyr or a glitch in the machine.
+Not nothing-nothing. Not ignorance. You can't go back to not-seeing. But you don't stand up. You don't speak out.
 
 You go to class. You do your assignments. You log your collaboration hours and your community contributions and you watch your Clarity inch upward, green arrow, green arrow, green arrow. You do this because you're fifteen and you live here and the system is the ground you stand on and you can't fight the ground.
 
@@ -215,9 +207,7 @@ Not disappears. Is reclassified. Mrs. Pavlou — different class, same Mrs. Pavl
 
 The system saw all of this. The system tracked it in real time. The system's behavioral adjustment algorithm noted the drop and triggered the reclassification threshold and generated a recommendation and someone — a person, presumably, somewhere in an office with a coffee mug and family photos — approved the transfer and now Theo is in Review getting individualized programming from a company that will be paid $18,400 for him, of which $9,300 will be spent on him, and he will generate $27,300 in revenue, and his desk is occupied by a girl named Priya who transferred from Building C and doesn't know whose seat she's sitting in.
 
-You want to be angry. You are angry. But the anger doesn't have anywhere to go because there's no villain. There's no President Snow, no gamemaker behind a screen, no other mother with button eyes stitched where the real ones should be. There's a system. There are algorithms. There are contracts and quarterly reports and a school board that meets on the second Thursday of every month, open to the public, minutes published online. You could attend. You could sit in the back row and listen to them discuss the budget in the fluorescent hum of a municipal meeting room and it would all be exactly what it says it is.
-
-The cruelty isn't hidden behind the kindness. The cruelty is the kindness. They're the same thing wearing different faces and the face it wears for you, Midline Sable with your green arrows, is the nice one, and the face it wears for Theo is the other one, and both faces have the same skull underneath.
+You want to be angry. You are angry. But the anger doesn't have anywhere to go because there's no villain. There's a system. There are algorithms. There are contracts and quarterly reports and a school board that meets on the second Thursday of every month, open to the public, minutes published online. You could attend. You could sit in the back row and listen to them discuss the budget in the fluorescent hum of a municipal meeting room and it would all be exactly what it says it is.
 
 ---
 
@@ -231,11 +221,9 @@ You think about that. The system shows you everything about how the money moves 
 
 You do not talk to anyone about this. Not because you're afraid — though you are afraid, a little, in a low hum way that sits behind your ribs like a second heartbeat — but because you don't know what you'd say. Look at this spreadsheet? The information is already public. Look at these contracts? They're on the website. Look at how the system works? Everyone can see how the system works. That's the point. That's the entire point.
 
-The transparency is the trick.
+If the system were secret, you could expose it. If the data were hidden, you could leak it. If someone were lying, you could tell the truth. But nobody is lying. The data is available. The system is visible. It's all right there, every number, every algorithm, every contract.
 
-If the system were secret, you could expose it. If the data were hidden, you could leak it. If someone were lying, you could tell the truth. But nobody is lying. The data is available. The system is visible. It's all right there, every number, every algorithm, every contract, and the genius of it — the real, genuine, elegant genius — is that visibility reads as fairness. If you can see it, it must be okay. If it's published, it must be justified. If nobody's hiding anything, there's nothing to find.
-
-Except there is. The thing you found is just the thing itself. Not a secret behind the system. The system, seen clearly, in the light it built for itself.
+You just don't know what to do with that.
 
 ---
 
@@ -245,7 +233,7 @@ You stop yourself. You hug your friend. She deserves this. The fact that her suc
 
 There's a ceremony. The Keystones stand on a stage in the auditorium and Principal Alderman reads their names and their Clarity scores and the audience claps and there's a photographer from the district newsletter. Wren's parents are in the third row. Her mother is recording on her phone. Her little brother is picking at a thread on his sleeve.
 
-You clap until your palms sting. Wren catches your eye from the stage and grins and you grin back and the grin is real, every part of it is real, and it sits inside you next to the spreadsheet and neither one cancels the other out and that's the part nobody tells you about knowing things — that the knowing doesn't replace the feeling. They coexist. They grow in the same soil.
+You clap until your palms sting. Wren catches your eye from the stage and grins and you grin back and the grin is real, every part of it is real, and it sits inside you next to the spreadsheet and neither one cancels the other out.
 
 Your Clarity is 2,410. Your dad says "almost twenty-five hundred" like it's a summit he can see from here, and you nod, and you eat dinner, and you go to your room and open the spreadsheet.
 
@@ -265,9 +253,7 @@ Not for class. On her own. Page thirty-one, table 7B.
 
 You watch her face. You see the moment. Not a big moment. Not a gasp or a flinch. Just a small stillness, a pause in the scrolling, and then she scrolls back up and reads it again, and her mouth does something complicated that isn't quite a frown.
 
-She looks up. She catches you watching. You hold her gaze for one second, two seconds, and you don't say anything and she doesn't say anything and then you both look away.
-
-But you know. And she knows you know. And this is — it's not a revolution. It's not even a conversation. It's two people in a room who can see the same wall and know it's a wall and not a door.
+She looks up. She catches you watching. You hold her gaze for one second, two seconds, and then you both look away.
 
 You think about Darya's old district. Forty percent Review. You think about what that means in revenue. You think about who made money when District 11 collapsed, and whether "dissolved" is just the adult version of "reclassified."
 
@@ -279,16 +265,10 @@ The behavioral weighting that punishes loudness and rewards silence. The communi
 
 You're not building a case. You're not preparing a presentation. You're not even sure anyone will ever see this file.
 
-But you think about a book you read for English — the one about the woman who could break the earth apart with her hands — and a line in it about how the first act of resistance is memory. Just knowing. Just keeping the record. Because the system wants you to see the numbers and not see the pattern, and the pattern is not hidden, it's just distributed across a hundred pages of transparent data that nobody reads together.
+You don't have a reason for it. You just keep the file updated, the way your mom keeps a box of letters in the closet, the way people keep things they don't know how to use yet.
 
-You close the laptop. You set your alarm. You go to sleep.
+You close the laptop. You set your alarm. You lie in the dark for a while.
 
-Tomorrow you'll check your Clarity score at 7:14 on the way to the bus stop because that's what you do in the morning. The number will be there, in the corner of your phone, with its little arrow. You'll ride the bus with Wren, who is a Keystone now and glowing with it. You'll sit in Civic Analytics and Mrs. Pavlou will say, "This is your system," and she'll be right.
+Your Clarity will be higher tomorrow. You'll check it at the bus stop, the way you always do. Wren will tell you about her mentorship placement. Mrs. Pavlou will say, "This is your system." You'll sit in your chair and do the worksheet.
 
-It is your system. It was always your system. You just didn't know what that meant.
-
-You know now. You know it in your stomach, which learned before your brain, and you know it in your spreadsheet, which holds the seams, and you know it the way you know the temperature of water — not because someone told you, but because you're in it.
-
-You're fifteen. You live here. You earn your points. You level up. And you keep your eyes open, which is not the same as fighting and not the same as winning and not the same as hope, exactly, but is the thing that comes before all of those, the thing they'd take from you if they knew you had it.
-
-The system is transparent. You can see right through it.
+And the spreadsheet will be on your laptop, in a folder you haven't named, and you won't know what it's for.
