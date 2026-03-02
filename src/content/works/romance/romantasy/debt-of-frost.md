@@ -7,8 +7,8 @@ authorA: "Alyssa Cole"
 authorB: "Robin Hobb"
 workX: "A Court of Thorns and Roses by Sarah J. Maas"
 workY: "Spinning Silver by Naomi Novik"
-wordCount: 6755
-readingTimeMinutes: 27
+wordCount: 6093
+readingTimeMinutes: 24
 tags:
   - romantasy
   - fairy-tale
@@ -148,11 +148,11 @@ He was quiet long enough that the silence developed texture.
 
 "Disruption," he said. "The residual measures the degree to which a mortal's presence altered the court's economy. Most register very little. They come, they give warmth, they endure the cold, they leave. The court closes over the disturbance the way ice closes over a hole. But some — " He paused. "Some leave residuals so large that the court's economy restructures around them. New debts form. Old debts shift. The system is not the same system after they leave."
 
-I looked at the numbers again. Most were small — single digits. But two were large. Double digits. One was the largest number on any of the sheets.
+I looked at the numbers again. Most were small — single digits. But two were large. Double digits.
 
 "Which one am I?" I said.
 
-He did not answer. But he looked at the largest number, and then he looked at me, and the looking was the answer.
+He did not answer. He was looking at the sheets, but his gaze had gone inward, the way it did when his court's economy was processing something it had no category for. I could not tell if he was looking at the largest number or at one of the smaller ones, and the not-knowing bothered me more than any answer would have.
 
 After the records room, the court treated me differently. Not with warmth — nothing here was warm — but with a kind of grudging inclusion. The tall servant who brought my meals began setting an extra cup on the tray, filled with a liquid that was not water and not tea but something in between, faintly bitter, body-temperature when it reached me, though I suspected it started cold and the court's economy heated it as a concession — a debt paid to the concept of hospitality, which the court owed to those it recognized as participants rather than visitors. The doors I had not been able to open now hesitated before refusing me, as though reconsidering. The corridors I walked seemed to shorten, subtly, by a step or two each week, the castle literally contracting around me the way a living thing contracts around a foreign object: not to expel it, but to hold it closer, to understand it through proximity. I was being tested. Not by the frost lord — by the court itself, which had its own intelligence, its own economy of assessment. Every room I entered, every debt-exchange I witnessed and catalogued, was recorded somewhere in the architecture, and the architecture was deciding what I was worth.
 
@@ -210,13 +210,13 @@ I opened my mouth and found I had no answer. The silence that followed was diffe
 
 That was the night I understood that the bargain was working in a direction I had not anticipated.
 
-I was losing warmth. This was the contract. But warmth, it turned out, was not a single thing. It was not a substance that could be removed like liquid from a vessel. Warmth was structural. It was the architecture of being alive — the framework that held sensation and connection and presence in place. As it left me, piece by piece, what remained was not a colder version of the same person. What remained was a different person. Someone who could see the frost lord's court with absolute clarity because she no longer had the warmth to distort her vision. Someone who could read his economy without bias because she was no longer invested in the outcome. Someone who was becoming, through loss, the exact instrument needed to understand him.
+I was losing warmth. This was the contract. But warmth, it turned out, was not a single thing. It was not a substance that could be removed like liquid from a vessel. Warmth was structural. It was the architecture of being alive — the framework that held sensation and connection and presence in place. As it left me, piece by piece, what remained was not a colder version of the same person. What remained was a different person. Sharper. Less invested. The kind of clarity you get when you stop caring whether the numbers come out in your favor.
 
-And understanding him was, I realized, the most dangerous thing I could do.
+And that clarity showed me something the contract had not prepared me for.
 
-Because the frost lord was not what the terms of the bargain described. The terms described a being who took warmth and gave forgiveness of debt — a simple exchange, cold for absolution. But the actual creature — the thing that lived inside the architecture of the contract — was lonely. Not in the way mortals are lonely, with the ache of it, the desperate reaching. He was lonely the way a frozen lake is lonely: completely, structurally, from the surface to the bottom, the loneliness not an emotion but a physical state, a condition of the medium. His entire court — the servants, the rituals, the elaborate economy of debts — was a system built to manage loneliness without curing it. A machine for being alone, together, without ever having to name what was missing.
+The frost lord was lonely. Not in the way mortals are lonely, with the ache of it, the desperate reaching. He was lonely the way a frozen lake is lonely: completely, structurally, from the surface to the bottom, the loneliness not an emotion but a physical state. His entire court — the servants, the rituals, the elaborate economy of debts — was a system built to manage loneliness without curing it.
 
-I should not have seen this. The contract did not require me to see it. But I was a counter, and I had counted everything else, and eventually the only thing left to count was what wasn't there.
+I should not have seen this. The contract did not require me to see it. But I was a counter, and I had counted everything else.
 
 "You're running at a deficit," I told him, on a day deep enough into winter that I'd stopped tracking the number. I'd lost other things too — the warmth had retreated past my elbows and knees, the capacity for registering texture against my skin had been reclassified into data without sensation.
 
@@ -240,7 +240,7 @@ I started laughing. I couldn't feel the laughter — it emerged from my chest as
 
 "I would recommend," I said, when I could speak, "that you stop treating warmth as a commodity and start treating it as a relationship."
 
-He stared at me. His retreating-sky eyes held very still.
+He stared at me. Something in his expression went flat — not the controlled stillness I was used to, but the blankness of something that had been struck.
 
 "I don't know what that means," he said.
 
@@ -258,19 +258,17 @@ I answered honestly, which meant I answered from an increasing distance. The war
 
 "You have taken what the contract specified. Nothing more."
 
-"No," he said, and his voice cracked, and I heard it — the sound of ice breaking, not at the surface but deep, in the stratum where the cold was structural, where it had been solid for so long that the breaking was not a fracture but a remaking of the entire architecture. "I have taken more. The contract specified warmth. But warmth is not — it is not a single thing. I did not know. I thought I was taking temperature. I was taking you. The part of you that feels. The part that laughs with heat and not just sound. The part that would have been able to — "
+"No," he said, and his voice cracked — not dramatically, not like ice calving from a glacier, but small, the way a glass cracks when you pour something too hot into it. "The contract specified warmth. I thought — I thought that was a temperature. A measurable thing. I did not know it was the part that —"
 
-He stopped. He looked away. The blue fires reflected in his eyes, and for the first time I saw them not as retreating light but as light that wanted to advance and could not.
+He stopped. His hands were on the table, and I watched him press his fingers into the stone as though he could hold onto the sentence by force.
 
-"To what?" I said.
+"The part that what?" I said.
 
-"To feel what I am feeling. Which is the mortal thing you described. The deficit. The unsustainable model. I am experiencing it now, and I understand why you laughed, because it is absurd — I have spent a season carefully removing from you the exact capacity you would need to receive what I want to give, and I did not see it because I did not know what I was taking, because I have never had it, because cold does not understand warmth the way warmth understands cold. Cold only knows that warmth exists and that it wants it. It does not know what warmth is for."
+He did not answer for a long time. When he spoke again, it was quieter, and less structured, as though the sentence was finding its own shape against his will.
 
-I sat with this. The coins gleamed between us, three hundred and sixty-one small moons on the dark stone table.
+"I have spent a season removing from you something I did not understand. And now I understand it, and the understanding is — it is not useful. It comes too late. Cold does not learn warmth by taking it. Cold learns warmth by discovering what is missing after the taking is done."
 
-"That," I said slowly, "is not a problem I know how to count."
-
-"No."
+I sat with this. The coins lay between us. I noticed, for the first time, that his hands were trembling — a fine, barely visible vibration, like a tuning fork struck so softly you could only see it, not hear it.
 
 "And you can't give it back. The warmth. The contract doesn't allow reversal."
 
@@ -280,11 +278,11 @@ I sat with this. The coins gleamed between us, three hundred and sixty-one small
 
 "Yes."
 
-I looked at his hands, which were resting on the table near the outer spiral of coins. Long fingers, blue-white, still as stone. I had catalogued every object in his treasury. I had mapped the economy of his court. I had counted his servants, his corridors, his debts, his fires. I had counted everything countable and had arrived, finally, at the thing that was not countable, and it was him — not as a lord or a creature or a party to a contract, but as a being who had just discovered, in the act of taking what he wanted, that what he wanted was not what he'd taken.
+I looked at his hands. Long fingers, blue-white, still trembling. I had catalogued every object in his treasury. I had mapped the economy of his court. I had counted his servants, his corridors, his debts, his fires. And here was the thing I could not count, sitting across from me, unable to stop shaking.
 
 I reached across the table and put my hand over his.
 
-I could not feel it. My hand was numb past the wrist, past the elbow, the cold settled so deep that the bones themselves felt like things that belonged to someone else. I could not feel his skin or the temperature difference or the pressure or the texture. I could see my hand on his hand and I knew, as a fact, as data, as a number in a ledger, that I was touching him.
+I could not feel it. The cold had settled past my elbows, into the bones. I could see my hand on his hand and I knew, as data, that I was touching him. The knowledge had no sensation attached to it. It was a number without a unit.
 
 He looked at our hands. Then at me.
 
@@ -296,56 +294,48 @@ He looked at our hands. Then at me.
 
 "It's not an exchange," I said. "That's the point."
 
-The winter ran its remaining weeks. I won't pretend those weeks were a transformation — that the frost lord thawed, that warmth returned ahead of schedule, that love conquered the architecture of the court and remade it in warmer colors. None of that happened. The cold continued. The blue fires burned without heat. The servants moved in their silent currents. The terms of the contract held.
+The winter ran its remaining weeks. The cold continued. The blue fires burned without heat. The servants moved in their silent currents. The terms of the contract held, and nothing in those terms changed.
 
 But within the terms, something moved that the terms had not anticipated. The frost lord began bringing things to the treasury that were not gifts in any transactional sense — not objects placed on a ledger — but offerings of a kind his economy did not recognize. A piece of ice shaped like a flower that he had found in a corridor and carried to me because it was the closest thing in his domain to beauty that grew. A story about the mountain passes before the trading routes, when the cold was newer and less organized and moved through the world with a freedom he remembered the way I was learning to remember warmth: as a concept, stripped of sensation, impossible to re-enter.
 
 I told him things in return. Not warm things — I no longer had those. But true things, drawn from the part of me that the cold had not reached, the part that counted and evaluated and understood exchange deeply enough to know when exchange was the wrong frame. I told him about my father's center pile — the coins that looked right but weighed wrong. I told him that the center pile was the most valuable, because it was the pile that taught you the market's secrets. The good coins told you what was true. The bad coins told you what was pretending to be true. But the center coins — the uncertain ones, the ones that might be either — those told you what was possible.
 
-"You are a center coin," I told him, and he laughed — a sound like ice cracking in a river in spring, sudden and loud and wrong for the season, and then right for it, exactly right, the sound the whole winter had been building toward.
+"You are a center coin," I told him, and he laughed — a short, startled sound, like something dislodging. One of the servants in the corridor stopped moving. I don't think they had heard him laugh before. I wasn't sure I had either.
 
-Winter ended on a morning that arrived without announcement. I woke and the glass in my window was clear — not frosted, not opaque, but clear, and through it I could see color: the faintest pink along the horizon, the gray-green of tree branches that were not white, the distant brown of earth that was not snow. Color. The world had color. I had forgotten. I had forgotten and now it was back and I stood at the window with my numb hands pressed against the glass and felt nothing and saw everything and the distance between those two states was the exact shape of the winter I had survived.
+Winter ended on a morning that arrived without announcement. I woke and the glass in my window was clear — not frosted, not opaque, but clear, and through it I could see color: the faintest pink along the horizon, the gray-green of tree branches that were not white, the distant brown of earth that was not snow. Color. The world had color. I had forgotten. I pressed my numb hands against the glass and saw everything and felt none of it.
 
 The frost lord met me at the gate. The gate was open. Beyond it, the mountain path — my father's route, the one that had started all of this — wound downward through the thinning snow toward the tree line and then, beyond, toward the world where things were warm.
 
-"The debt is settled," he said. His voice was formal. The contract voice. The one I'd heard in my father's shop a season ago, when everything was still an exchange and nothing had slipped outside the ledger.
+"The debt is settled," he said. His voice was formal. The contract voice. The one I'd heard in my father's shop a season ago.
 
 "I know."
 
-"Your warmth will return. It may take — I am told it takes time. Weeks. Months. It is not instantaneous."
+"Your warmth will return. It may take time. Weeks. Months."
 
 "I know."
 
-"The route will remain open. Your father may trade as he wishes."
+We stood at the gate. The trees beyond the path were moving in what I calculated, from the angle of their branches, to be a mild wind. I could not feel it.
 
-"I know."
+"Elin," he said. It was the first time he had used my name. Through the entire winter, I had been you or she or the debtor or nothing.
 
-We stood at the gate. The air outside was — I couldn't feel it, but I could see the way the trees moved, and I calculated from the movement that there was wind, and from the angle of the branches that the wind was mild, and from the quality of the light that the sun was warm enough to melt surface snow, which meant the temperature was above freezing, which meant that I was standing at the threshold between a world of cold and a world of warmth and I could not feel either one.
+"I can hear you," I said. "I can hear that my name sounds different when you say it now than it would have sounded three months ago. But I can't feel the difference. I can only calculate that it's there."
 
-"Elin," he said. It was the first time he had used my name. Through the entire winter, I had been you or she or the debtor or nothing. Just Elin, now, spoken in that underwater voice, and I heard in it the fracture he'd shown me in the treasury — the deep break, the remaking.
+He nodded. He did not try to fix it. That was the thing about him I had not been able to count — he did not pretend that wanting something could substitute for having it.
 
-"I can't feel it," I said. "Whatever you're trying to say. I can hear the words. I can evaluate their content. But I can't feel what they're supposed to do. That part is still gone."
-
-"I know," he said. "That is what I owe you."
-
-I looked at him. His face was the same face — angular, blue-white, carved from something older than stone — but I could read it now, the way I could read a ledger, and what I read was not a balance but an acknowledgment. He owed me. Not in the contract's terms, which were settled, but in the terms of what the contract had not accounted for. He had taken warmth and discovered, in the taking, what warmth was worth. And now the debt was his, and it was a debt he could not pay, because what he owed was not a quantity but a quality — the ability to feel what he felt for me, returned to the woman who had lost it in his care.
+I looked at him. His face was the same face — angular, blue-white, carved from something older than stone — but I could read it now, the way I could read a ledger, and what I read was not a balance. It was something the ledger had no column for.
 
 "The center pile," I said.
 
-"What?"
+He looked at me. I could see that he remembered — the coins that look right but weigh wrong. The ones that teach you what kind of market you're actually in. I did not explain it further. He either understood or he didn't, and either way, the explaining would not help.
 
-"You asked me once what my father's coins said. The ones that looked right but weighed wrong. The uncertain ones." I took a breath. The air moved through me without temperature. "This — you and I — we're not a good coin or a bad coin. We're not a fair trade or a cheat. We're the coin that tells you what the market actually is, underneath everything you thought you knew about it."
+"Will you come back?" he asked.
 
-He closed his eyes. I watched him absorb this with the patience I'd learned from watching his court — the patience of cold things, which have all the time in the world because nothing is urgent when nothing is warm.
+The answer I had was a number. A probability. High, I thought, though I couldn't be sure whether high meant what I wanted it to mean or only what the data supported. I opened my mouth to give him something — a percentage, a qualified yes, a timeline — and what came out instead was:
 
-"Will you come back?" he asked, and the question was so simple, so stripped of the elaborate transactional architecture of his court, that it sounded like a question a child would ask, or a creature who had just learned that questions could be asked without attaching a debt to the answer.
+"I don't know yet. I'll know when I can feel the answer."
 
-I wanted to say yes. I wanted to feel the yes — not know it, not calculate it, but feel it, hot and immediate, the kind of yes that burns in the chest and fills the mouth. But the capacity for that yes was in the part of me he'd taken, the part that would return slowly, over weeks and months, dripping back like warmth into a limb that had been slept on.
+I walked out through the gate, into the colorful, windblown, imperceptible world. My feet on the mountain path registered pressure but not texture. The air moved past me but did not touch me. Somewhere ahead, my father was waiting, and beyond him the warm world, and I could not feel any of it.
 
-"Ask me when I can feel the question," I said.
+Seventeen steps down, something registered on the back of my neck. Not cold — I knew cold, I was made of it now. Something else. Faint. The barest suggestion of temperature, so slight I might have been inventing it.
 
-I walked out through the gate, into the colorful, windblown, imperceptible world. My feet on the mountain path registered pressure but not texture. The air moved past me but did not touch me. Somewhere ahead, my father was waiting, and beyond him, the warm world, and beyond that, a spring and then a summer in which I would slowly re-learn the sensation of being alive.
-
-Behind me, the frost lord's court stood on the mountain, stone and ice and silence, running on its cold economy. The gate stayed open. I knew this not because I looked — I did not look back — but because I could feel the draft from it on my neck, which was strange, because I could not feel anything else, and it took me seventeen steps down the mountain before I understood that this was not cold air from the court but something else: the faint, residual warmth of being known by someone who had no framework for it and had done it anyway. It registered as almost nothing. A ghost of temperature. The barest suggestion that a sensation was returning from a long distance away.
-
-I counted the steps. I would always count the steps. But I carried the number differently now — not like a debt or a measurement, but like a coin whose weight I couldn't yet determine, clutched in a hand that was only beginning to remember what it meant to hold.
+I did not look back. I kept counting the steps, because that was what I did, and the number grew as the path wound down through the thinning snow. But there was something on my neck that I could not account for, that fit no column, and I carried it with me into the valley like an error in a ledger I was not yet ready to correct.
