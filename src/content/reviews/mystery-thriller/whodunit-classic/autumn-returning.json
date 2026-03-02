@@ -1,0 +1,61 @@
+{
+  "workSlug": "autumn-returning",
+  "reviews": [
+    {
+      "personaId": "mys-001-siobhan",
+      "rating": 4,
+      "text": "Wynn is the kind of detective I wish appeared more often in fiction -- she watches before she speaks, and she reads rooms the way a good sergeant actually does. The procedural elements are understated but accurate: the separate interviews, the way she lets silences do the interrogation work, the open verdict she can see coming from day two but stays anyway. The marriage is the real crime scene, and the binoculars left on the desk are a better piece of evidence than most writers manage with an entire forensics lab. My only quibble is that we never learn enough about Kemp himself to fully feel his absence -- he's more symbol than person. But that might be the point.",
+      "date": "2026-02-14",
+      "helpfulCount": 34
+    },
+    {
+      "personaId": "mys-002-harold",
+      "rating": 3,
+      "text": "A competent exercise in ambiguity that would have been improved by committing to something. The prose is disciplined and the setting well-drawn, but this is less a whodunit than a study in marital entropy wearing a mystery's clothes. There is no solution. The three verdicts remain unresolved, which I suspect the author considers artful but which I consider evasive. The binoculars are a fine clue that leads nowhere. The detective eats eggs and drives away. One does not read a mystery to be told that mysteries are insoluble. That said, the Garricks are convincingly rendered, and the line about Gordon being 'not a five-star man' is worth the price of admission.",
+      "date": "2025-10-03",
+      "helpfulCount": 41
+    },
+    {
+      "personaId": "mys-003-keiko",
+      "rating": 4,
+      "text": "The psychological observation here is genuinely sharp. Laura making sandwiches because she doesn't know what to do with her hands -- that's not a writerly detail, that's a clinical one. The whole story maps grief and routine so precisely: the way the Garricks move around each other without eye contact, choreography instead of conversation. Wynn functions almost as a therapist, sitting with them until the truth of the marriage surfaces on its own. I loved how the ending refuses resolution -- the open verdict mirrors the marriage itself, which will also remain open, undiagnosed.",
+      "date": "2026-01-19",
+      "helpfulCount": 27
+    },
+    {
+      "personaId": "mys-005-desmond",
+      "rating": 4,
+      "text": "Spare, atmospheric, and quietly devastating. The prose earns its restraint -- every sentence carries weight without announcing that it does. The peninsula becomes a state of mind: isolation rendered as geography, a failing business as the physical architecture of a marriage that has run out of reasons to continue. What elevates this above competent mystery writing is the refusal to resolve. The three verdicts exist in superposition, and the real investigation is into what the Garricks have built and whether it was ever anything more than survival. The farmer's response -- 'They're married' -- is worth an entire novel of exposition. A minor objection: Wynn herself remains somewhat opaque. She observes brilliantly but we never quite feel her own stakes in the outcome.",
+      "date": "2025-11-28",
+      "helpfulCount": 52
+    },
+    {
+      "personaId": "mys-006-lynn",
+      "rating": 5,
+      "text": "I read this twice and felt more the second time. Laura's grief for the booking as much as the man -- that line undid me. The whole story is about what we build our lives around and what happens when the one small proof that it's working disappears. The peninsula, the causeway that floods, the house visible in the rearview mirror getting smaller but never quite gone. It's a mystery but the mystery that matters is whether these two people will stay. The ending is perfect because it doesn't answer.",
+      "date": "2026-02-27",
+      "helpfulCount": 18
+    },
+    {
+      "personaId": "mys-007-tomasz",
+      "rating": 4,
+      "text": "The epistemological structure is fascinating. Three possible truths -- fall, jump, push -- and no evidence to distinguish them. Wynn's investigation becomes a kind of philosophical exercise: can you determine intent from circumstance? The binoculars are the key. A man goes to the place where he always went but without the instrument that gave his visits purpose. Is removing the reason for a ritual the same as ending it? The story doesn't answer, and the open verdict extends outward to the marriage, the house, the entire project of 'doing something different.' Nicely done, though the middle section with the farmer feels slightly slack.",
+      "date": "2025-12-11",
+      "helpfulCount": 15
+    },
+    {
+      "personaId": "mys-009-alastair",
+      "rating": 3,
+      "text": "Procedurally sound in its broad strokes -- Wynn's handling of the investigation is plausible, the separate interviews properly conducted, the coroner's timeline reasonable. But a DS would not spend five days at a remote B&B on what is clearly heading toward an open verdict from the first afternoon. The resources wouldn't be allocated. That aside, the writing is strong, particularly the observation of the Garricks' marriage as institutional failure. The house is an institution that has failed them both, and the investigation exposes it without resolving it. The ambiguous ending works better as literature than it does as crime fiction.",
+      "date": "2025-09-17",
+      "helpfulCount": 22
+    },
+    {
+      "personaId": "mys-010-valentina",
+      "rating": 3,
+      "text": "The class dynamics are embedded in every surface -- the B-road that degrades to single-track, the pebble-dash extension nobody loved, the sign in weak-tea lettering. Duncarrow House is a monument to downward mobility, and the Garricks are trapped inside a lifestyle aspiration that the market has rejected. Laura's line about surviving versus succeeding is the thesis statement of a particular kind of rural economic precarity. What I wanted more of was Laura's interiority. She's the more interesting character -- the one who noticed the binoculars, who said 'we'll see' against Neil's 'of course' -- but Wynn observes her from outside, which keeps her at arm's length. The story is ultimately about a woman watched through windows, and I wish it interrogated that framing more.",
+      "date": "2026-01-04",
+      "helpfulCount": 29
+    }
+  ]
+}
