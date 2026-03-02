@@ -7,8 +7,8 @@ authorA: "Becky Chambers"
 authorB: "T.H. White"
 workX: "A Psalm for the Wild-Built"
 workY: "The Sword in the Stone"
-wordCount: 2987
-readingTimeMinutes: 12
+wordCount: 2870
+readingTimeMinutes: 11
 tags: ["transformation", "apprentice", "magic", "creatures", "learning", "attention"]
 rating: 0
 ratingCount: 0
@@ -100,13 +100,13 @@ On a Tuesday that smells like rain, Hawthorn turns you into a carp.
 
 The water is cold. That's the first thing — cold in a way that has nothing to do with temperature and everything to do with being surrounded on all sides by a medium that your human brain, somewhere deep in the folded-away part of yourself, still insists you should not be breathing. But you are breathing. Your gills are working — opening, closing, opening — with the mechanical patience of a bellows operated by someone who has all day and nothing better to do.
 
-You sink. The light changes. Above you, the surface of the pond is a ceiling of amber and green, rippling, fractured, and the light that comes through it is not sunlight anymore — it's something filtered and gentle and old, the way light looks through stained glass in an empty church. The mud beneath you is soft. You can feel it along the whole length of your belly, a cool, silky pressure, and the sensation is so foreign and so complete that you stop trying to interpret it and just feel it, the way you might rest your hand on a warm stone and not ask the stone to mean anything.
+You sink. The light changes. Above you, the surface of the pond is a ceiling of amber and green, rippling, fractured, and the light that comes through it is not sunlight anymore — it's something filtered and gentle and old, like light through stained glass in an empty church. The mud beneath you is soft. You can feel it along the whole length of your belly, a cool, silky pressure, and the sensation is so foreign and so complete that you stop trying to interpret it and just feel it, the way you might rest your hand on a warm stone and not ask the stone to mean anything.
 
 Time changes when you're a carp. You understand this not as a concept but as a physical fact. Your body is slow. Your thoughts — if they are thoughts — move at the speed of silt settling. A minute passes, or an hour. Something drifts by your whiskers, a thread of algae or a hair-thin root, and the drift of it is fascinating in a way that nothing has been fascinating to you since you were very young and could spend twenty minutes watching a beetle cross a threshold.
 
-You don't think about what the carp's life means. The carp doesn't interpret its own existence. The carp just swims through the green light, and the green light is enough.
+You don't think about what the carp's life means. The carp doesn't interpret its own existence. The carp just moves through the green light, and the green light is enough.
 
-When you come back, you're shivering, and Hawthorn wraps a blanket around your shoulders that she had waiting. She doesn't say anything. She's peeling an apple in one long, continuous strip, and the concentration she gives the peeling is the same concentration the carp gave the green light, and you notice that, and something in you shifts a degree, like a compass finding a truer north.
+When you come back, you're shivering, and Hawthorn wraps a blanket around your shoulders that she had waiting. She doesn't say anything. She's peeling an apple in one long, continuous strip, and the concentration she gives the peeling is the same concentration the carp gave the green light, and you notice that, and you don't know what to do with the noticing, so you just sit with it.
 
 ---
 
@@ -122,9 +122,9 @@ Hawthorn turned you into a moth on an evening in late September when the air was
 
 You could taste the air. Not metaphorically. The feathered edges of your antennae were pulling the evening apart into its components — woodsmoke, cooling earth, the sugar-stink of overripe blackberries, the metallic thread of a creek fifty yards away — and each component arrived with a location attached, a direction, a distance, a degree of freshness. The world was a map you could read with your face.
 
-And there, cutting through all of it, warm and golden and insistent: the light from Hawthorn's window. Not calling you. The moth didn't feel called. The moth felt the light the way a river feels a slope — not as an invitation but as a fact of physics, a gradient in the world that the body followed the way water follows gravity, without decision, without desire, without the exhausting human machinery of choosing.
+And there, cutting through all of it, warm and golden and insistent: the light from Hawthorn's window. Not calling you. The moth didn't feel called. The moth felt the light the way a river feels a slope — not as an invitation but as a fact of physics, a gradient that the body followed without decision, without desire, without the exhausting human machinery of choosing.
 
-You flew toward it. Your wings were dust and gossamer and they worked by a principle you couldn't have explained but didn't need to, because the wings were not a tool you were using — the wings were you. And the air held you the way the water had held the carp: completely, from all sides, a medium so intimate that the boundary between your body and the world was more of a suggestion than a fact.
+You flew toward it. Your wings were dust and gossamer and they worked by a principle you couldn't have explained but didn't need to, because the wings were not a tool you were using — the wings were you. And the air held you completely, from all sides, a medium so intimate that the boundary between your body and the world was more of a suggestion than a fact.
 
 When you came back, Hawthorn had saved you a piece of the apple. She'd carved it into the shape of a moth, roughly, with the pocket knife she used for everything from pruning to bookmarking.
 
@@ -154,7 +154,7 @@ You think about it. The dragonfly knew angles. The dragonfly knew the flight pat
 
 "How to pay attention to — one seed. One specific seed."
 
-Hawthorn turns around. There's something in her face you haven't seen before, something older than the playfulness, and it occurs to you that Hawthorn has been all of these creatures too. Has been small and dissolved and put back together. Has sat where you're sitting and drunk the same tea from the same chipped cup, and whoever handed it to her is gone now, and that absence is the thing that lives under the whimsy, the stone at the bottom of the pond.
+Hawthorn turns around. There's something in her face you haven't seen before — something older than the playfulness — and it occurs to you that Hawthorn has been all of these creatures too. Has been small and dissolved and put back together. Has sat where you're sitting and drunk the same tea from the same chipped cup, and whoever handed it to her is gone now.
 
 She doesn't confirm this. She ladles the soup.
 
@@ -178,9 +178,7 @@ You find a flower. Not a remarkable flower — a late clover, still blooming bec
 
 The petals give under your weight. You feel them bend, feel the architecture of the flower adjust to accommodate your body, and the accommodation is so precise, so mutual — the flower shaped for the bee, the bee shaped for the flower — that the word "visiting" doesn't apply. This isn't a visit. This is a conversation conducted in pollen and pressure, in the flex of the stamen against your leg, in the thin sweetness at the base of the petals where the nectar sits in a shallow well no bigger than a raindrop.
 
-You stay on this one flower for a long time. You don't count the time. The bee doesn't count. The bee is engaged in an act of attention so complete that attention isn't even the right word — it implies a self who is attending, a subject watching an object, and that distinction has dissolved. There is just the flower. The press. The sweetness. The furred body and the pliant petals and the October light falling through both of you equally because, at this scale, light is not something that illuminates. Light is something you swim in. Like water. Like air. Like everything you've been.
-
-One flower. One act of presence. That is all you are.
+You stay on this one flower for a long time. You don't count the time. The bee doesn't count. There is just the flower and the press and the sweetness and the furred body and the pliant petals and the October light falling through both of you equally, because at this scale light is not something that illuminates — it is something you swim in.
 
 ---
 
@@ -190,9 +188,9 @@ Hawthorn is beside you. She's holding two cups. Yours has the chip.
 
 The tea is warm. The morning is warm. The beech wood is doing the thing it does in October, which is to turn every shade of gold and copper at once and look like something that has caught fire and decided to enjoy it.
 
-You open your mouth to say something about what just happened, about the flower and the bee and the attention and the dissolving, and then you close it again, because the words you'd use would be smaller than the thing, and for once you are willing to let something be larger than your description of it.
+You open your mouth to say something about what just happened, about the flower and the bee and the dissolving, and then you close it again, because the words you'd use would be smaller than the thing, and for once you are willing to let something be larger than your description of it.
 
-Hawthorn drinks her tea. She doesn't ask what you learned. She already knows you haven't learned it — not in the way that can be spoken. You've been changed, which is different from being taught, and the change will keep working in you for years, quietly, the way a seed works in the dark.
+Hawthorn drinks her tea. She doesn't ask what you learned.
 
 The toad, Cavendish, emerges from under the bench and regards you both with an expression of tolerant disdain.
 
@@ -202,6 +200,6 @@ The toad, Cavendish, emerges from under the bench and regards you both with an e
 
 "He always wants a slug. That's the thing about Cavendish. He's never not wanting a slug. It's a very pure way to live."
 
-You laugh. The laugh is easy and real and not about anything in particular, and the morning holds it the way the clover held the bee — gently, briefly, and without needing it to be more than what it is.
+You laugh. The laugh is easy and real and not about anything in particular, and the morning holds it gently, briefly, and without needing it to be more than what it is.
 
-You drink your tea. The chip on the rim fits your lip exactly. Somewhere in the beech wood a wren is singing — a sound so loud for such a small body that it seems impossible, a whole orchestra packed into a bird the size of your thumb — and you listen, and the listening is the lesson, and the lesson has no name, and you sit with it, unresolved and grateful, while the October light pours through the trees and Hawthorn peels another apple and the wasps on the mantelpiece inside go about their complicated, necessary, incomprehensible lives.
+You drink your tea. The chip on the rim fits your lip exactly. Somewhere in the beech wood a wren is singing — a sound so loud for such a small body that it seems impossible, a whole orchestra packed into a bird the size of your thumb — and you listen, and the wasps on the mantelpiece inside go about their complicated, necessary, incomprehensible lives.
