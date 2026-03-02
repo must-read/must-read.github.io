@@ -10,8 +10,8 @@ workY: "The Memory Police"
 wordCount: 4942
 readingTimeMinutes: 20
 tags: [bureaucratic-surrealism, hunger, erasure, surveillance, institutional, quiet-horror, post-scarcity, perception, disappearance]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 9
 publishedDate: 2026-03-01
 status: published
 formulaSummary: "Kafka's bureaucratic precision meets Ogawa's quiet erasure in a post-hunger city where a woman's loss of appetite reveals the architecture of what has been removed"

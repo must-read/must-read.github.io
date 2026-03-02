@@ -20,8 +20,8 @@ tags:
   - bodies
   - spectatorship
   - national-mythology
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: 2026-03-01
 status: "published"
 formulaSummary: >
