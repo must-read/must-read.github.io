@@ -27,10 +27,10 @@ formulaSummary: >
   in a forensic architect's investigation of a sealed archive where a woman died
   inside a room she designed herself — and the blueprints tell two stories.
 synopsis: >
-  Forensic architect Ren Hadley investigates the death of a young architect found
-  in a hermetically sealed archive of her own design. The ventilation was modified
-  by the victim's hand. The specs came from her mentor. The room tells everything
-  except whether the woman who built it knew what she was building.
+  A forensic architect investigates a woman found dead in a sealed archive of her
+  own design. The ventilation was modified by the victim's hand. The specs came
+  from her mentor. The room tells everything except whether she knew what she
+  was building.
 combination:
   fromAuthorA:
     - Deductive set-piece where the investigator reads the sealed room's history from scratches, airflow patterns, gasket wear, and blueprint revisions — the room as forensic text
