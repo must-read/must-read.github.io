@@ -7,8 +7,8 @@ authorA: "Haruki Murakami"
 authorB: "Toni Morrison"
 workX: "Never Let Me Go by Kazuo Ishiguro"
 workY: "The Unconsoled by Kazuo Ishiguro"
-wordCount: 5040
-readingTimeMinutes: 20
+wordCount: 4535
+readingTimeMinutes: 18
 tags:
   - slipstream
   - institution
@@ -41,7 +41,7 @@ combination:
 
 The supply closet had moved again. I noticed it on my way to get toner for the second-floor printer — the door was six feet to the left of where it had been on Friday, now between the fire extinguisher and the water fountain instead of across from the elevator bank. The fire extinguisher had a thin film of dust on its gauge. The water fountain made a sound like a small animal swallowing. I opened the supply closet, found the toner on the third shelf where it always was, and carried it back to my desk.
 
-This is what buildings do. They settle. The foundation shifts a quarter inch over decades and the walls accommodate. I have worked at the Institute for eleven years and I have learned that institutions are not fixed objects but ongoing negotiations between structure and ground. The hallway to the east stairwell was three feet longer this month than it had been in January. The conference room on four had acquired a window that looked out onto a courtyard I did not remember the building having. These are the kinds of changes you stop tracking once you understand they are organic. Weather, not events. Seasonal, not imposed.
+This is what buildings do. They settle. I have worked at the Institute for eleven years. The hallway to the east stairwell was three feet longer this month than it had been in January. The conference room on four had acquired a window that looked out onto a courtyard I did not remember the building having. These are the kinds of changes you stop tracking. Weather, not events.
 
 My name is Nora. My title is Overnight Revisions Specialist, which is a title the Institute created for me seven years ago when they recognized that I was better at this particular work than anyone else on staff. What I do is this: between 6 p.m. and 6 a.m., I receive documents that need to be brought into alignment with the current state of things. Policy manuals, floor plans, personnel directories, procedural guidelines. The Institute updates itself continuously — new protocols, new room assignments, new org charts — and someone has to make sure the paper record matches. That someone is me.
 
@@ -65,7 +65,7 @@ The third document was more unusual. It was a copy of the Institute's General Po
 
 I worked through seven more documents before midnight. Two were routine — updated phone extensions, a revised cafeteria schedule (the cafeteria now closed at 2 p.m. instead of 3 p.m., and I wondered briefly whether this had anything to do with Bettina Lowe's fluorescent light migraines, and then I stopped wondering). One was a building safety protocol that had been entirely rewritten, the old version so thoroughly replaced that I couldn't reconstruct what the previous version had said, which meant either someone else had already done a first pass or the changes were comprehensive enough to constitute a new document. I treated it as a new document. Cleaner that way.
 
-The fourth was a benefits summary, and the fifth was an updated emergency-contact directory, and the sixth was a list of approved vendors for office supplies that had been shortened by eleven entries with no explanation. The seventh was a document I don't want to describe. Not because it was disturbing — nothing in the stack is disturbing; the whole point of my work is that it is not disturbing, that it is clerical, administrative, the kind of labor that produces no adrenaline, that sits in the body the way filing sits in a cabinet. But this document was a revision of the Institute's founding charter, and the revision removed a clause I had never read before. The clause described the Institute's original purpose. I read it once, quickly, the way you'd glance at a stranger's face on a train — enough to register that it was there, not enough to retain the features. The clause mentioned something about subjects. About duration. About the relationship between the institution and the people inside it. I crossed it out with the blue pencil and typed the replacement language, which described the Institute's purpose as "the facilitation of adaptive continuity in complex organizational environments." The new language was better. It was certainly cleaner. It did not mention subjects, or duration, or any relationship at all.
+The fourth was a benefits summary, and the fifth was an updated emergency-contact directory, and the sixth was a list of approved vendors for office supplies that had been shortened by eleven entries with no explanation. The seventh was a document I don't want to describe. Not because it was disturbing — nothing in the stack is disturbing; the whole point of my work is that it is not disturbing, that it is clerical, administrative, the kind of labor that produces no adrenaline, that sits in the body the way filing sits in a cabinet. But this document was a revision of the Institute's founding charter, and the revision removed a clause I had never read before. The clause described the Institute's original purpose. I read it once, quickly, the way you'd glance at a stranger's face on a train — enough to register that it was there, not enough to retain the features. The clause used words I did not expect to find in a charter. I crossed it out with the blue pencil and typed the replacement language, which described the Institute's purpose as "the facilitation of adaptive continuity in complex organizational environments." The new language was better. It was certainly cleaner.
 
 ---
 
@@ -73,7 +73,7 @@ At 12:30, I went for a walk. This is part of my routine — halfway through the 
 
 Tonight, level three was different. The hallway that connected the east wing to the west wing had a new section — or rather, it had an old section that I hadn't seen before. A stretch of corridor with older flooring, darker linoleum, the kind the Institute must have used decades ago. The ceiling was lower. The lights were incandescent, not fluorescent, and they gave the corridor a warm, amber cast that made it look like a photograph of itself. There were doors along this section, unmarked, and when I put my hand on one of the doorknobs it was warm. Not hot. Warm the way a doorknob is warm when someone has just let go of it.
 
-I did not open the door. This was not a policy decision or an act of restraint. I simply did not open it. The way you don't step off a curb when a bus is coming — not because you've calculated the danger, but because your body knows where the edge is. My body knew that this door was an edge. My hand knew it. The warmth of the doorknob was a kind of knowledge that entered through the palm and went somewhere deeper than thought.
+I did not open the door. The way you don't step off a curb when a bus is coming — not because you've calculated the danger, but because your body knows where the edge is. My hand knew it. The warmth of the doorknob entered through the palm and went somewhere deeper than thought.
 
 I walked back to my desk. The older corridor was behind me, and I did not look back at it, and by the time I sat down and picked up the next document I could not have said with certainty which floor it had been on. Three, I think. Or possibly two. The floors are not always where you expect them to be, and this is, as I have said, the nature of institutions. They settle. They rearrange. You accommodate.
 
@@ -113,7 +113,7 @@ My desk was in the same place. My coffee cup, my pencils, my stack of revised do
 
 I turned back to my desk. The next document in the stack was a revision of the building's official layout, Level 2, south wing. The wall behind my desk was marked as a solid wall. No window. I looked at the document and I looked at the wall and I felt the two versions — window, no window — collapse into one, the way two images collapse into focus when you adjust a pair of binoculars. One version survived. The other was a smudge, and smudges are what I remove.
 
-This is the work. I want you to understand that this is the work and that I do it well and that doing it well requires a particular form of devotion that I would not exchange for anything, including the window. The window is gone or was never there, and in either case the wall is solid now, and the document confirms it, and the document is clean because I made it clean. There is a satisfaction in this that I cannot fully explain to someone who has not done it — the satisfaction of alignment, of making the record match the world, of ensuring that no one who reads the file will ever encounter a contradiction. They will find only what is. The was is mine to carry, and I carry it without weight, or almost without weight, or with a weight so familiar it has become part of my posture, the way a suitcase you've carried long enough stops feeling like a suitcase and starts feeling like an arm.
+This is the work. I do it well. Doing it well requires a particular form of devotion that I would not exchange for anything, including the window. The window is gone or was never there, and in either case the wall is solid now, and the document confirms it, and the document is clean because I made it clean. The was is mine to carry, and I carry it without weight, or almost without weight, or with a weight so familiar it has become part of my posture, the way a suitcase you've carried long enough stops feeling like a suitcase and starts feeling like an arm.
 
 ---
 
@@ -129,9 +129,7 @@ The first name on the list was Nora Banks.
 
 I looked at it. I looked at it for a long time. The blue pencil line through it was the same as all the others — a single, horizontal stroke, the revisor's mark for deletion. My name, my full name, in the same typeface as every other name on the list, with a departure date of eleven years ago.
 
-I should tell you what I did next. I should tell you that I stopped, that I put down my pencil, that I stood up and walked to the window that no longer existed and pressed my hands against the solid wall where glass had been. I should tell you that I understood something in that moment — that the revisions I'd been making were not administrative housekeeping but something else, something with teeth and intentions, something that had been working on me the way I'd been working on the documents, removing contradictions, smoothing edges, deleting the versions of things that no longer served the current configuration.
-
-But that is not what happened. What happened is this: I looked at my name on the list for eleven seconds — I know because I counted, the way you count during a blood draw to keep from flinching — and then I looked at the blue pencil line through it, and then I picked up my pencil and I completed the deletion.
+What happened is this: I looked at my name on the list for eleven seconds — I know because I counted, the way you count during a blood draw to keep from flinching — and then I looked at the blue pencil line through it, and then I picked up my pencil and I completed the deletion.
 
 I removed my own name from the list of people who had worked here.
 
@@ -141,9 +139,9 @@ And the revision was clean.
 
 I finished the stack at 5:40. Twenty minutes before the end of my shift. I put the completed documents in the outgoing envelope, sealed it, placed it on the corner of my desk where it would be collected by whoever collects it. I washed my coffee cup in the break room sink. The break room was on the north side of the second floor, as it had been since October, and the soap dispenser was empty, as it often was, and I washed the cup with hot water only and dried it with a paper towel and placed it in the cabinet above the microwave.
 
-I walked back through the building toward the exit. Level two was quiet. The corridor lights were on their nighttime setting — every other fixture lit, casting the hallway in alternating bands of light and shadow. My shoes made their usual sound on the linoleum. I passed the supply closet, which was between the fire extinguisher and the water fountain, where it had always been.
+I walked back through the building toward the exit. Level two was quiet. The corridor lights were on their nighttime setting — every other fixture lit, casting the hallway in alternating bands of light and shadow. My shoes made their usual sound on the linoleum.
 
-At the stairwell, I paused. Not because anything was wrong. Everything was right. The building was settled, aligned, revised. The documents were clean. The names that needed to be removed had been removed, including the one that shared my letters, and I did not think of it as my name any more than I thought of the vanished window as my window. These things belonged to the institution, and the institution was, as it had always been, in a state of continuous adjustment, and my role was to make the paper match.
+At the stairwell, I paused. Not because anything was wrong. Everything was right. The building was settled, aligned, revised. The documents were clean. The names that needed to be removed had been removed. My role was to make the paper match.
 
 I pushed open the stairwell door. The stairs went down. I had entered the building on the first floor, which meant one flight of stairs between me and the exit. I went down one flight. The door at the bottom was marked LEVEL 2.
 
@@ -151,7 +149,7 @@ I went down another flight. LEVEL 2.
 
 Another flight. LEVEL 2.
 
-This happens sometimes. The stairwells, like the hallways, like the rooms, are not fixed. They negotiate. I have learned that the correct response is not panic, not confusion, but patience. You keep walking. The building will deliver you where it intends to deliver you, and your job is not to argue with the architecture but to move through it with the kind of composure that comes from understanding that the building is always, in its way, correct. The building is doing what buildings do. Settling. Adjusting. Revising itself overnight, the way I revise its documents, the way the documents revise the record of what was into the fact of what is.
+This happens sometimes. I have learned that the correct response is patience. You keep walking. The building will deliver you where it intends to deliver you.
 
 I went down another flight. LEVEL 1. The door opened onto the lobby. The lobby was the same lobby it had been when I'd arrived twelve hours ago — the front desk, the potted fern, the security guard's empty chair. The clock above the door read 5:58. I signed out on the ledger.
 
@@ -159,12 +157,10 @@ The morning air was cool and smelled of rain that had already fallen. The parkin
 
 It stopped.
 
-I drove home. The highway was nearly empty at this hour. I passed a billboard advertising something — I didn't read it, or I read it and forgot it immediately, which is the same thing. The radio was off. I drove in silence, and the silence was a kind of revision too, a way of smoothing the night's work into something I could carry without it showing, the way you carry a bruise under a sleeve, the way you carry a name that has been crossed out in blue pencil and submitted for deletion and processed and filed and is now, officially, no longer in the record, which means it was never in the record, which means the woman who bore it was never employed at the Institute, which means.
+I drove home. The highway was nearly empty at this hour. I passed a billboard advertising something — I didn't read it, or I read it and forgot it immediately, which is the same thing. The radio was off. I drove in silence, the way you carry a bruise under a sleeve, the way you carry a name that has been crossed out in blue pencil and submitted for deletion and processed and filed and is now, officially, no longer in the record, which means it was never in the record, which means the woman who bore it was never employed at the Institute, which means.
 
-I turned into my driveway. The porch light was on. I could not remember if I had left it on when I'd left for work, but it was on now, and that was the version that mattered. I went inside. I locked the door. I stood in my kitchen in the almost-light of nearly morning and drank a glass of water and thought about nothing, or thought about the particular quality of nothing that is left when a clean revision is complete — not emptiness but alignment, the world and its record in agreement, the contradiction removed, the smudge wiped away.
+I turned into my driveway. The porch light was on. I could not remember if I had left it on when I'd left for work, but it was on now, and that was the version that mattered. I went inside. I locked the door. I stood in my kitchen in the almost-light of nearly morning and drank a glass of water and thought about nothing.
 
-My hands had stopped trembling. I was certain of that. I held them up in the kitchen light and they were steady, perfectly steady, the hands of a woman who is good at her work.
+My hands had stopped trembling. I held them up in the kitchen light and they were steady, the hands of a woman who is good at her work.
 
-Upstairs, I could hear the house settling. A small sound in the walls. Mechanical, almost. Like gears. Like something being rearranged.
-
-I went to bed.
+Upstairs, the house was settling. A small sound in the walls. Buildings do that.
