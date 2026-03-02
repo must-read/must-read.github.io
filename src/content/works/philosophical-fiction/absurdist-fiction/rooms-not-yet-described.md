@@ -7,8 +7,8 @@ authorA: "Franz Kafka"
 authorB: "Italo Calvino"
 workX: "The Castle by Franz Kafka"
 workY: "Invisible Cities by Italo Calvino"
-wordCount: 4248
-readingTimeMinutes: 17
+wordCount: 3706
+readingTimeMinutes: 15
 tags:
   - absurdist-fiction
   - bureaucracy
@@ -88,7 +88,7 @@ The woman at the desk looked at Petra's letter. She turned to her computer. She 
 
 "Take the elevator to three, turn left, go through the double doors at the end."
 
-Petra had not seen double doors. She had seen a wall. But she had turned around at Room 301, the last numbered door, after which the hallway continued perhaps ten feet to what she had taken for a wall but which might have been a door painted the same color as the wall, which was the kind of thing that happened in buildings renovated by people who valued continuity of surface over clarity of navigation.
+Petra had not seen double doors. She had seen a wall. But she had turned around at Room 301, the last numbered door, after which the hallway continued perhaps ten feet to what she had taken for a wall but which might have been a door painted the same color as the wall, which was the kind of thing that happened in renovated buildings.
 
 She took the elevator back to three. It was 2:56.
 
@@ -194,7 +194,7 @@ The woman wrote something on a slip of paper and handed it to Petra. "Try this,"
 
 ## 8. The Re-examination
 
-Petra stood in the green-tile hallway holding the slip of paper. It was 3:24. Her appointment had been at 3:00. She was now twenty-four minutes late and she had not moved — not in the way that mattered, not toward Room 308. She had moved through the building. She had opened doors and spoken to people and received directions that, followed precisely, had led her to more building. Every step had been a step inside the Kaplan Municipal Services Building and therefore a step closer to Room 308, which was also inside the Kaplan Municipal Services Building. The problem was that convergence and arrival are not the same thing.
+Petra stood in the green-tile hallway holding the slip of paper. It was 3:24. Her appointment had been at 3:00.
 
 She went back. Not to the lobby — back to the rooms she had already visited. Through the connecting passage, back to the east hallway, back to Room 307. She tried the handle. Still locked. She knocked. Nobody answered. She put her ear to the door and heard nothing, but the door was warm.
 
@@ -210,7 +210,7 @@ Pavelka considered this. "There should be. I've sent mail to 309."
 
 "What's in 309?"
 
-"I don't know. I've only sent mail there. Interdepartmental." He made a gesture that could have meant anything: uncertainty, indifference, the unreliability of systems designed to move paper from one room to another room that might or might not exist.
+"I don't know. I've only sent mail there. Interdepartmental." He made a gesture that could have meant anything.
 
 "Who's in Room 307?"
 
@@ -250,11 +250,9 @@ He looked at her then with an expression she could not read, though later, repla
 
 On her second visit, Room 350 was open. It had been closed before — she remembered the door, closed, unmarked except for the number. Now it was open and inside was a small room with a window. The window looked out onto a courtyard. Not a parking lot, not the street, not the side of an adjacent building: a courtyard, with a tree, a bench, a square of grass, enclosed on all four sides by the building's own walls. She had not known the building had a courtyard. From the outside, the building was a rectangle. Courtyards require a hole in the middle. She had not noticed a hole.
 
-The tree was an ash, full-leafed, its branches spreading to within a few feet of the windows on all sides. The bench beneath it was wooden and looked used — slats slightly bowed, paint worn from the seat. Someone sat on that bench. Someone came to this courtyard through some door on some floor and sat beneath the ash and went back inside to whatever room they had come from, which might have been Room 308, which might have looked out on this same courtyard, which Petra could see but could not reach because Room 350 was not Room 308 and the window did not open.
+The tree was an ash, full-leafed, its branches spreading to within a few feet of the windows on all sides. The bench beneath it was wooden — slats slightly bowed, paint worn from the seat. Someone sat there on lunch breaks, probably. Someone who knew how to get back to their office afterward. The window did not open.
 
-She thought about who sat on that bench and whether they knew they were sitting in the middle of a building that a woman was walking through, looking for a room that was twenty-four minutes late and getting later. This was not the kind of thing she usually thought about. She usually thought about property assessments, fair market value, the county's formula for taxable value of a house she had lived in for fourteen years. She was a practical person. She kept receipts. She filed on time. Room 308 was a room in a building and she was a person in the same building and the distance between them was finite and measurable, even if she did not currently know the measurement.
-
-She left Room 350 and walked back along the green-tile hallway. The tiles were still slightly rotated. The floor was still trying to hold still and not managing. She passed Room 360, the numbering-meeting room, where the door was now closed and voices came through it. She passed Room 371, where the woman with the backward badge was still filing, placing folders in their chromatic positions with the care of someone whose system had become identical to the life she lived inside it.
+She left Room 350 and walked back along the green-tile hallway. The tiles were still slightly rotated. The floor was still trying to hold still and not managing. She passed Room 360, the numbering-meeting room, where the door was now closed and voices came through it. She passed Room 371, where the woman with the backward badge was still filing.
 
 ## 11.
 
@@ -262,11 +260,9 @@ Petra Novak is still in the Kaplan Municipal Services Building. It is 4:47. She 
 
 The building will close at 5:00.
 
-She is standing in front of the wall between 307 and 312 — the long beige wall with no doors, the wall she knocked on earlier. She has her hand on it again. Not knocking. Just resting her hand there, the way you rest your hand on a wall when you have been walking for a long time and the wall is something that is not moving.
+She is standing in front of the wall between 307 and 312 — the long beige wall with no doors, the wall she knocked on earlier. She has her hand on it again. Not knocking. Just resting her hand there.
 
-She has been thinking — not in the way she thinks about property assessments or filing deadlines, but in a slower, less useful way — about the rooms she has been in. The soap chess pieces. The green tile, slightly rotated. The courtyard with the ash tree. The records filed by color, every case assigned a shade. These rooms are not Room 308. But they are rooms. They have their own systems, their own occupants, their own ways of organizing the world into categories that make sense only from inside. She did not need to see them. She was not looking for them. They are what she found instead of what she was looking for, and they are accumulating — not into a map, exactly, because a map would help her and these rooms do not help her, but into something. A catalog of rooms that are not Room 308. An inventory. She could, if she were the kind of person who made inventories of things she had not meant to find, list them.
-
-She is not that kind of person. She is the kind of person who has an appointment.
+She has an appointment.
 
 Down the hallway, the elevator opens. No one gets out. The doors stay open for five seconds, six, seven, the lit interior of the elevator visible from where Petra stands, empty, arriving at this floor for reasons the building knows and she does not. The doors close. The elevator descends, or ascends, or remains where it is. She cannot tell from the sound.
 
@@ -284,4 +280,4 @@ She opens her manila folder. She takes out the appointment letter and unfolds it
 
 The hallway is empty. The light is the same flat fluorescent it has been all afternoon. Somewhere on another floor a door closes, and the sound travels through the building the way sound travels through all buildings, arriving diminished and impossible to locate.
 
-Petra Novak shifts her weight from one foot to the other. She is between rooms 307 and 312. Her appointment was at 3:00. It is now 4:53. She has not been seen. She has not been turned away. She is in the correct building on the correct floor in the correct hallway, holding the correct letter, and she is going to wait here, in front of this wall, for seven more minutes or for however long it takes, because she is early for nothing and late for everything and the room is here. The room is here. She can feel it — not mystically, not with any sense beyond the ordinary — the way you feel a room on the other side of a wall. Weight, and air, and the particular quality of a space that is enclosed and empty and waiting for someone to open a door that, so far, no one can find.
+Petra Novak shifts her weight from one foot to the other. She is between rooms 307 and 312. Her appointment was at 3:00. It is now 4:53. She has not been seen. She has not been turned away. She is in the correct building on the correct floor in the correct hallway, holding the correct letter, and she is going to wait here, in front of this wall, for seven more minutes or for however long it takes, because she is early for nothing and late for everything and the room is here. The room is here. She can feel it the way you feel a room on the other side of a wall. Weight, and air, and the particular quality of a space that is enclosed and waiting for someone to open a door that, so far, no one can find.
