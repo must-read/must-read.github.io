@@ -7,7 +7,7 @@ authorA: "James M. Cain"
 authorB: "William Faulkner"
 workX: "The Postman Always Rings Twice by James M. Cain"
 workY: "Absalom, Absalom! by William Faulkner"
-wordCount: 2847
+wordCount: 2761
 readingTimeMinutes: 11
 tags:
   - southern-noir
@@ -51,7 +51,7 @@ The house sat two hundred yards from the river on ground too low for building. S
 
 The woman came out before I got to the porch steps.
 
-She was around thirty-five. Dark hair pulled back. A cotton dress washed enough times to forget its original color. She stood in the doorway with one hand on the frame and looked at me the way you look at weather — not with interest, not with fear, just with the calculation of someone deciding whether to go out in it.
+She was around thirty-five. Dark hair pulled back. A cotton dress washed enough times to forget its original color. She stood in the doorway with one hand on the frame and looked at me the way you look at a bill you're not sure you can cover.
 
 "I can caulk," I said.
 
@@ -95,7 +95,7 @@ I ate the peach. The juice ran down my wrist and I wiped it on my jeans. The riv
 
 "You're a man with hands."
 
-I looked at her. That was a mistake. Not because of how she looked — though she looked like a woman who had been alone long enough for loneliness to become a kind of beauty, a sharpness in the cheekbones, a directness in the eyes that had nothing to do with invitation and everything to do with need — but because when I looked at her she looked back, and the looking had weight to it, had the quality of a hand placed flat on your chest, and I understood in the animal part of my brain, the part that had kept me alive on roads and in strange beds and in the backs of trucks across nine states, that this woman was not offering me a job. She was offering me a place to stop.
+I looked at her. That was a mistake. Not because of how she looked — though she looked like a woman sharpened by solitude, the cheekbones prominent, the eyes direct in a way that had nothing to do with invitation and everything to do with need — but because when I looked at her she looked back, and I felt it in my chest like a hand laid flat, and the animal part of my brain, the part that had kept me alive on roads and in strange beds and in the backs of trucks across nine states, understood what my thinking brain would not say yet: this woman was not offering me a job. She was offering me a place to stop.
 
 I should have driven away.
 
@@ -111,7 +111,7 @@ The flashlight showed me a room maybe twenty by thirty. Dirt floor. Stone walls 
 
 It was a room inside the room. A smaller structure, framed in new lumber, walled on three sides with plywood, open on the fourth. Inside, a poured concrete floor, smooth and level. Shelving brackets on the walls but no shelves. A place where a door would go but no door. Electrical conduit running along the ceiling but ending in bare wire, unconnected, reaching toward nothing.
 
-It was not finished. It was perhaps half finished. And standing in that cellar looking at the bones of whatever Landry had intended, I felt something I did not have a name for — not curiosity, not dread, but a recognition, the way you recognize a road you've driven before even when the landmarks have changed, as though the shape of the project, the design of it, the intention embedded in the measurements and the cuts and the careful squaring of the corners, was something I had always been walking toward, had been walking toward since the first time I left a place and did not go back, and the walking had been, all along, not away from anything but toward this, toward this cellar, toward this half-built room inside a room inside a house that breathed through the gaps I had been hired to seal.
+It was not finished. Half finished, maybe less. And standing in that cellar looking at the bones of whatever Landry had intended, I felt something I did not have a name for — not curiosity, not dread, but a recognition, the way you recognize a road you've driven before even when the landmarks have changed, as though the shape of the project, the design of it, the intention embedded in the measurements and the cuts and the careful squaring of the corners, was something I had always been walking toward, had been walking toward since the first time I left a place and did not go back, and the walking had been, all along, not away from anything but toward this, toward this cellar, toward this half-built room inside a room inside a house that breathed through the gaps I had been hired to seal.
 
 "Can you finish it?" Cordell said. She was at the top of the stairs. Her voice came down to me changed, the way voices change in enclosed spaces, flattened and softened and stripped of the frequencies that tell you how far away a person is.
 
@@ -137,7 +137,7 @@ I did not stop working.
 
 "A sharecropper's son. They'd had trouble over the property line for years, the way people have trouble down here, which is to say quietly and then all at once. The sheriff called it self-defense. Landry's family had been in that sheriff's pocket since Reconstruction, or the sheriff's family had been in Landry's pocket, and the difference between those two things is a matter of who is telling the story and when, and the boy's family moved away and Landry stayed and the house stayed and the land stayed, and eight years later Landry started building in the cellar."
 
-I should have asked why she was telling me this. I should have put down the knife and walked up those stairs and gotten in the truck and driven until the house was a memory and then driven further until the memory was gone. But I was smoothing compound into a seam where the drywall met the concrete floor, and the seam required attention, and the attention required my hands, and my hands had stopped belonging to me sometime during the second week when Cordell came to my bed, or I went to hers — the house had enough rooms that the distinction between her bed and mine had become architectural rather than personal, a question of which door you opened, which hallway you took, which floorboards sang under your weight as you moved through the dark toward something you could not name and did not want to stop moving toward.
+I was smoothing compound into a seam where the drywall met the concrete floor, and the seam required attention, and the attention required my hands, and my hands had stopped belonging to me sometime during the second week when Cordell came to my bed, or I went to hers — the house had enough rooms that the distinction between her bed and mine had become architectural rather than personal, a question of which door you opened, which hallway you took, which floorboards sang under your weight as you moved through the dark toward something you could not name and did not want to stop moving toward.
 
 "What do you want me to build, Cordell?"
 
@@ -157,7 +157,7 @@ The river was loud that night, or maybe the house was quiet enough to let the ri
 
 In the morning I went back down. I installed the shelving. I wired the outlet. I mounted a light fixture and stood in the doorway and looked at the finished room, tight and sealed and quiet, and it was the best work I'd ever done. Every joint was true. Every surface was smooth. The door closed with the sound of a mouth pressing shut.
 
-Cordell came down and stood beside me. She smelled like coffee and the house and something else, something warm and private, and she put her hand on the small of my back the way she did when she wanted me to understand something without her having to say it.
+Cordell came down and stood beside me. She smelled like coffee and the house. She put her hand on the small of my back and left it there.
 
 "Now what?" I said.
 
@@ -167,10 +167,8 @@ I went upstairs. I got the caulking gun. I started on the south side, where I'd 
 
 I finished the last window at dusk. I stood in the yard and looked at the house, buttoned up and silent, and I thought about the cellar and the room and the door that locked from the outside and the floor that could be hosed clean. I thought about Landry in the river, which is where men go in this part of the country when the thing they built becomes too large to live above. I thought about the road and the truck and the forty miles to Greenville and the thousand miles to anywhere.
 
-Cordell was on the porch. She was sitting in a chair that did not match the porch and the porch did not match the house and the house did not match the land it sat on, and she was watching me the way weather watches — without interest, without fear, just with the patience of something that knows you're not going anywhere.
+Cordell was on the porch. She was sitting in a chair that did not match the porch and the porch did not match the house and the house did not match the land it sat on. She had a glass of tea and she didn't look up.
 
-I put the caulking gun in the truck bed. I walked back to the porch. I went inside.
+I put the caulking gun in the truck bed. I stood there a while. The keys were in my pocket. The road was right there, the same road that had brought me, going all the same places it went before.
 
-The door didn't close all the way. It never did. But the house was sealed now, every window tight, every gap filled, and the draft that had moved through the hallways since before I came — that slow breath, that exhalation from somewhere deep — was gone. The house was quiet. The house was finished.
-
-Somewhere below me, the cellar waited. It would go on waiting. It was good at it. The house had taught it how.
+I walked back to the porch. Cordell moved her feet to let me pass. I went inside and down the hall and stopped at the kitchen where the cellar door was shut, and I could hear it below me, or I couldn't hear it, the room I'd built, the room that was perfect and silent and waiting, and my hands were at my sides and they were not shaking and I did not know what that meant.
