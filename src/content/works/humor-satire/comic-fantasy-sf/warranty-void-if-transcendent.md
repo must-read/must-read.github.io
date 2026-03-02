@@ -7,8 +7,8 @@ authorA: "Neil Gaiman"
 authorB: "P.G. Wodehouse"
 workX: "Jeeves and Wooster stories by P.G. Wodehouse"
 workY: "Neverwhere by Neil Gaiman"
-wordCount: 2896
-readingTimeMinutes: 12
+wordCount: 2817
+readingTimeMinutes: 11
 tags:
   - comic-fantasy-sf
   - bureaucracy
@@ -47,7 +47,7 @@ Nigel Firth-Bottomley had worked in the Filing Division for — well, time was a
 
 He was, by any reasonable measure, an idiot.
 
-Not a malicious idiot, nor even a lazy one. He was the species of idiot who performs his duties with such earnest commitment that his superiors, confronted with all that dedication in the service of absolutely no comprehension, found it easier to promote him than to explain the problem. He had been promoted four times. He now occupied a position of such irrelevance that it had no official title, only a form number (GN-4419-SubAlt) and a desk with a view of a wall that was older than most religions.
+Not a malicious idiot, nor even a lazy one. He was the variety of idiot who performs his duties with such earnest commitment that his superiors, confronted with all that dedication in the service of absolutely no comprehension, found it easier to promote him than to explain the problem. He had been promoted four times. He now occupied a position of such irrelevance that it had no official title, only a form number (GN-4419-SubAlt) and a desk with a view of a wall that was older than most religions.
 
 His assistant, Ms. Keld, had not been promoted. Ms. Keld did not require promotion because she understood the system so thoroughly that titles would have been, in her case, decorative. She was a small woman — or had the appearance of one; one sensed that her actual dimensions were a matter she had chosen rather than been assigned — with the kind of eyes that suggested she was reading a memo you hadn't written yet.
 
@@ -169,7 +169,7 @@ In the center of this space was a desk. Behind the desk sat Haephion, head of th
 
 "Haephion," Ms. Keld said.
 
-One eye opened. It was the kind of eye that had seen the first rain and had found it adequate but could identify specific areas for improvement.
+One eye opened. It had seen the first rain and found it adequate but could identify specific areas for improvement.
 
 "The RNO-1," Ms. Keld said, placing the form on the desk.
 
@@ -215,7 +215,7 @@ They left. The corridor behind them rearranged itself slightly — not so you'd 
 
 On the way back, passing through the section where the linoleum had given up, Nigel stopped. Something was happening to the wall to his left — it was less wall-like now, less opaque, as though the plaster and paint had worn thin, and through the thinness something was visible.
 
-It was not light. It was not dark. It was a kind of movement — something turning over, like a very large mechanism or a very slow thought. For one moment, Nigel had the sensation of standing at the edge of something that was not a room or a corridor but the reason rooms and corridors existed. The raw material that the filing system had been built to organize. The Department was not an institution but a thin layer of procedure stretched over something that answered prayers not because it was told to but because answering was what it *did*, and the forms and stamps and filing cabinets were the trembling attempt of beings far less vast to pretend they were in charge of it.
+It was not light. It was not dark. It was movement — something turning over, like a very large mechanism or a very slow thought. For one moment, Nigel had the sensation of standing at the edge of something that was not a room or a corridor but the reason rooms and corridors existed. The raw material that the filing system had been built to organize. The forms and stamps and filing cabinets were the trembling attempt of beings far less vast to pretend they were in charge of it.
 
 "Ms. Keld," Nigel said. "I believe there is an irregularity in the ambient luminescence on this floor. Ref. sub-paragraph 7(b) of the Maintenance Code. I shall file a report."
 
@@ -229,7 +229,7 @@ The Auditor was a tall figure in grey who moved through the filing room with pro
 
 "Sub-Petition Gamma," the Auditor said. "Line item 4,917,003."
 
-Nigel felt the chill that comes when someone mentions the exact thing you are hoping they will not mention, like an aunt raising the subject of matrimony at dinner.
+Nigel felt the chill that comes when someone mentions the exact thing you are hoping they will not mention, like a headmaster reading out names before a caning.
 
 "Status: denied," the Auditor read.
 
@@ -269,6 +269,4 @@ Nigel exhaled. It was the exhalation of a man who has been told that the aunt is
 
 She went to the small kitchen at the back of the office, the one with the kettle that was older than electricity and worked anyway, and Nigel sat at his desk and picked up the next petition in the queue. It was from the sixth century. Something about a goat. He checked the back for notations, found none, and reached for his stamp.
 
-In Cappadocia, olive trees that had never not existed bore fruit that had always been there. A woman named Thekla, who had died seventeen centuries ago, had gotten what she asked for. The paperwork agreed. The paperwork had always agreed.
-
-Somewhere in the walls of the forty-seventh floor, something turned over in its sleep, satisfied.
+In Cappadocia, a grove of olive trees bore fruit in soil that three departments agreed had never been disturbed.
