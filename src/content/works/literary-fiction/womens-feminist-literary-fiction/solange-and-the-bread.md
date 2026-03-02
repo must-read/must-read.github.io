@@ -7,7 +7,7 @@ authorA: "Toni Morrison"
 authorB: "Elena Ferrante"
 workX: "Sula"
 workY: "My Brilliant Friend"
-wordCount: 2968
+wordCount: 2643
 readingTimeMinutes: 11
 tags: ["poverty", "motherhood", "arithmetic", "bread", "survival", "rural-france", "widowhood", "class", "dual-timeline"]
 rating: 0
@@ -39,9 +39,9 @@ The flour cost fourteen centimes per kilo. She used a kilo and a quarter, which 
 
 *Thirty-seven weeks.* She pushed the heels of her hands into the dough. Thirty-seven weeks until his birthday, the nineteenth of November, when he would turn twelve and could go to his uncle's workshop. His uncle made clogs. His uncle had said, when the boy turns twelve, bring him, and Solange had taken those words and placed them inside a cabinet in her mind where she kept the things that must not be examined too closely for fear they would dissolve.
 
-The dough was ready when it stopped sticking. She shaped it into one round loaf, not two, because one loaf retained its moisture longer than two small ones and the arithmetic of moisture was as real as the arithmetic of flour. She scored the top with a knife — three cuts, quick, habitual — and opened the iron door of the stove and slid the loaf onto the stone she kept inside for this purpose. The heat took it. The kitchen filled with a smell that was flour becoming bread, becoming the week, becoming the reason the boy would come in from the yard with his face changed, open in a way that he kept closed at other times, because his mother was baking and Sunday smelled like this.
+The dough was ready when it stopped sticking. She shaped it into one round loaf, not two, because one loaf retained its moisture longer than two small ones. She scored the top with a knife — three cuts, quick, habitual — and opened the iron door of the stove and slid the loaf onto the stone she kept inside for this purpose. The heat took it. The kitchen filled with a smell that was flour becoming bread, becoming the week, becoming the reason the boy would come in from the yard with his face changed, open in a way that he kept closed at other times, because his mother was baking and Sunday smelled like this.
 
-She thought about the wood. She had used two logs and a handful of kindling, which was correct. The wood pile by the east wall would last until March if she burned two logs on Sunday for baking and one log on the other days, unless the cold deepened, in which case they would wear their coats indoors and the wood would last until February, which was not March.
+Two logs and a handful of kindling. The wood pile by the east wall would last until March if she burned two logs on Sunday for baking and one on the other days, unless the cold deepened, in which case they would wear their coats indoors and the wood would last until February, which was not March.
 
 ---
 
@@ -55,7 +55,7 @@ She cut the bread. The loaf was warm and the knife went through clean and she cu
 
 ## Wednesday
 
-By Wednesday the bread was three days old and beginning to harden at the edges. Not stale — she would not use that word until Friday — but firmer, resistant, requiring a different kind of chewing. The boy ate his portion in the morning before school, standing near the door with his coat already on, and he ate quickly, the way his father had eaten, as if the food might be recalled. She watched his jaw work. She did not watch his jaw work. She was counting.
+By Wednesday the bread was three days old and beginning to harden at the edges. Not stale — she would not use that word until Friday — but firmer, resistant. The boy ate his portion in the morning before school, standing near the door with his coat already on, and he ate quickly, the way his father had eaten, as if the food might be recalled. She watched his jaw work. She did not watch his jaw work.
 
 *Thirty-six weeks and four days.* The nineteen centimes for this week's flour was spent. Next week's nineteen centimes existed in the future, which meant it existed in the same place as the uncle's workshop, the same place as the birthday, the same place as the moment when the boy would walk out of her house and into a trade and she could stop converting his body into centimes. She had nine francs and sixty centimes for the rest of the month. Rent was seven francs. That left two francs sixty. She needed: flour, salt when the jar ran out, soap, candle-ends, and something for the boy's feet, which were pushing against the leather of his shoes with a pressure she could almost hear.
 
@@ -65,7 +65,7 @@ Solange was not a wife. She soaked her portion in water from the basin and ate i
 
 ---
 
-She remembered the year he turned nine. Not because anything happened — nothing happened, that was the point. He turned nine and she baked and he grew and the shoes held and the winter was not severe and nothing broke, not the chair, not the stove pipe, not the boy, not her. It was the best year. She did not know it was the best year while she was living it. She was counting through it the same way she counted through every year — the francs, the centimes, the distance to the next first-of-the-month — and the counting had been the same as every other year, and only afterward, when the year of ten brought the broken stove pipe and the year of eleven brought the growth that would not stop, did she understand that nine had been a year of holding, a year when the equation balanced without her having to subtract herself from it.
+She remembered the year he turned nine. Not because anything happened — nothing happened, that was the point. He turned nine and she baked and he grew and the shoes held and the winter was not severe and nothing broke, not the chair, not the stove pipe, not the boy, not her. It was the best year. She did not know it was the best year while she was living it. She was counting through it the same way she counted through every year — the francs, the centimes, the distance to the next first-of-the-month — and the counting had been the same as every other year, and only afterward, when the year of ten brought the broken stove pipe and the year of eleven brought the growth that would not stop, did she understand that nine had been a year when the equation balanced without her having to subtract herself from it.
 
 That was the year she had not gone to the Fournier farm for bread. Not once. She had not stood in the courtyard with her hands at her sides while the Fournier woman decided whether to give her the end of a loaf, the part that nobody wanted because it was all crust and air, and whether to give it with a face that said *this is Christian duty* or a face that said *this is what you are, a woman who stands in my courtyard*. The year he was nine she had not gone, and that absence was the closest thing to wealth she had ever experienced.
 
@@ -85,9 +85,7 @@ At the door of her house she paused. The boy's shoes were on the step, and the s
 
 ---
 
-She did not go to the Fournier farm. Not this week. She had gone last month, once, in the rain, because the flour had run out on Thursday instead of Sunday — the boy had been hungrier than usual, a growth week, she could tell by the way he moved, awkward in his own lengthening body — and she had stood in the Fournier courtyard and the Fournier woman had come out and looked at her and gone back inside and come out again with half a loaf, good bread, wheat bread, and had handed it to Solange with a face that contained nothing. Not pity. Not contempt. Nothing. And Solange had taken it and said thank you and walked home in the rain with the bread under her shawl, close to her body to keep it dry, and the bread had been warm from the Fournier oven and the warmth against her chest had felt like something she would not name.
-
-She would not go this week. She would make the five days of bread that remained — three for the boy, two for herself — stretch to Sunday, and on Sunday she would bake again, and the week would reset, and the counting would continue.
+She did not go to the Fournier farm. Five days of bread remained — three for the boy, two for herself — and they would stretch to Sunday, and on Sunday she would bake again.
 
 ---
 
@@ -99,9 +97,7 @@ The boy ate his last slice in the morning. He ate it without soaking because he 
 
 He left for school. She sat at the table with the water basin and the bread paste and the silence of a house that contained one woman and ten francs a month and a stove that was cooling because she had not lit a fire today. Saturday was a no-fire day. She bundled herself in the coat and the shawl and the blanket and spent the savings — one log, approximately three centimes of wood — on the future, on Sunday's baking, on the continuation of the week.
 
-*Thirty-six weeks and two days.* She converted it. Thirty-six weeks was approximately eight and a half months. Eight and a half months at ten francs per month was eighty-five francs. She would earn eighty-five more francs before the boy could go to his uncle. She would spend eighty-five francs on rent, flour, salt, soap, candles, and the problem of his feet. The eighty-five francs coming in and the eighty-five francs going out were the same eighty-five francs, which meant there was nothing between her and the uncle's workshop except time, time passing at the rate of ten francs per month, and if nothing broke — the chair, the stove pipe, the boy, her — then the equation would hold and November would arrive and she would walk him to the workshop and her brother-in-law would take him in and the column of expenses that was her son would close.
-
-Not close. Change. He would still eat. He would still grow. But the eating and the growing would no longer pass entirely through her hands, through the ten francs, through the Sunday loaf. He would be apprenticed. He would learn to make clogs. This was what she was purchasing with eighty-five francs and thirty-six weeks of bread and a body that kneeled on Madame Daubigny's kitchen floor for twenty-two centimes an hour.
+*Thirty-six weeks and two days.* She converted it. Thirty-six weeks was approximately eight and a half months. Eight and a half months at ten francs per month was eighty-five francs. She would earn eighty-five more francs before the boy could go to his uncle. She would spend eighty-five francs on rent, flour, salt, soap, candles, and the problem of his feet. The eighty-five francs coming in and the eighty-five francs going out were the same eighty-five francs, which meant there was nothing between her and the uncle's workshop except time, time passing at the rate of ten francs per month, and if nothing broke — the chair, the stove pipe, the boy, her — then the equation would hold and November would arrive and she would walk him to the workshop and her brother-in-law would take him in and the column of expenses that was her son would not close but change. The eating and the growing would no longer pass entirely through her hands, through the ten francs, through the Sunday loaf.
 
 She thought about his hands. He had his father's hands, broad across the palm with long fingers that looked wrong on a boy his age, too large, as if the hands had arrived early and were waiting for the rest of him to catch up. His father had held a hammer with a certainty that the rest of him had lacked — a man uncertain about most things but not uncertain about where to place a nail. The boy had inherited the hands and maybe the certainty that lived in them, and maybe the uncle would see this, or would not.
 
@@ -117,10 +113,10 @@ She pushed the dough. She folded it. She pushed it again. The rhythm was older t
 
 The dough was ready. She shaped it, scored it, slid it into the oven. The heat took it. The smell began.
 
-She stood by the stove and waited for the bread and thought about whether the loaf would be slightly larger this week if she used a fraction more water, and whether more water would make it less dense, and whether less dense bread would go stale faster, and whether faster staleness on the back end was worth the extra volume on the front end. She ran these numbers the way she ran every number, with the full force of a mind that could hold four variables simultaneously — flour, water, heat, time — and adjust each one against the others without writing anything down, because paper cost money and her mind was free.
+Whether the loaf would be slightly larger this week if she used a fraction more water. Whether more water would make it less dense. Whether less dense bread would go stale faster. Whether faster staleness on the back end was worth the extra volume on the front end. She ran these numbers the way she ran every number, with the full force of a mind that could hold four variables simultaneously — flour, water, heat, time — and adjust each one against the others without writing anything down, because paper cost money and her mind was free.
 
-The bread was done. She pulled it from the oven and set it on the table and cut it — seven slices for him, five for herself, his thicker, hers thinner — and wrapped them and placed them on their shelves and the week began.
+The bread was done. She pulled it from the oven and set it on the table and cut it — seven slices for him, five for herself, his thicker, hers thinner — and wrapped them and placed them on their shelves.
 
 *Thirty-six weeks and one day.*
 
-From the other room: the boy turning over. The bed frame creaking under weight it had not held a year ago. The sound of growing. She covered the bread with the cloth and wiped the flour from the table and washed her hands in the basin and the water was cold and her hands were red and she dried them on her skirt and sat in the chair by the stove, which was still warm, and would be warm for another hour, and she sat in the warmth while it lasted.
+From the other room: the boy turning over. The bed frame creaking under weight it had not held a year ago. She wiped the flour from the table and checked the salt jar. It was half full. She did not calculate how long it would last. She would calculate it tomorrow.
