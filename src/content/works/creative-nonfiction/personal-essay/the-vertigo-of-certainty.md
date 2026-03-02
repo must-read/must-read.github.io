@@ -7,8 +7,8 @@ authorA: "Rachel Cusk"
 authorB: "Joan Didion"
 workX: "Outline"
 workY: "The White Album"
-wordCount: 2505
-readingTimeMinutes: 10
+wordCount: 2245
+readingTimeMinutes: 9
 tags:
   - certainty
   - fact-checking
@@ -79,7 +79,7 @@ I read the statement four times. It is a document about the precise boundaries o
 
 Source 3 (Terrence Ogilvie, defense policy consultant): Cheerful, expansive, provided detailed recollections that correspond to nothing in the public record. I spent two hours cross-referencing his claims. The Senate subcommittee hearing he describes took place on a date when the subcommittee was in recess. The building where he says a meeting occurred was under renovation and unoccupied. He is either lying or remembering a different year. He does not seem like a man who lies. He seems like a man whose memories have settled into shapes that satisfy him.
 
-Source 4 (unnamed, communicated through the writer via Signal): Provided three paragraphs of what the writer calls "deep background." The paragraphs describe a meeting in a hotel conference room in Crystal City, Virginia. Specific details: beige carpet, a projector that wouldn't connect, someone's phone buzzing on the table. The specificity is persuasive. It has the texture of lived experience. But specificity is not the same as accuracy. I have been in many rooms that I remember vividly and inaccurately. The vividness is not a guarantee. It might be the opposite — the more clearly you see the room in your mind, the less likely you are to question whether the room looked that way, because the image is doing the work that evidence should do.
+Source 4 (unnamed, communicated through the writer via Signal): Provided three paragraphs of what the writer calls "deep background." The paragraphs describe a meeting in a hotel conference room in Crystal City, Virginia. Specific details: beige carpet, a projector that wouldn't connect, someone's phone buzzing on the table. The specificity is persuasive. It has the texture of lived experience. But specificity is not the same as accuracy. I have been in many rooms that I remember vividly and inaccurately. The more clearly you see the room in your mind, the less likely you are to question whether the room looked that way, because the image is doing the work that evidence should do.
 
 I cannot verify anonymous sources. This is not a limitation of the process. This is the process working correctly.
 
@@ -116,11 +116,11 @@ I thought about that for a long time after I turned off the phone. It is a disti
 
 Pulled FEC filings for the senator's campaign, 2016-2022. No payments to Brannick Solutions or any associated entity. Pulled the writer's evidence of payment: a screenshot of a spreadsheet he says was provided by an unnamed source. The screenshot shows a column of figures and a header that reads "BRANNICK — CONSULTING." There is no metadata. There is no second source. The writer says the spreadsheet "speaks for itself," which is a phrase I have come to understand means: I cannot get anyone else to speak for it.
 
-Wes asked at the 2:00 meeting how the verification was going. I said the sourcing didn't hold up. He said: keep going, see what survives. He was eating an apple. He said it the way he says most things, as if the outcome is already known and the process is a courtesy we extend to the process.
+Wes asked at the 2:00 meeting how the verification was going. I said the sourcing didn't hold up. He said: keep going, see what survives. He was eating an apple.
 
 Called Source 6 (Rebecca Tolland, former legislative aide to the senator). She answered on the first ring. She said she had been expecting this call for two years. She said she had documentation. I asked what kind. She said financial records, email printouts, a photograph. She said she could meet in person. I said I would prefer the documentation sent electronically. She said some things needed to be seen in context. I said I understood but we had procedures. She said, "That's what they're counting on. The procedures."
 
-I don't know what she meant by that. Or I do know, and what she meant is that institutional verification is a gate that certain kinds of truth cannot pass through — the kinds that depend on being in a room, on reading a face, on the thing a person says after they've put down their coffee and looked out the window and decided to be honest. I wrote down what she said. I did not arrange to meet her. The procedures do not allow for meetings arranged on the basis of someone sounding credible on the phone. The procedures are correct about this.
+I don't know what she meant by that. Or I do know, and what she meant is that institutional verification is a gate that certain kinds of truth cannot pass through — the kinds that depend on being in a room, on reading a face, on the thing a person says after they've put down their coffee and decided to be honest. I wrote down what she said. I did not arrange to meet her. The procedures do not allow for meetings arranged on the basis of someone sounding credible on the phone. The procedures are correct about this.
 
 ---
 
@@ -136,7 +136,7 @@ Source 5 (Angela Watts, former Brannick office manager): Clear, specific, and ve
 
 I called the writer and told him what Watts had provided. He was quiet. Then he said: "That's the cover. The official payments are the cover for the unofficial ones." I asked what evidence he had of unofficial payments. He said the absence of evidence was itself evidence — that the payments had been structured to avoid detection. I asked him whether he understood what he was asking me to verify. He said he understood perfectly. I said I didn't think he did.
 
-The conversation lasted eight minutes. I was professional throughout, which is to say I maintained a voice that did not correspond to what I was thinking, which is to say I performed the procedures of professional exchange the way I perform the procedures of fact-checking — by following the steps, by trusting that the steps produce something reliable, by not looking too closely at the distance between the steps and the truth they are supposed to approach.
+The conversation lasted eight minutes. I was professional throughout, which is to say I maintained a voice that did not correspond to what I was thinking, which is to say I performed the procedures of professional exchange the way I perform the procedures of fact-checking — by following the steps, by trusting that the steps produce something reliable.
 
 ---
 
@@ -144,7 +144,7 @@ The conversation lasted eight minutes. I was professional throughout, which is t
 
 I was certain my mother forgot my birthday in 2018. Certain the way you're certain about weather — it happened, I was there, I felt it. Jamie was with me. He remembers it too: no call, no text, nothing until the following week when she phoned about something else entirely and never mentioned it. But I found the card last year, in a drawer, in the apartment. Postmarked November 8. My birthday is November 9. She didn't forget. She sent a card that arrived late or arrived on time and I didn't open the mail that day and by the time I found it I had already built the forgetting into the architecture of what I understood about my mother, and the architecture was load-bearing, and when I found the card I put it back in the drawer.
 
-Jamie does not know about the card. I have not told him. This is its own kind of certainty — the certainty that some corrections are not worth making because the structure they would damage is inhabited, and the people living in it have arranged their furniture, and to renovate now would be to ask them to live somewhere provisional while the work is done, and no one wants to live somewhere provisional.
+Jamie does not know about the card. I have not told him.
 
 ---
 
@@ -152,19 +152,18 @@ Jamie does not know about the card. I have not told him. This is its own kind of
 
 Source 7 (the writer himself, final call): He wanted to argue. He said I was missing the larger pattern. He said that if I looked at the totality of what he'd gathered — the named sources, the unnamed ones, the circumstantial evidence, the financial records that almost but didn't quite align — the picture was clear. I said the picture might be clear to him. I said clarity was not the same as verification. He was quiet for a while. Then he said: "You verify facts. I'm talking about something that's true but not yet factual."
 
-I wrote that sentence down. I have looked at it several times since. It is the kind of sentence that sounds like it means something. It might mean something. It means, I think, that he has confused the feeling of understanding with understanding itself, and that the feeling is so strong, so structurally complete, that he cannot distinguish it from knowledge. I have sympathy for this. More than I should.
+I wrote that sentence down. I have looked at it several times since. It is the kind of sentence that sounds like it means something. It might. It means, I think, that he has confused the feeling of understanding with understanding itself, and that the feeling is so strong, so structurally complete, that he cannot distinguish it from knowledge. I have sympathy for this. More than I should.
 
 Filed the verification report at 3:15 p.m. Summary: of the fourteen principal claims in the Brannick piece, eleven are unsubstantiated, two are demonstrably false, and one is true but does not support the writer's thesis. Recommended against publication. Wes agreed. The writer has been informed.
 
-The procedures worked. The verification process identified what was false and flagged what was unsubstantiated and protected the magazine from publishing a story that could not be defended. This is what the process does. This is what I do. I establish what can be established and I mark what cannot and I write it down and I file it and the document goes into the system and the system holds.
+The procedures worked. The verification process identified what was false and flagged what was unsubstantiated and protected the magazine from publishing a story that could not be defended. This is what the process does. This is what I do.
 
 ---
 
 **Personal**
 
-I count nine items on the list now. Nine things I was certain about and got wrong. Some are trivial. Some are not. The distinction between trivial and not-trivial is itself a certainty I have not examined — the belief that the street in Philadelphia matters less than the birthday card, that being wrong about a direction is different in kind from being wrong about a mother. Maybe it is different. Maybe the difference is the certainty I am most reluctant to check.
+I count nine items on the list now. Nine things I was certain about and got wrong. The distinction between trivial and not-trivial is itself a certainty I have not examined.
 
-Alana called. Not texted — called. She wanted to know if I'd started my own list. I said I had. She asked how many items. I said nine. She said, "Is it making you feel better or worse?" I said I didn't know yet. She said that was the right answer, and I said I wasn't sure there were right answers to questions like that, and she laughed and said, "See, that's what I mean. We admit it."
+Alana called. Not texted — called. She wanted to know if I'd started my own list. I said I had. She asked how many items. I said nine. She said, "Is it making you feel better or worse?" I said I didn't know yet. She said that was the right answer, and I said I wasn't sure there were right answers to questions like that, and she said, "God, you sound like a fact-checker even now."
 
-I am looking at my phone. The verification report is in one app. The list is in another. They are adjacent. The phone does not distinguish between them. Both are notes. Both are data. Both are a woman establishing what she knows and what she doesn't, using the same device, the same fingers, the same
-
+I filed the verification report in one app. The list is in another. Both are open.
