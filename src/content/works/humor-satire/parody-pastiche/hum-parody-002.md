@@ -10,8 +10,8 @@ workY: "Wyrd Sisters"
 wordCount: 2485
 readingTimeMinutes: 10
 tags: ["parody", "regency", "witchcraft", "social-comedy", "village-life", "demon", "theatricals"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Pratchett's genre-savvy satire meets Austen's lethal social precision in a village comedy where three witches confront a demon the community has decided to tolerate"

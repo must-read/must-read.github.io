@@ -18,8 +18,8 @@ tags:
   - invisible-labor
 publishedDate: 2026-03-02
 status: "published"
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 8
 formulaSummary: >
   Saunders's institutional absurdism meets Saramago's systematic prose in a ghost story about a dead economist haunting the Bureau of Labor Statistics, watching the monthly jobs report erase the people it claims to count.
 synopsis: >

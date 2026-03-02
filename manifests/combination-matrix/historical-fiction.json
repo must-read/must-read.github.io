@@ -342,7 +342,8 @@
       ],
       "targetWordCount": 9200,
       "readingTimeMinutes": 37,
-      "themes": "Follett's medieval panorama meets Jones's moral complexity. A Tudor/medieval story about a town where the social order is simultaneously rigid and rotten \u2014 and the people navigating it are neither heroes nor villains but participants in a system that benefits some and devours others. Follett brings the scope and physical detail; Jones brings the refusal to simplify."
+      "themes": "Follett's medieval panorama meets Jones's moral complexity. A Tudor/medieval story about a town where the social order is simultaneously rigid and rotten \u2014 and the people navigating it are neither heroes nor villains but participants in a system that benefits some and devours others. Follett brings the scope and physical detail; Jones brings the refusal to simplify.",
+      "used": true
     },
     {
       "id": "hf-tudor-medieval-002",

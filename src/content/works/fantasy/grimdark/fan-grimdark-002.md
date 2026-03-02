@@ -10,8 +10,8 @@ workY: "Wolf Hall"
 wordCount: 3315
 readingTimeMinutes: 13
 tags: ["grimdark", "bureaucracy", "living-city", "complicity", "political-fantasy", "weird-fantasy"]
-rating: 0
-ratingCount: 0
+rating: 3.8
+ratingCount: 8
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Miéville's weird-city maximalism meets Mantel's political intimacy in a grimdark fantasy of bureaucratic complicity in a city that is literally alive and growing wrong"

@@ -10,8 +10,8 @@ workY: "The Known World"
 wordCount: 4554
 readingTimeMinutes: 18
 tags: ["medieval", "feudalism", "complicity", "village-life", "social-order", "genre-subversion", "bridge", "serfdom", "reeve", "hierarchy"]
-rating: 0
-ratingCount: 0
+rating: 3.7
+ratingCount: 10
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Follett's architectural medieval detail meets Jones's unflinching moral complexity in a town where the social order persists through ordinary daily compromise"

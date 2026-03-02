@@ -1,7 +1,7 @@
 ---
 source: "https://bedwards.github.io/graphyard/articles/marx/altair/"
 sourceType: "web-essay"
-status: "pitch"
+status: "completed"
 priority: 2
 authorA: "George Saunders"
 authorB: "Jose Saramago"

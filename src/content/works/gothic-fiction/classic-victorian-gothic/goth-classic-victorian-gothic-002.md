@@ -10,8 +10,8 @@ workY: "Frankenstein"
 wordCount: 3015
 readingTimeMinutes: 12
 tags: ["victorian-gothic", "moors", "grief", "creation", "naturalist", "nested-narrative", "yorkshire", "rebuilt-woman"]
-rating: 0
-ratingCount: 0
+rating: 3.9
+ratingCount: 8
 publishedDate: "2026-03-02"
 status: "published"
 formulaSummary: "Brontë's elemental passion meets Shelley's horror of creation in a Victorian gothic where a naturalist investigates a figure on the moors — something assembled from thirty years of grief"
