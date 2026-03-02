@@ -7,8 +7,8 @@ authorA: "Brandon Sanderson"
 authorB: "Tana French"
 workX: "The Emperor's Soul"
 workY: "In the Woods"
-wordCount: 2531
-readingTimeMinutes: 10
+wordCount: 2215
+readingTimeMinutes: 9
 tags: ["psychic forensics", "memory loss", "Dublin", "cold case", "object reading", "systematic magic", "blind spot", "childhood trauma", "investigation", "craft"]
 rating: 0
 ratingCount: 0
@@ -75,7 +75,7 @@ She moved deeper into the room. Touched the window frame: heat distortion, paint
 
 Touched the wall above where the bed had been. Plaster, lathe underneath, horsehair binding. The wall had held a framed picture for decades — she could feel the nail, the rectangle of protected paint behind where the frame had hung. The picture had been removed before the fire.
 
-That was important. A person setting fire to their own bedroom removes the things they want to keep. Nessa photographed the nail, the clean rectangle, the pour pattern on the floor. Coughlan would have his answer: arson, owner-set, premeditated. The claim was fraudulent. Case closed, the clockwork clicking into place the way it always did, each piece of evidence fitting the next like teeth in a gear.
+That was important. A person setting fire to their own bedroom removes the things they want to keep. Nessa photographed the nail, the clean rectangle, the pour pattern on the floor. Coughlan would have his answer: arson, owner-set, premeditated. The claim was fraudulent.
 
 She was writing notes in the kitchen when the reading failed.
 
@@ -93,7 +93,7 @@ Two objects in the same house with the same gap. Not the same object refinished 
 
 And the person reading them.
 
-Nessa stood on the stairs with her hand on the oak rail and felt the specific chill that came not from cold but from a pattern forming at the edge of what she could see. She'd felt it before, she realized. Many times. She'd felt it and she'd written it down as *anomaly* and she'd moved on, because the anomalies were rare and the system worked and she had a report to file.
+Nessa stood on the stairs with her hand on the oak rail. She'd felt this before. Many times. She'd written it down as *anomaly* and moved on, because the anomalies were rare and she had a report to file.
 
 She went back to the kitchen and opened drawers until she found what she was looking for: a child's growth chart penciled on the inside of a cupboard door. The marks went from 1978 to 1982 in small, careful handwriting. A name beside each mark: *Aideen*. The marks stopped in 1982. No marks for 1983 or after. No crossing-out, no explanation.
 
@@ -105,13 +105,11 @@ She took out her notebook — the one where she recorded every anomaly she'd enc
 
 The gaps clustered. She'd never noticed, because why would she? They were in different objects, different jobs, different locations across Dublin. But the years overlapped. The same mid-eighties window, over and over, in objects that had no connection to each other except that Nessa Daly had touched them and come up empty.
 
-The anomaly wasn't in the objects. The anomaly was in her.
+She put the notebook down on Fionnuala Slattery's kitchen table. Her own handwriting. Her own professional judgment. Different objects, different locations, different years — but always the same years. And the only constant across all of them was the woman holding her palm to the surface.
 
-She put the notebook down on Fionnuala Slattery's kitchen table and looked at it the way she looked at evidence: with the systematic, trained, twelve-years-calibrated eye that was the only extraordinary thing about her. The notebook was full of entries she'd made in her own handwriting, in her own professional judgment, and the entries formed a pattern she'd been unable to see because seeing it required her to consider the possibility that her instrument was damaged. That her own history had a gap corresponding to the gap in every object she couldn't read. That something had happened to her between 1983 and 1987 — she would have been four to eight years old — and whatever it was had left a scotoma in her perception. Not darkness. Not a hole she could probe or measure. A smooth, seamless nothing that her mind papered over so completely she'd mistaken it for refinished wood.
+She would have been four to eight years old.
 
-She couldn't remember. She sat in the kitchen and tried, the way she'd try to read a surface — palm flat, held still, waiting for the thing to speak. But the thing was herself, and the surface was the inside of her own skull, and what came back was nothing. Not darkness or confusion or the struggling edge of a suppressed memory. Nothing. Smooth, warm, seamless nothing, the way skin grows over a wound and leaves no indication there was ever a wound to grow over.
-
-You can't look harder at a blind spot. Looking is the thing that's broken.
+She sat in the kitchen and tried to remember. Palm flat on the table, held still, waiting for herself the way she'd wait for wood or stone. What came back was nothing. Not darkness or confusion. Nothing, the way skin grows over a wound and leaves no scar.
 
 The house ticked and settled around her. Rain found its way through the cracked window seal upstairs — she could hear it dripping onto the burned floor, a patient, repetitive sound. Fionnuala Slattery had set fire to her own back bedroom for insurance money, and the evidence was clear and the case was solved and Nessa would write the report and Coughlan would file it and that would be that. Clean. Mechanical. Correct.
 
@@ -119,9 +117,7 @@ She picked up the notebook and put it in her bag. She photographed the growth ch
 
 She locked the house and stood for a moment in the front garden beside the skip full of charred wood. The rain had eased to a mist that hung in the air without falling, the kind that soaks you so gradually you don't notice until your shoulders are heavy with it. She could read the timbers in the skip — she could read anything in that skip, every blackened board and melted fixture — but she didn't. She'd had enough of reading for one afternoon.
 
-She drove back through traffic that thickened at the quays, the wipers working at a frequency that almost matched the ticking pipe she could still hear in her inner ear. At a red light she looked at her hands on the steering wheel. Working hands. Trained hands. The calluses she'd built over twelve years of pressing her palms to surfaces, holding still, listening with her skin. Those hands had read ten thousand objects and delivered ten thousand accurate reports, minus a margin of error she'd always attributed to material interference and now understood to be something else.
-
-She would keep working. The system functioned. Ninety-five percent of the world was available to her, legible, precise. She would touch objects and read them and write her reports and collect her fees and the reports would be accurate, as they'd always been, except in the places where they weren't.
+She drove back through traffic that thickened at the quays, the wipers working at a frequency that almost matched the ticking pipe she could still hear in her inner ear. At a red light she looked at her hands on the steering wheel. The calluses were there, the thick dead skin of twelve years of readings. Ten thousand objects. Ten thousand accurate reports, minus a margin of error she'd always attributed to material interference.
 
 The light changed. She drove. The rain did what Dublin rain does, which is persist past the point where persistence becomes a quality of the air itself rather than an event within it.
 
@@ -129,6 +125,6 @@ At her flat she put the notebook on her desk and opened it to a blank page. She 
 
 Then she wrote, smaller, in the margin: *Aideen?*
 
-She didn't know who that was. She didn't know if the name meant anything beyond a stranger's daughter measured against a cupboard door in Stoneybatter. But her hand had hesitated over it, and Nessa Daly trusted her hands, and the hesitation was a kind of data, and data was the only language she had.
+She didn't know who that was. She didn't know if the name meant anything beyond a stranger's daughter measured against a cupboard door in Stoneybatter.
 
-She closed the notebook. She didn't open it again that night. The gap remained where it had always been, which was everywhere she couldn't look, which was the one place she needed to.
+She closed the notebook and filed the Slattery report. Arson, owner-set, premeditated. The system worked. She went to bed early and slept without dreaming, which was how she always slept, which she had never thought to question.
