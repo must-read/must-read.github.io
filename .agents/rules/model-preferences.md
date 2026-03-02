@@ -9,7 +9,9 @@ Use **Claude Opus 4.6** for:
 Use **Gemini CLI** (`gemini -p`) for independent, fresh-context worker sessions:
 - Story writing, editing, reviewing — each in its own isolated context
 - Model: **`gemini-3-flash-preview`** (confirmed working)
-- Invocation: `gemini -m gemini-3-flash-preview -p '<prompt>' --output-format json`
+- Invocation: `gemini -m gemini-3-flash-preview -p '<prompt>' -o json -y`
+- **`-o json`**: Explicit JSON output (don't rely on defaults)
+- **`-y`**: YOLO mode — auto-accepts all actions, fully headless, no interactive prompts
 
 ### Model Version Policy
 - **NEVER use Gemini 2.5 or anything before version 3.** Only Gemini 3+ models.
