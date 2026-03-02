@@ -7,7 +7,7 @@ authorA: "Joseph Heller"
 authorB: "Italo Calvino"
 workX: "If on a winter's night a traveler by Italo Calvino"
 workY: "Catch-22 by Joseph Heller"
-wordCount: 1544
+wordCount: 1504
 readingTimeMinutes: 6
 tags: ["absurdist-fiction", "reverse-chronology", "bureaucratic-comedy"]
 rating: 0
@@ -25,11 +25,11 @@ combination:
 
 ## Describe the nature of your completed separation.
 
-The form requires a black pen. Lev Sobieski has a black pen — Bureau-issued, non-retractable, tethered to the desk by a chain whose length has been calculated to allow writing but not theft. It is the same chain on every desk. This is not a flaw. This is a feature. The chain length was established by Directive 19, Subsection 4, Paragraph 11, which states that a writing instrument must be accessible but not removable, as the removal of Bureau property constitutes an incomplete return, and incomplete returns generate Form 27-B, and Form 27-B can only be processed by the person filing it, who must be a current employee, which is the part Lev has trouble with because Lev is the person filing it and also the person processing it and the chain on the pen is exactly long enough to reach the signature line but not the door.
+The form requires a black pen. Lev Sobieski has a black pen — Bureau-issued, non-retractable, tethered to the desk by a chain whose length was established by Directive 19, Subsection 4, Paragraph 11, which states that a writing instrument must be accessible but not removable, as the removal of Bureau property constitutes an incomplete return, and incomplete returns generate Form 27-B, and Form 27-B can only be processed by the person filing it, who must be a current employee. This is the part Lev has trouble with. Lev is the person filing it and also the person processing it. The chain on the pen is exactly long enough to reach the signature line but not the exit. It is the same chain on every desk. This is not a flaw. This is a feature.
 
-Lev has been Senior Processing Clerk for some time. The exact duration is recorded on a different form, in a different office, inside a cabinet that requires a key that is issued upon separation, meaning you can learn how long you've worked here only after you stop, and you cannot stop until you complete Form 27-B, which asks, among other things: *What was the nature of your original request?*
+Lev has been Senior Processing Clerk for some time. The exact duration is recorded on a different form, in a different office, inside a cabinet that requires a key issued upon separation — meaning you can learn how long you've worked here only after you stop, and you cannot stop until you complete Form 27-B, which asks, among other things: *What was the nature of your original request?*
 
-Lev leaves the box blank. Not out of defiance — Lev is not a defiant person — but because the answer is gone. It was here once. It had something to do with an outdoor activity. Or a permit. The memory has the shape of something specific and none of the content, like a form with all the fields labeled and nothing filled in.
+Lev leaves the box blank. Not out of defiance — Lev is not a defiant person — but because the answer is gone. It was here once. It had something to do with an outdoor activity. Or a permit. The memory has the shape of something specific and none of the content.
 
 The form is rejected. Box 7 is incomplete. An incomplete Form 27-B generates a new Form 27-B.
 
@@ -55,7 +55,7 @@ The woman across the counter is holding a number — 4,081 — and she has been 
 
 "I cannot file it for you. I can only process forms filed by the applicant. But the applicant must be a Bureau employee. Would you like to become a Bureau employee?"
 
-The woman stares at Lev. Lev recognizes the stare. It is the stare of a person doing arithmetic that doesn't resolve.
+The woman stares at Lev. It is the stare of a person doing arithmetic that will not come out even.
 
 "No," the woman says.
 
@@ -99,7 +99,7 @@ Lev returns to check on the request. It has been — Lev counts — eleven visit
 
 "Window six processes incoming requests on calendar days and routes outgoing requests on processing days. Today is an administrative day. On administrative days, window six is a mirror."
 
-Lev looks at window six. It is, in fact, a mirror. Lev sees a person holding a number and wearing an expression of someone who has been told something that is simultaneously true and useless.
+Lev looks at window six. It is, in fact, a mirror. Lev sees a person holding a number and wearing an expression that is technically calm.
 
 "Would you like to help me look for it?" the clerk asks. "I could use another pair of hands. The filing system is organized alphabetically by date."
 
@@ -109,7 +109,7 @@ Lev looks at window six. It is, in fact, a mirror. Lev sees a person holding a n
 
 Lev agrees to help. Helping is a kind thing to do. Lev is a kind person. Lev opens a drawer labeled NOVEMBER and finds it full of forms from March, which is correct, because March comes before May, which comes before Monday, which is not a month but is filed here anyway because the Bureau does not distinguish between units of time that begin with the letter M.
 
-At the end of the day — the administrative day, which lasts until the calendar day disagrees — the clerk thanks Lev for volunteering and notes the volunteer hours on a new form. The form is titled RECORD OF VOLUNTARY ASSUMPTION OF DUTIES. There is no box for objections.
+At the end of the administrative day — which lasts until the calendar day disagrees — the clerk thanks Lev for volunteering and notes the volunteer hours on a new form. The form is titled RECORD OF VOLUNTARY ASSUMPTION OF DUTIES. There is no box for objections.
 
 ---
 
@@ -117,7 +117,7 @@ At the end of the day — the administrative day, which lasts until the calendar
 
 Lev fills out the form. It is a simple form — one page, twelve boxes, a signature line at the bottom. The box labeled PURPOSE OF REQUEST has room for three lines. Lev writes: *Permit to keep bees.*
 
-The clerk stamps the form. Not with a rubber stamp — the Bureau eliminated rubber stamps in favor of a more permanent adhesive seal that binds the document to the file folder at a molecular level, making it impossible to remove the form without destroying it, which is the Bureau's way of saying: what you have submitted is now ours.
+The clerk stamps the form. Not with a rubber stamp — the Bureau eliminated rubber stamps in favor of a more permanent adhesive seal that binds the document to the file folder at a molecular level, making it impossible to remove the form without destroying it, which is the Bureau's way of saying: what you have submitted is now ours, and what is ours cannot be returned.
 
 "Processing time?" Lev asks.
 
@@ -135,8 +135,8 @@ Lev leaves the Bureau. The fluorescent light follows Lev to the door and stops, 
 
 A building on a street that gets sun in the morning. Lev is standing on the sidewalk with a piece of paper that says BUREAU OF INCOMPLETE REQUESTS and an address. Below the address, in Lev's own handwriting: *Ask about the bee permit.*
 
-It's a Tuesday. Lev knows this because Tuesdays have a specific quality — unhurried, slightly warm, the kind of day when small errands feel possible. There is a bakery across the street selling something with poppy seeds. There is a dog tied to a meter, patient and disinterested, as dogs are when they trust that the person who left them is coming back.
+It's a Tuesday. Lev knows this because Tuesdays have a specific quality — unhurried, slightly warm, the kind of day when small errands feel possible. There is a bakery across the street selling something with poppy seeds. There is a dog tied to a meter, waiting the way dogs wait, without suspicion.
 
-Lev has not yet entered the building. The door is glass. Through it, Lev can see a counter, a number dispenser, a row of plastic chairs. It is the most ordinary room in the world. The fluorescent lights are on, which means the office is open, which means someone is inside who can answer a simple question about bees. The question is not urgent. Lev has been thinking about bees for a few months, in the idle way a person thinks about something they might like to try. There is a yard. There is time. There are flowers along the fence that nobody planted and nobody tends and that come back every year regardless.
+Lev has not yet entered the building. The door is glass. Through it, Lev can see a counter, a number dispenser, a row of plastic chairs. It is the most ordinary room in the world. The fluorescent lights are on, which means the office is open, which means someone inside can answer a simple question about bees. The question is not urgent. Lev has been thinking about bees for a few months, in the idle way a person thinks about something they might like to try. There is a yard. There is time. There are flowers along the fence that nobody planted and nobody tends and that come back every year regardless.
 
 Lev folds the piece of paper and puts it in a shirt pocket. Reaches for the door.
